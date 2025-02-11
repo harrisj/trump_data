@@ -1,0 +1,24 @@
+[project]
+name = "exec_order_lawsuits"
+version = "0.1.0"
+package-mode = false
+description = "A collection of manually curated data as well as automated scripts for collecting small datasets related to the Trump regime"
+authors = [
+    {name = "Your Name",email = "you@example.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pydantic (>=2.10.6,<3.0.0)",
+    "requests (>=2.32.3,<3.0.0)",
+    "beautifulsoup4 (>=4.13.3,<5.0.0)",
+    "dateparser (>=1.2.1,<2.0.0)"
+]
+
+[tool.poetry]
+package-mode = false
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.4"
+black = "^25.1.0"
+
