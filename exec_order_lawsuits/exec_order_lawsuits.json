@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-02-11",
+  "last_updated": "2025-02-12",
   "categories": [
     {
       "title": "Immigration and Citizenship",
@@ -362,38 +362,6 @@
       "title": "Immigration and Citizenship",
       "exec_actions": [
         {
-          "title": "Proclamation Prohibiting Non-Citizens from Invoking Asylum Provisions” (Proclamation 10888)",
-          "links": [
-            {
-              "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01951/guaranteeing-the-states-protection-against-invasion",
-              "title": "Proclamation 10888"
-            }
-          ],
-          "cases": [
-            {
-              "case_name": "Refugee and Immigrant Center for Education and Legal Services v. Noem (D.D.C.) Case No. 1:25-cv-00306",
-              "case_link": {
-                "url": "https://www.courtlistener.com/docket/69606027/refugee-and-immigrant-center-for-education-and-legal-services-v-noem/",
-                "title": "Refugee and Immigrant Center for Education and Legal Services v. Noem"
-              },
-              "complaint_link_text": "Complaint",
-              "complaint_link": {
-                "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.277039/gov.uscourts.dcd.277039.1.0_2.pdf",
-                "title": "Complaint"
-              },
-              "date_filed": "2025-02-03",
-              "case_summary": "Trump’s proclamation bars immigrants who arrive after the date of the proclamation from invoking provisions of the Immigration and Nationality Act that would permit them to remain in the United States while pursuing asylum claims. The plaintiffs, three nonprofit organizations in Texas and Arizona providing legal services and assistance to undocumented individuals or asylum seekers, argue that the order violates the following statutory and constitutional provisions:\n1. the Asylum Statute in the INA, 8 U.S.C. § 1158(a)(1) (by barring noncitizens from applying for asylum in direct contradiction to congressional protections);\n2. the Withholding of Removal Statute, 8 U.S.C. § 1231(b)(3) (by preventing noncitizens from seeking protection from persecution based on race, religion, nationality, membership in a particular social group, or political opinion);\n3. the Foreign Affairs Reform and Restructuring Act (FARRA), 8 U.S.C. § 1231, and the Convention Against Torture (CAT) (by depriving noncitizens of a meaningful opportunity to present CAT claims and shielding them from potential torture);\n4. the Trafficking Victims Protection Reauthorization Act (TVPRA), 8 U.S.C. § 1232(a)(5)(D) (by denying unaccompanied children from non-contiguous countries their statutory right to regular removal proceedings);\n5. the INA’s procedural protections for removal, 8 U.S.C. §§ 1101, 1229a, 1225(b) (by overriding mandated removal proceedings and eliminating procedural protections, including credible fear screenings);\n6. the Administrative Procedure Act (APA), 5 U.S.C. § 706(2)(A) (by implementing policies that are arbitrary, capricious, and contrary to law) and § 706(2)(D) (by failing to follow the required rulemaking process before enacting sweeping changes to statutory protections); and \n7. the constitutional separation of powers (by exceeding presidential authority and unlawfully overriding congressionally enacted immigration protections).\nThe Plaintiffs seek a declaratory judgment that the proclamation is unlawful and an injunction stopping its implementation.",
-              "case_summary_html": "Trump’s proclamation bars immigrants who arrive after the date of the proclamation from invoking provisions of the Immigration and Nationality Act that would permit them to remain in the United States while pursuing asylum claims. The plaintiffs, three nonprofit organizations in Texas and Arizona providing legal services and assistance to undocumented individuals or asylum seekers, argue that the order violates the following statutory and constitutional provisions:<br/><br>\n1. the Asylum Statute in the INA, 8 U.S.C. § 1158(a)(1) (by barring noncitizens from applying for asylum in direct contradiction to congressional protections);<br/><br>\n2. the Withholding of Removal Statute, 8 U.S.C. § 1231(b)(3) (by preventing noncitizens from seeking protection from persecution based on race, religion, nationality, membership in a particular social group, or political opinion);<br/><br>\n3. the Foreign Affairs Reform and Restructuring Act (FARRA), 8 U.S.C. § 1231, and the Convention Against Torture (CAT) (by depriving noncitizens of a meaningful opportunity to present CAT claims and shielding them from potential torture);<br/><br>\n4. the Trafficking Victims Protection Reauthorization Act (TVPRA), 8 U.S.C. § 1232(a)(5)(D) (by denying unaccompanied children from non-contiguous countries their statutory right to regular removal proceedings);<br/><br>\n5. the INA’s procedural protections for removal, 8 U.S.C. §§ 1101, 1229a, 1225(b) (by overriding mandated removal proceedings and eliminating procedural protections, including credible fear screenings);<br/><br>\n6. the Administrative Procedure Act (APA), 5 U.S.C. § 706(2)(A) (by implementing policies that are arbitrary, capricious, and contrary to law) and § 706(2)(D) (by failing to follow the required rulemaking process before enacting sweeping changes to statutory protections); and <br/><br>\n7. the constitutional separation of powers (by exceeding presidential authority and unlawfully overriding congressionally enacted immigration protections).<br/><br>\nThe Plaintiffs seek a declaratory judgment that the proclamation is unlawful and an injunction stopping its implementation.</br></br></br></br></br></br></br></br>",
-              "last_update": "2025-02-04"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Immigration and Citizenship",
-      "exec_actions": [
-        {
           "title": "Immigration Policy – Discontinuation of CBP One app (Executive Order 14165)",
           "links": [
             {
@@ -458,6 +426,38 @@
       "title": "Immigration and Citizenship",
       "exec_actions": [
         {
+          "title": "Proclamation Prohibiting Non-Citizens from Invoking Asylum Provisions” (Proclamation 10888)",
+          "links": [
+            {
+              "url": "https://www.federalregister.gov/documents/2025/01/29/2025-01951/guaranteeing-the-states-protection-against-invasion",
+              "title": "Proclamation 10888"
+            }
+          ],
+          "cases": [
+            {
+              "case_name": "Refugee and Immigrant Center for Education and Legal Services v. Noem (D.D.C.) Case No. 1:25-cv-00306",
+              "case_link": {
+                "url": "https://www.courtlistener.com/docket/69606027/refugee-and-immigrant-center-for-education-and-legal-services-v-noem/",
+                "title": "Refugee and Immigrant Center for Education and Legal Services v. Noem"
+              },
+              "complaint_link_text": "Complaint",
+              "complaint_link": {
+                "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.277039/gov.uscourts.dcd.277039.1.0_2.pdf",
+                "title": "Complaint"
+              },
+              "date_filed": "2025-02-03",
+              "case_summary": "Trump’s proclamation bars immigrants who arrive after the date of the proclamation from invoking provisions of the Immigration and Nationality Act that would permit them to remain in the United States while pursuing asylum claims. The plaintiffs, three nonprofit organizations in Texas and Arizona providing legal services and assistance to undocumented individuals or asylum seekers, argue that the order violates the following statutory and constitutional provisions:\n1. the Asylum Statute in the INA, 8 U.S.C. § 1158(a)(1) (by barring noncitizens from applying for asylum in direct contradiction to congressional protections);\n2. the Withholding of Removal Statute, 8 U.S.C. § 1231(b)(3) (by preventing noncitizens from seeking protection from persecution based on race, religion, nationality, membership in a particular social group, or political opinion);\n3. the Foreign Affairs Reform and Restructuring Act (FARRA), 8 U.S.C. § 1231, and the Convention Against Torture (CAT) (by depriving noncitizens of a meaningful opportunity to present CAT claims and shielding them from potential torture);\n4. the Trafficking Victims Protection Reauthorization Act (TVPRA), 8 U.S.C. § 1232(a)(5)(D) (by denying unaccompanied children from non-contiguous countries their statutory right to regular removal proceedings);\n5. the INA’s procedural protections for removal, 8 U.S.C. §§ 1101, 1229a, 1225(b) (by overriding mandated removal proceedings and eliminating procedural protections, including credible fear screenings);\n6. the Administrative Procedure Act (APA), 5 U.S.C. § 706(2)(A) (by implementing policies that are arbitrary, capricious, and contrary to law) and § 706(2)(D) (by failing to follow the required rulemaking process before enacting sweeping changes to statutory protections); and \n7. the constitutional separation of powers (by exceeding presidential authority and unlawfully overriding congressionally enacted immigration protections).\nThe Plaintiffs seek a declaratory judgment that the proclamation is unlawful and an injunction stopping its implementation.",
+              "case_summary_html": "Trump’s proclamation bars immigrants who arrive after the date of the proclamation from invoking provisions of the Immigration and Nationality Act that would permit them to remain in the United States while pursuing asylum claims. The plaintiffs, three nonprofit organizations in Texas and Arizona providing legal services and assistance to undocumented individuals or asylum seekers, argue that the order violates the following statutory and constitutional provisions:<br/><br>\n1. the Asylum Statute in the INA, 8 U.S.C. § 1158(a)(1) (by barring noncitizens from applying for asylum in direct contradiction to congressional protections);<br/><br>\n2. the Withholding of Removal Statute, 8 U.S.C. § 1231(b)(3) (by preventing noncitizens from seeking protection from persecution based on race, religion, nationality, membership in a particular social group, or political opinion);<br/><br>\n3. the Foreign Affairs Reform and Restructuring Act (FARRA), 8 U.S.C. § 1231, and the Convention Against Torture (CAT) (by depriving noncitizens of a meaningful opportunity to present CAT claims and shielding them from potential torture);<br/><br>\n4. the Trafficking Victims Protection Reauthorization Act (TVPRA), 8 U.S.C. § 1232(a)(5)(D) (by denying unaccompanied children from non-contiguous countries their statutory right to regular removal proceedings);<br/><br>\n5. the INA’s procedural protections for removal, 8 U.S.C. §§ 1101, 1229a, 1225(b) (by overriding mandated removal proceedings and eliminating procedural protections, including credible fear screenings);<br/><br>\n6. the Administrative Procedure Act (APA), 5 U.S.C. § 706(2)(A) (by implementing policies that are arbitrary, capricious, and contrary to law) and § 706(2)(D) (by failing to follow the required rulemaking process before enacting sweeping changes to statutory protections); and <br/><br>\n7. the constitutional separation of powers (by exceeding presidential authority and unlawfully overriding congressionally enacted immigration protections).<br/><br>\nThe Plaintiffs seek a declaratory judgment that the proclamation is unlawful and an injunction stopping its implementation.</br></br></br></br></br></br></br></br>",
+              "last_update": "2025-02-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Immigration and Citizenship",
+      "exec_actions": [
+        {
           "title": "Migrant Transfers to Guantanamo (Presidential Memorandum)",
           "links": [
             {
@@ -513,38 +513,6 @@
               "case_summary": "On Jan. 20, 2025, President Trump issued an executive order indefinitely suspending refugee admissions and processing. The State Department issued a Jan. 24 notice suspending federal funding for resettlement programs. Ten plaintiffs — individual refugees, U.S. citizens, and resettlement organizations (HIAS, Church World Service, and Lutheran Community Services Northwest) — filed a proposed class action seeking injunctions to block implementation of the orders, declaratory judgments that the actions are unlawful, maintenance of refugee processing and resettlement services consistent with the status quo, and confirmation of compliance with such remedies if granted. The lawsuit alleges that the orders have left approved refugees stranded internationally, denied recent arrivals statutorily-mandated support services, and forced layoffs at resettlement institutions. \nThe complaint asserts that the executive orders violate the Refugee Act’s comprehensive statutory scheme for refugee policy, are arbitrary and capricious under the Administrative Procedure Act for circumventing notice-and-comment requirements and failing to establish a reasoned basis for the change in policy, and breach agency regulations at 8 C.F.R. § 207.7 governing the Follow-to-Join process in violation of the Accardi doctrine requiring government officials to follow the agency’s own rules and procedures. The lawsuit further argues that the orders violate the Fifth Amendment due process rights of U.S. citizens petitioning for family reunification, and violate fundamental separation of powers principles by attempting to redistribute or withhold congressionally appropriated funds to achieve policy objectives.",
               "case_summary_html": "On Jan. 20, 2025, President Trump issued an executive order indefinitely suspending refugee admissions and processing. The State Department issued a Jan. 24 notice suspending federal funding for resettlement programs. Ten plaintiffs — individual refugees, U.S. citizens, and resettlement organizations (HIAS, Church World Service, and Lutheran Community Services Northwest) — filed a proposed class action seeking injunctions to block implementation of the orders, declaratory judgments that the actions are unlawful, maintenance of refugee processing and resettlement services consistent with the status quo, and confirmation of compliance with such remedies if granted. The lawsuit alleges that the orders have left approved refugees stranded internationally, denied recent arrivals statutorily-mandated support services, and forced layoffs at resettlement institutions. <br/>\nThe complaint asserts that the executive orders violate the Refugee Act’s comprehensive statutory scheme for refugee policy, are arbitrary and capricious under the Administrative Procedure Act for circumventing notice-and-comment requirements and failing to establish a reasoned basis for the change in policy, and breach agency regulations at 8 C.F.R. § 207.7 governing the Follow-to-Join process in violation of the Accardi doctrine requiring government officials to follow the agency’s own rules and procedures. The lawsuit further argues that the orders violate the Fifth Amendment due process rights of U.S. citizens petitioning for family reunification, and violate fundamental separation of powers principles by attempting to redistribute or withhold congressionally appropriated funds to achieve policy objectives.",
               "last_update": "2025-02-10"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Immigration and Citizenship",
-      "exec_actions": [
-        {
-          "title": "Directive Expanding Law Enforcement (Statement from a DHS Spokesperson)",
-          "links": [
-            {
-              "url": "https://www.dhs.gov/news/2025/01/21/statement-dhs-spokesperson-directives-expanding-law-enforcement-and-ending-abuse",
-              "title": "Statement from a DHS Spokesperson"
-            }
-          ],
-          "cases": [
-            {
-              "case_name": "Mennonite Church USA et al. v. United States Department of Homeland Security et al (D.D.C.) Case No. 1:25-cv-00403",
-              "case_link": {
-                "url": "https://www.courtlistener.com/docket/69626101/pacito-v-trump/",
-                "title": "Mennonite Church USA et al. v. United States Department of Homeland Security et al"
-              },
-              "complaint_link_text": "Complaint",
-              "complaint_link": {
-                "url": "https://www.courtlistener.com/docket/69628285/mennonite-church-usa-v-us-department-of-homeland-security/",
-                "title": "Complaint"
-              },
-              "date_filed": "2025-02-11",
-              "case_summary": "On January 20, 2025 the DHS issued a directive rescinding the Biden Administration’s guidelines for ICE and CBP enforcement actions that restricted law enforcement in or near “sensitive” areas, such as places of worship, schools, and hospitals. Over two dozen Christian and Jewish religious denominations and associations sued for a preliminary and permanent injunction prohibiting DHS from effectuating the directive. The complaint asserts that DHS’s authorization of immigration enforcement action at plaintiffs’ places of worship in the absence of exigent circumstances or a judicial warrant violates their rights under the Religious Freedom Restoration Act (RFRA) and the First Amendment. In addition, the complaint alleges that DHS’s manner of recission of the “sensitive locations policy” violates legal constraints on agency action.",
-              "case_summary_html": "On January 20, 2025 the DHS issued a directive rescinding the Biden Administration’s guidelines for ICE and CBP enforcement actions that restricted law enforcement in or near “sensitive” areas, such as places of worship, schools, and hospitals. Over two dozen Christian and Jewish religious denominations and associations sued for a preliminary and permanent injunction prohibiting DHS from effectuating the directive. The complaint asserts that DHS’s authorization of immigration enforcement action at plaintiffs’ places of worship in the absence of exigent circumstances or a judicial warrant violates their rights under the Religious Freedom Restoration Act (RFRA) and the First Amendment. In addition, the complaint alleges that DHS’s manner of recission of the “sensitive locations policy” violates legal constraints on agency action.",
-              "last_update": "2025-02-11"
             }
           ]
         }
@@ -852,9 +820,9 @@
                 "title": "Complaint"
               },
               "date_filed": "2025-02-03",
-              "case_summary": "The Treasury Department granted DOGE-affiliated individuals access to sensitive personal and financial information maintained by the Treasury Department. The plaintiffs sued on behalf of members whose records may have been transmitted from the Treasury Department to DOGE employees, thus allegedly depriving the members of privacy. The lawsuit seeks an injunction and declaratory relief, as well as a temporary restraining order, for alleged violations of the Administrative Procedure Act and actions in excess of legal authority under the Privacy Act.\n\nUpdate 1: On Feb. 6, 2025, the parties in the suit mutually proposed an order that Judge Colleen Kollar-Kotelly adopted. It limits access to Treasury Department payment records and systems to two (Musk-affiliated) Special Government Employees in the Department (“read-only” access), other employees who need to access the record to perform their duties, or individuals who are already entitled to access the records under statute.",
-              "case_summary_html": "The Treasury Department granted DOGE-affiliated individuals access to sensitive personal and financial information maintained by the Treasury Department. The plaintiffs sued on behalf of members whose records may have been transmitted from the Treasury Department to DOGE employees, thus allegedly depriving the members of privacy. The lawsuit seeks an injunction and declaratory relief, as well as a <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.8.0_1.pdf\" target=\"_blank\">temporary restraining order</a>, for alleged violations of the Administrative Procedure Act and actions in excess of legal authority under the Privacy Act.<br/>\n<br/>\n<strong>Update 1:</strong> On Feb. 6, 2025, the parties in the suit mutually proposed an <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.13.0.pdf\">order</a> that Judge Colleen Kollar-Kotelly adopted. It limits access to Treasury Department payment records and systems to two (Musk-affiliated) Special Government Employees in the Department (“read-only” access), other employees who need to access the record to perform their duties, or individuals who are already entitled to access the records under statute.",
-              "last_update": "2025-02-05"
+              "case_summary": "The complaint alleges that the Treasury Department granted DOGE-affiliated individuals access to sensitive personal and financial information maintained by the Treasury Department. The plaintiffs sued on behalf of members whose records may have been transmitted from the Treasury Department to DOGE employees, thus allegedly depriving the members of privacy. The lawsuit seeks an injunction and declaratory relief, as well as a temporary restraining order, for alleged violations of the Administrative Procedure Act and actions in excess of legal authority under the Privacy Act.\n\nUpdate 1: On Feb. 6, 2025, the parties in the suit mutually proposed an order that Judge Colleen Kollar-Kotelly adopted. It limits access to Treasury Department payment records and systems to two (Musk-affiliated) Special Government Employees in the Department (“read-only” access), other employees who need to access the record to perform their duties, or individuals who are already entitled to access the records under statute.",
+              "case_summary_html": "The complaint alleges that the Treasury Department granted DOGE-affiliated individuals access to sensitive personal and financial information maintained by the Treasury Department. The plaintiffs sued on behalf of members whose records may have been transmitted from the Treasury Department to DOGE employees, thus allegedly depriving the members of privacy. The lawsuit seeks an injunction and declaratory relief, as well as a <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.8.0_1.pdf\" target=\"_blank\">temporary restraining order</a>, for alleged violations of the Administrative Procedure Act and actions in excess of legal authority under the Privacy Act.<br/>\n<br/>\n<strong>Update 1:</strong> On Feb. 6, 2025, the parties in the suit mutually proposed an <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.13.0.pdf\">order</a> that Judge Colleen Kollar-Kotelly adopted. It limits access to Treasury Department payment records and systems to two (Musk-affiliated) Special Government Employees in the Department (“read-only” access), other employees who need to access the record to perform their duties, or individuals who are already entitled to access the records under statute.",
+              "last_update": "2025-02-11"
             }
           ]
         }
@@ -879,9 +847,9 @@
                 "title": "Complaint"
               },
               "date_filed": "2025-02-07",
-              "case_summary": "The Treasury Department granted DOGE-affiliated individuals access to sensitive personal and financial information maintained by the Treasury Department. The plaintiffs, attorneys general of 19 states, sued on the ground that the policy of giving expanded access to political appointees and “special government employees” to Treasury’s Bureau of Fiscal Services violated the Administrative Procedure Act (APA). The plaintiffs claim the policy violates the APA by exceeding authority conferred by statute for the unauthorized purpose of impeding payments and accessing private information; for failure to conduct a privacy impact statement; for violation of the Privacy Act; and for violating ethics statutes on conflicts of interest. The plaintiffs also assert the policy usurps congressional authority and is ultra virus.\nThe plaintiffs requested an emergency temporary restraining order, as well as preliminary and permanent injunction to bar access to political appointees, special government employees, and government employees detailed from other agencies as well as to any person who has not received a background check, security clearance, and information security training.\n\nUpdate 1: The case is before Judge Jeannette A. Vargas. On Feb. 8, 2025, after midnight, Judge Paul A. Engelmayer issued an emergency temporary restraining order until Judge Vargas holds a hearing on Feb. 14. Judge Engelmayer’s order prohibits access to the Treasury Department’s systems and also requires prohibited persons to immediately destroy any material already downloaded from the Treasury Department’s systems.",
-              "case_summary_html": "The Treasury Department granted DOGE-affiliated individuals access to sensitive personal and financial information maintained by the Treasury Department. The plaintiffs, attorneys general of 19 states, sued on the ground that the policy of giving expanded access to political appointees and “special government employees” to Treasury’s Bureau of Fiscal Services violated the Administrative Procedure Act (APA). The plaintiffs claim the policy violates the APA by exceeding authority conferred by statute for the unauthorized purpose of impeding payments and accessing private information; for failure to conduct a privacy impact statement; for violation of the Privacy Act; and for violating ethics statutes on conflicts of interest. The plaintiffs also assert the policy usurps congressional authority and is ultra virus.<br/>\nThe plaintiffs requested an emergency temporary restraining order, as well as preliminary and permanent injunction to bar access to political appointees, special government employees, and government employees detailed from other agencies as well as to any person who has not received a background check, security clearance, and information security training.<br/>\n<br/>\n<strong>Update 1: </strong>The case is before Judge Jeannette A. Vargas. On Feb. 8, 2025, after midnight, Judge Paul A. Engelmayer issued an <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.nysd.636609/gov.uscourts.nysd.636609.6.0.pdf\">emergency temporary restraining order</a> until Judge Vargas holds a hearing on Feb. 14. Judge Engelmayer’s order prohibits access to the Treasury Department’s systems and also requires prohibited persons to immediately destroy any material already downloaded from the Treasury Department’s systems.",
-              "last_update": "2025-02-08"
+              "case_summary": "The complaint alleges that the Treasury Department granted DOGE-affiliated individuals access to sensitive personal and financial information maintained by the Treasury Department. The plaintiffs, attorneys general of 19 states, sued on the ground that the policy of giving expanded access to political appointees and “special government employees” to Treasury’s Bureau of Fiscal Services violated the Administrative Procedure Act (APA). The plaintiffs claim the policy violates the APA by exceeding authority conferred by statute for the unauthorized purpose of impeding payments and accessing private information; for failure to conduct a privacy impact statement; for violation of the Privacy Act; and for violating ethics statutes on conflicts of interest. The plaintiffs also assert the policy usurps congressional authority and is ultra virus.\nThe plaintiffs requested an emergency temporary restraining order, as well as preliminary and permanent injunction to bar access to political appointees, special government employees, and government employees detailed from other agencies as well as to any person who has not received a background check, security clearance, and information security training.\n\nUpdate 1: The case is before Judge Jeannette A. Vargas. On Feb. 8, 2025, after midnight, Judge Paul A. Engelmayer issued an emergency temporary restraining order until Judge Vargas holds a hearing on Feb. 14. Judge Engelmayer’s order prohibits access to the Treasury Department’s systems and also requires prohibited persons to immediately destroy any material already downloaded from the Treasury Department’s systems.",
+              "case_summary_html": "The complaint alleges that the Treasury Department granted DOGE-affiliated individuals access to sensitive personal and financial information maintained by the Treasury Department. The plaintiffs, attorneys general of 19 states, sued on the ground that the policy of giving expanded access to political appointees and “special government employees” to Treasury’s Bureau of Fiscal Services violated the Administrative Procedure Act (APA). The plaintiffs claim the policy violates the APA by exceeding authority conferred by statute for the unauthorized purpose of impeding payments and accessing private information; for failure to conduct a privacy impact statement; for violation of the Privacy Act; and for violating ethics statutes on conflicts of interest. The plaintiffs also assert the policy usurps congressional authority and is ultra virus.<br/>\nThe plaintiffs requested an emergency temporary restraining order, as well as preliminary and permanent injunction to bar access to political appointees, special government employees, and government employees detailed from other agencies as well as to any person who has not received a background check, security clearance, and information security training.<br/>\n<br/>\n<strong>Update 1: </strong>The case is before Judge Jeannette A. Vargas. On Feb. 8, 2025, after midnight, Judge Paul A. Engelmayer issued an <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.nysd.636609/gov.uscourts.nysd.636609.6.0.pdf\">emergency temporary restraining order</a> until Judge Vargas holds a hearing on Feb. 14. Judge Engelmayer’s order prohibits access to the Treasury Department’s systems and also requires prohibited persons to immediately destroy any material already downloaded from the Treasury Department’s systems.",
+              "last_update": "2025-02-11"
             }
           ]
         }
@@ -987,9 +955,63 @@
                 "title": "Complaint"
               },
               "date_filed": "2025-02-10",
-              "case_summary": "The Treasury Department, Office of Personnel Management, and Department of Education have provided DOGE “special government employees” with access to information systems that contain records of private citizens' sensitive personal information (including Social Security numbers, financial records, and more). Plaintiffs sued, arguing DOGE access is unlawful under the Administrative Procedure Act as (1) not in accordance with the Privacy Act; (2) an arbitrary and capricious abuse of discretion; and (3) in excess of statutory authority. They seek a declaratory judgment that disclosing records to DOGE is unlawful and temporary, preliminary, or permanent injunctive relief to bar defendants from allowing DOGE to access sensitive information; ensure there is no further unauthorized disclosure; ensure records improperly disseminated are retrieved or destroyed; and ensure future disclosures will only occur in accordance with the Privacy Act.",
-              "case_summary_html": "The Treasury Department, Office of Personnel Management, and Department of Education have provided DOGE “special government employees” with access to information systems that contain records of private citizens' sensitive personal information (including Social Security numbers, financial records, and more). Plaintiffs sued, arguing DOGE access is unlawful under the Administrative Procedure Act as (1) not in accordance with the Privacy Act; (2) an arbitrary and capricious abuse of discretion; and (3) in excess of statutory authority. They seek a declaratory judgment that disclosing records to DOGE is unlawful and temporary, preliminary, or permanent injunctive relief to bar defendants from allowing DOGE to access sensitive information; ensure there is no further unauthorized disclosure; ensure records improperly disseminated are retrieved or destroyed; and ensure future disclosures will only occur in accordance with the Privacy Act.",
-              "last_update": "2025-02-10"
+              "case_summary": "The complaint alleges that the Treasury Department, Office of Personnel Management, and Department of Education have provided DOGE “special government employees” with access to information systems that contain records of private citizens' sensitive personal information (including Social Security numbers, financial records, and more). Plaintiffs sued, arguing DOGE access is unlawful under the Administrative Procedure Act as (1) not in accordance with the Privacy Act; (2) an arbitrary and capricious abuse of discretion; and (3) in excess of statutory authority. They seek a declaratory judgment that disclosing records to DOGE is unlawful and temporary, preliminary, or permanent injunctive relief to bar defendants from allowing DOGE to access sensitive information; ensure there is no further unauthorized disclosure; ensure records improperly disseminated are retrieved or destroyed; and ensure future disclosures will only occur in accordance with the Privacy Act.",
+              "case_summary_html": "The complaint alleges that the Treasury Department, Office of Personnel Management, and Department of Education have provided DOGE “special government employees” with access to information systems that contain records of private citizens' sensitive personal information (including Social Security numbers, financial records, and more). Plaintiffs sued, arguing DOGE access is unlawful under the Administrative Procedure Act as (1) not in accordance with the Privacy Act; (2) an arbitrary and capricious abuse of discretion; and (3) in excess of statutory authority. They seek a declaratory judgment that disclosing records to DOGE is unlawful and temporary, preliminary, or permanent injunctive relief to bar defendants from allowing DOGE to access sensitive information; ensure there is no further unauthorized disclosure; ensure records improperly disseminated are retrieved or destroyed; and ensure future disclosures will only occur in accordance with the Privacy Act.",
+              "last_update": "2025-02-11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Structure of Government/Personnel",
+      "exec_actions": [
+        {
+          "title": "Disclosure of personal and financial records to DOGE",
+          "links": [],
+          "cases": [
+            {
+              "case_name": "Electronic Privacy Information Center  v. U.S. Office of Personnel Management (E.D.V.A.) Case No. 1:25-cv-00255",
+              "case_link": {
+                "url": "https://www.courtlistener.com/docket/69627950/electronic-privacy-information-center-v-us-office-of-personnel/?utm_source=www.courtwatch.news&utm_medium=referral&utm_campaign=lawsuits-related-to-trump-admin-actions",
+                "title": "Electronic Privacy Information Center  v. U.S. Office of Personnel Management"
+              },
+              "complaint_link_text": "Complaint",
+              "complaint_link": {
+                "url": "https://storage.courtlistener.com/recap/gov.uscourts.vaed.568472/gov.uscourts.vaed.568472.1.0_1.pdf",
+                "title": "Complaint"
+              },
+              "date_filed": "2025-02-10",
+              "case_summary": "The complaint alleges that the Treasury Department granted DOGE-affiliated individuals access to sensitive personal and financial information maintained by the Treasury Department. The plaintiffs, Electronic Privacy Information Center (EPIC) and Doe 1 (a federal employee), sued, claiming that the transmission of these records violated the plaintiffs’ right to privacy and puts plaintiffs at risk of identity theft and financial crimes. Plaintiffs also argue that the transmission of these records was not compliant with the Federal Information Security Modernization Act (FISMA) and other privacy and security requirements. The lawsuit seeks injunctive and declaratory relief curing the release of information and halting further sharing by OPM and Treasury, alleging violations of the Administrative Procedure Act, Privacy Act, the Fifth Amendment, 26 U.S.C. § 6103, and actions beyond the scope of authority—primarily by the DOGE defendants. Doe 1 also seeks an award of statutory and punitive damages. ",
+              "case_summary_html": "The complaint alleges that the Treasury Department granted DOGE-affiliated individuals access to sensitive personal and financial information maintained by the Treasury Department. The plaintiffs, Electronic Privacy Information Center (EPIC) and Doe 1 (a federal employee), sued, claiming that the transmission of these records violated the plaintiffs’ right to privacy and puts plaintiffs at risk of identity theft and financial crimes. Plaintiffs also argue that the transmission of these records was not compliant with the Federal Information Security Modernization Act (FISMA) and other privacy and security requirements. The lawsuit seeks injunctive and declaratory relief curing the release of information and halting further sharing by OPM and Treasury, alleging violations of the Administrative Procedure Act, Privacy Act, the Fifth Amendment, 26 U.S.C. § 6103, and actions beyond the scope of authority—primarily by the DOGE defendants. Doe 1 also seeks an award of statutory and punitive damages. ",
+              "last_update": "2025-02-11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Structure of Government/Personnel",
+      "exec_actions": [
+        {
+          "title": "Disclosure of personal and financial records to DOGE",
+          "links": [],
+          "cases": [
+            {
+              "case_name": "American Federation of Government Employees, et al. v. Office of Personnel Management et al  (S.D.N.Y) Case No. 1:25-cv-01237",
+              "case_link": {
+                "url": "https://www.courtlistener.com/docket/69631573/unknown-case-title/",
+                "title": "American Federation of Government Employees, et al. v. Office of Personnel Management et al "
+              },
+              "complaint_link_text": "Complaint",
+              "complaint_link": {
+                "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.636793/gov.uscourts.nysd.636793.1.0.pdf",
+                "title": "Complaint"
+              },
+              "date_filed": "2025-02-11",
+              "case_summary": "Plaintiffs allege the Office of Personnel Management (OPM) has given DOGE access to OPM information systems that contain sensitive personal and employment records of government employees (including Social Security numbers, demographic information, job performance information, health records, and more). Plaintiffs, current and former federal employees and unions representing them, sued, arguing OPM’s disclosure of this information to DOGE violates the Privacy Act and the Administrative Procedure Act; and that DOGE’s actions are ultra vires. They seek a declaratory judgment that the government’s actions are unlawful; temporary, preliminary, or permanent injunctive relief; and an order for the impoundment and destruction of copies of improperly disclosed personal information.",
+              "case_summary_html": "Plaintiffs allege the Office of Personnel Management (OPM) has given DOGE access to OPM information systems that contain sensitive personal and employment records of government employees (including Social Security numbers, demographic information, job performance information, health records, and more). Plaintiffs, current and former federal employees and unions representing them, sued, arguing OPM’s disclosure of this information to DOGE violates the Privacy Act and the Administrative Procedure Act; and that DOGE’s actions are ultra vires. They seek a declaratory judgment that the government’s actions are unlawful; temporary, preliminary, or permanent injunctive relief; and an order for the impoundment and destruction of copies of improperly disclosed personal information.",
+              "last_update": "2025-02-11"
             }
           ]
         }
@@ -1019,9 +1041,9 @@
                 "title": "Complaint"
               },
               "date_filed": "2025-02-04",
-              "case_summary": "On January 28, 2025, the Office of Personnel Management sent an email to career federal employees presenting what it described as a deferred resignation program, an offer to receive compensation until September 30, 2025 if they resign now (“Fork Directive” email). A deadline for the offer was set for February 6, 2025. Plaintiffs filed suit, arguing the directive violates the Administrative Procedure Act (APA) because it is “arbitrary and capricious” and not in accordance with the Antideficiency Act. They seek a declaratory judgment that the directive violates the APA and that the directive be vacated; they also seek an preliminary and permanent injunction of the February 6, 2025 deadline and an order that OPM submit for court approval a corrected communication for all employees who received the directive.\n\nUpdate 1: On Feb. 5, 2025, the plaintiffs requested a temporary restraining order and that within 24 hours of the TRO, the Government provide written notice of the TRO to all federal employees who have received the directive.\n\nUpdate 2: On Feb. 6, 2025, Judge George O’Toole issued an order to pause the program and extend the deadline until Monday when a hearing is scheduled.",
-              "case_summary_html": "On January 28, 2025, the Office of Personnel Management sent an email to career federal employees presenting what it described as a deferred resignation program, an offer to receive compensation until September 30, 2025 if they resign now (“Fork Directive” email). A deadline for the offer was set for February 6, 2025. Plaintiffs filed suit, arguing the directive violates the Administrative Procedure Act (APA) because it is “arbitrary and capricious” and not in accordance with the Antideficiency Act. They seek a declaratory judgment that the directive violates the APA and that the directive be vacated; they also seek an preliminary and permanent injunction of the February 6, 2025 deadline and an order that OPM submit for court approval a corrected communication for all employees who received the directive.<br/>\n<br/>\n<strong>Update 1:</strong> On Feb. 5, 2025, the plaintiffs <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.mad.280398/gov.uscourts.mad.280398.11.0.pdf\" target=\"_blank\">requested</a> a temporary restraining order and that within 24 hours of the TRO, the Government provide written notice of the TRO to all federal employees who have received the directive.<br/>\n<br/>\n<strong>Update 2: </strong>On Feb. 6, 2025, Judge George O’Toole issued an order to pause the program and extend the deadline until Monday when a hearing is scheduled.",
-              "last_update": "2025-02-06"
+              "case_summary": "On January 28, 2025, the Office of Personnel Management sent an email to career federal employees presenting what it described as a deferred resignation program, an offer to receive compensation until September 30, 2025 if they resign now (“Fork Directive” email). A deadline for the offer was set for February 6, 2025. Plaintiffs filed suit, arguing the directive violates the Administrative Procedure Act (APA) because it is “arbitrary and capricious” and not in accordance with the Antideficiency Act. They seek a declaratory judgment that the directive violates the APA and that the directive be vacated; they also seek an preliminary and permanent injunction of the February 6, 2025 deadline and an order that OPM submit for court approval a corrected communication for all employees who received the directive.\n\nUpdate 1: On Feb. 5, 2025, the plaintiffs requested a temporary restraining order and that within 24 hours of the TRO, the Government provide written notice of the TRO to all federal employees who have received the directive.\n\nUpdate 2: On Feb. 6, 2025, Judge George O’Toole issued an order to pause the program and extend the deadline until Monday when a hearing is scheduled.\n\nUpdate 3: On Feb. 10, 2025, Judge O’Toole ordered that the stay of the Feb. 6 deadline will remain in effect “pending the completion of briefing and oral argument on the issues.” Defendants notified the Court of their compliance with the order.  ",
+              "case_summary_html": "On January 28, 2025, the Office of Personnel Management sent an email to career federal employees presenting what it described as a deferred resignation program, an offer to receive compensation until September 30, 2025 if they resign now (“Fork Directive” email). A deadline for the offer was set for February 6, 2025. Plaintiffs filed suit, arguing the directive violates the Administrative Procedure Act (APA) because it is “arbitrary and capricious” and not in accordance with the Antideficiency Act. They seek a declaratory judgment that the directive violates the APA and that the directive be vacated; they also seek an preliminary and permanent injunction of the February 6, 2025 deadline and an order that OPM submit for court approval a corrected communication for all employees who received the directive.<br/>\n<br/>\n<strong>Update 1:</strong> On Feb. 5, 2025, the plaintiffs <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.mad.280398/gov.uscourts.mad.280398.11.0.pdf\" target=\"_blank\">requested</a> a temporary restraining order and that within 24 hours of the TRO, the Government provide written notice of the TRO to all federal employees who have received the directive.<br/>\n<br/>\n<strong>Update 2: </strong>On Feb. 6, 2025, Judge George O’Toole issued an order to pause the program and extend the deadline until Monday when a hearing is scheduled.<br/>\n<br/>\n<strong>Update 3:</strong> On Feb. 10, 2025, Judge O’Toole <a href=\"https://www.upi.com/Top_News/US/2025/02/10/judge-restraining-order-government-buyout/7111739226921/\" target=\"_blank\">ordered</a> that the stay of the Feb. 6 deadline will remain in effect “pending the completion of briefing and oral argument on the issues.” Defendants <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.mad.280398/gov.uscourts.mad.280398.62.0.pdf\" target=\"_blank\">notified</a> the Court of their compliance with the order.  ",
+              "last_update": "2025-02-11"
             }
           ]
         }
@@ -1040,7 +1062,7 @@
                 "url": "https://www.courtlistener.com/docket/69612129/wilcox-v-trump/",
                 "title": "Gwynne A. Wilcox v. Donald J. Trump et al"
               },
-              "complaint_link_text": "Complaint (Feb. 5, 2025)",
+              "complaint_link_text": "Complaint ",
               "complaint_link": {
                 "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.277129/gov.uscourts.dcd.277129.1.0.pdf",
                 "title": "Complaint"
@@ -1049,6 +1071,165 @@
               "case_summary": "This case challenges President Trump’s removal of Gwynne A. Wilcox from her position on the National Labor Relations Board.  The suit alleges the removal is in violation of the National Labor Relations Act (29 U.S.C. § 151 et seq.), which allows the president to remove Board members only in cases of neglect of duty or malfeasance and only after notice and hearing. The Plaintiff is seeking relief under the Declaratory Judgement Act, 28 U.S.C. §§ 2201 and 2202, to establish that she remains a rightful member of the Board and that the President lacks authority to remove her. She also seeks an injunction against the Chairman of the National Labor Relations Board, who oversaw the termination.  ",
               "case_summary_html": "This case challenges President Trump’s removal of Gwynne A. Wilcox from her position on the National Labor Relations Board.  The suit alleges the removal is in violation of the National Labor Relations Act (29 U.S.C. § 151 et seq.), which allows the president to remove Board members only in cases of neglect of duty or malfeasance and only after notice and hearing. The Plaintiff is seeking relief under the Declaratory Judgement Act, 28 U.S.C. §§ 2201 and 2202, to establish that she remains a rightful member of the Board and that the President lacks authority to remove her. She also seeks an injunction against the Chairman of the National Labor Relations Board, who oversaw the termination.  ",
               "last_update": "2025-02-05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Structure of Government/Personnel",
+      "exec_actions": [
+        {
+          "title": "Removal of independent agency leaders",
+          "links": [],
+          "cases": [
+            {
+              "case_name": "Cathy A. Harris v. Bessent et al (D.D.C.) Case No. 1:25-cv-00412",
+              "case_link": {
+                "url": "https://www.courtlistener.com/docket/69631849/harris-v-bessent/",
+                "title": "Cathy A. Harris v. Bessent et al"
+              },
+              "complaint_link_text": "Complaint ",
+              "complaint_link": {
+                "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.277372/gov.uscourts.dcd.277372.1.0.pdf",
+                "title": "Complaint"
+              },
+              "date_filed": "2025-02-11",
+              "case_summary": "Plaintiff Cathy A. Harris challenges her removal from the Merit Systems Protection Board (MSPB), an independent federal agency.  Plaintiff alleges that she received a one-sentence email from Trent Morse, Deputy Assistant to the President and Deputy Director of the White House Presidential Personnel Office, stating that Plaintiff had been terminated, effective immediately.  Plaintiff, whose term on the MSPB was set to expire in 2028, alleges that she was unlawfully removed from her position without justification, despite the statutory requirement that MSPB members may only be removed for “inefficiency, neglect of duty, or malfeasance in office.” She alleges the action was ultra vires and violated the Administrative Procedure Act. She seeks a declaratory judgment and injunction as well as an emergency temporary restraining order to reinstate her position on the MSPB.",
+              "case_summary_html": "Plaintiff Cathy A. Harris challenges her removal from the Merit Systems Protection Board (MSPB), an independent federal agency.  Plaintiff alleges that she received a one-sentence email from Trent Morse, Deputy Assistant to the President and Deputy Director of the White House Presidential Personnel Office, stating that Plaintiff had been terminated, effective immediately.  Plaintiff, whose term on the MSPB was set to expire in 2028, alleges that she was unlawfully removed from her position without justification, despite the statutory requirement that MSPB members may only be removed for “inefficiency, neglect of duty, or malfeasance in office.” She alleges the action was ultra vires and violated the Administrative Procedure Act. She seeks a declaratory judgment and injunction as well as an emergency temporary restraining order to reinstate her position on the MSPB.",
+              "last_update": "2025-02-11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Structure of Government/Personnel",
+      "exec_actions": [
+        {
+          "title": "Dismantling of USAID (Executive Order 14169)",
+          "links": [
+            {
+              "url": "https://www.federalregister.gov/documents/2025/01/30/2025-02091/reevaluating-and-realigning-united-states-foreign-aid",
+              "title": "Executive Order 14169"
+            }
+          ],
+          "cases": [
+            {
+              "case_name": "American Foreign Service Association v. Trump (D.D.C.) Case No. 1:25-cv-00352",
+              "case_link": {
+                "url": "https://www.courtlistener.com/docket/69619544/american-federation-of-government-employees-v-trump/",
+                "title": "American Foreign Service Association v. Trump"
+              },
+              "complaint_link_text": "Complaint ",
+              "complaint_link": {
+                "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.277213/gov.uscourts.dcd.277213.1.0.pdf",
+                "title": "Complaint"
+              },
+              "date_filed": "2025-02-06",
+              "case_summary": "On Jan. 20, 2025, the Trump administration issued an executive order including a 90-day pause in “foreign development assistance,” and the Secretary of State then issued stop-work orders for United States Agency for International Development (USAID) foreign assistance grants. Later, Secretary of State Rubio was named as acting USAID Administrator and USAID contractors were laid off or furloughed. On Feb. 3, Elon Musk posted that he had spent the previous weekend “feeding USAID to the woodchipper,” and USAID headquarters in Washington, D.C. was closed. On Feb. 4, a message was posted on the USAID website that all directly-hired USAID staff would be placed on administrative leave as of 11:59pm EST on Friday, Feb. 7, 2025. Plaintiffs sued, arguing executive actions either to dissolve USAID or merge it with the State Department are unconstitutional violations of the separation of powers and the Take Care Clause; and unlawful under of the Administrative Procedure Act by exceeding statutory authority, violating the Further Consolidated Appropriations Act, and involving arbitrary and capricious abuses of discretion. Plaintiffs seek a declaratory judgment that the administration’s actions are unlawful and unconstitutional; a temporary restraining order and preliminary injunction directing the administration to halt efforts to shut down the agency, including by appointing an independent administrator, restoring grant funding, recalling furloughs, and halting efforts to place more employees on administrative leave, among other actions. Plaintiffs also seek court supervision, and a permanent injunction barring the administration from taking action to dissolve USAID absent congressional authorization.\n\nUpdate 1: On Feb. 7, 2025, Judge Carl J. Nichols issued a temporary restraining order preventing USAID from placing employees on administrative leave or evacuating them. He rejected the plaintiffs’ request for a restraining order on the funding freeze on the ground that the plaintiffs (USAID employees) could not show sufficient harm to themselves. ",
+              "case_summary_html": "On Jan. 20, 2025, the Trump administration issued an executive order including a 90-day pause in “foreign development assistance,” and the Secretary of State then issued <a href=\"https://x.com/nickschifrin/status/1882933475809902714\">stop-work orders</a> for United States Agency for International Development (USAID) foreign assistance grants. Later, Secretary of State Rubio was named as acting USAID Administrator and USAID contractors were laid off or furloughed. On Feb. 3, Elon Musk posted that he had spent the previous weekend “feeding USAID to the woodchipper,” and USAID headquarters in Washington, D.C. was closed. On Feb. 4, a message was posted on the USAID website that all directly-hired USAID staff would be placed on administrative leave as of 11:59pm EST on Friday, Feb. 7, 2025. Plaintiffs sued, arguing executive actions either to dissolve USAID or merge it with the State Department are unconstitutional violations of the separation of powers and the Take Care Clause; and unlawful under of the Administrative Procedure Act by exceeding statutory authority, violating the Further Consolidated Appropriations Act, and involving arbitrary and capricious abuses of discretion. Plaintiffs seek a declaratory judgment that the administration’s actions are unlawful and unconstitutional; a temporary restraining order and preliminary injunction directing the administration to halt efforts to shut down the agency, including by appointing an independent administrator, restoring grant funding, recalling furloughs, and halting efforts to place more employees on administrative leave, among other actions. Plaintiffs also seek court supervision, and a permanent injunction barring the administration from taking action to dissolve USAID absent congressional authorization.<br/>\n<br/>\n<strong>Update 1:</strong> On Feb. 7, 2025, Judge Carl J. Nichols <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.dcd.277213/gov.uscourts.dcd.277213.15.0_2.pdf\">issued</a> a temporary restraining order preventing USAID from placing employees on administrative leave or evacuating them. He rejected the plaintiffs’ request for a restraining order on the funding freeze on the ground that the plaintiffs (USAID employees) could not show sufficient harm to themselves. ",
+              "last_update": "2025-02-07"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Structure of Government/Personnel",
+      "exec_actions": [
+        {
+          "title": "Dismantling of USAID (Executive Order 14169)",
+          "links": [
+            {
+              "url": "https://www.federalregister.gov/documents/2025/01/30/2025-02091/reevaluating-and-realigning-united-states-foreign-aid",
+              "title": "Executive Order 14169"
+            }
+          ],
+          "cases": [
+            {
+              "case_name": "AIDS Vaccine Advocacy Coalition v. United States Department of State(D.D.C.) Case No. 1:25-cv-00400",
+              "case_link": {
+                "url": "https://www.courtlistener.com/docket/69627654/aids-vaccine-advocacy-coalition-v-department-of-state/",
+                "title": "AIDS Vaccine Advocacy Coalition v. United States Department of State"
+              },
+              "complaint_link_text": "Complaint",
+              "complaint_link": {
+                "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.277333/gov.uscourts.dcd.277333.1.0.pdf",
+                "title": "Complaint"
+              },
+              "date_filed": "2025-02-10",
+              "case_summary": "On Jan. 20, 2025, the Trump administration issued an executive order including a 90-day pause in “foreign development assistance,” and the Secretary of State then issued stop-work orders for United States Agency for International Development (USAID) foreign assistance grants.\n\nPlaintiffs, AIDS Vaccine Advocacy Coalition (AVAC) and Journalism Development Network (JDN), sued for declaratory and injunctive relief to stop the implementation of the Executive Order and the stop-work order.  Plaintiffs are two nonprofit organizations that receive federal grants from USAID to support their work. Both AVAC’s and JDN’s  funding was appropriated by Congress through the Further Consolidated Appropriations Act. Plaintiffs allege the Executive Order and stop-work order have been detrimental to their work, forcing them to lay off staff, slashing their budgets, and impacting their ability to carry out their missions. They allege the President acted ultra vires and usurped legislative authority. They also allege the President has violated the Take Care Clause. Plaintiffs’ claims against the State Department, USAID, Secretary of State Marc Rubio, Office of Management and Budget (OMB), and OMB Director Vought are that the stop-work orders are arbitrary and capricious in violation of the Administrative Procedure Act, the Anti-Deficiency Act (as an “unlawful reserve”), and the Impoundment Control Act. Plaintiffs seek a declaration from the court that the suspension of foreign aid is unlawful, an injunction stopping defendants from enforcing the Executive Order, and an order to immediately reinstate foreign assistance funding.",
+              "case_summary_html": "On Jan. 20, 2025, the Trump administration issued an executive order including a 90-day pause in “foreign development assistance,” and the Secretary of State then issued stop-work orders for United States Agency for International Development (USAID) foreign assistance grants.<br/>\n<br/>\nPlaintiffs, AIDS Vaccine Advocacy Coalition (AVAC) and Journalism Development Network (JDN), sued for declaratory and injunctive relief to stop the implementation of the Executive Order and the stop-work order.  Plaintiffs are two nonprofit organizations that receive federal grants from USAID to support their work. Both AVAC’s and JDN’s  funding was appropriated by Congress through the Further Consolidated Appropriations Act. Plaintiffs allege the Executive Order and stop-work order have been detrimental to their work, forcing them to lay off staff, slashing their budgets, and impacting their ability to carry out their missions. They allege the President acted ultra vires and usurped legislative authority. They also allege the President has violated the Take Care Clause. Plaintiffs’ claims against the State Department, USAID, Secretary of State Marc Rubio, Office of Management and Budget (OMB), and OMB Director Vought are that the stop-work orders are arbitrary and capricious in violation of the Administrative Procedure Act, the Anti-Deficiency Act (as an “unlawful reserve”), and the Impoundment Control Act. Plaintiffs seek a declaration from the court that the suspension of foreign aid is unlawful, an injunction stopping defendants from enforcing the Executive Order, and an order to immediately reinstate foreign assistance funding.",
+              "last_update": "2025-02-11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Structure of Government/Personnel",
+      "exec_actions": [
+        {
+          "title": "Dismantling of USAID (Executive Order 14169)",
+          "links": [
+            {
+              "url": "https://www.federalregister.gov/documents/2025/01/30/2025-02091/reevaluating-and-realigning-united-states-foreign-aid",
+              "title": "Executive Order 14169"
+            }
+          ],
+          "cases": [
+            {
+              "case_name": "Global Health Council v. Trump (D.D.C.) Case No. ​​1:25-cv-00402",
+              "case_link": {
+                "url": "https://www.courtlistener.com/docket/69628254/global-health-council-v-donald-j-trump/",
+                "title": "Global Health Council v. Trump"
+              },
+              "complaint_link_text": "Complaint",
+              "complaint_link": {
+                "url": "http://complaint/",
+                "title": "Complaint"
+              },
+              "date_filed": "2025-02-11",
+              "case_summary": "A group of for-profit and nonprofit organizations that contract with USAID sued the Trump administration over its recent actions to defund USAID, lay off or furlough employees, and transfer the Agency to be under the State Department. Plaintiffs provide a detailed chronology of the actions, memoranda, and statements that the Administration has issued. In addition to imperiling future projects by freezing future funds, plaintiffs also allege that there is money unpaid for services already performed. ($3,376,832 for Democracy International, approximately $120 million for DAI, $103.6 million for Chemonics, and tens of millions for SBAIC’s members.) Plaintiffs allege that neither the President, nor the Secretary of State, nor the USAID Administrator have the authority to unilaterally withhold already-appropriated funds, citing the Constitution and statutory law prohibiting the unilateral withholding: the Impoundment Control Act and the Anti-Deficiency Act. Plaintiffs also claim violations of the Administrative Procedure Act; that the Executive’s actions were arbitrary and capricious, and contrary to statutory and constitutional law. Plaintiffs ask the court to vacate and set aside all of the defendants’ actions to implement Executive Order 14169 and seek injunctions to prevent defendants from continuing to implement EO 14169 and from “dismantling USAID.”",
+              "case_summary_html": "A group of for-profit and nonprofit organizations that contract with USAID sued the Trump administration over its recent actions to defund USAID, lay off or furlough employees, and transfer the Agency to be under the State Department. Plaintiffs provide a detailed chronology of the actions, memoranda, and statements that the Administration has issued. In addition to imperiling future projects by freezing future funds, plaintiffs also allege that there is money unpaid for services already performed. ($3,376,832 for Democracy International, approximately $120 million for DAI, $103.6 million for Chemonics, and tens of millions for SBAIC’s members.) Plaintiffs allege that neither the President, nor the Secretary of State, nor the USAID Administrator have the authority to unilaterally withhold already-appropriated funds, citing the Constitution and statutory law prohibiting the unilateral withholding: the Impoundment Control Act and the Anti-Deficiency Act. Plaintiffs also claim violations of the Administrative Procedure Act; that the Executive’s actions were arbitrary and capricious, and contrary to statutory and constitutional law. Plaintiffs ask the court to vacate and set aside all of the defendants’ actions to implement Executive Order 14169 and seek injunctions to prevent defendants from continuing to implement EO 14169 and from “dismantling USAID.”",
+              "last_update": "2025-02-11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Structure of Government/Personnel",
+      "exec_actions": [
+        {
+          "title": "Dismantling of Consumer Financial Protection Bureau (Russell Vought Seeks to Halt Actions at CFPB; Vought Statement on X)",
+          "links": [
+            {
+              "url": "https://thehill.com/homenews/administration/5134732-cfpb-budget-russia-%20vought/",
+              "title": "Executive Action: Russell Vought Seeks to Halt Actions at CFPB"
+            },
+            {
+              "url": "https://x.com/russvought/status/1888423503537360986",
+              "title": "Vought Statement on X"
+            }
+          ],
+          "cases": [
+            {
+              "case_name": "National Treasury Employees Union v. Russell Vought (D.D.C.) Case No. 1:25-cv-00381",
+              "case_link": {
+                "url": "https://www.courtlistener.com/docket/69624423/national-treasury-employees-union-v-vought/",
+                "title": "National Treasury Employees Union v. Russell Vought"
+              },
+              "complaint_link_text": "Complaint (Feb. 6, 2025)",
+              "complaint_link": {
+                "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.1.0.pdf",
+                "title": "Complaint"
+              },
+              "date_filed": "2025-02-09",
+              "case_summary": "The Consumer Financial Protection Bureau (CFPB) was created by Congress in the aftermath of the 2007–2008 great recession, to support and protect American consumers in the financial marketplace. On Feb. 7, 2025, Elon Musk posted “CFPB RIP” with a tombstone emoji on his X account. On Feb. 8, Russell Vought, the Acting Director of the CFPB, posted on X that he had notified the Federal Reserve that CFPB would not take “its next draw of unappropriated funding because it is not ‘reasonably necessary’ to carry out its duties.” In an email to CFPB employees, Vought directed the CFPB workforce to “cease all supervision and examination activity,” “cease all stakeholder engagement,” pause all pending investigations, not issue any public communications, and pause “enforcement actions.” He also notified the CFPB workforce that the Washington headquarters would be closed for the coming week. Plaintiffs allege that preventing CFPB from drawing down more funding and ordering a halt on enforcement activities constitutes an unlawful attempt to thwart Congress’s decision to create CFPB, which would be a violation of the separation of powers. They seek a declaratory judgment that Vought’s directives are unlawful and an injunction that prevents him from further attempts to dismantle CFPB’s supervision and enforcement work.",
+              "case_summary_html": "The Consumer Financial Protection Bureau (CFPB) was created by Congress in the aftermath of the 2007–2008 great recession, to support and protect American consumers in the financial marketplace. On Feb. 7, 2025, Elon Musk posted “CFPB RIP” with a tombstone emoji on his X account. On Feb. 8, Russell Vought, the Acting Director of the CFPB, posted on X that he had notified the Federal Reserve that CFPB would not take “its next draw of unappropriated funding because it is not ‘reasonably necessary’ to carry out its duties.” In an email to CFPB employees, Vought directed the CFPB workforce to “cease all supervision and examination activity,” “cease all stakeholder engagement,” pause all pending investigations, not issue any public communications, and pause “enforcement actions.” He also notified the CFPB workforce that the Washington headquarters would be closed for the coming week. Plaintiffs allege that preventing CFPB from drawing down more funding and ordering a halt on enforcement activities constitutes an unlawful attempt to thwart Congress’s decision to create CFPB, which would be a violation of the separation of powers. They seek a declaratory judgment that Vought’s directives are unlawful and an injunction that prevents him from further attempts to dismantle CFPB’s supervision and enforcement work.",
+              "last_update": "2025-02-09"
             }
           ]
         }
@@ -1153,7 +1334,7 @@
                 "url": "https://www.courtlistener.com/docket/69625055/commonwealth-of-massachusetts/",
                 "title": "Commonwealth of Massachusetts v. National Institutes of Health"
               },
-              "complaint_link_text": "Complaint\nCase No. 1:25-cv-10338",
+              "complaint_link_text": "Complaint",
               "complaint_link": {
                 "url": "https://storage.courtlistener.com/recap/gov.uscourts.mad.280590/gov.uscourts.mad.280590.1.0.pdf",
                 "title": "Complaint"
@@ -1171,65 +1352,29 @@
       "title": "Government Grants, Loans and Assistance\n",
       "exec_actions": [
         {
-          "title": "Dismantling of USAID (Executive Order 14169)",
+          "title": "Reduction of indirect cost reimbursement rate for research institutions (NIH Guidance)",
           "links": [
             {
-              "url": "https://www.federalregister.gov/documents/2025/01/30/2025-02091/reevaluating-and-realigning-united-states-foreign-aid",
-              "title": "Executive Order 14169"
+              "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-25-068.html",
+              "title": "NIH Guidance"
             }
           ],
           "cases": [
             {
-              "case_name": "American Foreign Service Association v. Trump (D.D.C.) Case No. 1:25-cv-00352",
+              "case_name": "Association of American Universities, et al. v. Department of Health and Human Services, et al. (D. Mass.) Case No. 1:25-cv-10346",
               "case_link": {
-                "url": "https://www.courtlistener.com/docket/69619544/american-federation-of-government-employees-v-trump/",
-                "title": "American Foreign Service Association v. Trump"
+                "url": "https://www.courtlistener.com/docket/69627688/association-of-american-universities-v-department-of-health-human/",
+                "title": "Association of American Universities, et al. v. Department of Health and Human Services, et al."
               },
-              "complaint_link_text": "Complaint (Feb. 6, 2025)",
+              "complaint_link_text": "Complaint",
               "complaint_link": {
-                "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.277213/gov.uscourts.dcd.277213.1.0.pdf",
+                "url": "https://storage.courtlistener.com/recap/gov.uscourts.mad.280623/gov.uscourts.mad.280623.1.0.pdf",
                 "title": "Complaint"
               },
-              "date_filed": "2025-02-06",
-              "case_summary": "On Jan. 20, 2025, the Trump administration issued an executive order including a 90-day pause in “foreign development assistance,” and the Secretary of State then issued stop-work orders for United States Agency for International Development (USAID) foreign assistance grants. Later, Secretary of State Rubio was named as acting USAID Administrator and USAID contractors were laid off or furloughed. On Feb. 3, Elon Musk posted that he had spent the previous weekend “feeding USAID to the woodchipper,” and USAID headquarters in Washington, D.C. was closed. On Feb. 4, a message was posted on the USAID website that all directly-hired USAID staff would be placed on administrative leave as of 11:59pm EST on Friday, Feb. 7, 2025. Plaintiffs sued, arguing executive actions either to dissolve USAID or merge it with the State Department are unconstitutional violations of the separation of powers and the Take Care Clause; and unlawful under of the Administrative Procedure Act by exceeding statutory authority, violating the Further Consolidated Appropriations Act, and involving arbitrary and capricious abuses of discretion. Plaintiffs seek a declaratory judgment that the administration’s actions are unlawful and unconstitutional; a temporary restraining order and preliminary injunction directing the administration to halt efforts to shut down the agency, including by appointing an independent administrator, restoring grant funding, recalling furloughs, and halting efforts to place more employees on administrative leave, among other actions. Plaintiffs also seek court supervision, and a permanent injunction barring the administration from taking action to dissolve USAID absent congressional authorization.\n\nUpdate 1: On Feb. 7, 2025, Judge Carl J. Nichols issued a temporary restraining order preventing USAID from placing employees on administrative leave or evacuating them. He rejected the plaintiffs’ request for a restraining order on the funding freeze on the ground that the plaintiffs (USAID employees) could not show sufficient harm to themselves. ",
-              "case_summary_html": "On Jan. 20, 2025, the Trump administration issued an executive order including a 90-day pause in “foreign development assistance,” and the Secretary of State then issued <a href=\"https://x.com/nickschifrin/status/1882933475809902714\">stop-work orders</a> for United States Agency for International Development (USAID) foreign assistance grants. Later, Secretary of State Rubio was named as acting USAID Administrator and USAID contractors were laid off or furloughed. On Feb. 3, Elon Musk posted that he had spent the previous weekend “feeding USAID to the woodchipper,” and USAID headquarters in Washington, D.C. was closed. On Feb. 4, a message was posted on the USAID website that all directly-hired USAID staff would be placed on administrative leave as of 11:59pm EST on Friday, Feb. 7, 2025. Plaintiffs sued, arguing executive actions either to dissolve USAID or merge it with the State Department are unconstitutional violations of the separation of powers and the Take Care Clause; and unlawful under of the Administrative Procedure Act by exceeding statutory authority, violating the Further Consolidated Appropriations Act, and involving arbitrary and capricious abuses of discretion. Plaintiffs seek a declaratory judgment that the administration’s actions are unlawful and unconstitutional; a temporary restraining order and preliminary injunction directing the administration to halt efforts to shut down the agency, including by appointing an independent administrator, restoring grant funding, recalling furloughs, and halting efforts to place more employees on administrative leave, among other actions. Plaintiffs also seek court supervision, and a permanent injunction barring the administration from taking action to dissolve USAID absent congressional authorization.<br/>\n<br/>\n<strong>Update 1:</strong> On Feb. 7, 2025, Judge Carl J. Nichols <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.dcd.277213/gov.uscourts.dcd.277213.15.0_2.pdf\">issued</a> a temporary restraining order preventing USAID from placing employees on administrative leave or evacuating them. He rejected the plaintiffs’ request for a restraining order on the funding freeze on the ground that the plaintiffs (USAID employees) could not show sufficient harm to themselves. ",
-              "last_update": "2025-02-07"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Government Grants, Loans and Assistance\n",
-      "exec_actions": [
-        {
-          "title": "Dismantling of Consumer Financial Protection Bureau (Russell Vought Seeks to Halt Actions at CFPB; Vought Statement on X)",
-          "links": [
-            {
-              "url": "https://thehill.com/homenews/administration/5134732-cfpb-budget-russia-%20vought/",
-              "title": "Executive Action: Russell Vought Seeks to Halt Actions at CFPB"
-            },
-            {
-              "url": "https://x.com/russvought/status/1888423503537360986",
-              "title": "Vought Statement on X"
-            }
-          ],
-          "cases": [
-            {
-              "case_name": "National Treasury Employees Union v. Russell Vought (D.D.C.) Case No. 1:25-cv-00381",
-              "case_link": {
-                "url": "https://www.courtlistener.com/docket/69624423/national-treasury-employees-union-v-vought/",
-                "title": "National Treasury Employees Union v. Russell Vought"
-              },
-              "complaint_link_text": "Complaint (Feb. 6, 2025)",
-              "complaint_link": {
-                "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.1.0.pdf",
-                "title": "Complaint"
-              },
-              "date_filed": "2025-02-09",
-              "case_summary": " The Consumer Financial Protection Bureau (CFPB) was created by Congress in the aftermath of the 2007–2008 great recession, to support and protect American consumers in the financial marketplace. On Feb. 7, 2025, Elon Musk posted “CFPB RIP” with a tombstone emoji on his X account. On Feb. 8, Russell Vought, the Acting Director of the CFPB, posted on X that he had notified the Federal Reserve that CFPB would not take “its next draw of unappropriated funding because it is not ‘reasonably necessary’ to carry out its duties.” In an email to CFPB employees, Vought directed the CFPB workforce to “cease all supervision and examination activity,” “cease all stakeholder engagement,” pause all pending investigations, not issue any public communications, and pause “enforcement actions.” He also notified the CFPB workforce that the Washington headquarters would be closed for the coming week. Plaintiffs allege that preventing CFPB from drawing down more funding and ordering a halt on enforcement activities constitutes an unlawful attempt to thwart Congress’s decision to create CFPB, which would be a violation of the separation of powers. They seek a declaratory judgment that Vought’s directives are unlawful and an injunction that prevents him from further attempts to dismantle CFPB’s supervision and enforcement work.",
-              "case_summary_html": " The Consumer Financial Protection Bureau (CFPB) was created by Congress in the aftermath of the 2007–2008 great recession, to support and protect American consumers in the financial marketplace. On Feb. 7, 2025, Elon Musk posted “CFPB RIP” with a tombstone emoji on his X account. On Feb. 8, Russell Vought, the Acting Director of the CFPB, posted on X that he had notified the Federal Reserve that CFPB would not take “its next draw of unappropriated funding because it is not ‘reasonably necessary’ to carry out its duties.” In an email to CFPB employees, Vought directed the CFPB workforce to “cease all supervision and examination activity,” “cease all stakeholder engagement,” pause all pending investigations, not issue any public communications, and pause “enforcement actions.” He also notified the CFPB workforce that the Washington headquarters would be closed for the coming week. Plaintiffs allege that preventing CFPB from drawing down more funding and ordering a halt on enforcement activities constitutes an unlawful attempt to thwart Congress’s decision to create CFPB, which would be a violation of the separation of powers. They seek a declaratory judgment that Vought’s directives are unlawful and an injunction that prevents him from further attempts to dismantle CFPB’s supervision and enforcement work.",
-              "last_update": "2025-02-09"
+              "date_filed": "2025-02-10",
+              "case_summary": "National Institutes of Health (NIH) guidance imposes an across-the-board 15 percent reimbursement rate for “indirect costs” of medical research, which research institutions have historically negotiated on an individual basis. Plaintiffs, including associations representing universities and college and individual universities, allege the reduction in indirect cost rate to 15% will have immediate destructive effects on NIH-funded research. They sued, arguing the policy is unlawful under of the Administrative Procedure Act in that it (1) is contrary to law in that it departs from the Continuing Appropriations Act of 2024; (2) is contrary to law as it violates the Constitution’s Appropriation Clause; (3) is contrary to law as it departs from negotiated cost rates provided by 45 C.F.R. 75.414 and NIH Grants Policy Statement; (4) is an arbitrary and capricious abuse of discretion; (5) is contrary to law as it departs from HHS cost recovery regulations and policy guidance; (6) fails to observe required notice-and-comment procedures; (7) is contrary to law violates the Public Health Service Act; and (8) is in excess of statutory authority as a retroactive action. Plaintiffs seek a declaratory judgment that the policy is unlawful and preliminary and permanent injunctive relief. Later on Feb. 10, Plaintiffs filed a motion for a Temporary Restraining Order to prohibit Defendants from implementing the policy.",
+              "case_summary_html": "National Institutes of Health (NIH) guidance imposes an across-the-board 15 percent reimbursement rate for “indirect costs” of medical research, which research institutions have historically negotiated on an individual basis. Plaintiffs, including associations representing universities and college and individual universities, allege the reduction in indirect cost rate to 15% will have immediate destructive effects on NIH-funded research. They sued, arguing the policy is unlawful under of the Administrative Procedure Act in that it (1) is contrary to law in that it departs from the Continuing Appropriations Act of 2024; (2) is contrary to law as it violates the Constitution’s Appropriation Clause; (3) is contrary to law as it departs from negotiated cost rates provided by 45 C.F.R. 75.414 and NIH Grants Policy Statement; (4) is an arbitrary and capricious abuse of discretion; (5) is contrary to law as it departs from HHS cost recovery regulations and policy guidance; (6) fails to observe required notice-and-comment procedures; (7) is contrary to law violates the Public Health Service Act; and (8) is in excess of statutory authority as a retroactive action. Plaintiffs seek a declaratory judgment that the policy is unlawful and preliminary and permanent injunctive relief. Later on Feb. 10, Plaintiffs filed a <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.mad.280623/gov.uscourts.mad.280623.2.0.pdf\">motion for a Temporary Restraining Order</a> to prohibit Defendants from implementing the policy.",
+              "last_update": "2025-02-10"
             }
           ]
         }
@@ -1500,6 +1645,38 @@
       ]
     },
     {
+      "title": "Civil Liberties and Rights",
+      "exec_actions": [
+        {
+          "title": "Immigration enforcement against places of worship (Policy Memo)",
+          "links": [
+            {
+              "url": "https://www.justsecurity.org/wp-content/uploads/2025/01/dhs-memo-enforcement-actions-protected-areas.pdf",
+              "title": "Policy Memo"
+            }
+          ],
+          "cases": [
+            {
+              "case_name": "Mennonite Church USA et al. v. United States Department of Homeland Security et al (D.D.C.) Case No. 1:25-cv-00403",
+              "case_link": {
+                "url": "https://www.courtlistener.com/docket/69626101/pacito-v-trump/",
+                "title": "Mennonite Church USA et al. v. United States Department of Homeland Security et al"
+              },
+              "complaint_link_text": "Complaint",
+              "complaint_link": {
+                "url": "https://www.courtlistener.com/docket/69628285/mennonite-church-usa-v-us-department-of-homeland-security/",
+                "title": "Complaint"
+              },
+              "date_filed": "2025-02-11",
+              "case_summary": "On January 20, 2025 the DHS issued a directive rescinding the Biden Administration’s guidelines for ICE and CBP enforcement actions that restricted law enforcement in or near “sensitive” areas, such as places of worship, schools, and hospitals. Over two dozen Christian and Jewish religious denominations and associations sued for a preliminary and permanent injunction prohibiting DHS from effectuating the directive. The complaint asserts that DHS’s authorization of immigration enforcement action at plaintiffs’ places of worship in the absence of exigent circumstances or a judicial warrant violates their rights under the Religious Freedom Restoration Act (RFRA) and the First Amendment. In addition, the complaint alleges that DHS’s manner of recission of the “sensitive locations policy” violates legal constraints on agency action.",
+              "case_summary_html": "On January 20, 2025 the DHS issued a directive rescinding the Biden Administration’s guidelines for ICE and CBP enforcement actions that restricted law enforcement in or near “sensitive” areas, such as places of worship, schools, and hospitals. Over two dozen Christian and Jewish religious denominations and associations sued for a preliminary and permanent injunction prohibiting DHS from effectuating the directive. The complaint asserts that DHS’s authorization of immigration enforcement action at plaintiffs’ places of worship in the absence of exigent circumstances or a judicial warrant violates their rights under the Religious Freedom Restoration Act (RFRA) and the First Amendment. In addition, the complaint alleges that DHS’s manner of recission of the “sensitive locations policy” violates legal constraints on agency action.",
+              "last_update": "2025-02-11"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Diversity, Equity, Inclusion, and Accessibility\n",
       "exec_actions": [
         {
@@ -1563,9 +1740,9 @@
                 "title": "Complaint"
               },
               "date_filed": "2025-02-04",
-              "case_summary": "On January 31, 2025, agencies within the Department of Health and Human Services, including the Centers for Disease Control and Prevention (CDC) and Food and Drug Administration (FDA) removed health-related data and other information from publicly-accessible websites in response to an Office of Personnel Management memorandum enforcing Executive Order 14168, “Defending Women from Gender Ideology Extremism and Restoring Biological Truth to the Federal Government.” Plaintiffs, suing on behalf of doctors and scientists who rely on the data, allege that the removal constitutes an arbitrary and capricious act, thus violating the Administrative Procedure Act, and fails to comply with notice requirements under the Paperwork Reduction Act. They seek declaratory judgments that the OPM memorandum is unlawful and that the relevant agencies have violated the law; injunctions on further removal of information from agency websites; notice of any further modifications to webpages; and restoration of previously publicly-available datasets.",
-              "case_summary_html": "On January 31, 2025, agencies within the Department of Health and Human Services, including the Centers for Disease Control and Prevention (CDC) and Food and Drug Administration (FDA) removed health-related data and other information from publicly-accessible websites in response to an Office of Personnel Management memorandum enforcing Executive Order 14168, “Defending Women from Gender Ideology Extremism and Restoring Biological Truth to the Federal Government.” Plaintiffs, suing on behalf of doctors and scientists who rely on the data, allege that the removal constitutes an arbitrary and capricious act, thus violating the Administrative Procedure Act, and fails to comply with notice requirements under the Paperwork Reduction Act. They seek declaratory judgments that the OPM memorandum is unlawful and that the relevant agencies have violated the law; injunctions on further removal of information from agency websites; notice of any further modifications to webpages; and restoration of previously publicly-available datasets.",
-              "last_update": "2025-02-04"
+              "case_summary": "On January 31, 2025, agencies within the Department of Health and Human Services, including the Centers for Disease Control and Prevention (CDC) and Food and Drug Administration (FDA) removed health-related data and other information from publicly-accessible websites in response to an Office of Personnel Management memorandum enforcing Executive Order 14168, “Defending Women from Gender Ideology Extremism and Restoring Biological Truth to the Federal Government.” Plaintiffs, suing on behalf of doctors and scientists who rely on the data, allege that the removal constitutes an arbitrary and capricious act, thus violating the Administrative Procedure Act, and fails to comply with notice requirements under the Paperwork Reduction Act. They seek declaratory judgments that the OPM memorandum is unlawful and that the relevant agencies have violated the law; injunctions on further removal of information from agency websites; notice of any further modifications to webpages; and restoration of previously publicly-available datasets.\n\nUpdate 1: On Feb. 11, 2025, Judge John D. Bates issued a temporary restraining order and memorandum opinion. The TRO includes a requirement that Defendants restore webpages and datasets identified by the Plaintiffs.",
+              "case_summary_html": "On January 31, 2025, agencies within the Department of Health and Human Services, including the Centers for Disease Control and Prevention (CDC) and Food and Drug Administration (FDA) removed health-related data and other information from publicly-accessible websites in response to an Office of Personnel Management memorandum enforcing Executive Order 14168, “Defending Women from Gender Ideology Extremism and Restoring Biological Truth to the Federal Government.” Plaintiffs, suing on behalf of doctors and scientists who rely on the data, allege that the removal constitutes an arbitrary and capricious act, thus violating the Administrative Procedure Act, and fails to comply with notice requirements under the Paperwork Reduction Act. They seek declaratory judgments that the OPM memorandum is unlawful and that the relevant agencies have violated the law; injunctions on further removal of information from agency websites; notice of any further modifications to webpages; and restoration of previously publicly-available datasets.<br/>\n<br/>\n<strong>Update 1:</strong> On Feb. 11, 2025, Judge John D. Bates issued a <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.dcd.277069/gov.uscourts.dcd.277069.11.0_1.pdf\" target=\"_blank\">temporary restraining order</a> and <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.dcd.277069/gov.uscourts.dcd.277069.12.0_1.pdf\" target=\"_blank\">memorandum opinion</a>. The TRO includes a requirement that Defendants restore webpages and datasets identified by the Plaintiffs.",
+              "last_update": "2025-02-11"
             }
           ]
         }
