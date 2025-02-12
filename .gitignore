@@ -169,3 +169,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.DS_Store
+.vscode/settings.json
+exec_order_lawsuits/.python-version
