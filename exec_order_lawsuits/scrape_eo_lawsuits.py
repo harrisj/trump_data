@@ -59,7 +59,7 @@ class LitigationParser:
         col = tag.find("td", class_="column-1")
         assert col is not None, "No category found"
 
-        return Category(title=col.text, exec_actions=[])
+        return Category(title=col.text.strip(), exec_actions=[])
 
     def parse_exec_action(tag: Tag) -> ExecutiveAction:
         col = tag.find("td", class_="column-2")
@@ -130,12 +130,12 @@ class LitigationParser:
         for tr in tbody.find_all("tr"):
             category = LitigationParser.parse_category(tr)
 
-            if category != last_category:
+            if last_category is None or category.title != last_category.title:
                 categories.append(category)
                 last_category = category
 
             exec_action = LitigationParser.parse_exec_action(tr)
-            if exec_action != last_exec_action:
+            if last_exec_action is None or  exec_action.title != last_exec_action.title:
                 last_category.exec_actions.append(exec_action)
                 last_exec_action = exec_action
 
