@@ -17,7 +17,9 @@ then I will record it as 80.
 
 ## Data
 This is a simple CSV that I will update manually over time with the following columns:
-- date (in ISO format)
-- population (int)
-- quote (string)
-- source (a link to a source URL)
+- date (in ISO format): the date of the population count (might be off by a day or so)
+- population (int): the population on the given date
+- expression (string, e.g. "=10", ">80", "<100"): a representation of the qualifiers in news articles
+- quote (string): the quote from the article containing the population number
+- source (a link to a source URL): a link to the source of the number
+
