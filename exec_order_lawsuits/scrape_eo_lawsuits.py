@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 from bs4.element import Tag
 import re
+import canonicaljson
 import dateparser
 import requests
 from datetime import date
@@ -147,4 +148,5 @@ class LitigationParser:
 if __name__ == "__main__":
     response = requests.get(JUST_SECURITY_URL)
     tracker = LitigationParser.parse_litigation_tracker(response.text)
-    print(tracker.model_dump_json(indent=2))
+    print(canonicaljson.encode_pretty_printed_json(tracker.model_dump(mode="json")))
+

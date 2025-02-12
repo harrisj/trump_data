@@ -12,7 +12,8 @@ dependencies = [
     "pydantic (>=2.10.6,<3.0.0)",
     "requests (>=2.32.3,<3.0.0)",
     "beautifulsoup4 (>=4.13.3,<5.0.0)",
-    "dateparser (>=1.2.1,<2.0.0)"
+    "dateparser (>=1.2.1,<2.0.0)",
+    "canonicaljson (>=2.0.0,<3.0.0)"
 ]
 
 [tool.poetry]
