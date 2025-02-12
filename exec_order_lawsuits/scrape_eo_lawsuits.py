@@ -148,5 +148,5 @@ class LitigationParser:
 if __name__ == "__main__":
     response = requests.get(JUST_SECURITY_URL)
     tracker = LitigationParser.parse_litigation_tracker(response.text)
-    print(canonicaljson.encode_pretty_printed_json(tracker.model_dump(mode="json")))
-
+    canonical_json = canonicaljson.encode_pretty_printed_json(tracker.model_dump(mode="json"))
+    print(str(canonical_json, "utf-8"))
