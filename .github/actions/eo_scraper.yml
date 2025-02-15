@@ -1,0 +1,30 @@
+inputs:
+  command:
+    description: "Run the EO Tracker scraper"
+    required: true
+
+runs:
+  using: "composite"
+  steps:
+    - id: install
+      name: Install Python, pipenv and Pipfile packages
+      uses: palewire/install-python-pipenv-pipfile@v2
+      with:
+        python-version: 3.9
+
+    - id: scrape
+      name: Run the scraping script
+      run: pipenv run python scrape_eo_lawsuits.py > exec_order_lawsuits.json
+      shell: bash
+
+    - id: commit
+      name: Commit results
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "actions@github.com"
+        git config pull.rebase false
+        git status
+        git pull origin $GITHUB_REF
+        git add usda/
+        git commit -m "USDA scrape $(date +'%F %H:%M')" && git push || true
+      shell: bash

@@ -1,0 +1,21 @@
+name: Exec Action Litigtion Update
+on:
+  schedule:
+    - cron: '1 */4 * * *'
+
+jobs:
+  scrape:
+    name: Scrape
+    defaults:
+      run:
+        working-directory: ./exec_order_lawsuits
+    runs-on: ubuntu-latest
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v2
+
+      - id: run
+        name: Run
+        uses: ./.github/actions/eo_scraper
+ 
