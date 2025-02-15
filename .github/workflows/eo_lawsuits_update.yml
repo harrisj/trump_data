@@ -17,5 +17,5 @@ jobs:
 
       - id: run
         name: Run
-        uses: ./.github/actions/eo_lawsuits
+        uses: ./.github/actions/eo_scraper
  
