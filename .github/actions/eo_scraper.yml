@@ -25,6 +25,6 @@ runs:
         git config pull.rebase false
         git status
         git pull origin $GITHUB_REF
-        git add usda/
-        git commit -m "USDA scrape $(date +'%F %H:%M')" && git push || true
+        git add .
+        git commit -m "EO Litigation Update $(date +'%F %H:%M')" && git push || true
       shell: bash
