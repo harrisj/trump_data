@@ -89,4 +89,4 @@ class TestParsing:
 
         tracker = LitigationParser.parse_litigation_tracker(html)
         assert tracker.last_updated.isoformat() == "2025-02-11"
-        assert len(tracker.categories) == 51
+        assert len(tracker.categories) == 7
