@@ -1,8 +1,7 @@
 name: Exec Action Litigtion Update
 on:
-    # Allows you to run this workflow manually from the Actions tab
+  # for manual invocation
   workflow_dispatch:
-  # Scheduled too
   schedule:
     - cron: '1 */4 * * *'
 
