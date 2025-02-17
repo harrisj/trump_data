@@ -1,9 +1,13 @@
-name: Exec Action Litigtion Update
+name: Exec Action Litigation Update
 on:
   # for manual invocation
   workflow_dispatch:
   schedule:
     - cron: '1 */4 * * *'
+
+defaults:
+  run:
+    working-directory: ./exec_order_lawsuits
 
 jobs:
   scrape:
