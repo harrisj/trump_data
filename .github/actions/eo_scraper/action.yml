@@ -14,7 +14,9 @@ runs:
 
     - id: scrape
       name: Run the scraping script
-      run: pipenv run python scrape_eo_lawsuits.py > exec_order_lawsuits.json
+      run: |
+        cd ./exec_order_lawsuits
+        pipenv run python scrape_eo_lawsuits.py > exec_order_lawsuits.json
       shell: bash
 
     - id: commit
@@ -25,6 +27,6 @@ runs:
         git config pull.rebase false
         git status
         git pull origin $GITHUB_REF
-        git add .
+        git add exec_order_lawsuits/.
         git commit -m "EO Litigation Update $(date +'%F %H:%M')" && git push || true
       shell: bash
