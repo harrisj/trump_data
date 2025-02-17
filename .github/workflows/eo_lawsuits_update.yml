@@ -1,4 +1,4 @@
-name: Exec Action Litigtion Update
+name: Exec Action Litigation Update
 on:
   # for manual invocation
   workflow_dispatch:
