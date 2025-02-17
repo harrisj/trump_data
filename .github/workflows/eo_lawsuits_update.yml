@@ -8,10 +8,6 @@ on:
 jobs:
   scrape:
     name: Scrape
-    defaults:
-      run:
-        shell: bash
-        working-directory: ./exec_order_lawsuits
     runs-on: ubuntu-latest
     steps:
       - id: checkout
