@@ -14,6 +14,7 @@ runs:
 
     - id: scrape
       name: Run the scraping script
+      working-directory: ./exec_order_lawsuits
       run: pipenv run python scrape_eo_lawsuits.py > exec_order_lawsuits.json
       shell: bash
 
