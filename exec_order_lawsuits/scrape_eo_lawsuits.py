@@ -28,7 +28,7 @@ class Case(BaseModel):
     case_link: Link
     complaint_link_text: Optional[str] = None
     complaint_link: Optional[Link] = None
-    date_filed: date
+    date_filed: Optional[date] = None
     case_summary: str
     case_summary_html: str
     last_update: date
