@@ -1,5 +1,8 @@
 name: Exec Action Litigtion Update
 on:
+    # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  # Scheduled too
   schedule:
     - cron: '1 */4 * * *'
 
@@ -8,12 +11,13 @@ jobs:
     name: Scrape
     defaults:
       run:
+        shell: bash
         working-directory: ./exec_order_lawsuits
     runs-on: ubuntu-latest
     steps:
       - id: checkout
         name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - id: run
         name: Run
