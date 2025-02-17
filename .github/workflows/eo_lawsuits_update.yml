@@ -5,12 +5,13 @@ on:
   schedule:
     - cron: '1 */4 * * *'
 
+defaults:
+  run:
+    working-directory: ./exec_order_lawsuits
+
 jobs:
   scrape:
     name: Scrape
-    defaults:
-      run:
-        working-directory: ./exec_order_lawsuits
     runs-on: ubuntu-latest
     steps:
       - id: checkout
