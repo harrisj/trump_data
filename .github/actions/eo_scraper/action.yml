@@ -8,16 +8,13 @@ runs:
   steps:
     - id: install
       name: Install Python, pipenv and Pipfile packages
-      working-directory: ./exec_order_lawsuits
       uses: palewire/install-python-pipenv-pipfile@v4
       with:
         python-version: 3.9
 
     - id: scrape
       name: Run the scraping script
-      run: |
-        cd ./exec_order_lawsuits
-        pipenv run python scrape_eo_lawsuits.py > exec_order_lawsuits.json
+      run: pipenv run python scrape_eo_lawsuits.py > exec_order_lawsuits.json
       shell: bash
 
     - id: commit
