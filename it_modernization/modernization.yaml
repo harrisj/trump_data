@@ -1,0 +1,296 @@
+agencies:
+  - name: Centers for Disease Control and Prevention
+    acronym: CDC
+    date_started: 
+    date_completed: 
+    participants:
+      - Gavin Kliger
+      - Nikhil Rajpal
+    sources:
+      - https://www.motherjones.com/politics/2025/02/cdc-elon-musk-doge-layoffs-trump-chaos/
+
+
+  - agency: Centers for Medicare and Medicaid Services
+    acronym: CMS
+    date_started: 2025-02-05
+    date_completed:
+    participants:
+      - Luke Farritor
+    vandalism:
+    systems:
+      - name: CMS Acquisition Lifecycle Management system
+        acronym: CALM
+        description: System for tracking CMS acquisitions, contracts, milestones and audits.
+    sources:
+      - https://www.msn.com/en-us/money/general/doge-targets-u-s-health-agencies-gains-access-to-payment-systems/ar-AA1yu5OD
+      - https://www.cms.gov/newsroom/press-releases/cms-statement-collaboration-doge
+      - https://www.wsj.com/politics/elon-musk-doge-medicare-medicaid-fraud-e697b162
+  
+
+  - name: Commerce Department
+    participants:
+      - Nikhil Rajpal
+    sources:
+
+
+  - agency: Consumer Financial Protection Bureau
+    acronym: CFPB
+    date_started: 2025-02-06
+    date_completed: 2025-02-08
+    participants:
+      - Gavin Kliger
+      - Nikhil Rajpal
+      - Jordan Wick
+      - Luke Farritor
+    vandalism:
+      - Website homepage deleted
+      - Social media accounts deleted
+      - YouTube videos removed
+    events:
+      - date: 2025-02-06
+        event: DOGE staff enter CFPB facilities and are given equipment and onboarded
+        source: https://www.wired.com/story/doge-access-consumer-financial-protection-bureau-data/
+      - date: 2025-02-07
+        event: DOGE staff are granted read-only access to the HR, PRISM, and Discoverer systems
+        source: https://www.wired.com/story/doge-access-consumer-financial-protection-bureau-data/
+      - date: 2025-02-07
+        event: Elon Musk posts a tweet "CFPB RIP" with a tombstone emoji
+        source: https://news.bloomberglaw.com/banking-law/musks-doge-descends-on-consumer-financial-protection-bureau
+    systems_accessed:
+      - name: HRConnect
+        description: HR system for CFPB employees
+        risk: PII of CFPB employees, including SSN, home address, and employment records
+        sorn: https://www.consumerfinance.gov/privacy/system-records-notices/employee-administrative-records/
+      - name: PRISM
+        description: System for tracking procurement and contracting
+        risk: PII/CUI of contracting recipients
+      - name: Discoverer
+        description: System for tracking CFPB finances. More details unknown.
+    sources:
+      - https://www.wired.com/story/doge-access-consumer-financial-protection-bureau-data/
+      - https://www.doi.gov/ibc/services/finance/financial-systems/prism
+
+
+  - name: Department of Defense
+    acronym: DoD
+
+  - name: Department of Education
+    acronym: ED
+
+  - name: Department of Energy
+    acronym: DOE
+    events:
+    participants:
+      - Luke Farritor
+      - Ryan Riedel
+    systems:
+      - name: Office365
+        description: "Basic IT including email and Microsoft 365"
+    - sources:
+      - https://www.cnn.com/2025/02/06/climate/doge-energy-department-trump/index.html
+
+
+  - agency: Department of Labor
+    acronym: DOL
+    date_started: 
+    date_completed: 
+    participants:
+      - Gavin Kliger
+      - Nikhil Rajpal
+    vandalism:
+    systems:
+
+
+  - agency: Department of the Treasury
+    acronym: Treasury
+    participants:
+      - Marko Elez
+    events:
+    systems:
+      - name: Federal Disbursement Services
+        acronym: FDS
+        description: >
+          The Federal Disbursement Services (FDS) pays out money, helps collect money, handles foreign transactions, and supports Fiscal Service programs.
+        link: https://fiscal.treasury.gov/fds/
+      - name: Payment Automation Manager
+        acronym: PAM
+        link: https://fiscal.treasury.gov/pam/
+        description: >
+          The U.S. government uses the Payment Automation Manager (PAM) to pay all bills, except payments in foreign currency.
+          PAM processed over 1.2 billion payments in FY 2024, valued at over 4.7 trillion dollars.
+          PAM replaced many older systems that Federal Program Agencies used, saving money and increasing efficiency.
+        risk: PII/CUI of entities receiving payments
+      - name: Secure Payment System
+        acronym: SPS
+        link: https://www.fiscal.treasury.gov/sps/
+        description: Secure Payment System (SPS) is used by federal government agencies to securely create, certify, and submit payments to the Fiscal Service.
+        risk: Access to CUI/PII of entities submitting/receiving payments. Access to private encryption keys.
+    sources:
+      - https://apnews.com/article/treasury-inspector-general-audit-doge-musk-democrats-d1e2710d0b63f54a8c1fe50fe4f23d4d
+      - https://www.nytimes.com/2025/02/01/us/politics/elon-musk-doge-federal-payments-system.html
+      - https://www.snopes.com/news/2025/02/04/doge-musk-treasury/
+      - https://www.wired.com/story/elon-musk-associate-bfs-federal-payment-system/
+  
+
+  - name: Environmental Protection Agency
+    acronym: EPA
+    participants:
+      - Gautier Killian
+    sources:
+      - https://projects.propublica.org/elon-musk-doge-tracker/
+
+
+  - name: Federal Aviation Administration
+    acronym: FAA
+
+
+  - name: Federal Bureau of Investigation
+    acronym: FBI
+    date_started:
+    date_completed:
+    participants:
+      - Justin Monroe
+    systems:
+    
+
+  - name: Federal Emergency Management Agency
+    acronym: FEMA
+    date_started: 2025-02-12
+    date_completed:
+    participants:
+    systems:
+
+  - agency: General Services Administration
+    acronym: GSA
+    participants:
+      - Thomas Shedd
+      - Akash Bobba
+      - Edward Coristine
+      - Luke Farritor
+      - Ethan Shaotran
+    events:
+      - date: 2025-02-12
+        event: Dozens of workers within the Technology Transformation Service (TTS) are fired.
+        source: https://www.wired.com/story/doge-access-consumer-financial-protection-bureau-data/
+    vandalism:
+    systems:
+    sources:
+      - https://www.wired.com/story/elon-musk-government-young-engineers/
+      - https://www.npr.org/2025/02/11/nx-s1-5293258/trump-gsa-budget-cuts-doge
+
+
+  - agency: Internal Revenue Service
+    acronym: IRS
+    date_started: 2025-02-17
+    date_completed: 
+    participants:
+      - Gavin Kliger
+    systems:
+      - name: Integrated Data Retrieval System
+        acronym: IDRS
+        link: https://www.irs.gov/irm/part2/irm_02-009-001r
+        sorn: https://www.federalregister.gov/documents/2015/09/08/2015-21980/privacy-act-of-1974-as-amended-system-of-records-notice
+        description: The IDRS contains some of the most sensitive financial information on American taxpayers.
+        risk: Access to PII and financial data of American taxpayers, including names, SSNs, tax returns, bank account numbers, etc.
+    sources:
+      - https://thehill.com/homenews/administration/5149835-stephen-miller-doge-irs/
+      - https://www.cnn.com/2025/02/17/politics/doge-irs-taxpayer-data/index.html
+
+  - agency: National Aeronautics and Space Administration
+    acronym: NASA
+
+  - agency: National Oceanic and Atmospheric Administration
+    events:
+      - date: 2025-02-04
+        event: DOGE staff enter NOAA facilities
+        source: https://www.axios.com/2025/02/04/trump-nominates-noaa-head-neil-jacobs
+      - date: 2025-02-05
+        event: NOAA employees were ordered to grant Rajpal editor access to all NOAA Google sites on instructions of the acting commerce secretary, Jeremy Pelter, by the close of business.
+        source: https://www.wired.com/story/doge-engineer-noaa-data-google-musk-climate-project-2025/
+    participants:
+      - Nikhil Rajpal
+    systems:
+      - name: NOAA Google enterprise systems
+        risk: Access to CUI stored in Google Drive at the NOAA
+        
+
+  - agency: Office of Personnel Management
+    acronym: OPM
+    date_started: 2025-01-20
+    date_completed: 2025-01-25
+    participants:
+      - Akash Bobba
+      - Edward Coristine
+      - Gavin Kliger
+    events:
+      - date: 2025-01-20
+        event: Acting OPM Director Charles Ezell replaces existing CIO Melvin Brown with Greg Hogan
+        source: https://www.muskwatch.com/p/musk-associates-given-unfettered
+      - date: 2025-01-20
+        event: The DOGE team moves into OPM, installing sofa beds and armed security
+        source: https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/
+      - date: 2025-01-31
+        event: Federal employees at OPM are locked out of access to key systems by DOGE and OPM leadership
+        source: https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/
+      - date: 2025-01-28
+        event: OPM sends out the "Fork in the Road" email to all federal employees offering them a chance to resign
+      - date: 2025-02-05
+        event: OPM attests the government-wide email system runs on agency systems
+        source: https://www.msn.com/en-us/news/us/controversial-opm-email-server-operates-entirely-on-government-computers-agency-says/ar-AA1yujjr
+    systems:
+      - name: UsaJobs
+        decription: Official hiring site for the federal government
+        sorn: https://www.federalregister.gov/documents/2014/03/26/2014-06593/privacy-act-of-1974-update-and-amend-system-of-records
+        risk: PII of individuals who have applied for federal jobs, including SSN, home address, and employment records
+      - name: Enterprise Human Resources Integration
+        acronym: EHRI
+        sorn: https://www.federalregister.gov/documents/2023/08/17/2023-17651/privacy-act-of-1974-system-of-records
+        pia: https://www.opm.gov/information-management/privacy-policy/privacy-policy/ehridw.pdf
+        description: Database of all federal employees
+        risk: PII including SSN, date of birth, salary, home address, and job description
+      - name: USA Staffing
+        description: System tracking onboarding of federal employees
+        sorn: https://www.federalregister.gov/documents/2021/12/01/2021-26086/privacy-act-of-1974-system-of-records
+        risk: agency-specific CUI related to onboarding
+      - name: USA Performance
+        acronym: USAP
+        description: System tracking job performance of federal employees
+        risk: PII and performance reviews of federal employees
+        sorn: https://www.opm.gov/information-management/privacy-policy/sorn/opm-sorn-govt-2-employee-performance-file-system-records.pdf
+        pia: https://www.opm.gov/information-management/privacy-policy/privacy-policy/usap-pia.pdf
+      - name: Health Insurance Data Warehouse
+        description: System tracking health claims of government employees and their dependents on FEHB health insurance plans
+        risk: PII and PHI of government employees and their dependents
+        pia: https://www.opm.gov/information-management/privacy-policy/privacy-policy/hidw-pia.pdf
+        sorn: https://www.opm.gov/information-management/privacy-policy/sorn/opm-sorn-central-15-health-claims-data-warehouse.pdf
+      - name: Government-Wide Email System
+        acronym: GWES
+        pia: https://www.opm.gov/media/kfpozkad/gwes-pia.pdf
+        description: A new system developed by DOGE for sending out email to all federal employees and collecting responses. It was most famously used for the Fork in The Road email.
+        risk: There are concerns it is an external system and did not go through a privacy review
+    sources:
+      - https://www.muskwatch.com/p/musk-associates-given-unfettered
+
+  - agency: Social Security Administration
+    acronym: SSA
+    date_started: 2025-02-17
+    date_completed:
+    participants:
+    systems:
+    sources:
+      - https://www.cnn.com/2025/02/17/politics/social-security-head-steps-down-doge-access/index.html
+
+  - agency: "US Agency for International Development"
+    acronym: USAID
+    participants:
+      - Gavin Kliger
+      - Luke Farritor
+    events:
+    vandalism:
+      - Entire website removed
+      - Social media accounts deleted
+      - YouTube videos removed
+    systems:
+
+  - name: Veterans Affairs
+    acronym: VA
