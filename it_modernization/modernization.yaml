@@ -11,7 +11,6 @@ agencies:
     sources:
       - https://www.motherjones.com/politics/2025/02/cdc-elon-musk-doge-layoffs-trump-chaos/
 
-
   - agency: Centers for Medicare and Medicaid Services
     acronym: CMS
     people:
@@ -29,7 +28,6 @@ agencies:
       - https://www.cms.gov/newsroom/press-releases/cms-statement-collaboration-doge
       - https://www.wsj.com/politics/elon-musk-doge-medicare-medicaid-fraud-e697b162
   
-
   - name: Commerce Department
     people:
       - Nikhil Rajpal
@@ -37,8 +35,10 @@ agencies:
       - date: 2025-01-24
         event: Commerce Department Inspector General is fired in a late-night purge
         source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
+      - date: 2025-02-05
+        event: DOGE staff enters the Commerce Department
+        source: https://www.govexec.com/management/2025/02/doge-enters-noaa-accesses-it-systems-and-removes-top-hr-official/402776/
     sources:
-
 
   - agency: Consumer Financial Protection Bureau
     acronym: CFPB
@@ -114,6 +114,8 @@ agencies:
     acronym: ED
     people:
       - Alan Ramada
+      - Akash Bobba
+      - Ethan Shaotran
     events:
       - date: 2025-01-24
         event: Trump fires the Inspector General for the Department of Education in a late-night purge
@@ -124,6 +126,9 @@ agencies:
       - date: 2025-02-03
         event: Twenty DOGE staff are in the agency and "have gained access to multiple sensitive internal systems, the people said, including a financial aid dataset that contains the personal information for millions of students enrolled in the federal student aid program."
         source: https://www.washingtonpost.com/education/2025/02/03/trump-education-department-dismantling-executive-order-draft/
+      - date: 2025-02-08
+        event: NBC News reports that Akash Bobba and Ethan Shaotran have admin access to email and had also accessed the website backend
+        source: https://www.nbcnews.com/news/us-news/elon-musk-doge-team-education-department-rcna191244
       - date: 2025-02-11
         event: Department of Education agreed to block DOGE from access to financial aid systems
         source: https://www.usatoday.com/story/news/politics/2025/02/11/education-dept-doge-musk-court-order/78429043007/
@@ -135,30 +140,32 @@ agencies:
         acronym: COD
         description: A system for disbursing grants and loans that are paid to institutions of higher education directly (who then provide to students)
         pia: https://www.ed.gov/sites/ed/files/notices/pia/fsa-pia-cod.pdf
-        sorn: 
+        sorn: https://www.federalregister.gov/documents/2023/06/28/2023-13698/privacy-act-of-1974-system-of-records
       - name: Debt Management and Collection System
         acronym: DMCS
         description: A system used for tracking and assisting in collection of federal student loans in default
         pia: https://www.ed.gov/sites/ed/files/2025-01/PIA_FSA_DMCS_11_22_2024.pdf
-        sorn:
       - name: FAFSA Processing System
         acronym: FPS
         description: The system for receiving and evaluating applications for federal student aid and sharing determinations with universities
         pia: https://www.ed.gov/sites/ed/files/notices/pia/pia-fps.pdf
         sorn: 
+      - name: FUTURE Act Systems
+        acronym: FAS
+        description: Systems for implementing the FUTURE Act, allowing FAFSA to obtain federal tax information for students
+        pia: https://www.ed.gov/media/document/federal-tax-information-module-107894.pdf
+        sorn: https://www.federalregister.gov/documents/2023/06/29/2023-13980/privacy-act-of-1974-system-of-records
       - name: Financial Management System
         acronym: FMS
         description: A system that consolidates grants, loans and work-study funds for students under Title IV of the Higher Education Act
         pia: https://www.ed.gov/sites/ed/files/notices/pia/fsa-financ-manag-syst.pdf
-        sorn: 
+        sorn: https://www.ed.gov/sites/ed/files/notices/sorn/18-11-17_010208.pdf
       - name: National Student Loan Data System (New)
         acronym: NSLDS
         description: A a comprehensive national database for the Federal financial aid history of recipients of student financial assistance and grants authorized under Title IV of the Higher Education Act of 1965
         pia: https://www.ed.gov/about/ed-overview/required-notices/privacy/privacy-impact-assessments-pia
-        sorn:
+        sorn: https://www.federalregister.gov/documents/2024/05/21/2024-11136/privacy-act-of-1974-system-of-records
 
-
-  
   - name: Department of Energy
     acronym: DOE
     events:
@@ -180,7 +187,6 @@ agencies:
     - sources:
       - https://www.cnn.com/2025/02/06/climate/doge-energy-department-trump/index.html
 
-
   - agency: Department of Homeland Security
     acronym: DHS
     people:
@@ -189,7 +195,6 @@ agencies:
       - date: 2025-02-10
         event: Edward Coristine appears in a DHS directory as a "senior advisor"
         source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
-
 
   - agency: Department of Labor
     acronym: DOL
@@ -212,11 +217,9 @@ agencies:
       - date: 2025-02-13
         event: DOGE is granted authorization to use file transfer software
         source: https://www.nbcnews.com/tech/security/doge-software-approval-alarms-labor-department-employees-data-security-rcna191583
-    vandalism:
     systems:
     sources:
       - https://www.nbcnews.com/tech/security/doge-software-approval-alarms-labor-department-employees-data-security-rcna191583
-
 
   - agency: Department of the Treasury
     acronym: Treasury
@@ -266,7 +269,6 @@ agencies:
       - https://www.snopes.com/news/2025/02/04/doge-musk-treasury/
       - https://www.wired.com/story/elon-musk-associate-bfs-federal-payment-system/
   
-
   - name: Environmental Protection Agency
     acronym: EPA
     people:
@@ -310,13 +312,21 @@ agencies:
       - Justin Monroe
     systems:
     
-
   - name: Federal Emergency Management Agency
     acronym: FEMA
-    date_started: 2025-02-12
-    date_completed:
     people:
+      - Edward Coristine
+    events:
+      - date: 2025-02-05
+        event: Edward Coristine is given a FEMA badge and onboarded into the agency
+        source: https://www.washingtonpost.com/climate-environment/2025/02/07/musk-trump-fema-doge/
     systems:
+      - name: FEMA Grants Outcomes
+        acronym: FEMA GO
+        description: A system for managing grant program for communities affected by disasters
+        link: https://go.fema.gov/
+        pia: https://www.dhs.gov/sites/default/files/publications/privacy-pia-fema013-gmp-appendixupdate-march2020.pdf
+        sorn: https://www.federalregister.gov/documents/2022/07/11/2022-14673/privacy-act-of-1974-system-of-records
 
   - name: Food and Drug Administration
     acronym: FDA
@@ -327,6 +337,7 @@ agencies:
       - date: 2025-02-17
         event: The head of the agency's food safety division resigns of 89 employees being indiscriminately fired
         source: https://thehill.com/policy/healthcare/5152084-fdas-food-safety-head-resigns/
+
 
   - agency: General Services Administration
     acronym: GSA
@@ -366,6 +377,13 @@ agencies:
         event: Trump fires the HHS Inspector General in a late-night purge
         source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
 
+  - agency: Housing and Urban Development
+    acronym: HUD
+    people:
+      - Scott Langmack
+    events:
+    sources:
+      - https://www.nbcnews.com/politics/doge/doge-elon-musk-report-people-staff-what-we-know-news-rcna191260
 
   - agency: Internal Revenue Service
     acronym: IRS
@@ -416,8 +434,7 @@ agencies:
     systems:
       - name: NOAA Google enterprise systems
         risk: Access to CUI stored in Google Drive at the NOAA
-        
-
+  
   - agency: Office of Personnel Management
     acronym: OPM
     date_started: 2025-01-20
@@ -508,6 +525,13 @@ agencies:
         event: Edward Coristine and Luke Farritor are posted to the State Department's Bureau of Diplomatic Technology
         source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
 
+  - agency: Securities and Exchange Commission
+    acronym: SEC
+    events:
+      - date: 2025-02-17
+        event: SEC staff report the imminent arrival of DOGE to to the agency
+        source: https://www.politico.com/news/2025/02/17/musk-doge-securities-exchange-commission-00204621
+
   - agency: Social Security Administration
     acronym: SSA
     people:
@@ -524,25 +548,21 @@ agencies:
         description: System for detecting and preventing fraud in Social Security
         risk: PII of individuals stored in other systems and copied here for investigation
         pia: https://www.ssa.gov/privacy/pia/AFES_OPD%20Draft_PIA_04-17-2018.htm
-        sorn: 
       - name: Electronic Disability System
         acronym: eDib
         description: System for processing disability claims against Social Security
         risk: PII and PHI of individuals applying for disability benefits, including names, SSNs, and medical information related to their disability
         pia: https://www.ssa.gov/privacy/pia/eDib%20PIA%20OPD%20Final_Feb%201,%202018.pdf
-        sorn:
       - name: Electronic Wage Reporting System
         acronym: EWR
         decription: A system for employers to submit W-2 records every year for their employees
         risk: Private tax information for every American
         pia: https://www.ssa.gov/privacy/pia/Final%20PIA%20for%20the%20EWR%20System.htm
-        sorn:
       - name: Human Resources System
         acronym: HRS
         description: Collection of systems for human resources, timekeeping and payroll for SSA employees
         risk: PII of SSA employees, including names, SSNs, and payroll information
         pia: https://www.ssa.gov/privacy/pia/HRS%20PIA.htm
-        sorn: 
       - name: Master Beneficiary Record
         acronym: MBR
         descrption: A record of all each claimant who has applied for Retirement/Survivors Insurance or Disability benefits
@@ -553,35 +573,58 @@ agencies:
         decription: The system for issuing new SSNs as well as replacement SSN cards
         risk: PII of individual include SSNs and information submitted on birth certificates
         pia: https://www.ssa.gov/privacy/pia/Social%20Security%20Number%20Establishment%20and%20Correction%20System.updtdSept%2028.htm
-        sorn: 
       - name: Title II
         description: Major Application consisting of sub-systems and applications associated with receiving, adjudicating, and processing applications for Title II Social Security benefits.
         risk: PII of individuals including names, SSNs, SS claims and Medicare eligibility
         pia: https://www.ssa.gov/privacy/pia/Title%20II%20PIA%20Final.htm
-        sorn: 
     sources:
       - https://www.cnn.com/2025/02/17/politics/social-security-head-steps-down-doge-access/index.html
 
   - agency: "US Agency for International Development"
     acronym: USAID
     people:
+      - Edward Coristine
       - Gavin Kliger
       - Luke Farritor
     events:
-      - date: 2025-01-24
-        event: Trump fires the USAID Inspector General in a late-night purge
-        source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
       - date: 2025-02-01
-        event: USAID website is taken offline by DOGE
-        source: https://apnews.com/article/usaid-website-offline-trump-foreign-funding-freeze-9d2ecdaff5c74a9f6b0d6096fa2228ff
+        event: USAID Director of Security and deputy placed on administrative leave for trying to prevent DOGE from accessing personnel files and classified data
+        source: https://www.nbcnews.com/politics/national-security/usaid-security-leaders-removed-refusing-elon-musks-doge-employees-acce-rcna190357
+      - date: 2025-02-01
+        event: USAID website and 6 other related websites are taken offline by DOGE
+        source: https://www.wired.com/story/us-government-websites-are-disappearing-in-real-time/
+      - date: 2025-02-01
+        event: Approximately 2000 USAID email accounts are deactivated
+        source: https://fedscoop.com/usaid-website-goes-dark-staff-emails-deactivated-amid-doge-takeover-source-says/
+      - date: 2025-02-02
+        event: Elon Musk posts a series of tweets calling USAID evil and saying it is "time for it to die"
+        source: https://www.nbcnews.com/politics/doge/elon-musk-boosted-false-usaid-conspiracy-theories-global-aid-rcna190646
       - date: 2025-02-03
         event: An email informing USAID staff that the building was closed included Gavin Kliger's email address
         source: https://www.npr.org/2025/02/06/nx-s1-5289337/elon-musk-doge-treasury
+      - date: 2025-02-03
+        event: Elon Musk tweets that he and President Trump are shutting down USAID
+        source: https://www.nbcnews.com/politics/politics-news/elon-musk-says-trump-are-shutting-usaid-rcna190388
+      - date: 2025-02-04
+        event: All USAID staff are informed by email they will soon be placed on indefinite administrative leave
+        source: https://oig.usaid.gov/sites/default/files/2025-02/USAID%20OIG%20-%20Oversight%20of%20USAID-Funded%20Humanitarian%20Assistance%20Programming%20021025.pdf
+      - date: 2025-02-06
+        event: DOGE staff attempt to use access to Treasury systems to stop payment to USAID programs
+        source: https://apnews.com/article/treasury-doge-musk-read-only-access-489231c6db1a9f07fc68f9f08803f815
+      - date: 2025-02-07
+        event: All USAID staff are placed on indefinite administrative leave
+        source: https://www.nbcnews.com/politics/politics-news/usaid-reduce-foreign-service-officers-trump-cuts-federal-government-rcna191122
+      - date: 2025-02-11
+        event: USAID Inspector General is illegally fired after releasing a report critical of DOGE's actions
+        source: https://www.cnn.com/2025/02/11/politics/usaid-inspector-general-fired-trump/index.html
     vandalism:
       - Entire website removed
       - Social media accounts deleted
       - YouTube videos removed
     systems:
+    sources:
+      - https://oig.usaid.gov/sites/default/files/2025-02/USAID%20OIG%20-%20Oversight%20of%20USAID-Funded%20Humanitarian%20Assistance%20Programming%20021025.pdf
+      - https://www.nextgov.com/people/2025/02/doge-deputies-land-state-department-tech-bureau-usaid-emails/402888/
 
   - name: Veterans Affairs
     acronym: VA
