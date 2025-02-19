@@ -139,30 +139,36 @@ agencies:
       - name: Common Origination and Disbursement System
         acronym: COD
         description: A system for disbursing grants and loans that are paid to institutions of higher education directly (who then provide to students)
+        risk: PII and bank account information for institutions of higher education
         pia: https://www.ed.gov/sites/ed/files/notices/pia/fsa-pia-cod.pdf
         sorn: https://www.federalregister.gov/documents/2023/06/28/2023-13698/privacy-act-of-1974-system-of-records
       - name: Debt Management and Collection System
         acronym: DMCS
         description: A system used for tracking and assisting in collection of federal student loans in default
+        risk: PII and details of debt amounts for individuals who have defaulted on their loans
         pia: https://www.ed.gov/sites/ed/files/2025-01/PIA_FSA_DMCS_11_22_2024.pdf
       - name: FAFSA Processing System
         acronym: FPS
         description: The system for receiving and evaluating applications for federal student aid and sharing determinations with universities
+        risk: PII of student and parents, include names, address, SSNs, tax information and schools receiving the form
         pia: https://www.ed.gov/sites/ed/files/notices/pia/pia-fps.pdf
         sorn: 
       - name: FUTURE Act Systems
         acronym: FAS
         description: Systems for implementing the FUTURE Act, allowing FAFSA to obtain federal tax information for students
+        risk: Sensitive tax information of students and parents
         pia: https://www.ed.gov/media/document/federal-tax-information-module-107894.pdf
         sorn: https://www.federalregister.gov/documents/2023/06/29/2023-13980/privacy-act-of-1974-system-of-records
       - name: Financial Management System
         acronym: FMS
         description: A system that consolidates grants, loans and work-study funds for students under Title IV of the Higher Education Act
+        risk: PII of students, including names, addresses, SSNs and financial details of payments
         pia: https://www.ed.gov/sites/ed/files/notices/pia/fsa-financ-manag-syst.pdf
         sorn: https://www.ed.gov/sites/ed/files/notices/sorn/18-11-17_010208.pdf
       - name: National Student Loan Data System (New)
         acronym: NSLDS
         description: A a comprehensive national database for the Federal financial aid history of recipients of student financial assistance and grants authorized under Title IV of the Higher Education Act of 1965
+        risk: PII of students, including names, addresses, SSNs and financial details of student loans
         pia: https://www.ed.gov/about/ed-overview/required-notices/privacy/privacy-impact-assessments-pia
         sorn: https://www.federalregister.gov/documents/2024/05/21/2024-11136/privacy-act-of-1974-system-of-records
 
@@ -324,6 +330,7 @@ agencies:
       - name: FEMA Grants Outcomes
         acronym: FEMA GO
         description: A system for managing grant program for communities affected by disasters
+        risk: PII of grant recipients, including names, addresses and bank information
         link: https://go.fema.gov/
         pia: https://www.dhs.gov/sites/default/files/publications/privacy-pia-fema013-gmp-appendixupdate-march2020.pdf
         sorn: https://www.federalregister.gov/documents/2022/07/11/2022-14673/privacy-act-of-1974-system-of-records
@@ -361,6 +368,7 @@ agencies:
         risk: Access to PII like phone numbers as well as private information like participation in Medicaid, etc.
       - name: Pegasys
         description: Pegasys is the GSA core financial management system of records to make payments and record accounting transactions. This includes funds management (budget execution and purchasing), credit cards, accounts payable, disbursements, standard general ledger, and reporting.
+        risk: PII of individuals and companies that receive funds from the GSA
         pia: https://www.gsa.gov/system/files/Pegasys_PIA.pdf
         sorn: https://www.federalregister.gov/documents/2006/10/16/E6-17069/privacy-act-of-1974-notice-of-a-new-system-of-records
     sources:

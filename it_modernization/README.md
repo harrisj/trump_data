@@ -13,7 +13,7 @@ A record might look something like this:
 ```yaml
     - agency: Internal Revenue Service
       acronym: IRS
-      participants:
+      people:
         - Gavin Kliger
       events:
         - date: 2025-02-13
@@ -34,6 +34,7 @@ A record might look something like this:
         - https://thehill.com/homenews/administration/5149835-stephen-miller-doge-irs/
         - https://www.cnn.com/2025/02/17/politics/doge-irs-taxpayer-data/index.html
 ```
+
 With the following fields:
 - agency: the name of the agency
 - acronym: if the agency has an acronym, it will be here
