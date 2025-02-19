@@ -88,6 +88,12 @@ agencies:
       - date: 2025-01-24
         event: Trump fires the USDA Inspector General in a late-night purge
         source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
+      - date: 2025-02-14
+        event: In a speech, Secretary of Agriculture says DOGE has been at the agency for "a few weeks"
+        source: https://www.usda.gov/about-usda/news/press-releases/2025/02/14/secretary-rollins-delivers-opening-remarks-usda-headquarters
+      - date: 2025-02-15
+        event: USDA accidentally includes official working on H5N1 response in mass firings of probationary employees
+        sourcee: https://www.nbcnews.com/politics/doge/usda-accidentally-fired-officials-bird-flu-rehire-rcna192716
 
 
   - name: Department of Defense
@@ -97,16 +103,24 @@ agencies:
         event: Trump fires the DoD Inspector General in a late-night purge
         source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
       - date: 2025-02-18
-        event: UnidentifiedDOGE team has a kickoff meeting with DoD staff at the Pentagon
+        event: Unidentified DOGE team has a kickoff meeting with DoD staff at the Pentagon
         source: https://www.msn.com/en-us/money/companies/doge-meets-with-pentagon-officials-to-plan-cuts-at-the-biggest-u-s-department/ar-AA1zjgby
+      - date: 2025-02-18
+        event: DoD agencies are ordered to provide lists of probationary employees to DOGE
+        source: https://www.washingtonpost.com/national-security/2025/02/18/pentagon-layoffs-musk-doge-trump/
 
 
   - name: Department of Education
     acronym: ED
+    people:
+      - Alan Ramada
     events:
       - date: 2025-01-24
         event: Trump fires the Inspector General for the Department of Education in a late-night purge
         source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
+      - date: 2028-01-28
+        event: According to his sworn testimony, Alan Ramada started working at the Department of Education on this date. He says there is one other USDS staffer with him, two other detailees and two DOE staffers.
+        source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.16.1.pdf
       - date: 2025-02-03
         event: Twenty DOGE staff are in the agency and "have gained access to multiple sensitive internal systems, the people said, including a financial aid dataset that contains the personal information for millions of students enrolled in the federal student aid program."
         source: https://www.washingtonpost.com/education/2025/02/03/trump-education-department-dismantling-executive-order-draft/
@@ -167,6 +181,16 @@ agencies:
       - https://www.cnn.com/2025/02/06/climate/doge-energy-department-trump/index.html
 
 
+  - agency: Department of Homeland Security
+    acronym: DHS
+    people:
+      -  Edward Coristine
+    events:
+      - date: 2025-02-10
+        event: Edward Coristine appears in a DHS directory as a "senior advisor"
+        source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
+
+
   - agency: Department of Labor
     acronym: DOL
     people:
@@ -205,9 +229,18 @@ agencies:
       - date: 2025-02-07
         event: Marko Elez resigns after past racist tweets are revealed
         source: https://www.npr.org/2025/02/06/nx-s1-5289337/elon-musk-doge-treasury
+      - date: 2025-02-10
+        event: Affadavit states a BFS payment was presented to State Department to not process after review by DOGE
+        source: https://www.washingtonpost.com/business/2025/02/11/doge-treasury-access-marko-elez/
+      - date: 2025-02-11
+        event: Affadavit states Marko Elez was accidentally given edit access to BFS systems but did not use it
+        source: https://www.washingtonpost.com/business/2025/02/11/doge-treasury-access-marko-elez/
       - date: 2025-02-18
         event: Marko Elex reinstated in the Trump administration and is given access to Treasury systems again
-        source: 
+        source:
+      - date: 2025-02-19
+        event: Treasury Secretary Scott Bessent says only one person from DOGE is "looking at an outdated IT system, that's all they're doing."
+        source: https://www.bloomberg.com/news/articles/2025-02-19/bessent-says-doge-effort-has-saved-estimated-50-billion-so-far
     systems:
       - name: Federal Disbursement Services
         acronym: FDS
@@ -251,9 +284,6 @@ agencies:
       - date: 2025-02-14
         event: 388 probabtionary employees are fired
         source: https://www.eenews.net/articles/epa-pushes-out-almost-500-probationary-employees/
-      - date: 2025-02-18
-        event: Privacy advocates sue to stop DOGE acess to IRS systems
-        source: https://www.npr.org/2025/02/18/nx-s1-5300826/doge-irs-lawsuit-taxpayers-data
     sources:
       - https://projects.propublica.org/elon-musk-doge-tracker/
 
@@ -287,6 +317,16 @@ agencies:
     date_completed:
     people:
     systems:
+
+  - name: Food and Drug Administration
+    acronym: FDA
+    events:
+      - date: 2025-02-17
+        event: The head of the medical device safety division is fired amid mass layoffs
+        source: https://www.statnews.com/2025/02/18/fda-trump-musk-doge-cuts-ross-segan-memo-medical-device-safety/
+      - date: 2025-02-17
+        event: The head of the agency's food safety division resigns of 89 employees being indiscriminately fired
+        source: https://thehill.com/policy/healthcare/5152084-fdas-food-safety-head-resigns/
 
   - agency: General Services Administration
     acronym: GSA
@@ -335,9 +375,15 @@ agencies:
       - date: 2025-02-13
         event: Gavin Kliger arrives at the IRS to begin onboarding
         source: https://www.wsj.com/politics/policy/doge-internal-revenue-service-9697cb99
-      - date: 2025-02-18
+      - date: 2025-02-17
+        event: White House official confirms one DOGE staffer will be working with an IRS employee to access IRS systems
+        source: https://www.politico.com/news/2025/02/17/elon-musk-doge-irs-00204579
+      - date: 2025-02-16
         event: White House pressures the IRS to sign a MOU granting DOGE expanded access to internal systems
         source: https://www.washingtonpost.com/business/2025/02/16/doge-irs-access-taxpayer-data/
+      - date: 2025-02-18
+        event: Privacy advocates sue to stop DOGE acess to IRS systems
+        source: https://www.npr.org/2025/02/18/nx-s1-5300826/doge-irs-lawsuit-taxpayers-data
     systems:
       - name: Integrated Data Retrieval System
         acronym: IDRS
@@ -352,6 +398,10 @@ agencies:
 
   - agency: National Aeronautics and Space Administration
     acronym: NASA
+    events:
+      - date: 2025-02-14
+        event: NASA administrator emails all staff to report that "DOGE has arrived"
+        source: https://mynews13.com/fl/orlando/space/2025/02/18/doge-is-at-nasa
 
   - agency: National Oceanic and Atmospheric Administration
     events:
@@ -394,6 +444,9 @@ agencies:
       - date: 2025-02-05
         event: OPM attests the government-wide email system runs on agency systems
         source: https://www.msn.com/en-us/news/us/controversial-opm-email-server-operates-entirely-on-government-computers-agency-says/ar-AA1yujjr
+      - date: 2025-02-18
+        event: CNN reporter shares that a FOIA request about DOGE was replied to with "they just fired the whole privacy team"
+        source: https://www.commondreams.org/news/cnn-foia-office-of-personnel-management
     systems:
       - name: UsaJobs
         decription: Official hiring site for the federal government
@@ -445,6 +498,15 @@ agencies:
         source: https://democrats-smallbusiness.house.gov/uploadedfiles/letter_to_sba_system_access_feb._3_2025_final12.pdf
       - date: 2025-02-07
         event: The deadline for the SBA Administrator to respond to the letter passes with no response
+
+  - agency: State Department
+    people:
+      - Edward Coristine
+      - Luke Farritor
+    events:
+      - date: 2025-02-10
+        event: Edward Coristine and Luke Farritor are posted to the State Department's Bureau of Diplomatic Technology
+        source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
 
   - agency: Social Security Administration
     acronym: SSA
