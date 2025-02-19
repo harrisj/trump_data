@@ -33,6 +33,10 @@ agencies:
   - name: Commerce Department
     people:
       - Nikhil Rajpal
+    events:
+      - date: 2025-01-24
+        event: Commerce Department Inspector General is fired in a late-night purge
+        source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
     sources:
 
 
@@ -78,9 +82,20 @@ agencies:
       - https://www.doi.gov/ibc/services/finance/financial-systems/prism
 
 
+  - name: Department of Agriculture
+    acronym: USDA
+    events:
+      - date: 2025-01-24
+        event: Trump fires the USDA Inspector General in a late-night purge
+        source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
+
+
   - name: Department of Defense
     acronym: DoD
     events:
+      - date: 2025-01-24
+        event: Trump fires the DoD Inspector General in a late-night purge
+        source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
       - date: 2025-02-18
         event: UnidentifiedDOGE team has a kickoff meeting with DoD staff at the Pentagon
         source: https://www.msn.com/en-us/money/companies/doge-meets-with-pentagon-officials-to-plan-cuts-at-the-biggest-u-s-department/ar-AA1zjgby
@@ -89,6 +104,9 @@ agencies:
   - name: Department of Education
     acronym: ED
     events:
+      - date: 2025-01-24
+        event: Trump fires the Inspector General for the Department of Education in a late-night purge
+        source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
       - date: 2025-02-03
         event: Twenty DOGE staff are in the agency and "have gained access to multiple sensitive internal systems, the people said, including a financial aid dataset that contains the personal information for millions of students enrolled in the federal student aid program."
         source: https://www.washingtonpost.com/education/2025/02/03/trump-education-department-dismantling-executive-order-draft/
@@ -130,6 +148,9 @@ agencies:
   - name: Department of Energy
     acronym: DOE
     events:
+      - date: 2025-01-24
+        event: Trump fires the Inspector General for the Department of Energy in a late-night purge
+        source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
       - date: 2025-02-05
         event: Luke Farritor was granted access to the Energy Department's IT system on Wednesday by Energy Secretary Chris Wright over objections from agency security staff
         source: https://www.cnn.com/2025/02/06/climate/doge-energy-department-trump/index.html
@@ -155,6 +176,9 @@ agencies:
       - Adam Ramada
       - Jordan Wick
     events:
+      - date: 2025-01-24
+        event: Trump fires the Inspector General for the Department of Labor in a late-night purge
+        source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
       - date: 2025-02-04
         event: DOL staff reportedly ordered "to give DOGE access to whatever they ask for—or risk termination"
         source: https://bsky.app/profile/kimkelly.bsky.social/post/3lhf2owbxc22b
@@ -175,6 +199,15 @@ agencies:
     people:
       - Marko Elez
     events:
+      - date: 2025-01-24
+        event: Trump fires the Inspector General for the Department of the Treasury in a late-night purge
+        source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
+      - date: 2025-02-07
+        event: Marko Elez resigns after past racist tweets are revealed
+        source: https://www.npr.org/2025/02/06/nx-s1-5289337/elon-musk-doge-treasury
+      - date: 2025-02-18
+        event: Marko Elex reinstated in the Trump administration and is given access to Treasury systems again
+        source: 
     systems:
       - name: Federal Disbursement Services
         acronym: FDS
@@ -206,6 +239,9 @@ agencies:
     people:
       - Gautier Killian
     events:
+      - date: 2025-01-24
+        event: Trump fires the EPA Inspector General in a late-night purge
+        source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
       - date: 2025-02-04
         event: Gauiter "Cole" Killian appears in an EPA internal directory as a "Federal Detailee"
         source: https://www.eenews.net/articles/doge-aide-pops-up-in-epa-staff-directory/
@@ -281,6 +317,16 @@ agencies:
       - https://www.npr.org/2025/02/11/nx-s1-5293258/trump-gsa-budget-cuts-doge
 
 
+  - agency: Health and Human Services
+    acronym: HHS
+    people:
+      - Luke Farritor
+    events:
+      - date: 2025-01-24
+        event: Trump fires the HHS Inspector General in a late-night purge
+        source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
+
+
   - agency: Internal Revenue Service
     acronym: IRS
     people:
@@ -337,6 +383,9 @@ agencies:
       - date: 2025-01-20
         event: The DOGE team moves into OPM, installing sofa beds and armed security
         source: https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/
+      - date: 2025-01-24
+        event: Trump fires the OPM Inspector General in a late-night purge
+        source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
       - date: 2025-01-31
         event: Federal employees at OPM are locked out of access to key systems by DOGE and OPM leadership
         source: https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/
@@ -379,10 +428,75 @@ agencies:
     sources:
       - https://www.muskwatch.com/p/musk-associates-given-unfettered
 
+  - agency: Small Business Administration
+    acronym: SBA
+    people:
+      - Edward Coristine
+      - Donald Park
+    events:
+      - date: 2025-01-24
+        event: Trump fires the SBA Inspector General in a late-night purge
+        source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
+      - date: 2025-02-03
+        event: Email to SBA staff announces that Edward Coristine was granted access to all systems including HR, contract, and payment systems. 
+        source: https://breakingthenews.net/Article/DOGE-gains-access-to-SBA-systems-amid-data-privacy-fears/63463801
+      - date: 2025-02-03
+        event: Democrats on the House Committee on Small Business send a letter requesting details on DOGE's operations at SBA
+        source: https://democrats-smallbusiness.house.gov/uploadedfiles/letter_to_sba_system_access_feb._3_2025_final12.pdf
+      - date: 2025-02-07
+        event: The deadline for the SBA Administrator to respond to the letter passes with no response
+
   - agency: Social Security Administration
     acronym: SSA
     people:
+    events:
+      - date: 2025-02-16
+        event: The acting director of the Social Security Administration, Michelle King, resigned rather than authorize DOGE access to SSA systems
+        source: https://www.washingtonpost.com/politics/2025/02/17/doge-social-security-musk/
+      - date: 2025-02-16
+        event: Trump appoints Leland Dudek as acting director of the Social Security Administration, bypassing more senior officials in the SSA
+        source: https://www.washingtonpost.com/politics/2025/02/17/doge-social-security-musk/
     systems:
+      - name: Anti-Fraud Enterprise Solution
+        acronym: AFES
+        description: System for detecting and preventing fraud in Social Security
+        risk: PII of individuals stored in other systems and copied here for investigation
+        pia: https://www.ssa.gov/privacy/pia/AFES_OPD%20Draft_PIA_04-17-2018.htm
+        sorn: 
+      - name: Electronic Disability System
+        acronym: eDib
+        description: System for processing disability claims against Social Security
+        risk: PII and PHI of individuals applying for disability benefits, including names, SSNs, and medical information related to their disability
+        pia: https://www.ssa.gov/privacy/pia/eDib%20PIA%20OPD%20Final_Feb%201,%202018.pdf
+        sorn:
+      - name: Electronic Wage Reporting System
+        acronym: EWR
+        decription: A system for employers to submit W-2 records every year for their employees
+        risk: Private tax information for every American
+        pia: https://www.ssa.gov/privacy/pia/Final%20PIA%20for%20the%20EWR%20System.htm
+        sorn:
+      - name: Human Resources System
+        acronym: HRS
+        description: Collection of systems for human resources, timekeeping and payroll for SSA employees
+        risk: PII of SSA employees, including names, SSNs, and payroll information
+        pia: https://www.ssa.gov/privacy/pia/HRS%20PIA.htm
+        sorn: 
+      - name: Master Beneficiary Record
+        acronym: MBR
+        descrption: A record of all each claimant who has applied for Retirement/Survivors Insurance or Disability benefits
+        risk: PII of individuals including names, SSNs and other information, as well as PHI of disabilities and the amounts of payments received
+        sorn: https://www.ssa.gov/privacy/sorn/60-0090.pdf
+      - name: Social Security Number Establishment and Correction System
+        acronym: SSNEC
+        decription: The system for issuing new SSNs as well as replacement SSN cards
+        risk: PII of individual include SSNs and information submitted on birth certificates
+        pia: https://www.ssa.gov/privacy/pia/Social%20Security%20Number%20Establishment%20and%20Correction%20System.updtdSept%2028.htm
+        sorn: 
+      - name: Title II
+        description: Major Application consisting of sub-systems and applications associated with receiving, adjudicating, and processing applications for Title II Social Security benefits.
+        risk: PII of individuals including names, SSNs, SS claims and Medicare eligibility
+        pia: https://www.ssa.gov/privacy/pia/Title%20II%20PIA%20Final.htm
+        sorn: 
     sources:
       - https://www.cnn.com/2025/02/17/politics/social-security-head-steps-down-doge-access/index.html
 
@@ -392,6 +506,15 @@ agencies:
       - Gavin Kliger
       - Luke Farritor
     events:
+      - date: 2025-01-24
+        event: Trump fires the USAID Inspector General in a late-night purge
+        source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
+      - date: 2025-02-01
+        event: USAID website is taken offline by DOGE
+        source: https://apnews.com/article/usaid-website-offline-trump-foreign-funding-freeze-9d2ecdaff5c74a9f6b0d6096fa2228ff
+      - date: 2025-02-03
+        event: An email informing USAID staff that the building was closed included Gavin Kliger's email address
+        source: https://www.npr.org/2025/02/06/nx-s1-5289337/elon-musk-doge-treasury
     vandalism:
       - Entire website removed
       - Social media accounts deleted
@@ -400,3 +523,13 @@ agencies:
 
   - name: Veterans Affairs
     acronym: VA
+    events:
+      - date: 2025-01-24
+        event: Trump fires the VA Inspector General in a late-night purge
+        source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
+      - date: 2025-02-04
+        event: A representative from DOGE was given access to contracting systems as well as information on VA operations and information technology systems.
+        source: https://www.military.com/daily-news/2025/02/05/elon-musk-aide-now-working-va-and-accessing-its-computer-systems.html
+      - event: 2025-02-18
+        event: Senate Democrats send letter to VA Secretary demanding information about DOGE's activities there
+        source: https://fedscoop.com/veterans-affairs-data-doge-elon-musk/
