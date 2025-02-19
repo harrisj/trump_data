@@ -298,6 +298,11 @@ agencies:
 
   - name: Federal Aviation Administration
     acronym: FAA
+    people:
+      - Ted Malaska
+      - Thomas Kiernan
+      - Sam Smeal
+      - Brady Glantz
     events:
       - date: 2025-02-05
         event: Elon Musk promises that DOGE will make rapid upgrades to airline systems after outage of NOTAM alerting system
@@ -305,6 +310,9 @@ agencies:
       - date: 2025-02-10
         event: NOTAM has its name changed from Notice to Air Missions back to its original name of Notice to Airmen
         source: https://www.faa.gov/about/initiatives/notam/what_is_a_notam
+      - date: 2025-02-16
+        event: 4 SpaceX engineers were onboarded into the FAA under the Schedule A hiring authority for people with disabilities
+        source: https://www.wired.com/story/faa-doge-elon-musk-space-x/
     systems:
       - name: Notice to Airmen
         acronym: NOTAM
