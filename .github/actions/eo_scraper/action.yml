@@ -27,6 +27,6 @@ runs:
         git config pull.rebase false
         git status
         git pull origin $GITHUB_REF
-        git add exec_order_lawsuits/.
+        git add ./exec_order_lawsuits/exec_order_lawsuits.json
         git commit -m "EO Litigation Update $(date +'%F %H:%M')" && git push || true
       shell: bash
