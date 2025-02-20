@@ -575,6 +575,10 @@ agencies:
   - agency: Social Security Administration
     acronym: SSA
     people:
+      - Marko Elez
+      - Ethan Shaotran
+      - Nikhil Rajpal
+      - Gautier Killian
     events:
       - date: 2025-02-16
         event: The acting director of the Social Security Administration, Michelle King, resigned rather than authorize DOGE access to SSA systems
@@ -582,6 +586,9 @@ agencies:
       - date: 2025-02-16
         event: Trump appoints Leland Dudek as acting director of the Social Security Administration, bypassing more senior officials in the SSA
         source: https://www.washingtonpost.com/politics/2025/02/17/doge-social-security-musk/
+      - date: 2025-02-20
+        event: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group)
+        source: https://bsky.app/profile/marisakabas.bsky.social/post/3limtcjvhzc2d
     systems:
       - name: Anti-Fraud Enterprise Solution
         acronym: AFES
