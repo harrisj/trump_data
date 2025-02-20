@@ -24,5 +24,4 @@ This is a simple CSV that I will update manually over time with the following co
 - expression (string, e.g. "=10", ">80", "~100"): a representation of the qualifiers in news articles
 - quote (string): the quote from the article containing the population number
 - source (a link to a source URL): a link to the source of the number
-- source2 (another link to a different source to lend credence to specific numbers)
 
