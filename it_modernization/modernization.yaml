@@ -8,8 +8,15 @@ agencies:
       - date: 2025-02-06
         event: DOGE staff arrive at CDC HQ in Atlanta
         source: https://www.fox5atlanta.com/news/elon-musks-doge-team-visits-cdc-atlanta-reports-say
+      - date: 2025-02-19
+        event: Staff at the CDC CIO's office report not being contacted by DOGE yet
+        source: https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/
     sources:
       - https://www.motherjones.com/politics/2025/02/cdc-elon-musk-doge-layoffs-trump-chaos/
+    systems:
+      - name: One CDC Data Platform
+        description: A system for centralizng health access, public-health data, including hundreds of thousands of daily anonymized lab tests, data from emergency-room visits, and measurements from wastewater disease-reporting sites
+        link: https://www.cdc.gov/public-health-data-strategy/php/about/index.html
 
   - agency: Centers for Medicare and Medicaid Services
     acronym: CMS
@@ -80,6 +87,16 @@ agencies:
     sources:
       - https://www.wired.com/story/doge-access-consumer-financial-protection-bureau-data/
       - https://www.doi.gov/ibc/services/finance/financial-systems/prism
+
+  - name: Cybersecurity and Infrastructure Security Agency
+    acronym: CISA
+    people:
+      - Edward Coristine
+      - Kyle Schutt
+    events:
+      - date: 2025-02-19
+        event: Edward Coristine and Kyle Schutt are given access to CISA systems
+        source: https://www.wired.com/story/doge-cisa-coristine-cybersecurity/
 
 
   - name: Department of Agriculture
@@ -362,6 +379,7 @@ agencies:
       - Edward Coristine
       - Luke Farritor
       - Ethan Shaotran
+      - Kyle Schutt
     events:
       - date: 2025-02-12
         event: Dozens of workers within the Technology Transformation Service (TTS) are fired.
@@ -369,6 +387,9 @@ agencies:
       - date: 2025-02-18
         event: A GSA employee resigned rather than give unrestricted admin access of Notify.gov to Thomas Shedd
         source: https://www.404media.co/musk-ally-demands-admin-access-to-system-that-lets-government-text-the-public/
+      - date: 2025-02-19
+        event: Thomas Shedd has allegedly requested admin access to 19 different systems within TTS at GSA
+        source: https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/
     vandalism:
     systems:
       - name: Notify.gov
@@ -382,6 +403,7 @@ agencies:
     sources:
       - https://www.wired.com/story/elon-musk-government-young-engineers/
       - https://www.npr.org/2025/02/11/nx-s1-5293258/trump-gsa-budget-cuts-doge
+      - https://projects.propublica.org/elon-musk-doge-tracker/
 
 
   - agency: Health and Human Services
@@ -436,7 +458,9 @@ agencies:
       - date: 2025-02-14
         event: NASA administrator emails all staff to report that "DOGE has arrived"
         source: https://mynews13.com/fl/orlando/space/2025/02/18/doge-is-at-nasa
-
+      - date: 2025-02-19
+        event: According to one agency employee, DOGE workers already have access to contracts, partnerships, performance reviews, classified national-security information, and satellite data, among other materials.
+        source: https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/
   - agency: National Oceanic and Atmospheric Administration
     events:
       - date: 2025-02-04
