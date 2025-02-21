@@ -197,6 +197,9 @@ agencies:
 
   - name: Department of Energy
     acronym: DOE
+    people:
+      - Luke Farritor
+      - Ryan Riedel
     events:
       - date: 2025-01-24
         event: Trump fires the Inspector General for the Department of Energy in a late-night purge
@@ -207,9 +210,6 @@ agencies:
       - date: 2025-02-07
         event: Sources indicate that 3 unidentified DOGE personnel are working at the Department of Energy
         source: https://www.reuters.com/world/us/three-doge-members-raise-access-concerns-us-energy-department-sources-say-2025-02-07/
-    people:
-      - Luke Farritor
-      - Ryan Riedel
     systems:
       - name: Office365
         description: "Basic IT including email and Microsoft 365"
@@ -457,6 +457,9 @@ agencies:
       - date: 2025-02-20
         event: In a court filing, Treasury says it is adding two more DOGE staffers focused on the IRS
         source: https://www.politico.com/news/2025/02/20/treasury-irs-data-white-house-doge-00205391
+      - date: 2025-02-21
+        event: The Memorandum of Understanding (MOU) between the IRS and DOGE is signed, will not let DOGE access individual tax returns
+        source: https://www.nytimes.com/2025/02/21/us/politics/irs-doge-gavin-kliger.html
     systems:
       - name: Integrated Data Retrieval System
         acronym: IDRS
@@ -492,6 +495,13 @@ agencies:
       - name: NOAA Google enterprise systems
         risk: Access to CUI stored in Google Drive at the NOAA
   
+  - agency: National Institute of Standards and Technology
+    acronym: NIST
+    events:
+      - date: 2025-02-14
+        event: NIST workers witness a handful people they suspect of being DOGE at NIST IT facilities in Gaithersburg, MD
+        source: https://www.wired.com/story/the-national-institute-of-standards-and-technology-braces-for-mass-firings/
+
   - agency: Office of Personnel Management
     acronym: OPM
     date_started: 2025-01-20
