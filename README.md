@@ -9,7 +9,10 @@ This is not the only source of data out there, but it's mine.
 - Gitmo Camp - tracking the population of the concentration camp in Guantanamo Bay
 - Home Visits - tracking whenever Trump visits one of his various properties
 - Executive Order Litigation Tracker - scrapes the Judicial Watch website to convert it into JSON
-- BLT Index - looking at the cost of several staples used to make a BLT (Trump's favorite example of grocery price inflation)
+- IT Modernization - an attempt to track the DOGE infiltration of various agencies under the guise of IT modernization
+
+# Disclaimer
+I am not a media organization. I am not a reporter. I am doing my best here, but this is not my day job. While I will make my best attempt at accuracy, it is possible there will be mistakes and other issues with the data (due either to my own actions or in information I have sourced from elsewhere). Use this data at your own risk.
 
 # Other Collections Out There
 - FIXME
