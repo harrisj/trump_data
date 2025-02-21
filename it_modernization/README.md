@@ -7,7 +7,6 @@ A manually updated YAML file that tracks the "IT modernization" efforts of the D
 The file modernization.yaml will track the modernization work of the DOGE crew as they steamroll across various agencies. This work will be using only reported sources, which will be linked from the record. Hopefully, it will present a more comprehensive picture of events. You might begin to notice that none of it seems to involve actual IT modernization...
 
 # The Data
-
 A record might look something like this:
 
 ```yaml
@@ -53,4 +52,5 @@ For a given system, there will be the following fields
 - description: a short description of the system
 - risk: a description of the risks from letting DOGE have full access to the system
 
-
+# Disclaimer
+I am doing my best to fill in the gaps and collect information on a purposefully murky organization designed to avoid transparency and oversight. Mistakes are inevitable; please be aware of the risks and point out any issues to me by filing an Issue on this repo. Also, I am not a reporter. I only put things in here that have been presented publicly in the media.
