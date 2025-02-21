@@ -136,6 +136,7 @@ agencies:
       - Alan Ramada
       - Akash Bobba
       - Ethan Shaotran
+      - Brooks Morgan
     events:
       - date: 2025-01-24
         event: Trump fires the Inspector General for the Department of Education in a late-night purge
@@ -191,6 +192,8 @@ agencies:
         risk: PII of students, including names, addresses, SSNs and financial details of student loans
         pia: https://www.ed.gov/about/ed-overview/required-notices/privacy/privacy-impact-assessments-pia
         sorn: https://www.federalregister.gov/documents/2024/05/21/2024-11136/privacy-act-of-1974-system-of-records
+    sources:
+      - https://projects.propublica.org/elon-musk-doge-tracker/#Brooks-Morgan
 
   - name: Department of Energy
     acronym: DOE
@@ -251,6 +254,7 @@ agencies:
     acronym: Treasury
     people:
       - Marko Elez
+      - Ryan Wunderly
     events:
       - date: 2025-01-24
         event: Trump fires the Inspector General for the Department of the Treasury in a late-night purge
@@ -270,6 +274,9 @@ agencies:
       - date: 2025-02-19
         event: Treasury Secretary Scott Bessent says only one person from DOGE is "looking at an outdated IT system, that's all they're doing."
         source: https://www.bloomberg.com/news/articles/2025-02-19/bessent-says-doge-effort-has-saved-estimated-50-billion-so-far
+      - date: 2025-02-20
+        event: John York, a senior counselor to Bessent, wrote in a sworn statement that Ryan Wunderly would take over Marko Elez's work at the BFS
+        source: https://www.politico.com/news/2025/02/20/treasury-irs-data-white-house-doge-00205391
     systems:
       - name: Federal Disbursement Services
         acronym: FDS
@@ -299,6 +306,7 @@ agencies:
     acronym: EPA
     people:
       - Gautier Killian
+      - Catherine Armstrong Loving
     events:
       - date: 2025-01-24
         event: Trump fires the EPA Inspector General in a late-night purge
@@ -443,6 +451,12 @@ agencies:
       - date: 2025-02-18
         event: Privacy advocates sue to stop DOGE acess to IRS systems
         source: https://www.npr.org/2025/02/18/nx-s1-5300826/doge-irs-lawsuit-taxpayers-data
+      - date: 2025-02-20
+        event: The White House and Treasury Department come to an agreement about how DOGE access to IRS systems will be structured
+        source: https://www.politico.com/news/2025/02/20/treasury-irs-data-white-house-doge-00205391
+      - date: 2025-02-20
+        event: In a court filing, Treasury says it is adding two more DOGE staffers focused on the IRS
+        source: https://www.politico.com/news/2025/02/20/treasury-irs-data-white-house-doge-00205391
     systems:
       - name: Integrated Data Retrieval System
         acronym: IDRS
@@ -678,6 +692,8 @@ agencies:
 
   - name: Veterans Affairs
     acronym: VA
+    people:
+      - Justin Fulcher
     events:
       - date: 2025-01-24
         event: Trump fires the VA Inspector General in a late-night purge
@@ -688,3 +704,5 @@ agencies:
       - event: 2025-02-18
         event: Senate Democrats send letter to VA Secretary demanding information about DOGE's activities there
         source: https://fedscoop.com/veterans-affairs-data-doge-elon-musk/
+    sources:
+      - https://projects.propublica.org/elon-musk-doge-tracker/#Justin-Fulcher
