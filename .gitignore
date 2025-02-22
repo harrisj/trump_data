@@ -172,3 +172,4 @@ cython_debug/
 .DS_Store
 .vscode/settings.json
 exec_order_lawsuits/.python-version
+unemployment_claims/weekly_claims.numbers
