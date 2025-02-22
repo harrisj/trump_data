@@ -20,3 +20,5 @@ There is an API, but it unfortunately does not seem to include the breakadown of
 - Cont Fed: Continued Weeks Claimed Filed for Federal Employees
 - Cont Vet: Continued Weeks Claimed Filed for Newly Discharged Veterans
 - Cont Total: All continued weeks claimed (this is not a sum of the prior 2 column, because I don't record some other programs)
+
+Be aware that the continued week's claims are updated a week after the initial claims for a week, and they may then also be slightly adjusted for the following week as the state total gets corrected (the federal and discharged vet totals are accurate when recorded)
