@@ -656,7 +656,7 @@
                             },
                             "complaint_link_text": "Complaint",
                             "date_filed": "2025-02-07",
-                            "last_update": "2025-02-11"
+                            "last_update": "2025-02-21"
                         },
                         {
                             "case_link": {
@@ -801,6 +801,22 @@
                             "complaint_link_text": "Complaint",
                             "date_filed": "2025-02-17",
                             "last_update": "2025-02-17"
+                        },
+                        {
+                            "case_link": {
+                                "title": "American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration",
+                                "url": "https://www.courtlistener.com/docket/69664313/american-federation-of-state-county-and-municipal-employees-afl-cio-v/"
+                            },
+                            "case_name": "American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.) Case No. 1:25-cv-00596",
+                            "case_summary": "[Coming soon]",
+                            "case_summary_html": "[Coming soon]",
+                            "complaint_link": {
+                                "title": "Complaint",
+                                "url": "https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.1.0.pdf"
+                            },
+                            "complaint_link_text": "Complaint",
+                            "date_filed": "2025-02-21",
+                            "last_update": "2025-02-21"
                         }
                     ],
                     "links": [],
@@ -887,7 +903,7 @@
                             },
                             "complaint_link_text": "Complaint ",
                             "date_filed": "2025-02-06",
-                            "last_update": "2025-02-18"
+                            "last_update": "2025-02-21"
                         },
                         {
                             "case_link": {
@@ -1004,7 +1020,7 @@
                             },
                             "complaint_link_text": "Complaint",
                             "date_filed": "2025-02-10",
-                            "last_update": "2025-02-17"
+                            "last_update": "2025-02-21"
                         }
                     ],
                     "links": [],
