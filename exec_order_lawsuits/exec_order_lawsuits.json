@@ -302,6 +302,44 @@
                     "cases": [
                         {
                             "case_link": {
+                                "title": "National TPS Alliance et al. v. Noem",
+                                "url": "https://www.courtlistener.com/docket/69655305/national-tps-alliance-v-noem/"
+                            },
+                            "case_name": "National TPS Alliance et al. v. Noem (N.D. Cal.) Case No. 25-cv-1766",
+                            "case_summary": "[Coming soon]",
+                            "case_summary_html": "[Coming soon]",
+                            "complaint_link": {
+                                "title": "Complaint",
+                                "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.444868/gov.uscourts.cand.444868.1.0.pdf"
+                            },
+                            "complaint_link_text": "Complaint",
+                            "date_filed": "2025-02-19",
+                            "last_update": "2025-02-19"
+                        },
+                        {
+                            "case_link": {
+                                "title": "Casa, Inc. and Make the Road New York v. Noem",
+                                "url": "https://www.courtlistener.com/docket/69656739/casa-inc-v-noem/"
+                            },
+                            "case_name": "Casa, Inc. and Make the Road New York v. Noem (D. Md.)  Case No. 8:25-cv-00525",
+                            "case_summary": "[Coming soon]",
+                            "case_summary_html": "[Coming soon]",
+                            "complaint_link": {
+                                "title": "Complaint",
+                                "url": "https://storage.courtlistener.com/recap/gov.uscourts.mdd.577177/gov.uscourts.mdd.577177.1.0.pdf"
+                            },
+                            "complaint_link_text": "Complaint",
+                            "date_filed": "2025-02-20",
+                            "last_update": "2025-02-20"
+                        }
+                    ],
+                    "links": [],
+                    "title": "DHS Revocation of Temporary Protected Status (TPS)"
+                },
+                {
+                    "cases": [
+                        {
+                            "case_link": {
                                 "title": "Refugee and Immigrant Center for Education and Legal Services v. Noem",
                                 "url": "https://www.courtlistener.com/docket/69606027/refugee-and-immigrant-center-for-education-and-legal-services-v-noem/"
                             },
@@ -656,7 +694,7 @@
                             },
                             "complaint_link_text": "Complaint",
                             "date_filed": "2025-02-07",
-                            "last_update": "2025-02-11"
+                            "last_update": "2025-02-21"
                         },
                         {
                             "case_link": {
@@ -775,7 +813,7 @@
                                 "title": "Gribbon et al. v. Musk",
                                 "url": "https://www.courtlistener.com/docket/69635650/gribbon-v-musk/"
                             },
-                            "case_name": "Gribbon et al. v. Musk (D.D.C.) Case No. 1:25-cv-00407",
+                            "case_name": "Gribbon et al. v. Musk (D.D.C.) Case No. 1:25-cv-00422",
                             "case_summary": "Plaintiffs filed a proposed class action lawsuit. They are recipients of federal benefits, student loans, or have filed tax return information with the federal government. The complaint alleges that “Defendants [are] liable for their willful failure to ensure the security of Plaintiffs’ and Class members’” private information. Plaintiffs allege Defendant Elon Musk violated the Computer Fraud and Abuse Act and that Defendants OPM and Treasury violated the Privacy Act of 1974. Plaintiffs are suing for injunctive relief and monetary damages “resulting from Defendants’ unlawful ongoing, systematic, and continuous disclosure of personal and financial information.”",
                             "case_summary_html": "Plaintiffs filed a proposed class action lawsuit. They are recipients of federal benefits, student loans, or have filed tax return information with the federal government. The complaint alleges that “Defendants [are] liable for their willful failure to ensure the security of Plaintiffs’ and Class members’” private information. Plaintiffs allege Defendant Elon Musk violated the Computer Fraud and Abuse Act and that Defendants OPM and Treasury violated the Privacy Act of 1974. Plaintiffs are suing for injunctive relief and monetary damages “resulting from Defendants’ unlawful ongoing, systematic, and continuous disclosure of personal and financial information.”",
                             "complaint_link": {
@@ -801,6 +839,22 @@
                             "complaint_link_text": "Complaint",
                             "date_filed": "2025-02-17",
                             "last_update": "2025-02-17"
+                        },
+                        {
+                            "case_link": {
+                                "title": "American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration",
+                                "url": "https://www.courtlistener.com/docket/69664313/american-federation-of-state-county-and-municipal-employees-afl-cio-v/"
+                            },
+                            "case_name": "American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.) Case No. 1:25-cv-00596",
+                            "case_summary": "Plaintiffs filed a lawsuit challenging the U.S. Department of Government Efficiency’s access to Social Security Administration data and systems. They allege that allowing DOGE to access private citizens’ sensitive data violates several laws, including the Internal Revenue Code, the Privacy Act, the Federal Information Systems Modernization Act, the E-Government Act, and the Administrative Procedure Act. They further allege that Acting SSA Commissioner Leland Dudek’s exercise of significant authority without nomination or confirmation violates the Appointments Clause of the U.S. Constitution. Plaintiffs ask the court to declare DOGE’s access to SSA data and systems unlawful, order DOGE to disgorge or delete any unlawfully obtained data, and prohibit any further efforts by either DOGE or SSA to enable DOGE to access SSA data or systems.",
+                            "case_summary_html": "Plaintiffs filed a lawsuit challenging the U.S. Department of Government Efficiency’s access to Social Security Administration data and systems. They allege that allowing DOGE to access private citizens’ sensitive data violates several laws, including the Internal Revenue Code, the Privacy Act, the Federal Information Systems Modernization Act, the E-Government Act, and the Administrative Procedure Act. They further allege that Acting SSA Commissioner Leland Dudek’s exercise of significant authority without nomination or confirmation violates the Appointments Clause of the U.S. Constitution. Plaintiffs ask the court to declare DOGE’s access to SSA data and systems unlawful, order DOGE to disgorge or delete any unlawfully obtained data, and prohibit any further efforts by either DOGE or SSA to enable DOGE to access SSA data or systems.",
+                            "complaint_link": {
+                                "title": "Complaint",
+                                "url": "https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.1.0.pdf"
+                            },
+                            "complaint_link_text": "Complaint",
+                            "date_filed": "2025-02-21",
+                            "last_update": "2025-02-21"
                         }
                     ],
                     "links": [],
@@ -887,7 +941,7 @@
                             },
                             "complaint_link_text": "Complaint ",
                             "date_filed": "2025-02-06",
-                            "last_update": "2025-02-18"
+                            "last_update": "2025-02-21"
                         },
                         {
                             "case_link": {
@@ -1004,7 +1058,7 @@
                             },
                             "complaint_link_text": "Complaint",
                             "date_filed": "2025-02-10",
-                            "last_update": "2025-02-17"
+                            "last_update": "2025-02-21"
                         }
                     ],
                     "links": [],
@@ -1559,15 +1613,15 @@
                                 "url": "https://storage.courtlistener.com/recap/gov.uscourts.vaed.568742/gov.uscourts.vaed.568742.1.0.pdf"
                             },
                             "case_name": "Doe 1 v. Office of the Director of National Intelligence (E.D.Va.) Case No. 1:25-cv-00300-AJT-LRV",
-                            "case_summary": "On Jan. 20, 2025, the Trump administration issued an executive order directing the OMB Director, assisted by the Attorney General and OPM, to terminate DEI programs, offices and positions, and “equity-related” grants and contracts. \nPlaintiffs are U.S. intelligence officers who were assigned to diversity, equity, inclusion and accessibility (DEIA) initiatives at ODNI and CIA. The complaint alleges that Defendants placed Plaintiffs on administrative leave “apparently only because of [Plaintiffs’] temporary assignments to personnel functions involving DEIA.” Plaintiffs bring several causes of action. First, they claim that Defendants violated the Administrative Leave Act by placing Plaintiffs on leave for more than ten work days, despite the fact that no worker misconduct had been alleged. Second, Plaintiffs maintain that Defendants violated the Administrative Procedure Act, because Plaintiffs’ “imminent termination” is “arbitrary, capricious, an abuse of discretion, not in accordance with [Intelligence Community] regulations, and unsupported by any evidentiary record whatsoever.” Third, Plaintiffs allege that Defendants violated the First and Fifth Amendments by firing Plaintiffs on the basis of “their assumed beliefs about a domestic political issue [DEIA]” and causing them to lose “their property interest in their employment without due process of law.”\nThe plaintiffs seek injunctive relief. The plaintiffs also submitted a request for a temporary restraining order.\nUpdate 1: On Feb 18, the court issued an administrative stay blocking the termination of plaintiffs’ employment or placing plaintiffs on leave without pay.",
-                            "case_summary_html": "On Jan. 20, 2025, the Trump administration issued an executive order directing the OMB Director, assisted by the Attorney General and OPM, to terminate DEI programs, offices and positions, and “equity-related” grants and contracts. <br/>\nPlaintiffs are U.S. intelligence officers who were assigned to diversity, equity, inclusion and accessibility (DEIA) initiatives at ODNI and CIA. The complaint alleges that Defendants placed Plaintiffs on administrative leave “apparently only because of [Plaintiffs’] temporary assignments to personnel functions involving DEIA.” Plaintiffs bring several causes of action. First, they claim that Defendants violated the Administrative Leave Act by placing Plaintiffs on leave for more than ten work days, despite the fact that no worker misconduct had been alleged. Second, Plaintiffs maintain that Defendants violated the Administrative Procedure Act, because Plaintiffs’ “imminent termination” is “arbitrary, capricious, an abuse of discretion, not in accordance with [Intelligence Community] regulations, and unsupported by any evidentiary record whatsoever.” Third, Plaintiffs allege that Defendants violated the First and Fifth Amendments by firing Plaintiffs on the basis of “their <em>assumed</em> beliefs about a domestic political issue [DEIA]” and causing them to lose “their property interest in their employment without due process of law.”<br/>\nThe plaintiffs seek injunctive relief. The plaintiffs also submitted a <a href=\"https://www.courtlistener.com/docket/69646552/doe-1-v-office-of-the-director-of-national-intelligence/#entry-12\">request</a> for a temporary restraining order.<br/>\n<strong>Update 1:</strong> On Feb 18, the court <a href=\"https://www.courtlistener.com/docket/69646552/doe-1-v-office-of-the-director-of-national-intelligence/#entry-12\">issued</a> an administrative stay blocking the termination of plaintiffs’ employment or placing plaintiffs on leave without pay.",
+                            "case_summary": "On Jan. 20, 2025, the Trump administration issued an executive order directing the OMB Director, assisted by the Attorney General and OPM, to terminate DEI programs, offices and positions, and “equity-related” grants and contracts. \nPlaintiffs are U.S. intelligence officers who were assigned to diversity, equity, inclusion and accessibility (DEIA) initiatives at ODNI and CIA. The complaint alleges that Defendants placed Plaintiffs on administrative leave “apparently only because of [Plaintiffs’] temporary assignments to personnel functions involving DEIA.” Plaintiffs bring several causes of action. First, they claim that Defendants violated the Administrative Leave Act by placing Plaintiffs on leave for more than ten work days, despite the fact that no worker misconduct had been alleged. Second, Plaintiffs maintain that Defendants violated the Administrative Procedure Act, because Plaintiffs’ “imminent termination” is “arbitrary, capricious, an abuse of discretion, not in accordance with [Intelligence Community] regulations, and unsupported by any evidentiary record whatsoever.” Third, Plaintiffs allege that Defendants violated the First and Fifth Amendments by firing Plaintiffs on the basis of “their assumed beliefs about a domestic political issue [DEIA]” and causing them to lose “their property interest in their employment without due process of law.”\nThe plaintiffs seek injunctive relief. The plaintiffs also submitted a request for a temporary restraining order.\nUpdate 1: On Feb 18, the court issued an administrative stay blocking the termination of plaintiffs’ employment or placing plaintiffs on leave without pay.\nUpdate 2: On Feb. 20, Defendants filed a motion in opposition to the plaintiffs’ request for a TRO. ",
+                            "case_summary_html": "On Jan. 20, 2025, the Trump administration issued an executive order directing the OMB Director, assisted by the Attorney General and OPM, to terminate DEI programs, offices and positions, and “equity-related” grants and contracts. <br/>\nPlaintiffs are U.S. intelligence officers who were assigned to diversity, equity, inclusion and accessibility (DEIA) initiatives at ODNI and CIA. The complaint alleges that Defendants placed Plaintiffs on administrative leave “apparently only because of [Plaintiffs’] temporary assignments to personnel functions involving DEIA.” Plaintiffs bring several causes of action. First, they claim that Defendants violated the Administrative Leave Act by placing Plaintiffs on leave for more than ten work days, despite the fact that no worker misconduct had been alleged. Second, Plaintiffs maintain that Defendants violated the Administrative Procedure Act, because Plaintiffs’ “imminent termination” is “arbitrary, capricious, an abuse of discretion, not in accordance with [Intelligence Community] regulations, and unsupported by any evidentiary record whatsoever.” Third, Plaintiffs allege that Defendants violated the First and Fifth Amendments by firing Plaintiffs on the basis of “their <em>assumed</em> beliefs about a domestic political issue [DEIA]” and causing them to lose “their property interest in their employment without due process of law.”<br/>\nThe plaintiffs seek injunctive relief. The plaintiffs also submitted a <a href=\"https://www.courtlistener.com/docket/69646552/doe-1-v-office-of-the-director-of-national-intelligence/#entry-12\">request</a> for a temporary restraining order.<br/>\n<strong>Update 1:</strong> On Feb 18, the court <a href=\"https://www.courtlistener.com/docket/69646552/doe-1-v-office-of-the-director-of-national-intelligence/#entry-12\">issued</a> an administrative stay blocking the termination of plaintiffs’ employment or placing plaintiffs on leave without pay.<br/>\n<strong>Update 2:</strong> On Feb. 20, Defendants <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.vaed.568742/gov.uscourts.vaed.568742.14.0.pdf\">filed</a> a motion in opposition to the plaintiffs’ request for a TRO. ",
                             "complaint_link": {
                                 "title": "Complaint",
                                 "url": "https://www.courtlistener.com/docket/69646552/1/doe-1-v-office-of-the-director-of-national-intelligence/"
                             },
                             "complaint_link_text": "Complaint",
                             "date_filed": "2025-02-17",
-                            "last_update": "2025-02-18"
+                            "last_update": "2025-02-20"
                         },
                         {
                             "case_link": {
@@ -1584,6 +1638,22 @@
                             "complaint_link_text": "Complaint",
                             "date_filed": "2025-02-19",
                             "last_update": "2025-02-19"
+                        },
+                        {
+                            "case_link": {
+                                "title": "San Francisco AIDS Foundation et al v. Trump",
+                                "url": "https://www.courtlistener.com/docket/69658554/san-francisco-aids-foundation-v-trump/"
+                            },
+                            "case_name": "San Francisco AIDS Foundation et al v. Trump (D.D.C.) Case No. 3:25-cv-1824",
+                            "case_summary": "[Coming soon]",
+                            "case_summary_html": "[Coming soon]",
+                            "complaint_link": {
+                                "title": "Complaint",
+                                "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.444946/gov.uscourts.cand.444946.1.0.pdf"
+                            },
+                            "complaint_link_text": "Complaint",
+                            "date_filed": "2025-02-20",
+                            "last_update": "2025-02-20"
                         }
                     ],
                     "links": [
@@ -1711,7 +1781,66 @@
                 }
             ],
             "title": "Federalism"
+        },
+        {
+            "exec_actions": [
+                {
+                    "cases": [
+                        {
+                            "case_link": {
+                                "title": "CREW v. DOGE",
+                                "url": "https://www.courtlistener.com/docket/69658871/citizens-for-responsibility-and-ethics-in-washington-v-us-doge-service/"
+                            },
+                            "case_name": "CREW v. DOGE (D.D.C.) Case No. 1:25-cv-00511",
+                            "case_summary": "Plaintiff claims that the United States DOGE Service (USDS) “has provided no meaningful transparency into its operations or assurances that it is maintaining proper records.” The complaint alleges that Defendants have refused to comply with FOIA requests for records and demands for records preservation under the Federal Records Act (FRA). Plaintiff seeks declaratory and injunctive relief requiring Defendants to comply with Plaintiff’s FOIA requests, to fully comply with the FRA’s preservation requirements, and to initiate enforcement action through the Attorney General to recover any lost or destroyed USDS records. Plaintiff also filed a motion, with a supporting memorandum, for preliminary injunction to require Defendants to release records in advance of the March 14 conclusion of the congressional appropriations process.",
+                            "case_summary_html": "Plaintiff claims that the United States DOGE Service (USDS) “has provided no meaningful transparency into its operations or assurances that it is maintaining proper records.” The complaint alleges that Defendants have refused to comply with FOIA requests for records and demands for records preservation under the Federal Records Act (FRA). Plaintiff seeks declaratory and injunctive relief requiring Defendants to comply with Plaintiff’s FOIA requests, to fully comply with the FRA’s preservation requirements, and to initiate enforcement action through the Attorney General to recover any lost or destroyed USDS records. Plaintiff also filed a <a href=\"https://www.justsecurity.org/wp-content/uploads/2025/02/CREW-v-DOGE-motion-pi-feb-20-2025.pdf\">motion</a>, with a <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.dcd.277646/gov.uscourts.dcd.277646.2.1.pdf\">supporting memorandum</a>, for <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.dcd.277646/gov.uscourts.dcd.277646.2.17.pdf\">preliminary injunction</a> to require Defendants to release records in advance of the March 14 conclusion of the congressional appropriations process.",
+                            "complaint_link": {
+                                "title": "Complaint",
+                                "url": "https://www.courtlistener.com/docket/69658871/1/citizens-for-responsibility-and-ethics-in-washington-v-us-doge-service/"
+                            },
+                            "complaint_link_text": "Complaint",
+                            "date_filed": "2025-02-20",
+                            "last_update": "2025-02-20"
+                        }
+                    ],
+                    "links": [],
+                    "title": "Response to FOIA and Records Retention"
+                }
+            ],
+            "title": "Transparency"
+        },
+        {
+            "exec_actions": [
+                {
+                    "cases": [
+                        {
+                            "case_link": {
+                                "title": "Northern Alaska Environmental Center v. Trump",
+                                "url": "https://www.courtlistener.com/docket/69652665/northern-alaska-environmental-center-v-trump/#entry-1"
+                            },
+                            "case_name": "Northern Alaska Environmental Center v. Trump (D. Alaska) Case No. 3:25-cv-00038",
+                            "case_summary": "In the previous presidential term, President Joe Biden withdrew parts of the U.S. Outer Continental Shelf from future oil and gas leasing in the interest of environmental conservation, pursuant to his authority under Section 12(a) of the Outer Continental Shelf Lands Act (OCSLA). On January 20, 2025, President Donald Trump issued EO 14148, which, among other actions, purported to reverse those withdrawals made by President Biden and thereby reopen formerly protected areas to oil and gas leasing. Plaintiffs argue that neither OCSLA nor any other law authorizes presidents to undo withdrawals. They allege that President Trump “acted in excess of his authority under Article II of the U.S. Constitution and intruded on Congress’s non-delegated exclusive power under the Property Clause, in violation of the doctrine of separation of powers.” They seek injunctive and declaratory relief to block the revocation of President Biden’s withdrawals.",
+                            "case_summary_html": "In the previous presidential term, President Joe Biden withdrew parts of the U.S. Outer Continental Shelf from future oil and gas leasing in the interest of environmental conservation, pursuant to his authority under Section 12(a) of the Outer Continental Shelf Lands Act (OCSLA). On January 20, 2025, President Donald Trump issued EO 14148, which, among other actions, purported to reverse those withdrawals made by President Biden and thereby reopen formerly protected areas to oil and gas leasing. Plaintiffs argue that neither OCSLA nor any other law authorizes presidents to undo withdrawals. They allege that President Trump “acted in excess of his authority under Article II of the U.S. Constitution and intruded on Congress’s non-delegated exclusive power under the Property Clause, in violation of the doctrine of separation of powers.” They seek injunctive and declaratory relief to block the revocation of President Biden’s withdrawals.",
+                            "complaint_link": {
+                                "title": "Complaint",
+                                "url": "https://storage.courtlistener.com/recap/gov.uscourts.akd.75657/gov.uscourts.akd.75657.1.0.pdf"
+                            },
+                            "complaint_link_text": "Complaint",
+                            "date_filed": "2025-02-19",
+                            "last_update": "2025-02-19"
+                        }
+                    ],
+                    "links": [
+                        {
+                            "title": "Executive Order 14148",
+                            "url": "https://www.federalregister.gov/documents/2025/01/28/2025-01901/initial-rescissions-of-harmful-executive-orders-and-actions"
+                        }
+                    ],
+                    "title": "Rescission of Previous Executive Orders and Actions, Including on Climate and Environment (Executive Order 14148)"
+                }
+            ],
+            "title": "Environment"
         }
     ],
-    "last_updated": "2025-02-21"
+    "last_updated": "2025-02-23"
 }
