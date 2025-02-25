@@ -97,7 +97,9 @@ agencies:
       - date: 2025-02-19
         event: Edward Coristine and Kyle Schutt are given access to CISA systems
         source: https://www.wired.com/story/doge-cisa-coristine-cybersecurity/
-
+      - date: 2025-02-20
+        event: Division leaders at the Cybersecurity and Infrastructure Security Agency informed some senior CISA staffers that DOGE has access to internal emails and Microsoft Teams chats of employees.
+        source: https://www.nbcnews.com/politics/donald-trump/live-blog/trump-france-emmanuel-macron-white-house-ukraine-tariffs-live-updates-rcna193386#rcrd73638
 
   - name: Department of Agriculture
     acronym: USDA
