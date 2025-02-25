@@ -577,6 +577,7 @@ agencies:
       - Akash Bobba
       - Edward Coristine
       - Gavin Kliger
+      - Riccardo Biasini
     events:
       - date: 2025-01-20
         event: Acting OPM Director Charles Ezell replaces existing CIO Melvin Brown with Greg Hogan
@@ -598,6 +599,9 @@ agencies:
       - date: 2025-02-18
         event: CNN reporter shares that a FOIA request about DOGE was replied to with "they just fired the whole privacy team"
         source: https://www.commondreams.org/news/cnn-foia-office-of-personnel-management
+      - date: 2025-02-25
+        event: DOGE engineer Ricardo Biasini is reported to be working on updating software to automate Reduction-in-Force (RIF) processes
+        source: https://www.wired.com/story/doge-autorif-mass-firing-government-workers/
     systems:
       - name: UsaJobs
         decription: Official hiring site for the federal government
