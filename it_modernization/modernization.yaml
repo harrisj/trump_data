@@ -45,7 +45,6 @@ agencies:
       - date: 2025-02-05
         event: DOGE staff enters the Commerce Department
         source: https://www.govexec.com/management/2025/02/doge-enters-noaa-accesses-it-systems-and-removes-top-hr-official/402776/
-    sources:
 
   - agency: Consumer Financial Protection Bureau
     acronym: CFPB
@@ -79,6 +78,21 @@ agencies:
         description: HR system for CFPB employees
         risk: PII of CFPB employees, including SSN, home address, and employment records
         sorn: https://www.consumerfinance.gov/privacy/system-records-notices/employee-administrative-records/
+        sorn_individuals: >
+          CFPB Employees and their named dependents and/or beneficiaries, their named emergency contacts, and individuals
+          who have been extended offers of employment.
+        sorn_records: >
+          Records in this system may contain identifiable information about individuals including, without limitation: 
+          (1) Identification and contact information, including name, address, email address, phone number and other contact 
+          information; (2) employee emergency contact information, including name, phone number, relationship to employee 
+          or emergency contact; (3) Social Security number (SSN), employee ID number, organization code, pay rate, salary, 
+          grade, length of service, and other related pay and leave records including payroll data; (4) biographic and 
+          demographic data, including date of birth and marital or domestic partnership status; (5) employment-related 
+          information such as performance reports, training, professional licenses, certification, and memberships 
+          information, alternative dispute resolution processes, fitness center membership information, union dues, 
+          employee claims for loss or damage to personal property, and other information related to employment 
+          by the Bureau; (6) benefits data, such as health, life, travel, and disability insurance information; 
+          (7) retirement benefits information and flexible spending account information; and (8) time and attendance records.
       - name: PRISM
         description: System for tracking procurement and contracting
         risk: PII/CUI of contracting recipients
@@ -161,13 +175,16 @@ agencies:
       - date: 2025-02-24
         event: In a ruling, a judge declared "DOGE affiliates have been granted access to systems of record that contain some of the plaintiffs’ most sensitive data — Social Security numbers, dates of birth, home addresses, income and assets, citizenship status, and disability status — and their access to this trove of personal information is ongoing"
         source: https://www.nbcnews.com/politics/doge/judge-blocks-department-education-federal-personnel-office-sharing-dat-rcna193453
+      - date: 2025-02-24
+        event: The ruling names the systems NSLDS, COD, FAS and FMS as being accessed by DOGE
+        source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.38.0.pdf
     systems:
       - name: Common Origination and Disbursement System
         acronym: COD
         description: A system for disbursing grants and loans that are paid to institutions of higher education directly (who then provide to students)
         risk: PII and bank account information for institutions of higher education
         pia: https://www.ed.gov/sites/ed/files/notices/pia/fsa-pia-cod.pdf
-        sorn: https://www.federalregister.gov/documents/2023/06/28/2023-13698/privacy-act-of-1974-system-of-records
+        sorn: https://www.federalregister.gov/documents/2023/06/28/2023-13698/privacy-act-of-1974-system-of-record
       - name: Debt Management and Collection System
         acronym: DMCS
         description: A system used for tracking and assisting in collection of federal student loans in default
