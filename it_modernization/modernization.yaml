@@ -27,6 +27,10 @@ agencies:
         event: DOGE staff reported with agency buildings with access to certain systems
         source: https://www.wsj.com/politics/elon-musk-doge-medicare-medicaid-fraud-e697b162
     systems:
+      - name: Acquistions and Grants Exchange
+        acronym: AGX
+        description: A web-based application that provides the Office of Acquisition and Grants Management with tools for contracting officers
+        pia: https://www.hhs.gov/sites/default/files/cms-acquisition-and-grants-exchange.pdf
       - name: CMS Acquisition Lifecycle Management system
         acronym: CALM
         description: System for tracking CMS acquisitions, contracts, milestones and audits.
@@ -128,7 +132,6 @@ agencies:
         event: USDA accidentally includes official working on H5N1 response in mass firings of probationary employees
         sourcee: https://www.nbcnews.com/politics/doge/usda-accidentally-fired-officials-bird-flu-rehire-rcna192716
 
-
   - name: Department of Defense
     acronym: DoD
     events:
@@ -144,7 +147,6 @@ agencies:
       - date: 2025-02-20
         event: Defense Secretary Hegseth releases a video stating that he met with DOGE about cuts to the agency and many are veterans
         source: https://www.foxnews.com/politics/defense-sec-hegseth-working-doge-cut-bs
-
 
   - name: Department of Education
     acronym: ED
@@ -236,8 +238,7 @@ agencies:
     systems:
       - name: Office365
         description: "Basic IT including email and Microsoft 365"
-    - sources:
-      - https://www.cnn.com/2025/02/06/climate/doge-energy-department-trump/index.html
+        source: https://www.cnn.com/2025/02/06/climate/doge-energy-department-trump/index.html
 
   - agency: Department of Homeland Security
     acronym: DHS
@@ -554,6 +555,19 @@ agencies:
       - date: 2025-02-14
         event: NIST workers witness a handful people they suspect of being DOGE at NIST IT facilities in Gaithersburg, MD
         source: https://www.wired.com/story/the-national-institute-of-standards-and-technology-braces-for-mass-firings/
+
+  - agency: Occupational Safety and Health Administration
+    acronym: OSHA
+    systems:
+      - name: OSHA Business Information Systems
+        acronym: OBIS
+        description: Information gathered as part of whistleblowing and used for enforcement
+        risk: PII of individuals reporting problems as well as confidential whistleblower information
+        pia: https://www.dol.gov/agencies/oasam/centers-offices/ocio/privacy/osha/obis
+    events:
+      - date: 2025-02-07
+        event: A lawsuit filed by multiple labor organization (and others) alleged that DOGE wants to access whistleblower information at OSHA
+        source: https://www.workerscompensation.com/daily-headlines/questions-concerns-over-doge-musk-access-at-dol/
 
   - agency: Office of Personnel Management
     acronym: OPM
