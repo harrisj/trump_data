@@ -156,6 +156,9 @@ agencies:
       - date: 2025-02-18
         event: A federal judge denied an attempt to block DOGE from accessing Department of Education systems related to financial aid
         source: https://www.usatoday.com/story/news/education/2025/02/18/doge-student-data-education-department-judge-approves/79062995007/
+      - date: 2025-02-24
+        event: In a ruling, a judge declared "DOGE affiliates have been granted access to systems of record that contain some of the plaintiffs’ most sensitive data — Social Security numbers, dates of birth, home addresses, income and assets, citizenship status, and disability status — and their access to this trove of personal information is ongoing"
+        source: https://www.nbcnews.com/politics/doge/judge-blocks-department-education-federal-personnel-office-sharing-dat-rcna193453
     systems:
       - name: Common Origination and Disbursement System
         acronym: COD
@@ -495,6 +498,36 @@ agencies:
       - name: NOAA Google enterprise systems
         risk: Access to CUI stored in Google Drive at the NOAA
   
+  - agency: National Institute of Health
+    acronym: NIH
+    people:
+      - Luke Farritor
+      - Rachel Riley
+      - Jeremy Lewin
+      - Clark Minor
+    events:
+      - date: 2025-02-24
+        event: Reports that DOGE have accounts are working with the NIH Business System Department for NIH’s central electronic business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
+        source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
+    systems:
+      - name: NIH Business System
+        acronym: NBS
+        description: is the central electronic business system of the NIH including the general ledger, finance, budget, procurement, supply, travel, and property management systems. NBS is aimed at improving data consolidation and financial reporting capabilities.
+        risk: As a payment system, includes names, SSNs, TINs, and other PII of persons/entities receiving payments from NIH
+        sorn: https://www.federalregister.gov/documents/2002/08/22/02-21348/privacy-act-of-1974-proposed-new-system-of-records
+        sorn_individuals: >
+          The proposed system of records covers all persons who receive a payment exclusive of salary or wages, from the NIH, 
+          and all persons owing money to the NIH. Persons receiving payments include, but are not limited to, travelers on 
+          official business, grantees, contractors, consultants, Fellows and recipients of loans and scholarships. Persons 
+          owing monies include, but are not limited to, persons who have been overpaid and who owe the NIH a refund the 
+          persons who have received from NIH goods or services for which there is a charge or fee.
+        sorn_records: >
+          Name, Social Security Number (SSN) or EIN/TID, address, email address, phone number, purpose of payment or request 
+          for payment, bank account and routing numbers, accounting classification and the amount paid or billed. Also, in the 
+          event of an overpayment and for outstanding charges, fees, loans, grants or scholarships, the amount of the indebtedness,
+          the repayment status and the amount to be collected. In the event of an administrative wage garnishment, information about the
+          debtor's employment status and disposable pay available for withholding will be maintained.
+    
   - agency: National Institute of Standards and Technology
     acronym: NIST
     events:
@@ -661,6 +694,15 @@ agencies:
       - Gavin Kliger
       - Luke Farritor
     events:
+      - date: 2025-01-27
+        event: A DOGE official first arrives at USAID. Later, senior staff are summoned to a meeting with Gavin Kliger and Luke Farritor.
+        source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
+      - date: 2025-01-30
+        event: DOGE discovers that some USAID grants had been paid automatically through HHS despite a declared freeze
+        source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
+      - date: 2025-01-30
+        event: "Farritor and Kliger demanded that all senior managers be stripped of their power to authorize payments — and that they alone become the authorizers."
+        source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
       - date: 2025-02-01
         event: USAID Director of Security and deputy placed on administrative leave for trying to prevent DOGE from accessing personnel files and classified data
         source: https://www.nbcnews.com/politics/national-security/usaid-security-leaders-removed-refusing-elon-musks-doge-employees-acce-rcna190357
@@ -688,9 +730,15 @@ agencies:
       - date: 2025-02-07
         event: All USAID staff are placed on indefinite administrative leave
         source: https://www.nbcnews.com/politics/politics-news/usaid-reduce-foreign-service-officers-trump-cuts-federal-government-rcna191122
+      - date: 2025-02-09
+        event: Gavin Kliger and Luke Farritor completely remove all access to the payments system for all other USAID staff
+        source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
       - date: 2025-02-11
         event: USAID Inspector General is illegally fired after releasing a report critical of DOGE's actions
         source: https://www.cnn.com/2025/02/11/politics/usaid-inspector-general-fired-trump/index.html
+      - date: 2025-02-17
+        event: A USAID official under Trump testifies that "changes in the process by which payments can be made and approved by the Agency over the past weeks." in the payment system were causing certain allowance statements to be delayed
+        source: https://abcnews.go.com/US/usaid-official-system-delayed-payments-staffers/story?id=118759911
     vandalism:
       - Entire website removed
       - Social media accounts deleted
