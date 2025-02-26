@@ -165,12 +165,18 @@ agencies:
       - date: 2025-02-03
         event: Twenty DOGE staff are in the agency and "have gained access to multiple sensitive internal systems, the people said, including a financial aid dataset that contains the personal information for millions of students enrolled in the federal student aid program."
         source: https://www.washingtonpost.com/education/2025/02/03/trump-education-department-dismantling-executive-order-draft/
+      - date: 2025-02-06
+        event: The Washington Post reports that DOGE is feeding Department of Education data into an AI system hosted in Microsoft Azure
+        source: https://www.washingtonpost.com/nation/2025/02/06/elon-musk-doge-ai-department-education/
       - date: 2025-02-08
         event: NBC News reports that Akash Bobba and Ethan Shaotran have admin access to email and had also accessed the website backend
         source: https://www.nbcnews.com/news/us-news/elon-musk-doge-team-education-department-rcna191244
       - date: 2025-02-11
         event: Department of Education agreed to block DOGE from access to financial aid systems
         source: https://www.usatoday.com/story/news/politics/2025/02/11/education-dept-doge-musk-court-order/78429043007/
+      - date: 2024-02-14
+        event: After a conservative account complained to Musk on Twitter about gender options on the FAFSA form, it was changed the same day (a change was planned, but multiple contractors were called in to rush it)
+        source: https://www.nytimes.com/2025/02/26/us/politics/elon-musk-doge-x-accounts-activists.html
       - date: 2025-02-18
         event: A federal judge denied an attempt to block DOGE from accessing Department of Education systems related to financial aid
         source: https://www.usatoday.com/story/news/education/2025/02/18/doge-student-data-education-department-judge-approves/79062995007/
@@ -484,6 +490,9 @@ agencies:
       - date: 2025-02-21
         event: The Memorandum of Understanding (MOU) between the IRS and DOGE is signed, will not let DOGE access individual tax returns
         source: https://www.nytimes.com/2025/02/21/us/politics/irs-doge-gavin-kliger.html
+      - date: 2025-02-25
+        event: The Post reports that DOGE is being granted access to only anonymized data from IDRS
+        source: https://www.washingtonpost.com/business/2025/02/25/elon-musk-doge-data-privacy-security/
     systems:
       - name: Integrated Data Retrieval System
         acronym: IDRS
@@ -798,7 +807,10 @@ agencies:
       - date: 2025-02-04
         event: A representative from DOGE was given access to contracting systems as well as information on VA operations and information technology systems.
         source: https://www.military.com/daily-news/2025/02/05/elon-musk-aide-now-working-va-and-accessing-its-computer-systems.html
-      - event: 2025-02-18
+      - date: 2025-02-10
+        event: A day after a conservative activist flagged it on X, DOGE posts it has removed gender identity options from a VA form
+        source: https://www.nytimes.com/2025/02/26/us/politics/elon-musk-doge-x-accounts-activists.html
+      - date: 2025-02-18
         event: Senate Democrats send letter to VA Secretary demanding information about DOGE's activities there
         source: https://fedscoop.com/veterans-affairs-data-doge-elon-musk/
     sources:
