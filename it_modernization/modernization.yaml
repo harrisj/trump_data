@@ -444,7 +444,41 @@ agencies:
   acronym: HUD
   people:
   - Scott Langmack
+  - Michael Mirski
   events:
+  - date: 2025-02-10
+    event: Employees at HUD receive an email from Scott Langmack asking them to list every contract at HUD and whether it is critical and/or has DEI components
+    source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
+  - date: 2025-02-26
+    event: Wired reports that DOGE staff were given read-only access to some systems and read-write access to payment systems within HUD as well as the centralized authorization system that grants access to other systems (date unknown)
+    source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
+  systems:
+  - name: Line of Credit Control System
+    acronym: LOCCS
+    link: https://www.hud.gov/sites/dfiles/CFO/documents/eLOCCS_Getting_Started_Guide-Sept_2022.pdf
+    description: Handles disbursement and cash management for the majority of HUD's grant programs
+    risk: Access to PII of grant recipients, including names, addresses and bank information
+    pia: https://www.hud.gov/sites/dfiles/OCHCO/documents/OCFO29_A67.pdf
+    sorn: https://www.govinfo.gov/content/pkg/FR-2022-03-07/pdf/2022-04715.pdf
+  - name: HUD Central Accounting and Processing System
+    acronym: HUDCAPS
+    description: Integrated management system for Section 8 programs under the jurisdiction of the Office of Public and Indian Housing
+    risk: PII of individuals applying for housing vouchers including medical records and personal narratives
+    pia: https://www.hud.gov/sites/dfiles/OCHCO/documents/OCFO33_A75.pdf
+    sorn: https://www.federalregister.gov/documents/2022/08/17/2022-17709/privacy-act-of-1974-system-of-records
+  - name: Web Access Security Subsystem
+    acronym: WASS
+    description: System for authorizing access and setting permissions to talk to other systems
+    risk: With read-write access, DOGE staff were able to grant and revoke access to other systems without oversight
+  - name: Integrated Disbursement and Information System
+    acronym: IDIS
+    description: A database for tracking all HUD programs nationwide
+    risk: Among other things, it includes hidden locations of domestic violence shelters
+    pia: https://www.hud.gov/sites/dfiles/OCHCO/documents/CPD-1IDISPIA.pdf
+  - name: Financial Assessment of Public Housing
+    acronym: FASS-PH
+    link: https://www.hud.gov/program_offices/public_indian_housing/reac/products/fassph
+    description: A database to measure the financial condition of public housing agencies and assess their ability to provide safe and decent housing.
   sources:
   - https://www.nbcnews.com/politics/doge/doge-elon-musk-report-people-staff-what-we-know-news-rcna191260
 
