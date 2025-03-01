@@ -74,6 +74,9 @@ agencies:
   - date: 2025-02-07
     event: The CFPB homepage is deleted and returns a 404 error
     source: https://www.forbes.com/sites/eriksherman/2025/02/09/consumer-financial-protection-bureau-adds-error-message-to-home-page/
+  - date: 2025-02-13
+    event: Jordan Wick demands for mass termination notices to be sent to CFPB employees by February 14
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.38.2.pdf
   - date: 2025-02-14
     event: The CFPB's social media accounts are deleted and videos are removed from its YouTube channel
     source: https://www.theverge.com/news/613567/trump-youtube-videos-cfpb
@@ -416,7 +419,13 @@ agencies:
   - date: 2025-02-19
     event: Thomas Shedd has allegedly requested admin access to 19 different systems within TTS at GSA
     source: https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/
+  - date: 2025-03-01
+    event: TTS administrator Thomas Shedd eliminates 90 members of 18F with a 1am firing email and locks them out of their machines
+    source: https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/
+  - date: 2025-03-01
+    event: Hours after the staff is hit with the RIF email, the DNS entry for 18F.gsa.gov is removed
   vandalism:
+  - 18F website removed
   systems:
   - name: Notify.gov
     description: System for sending text messages to the public
@@ -486,6 +495,7 @@ agencies:
   acronym: IRS
   people:
   - Gavin Kliger
+  - Sam Corcos
   events:
   - date: 2025-02-13
     event: Gavin Kliger arrives at the IRS to begin onboarding
@@ -511,6 +521,9 @@ agencies:
   - date: 2025-02-25
     event: The Post reports that DOGE is being granted access to only anonymized data from IDRS
     source: https://www.washingtonpost.com/business/2025/02/25/elon-musk-doge-data-privacy-security/
+  - date: 2025-02-28
+    event: Gavin Kliger and Sam Corcos, DOGE representatives embedded at the tax agency, on Friday asked IRS lawyers to assist in creating an “omnibus” agreement with other federal agencies that would allow a broad swath of federal officials to cross-reference benefits rolls with taxpayer data
+    source: https://www.washingtonpost.com/business/2025/03/01/doge-irs-tax-records-benefits/
   systems:
   - name: Integrated Data Retrieval System
     acronym: IDRS
