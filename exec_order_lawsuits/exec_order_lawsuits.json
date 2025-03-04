@@ -412,8 +412,8 @@
                                 "url": "https://www.courtlistener.com/docket/69696278/espinoza-escalona-v-noem/"
                             },
                             "case_name": "Espinoza Escalona v. Noem (D.D.C.) Case No. 1:25-cv-00604",
-                            "case_summary": "[Coming soon]",
-                            "case_summary_html": "[Coming soon]",
+                            "case_summary": "Trump’s Presidential Memorandum orders the Secretary of Defense and the Secretary of Homeland Security to prepare the Migrant Operations Center at Naval Station Guantánamo Bay to function at full capacity as a detention center for undocumented migrants. Plaintiffs, ten noncitizens in immigration custody in the United States, allege they will be imminently transferred to facilities at Guantánamo. They filed suit, arguing that under the Immigration and Nationality Act, Guantánamo is in Cuba, and therefore transfer would constitute (1) unlawful removal; and (2) unlawful detention. They also argue removal would be (3) an arbitrary and capricious abuse of discretion under the Administrative Procedure Act; (4) a violation of Fifth Amendment Due Process; and (5) a violation of the right to habeas corpus. They seek a declaratory judgment that transfer to and detention in Guantánamo is unlawful and unconstitutional; that the memorandum be vacated; a grant of a writ of habeas corpus to enjoin defendants from transferring plaintiffs to Guantánamo, or if they have been transferred and detained, return to facilities in the United States; and an injunction on future transfers.\nThe same day, Plaintiffs also filed an emergency motion to stay transfer of plaintiffs.",
+                            "case_summary_html": "Trump’s Presidential Memorandum orders the Secretary of Defense and the Secretary of Homeland Security to prepare the Migrant Operations Center at Naval Station Guantánamo Bay to function at full capacity as a detention center for undocumented migrants. Plaintiffs, ten noncitizens in immigration custody in the United States, allege they will be imminently transferred to facilities at Guantánamo. They filed suit, arguing that under the Immigration and Nationality Act, Guantánamo is in Cuba, and therefore transfer would constitute (1) unlawful removal; and (2) unlawful detention. They also argue removal would be (3) an arbitrary and capricious abuse of discretion under the Administrative Procedure Act; (4) a violation of Fifth Amendment Due Process; and (5) a violation of the right to habeas corpus. They seek a declaratory judgment that transfer to and detention in Guantánamo is unlawful and unconstitutional; that the memorandum be vacated; a grant of a writ of habeas corpus to enjoin defendants from transferring plaintiffs to Guantánamo, or if they have been transferred and detained, return to facilities in the United States; and an injunction on future transfers.<br/>\nThe same day, Plaintiffs also filed an <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.dcd.277969/gov.uscourts.dcd.277969.2.0_1.pdf\">emergency motion</a> to stay transfer of plaintiffs.",
                             "complaint_link": {
                                 "title": "Complaint",
                                 "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.277969/gov.uscourts.dcd.277969.1.0_1.pdf"
@@ -1201,6 +1201,33 @@
                     ],
                     "links": [],
                     "title": "Termination of probationary employees"
+                },
+                {
+                    "cases": [
+                        {
+                            "case_link": {
+                                "title": "Democratic National Committee v. Trump",
+                                "url": "https://www.courtlistener.com/docket/69655364/american-federation-of-government-employees-afl-cio-v-united-states/"
+                            },
+                            "case_name": "Democratic National Committee v. Trump (D.D.C.) Case No. 1:25-cv-00587",
+                            "case_summary": "On Feb. 18, 2025, President Trump issued an executive order asserting that the Constitution vests all executive authority in the President, arguing that independent regulatory agencies exercise executive functions, and declaring the administration’s policy that such agencies fall under the supervision and control of the President. Such supervision and control requires independent agencies to abide by the President and Attorney General’s interpretations of the law. Plaintiffs, three national committees of the Democratic Party, filed suit as to how the order applies to the Federal Election Commission, an independent regulatory agency. They ask the court under the judicial review provisions of the Federal Election Campaign Act (FECA) to construe as constitutional the provisions of the Act that vest members of the Commission with authority to interpret it (rather than the President); and they argue the order violates the FECA. They seek declaratory judgment that the FECA is constitutional and that the executive order is unlawful as applied to the FEC; and they seek preliminary and permanent injunctive relief.",
+                            "case_summary_html": "On Feb. 18, 2025, President Trump issued an executive order asserting that the Constitution vests all executive authority in the President, arguing that independent regulatory agencies exercise executive functions, and declaring the administration’s policy that such agencies fall under the supervision and control of the President. Such supervision and control requires independent agencies to abide by the President and Attorney General’s interpretations of the law. Plaintiffs, three national committees of the Democratic Party, filed suit as to how the order applies to the Federal Election Commission, an independent regulatory agency. They ask the court under the judicial review provisions of the Federal Election Campaign Act (FECA) to construe as constitutional the provisions of the Act that vest members of the Commission with authority to interpret it (rather than the President); and they argue the order violates the FECA. They seek declaratory judgment that the FECA is constitutional and that the executive order is unlawful as applied to the FEC; and they seek preliminary and permanent injunctive relief.",
+                            "complaint_link": {
+                                "title": "Complaint",
+                                "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.277932/gov.uscourts.dcd.277932.1.0.pdf"
+                            },
+                            "complaint_link_text": "Complaint",
+                            "date_filed": "2025-02-28",
+                            "last_update": "2025-02-28"
+                        }
+                    ],
+                    "links": [
+                        {
+                            "title": "Executive Order 14215",
+                            "url": "https://www.federalregister.gov/documents/2025/02/24/2025-03063/ensuring-accountability-for-all-agencies"
+                        }
+                    ],
+                    "title": "Assertion of Executive Control of Independent Agencies (Executive Order 14215)"
                 }
             ],
             "title": "Structure of Government/Personnel"
@@ -1962,5 +1989,5 @@
             "title": "Environment"
         }
     ],
-    "last_updated": "2025-03-01"
+    "last_updated": "2025-03-03"
 }
