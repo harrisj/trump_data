@@ -976,7 +976,7 @@
                             },
                             "complaint_link_text": "Complaint",
                             "date_filed": "2025-02-10",
-                            "last_update": "2025-03-01"
+                            "last_update": "2025-03-05"
                         },
                         {
                             "case_link": {
@@ -1364,7 +1364,7 @@
                             },
                             "complaint_link_text": "Complaint",
                             "date_filed": "2025-02-10",
-                            "last_update": "2025-02-10"
+                            "last_update": "2025-03-05"
                         },
                         {
                             "case_link": {
@@ -1380,7 +1380,7 @@
                             },
                             "complaint_link_text": "Complaint",
                             "date_filed": "2025-02-10",
-                            "last_update": "2025-02-10"
+                            "last_update": "2025-03-05"
                         },
                         {
                             "case_link": {
@@ -1396,7 +1396,7 @@
                             },
                             "complaint_link_text": "Complaint",
                             "date_filed": "2025-02-10",
-                            "last_update": "2025-02-10"
+                            "last_update": "2025-03-05"
                         }
                     ],
                     "links": [
@@ -1980,6 +1980,38 @@
                             "complaint_link_text": "Complaint",
                             "date_filed": "2025-02-20",
                             "last_update": "2025-02-20"
+                        },
+                        {
+                            "case_link": {
+                                "title": "Democracy Forward Foundation v. Office of Personnel Management",
+                                "url": "https://www.courtlistener.com/docket/69676337/democracy-forward-foundation-v-office-of-personnel-management/"
+                            },
+                            "case_name": "Democracy Forward Foundation v. Office of Personnel Management (D.D.C.) Case No. 1:25-cv-00567",
+                            "case_summary": "The Plaintiff filed several FOIA requests with OPM and, on Jan. 24, sought expedited processing which OPM granted on Feb. 7. Plaintiff received no further communication from OPM.\nThe Plaintiff states that OPM failed to respond within the statutorily mandated time period under FOIA and seeks an order from the court to comply with the FOIA requests.",
+                            "case_summary_html": "The Plaintiff filed several FOIA requests with OPM and, on Jan. 24, sought expedited processing which OPM granted on Feb. 7. Plaintiff received no further communication from OPM.<br/>\nThe Plaintiff states that OPM failed to respond within the statutorily mandated time period under FOIA and seeks an order from the court to comply with the FOIA requests.",
+                            "complaint_link": {
+                                "title": "Complaint",
+                                "url": "https://democracyforward.org/wp-content/uploads/2025/02/OMB-FOIA-Complaint-022625.pdf"
+                            },
+                            "complaint_link_text": "Complaint",
+                            "date_filed": "2025-02-26",
+                            "last_update": "2025-02-26"
+                        },
+                        {
+                            "case_link": {
+                                "title": "Democracy Forward Foundation v. Office of Management and Budget",
+                                "url": "https://www.courtlistener.com/docket/69690683/democracy-forward-foundation-v-office-of-management-and-budget/"
+                            },
+                            "case_name": "Democracy Forward Foundation v. Office of Management and Budget (D.D.C.) Case No. 1:25-cv-00586",
+                            "case_summary": "Democracy Forward filed several FOIA requests with OMB after the agency issued a memorandum seeking to pause or freeze federal financial assistance. OMB acknowledged receipt but sent no further communications.\nThe Plaintiff states that OPM failed to respond within the statutorily mandated time period under FOIA and seeks an order from the court to comply with the FOIA requests.",
+                            "case_summary_html": "Democracy Forward filed several FOIA requests with OMB after the agency issued a memorandum seeking to pause or freeze federal financial assistance. OMB acknowledged receipt but sent no further communications.<br/>\nThe Plaintiff states that OPM failed to respond within the statutorily mandated time period under FOIA and seeks an order from the court to comply with the FOIA requests.",
+                            "complaint_link": {
+                                "title": "Complaint",
+                                "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.277927/gov.uscourts.dcd.277927.1.0.pdf"
+                            },
+                            "complaint_link_text": "Complaint",
+                            "date_filed": "2025-02-28",
+                            "last_update": "2025-02-28"
                         }
                     ],
                     "links": [],
