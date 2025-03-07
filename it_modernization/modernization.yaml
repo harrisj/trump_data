@@ -247,6 +247,16 @@ agencies:
     event: Edward Coristine appears in a DHS directory as a "senior advisor"
     source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
 
+- agency: Department of the Interior
+  acronym: DOI
+  people:
+  - Tyler Hassen
+  - Bryton Shang
+  events:
+  - date: 2025-01-28
+    event: Two DOGE staffers attempted to force water pumps to be turned on in a large reservoir in California for a photo op
+    source: https://www.cnn.com/2025/03/07/climate/trump-doge-california-water/index.html
+
 - agency: Department of Labor
   acronym: DOL
   people:
@@ -419,6 +429,9 @@ agencies:
   - date: 2025-02-19
     event: Thomas Shedd has allegedly requested admin access to 19 different systems within TTS at GSA
     source: https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/
+  - date: 2025-02-25
+    event: GSA reportedly spending $25,000 to install a washer and dryer near a makeshift sleeping area occupied by DOGE
+    source: https://timesofindia.indiatimes.com/world/us/doges-controversial-office-culture-ikea-beds-and-secret-sleeping-spaces-among-federal-staff/articleshow/118782925.cms
   - date: 2025-03-01
     event: TTS administrator Thomas Shedd eliminates 90 members of 18F with a 1am firing email and locks them out of their machines
     source: https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/
