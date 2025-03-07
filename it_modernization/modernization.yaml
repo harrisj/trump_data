@@ -448,6 +448,16 @@ agencies:
   - date: 2025-01-24
     event: Trump fires the HHS Inspector General in a late-night purge
     source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
+  - data: 2025-03-03
+    event: DOGE staff attempt to access "a system within a broader government database created to help enforce child support payments, which pulls a vast trove of information, including income data linked to nearly all workers"
+    source: https://www.washingtonpost.com/business/2025/03/06/doge-hhs-ssa-data/
+  systems:
+  - name: National Directory of New Hires
+    acronym: NDNH
+    link: https://acf.gov/css/training-technical-assistance/overview-federal-parent-locator-service
+    risk: Contains wage information and unemployment claims for all Americans
+    pia: https://www.hhs.gov/sites/default/files/acf-national-directory-of-new-hires.pdf
+    sorn: https://www.federalregister.gov/documents/2021/07/28/2021-16098/privacy-act-of-1974-matching-program
 
 - agency: Housing and Urban Development
   acronym: HUD
