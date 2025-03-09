@@ -437,6 +437,9 @@ agencies:
     source: https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/
   - date: 2025-03-01
     event: Hours after the staff is hit with the RIF email, the DNS entry for 18F.gsa.gov is removed
+  - date: 2025-03-07
+    event: DOGE rolls out a custom GSAi custom chatbot to 1500 workers
+    source: https://www.wired.com/story/gsai-chatbot-1500-federal-workers/
   vandalism:
   - 18F website removed
   systems:
@@ -464,6 +467,9 @@ agencies:
   - data: 2025-03-03
     event: DOGE staff attempt to access "a system within a broader government database created to help enforce child support payments, which pulls a vast trove of information, including income data linked to nearly all workers"
     source: https://www.washingtonpost.com/business/2025/03/06/doge-hhs-ssa-data/
+  - data: 3025-03-08
+    event: DOGE staff are granted access to NDNH and objecting federal staff are "no longer with the agency"
+    source: https://www.washingtonpost.com/business/2025/03/08/hhs-doge-child-support
   systems:
   - name: National Directory of New Hires
     acronym: NDNH
