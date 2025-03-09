@@ -203,6 +203,22 @@
                             "complaint_link_text": "Complaint",
                             "date_filed": "2025-02-07",
                             "last_update": "2025-02-07"
+                        },
+                        {
+                            "case_link": {
+                                "title": "City of Chelsea v. Trump",
+                                "url": "https://www.courtlistener.com/docket/69665101/city-of-chelsea-v-trump/"
+                            },
+                            "case_name": "City of Chelsea v. Trump (D. Mass.) Case No. 1:25-cv-10442",
+                            "case_summary": "Trump’s executive order directed the Departments of Justice and Homeland Security to withhold federal funds from sanctuary cities, which the Department of Justice implemented through a Feb. 5, 2025 “Sanctuary Jurisdiction Directives” memorandum.\nPlaintiffs, two Massachusetts cities that identify as a “sanctuary city” and a “welcoming community,” allege that the executive order and DOJ memo violate the Tenth Amendment’s reservation of unenumerated power to the states, separation of powers, the spending clause, the Fifth Amendment’s due process clause, and the Administrative Procedure Act. They seek declaratory judgment that the executive order and DOJ memo are statutorily unlawful and unconstitutional and that the cities are not criminally liable under the policies, and preliminary and permanent injunctions against implementation of the executive order and DOJ memo.",
+                            "case_summary_html": "Trump’s executive order directed the Departments of Justice and Homeland Security to withhold federal funds from sanctuary cities, which the Department of Justice implemented through a Feb. 5, 2025 “Sanctuary Jurisdiction Directives” <a href=\"https://iptp-production.s3.amazonaws.com/media/documents/2025.02.05_AG_Memo_Sanctuary_Jurisdiction_Directives.pdf\">memorandum</a>.<br/>\nPlaintiffs, two Massachusetts cities that identify as a “sanctuary city” and a “welcoming community,” allege that the executive order and DOJ memo violate the Tenth Amendment’s reservation of unenumerated power to the states, separation of powers, the spending clause, the Fifth Amendment’s due process clause, and the Administrative Procedure Act. They seek declaratory judgment that the executive order and DOJ memo are statutorily unlawful and unconstitutional and that the cities are not criminally liable under the policies, and preliminary and permanent injunctions against implementation of the executive order and DOJ memo.",
+                            "complaint_link": {
+                                "title": "Complaint",
+                                "url": "https://storage.courtlistener.com/recap/gov.uscourts.mad.281125/gov.uscourts.mad.281125.1.0.pdf"
+                            },
+                            "complaint_link_text": "Complaint",
+                            "date_filed": "2025-02-23",
+                            "last_update": "2025-02-23"
                         }
                     ],
                     "links": [
@@ -749,15 +765,35 @@
                             "complaint_link_text": "Complaint",
                             "date_filed": "2025-03-05",
                             "last_update": "2025-03-05"
+                        },
+                        {
+                            "case_link": {
+                                "title": "Center for Biological Diversity v. U.S. Department of Interior",
+                                "url": "https://www.courtlistener.com/docket/69698261/center-for-biological-diversity-v-us-department-of-interior/"
+                            },
+                            "case_name": "Center for Biological Diversity v. U.S. Department of Interior (D.D.C) Case No. 1:25-cv-00612",
+                            "case_summary": "On Jan. 20, 2025, President Trump signed Executive Orders 14158, renaming the U.S. Digital Service as the U.S. DOGE Service (Department of Government Efficiency). On Feb. 19, Trump signed Executive Order 14219 directing the rescission of regulations in which “agency heads shall, in coordination with their DOGE Team Leads and the Director of the Office of Management and Budget, initiate a process to review all regulations.”\nPlaintiffs, a nonprofit organization focused on habitat preservation for endangered species, alleges that DOGE and the Department of Interior have violated the Administrative Procedures Act by failing to follow Federal Advisory Committee Act (FACA) requirements for disclosure and public access to advisory committee meetings. They seek declaratory judgment that DOGE and its sub-teams are subject to the FACA and have violated the APA and FACA, an injunction stopping Department of Interior employees from meeting with or relying on work by DOGE employees, and an order of mandamus requiring compliance with the FACA.",
+                            "case_summary_html": "On Jan. 20, 2025, President Trump signed Executive Orders 14158, renaming the U.S. Digital Service as the U.S. DOGE Service (Department of Government Efficiency). On Feb. 19, Trump signed Executive Order 14219 directing the rescission of regulations in which “agency heads shall, in coordination with their DOGE Team Leads and the Director of the Office of Management and Budget, initiate a process to review all regulations.”<br/>\nPlaintiffs, a nonprofit organization focused on habitat preservation for endangered species, alleges that DOGE and the Department of Interior have violated the Administrative Procedures Act by failing to follow Federal Advisory Committee Act (FACA) requirements for disclosure and public access to advisory committee meetings. They seek declaratory judgment that DOGE and its sub-teams are subject to the FACA and have violated the APA and FACA, an injunction stopping Department of Interior employees from meeting with or relying on work by DOGE employees, and an order of mandamus requiring compliance with the FACA.",
+                            "complaint_link": {
+                                "title": "Complaint",
+                                "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.277990/gov.uscourts.dcd.277990.1.0_1.pdf"
+                            },
+                            "complaint_link_text": "Complaint",
+                            "date_filed": "2025-03-03",
+                            "last_update": "2025-03-03"
                         }
                     ],
                     "links": [
                         {
                             "title": "Executive Order 14158",
                             "url": "https://www.federalregister.gov/documents/2025/01/29/2025-02005/establishing-and-implementing-the-presidents-department-of-government-efficiency"
+                        },
+                        {
+                            "title": "Executive Order 14219",
+                            "url": "https://www.federalregister.gov/documents/2025/02/25/2025-03138/ensuring-lawful-governance-and-implementing-the-presidents-department-of-government-efficiency"
                         }
                     ],
-                    "title": "Establishment of “Department of Government Efficiency” (DOGE) (Executive Order 14158)"
+                    "title": "Establishment of “Department of Government Efficiency” (DOGE) (Executive Order 14158 and Executive Order 14219)"
                 },
                 {
                     "cases": [
@@ -1459,6 +1495,22 @@
                             "complaint_link_text": "Complaint",
                             "date_filed": "2025-02-13",
                             "last_update": "2025-02-13"
+                        },
+                        {
+                            "case_link": {
+                                "title": "Catholic Charities Diocese of Fort Worth, Inc. v. DHHS",
+                                "url": "https://www.courtlistener.com/docket/69697065/catholic-charities-diocese-of-forth-worth-inc-v-dhhs/"
+                            },
+                            "case_name": "Catholic Charities Diocese of Fort Worth, Inc. v. DHHS (D.D.C.) Case No. 1:25-cv-00605",
+                            "case_summary": "On Jan. 27, 2025, the Acting Director of the Office of Management and Budget issued a memorandum purported to “require every federal agency to temporarily pause all activities related to obligation or disbursement of all Federal financial assistance.” Despite the purported rescission of the memo days later, and temporary restraining orders requiring agencies to disburse funding, as of Mar. 3, 2025, federal funding apparently remained frozen. \nPlaintiffs, who receive federal funding through the Department of Health and Human Services’ Office of Refugee Resettlement, allege that the funding freeze violates the Constitution’s Spending Clause, the Administrative Procedure Act, the Impoundment Control Act, and the Refugee Act of 1980. They seek declaratory judgment that the spending freeze violates statutory law and the Constitution and temporary, preliminary, and permanent injunctions against enforcement of any funding freeze against the plaintiffs.  ",
+                            "case_summary_html": "On Jan. 27, 2025, the Acting Director of the Office of Management and Budget issued a memorandum purported to “require every federal agency to temporarily pause all activities related to obligation or disbursement of all Federal financial assistance.” Despite the purported rescission of the memo days later, and temporary restraining orders requiring agencies to disburse funding, as of Mar. 3, 2025, federal funding apparently remained frozen. <br/>\nPlaintiffs, who receive federal funding through the Department of Health and Human Services’ Office of Refugee Resettlement, allege that the funding freeze violates the Constitution’s Spending Clause, the Administrative Procedure Act, the Impoundment Control Act, and the Refugee Act of 1980. They seek declaratory judgment that the spending freeze violates statutory law and the Constitution and temporary, preliminary, and permanent injunctions against enforcement of any funding freeze against the plaintiffs.  ",
+                            "complaint_link": {
+                                "title": "Complaint",
+                                "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.277972/gov.uscourts.dcd.277972.1.0.pdf"
+                            },
+                            "complaint_link_text": "Complaint",
+                            "date_filed": "2025-03-03",
+                            "last_update": "2025-03-03"
                         }
                     ],
                     "links": [],
@@ -2245,5 +2297,5 @@
             "title": "Environment"
         }
     ],
-    "last_updated": "2025-03-07"
+    "last_updated": "2025-03-08"
 }
