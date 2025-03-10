@@ -570,6 +570,9 @@ agencies:
   - date: 2025-02-28
     event: Gavin Kliger and Sam Corcos, DOGE representatives embedded at the tax agency, on Friday asked IRS lawyers to assist in creating an “omnibus” agreement with other federal agencies that would allow a broad swath of federal officials to cross-reference benefits rolls with taxpayer data
     source: https://www.washingtonpost.com/business/2025/03/01/doge-irs-tax-records-benefits/
+  - date: 2025-03-03
+    event: The head of HR, Traci DiMartini, is placed on administrative leave for refusing to bring in employees over the weekend to onboard Sam Corcos
+    source: https://newrepublic.com/post/192478/irs-chief-revenge-fired-doge
   systems:
   - name: Integrated Data Retrieval System
     acronym: IDRS
@@ -807,6 +810,20 @@ agencies:
     sorn: https://www.ssa.gov/privacy/sorn/60-0090.pdf
   sources:
   - https://www.cnn.com/2025/02/17/politics/social-security-head-steps-down-doge-access/index.html
+
+- name: U.S. African Development Foundation
+  acronym: USADF
+  people:
+  - Jacob Altik
+  - Ethan Shaotran
+  - Nate Cavanaugh
+  events:
+  - date: 2025-03-05
+    event: Jacob Altik and Ethan Shaotran are rebuffed by agency leadership when attempting to enter the agency
+    source: https://www.thedailybeast.com/elon-musks-doge-goons-in-tense-standoff-video-unmasked/
+  - date: 2025-03-06
+    event: DOGE staff Jacob Altik and Ethan Shaotran return joined by Nate Cavanaugh with US marshals to force entry to the agency
+    source: https://www.thedailybeast.com/elon-musks-doge-goons-in-tense-standoff-video-unmasked/
 
 - name: "US Agency for International Development"
   acronym: USAID
