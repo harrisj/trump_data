@@ -9,6 +9,7 @@ pydantic = "*"
 dateparser = "*"
 canonicaljson = "*"
 bs4 = "*"
+pyyaml = "*"
 
 [dev-packages]
 black = "*"

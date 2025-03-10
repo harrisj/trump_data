@@ -152,7 +152,7 @@ agencies:
   - date: 2025-01-24
     event: Trump fires the Inspector General for the Department of Education in a late-night purge
     source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
-  - date: 2028-01-28
+  - date: 2025-01-28
     event: According to his sworn testimony, Alan Ramada started working at the Department of Education on this date. He says there is one other USDS staffer with him, two other detailees and two DOE staffers.
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.16.1.pdf
   - date: 2025-02-03
@@ -483,7 +483,7 @@ agencies:
   - date: 2025-03-03
     event: DOGE staff attempt to access "a system within a broader government database created to help enforce child support payments, which pulls a vast trove of information, including income data linked to nearly all workers"
     source: https://www.washingtonpost.com/business/2025/03/06/doge-hhs-ssa-data/
-  - date: 3025-03-08
+  - date: 2025-03-08
     event: DOGE staff are granted access to NDNH and objecting federal staff are "no longer with the agency"
     source: https://www.washingtonpost.com/business/2025/03/08/hhs-doge-child-support
   systems:
