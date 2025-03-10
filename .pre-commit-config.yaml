@@ -1,0 +1,9 @@
+repos:
+- repo: local
+  hooks:
+  - id: events-csv
+    name: "Events CSV"
+    types: [ file ]
+    files: modernization.yaml
+    entry: ".hooks/modernization_events.sh"
+    language: script

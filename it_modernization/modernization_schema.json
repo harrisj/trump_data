@@ -37,6 +37,14 @@
                                     "type": "string",
                                     "description": "A description of the DOGE-related event"
                                 },
+                                "named": {
+                                    "type": "array",
+                                    "description": "A list of DOGE staff named with the event",
+                                    "items": {
+                                        "description": "The names of DOGE staff in the incident.",
+                                        "type": "string"
+                                    }
+                                },
                                 "source": {
                                     "type": "string",
                                     "description": "A URL of the source for the information in the event"

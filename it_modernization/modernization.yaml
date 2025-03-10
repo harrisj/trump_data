@@ -66,6 +66,10 @@ agencies:
   - date: 2025-02-06
     event: DOGE staff enter CFPB facilities and are given equipment and onboarded
     source: https://www.wired.com/story/doge-access-consumer-financial-protection-bureau-data/
+    named:
+    - Nikhil Rajpal
+    - Gavin Kliger
+    - Chris Young
   - date: 2025-02-07
     event: DOGE staff are granted read-only access to the HR, PRISM, and Discoverer systems
     source: https://www.wired.com/story/doge-access-consumer-financial-protection-bureau-data/
@@ -73,14 +77,31 @@ agencies:
     event: Elon Musk posts a tweet "CFPB RIP" with a tombstone emoji
     source: https://news.bloomberglaw.com/banking-law/musks-doge-descends-on-consumer-financial-protection-bureau
   - date: 2025-02-07
+    event: DOGE staff are given full privileged access to CFPB systems without completing training or agreeing to CFPB's acceptable use policy for IT systems
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.38.5.pdf
+  - date: 2025-02-07
     event: The CFPB homepage is deleted and returns a 404 error
     source: https://www.forbes.com/sites/eriksherman/2025/02/09/consumer-financial-protection-bureau-adds-error-message-to-home-page/
+  - date: 2025-02-11
+    event: CFPB Contracting Officers (COs) are ordered to terminate the vast majority of CFPB's contracts during that weekend
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.38.4.pdf
+  - date: 2025-02-12
+    event: Adam Martinez, CFPB COO, includes DOGE representatives in emails hiring OPM for consulting on Reduction-in-Force planning for the CFPB
+    named:
+    - Jordan Wick
+    - Chris Young
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.67.0_1.pdf
   - date: 2025-02-13
     event: Jordan Wick demands for mass termination notices to be sent to CFPB employees by February 14
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.38.2.pdf
+    named:
+    - Jordan Wick
   - date: 2025-02-14
     event: The CFPB's social media accounts are deleted and videos are removed from its YouTube channel
     source: https://www.theverge.com/news/613567/trump-youtube-videos-cfpb
+  - date: 2025-02-18
+    event: An employee requests to repair the CFPB homepage deleted by DOGE, but that action is refused by order of Vought
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.38.6.pdf
   systems:
   - name: HRConnect
     description: HR system for CFPB employees
@@ -107,9 +128,14 @@ agencies:
   events:
   - date: 2025-02-19
     event: Edward Coristine and Kyle Schutt are given access to CISA systems
+    named:
+    - Edward Coristine
+    - Kyle Schutt
     source: https://www.wired.com/story/doge-cisa-coristine-cybersecurity/
   - date: 2025-02-20
     event: Division leaders at the Cybersecurity and Infrastructure Security Agency informed some senior CISA staffers that DOGE has access to internal emails and Microsoft Teams chats of employees.
+    named:
+    - Edward Coristine
     source: https://www.nbcnews.com/politics/donald-trump/live-blog/trump-france-emmanuel-macron-white-house-ukraine-tariffs-live-updates-rcna193386#rcrd73638
 
 - name: Department of Agriculture
@@ -138,13 +164,13 @@ agencies:
     event: DoD agencies are ordered to provide lists of probationary employees to DOGE
     source: https://www.washingtonpost.com/national-security/2025/02/18/pentagon-layoffs-musk-doge-trump/
   - date: 2025-02-20
-    event: Defense Secretary Hegseth releases a video stating that he met with DOGE about cuts to the agency and many are veterans
+    event: Defense Secretary Hegseth releases a video stating that he met with DOGE about cuts to the agency and many of them are veterans
     source: https://www.foxnews.com/politics/defense-sec-hegseth-working-doge-cut-bs
 
 - name: Department of Education
   acronym: ED
   people:
-  - Alan Ramada
+  - Adam Ramada
   - Akash Bobba
   - Ethan Shaotran
   - Brooks Morgan
@@ -154,6 +180,8 @@ agencies:
     source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
   - date: 2025-01-28
     event: According to his sworn testimony, Alan Ramada started working at the Department of Education on this date. He says there is one other USDS staffer with him, two other detailees and two DOE staffers.
+    named:
+    - Adam Ramada
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.16.1.pdf
   - date: 2025-02-03
     event: Twenty DOGE staff are in the agency and "have gained access to multiple sensitive internal systems, the people said, including a financial aid dataset that contains the personal information for millions of students enrolled in the federal student aid program."
@@ -163,6 +191,9 @@ agencies:
     source: https://www.washingtonpost.com/nation/2025/02/06/elon-musk-doge-ai-department-education/
   - date: 2025-02-08
     event: NBC News reports that Akash Bobba and Ethan Shaotran have admin access to email and had also accessed the website backend
+    named:
+    - Akash Bobba
+    - Ethan Shaotran
     source: https://www.nbcnews.com/news/us-news/elon-musk-doge-team-education-department-rcna191244
   - date: 2025-02-11
     event: Department of Education agreed to block DOGE from access to financial aid systems
@@ -177,7 +208,7 @@ agencies:
     event: In a ruling, a judge declared "DOGE affiliates have been granted access to systems of record that contain some of the plaintiffs’ most sensitive data — Social Security numbers, dates of birth, home addresses, income and assets, citizenship status, and disability status — and their access to this trove of personal information is ongoing"
     source: https://www.nbcnews.com/politics/doge/judge-blocks-department-education-federal-personnel-office-sharing-dat-rcna193453
   - date: 2025-02-24
-    event: The ruling names the systems NSLDS, COD, FAS and FMS as being accessed by DOGE
+    event: A court ruling names the systems NSLDS, COD, FAS and FMS as being accessed by DOGE
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.38.0.pdf
   systems:
   - name: Common Origination and Disbursement System
@@ -231,6 +262,13 @@ agencies:
   - date: 2025-02-05
     event: Luke Farritor was granted access to the Energy Department's IT system on Wednesday by Energy Secretary Chris Wright over objections from agency security staff
     source: https://www.cnn.com/2025/02/06/climate/doge-energy-department-trump/index.html
+    named:
+    - Luke Farritor
+  - date: 2025-02-07
+    event: Ryan Riedel, a SpaceX network security engineer with 4 years of experience, is named the CIO for the agency
+    named:
+    - Ryan Riedel
+    source: https://www.aol.com/trump-energy-secretary-allowed-23-003504452.html
   - date: 2025-02-07
     event: Sources indicate that 3 unidentified DOGE personnel are working at the Department of Energy
     source: https://www.reuters.com/world/us/three-doge-members-raise-access-concerns-us-energy-department-sources-say-2025-02-07/
@@ -256,6 +294,9 @@ agencies:
   events:
   - date: 2025-01-28
     event: Two DOGE staffers attempted to force water pumps to be turned on in a large reservoir in California for a photo op
+    named:
+    - Tyler Hassen
+    - Bryton Shang
     source: https://www.cnn.com/2025/03/07/climate/trump-doge-california-water/index.html
 
 - name: Department of Labor
@@ -281,9 +322,19 @@ agencies:
     source: https://www.theguardian.com/us-news/2025/feb/05/elon-musk-doge-labor-department-protest
   - date: 2025-02-13
     event: DOGE is granted authorization to use file transfer software
+    named:
+    - Sam Beyda
+    - Derek Geissler
+    - Cole Killian
+    - Adam Ramada
+    - Jordan Wick
     source: https://www.nbcnews.com/tech/security/doge-software-approval-alarms-labor-department-employees-data-security-rcna191583
   - date: 2025-03-05
     event: Business Insider reports Marko Elez, Aram Moghaddassi, and Miles B. Collins are new DOGE arrivals at Department of Labor
+    named:
+    - Marko Elez
+    - Aram Moghaddassi
+    - Miles B. Collins
     source: https://www.businessinsider.com/doge-staffer-fertility-clinic-pronatalist-department-of-labor
 
 - name: Department of the Treasury
@@ -360,6 +411,8 @@ agencies:
     source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
   - date: 2025-02-04
     event: Gauiter "Cole" Killian appears in an EPA internal directory as a "Federal Detailee"
+    named:
+    - Cole Killian
     source: https://www.eenews.net/articles/doge-aide-pops-up-in-epa-staff-directory/
   - date: 2025-02-07
     event: 168 employees who worked on environmental justice are placed on indefinite administrative leave
@@ -386,7 +439,18 @@ agencies:
     source: https://www.faa.gov/about/initiatives/notam/what_is_a_notam
   - date: 2025-02-16
     event: 4 SpaceX engineers were onboarded into the FAA under the Schedule A hiring authority for people with disabilities
+    named:
+    - Ted Malaska
+    - Thomas Kiernan
+    - Sam Smeal
+    - Brady Glantz
     source: https://www.wired.com/story/faa-doge-elon-musk-space-x/
+  - date: 2025-02-17
+    event: The SpaceX engineers are granted ethics waivers and designated as Special Government Employees, but must recuse from decisions affecting SpaceX
+    source: https://www.bloomberg.com/news/features/2025-03-05/after-elon-musk-lands-at-faa-his-starlink-business-stands-to-gain-business
+  - date: 2025-02-18
+    event: Malaska declares that SpaceX is the only company able to complete a communications network contract already awarded to Verizon, threatens to report anybody blocking his work to Musk
+    source: https://www.bloomberg.com/news/features/2025-03-05/after-elon-musk-lands-at-faa-his-starlink-business-stands-to-gain-business
   systems:
   - name: Notice to Airmen
     acronym: NOTAM
@@ -405,6 +469,8 @@ agencies:
   events:
   - date: 2025-02-05
     event: Edward Coristine is given a FEMA badge and onboarded into the agency
+    named:
+    - Edward Coristine
     source: https://www.washingtonpost.com/climate-environment/2025/02/07/musk-trump-fema-doge/
   systems:
   - name: FEMA Grants Outcomes
@@ -422,7 +488,7 @@ agencies:
     event: The head of the medical device safety division is fired amid mass layoffs
     source: https://www.statnews.com/2025/02/18/fda-trump-musk-doge-cuts-ross-segan-memo-medical-device-safety/
   - date: 2025-02-17
-    event: The head of the agency's food safety division resigns of 89 employees being indiscriminately fired
+    event: The head of the agency's food safety division resigns because of 89 employees being indiscriminately fired
     source: https://thehill.com/policy/healthcare/5152084-fdas-food-safety-head-resigns/
 
 - name: General Services Administration
@@ -434,25 +500,47 @@ agencies:
   - Luke Farritor
   - Ethan Shaotran
   - Kyle Schutt
+  - Derek Geissler
+  - Nicole Hollander
   events:
   - date: 2025-02-12
     event: Dozens of workers within the Technology Transformation Service (TTS) are fired.
     source: https://www.wired.com/story/doge-access-consumer-financial-protection-bureau-data/
   - date: 2025-02-18
     event: A GSA employee resigned rather than give unrestricted admin access of Notify.gov to Thomas Shedd
+    named:
+    - Thomas Shedd
     source: https://www.404media.co/musk-ally-demands-admin-access-to-system-that-lets-government-text-the-public/
   - date: 2025-02-19
     event: Thomas Shedd has allegedly requested admin access to 19 different systems within TTS at GSA
+    named:
+    - Thomas Shedd
     source: https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/
   - date: 2025-02-25
     event: GSA reportedly spending $25,000 to install a washer and dryer near a makeshift sleeping area occupied by DOGE
     source: https://timesofindia.indiatimes.com/world/us/doges-controversial-office-culture-ikea-beds-and-secret-sleeping-spaces-among-federal-staff/articleshow/118782925.cms
+  - date: 2025-02-27
+    event: Thomas Shedd, an engineer who has worked 8 years at Tesla, is named the head of GSA's Technology Transformation Services (TTS)
+    source: https://executivegov.com/2025/01/gsa-jan-2025-leadership-appointments-fas-pbs-tts/#Thomas_Shedd
   - date: 2025-03-01
     event: TTS administrator Thomas Shedd eliminates 90 members of 18F with a 1am firing email and locks them out of their machines
+    named:
+    - Thomas Shedd
     source: https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/
   - date: 2025-03-01
     event: Hours after the staff is hit with the RIF email, the DNS entry for 18F.gsa.gov is removed
     source: https://18f.gsa.gov/
+  - date: 2025-03-04
+    event: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid in the GSA, but others are listed as volunteers for that agency
+    named:
+    - Kyle Schutt
+    - Nate Cavanaugh
+    - Edward Coristine
+    - Ethan Shaotran
+    - Luke Farritor
+    - Derek Geissler
+    - Nicole Hollander
+    source: https://www.wired.com/story/doge-government-salaries-elon-musk/
   - date: 2025-03-07
     event: DOGE rolls out a custom GSAi custom chatbot to 1500 workers
     source: https://www.wired.com/story/gsai-chatbot-1500-federal-workers/
@@ -620,6 +708,11 @@ agencies:
   events:
   - date: 2025-02-24
     event: Reports that DOGE have accounts are working with the NIH Business System Department for NIH’s central electronic business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
+    named:
+    - Luke Farritor
+    - Rachel Riley
+    - Jeremy Lewin
+    - Clark Minor
     source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
   systems:
   - name: NIH Business System
@@ -673,6 +766,8 @@ agencies:
     source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
   - date: 2025-01-31
     event: Federal employees at OPM are locked out of access to key systems by DOGE and OPM leadership
+    named:
+    - Riccardo Biasini
     source: https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/
   - date: 2025-01-28
     event: OPM sends out the "Fork in the Road" email to all federal employees offering them a chance to resign
@@ -685,6 +780,8 @@ agencies:
     source: https://www.commondreams.org/news/cnn-foia-office-of-personnel-management
   - date: 2025-02-25
     event: DOGE engineer Ricardo Biasini is reported to be working on updating software to automate Reduction-in-Force (RIF) processes
+    named:
+    - Ricardo Biasini
     source: https://www.wired.com/story/doge-autorif-mass-firing-government-workers/
   systems:
   - name: UsaJobs
@@ -744,6 +841,9 @@ agencies:
   events:
   - date: 2025-02-10
     event: Edward Coristine and Luke Farritor are posted to the State Department's Bureau of Diplomatic Technology
+    named:
+    - Edward Coristine
+    - Luke Farritor
     source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
 
 - name: Securities and Exchange Commission
@@ -756,23 +856,84 @@ agencies:
 - name: Social Security Administration
   acronym: SSA
   people:
+  - Akash Bobba
+  - Mike Russo
   - Marko Elez
   - Ethan Shaotran
   - Nikhil Rajpal
   - Cole Killian
   events:
+  - date: 2025-01-30
+    event: Leland Dudek reaches out to Tiffany Flick, the Associate Director of Budget, Facilities and Security to inform her two DOGE staff would be onboarding. He was a mid-level employee at the time.
+    named:
+    - Leland Dudek
+    - Mike Russo
+    - Scott Coulter
+    source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
+  - date: 2025-01-31
+    event: Mike Russo begins onboarding as new CIO, introduces himself as a DOGE representative to staff
+    named:
+    - Mike Russo
+    source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
+  - date: 2025-02-03
+    event: Mike Russo officially joins the agency as its new CIO, requests Akash Bobba to join the agency (but he has issues with his background check)
+    named:
+    - Mike Russo
+    - Akash Bobba
+    source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
+  - date: 2025-02-10
+    event: Mike Russo, DOGE chief of staff Steve Davis both demand that Akash Bobba be onboarded before midnight.
+    named:
+    - Mike Russo
+    - Steve Davis
+    - Akash Bobba
+    source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
+  - date: 2025-02-10
+    event: CIO Mike Russo convenes his own internal informational group in SSA, has conversations with other agencies about data sharing, does not inform acting SSA Director, Michelle King
+    source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
+    named:
+    - Leland Dudek
+    - Mike Russo
+  - date: 2025-02-10
+    event: Akash Bobba is rapidly trained and is granted access to anonymized and read-only "sandbox" NUMIDENT data for his purported fraud investigations
+    source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
+    named:
+    - Akash Bobba
+  - date: 2025-02-14
+    event: Leland Dudek is placed on administrative leave while under investigation that he committed inappropriate actions to help DOGE
+    named:
+    - Leland Dudek
+    source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
+  - date: 2025-02-15
+    event: Akash Bobba reports issue with the "sandbox" data. Russo demands he gets immediate full access to Enterprise Data Warehouse (EDW), Master Beneficiary Record (MBR) and Supplemental Security Record (SSR) files as well as source code
+    source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
+    named:
+    - Mike Russo
+    - Akash Bobba
+  - date: 2025-02-15
+    event: Staff express concern to Acting Commissioner King that Bobba is accessing information remotely and in an insecure location (the OPM)
+    source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
+    named:
+    - Akash Bobba
   - date: 2025-02-16
-    event: The acting director of the Social Security Administration, Michelle King, resigned rather than authorize DOGE access to SSA systems
-    source: https://www.washingtonpost.com/politics/2025/02/17/doge-social-security-musk/
-  - date: 2025-02-16
-    event: Trump appoints Leland Dudek as acting director of the Social Security Administration, bypassing more senior officials in the SSA
-    source: https://www.washingtonpost.com/politics/2025/02/17/doge-social-security-musk/
+    event: The acting director of the Social Security Administration, Michelle King, receives an email from the White House that Dudek is now the Acting Commissioner.
+    source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
+    named:
+    - Leland Dudek
   - date: 2025-02-20
-    event: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group)
+    event: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
     source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
+    named:
+    - Leland Dudek
+    - Ethan Shaotran
+    - Nikhil Rajpal
+    - Cole Killian
+    - Marko Elez
   - date: 2025-03-04
     event: In a meeting, Dudek stresses again that DOGE will make mistakes and also admits "I am receiving decisions that are made without my input. I have to effectuate those decisions," suggesting DOGE is in charge.
     source: https://www.washingtonpost.com/politics/2025/03/06/doge-is-driving-social-security-cuts-will-make-mistakes-acting-head-says-privately/
+    named:
+    - Leland Dudek
   systems:
   - name: Anti-Fraud Enterprise Solution
     acronym: AFES
@@ -820,9 +981,16 @@ agencies:
   events:
   - date: 2025-03-05
     event: Jacob Altik and Ethan Shaotran are rebuffed by agency leadership when attempting to enter the agency
+    named:
+    - Jacob Altik
+    - Ethan Shaotran
     source: https://www.thedailybeast.com/elon-musks-doge-goons-in-tense-standoff-video-unmasked/
   - date: 2025-03-06
     event: DOGE staff Jacob Altik and Ethan Shaotran return joined by Nate Cavanaugh with US marshals to force entry to the agency
+    named:
+    - Jacob Altik
+    - Ethan Shaotran
+    - Nate Cavanaugh
     source: https://www.thedailybeast.com/elon-musks-doge-goons-in-tense-standoff-video-unmasked/
 
 - name: "US Agency for International Development"
@@ -834,12 +1002,18 @@ agencies:
   events:
   - date: 2025-01-27
     event: A DOGE official first arrives at USAID. Later, senior staff are summoned to a meeting with Gavin Kliger and Luke Farritor.
+    named:
+    - Gavin Kliger
+    - Luke Farritor
     source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
   - date: 2025-01-30
     event: DOGE discovers that some USAID grants had been paid automatically through HHS despite a declared freeze
     source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
   - date: 2025-01-30
     event: "Farritor and Kliger demanded that all senior managers be stripped of their power to authorize payments — and that they alone become the authorizers."
+    named:
+    - Luke Farritor
+    - Gavin Kliger
     source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
   - date: 2025-02-01
     event: USAID Director of Security and deputy placed on administrative leave for trying to prevent DOGE from accessing personnel files and classified data
@@ -855,6 +1029,8 @@ agencies:
     source: https://www.nbcnews.com/politics/doge/elon-musk-boosted-false-usaid-conspiracy-theories-global-aid-rcna190646
   - date: 2025-02-03
     event: An email informing USAID staff that the building was closed included Gavin Kliger's email address
+    named:
+    - Gavin Kliger
     source: https://www.npr.org/2025/02/06/nx-s1-5289337/elon-musk-doge-treasury
   - date: 2025-02-03
     event: Elon Musk tweets that he and President Trump are shutting down USAID
@@ -870,6 +1046,9 @@ agencies:
     source: https://www.nbcnews.com/politics/politics-news/usaid-reduce-foreign-service-officers-trump-cuts-federal-government-rcna191122
   - date: 2025-02-09
     event: Gavin Kliger and Luke Farritor completely remove all access to the payments system for all other USAID staff
+    named:
+    - Gavin Kliger
+    - Luke Farritor
     source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
   - date: 2025-02-11
     event: USAID Inspector General is illegally fired after releasing a report critical of DOGE's actions
