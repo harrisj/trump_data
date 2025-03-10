@@ -54,6 +54,8 @@ For a given system, there will be the following fields
 - description: a short description of the system
 - risk: a description of the risks from letting DOGE have full access to the system
 
+More formally, there is now a JSON Schema file for the YAML and if you have the appropriate validation tools (like the RedHat YAML plugin in Visual SourceSafe), it can help report any validation errors.
+
 # Can You Tell Me More About These Names?
 No. I am mainly just trying to track who is at each agency, the types of systems they might be accessing (mentioned in news coverage as well as the general notion they are looking at HR/Contracting/Procurement systems) and a timeline of events for their action. Other news organizations like ProPublica and Wired already have excellent resources on who these people are and where they have come from.
 

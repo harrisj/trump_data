@@ -1,0 +1,108 @@
+{
+    "properties": {
+        "agencies": {
+            "description": "A collection of agencies",
+            "type": "array",
+            "items": {
+                "title": "Agency",
+                "description": "An agency info",
+                "properties": {
+                    "name": {
+                        "description": "The agency name",
+                        "type": "string"
+                    },
+                    "acronym": {
+                        "description": "The acronym of the abbreviation (eg, NASA or CIA)",
+                        "type": "string"
+                    },
+                    "people": {
+                        "description": "A list of DOGE people who have been linked to the agency",
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "events": {
+                        "description": "A list of events associated with DOGE at the agency",
+                        "type": "array",
+                        "items": {
+                            "title": "Event",
+                            "description": "An event associated with DOGE staff",
+                            "properties": {
+                                "date": {
+                                    "type": "string",
+                                    "description": "A date in format YYYY-MM-DD"
+                                },
+                                "event": {
+                                    "type": "string",
+                                    "description": "A description of the DOGE-related event"
+                                },
+                                "source": {
+                                    "type": "string",
+                                    "description": "A URL of the source for the information in the event"
+                                }
+                            },
+                            "required": ["date", "event", "source"]
+                        }
+                    },
+                    "vandalism": {
+                        "description": "A list of vandalism linked to the DOGE staff at agencies",
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "systems": {
+                        "description": "An array of systems likely accessed by DOGE staff. In some cases, these might be named specifically or they might be for specific functions (eg, HR, contracts) that were accessed by DOGE",
+                        "type": "array",
+                        "items": {
+                            "title": "System",
+                            "description": "Information about a specific syatem",
+                            "properties": {
+                                "name": {
+                                    "description": "THe name of the system",
+                                    "type": "string"
+                                },
+                                "acronym": {
+                                    "description": "An acronym for the system",
+                                    "type": "string"
+                                },
+                                "description": {
+                                    "description": "A description of the system",
+                                    "type": "string"
+                                },
+                                "risk": {
+                                    "description": "A short description of the risks associated with DOGE accessing the system",
+                                    "type": "string"
+                                },
+                                "link": {
+                                    "description": "A link to an overview of the system",
+                                    "type": "string"
+                                },
+                                "pia": {
+                                    "description": "A URL linking to the Privacy Impact Assessment for the system",
+                                    "type": "string"
+                                },
+                                "sorn": {
+                                    "description": "A URL linking to the SORN for the system",
+                                    "type": "string"
+                                }
+                            },
+                            "required": ["name", "description"]
+                        }
+                    },
+                    "sources": {
+                        "description": "A link to some overall sources for DOGE at the agency",
+                        "type": "array",
+                        "items": {
+                            "type": "string",
+                            "description": "A URL linking to a news source about DOGE overall at the agency"
+                        }
+                    }
+                },
+                "required": ["name"]
+            }
+        }
+    },
+    "required": ["agencies"]
+}

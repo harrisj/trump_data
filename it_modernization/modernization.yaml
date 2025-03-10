@@ -1,3 +1,4 @@
+# yaml-language-server: $schema=modernization_schema.json
 agencies:
 - name: Centers for Disease Control and Prevention
   acronym: CDC
@@ -18,7 +19,7 @@ agencies:
     description: A system for centralizng health access, public-health data, including hundreds of thousands of daily anonymized lab tests, data from emergency-room visits, and measurements from wastewater disease-reporting sites
     link: https://www.cdc.gov/public-health-data-strategy/php/about/index.html
 
-- agency: Centers for Medicare and Medicaid Services
+- name: Centers for Medicare and Medicaid Services
   acronym: CMS
   people:
   - Luke Farritor
@@ -50,7 +51,7 @@ agencies:
     event: DOGE staff enters the Commerce Department
     source: https://www.govexec.com/management/2025/02/doge-enters-noaa-accesses-it-systems-and-removes-top-hr-official/402776/
 
-- agency: Consumer Financial Protection Bureau
+- name: Consumer Financial Protection Bureau
   acronym: CFPB
   people:
   - Gavin Kliger
@@ -122,7 +123,7 @@ agencies:
     source: https://www.usda.gov/about-usda/news/press-releases/2025/02/14/secretary-rollins-delivers-opening-remarks-usda-headquarters
   - date: 2025-02-15
     event: USDA accidentally includes official working on H5N1 response in mass firings of probationary employees
-    sourcee: https://www.nbcnews.com/politics/doge/usda-accidentally-fired-officials-bird-flu-rehire-rcna192716
+    source: https://www.nbcnews.com/politics/doge/usda-accidentally-fired-officials-bird-flu-rehire-rcna192716
 
 - name: Department of Defense
   acronym: DoD
@@ -238,7 +239,7 @@ agencies:
     description: "Basic IT including email and Microsoft 365"
     source: https://www.cnn.com/2025/02/06/climate/doge-energy-department-trump/index.html
 
-- agency: Department of Homeland Security
+- name: Department of Homeland Security
   acronym: DHS
   people:
   - Edward Coristine
@@ -247,7 +248,7 @@ agencies:
     event: Edward Coristine appears in a DHS directory as a "senior advisor"
     source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
 
-- agency: Department of the Interior
+- name: Department of the Interior
   acronym: DOI
   people:
   - Tyler Hassen
@@ -257,7 +258,7 @@ agencies:
     event: Two DOGE staffers attempted to force water pumps to be turned on in a large reservoir in California for a photo op
     source: https://www.cnn.com/2025/03/07/climate/trump-doge-california-water/index.html
 
-- agency: Department of Labor
+- name: Department of Labor
   acronym: DOL
   people:
   - Sam Beyda
@@ -265,6 +266,9 @@ agencies:
   - Cole Killian
   - Adam Ramada
   - Jordan Wick
+  - Marko Elez
+  - Aram Moghaddassi
+  - Miles B. Collins
   events:
   - date: 2025-01-24
     event: Trump fires the Inspector General for the Department of Labor in a late-night purge
@@ -278,21 +282,37 @@ agencies:
   - date: 2025-02-13
     event: DOGE is granted authorization to use file transfer software
     source: https://www.nbcnews.com/tech/security/doge-software-approval-alarms-labor-department-employees-data-security-rcna191583
-  systems:
-  sources:
-  - https://www.nbcnews.com/tech/security/doge-software-approval-alarms-labor-department-employees-data-security-rcna191583
+  - date: 2025-03-05
+    event: Business Insider reports Marko Elez, Aram Moghaddassi, and Miles B. Collins are new DOGE arrivals at Department of Labor
+    source: https://www.businessinsider.com/doge-staffer-fertility-clinic-pronatalist-department-of-labor
 
-- agency: Department of the Treasury
+- name: Department of the Treasury
   acronym: Treasury
   people:
   - Marko Elez
   - Ryan Wunderly
+  - Thomas Krause
   events:
+  - date: 2025-01-21
+    event: Marko Elez starts at the Treasury Department and is granted full read-write access to systems
+    source: https://fedscoop.com/treasury-payments-systems-doge-judge-ruling/
+  - date: 2025-01-23
+    event: Thomas Krause starts at the Treasury Department
+    source: https://fedscoop.com/treasury-payments-systems-doge-judge-ruling/
+  - date: 2025-01-24
+    event: Treasury Chief of Staff Dan Katz sends an email stating that DOGE staff need to be given access to pause USAID payments
+    source: https://www.nytimes.com/2025/02/06/us/politics/trump-musk-usaid.html
   - date: 2025-01-24
     event: Trump fires the Inspector General for the Department of the Treasury in a late-night purge
     source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
-  - date: 2025-02-07
-    event: Marko Elez resigns after past racist tweets are revealed
+  - date: 2025-02-06
+    event: Judge Colleen Kollar-Kotelly rules that DOGE should only be granted read access to government systems
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.12.1_1.pdf
+  - date: 2025-02-06
+    event: Marko Elez was discovered to inappropriately have read-write access on his laptop
+    source: https://www.emptywheel.net/2025/02/12/marko-elez-resigned-the-day-his-write-access-to-payment-systems-was-discovered/
+  - date: 2025-02-06
+    event: Marko Elez resigns allegedly after past racist tweets are revealed (but also same day as above)
     source: https://www.npr.org/2025/02/06/nx-s1-5289337/elon-musk-doge-treasury
   - date: 2025-02-10
     event: Affadavit states a BFS payment was presented to State Department to not process after review by DOGE
@@ -300,9 +320,6 @@ agencies:
   - date: 2025-02-11
     event: Affadavit states Marko Elez was accidentally given edit access to BFS systems but did not use it
     source: https://www.washingtonpost.com/business/2025/02/11/doge-treasury-access-marko-elez/
-  - date: 2025-02-18
-    event: Marko Elex reinstated in the Trump administration and is given access to Treasury systems again
-    source:
   - date: 2025-02-19
     event: Treasury Secretary Scott Bessent says only one person from DOGE is "looking at an outdated IT system, that's all they're doing."
     source: https://www.bloomberg.com/news/articles/2025-02-19/bessent-says-doge-effort-has-saved-estimated-50-billion-so-far
@@ -380,8 +397,6 @@ agencies:
   acronym: FBI
   people:
   - Justin Monroe
-  systems:
-
 
 - name: Federal Emergency Management Agency
   acronym: FEMA
@@ -410,7 +425,7 @@ agencies:
     event: The head of the agency's food safety division resigns of 89 employees being indiscriminately fired
     source: https://thehill.com/policy/healthcare/5152084-fdas-food-safety-head-resigns/
 
-- agency: General Services Administration
+- name: General Services Administration
   acronym: GSA
   people:
   - Thomas Shedd
@@ -437,6 +452,7 @@ agencies:
     source: https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/
   - date: 2025-03-01
     event: Hours after the staff is hit with the RIF email, the DNS entry for 18F.gsa.gov is removed
+    source: https://18f.gsa.gov/
   - date: 2025-03-07
     event: DOGE rolls out a custom GSAi custom chatbot to 1500 workers
     source: https://www.wired.com/story/gsai-chatbot-1500-federal-workers/
@@ -456,7 +472,7 @@ agencies:
   - https://www.npr.org/2025/02/11/nx-s1-5293258/trump-gsa-budget-cuts-doge
   - https://projects.propublica.org/elon-musk-doge-tracker/
 
-- agency: Health and Human Services
+- name: Health and Human Services
   acronym: HHS
   people:
   - Luke Farritor
@@ -464,21 +480,22 @@ agencies:
   - date: 2025-01-24
     event: Trump fires the HHS Inspector General in a late-night purge
     source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
-  - data: 2025-03-03
+  - date: 2025-03-03
     event: DOGE staff attempt to access "a system within a broader government database created to help enforce child support payments, which pulls a vast trove of information, including income data linked to nearly all workers"
     source: https://www.washingtonpost.com/business/2025/03/06/doge-hhs-ssa-data/
-  - data: 3025-03-08
+  - date: 3025-03-08
     event: DOGE staff are granted access to NDNH and objecting federal staff are "no longer with the agency"
     source: https://www.washingtonpost.com/business/2025/03/08/hhs-doge-child-support
   systems:
   - name: National Directory of New Hires
     acronym: NDNH
+    description: A system for tracking wages and new hires that's used for child support location
     link: https://acf.gov/css/training-technical-assistance/overview-federal-parent-locator-service
     risk: Contains wage information and unemployment claims for all Americans
     pia: https://www.hhs.gov/sites/default/files/acf-national-directory-of-new-hires.pdf
     sorn: https://www.federalregister.gov/documents/2021/07/28/2021-16098/privacy-act-of-1974-matching-program
 
-- agency: Housing and Urban Development
+- name: Housing and Urban Development
   acronym: HUD
   people:
   - Scott Langmack
@@ -520,7 +537,7 @@ agencies:
   sources:
   - https://www.nbcnews.com/politics/doge/doge-elon-musk-report-people-staff-what-we-know-news-rcna191260
 
-- agency: Internal Revenue Service
+- name: Internal Revenue Service
   acronym: IRS
   people:
   - Gavin Kliger
@@ -565,7 +582,7 @@ agencies:
   - https://thehill.com/homenews/administration/5149835-stephen-miller-doge-irs/
   - https://www.cnn.com/2025/02/17/politics/doge-irs-taxpayer-data/index.html
 
-- agency: National Aeronautics and Space Administration
+- name: National Aeronautics and Space Administration
   acronym: NASA
   events:
   - date: 2025-02-14
@@ -574,7 +591,8 @@ agencies:
   - date: 2025-02-19
     event: According to one agency employee, DOGE workers already have access to contracts, partnerships, performance reviews, classified national-security information, and satellite data, among other materials.
     source: https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/
-- agency: National Oceanic and Atmospheric Administration
+
+- name: National Oceanic and Atmospheric Administration
   events:
   - date: 2025-02-04
     event: DOGE staff enter NOAA facilities
@@ -586,9 +604,10 @@ agencies:
   - Nikhil Rajpal
   systems:
   - name: NOAA Google enterprise systems
+    description: Not more precisely described, but this seems to be Google Drive and email
     risk: Access to CUI stored in Google Drive at the NOAA
 
-- agency: National Institute of Health
+- name: National Institute of Health
   acronym: NIH
   people:
   - Luke Farritor
@@ -610,14 +629,14 @@ agencies:
     sorn_records: >
       Name, Social Security Number (SSN) or EIN/TID, address, email address, phone number, purpose of payment or request  for payment, bank account and routing numbers, accounting classification and the amount paid or billed. Also, in the  event of an overpayment and for outstanding charges, fees, loans, grants or scholarships, the amount of the indebtedness, the repayment status and the amount to be collected. In the event of an administrative wage garnishment, information about the debtor's employment status and disposable pay available for withholding will be maintained.
 
-- agency: National Institute of Standards and Technology
+- name: National Institute of Standards and Technology
   acronym: NIST
   events:
   - date: 2025-02-14
     event: NIST workers witness a handful people they suspect of being DOGE at NIST IT facilities in Gaithersburg, MD
     source: https://www.wired.com/story/the-national-institute-of-standards-and-technology-braces-for-mass-firings/
 
-- agency: Occupational Safety and Health Administration
+- name: Occupational Safety and Health Administration
   acronym: OSHA
   systems:
   - name: OSHA Business Information Systems
@@ -630,7 +649,7 @@ agencies:
     event: A lawsuit filed by multiple labor organization (and others) alleged that DOGE wants to access whistleblower information at OSHA
     source: https://www.workerscompensation.com/daily-headlines/questions-concerns-over-doge-musk-access-at-dol/
 
-- agency: Office of Personnel Management
+- name: Office of Personnel Management
   acronym: OPM
   date_started: 2025-01-20
   date_completed: 2025-01-25
@@ -654,6 +673,7 @@ agencies:
     source: https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/
   - date: 2025-01-28
     event: OPM sends out the "Fork in the Road" email to all federal employees offering them a chance to resign
+    source: https://www.wired.com/story/doge-hr-elon-musk-resignation-fork-road-leaked-staff-meeting/
   - date: 2025-02-05
     event: OPM attests the government-wide email system runs on agency systems
     source: https://www.msn.com/en-us/news/us/controversial-opm-email-server-operates-entirely-on-government-computers-agency-says/ar-AA1yujjr
@@ -665,7 +685,7 @@ agencies:
     source: https://www.wired.com/story/doge-autorif-mass-firing-government-workers/
   systems:
   - name: UsaJobs
-    decription: Official hiring site for the federal government
+    description: Official hiring site for the federal government
     sorn: https://www.federalregister.gov/documents/2014/03/26/2014-06593/privacy-act-of-1974-update-and-amend-system-of-records
     risk: PII of individuals who have applied for federal jobs, including SSN, home address, and employment records
   - name: Enterprise Human Resources Integration
@@ -698,7 +718,7 @@ agencies:
   sources:
   - https://www.muskwatch.com/p/musk-associates-given-unfettered
 
-- agency: Small Business Administration
+- name: Small Business Administration
   acronym: SBA
   people:
   - Edward Coristine
@@ -713,10 +733,8 @@ agencies:
   - date: 2025-02-03
     event: Democrats on the House Committee on Small Business send a letter requesting details on DOGE's operations at SBA
     source: https://democrats-smallbusiness.house.gov/uploadedfiles/letter_to_sba_system_access_feb._3_2025_final12.pdf
-  - date: 2025-02-07
-    event: The deadline for the SBA Administrator to respond to the letter passes with no response
 
-- agency: State Department
+- name: State Department
   people:
   - Edward Coristine
   - Luke Farritor
@@ -725,14 +743,14 @@ agencies:
     event: Edward Coristine and Luke Farritor are posted to the State Department's Bureau of Diplomatic Technology
     source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
 
-- agency: Securities and Exchange Commission
+- name: Securities and Exchange Commission
   acronym: SEC
   events:
   - date: 2025-02-17
     event: SEC staff report the imminent arrival of DOGE to to the agency
     source: https://www.politico.com/news/2025/02/17/musk-doge-securities-exchange-commission-00204621
 
-- agency: Social Security Administration
+- name: Social Security Administration
   acronym: SSA
   people:
   - Marko Elez
@@ -767,7 +785,7 @@ agencies:
     sorn: https://www.govinfo.gov/content/pkg/FR-2020-06-04/pdf/2020-12067.pdf
   - name: Electronic Wage Reporting System
     acronym: EWR
-    decription: A system for employers to submit W-2 records every year for their employees
+    description: A system for employers to submit W-2 records every year for their employees
     risk: Private tax information for every American
     pia: https://www.ssa.gov/privacy/pia/Final%20PIA%20for%20the%20EWR%20System.htm
     sorn: https://www.ssa.gov/privacy/sorn/60-0059.pdf
@@ -778,7 +796,7 @@ agencies:
     pia: https://www.ssa.gov/privacy/pia/HRS%20PIA.htm
   - name: Social Security Number Establishment and Correction System
     acronym: SSNEC
-    decription: The system for issuing new SSNs as well as replacement SSN cards
+    description: The system for issuing new SSNs as well as replacement SSN cards
     risk: PII of individual include SSNs and information submitted on birth certificates
     pia: https://www.ssa.gov/privacy/pia/Social%20Security%20Number%20Establishment%20and%20Correction%20System.updtdSept%2028.htm
     sorn: https://www.federalregister.gov/documents/2024/12/31/2024-31131/privacy-act-of-1974-system-of-records
@@ -790,7 +808,7 @@ agencies:
   sources:
   - https://www.cnn.com/2025/02/17/politics/social-security-head-steps-down-doge-access/index.html
 
-- agency: "US Agency for International Development"
+- name: "US Agency for International Development"
   acronym: USAID
   people:
   - Edward Coristine
@@ -846,7 +864,6 @@ agencies:
   - Entire website removed
   - Social media accounts deleted
   - YouTube videos removed
-  systems:
   sources:
   - https://oig.usaid.gov/sites/default/files/2025-02/USAID%20OIG%20-%20Oversight%20of%20USAID-Funded%20Humanitarian%20Assistance%20Programming%20021025.pdf
   - https://www.nextgov.com/people/2025/02/doge-deputies-land-state-department-tech-bureau-usaid-emails/402888/
