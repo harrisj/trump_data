@@ -934,11 +934,19 @@ agencies:
     - Nikhil Rajpal
     - Cole Killian
     - Marko Elez
+  - date: 2025-03-01
+    event: In an email to staff, Dudek explains the disruptions by saying "elections have consequences"
+    named:
+    - Leland Dudek
+    source: https://www.propublica.org/article/recording-reveals-leland-dudek-thoughts-trump-doge-social-security
   - date: 2025-03-04
     event: In a meeting, Dudek stresses again that DOGE will make mistakes and also admits "I am receiving decisions that are made without my input. I have to effectuate those decisions," suggesting DOGE is in charge.
     source: https://www.washingtonpost.com/politics/2025/03/06/doge-is-driving-social-security-cuts-will-make-mistakes-acting-head-says-privately/
     named:
     - Leland Dudek
+  - date: 2025-03-12
+    event: Multiple SSA employees told ProPublica, their tech systems seem to be crashing nearly every day, leading to more delays in serving beneficiaries.
+    source: https://www.propublica.org/article/recording-reveals-leland-dudek-thoughts-trump-doge-social-security
   systems:
   - name: Anti-Fraud Enterprise Solution
     acronym: AFES
