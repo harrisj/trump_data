@@ -1,0 +1,32 @@
+inputs:
+  command:
+    description: "Scrape golf trips from Factba.se"
+    required: true
+
+runs:
+  using: "composite"
+  steps:
+  - id: install
+    name: Install Python, pipenv and Pipfile packages
+    uses: palewire/install-python-pipenv-pipfile@v4
+    with:
+      python-version: 3.11
+
+  - id: scrape
+    name: Run the scraping script
+    run: |
+      cd ./home_visits
+      pipenv run python scrape_golf.py
+    shell: bash
+
+  - id: commit
+    name: Commit results
+    run: |
+      git config --global user.name "github-actions[bot]"
+      git config --global user.email "actions@github.com"
+      git config pull.rebase false
+      git status
+      git pull origin $GITHUB_REF
+      git add ./home_visits/golf_dates.csv
+      git commit -m "New golf trip found $(date +'%F %H:%M')" && git push || true
+    shell: bash

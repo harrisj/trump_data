@@ -1,0 +1,23 @@
+name: Golf Date Scraper
+on:
+  # for manual invocation
+  workflow_dispatch:
+  schedule:
+  - cron: '1 */8 * * *'
+
+defaults:
+  run:
+    working-directory: ./home_visits
+
+jobs:
+  scrape:
+    name: Scrape
+    runs-on: ubuntu-latest
+    steps:
+    - id: checkout
+      name: Checkout
+      uses: actions/checkout@v4
+
+    - id: run
+      name: Run
+      uses: ./.github/actions/golf_scraper
