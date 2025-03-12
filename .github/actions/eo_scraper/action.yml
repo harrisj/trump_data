@@ -1,3 +1,5 @@
+name: EO Litigation Tracker
+description: "Scrape and commit updates to the EO litigation tracker"
 inputs:
   command:
     description: "Run the EO Tracker scraper"
@@ -6,27 +8,27 @@ inputs:
 runs:
   using: "composite"
   steps:
-    - id: install
-      name: Install Python, pipenv and Pipfile packages
-      uses: palewire/install-python-pipenv-pipfile@v4
-      with:
-        python-version: 3.11
+  - id: install
+    name: Install Python, pipenv and Pipfile packages
+    uses: palewire/install-python-pipenv-pipfile@v4
+    with:
+      python-version: 3.11
 
-    - id: scrape
-      name: Run the scraping script
-      run: |
-        cd ./exec_order_lawsuits
-        pipenv run python scrape_eo_lawsuits.py > exec_order_lawsuits.json
-      shell: bash
+  - id: scrape
+    name: Run the scraping script
+    run: |
+      cd ./exec_order_lawsuits
+      pipenv run python scrape_eo_lawsuits.py > exec_order_lawsuits.json
+    shell: bash
 
-    - id: commit
-      name: Commit results
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "actions@github.com"
-        git config pull.rebase false
-        git status
-        git pull origin $GITHUB_REF
-        git add ./exec_order_lawsuits/exec_order_lawsuits.json
-        git commit -m "EO Litigation Update $(date +'%F %H:%M')" && git push || true
-      shell: bash
+  - id: commit
+    name: Commit results
+    run: |
+      git config --global user.name "github-actions[bot]"
+      git config --global user.email "actions@github.com"
+      git config pull.rebase false
+      git status
+      git pull origin $GITHUB_REF
+      git add ./exec_order_lawsuits/exec_order_lawsuits.json
+      git commit -m "EO Litigation Update $(date +'%F %H:%M')" && git push || true
+    shell: bash

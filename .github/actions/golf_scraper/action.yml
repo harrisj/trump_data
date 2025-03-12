@@ -1,3 +1,5 @@
+name: Golf Date Scraper
+description: "Scrape and commit golf trip dates"
 inputs:
   command:
     description: "Scrape golf trips from Factba.se"
