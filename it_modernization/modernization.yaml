@@ -346,9 +346,13 @@ agencies:
   events:
   - date: 2025-01-21
     event: Marko Elez starts at the Treasury Department and is granted full read-write access to systems
+    named:
+    - Marko Elez
     source: https://fedscoop.com/treasury-payments-systems-doge-judge-ruling/
   - date: 2025-01-23
     event: Thomas Krause starts at the Treasury Department
+    named:
+    - Thomas Krause
     source: https://fedscoop.com/treasury-payments-systems-doge-judge-ruling/
   - date: 2025-01-24
     event: Treasury Chief of Staff Dan Katz sends an email stating that DOGE staff need to be given access to pause USAID payments
@@ -356,26 +360,38 @@ agencies:
   - date: 2025-01-24
     event: Trump fires the Inspector General for the Department of the Treasury in a late-night purge
     source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
+  - date: 2025-02-04
+    event: Treasury Secretary Scott Bessent writes a letter to Congress about Scott Krause having read-only access but doesn't mention Marko Elez
+    named:
+    - Thomas Krause
+    source: https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/
   - date: 2025-02-06
     event: Judge Colleen Kollar-Kotelly rules that DOGE should only be granted read access to government systems
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.12.1_1.pdf
   - date: 2025-02-06
     event: Marko Elez was discovered to inappropriately have read-write access on his laptop
+    named:
+    - Marko Elez
     source: https://www.emptywheel.net/2025/02/12/marko-elez-resigned-the-day-his-write-access-to-payment-systems-was-discovered/
   - date: 2025-02-06
-    event: Marko Elez resigns allegedly after past racist tweets are revealed (but also same day as above)
+    event: Marko Elez resigns allegedly after past racist tweets are revealed (but also same day as being discovered with write access)
     source: https://www.npr.org/2025/02/06/nx-s1-5289337/elon-musk-doge-treasury
   - date: 2025-02-10
     event: Affadavit states a BFS payment was presented to State Department to not process after review by DOGE
     source: https://www.washingtonpost.com/business/2025/02/11/doge-treasury-access-marko-elez/
   - date: 2025-02-11
     event: Affadavit states Marko Elez was accidentally given edit access to BFS systems but did not use it
+    named:
+    - Marko Elez
     source: https://www.washingtonpost.com/business/2025/02/11/doge-treasury-access-marko-elez/
   - date: 2025-02-19
     event: Treasury Secretary Scott Bessent says only one person from DOGE is "looking at an outdated IT system, that's all they're doing."
     source: https://www.bloomberg.com/news/articles/2025-02-19/bessent-says-doge-effort-has-saved-estimated-50-billion-so-far
   - date: 2025-02-20
     event: John York, a senior counselor to Bessent, wrote in a sworn statement that Ryan Wunderly would take over Marko Elez's work at the BFS
+    named:
+    - Marko Elez
+    - Ryan Wunderly
     source: https://www.politico.com/news/2025/02/20/treasury-irs-data-white-house-doge-00205391
   systems:
   - name: Federal Disbursement Services
@@ -594,6 +610,9 @@ agencies:
   - Scott Langmack
   - Michael Mirski
   events:
+  - date: 2025-01-26
+    event: Spurred by rumors there would be a funding freeze, HUD grantees drew their funds early at 5x normal rate or $1.5 billion
+    source: https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/
   - date: 2025-02-10
     event: Employees at HUD receive an email from Scott Langmack asking them to list every contract at HUD and whether it is critical and/or has DEI components
     source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
@@ -867,6 +886,7 @@ agencies:
   - Ethan Shaotran
   - Nikhil Rajpal
   - Cole Killian
+  - Antonio Gracias
   events:
   - date: 2025-01-30
     event: Leland Dudek reaches out to Tiffany Flick, the Associate Director of Budget, Facilities and Security to inform her two DOGE staff would be onboarding. He was a mid-level employee at the time.
@@ -984,6 +1004,7 @@ agencies:
     sorn: https://www.ssa.gov/privacy/sorn/60-0090.pdf
   sources:
   - https://www.cnn.com/2025/02/17/politics/social-security-head-steps-down-doge-access/index.html
+  - https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/
 
 - name: U.S. African Development Foundation
   acronym: USADF
@@ -1046,7 +1067,7 @@ agencies:
     - Gavin Kliger
     source: https://www.npr.org/2025/02/06/nx-s1-5289337/elon-musk-doge-treasury
   - date: 2025-02-03
-    event: Elon Musk tweets that he and President Trump are shutting down USAID
+    event: Elon Musk tweets that he and President Trump are shutting down USAID, bragging he had fed the agency "into the wood chipper"
     source: https://www.nbcnews.com/politics/politics-news/elon-musk-says-trump-are-shutting-usaid-rcna190388
   - date: 2025-02-04
     event: All USAID staff are informed by email they will soon be placed on indefinite administrative leave
@@ -1076,6 +1097,22 @@ agencies:
   sources:
   - https://oig.usaid.gov/sites/default/files/2025-02/USAID%20OIG%20-%20Oversight%20of%20USAID-Funded%20Humanitarian%20Assistance%20Programming%20021025.pdf
   - https://www.nextgov.com/people/2025/02/doge-deputies-land-state-department-tech-bureau-usaid-emails/402888/
+
+- name: US Digital Service
+  acronym: USDS
+  events:
+  - date: 2025-01-20
+    event: An Inaguration Day executive order renames the USDS to the US Doge Service and implants the DOGE temporary organization inside of It
+    source: link to EO
+  - date: 2025-01-21
+    event: DOGE staff start screening all USDS staff in interviews, asking them their views of DOGE and who were underperformers who should be fired.
+    named:
+    - Cole Killian
+    - Nikhil Rajpal
+    source: https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/
+  - date: 2025-02-25
+    event: 21 USDS staff publicly resign in protest of DOGE's actions
+    source: https://apnews.com/article/doge-elon-musk-federal-government-resignations-usds-6b7e9b7022e6d89d69305e9510f2a43c
 
 - name: Veterans Affairs
   acronym: VA
