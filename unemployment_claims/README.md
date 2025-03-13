@@ -9,6 +9,14 @@ The source for this data are [press releases on the Department of Labor website]
 
 There is an API, but it unfortunately does not seem to include the breakadown of federal staff, so I update this once a week based on the press releases. Also, I decided to start back in early 2024, just to allow if anybody wants to do Year-over-Year (YoY) comparisons.
 
+## Delay in the Unemployment Compensation for Federal Employees (UCFE) Numbers
+Even though there were mass layoffs of probationary employees in mid-February, those numbers have still not been reflected in early March. [This report by the Century Foundation](https://tcf.org/content/report/mass-federal-layoffs-present-unprecedented-unemployment-insurance-challenges/) offers some explanations:
+1. Many of the workers laid off in the probationary employee purge were put on 30 days of administrative leave, meaning their last paychecks are in early March
+2. UCFE is a separate system from the standard state UI and requires manual steps. Typical claims processing can take 14-21 days and the system is expected to be under extraordinary strain in the months ahead
+3. Many of the fired probationary employees were accused of being poor performers as a justification. This normally would not qualify them for unemployment insurance and is likely complicating the reporting (besides being inhumane and cruel)
+4. People who are forced to quit/resign because of harrassment like being forced to return to office on short notice would not be counted, since that would be considered a voluntary separation
+5. Many of the laid-off employees are navigating this system for the first time and may not realize they can file for UI even if appealing their status
+
 ## The Columns in the CSV
 - Week Ending: this data is for the week ending on this date
 - Initial Claims (SA): seasonally-adjusted initial claims from state unemployment data
