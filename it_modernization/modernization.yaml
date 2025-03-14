@@ -747,6 +747,8 @@ agencies:
 
 - name: National Aeronautics and Space Administration
   acronym: NASA
+  people:
+  - Scott Coulter
   events:
   - date: 2025-02-14
     event: NASA administrator emails all staff to report that "DOGE has arrived"
