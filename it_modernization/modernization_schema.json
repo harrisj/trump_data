@@ -108,7 +108,7 @@
                         }
                     }
                 },
-                "required": ["name"]
+                "required": ["name", "acronym"]
             }
         }
     },

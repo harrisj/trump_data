@@ -946,6 +946,7 @@ agencies:
     source: https://democrats-smallbusiness.house.gov/uploadedfiles/letter_to_sba_system_access_feb._3_2025_final12.pdf
 
 - name: State Department
+  acronym: State
   people:
   - Edward Coristine
   - Luke Farritor
