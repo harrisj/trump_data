@@ -645,6 +645,9 @@ agencies:
   - date: 2025-02-10
     event: Employees at HUD receive an email from Scott Langmack asking them to list every contract at HUD and whether it is critical and/or has DEI components
     source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
+  - date: 2025-02-20
+    event: DOGE staff gains access to the HUD Enforcement Management System (HEMS), which contains information on victims of housing discrimination and domestic violence
+    source: https://www.propublica.org/article/doge-elon-musk-hud-housing-discrimination-privacy-domestic-violence
   - date: 2025-02-26
     event: Wired reports that DOGE staff were given read-only access to some systems and read-write access to payment systems within HUD as well as the centralized authorization system that grants access to other systems (date unknown)
     source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
@@ -662,6 +665,13 @@ agencies:
     risk: PII of individuals applying for housing vouchers including medical records and personal narratives
     pia: https://www.hud.gov/sites/dfiles/OCHCO/documents/OCFO33_A75.pdf
     sorn: https://www.federalregister.gov/documents/2022/08/17/2022-17709/privacy-act-of-1974-system-of-records
+  - name: HUD Enforcement Management System
+    acronym: HEMS
+    link: https://www.hud.gov/program_offices/fair_housing_equal_opp/system/hems
+    description: A database for tracking housing discrimination complaints and enforcement actions, including accusations of domestic violence
+    risk: PII and PHI of individuals, including medical records, legal records and case files
+    pia: https://www.hud.gov/sites/dfiles/OCHCO/documents/FHEO-V05-HEMS-PIA.pdf
+    sorn: https://www.federalregister.gov/documents/2023/12/14/2023-27443/privacy-act-of-1974-system-of-records
   - name: Web Access Security Subsystem
     acronym: WASS
     description: System for authorizing access and setting permissions to talk to other systems
