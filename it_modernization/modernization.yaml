@@ -714,6 +714,9 @@ agencies:
   - date: 2025-03-03
     event: The head of HR, Traci DiMartini, is placed on administrative leave for refusing to bring in employees over the weekend to onboard Sam Corcos
     source: https://newrepublic.com/post/192478/irs-chief-revenge-fired-doge
+  - date: 2025-03-13
+    event: The acting chief counsel of the IRS, William Paul, is removed from his role and replaced by Andrew De Mello, who is seen as more supportive of DOGE's work at the agency
+    source: https://www.cbsnews.com/news/andrew-de-mello-irs-william-paul-doge-trump/
   systems:
   - name: Integrated Data Retrieval System
     acronym: IDRS
@@ -1220,6 +1223,13 @@ agencies:
   - date: 2025-02-26
     event: After days of sustained questioning about who the USDS Administrator is, the White House gives the name of Amy Gleason. It is unclear how long she had been in the role.
     source: https://www.npr.org/2025/02/26/nx-s1-5310634/amy-gleason-doge-administrator
+
+- name: US Postal Service
+  acronym: USPS
+  events:
+  - date: 2025-03-13
+    event: Postmaster General Louid DeJoy sends a letter to Congress informing he has signed an agreement with GSA and DOGE to eliminate 10,000 jobs
+    source: https://apnews.com/article/us-postal-service-doge-agreement-daf3bf54fa0718908791fcb368b4d9d8
 
 - name: Veterans Affairs
   acronym: VA
