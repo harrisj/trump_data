@@ -825,28 +825,60 @@ agencies:
   - date: 2025-01-20
     event: The DOGE team moves into OPM, installing sofa beds and armed security
     source: https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/
+  - date: 2025-01-23
+    event: OPM sends out a first test email from its new government-wide email system
+    source: https://www.cbsnews.com/news/trump-administration-confuses-government-workers-email-test-message/
   - date: 2025-01-24
     event: Trump fires the OPM Inspector General in a late-night purge
     source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
+  - date: 2025-01-26
+    event: OPM sends a second test email from its new government-wide email system to all government employees
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.276820/gov.uscourts.dcd.276820.1.0.pdf
   - date: 2025-01-31
     event: Federal employees at OPM are locked out of access to key systems by DOGE and OPM leadership
     named:
     - Riccardo Biasini
     source: https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/
+  - date: 2025-01-27
+    event: A memeber of the OPM union posts a Reddit message reportedly from an OPM employee stating that the email server is a piece of outside equipment and the goal is to generate lists of all govt employees to send massive firing notices later.
+    named:
+    - Amanda Scales
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.276820/gov.uscourts.dcd.276820.1.0.pdf
+  - date: 2025-01-27
+    event: Two anonymous federal employees file a class action lawsuit against OPM for launching the new email system without conducting a Privacy Impact Assessment for the new system
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.276820/gov.uscourts.dcd.276820.1.0_2.pdf
   - date: 2025-01-28
     event: OPM sends out the "Fork in the Road" email to all federal employees offering them a chance to resign
     source: https://www.wired.com/story/doge-hr-elon-musk-resignation-fork-road-leaked-staff-meeting/
   - date: 2025-02-05
     event: OPM attests the government-wide email system runs on agency systems
     source: https://www.msn.com/en-us/news/us/controversial-opm-email-server-operates-entirely-on-government-computers-agency-says/ar-AA1yujjr
+  - date: 2025-02-05
+    event: OPM issues a Privacy Impact Assessment for its Government-Wide Email System (GWES) that states responses are voluntary, brief and do not include identifying information
+    source: https://fedscoop.com/wp-content/uploads/sites/5/2025/03/2025-02-05_-_11-1_-_D_-_Ex._A_-_PIA.pdf
+  - date: 2025-02-06
+    event: The court dismisses the motion for a temporary restraining order against the OPM email system since there is now a PIA
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.276820/gov.uscourts.dcd.276820.1.0.pdf
+  - date: 2025-02-17
+    event: District Judge Randolph Moss dismisses the suit on the grounds that defendants lack standing or face irreparable injury"
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.276820/gov.uscourts.dcd.276820.1.0.pdf
   - date: 2025-02-18
     event: CNN reporter shares that a FOIA request about DOGE was replied to with "they just fired the whole privacy team"
     source: https://www.commondreams.org/news/cnn-foia-office-of-personnel-management
+  - date: 2025-02-24
+    event: After Elon Musk threatens on X that employees must complete a list of 5 accomplishments and send it to OPM or risk termination, OPM sends out an email requesting that list (without the threat) to every government employee. Widespread confusion occurs at many agenices.
+    source: https://fedscoop.com/agencies-take-cautious-approaches-to-opm-email-asking-for-list-of-accomplishments/
   - date: 2025-02-25
     event: DOGE engineer Ricardo Biasini is reported to be working on updating software to automate Reduction-in-Force (RIF) processes
     named:
     - Ricardo Biasini
     source: https://www.wired.com/story/doge-autorif-mass-firing-government-workers/
+  - date: 2025-02-28
+    event: OPM amends the Privacy Impact Assessment for its Government-Wide Email System (GWES) to remove declarations that responses are voluntary.
+    source: https://fedscoop.com/opm-email-privacy-assessment-swap-ongoing-litigation/
+  - date: 2025-03-01
+    event: All government employees receive a second email telling them they must list their accomplishments every Monday by 11:59pm
+    source: https://www.npr.org/2025/03/01/g-s1-51490/federal-workers-new-email-accomplishments
   systems:
   - name: UsaJobs
     description: Official hiring site for the federal government
@@ -927,6 +959,10 @@ agencies:
   - Nikhil Rajpal
   - Cole Killian
   - Antonio Gracias
+  - Luke Farritor
+  - Jon Koval
+  - Payton Rehling
+  - Ethan Shaotran
   events:
   - date: 2025-01-30
     event: Leland Dudek reaches out to Tiffany Flick, the Associate Director of Budget, Facilities and Security to inform her two DOGE staff would be onboarding. He was a mid-level employee at the time.
@@ -1007,6 +1043,20 @@ agencies:
   - date: 2025-03-12
     event: Multiple SSA employees told ProPublica, their tech systems seem to be crashing nearly every day, leading to more delays in serving beneficiaries.
     source: https://www.propublica.org/article/recording-reveals-leland-dudek-thoughts-trump-doge-social-security
+  - date: 2025-03-13
+    event: Wired reports that 10 DOGE staffer – Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran – are showing up in the Microsoft Teams directory at SSA
+    named:
+    - Akash Bobba
+    - Scott Coulter
+    - Marko Elez
+    - Luke Farritor
+    - Antonio Gracias
+    - Gautier Cole Killian
+    - Jon Koval
+    - Nikhil Rajpal
+    - Payton Rehling
+    - Ethan Shaotran
+    source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
   systems:
   - name: Anti-Fraud Enterprise Solution
     acronym: AFES
