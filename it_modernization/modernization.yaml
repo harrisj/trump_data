@@ -41,6 +41,7 @@ agencies:
   - https://www.wsj.com/politics/elon-musk-doge-medicare-medicaid-fraud-e697b162
 
 - name: Commerce Department
+  acronym: Commerce
   people:
   - Nikhil Rajpal
   events:
@@ -278,7 +279,7 @@ agencies:
     source: https://www.cnn.com/2025/02/06/climate/doge-energy-department-trump/index.html
 
 - name: Department of Government Efficiency Temporary Organization
-  acronym: DOGE TO
+  acronym: DOGE
   people:
   - Elon Musk
   events:
@@ -750,6 +751,7 @@ agencies:
     source: https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/
 
 - name: National Oceanic and Atmospheric Administration
+  acronym: NOAA
   events:
   - date: 2025-02-04
     event: DOGE staff enter NOAA facilities
