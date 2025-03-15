@@ -6,6 +6,28 @@
                     "cases": [
                         {
                             "case_link": {
+                                "title": "J.G.G. v. Trump",
+                                "url": "https://www.courtlistener.com/docket/69741724/jgg-v-trump/"
+                            },
+                            "case_name": "J.G.G. v. Trump (D.D.C) Case No. 1:25-cv-00766",
+                            "case_summary": "[Coming soon]",
+                            "case_summary_html": "[Coming soon]",
+                            "complaint_link": {
+                                "title": "Complaint",
+                                "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.278436/gov.uscourts.dcd.278436.1.0.pdf"
+                            },
+                            "complaint_link_text": "Complaint",
+                            "date_filed": "2025-03-16",
+                            "last_update": "2025-03-16"
+                        }
+                    ],
+                    "links": [],
+                    "title": "Alien Enemies Act Proclamation"
+                },
+                {
+                    "cases": [
+                        {
+                            "case_link": {
                                 "title": "New Hampshire Indonesian Community Support v. Donald J. Trump",
                                 "url": "https://www.courtlistener.com/docket/69560542/new-hampshire-indonesian-community-support-v-trump/"
                             },
