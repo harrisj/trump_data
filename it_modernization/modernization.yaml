@@ -375,6 +375,9 @@ agencies:
     source: https://www.politico.com/news/2025/03/12/elon-musk-judge-orders-discovery-00227924
     named:
     - Elon Musk
+  - date: 2025-03-18
+    event: In a ruling in J. Doe 1-26 v. Musk (D. Md), Judge Theodore D. Chuang declares that evidence shows that Elon Musk was effectively running DOGE without being appointed to the role
+    source: https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rZttxcbH9cfc/v0
   cases:
   - name: Public Citizen Inc et al v. Donald J. Trump and Office of Management and Budget (D.D.C.)
     description: Two advocacy organizations and the American Federation of Government Employees sued that DOGE creation violated the Federal Advisory Committee Act
@@ -1505,6 +1508,9 @@ cases:
   - date: 2025-02-17
     event: A USAID official under Trump testifies that "changes in the process by which payments can be made and approved by the Agency over the past weeks." in the payment system were causing certain allowance statements to be delayed
     source: https://abcnews.go.com/US/usaid-official-system-delayed-payments-staffers/story?id=118759911
+  - date: 2025-03-18
+    event: In a ruling in J. Doe 1-26 v. Musk (D. Md), Judge Theodore D. Chuang finds that the decision to shut down USAID violated the Constitution in multiple ways and orders the agency must be reopened
+    source: https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rZttxcbH9cfc/v0
   vandalism:
   - Entire website removed
   - Social media accounts deleted
