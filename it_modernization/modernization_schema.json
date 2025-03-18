@@ -99,6 +99,32 @@
                             "required": ["name", "description"]
                         }
                     },
+                    "cases": {
+                        "description": "An optional list of court cases linked to this agency and DOGE-related activities there",
+                        "type": "array",
+                        "items": {
+                            "properties": {
+                                "name": {
+                                    "type": "string",
+                                    "description": "The name of the case"
+                                },
+                                "case_no": {
+                                    "type": "string",
+                                    "description": "A case-number identifier"
+                                },
+                                "date_filed": {
+                                    "type": "string",
+                                    "description": "An ISO8601 date string for when the case was filed"
+                                },
+                                "link": {
+                                    "type": "string",
+                                    "description": "A URL for the case on Court Listener"
+                                }
+
+                            },
+                            "required": ["name", "case_no", "link", "date_filed"]
+                        }
+                    },
                     "sources": {
                         "description": "A link to some overall sources for DOGE at the agency",
                         "type": "array",

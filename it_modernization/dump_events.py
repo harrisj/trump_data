@@ -18,7 +18,11 @@ def read_yaml(file_path):
                 if 'source' in event:
                     source = event['source']
                 events.append({'agency': agency['name'], 'acronym': acronym, 'event': event['event'], 'date': event['date'], 'source': source})
-    
+
+        if 'cases' in agency:
+            for case in agency['cases']:
+                events.append({'agency': agency['name'], 'acronym': acronym, 'event': f'{acronym} named as defendant in new lawsuit {case["name"]} (Case No {case["case_no"]})', 'date': case['date_filed'], 'source': case['link']})
+
     return sorted(events, key=lambda x: (x['date'], x['agency']))
 
 
