@@ -1720,6 +1720,33 @@
                         }
                     ],
                     "title": "Reduction of indirect cost reimbursement rate for research institutions (NIH Guidance)"
+                },
+                {
+                    "cases": [
+                        {
+                            "case_link": {
+                                "title": "Woonasquatucket River Watershed Council v. Department of Agriculture",
+                                "url": "https://www.courtlistener.com/docket/69736976/woonasquatucket-river-watershed-council-v-department-of-agriculture/"
+                            },
+                            "case_name": "Woonasquatucket River Watershed Council v. Department of Agriculture (D. R.I.) Case No. 1:25-cv-00097",
+                            "case_summary": "Overview: Multiple nonprofits sued multiple federal agencies, including the Department of Agriculture, Department of Energy, Department of the Interior, and the Environmental Protection Agency, among others, to challenge an Executive Order requiring a pause of funding appropriated through the Inflation Reduction Act of 2022 (IRA) or the Infrastructure Investment and Jobs Act (IIJA). The lawsuit argues that the wholesale freeze of funding violates federal law, and the nonprofits ask the court to bar the agencies from continuing to pause funding and to disburse funding that was previously frozen. \nCase Summary: President Donald Trump’s Executive Order 14154 mandates that all agencies immediately pause the disbursement of funds appropriated through the Inflation Reduction Act of 2022 (IRA) or the Infrastructure Investment and Jobs Act (IIJA) that pertain to policies outlined in Section 2 of the EO, which relate to climate change, infrastructure improvement, and public health protection. The EO requires agencies to seek the approval of both the Director of the Office of Management and Budget (OMB) and the Assistant to the President for Economic Policy, who must review and ensure disbursements are consistent with EO’s policies, prior to disbursing funds. OMB issued a memo to that effect. \nThe six Plaintiffs are three nonprofits with environmental and conservation missions, one conservation district, one nonprofit community development corporation, and a network of nonprofit organizations. They are suing the Department of Agriculture, the Department of Energy, the Department of the Interior, and the Department of Housing and Urban Development, and their respective Secretaries. They are also suing the Environmental Protection Agency and its Administrator, the Office of Management and Budget and its Director, and the Director of the National Economic Council. \nFollowing the Executive Order and the OMB memo, the named federal agencies paused all funding appropriated by the IRA and IIJA. The plaintiffs argue that this “freeze first, ask questions later” approach violates the Administrative Procedure Act because it (1) is arbitrary, capricious, or an abuse of discretion; (2) exceeds statutory authority; and (3) is contrary to the law. \nThe Plaintiffs seek to have the OMB Memo held unlawful to the extent that it directs agencies to freeze all funds authorized by the IRA and IIJA. They also request a stay preventing the federal agencies from continuing the freeze and requiring them to disburse the funds previously frozen. ",
+                            "case_summary_html": "<span style=\"color: #0056a7;\"><strong>Overview:</strong></span> <em>Multiple nonprofits sued multiple federal agencies, including the Department of Agriculture, Department of Energy, Department of the Interior, and the Environmental Protection Agency, among others, to challenge an Executive Order requiring a pause of funding appropriated through the Inflation Reduction Act of 2022 (IRA) or the Infrastructure Investment and Jobs Act (IIJA). The lawsuit argues that the wholesale freeze of funding violates federal law, and the nonprofits ask the court to bar the agencies from continuing to pause funding and to disburse funding that was previously frozen. </em><br/><br>\n<strong>Case Summary:</strong> President Donald Trump’s Executive Order 14154 mandates that all agencies immediately pause the disbursement of funds appropriated through the Inflation Reduction Act of 2022 (IRA) or the Infrastructure Investment and Jobs Act (IIJA) that pertain to policies outlined in Section 2 of the EO, which relate to climate change, infrastructure improvement, and public health protection. The EO requires agencies to seek the approval of both the Director of the Office of Management and Budget (OMB) and the Assistant to the President for Economic Policy, who must review and ensure disbursements are consistent with EO’s policies, prior to disbursing funds. OMB issued a memo to that effect. <br/>\nThe six Plaintiffs are three nonprofits with environmental and conservation missions, one conservation district, one nonprofit community development corporation, and a network of nonprofit organizations. They are suing the Department of Agriculture, the Department of Energy, the Department of the Interior, and the Department of Housing and Urban Development, and their respective Secretaries. They are also suing the Environmental Protection Agency and its Administrator, the Office of Management and Budget and its Director, and the Director of the National Economic Council. <br/>\nFollowing the Executive Order and the OMB memo, the named federal agencies paused all funding appropriated by the IRA and IIJA. The plaintiffs argue that this “freeze first, ask questions later” approach violates the Administrative Procedure Act because it (1) is arbitrary, capricious, or an abuse of discretion; (2) exceeds statutory authority; and (3) is contrary to the law. <br/>\nThe Plaintiffs seek to have the OMB Memo held unlawful to the extent that it directs agencies to freeze all funds authorized by the IRA and IIJA. They also request a stay preventing the federal agencies from continuing the freeze and requiring them to disburse the funds previously frozen. </br>",
+                            "complaint_link": {
+                                "title": "Complaint",
+                                "url": "https://storage.courtlistener.com/recap/gov.uscourts.rid.59116/gov.uscourts.rid.59116.1.0.pdf"
+                            },
+                            "complaint_link_text": "Complaint (Mar. 13, 2025)\nAmended Complaint (Mar. 17, 2025)",
+                            "date_filed": "2025-03-13",
+                            "last_update": "2025-03-17"
+                        }
+                    ],
+                    "links": [
+                        {
+                            "title": "Exec. Order No. 14154",
+                            "url": "https://public-inspection.federalregister.gov/2025-01956.pdf"
+                        }
+                    ],
+                    "title": "Unleashing American Energy (Exec. Order No. 14154)"
                 }
             ],
             "title": "Government Grants, Loans and Assistance"
@@ -2581,5 +2608,5 @@
             "title": "Other/Miscellaneous"
         }
     ],
-    "last_updated": "2025-03-15"
+    "last_updated": "2025-03-18"
 }
