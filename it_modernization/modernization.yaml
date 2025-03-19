@@ -1679,6 +1679,29 @@ cases:
   - date: 2025-02-19
     event: Trump issues an Executive Order "Commencing the Reduction of the Federal Bureaucracy" targeting the Presidio Trust, the Inter-American Foundation, the United States African Development Foundation and the United States Institute of Peace for reductions.
     source: https://www.whitehouse.gov/presidential-actions/2025/02/commencing-the-reduction-of-the-federal-bureaucracy/
+  - date: 2025-02-24
+    event: USIP leadership meets with DOGE staff to explain history and legal status of the agency
+    named:
+    - James Burnham
+    - Jacob Altik
+    - Nate Cavanaugh
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+  - date: 2025-02-24
+    events: DOGE counters their belief that minimum statutory size of agency is "a Board of Directors and a president, reports to Congress and the Executive branch, and expenses incident to the Board of Directors" and says they will regroup
+    named:
+    - James Burnham
+    - Jacob Altik
+    - Nate Cavanaugh
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+  - date: 2025-03-05
+    event: Complying with the Executive Order from 2/19, USIP submits a letter to OMB asserting that USIP is an independent nonprofit organization, not a federal agency
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+  - date: 2025-03-08
+    event: USIP President George Moose becomes aware that DOGE is conducting some sort of reconnaisance with respect to USIP's security operations and contractor
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+  - date: 2025-03-14
+    event: Various members of the USIP board report receiving emails from the White House saying they are terminated from their positions.
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
   - date: 2025-03-14
     event: DOGE members Kenneth Jackson, Jacob Altik and Nate Cavanaugh show up at USIP building with 2 other people claiming to be FBI agents and are refused entry. They attempted to present a document firing the USIP president.
     named:
@@ -1686,6 +1709,33 @@ cases:
     - Jacob Altik
     - Nate Cavanaugh
     source: https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/
+  - date: 2025-03-16
+    event: Two FBI agents visited a senior USIP security official at his home unannounced to ask about gaining entry to the building, possibly through pressuring the the Institute's security contractor
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+  - date: 2025-03-16
+    event: Chief of the Criminal Division of the U.S. Attorney’s Office for the District of Columbia, Johnathan Hornok, and two FBI special agents called USIP’s outside counsel, Mr. Foote, stating that they had suspicion of criminal behavior at USIP,
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+  - date: 2025-03-16
+    event: Concerned they might be coerced by DOGE, the Chief Security Officer suspends the contract for building security contractor Inter-Con after being contacted by FBI agents interested in questioning him
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.2.2.pdf
+  - date: 2025-03-16
+    event: At 6pm, all Inter-Con staff are removed from the building, all keycard access is revoked and all physical keys accounted for except for one held by the Inter-Con account manager for USIP
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.2.2.pdf
+  - date: 2025-03-17
+    event: At 2:30pm, the Inter-Con account manager and employees attempt to enter the building with key cards and are denied. They use the physical key to enter once the account manager arrives with it.
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.2.2.pdf
+  - date: 2025-03-17
+    event: At 2:59pm, USIP Security Chief calls DC police and institutes a high-level lockdown for the building. He observes with the security cameras that DOGE staff attempting entry on various doors.
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.2.2.pdf
+  - date: 2025-03-17
+    event: Asked why they are attempting to gain control of the building, the Vice President of Inter-Con reports that DOGE threatened to cancel every single one of their federal contracts if they didn't comply
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.2.2.pdf
+  - date: 2025-03-17
+    event: USIP President George Moose reports being present when four Inter-Con employees entered the USIP building without permission
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+  - date: 2025-03-17
+    event: USIP President George Moose is escorted out of the building by DC police who entered with DOGE at 5:30pm
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
   - date: 2025-03-17
     event: DOGE members Kenneth Jackson, Jacob Altik and Nate Cavanaugh remove staff and president of the USIP with the help of Office of the U.S. Attorney for the District of Columbia, the FBI and D.C. police
     named:
@@ -1698,11 +1748,14 @@ cases:
     named:
     - Kenneth Jackson
     source: https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/
+  - date: 2025-03-17
+    event: Various USIP staff report receiving messages from DOGE staff asking for employee lists and access to computer systems
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
   - date: 2025-03-19
     event: DOGE-affiliated staff start removing interior signage from the USIP building
     source: https://bsky.app/profile/marisakabas.bsky.social/post/3lkqia7po5c2a
   - date: 2025-03-19
-    event: Judge Beryl Howell presides over an emergency hearing on granting USIP's request for a temporary restraining order against DOGE
+    event: Judge Beryl Howell presides over an emergency hearing on granting USIP's request for a temporary restraining order against DOGE, but doesn't grant a temporary restraining order
     source: https://bsky.app/profile/annabower.bsky.social/post/3lkqsbbysck2n
   cases:
   - name: United States Institute of Peace v. Jackson (D.D.C.)
