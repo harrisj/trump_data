@@ -378,9 +378,6 @@ agencies:
   - date: 2025-02-17
     event: In a filing in "State of New Mexico v. Elon Musk," DOJ lawyers declare that Elon Musk is not the USDS Administrator, but just an advisor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277463/gov.uscourts.dcd.277463.24.0_1.pdf
-  - date: 2025-02-19
-    event: Trump issues an Executive Order "Commencing the Reduction of the Federal Bureaucracy" targeting the Presidio Trust, the Inter-American Foundation, the United States African Development Foundation and the United States Institute of Peace for reductions.
-    source: https://www.whitehouse.gov/presidential-actions/2025/02/commencing-the-reduction-of-the-federal-bureaucracy/
   - date: 2025-02-24
     event: In a hearing for "Alliance for Retired Americans v. Bessent," Judge Kollar-Kotelly repeatedly grills DOJ lawyers on who the USDS Administrator is
     source: https://www.lawfaremedia.org/article/who-is-running-the-u.s.-doge-service
@@ -930,6 +927,9 @@ agencies:
 - name: Inter-American Foundation
   acronym: IAF
   events:
+  - date: 2025-02-19
+    event: Trump issues an Executive Order "Commencing the Reduction of the Federal Bureaucracy" targeting the Presidio Trust, the Inter-American Foundation, the United States African Development Foundation and the United States Institute of Peace for reductions.
+    source: https://www.whitehouse.gov/presidential-actions/2025/02/commencing-the-reduction-of-the-federal-bureaucracy/
   - date: 2025-02-20
     event: DOGE staff arrived at IAF HQ and were granted access to IT systems, as reported by IAF CEO Sara Aviel the following day
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
@@ -1500,6 +1500,9 @@ agencies:
   - Nate Cavanaugh
   events:
   - date: 2025-02-19
+    event: Trump issues an Executive Order "Commencing the Reduction of the Federal Bureaucracy" targeting the Presidio Trust, the Inter-American Foundation, the United States African Development Foundation and the United States Institute of Peace for reductions.
+    source: https://www.whitehouse.gov/presidential-actions/2025/02/commencing-the-reduction-of-the-federal-bureaucracy/
+  - date: 2025-02-19
     event: USADF board member Ward Brehm becomes aware that his agency is going to be targeted by DOGE for elimination
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.2.pdf
   - date: 2025-02-20
@@ -1665,6 +1668,48 @@ cases:
   sources:
   - https://oig.usaid.gov/sites/default/files/2025-02/USAID%20OIG%20-%20Oversight%20of%20USAID-Funded%20Humanitarian%20Assistance%20Programming%20021025.pdf
   - https://www.nextgov.com/people/2025/02/doge-deputies-land-state-department-tech-bureau-usaid-emails/402888/
+
+- name: US Institute of Peace
+  people:
+  - Kenneth Jackson
+  - Jacob Altik
+  - Nate Cavanaugh
+  acronym: USIP
+  events:
+  - date: 2025-02-19
+    event: Trump issues an Executive Order "Commencing the Reduction of the Federal Bureaucracy" targeting the Presidio Trust, the Inter-American Foundation, the United States African Development Foundation and the United States Institute of Peace for reductions.
+    source: https://www.whitehouse.gov/presidential-actions/2025/02/commencing-the-reduction-of-the-federal-bureaucracy/
+  - date: 2025-03-14
+    event: DOGE members Kenneth Jackson, Jacob Altik and Nate Cavanaugh show up at USIP building with 2 other people claiming to be FBI agents and are refused entry. They attempted to present a document firing the USIP president.
+    named:
+    - Kenneth Jackson
+    - Jacob Altik
+    - Nate Cavanaugh
+    source: https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/
+  - date: 2025-03-17
+    event: DOGE members Kenneth Jackson, Jacob Altik and Nate Cavanaugh remove staff and president of the USIP with the help of Office of the U.S. Attorney for the District of Columbia, the FBI and D.C. police
+    named:
+    - Kenneth Jackson
+    - Jacob Altik
+    - Nate Cavanaugh
+    source: https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/
+  - date: 2025-03-17
+    event: Kenneth Jackson is named Acting President of the US Institute of Peace
+    named:
+    - Kenneth Jackson
+    source: https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/
+  - date: 2025-03-19
+    event: DOGE-affiliated staff start removing interior signage from the USIP building
+    source: https://bsky.app/profile/marisakabas.bsky.social/post/3lkqia7po5c2a
+  - date: 2025-03-19
+    event: Judge Beryl Howell presides over an emergency hearing on granting USIP's request for a temporary restraining order against DOGE
+    source: https://bsky.app/profile/annabower.bsky.social/post/3lkqsbbysck2n
+  cases:
+  - name: United States Institute of Peace v. Jackson (D.D.C.)
+    description: The USIP is suing the DOGE and members of its board for the unlawful seizure and shutdown of the agency following an executive order
+    case_no: 1:25-cv-00804
+    link: https://www.courtlistener.com/docket/69754533/united-states-institute-of-peace-v-jackson/
+    date_filed: 2025-03-18
 
 - name: US Postal Service
   acronym: USPS
