@@ -596,8 +596,7 @@ agencies:
   systems:
   - name: Federal Disbursement Services
     acronym: FDS
-    description: >
-      The Federal Disbursement Services (FDS) pays out money, helps collect money, handles foreign transactions, and supports Fiscal Service programs.
+    description: The Federal Disbursement Services (FDS) pays out money, helps collect money, handles foreign transactions, and supports Fiscal Service programs.
     link: https://fiscal.treasury.gov/fds/
   - name: Payment Automation Manager
     acronym: PAM
@@ -1383,8 +1382,7 @@ agencies:
     named:
     - Leland Dudek
   - date: 2025-02-18
-    event: >
-      According to a sworn declaration by a Deputy Commissioner at SSA, "we began onboarding and training Employee 3, a Schedule C Policy Advisor, detailed from the Department of Labor to SSA" with it finalized on February 22. "His duties currently relate to improper payments and SSA’s Death Master File."
+    event: According to a sworn declaration by a Deputy Commissioner at SSA, "we began onboarding and training Employee 3, a Schedule C Policy Advisor, detailed from the Department of Labor to SSA" with it finalized on February 22. "His duties currently relate to improper payments and SSA’s Death Master File."
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
   - date: 2025-02-18
     event: According to a sworn declaration, "SSA began onboarding and training Employee 5, an engineer, detailed from the United States DOGE Service to SSA" with an inter-agency agreement to DOGE.
@@ -1426,8 +1424,7 @@ agencies:
     event: According to a sworn declaration, "the agency began onboarding Employee 7, as a detailee from Department of Labor (DOL) to SSA."
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
   - date: 2025-03-12
-    event: >
-      In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees: four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies and offices (Employees 2, 3, 5, 7, 8, and 10)"
+    event: "In a sworn declaration, Florence Felix-Lawson notes \"the SSA DOGE Team currently consists of ten SSA employees: four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies and offices (Employees 2, 3, 5, 7, 8, and 10)\""
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
   - date: 2025-03-12
     event: Multiple SSA employees told ProPublica, their tech systems seem to be crashing nearly every day, leading to more delays in serving beneficiaries.
@@ -1579,12 +1576,12 @@ agencies:
   - date: 2025-03-10
     event: Trump admin nominates Laken Rapier and Russell Vought to be on the board of the USADF
     source: https://www.senate.gov/legislative/LIS/executive_calendar/xcalv.pdf
-cases:
-- name: Brehm v. Marocco (D.D.C.)
-  description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal and Marocco’s appointment and requesting a temporary block.
-  date_filed: 2025-03-06
-  case_no: 1:25-cv-00660
-  link: https://www.courtlistener.com/docket/69711562/brehm-v-marocco/
+  cases:
+  - name: Brehm v. Marocco (D.D.C.)
+    description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal and Marocco’s appointment and requesting a temporary block.
+    date_filed: 2025-03-06
+    case_no: 1:25-cv-00660
+    link: https://www.courtlistener.com/docket/69711562/brehm-v-marocco/
 
 - name: "US Agency for International Development"
   acronym: USAID
@@ -1687,7 +1684,7 @@ cases:
     - Nate Cavanaugh
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
   - date: 2025-02-24
-    events: DOGE counters their belief that minimum statutory size of agency is "a Board of Directors and a president, reports to Congress and the Executive branch, and expenses incident to the Board of Directors" and says they will regroup
+    event: DOGE counters their belief that minimum statutory size of agency is "a Board of Directors and a president, reports to Congress and the Executive branch, and expenses incident to the Board of Directors" and says they will regroup
     named:
     - James Burnham
     - Jacob Altik
