@@ -162,6 +162,9 @@ agencies:
   - date: 2025-02-15
     event: USDA accidentally includes official working on H5N1 response in mass firings of probationary employees
     source: https://www.nbcnews.com/politics/doge/usda-accidentally-fired-officials-bird-flu-rehire-rcna192716
+  - date: 2025-02-21
+    event: USDA Secretary Rollins posts a photo of a grant-cancellation session with @DOGE_USDA
+    source: https://xcancel.com/SecRollins/status/1892777526704885880#m
 
 - name: Department of Defense
   acronym: DoD
@@ -346,12 +349,18 @@ agencies:
   - date: 2025-02-11
     event: Trump issues an executive order giving DOGE teams in every agency final approval on any hiring decisions, sets quota of 1 new hire for 4 departures
     source: https://www.whitehouse.gov/presidential-actions/2025/02/implementing-the-presidents-department-of-government-efficiency-workforce-optimization-initiative/
+  - date: 2025-02-13
+    event: DOGE announces its website is now live with an organizational chart and tweets
+    source: https://xcancel.com/DOGE/status/1889897384122982604#m
   - date: 2025-02-16
     event: Approximately 50 USDS staff are fired as part (removing approximately 1/3 of the USDS staff that predated DOGE)
     source: https://www.linkedin.com/posts/jonathankamens_around-50-us-digital-service-employees-activity-7296541591333203969-VCs2/
   - date: 2025-02-17
     event: In a filing in "State of New Mexico v. Elon Musk," DOJ lawyers declare that Elon Musk is not the USDS Administrator, but just an advisor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277463/gov.uscourts.dcd.277463.24.0_1.pdf
+  - date: 2025-02-19
+    event: Trump issues an Executive Order "Commencing the Reduction of the Federal Bureaucracy" targeting the Presidio Trust, the Inter-American Foundation, the United States African Development Foundation and the United States Institute of Peace for reductions.
+    source: https://www.whitehouse.gov/presidential-actions/2025/02/commencing-the-reduction-of-the-federal-bureaucracy/
   - date: 2025-02-24
     event: In a hearing for "Alliance for Retired Americans v. Bessent," Judge Kollar-Kotelly repeatedly grills DOJ lawyers on who the USDS Administrator is
     source: https://www.lawfaremedia.org/article/who-is-running-the-u.s.-doge-service
@@ -361,6 +370,9 @@ agencies:
   - date: 2025-02-26
     event: Trump issues an executive order mandating that DOGE teams will have approval over awarding any contract at any agency and freezes purchase cards for 90 days
     source: https://www.whitehouse.gov/presidential-actions/2025/02/implementing-the-presidents-department-of-government-efficiency-cost-efficiency-initiative/
+  - date: 2025-02-25
+    event: DOGE announces they have launched the feature on their website showing contract cancellations (many of these savings are later shown to be wildly erroneous)
+    source: https://xcancel.com/DOGE/status/1896948512975433787
   - date: 2025-02-26
     event: After days of sustained questioning about who the USDS Administrator is, the White House gives the name of Amy Gleason. It is unclear how long she had been in the role.
     source: https://www.npr.org/2025/02/26/nx-s1-5310634/amy-gleason-doge-administrator
@@ -426,9 +438,18 @@ agencies:
   people:
   - Edward Coristine
   events:
+  - date: 2025-02-08
+    event: DOGE social media account on X boasts about deleting a DHS page of LGBTQI+ resources
+    source: https://www.newsweek.com/doge-account-calls-attention-removing-lgbtq-web-page-2028440
   - date: 2025-02-10
     event: Edward Coristine appears in a DHS directory as a "senior advisor"
     source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
+  - date: 2025-02-26
+    event: Republican lawmakers on the U.S. House Committee on Homeland Security unanimously opposed a resolution of inquiry into DOGE activities at DHS
+    source: https://www.bankinfosecurity.com/house-committee-blocks-probe-into-doge-access-to-dhs-systems-a-27608
+  - date: 2025-03-11
+    event: New CIO Antoine McCord arrives at DHS, reportedly with affiliates of DOGE
+    source: https://www.nextgov.com/people/2025/03/dhs-taps-antoine-mccord-top-tech-post/403727/?oref=ng-homepage-river
 
 - name: Department of the Interior
   acronym: DOI
@@ -442,6 +463,9 @@ agencies:
     - Tyler Hassen
     - Bryton Shang
     source: https://www.cnn.com/2025/03/07/climate/trump-doge-california-water/index.html
+  - date: 2025-03-04
+    event: DOGE boasts in a tweet that 27% more water was released in February compared to January (unclear if this adjusts for different lengths of months)
+    source: https://xcancel.com/DOGE/status/1896948512975433787
   cases:
   - name: Center for Biological Diversity v. U.S. Department of Interior (D.D.C.)
     description: Plaintiffs, a nonprofit organization focused on habitat preservation for endangered species, alleges that DOGE and the Department of Interior have violated the Administrative Procedures Act by failing to follow Federal Advisory Committee Act (FACA) requirements
@@ -875,6 +899,12 @@ agencies:
   - date: 2025-03-04
     event: Peter Marocco announces himself to staff as President/CEO, begins dismantling all contracts, places all staff on administrative leave for 30 days
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
+  - date: 2025-03-04
+    event: DOGE brags on its X account that the IAF has been reduced to a single employee
+    source: https://xcancel.com/DOGE/status/1897023739960680843
+  - date: 2025-03-10
+    event: The Trump Administration nominates Kenneth Jackson and Russell Vought to be on the board of the IAF
+    source: https://www.senate.gov/legislative/LIS/executive_calendar/xcalv.pdf
 
 - name: Internal Revenue Service
   acronym: IRS
@@ -1381,6 +1411,9 @@ agencies:
   - Ethan Shaotran
   - Nate Cavanaugh
   events:
+  - date: 2025-02-19
+    event: USADF board member Ward Brehm becomes aware that his agency is going to be targeted by DOGE for elimination
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.2.pdf
   - date: 2025-02-20
     event: Chris Young meets with USADF leadership at their HQ to "introduce DOGE to the agency" and that 2 engineers would be assigned there
     named:
@@ -1425,6 +1458,20 @@ agencies:
   - date: 2025-02-28
     event: USADF Managing Director of Finance Mathieu Zahui receives an email from Trent Morse informing him the USADF is "boardless" and naming Peter Marocco as acting chair. Zahui informs them appointment would require senate confirmation first.
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
+  - date: 2025-03-03
+    event: USADF board member Ward Brehm is elected by the board as President/CEO of USADF
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.2.pdf
+  - date: 2025-03-04
+    event: USADF CFO Mathieu Zahui receives an email from Nate Cavanaugh informing him that Peter Marocco would be coming to the office the following day as Chairman of the Board
+    named:
+    - Nate Cavanaugh
+    - Peter Marocco
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.2.pdf
+  - date: 2025-03-05
+    event: Nate Cavanaugh sends Ward Brehm an email demanding to know by what authority he is the President/CFO of USADF
+    named:
+    - Nate Cavanaugh
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.2.pdf
   - date: 2025-03-05
     event: Jacob Altik and Ethan Shaotran are rebuffed by agency leadership when attempting to enter the agency
     named:
@@ -1438,6 +1485,9 @@ agencies:
     - Ethan Shaotran
     - Nate Cavanaugh
     source: https://www.thedailybeast.com/elon-musks-doge-goons-in-tense-standoff-video-unmasked/
+  - date: 2025-03-10
+    event: Trump admin nominates Laken Rapier and Russell Vought to be on the board of the USADF
+    source: https://www.senate.gov/legislative/LIS/executive_calendar/xcalv.pdf
 cases:
 - name: Brehm v. Marocco (D.D.C.)
   description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal and Marocco’s appointment and requesting a temporary block.
@@ -1493,6 +1543,9 @@ cases:
   - date: 2025-02-06
     event: DOGE staff attempt to use access to Treasury systems to stop payment to USAID programs
     source: https://apnews.com/article/treasury-doge-musk-read-only-access-489231c6db1a9f07fc68f9f08803f815
+  - date: 2025-02-07
+    event: DOGE posts a tweet boasting about the removal of signage for USAID
+    source: https://xcancel.com/DOGE/status/1887959408555995416#m
   - date: 2025-02-07
     event: All USAID staff are placed on indefinite administrative leave
     source: https://www.nbcnews.com/politics/politics-news/usaid-reduce-foreign-service-officers-trump-cuts-federal-government-rcna191122
