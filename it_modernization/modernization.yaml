@@ -330,12 +330,27 @@ agencies:
   - Amy Gleason
   - Cole Killian
   - Nikhil Rajpal
+  - Riley Sennott
+  - Derek Geissler
+  - Brooks Morgan
+  - Conor Fennessy
   events:
   - date: 2024-12-30
     event: Amy Gleason joins the USDS, according to her sworn testimony.
     named:
     - Amy Gleason
     source: https://www.documentcloud.org/documents/25564597-crewvdogereconmot031425/
+  - date: 2025-01-06
+    event: Riley Sennott's public calendar includes a 15-minute DOGE recruiting meeting
+    source: https://www.msn.com/en-us/money/companies/we-found-a-doge-guy-at-nasa-because-his-google-calendar-was-public/ar-AA1At75X
+  - date: 2025-01-17
+    event: The public calendar of Riley Sennott mentions a 30-minute "SGE Ethics Discussion" meeting with 2 GSA addresses and other DOGE staff
+    named:
+    - Riley Sennott
+    - Derek Geissler
+    - Brooks Morgan
+    - Conor Fennessy
+    source: https://www.msn.com/en-us/money/companies/we-found-a-doge-guy-at-nasa-because-his-google-calendar-was-public/ar-AA1At75X
   - date: 2025-01-20
     event: An Inauguration Day executive order renames the US Digital Services and establishes the DOGE Temporary Organization within it, staffed with 4-person teams in agencies for "implementing the president's DOGE agenda"
     source: https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/
