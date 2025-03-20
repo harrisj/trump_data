@@ -63,6 +63,7 @@ agencies:
   - Website homepage deleted
   - Social media accounts deleted
   - YouTube videos removed
+  - Building signage removed
   events:
   - date: 2025-02-06
     event: DOGE staff enter CFPB facilities and are given equipment and onboarded
@@ -1777,6 +1778,12 @@ agencies:
   - date: 2025-03-19
     event: Judge Beryl Howell presides over an emergency hearing on granting USIP's request for a temporary restraining order against DOGE, but doesn't grant a temporary restraining order
     source: https://bsky.app/profile/annabower.bsky.social/post/3lkqsbbysck2n
+  - date: 2025-03-20
+    event: USIP website is taken offline
+    source: https://bsky.app/profile/marisakabas.bsky.social/post/3lkskjyhqkk2p
+  vandalism:
+  - Removal of all signage
+  - Website taken offline
   cases:
   - name: United States Institute of Peace v. Jackson (D.D.C.)
     description: The USIP is suing the DOGE and members of its board for the unlawful seizure and shutdown of the agency following an executive order
