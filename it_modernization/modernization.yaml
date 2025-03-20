@@ -1511,6 +1511,12 @@ agencies:
     - Payton Rehling
     - Ethan Shaotran
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
+  - date: 2025-03-20
+    event: In a ruling for AFL-CIO vs. SSA, Judge Hollander grants a temporary restraining order enjoining DOGE from having any access to SSA systems or installing any software as well as ordering them to delete any data
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.48.0.pdf
+  - date: 2025-03-24
+    event: SSA defendants and DOGE staff are required to file a status report documenting compliance with the restraining order
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.48.0.pdf
   systems:
   - name: Anti-Fraud Enterprise Solution
     acronym: AFES
