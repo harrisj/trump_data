@@ -318,6 +318,12 @@ agencies:
   - date: 2025-02-07
     event: Sources indicate that 3 unidentified DOGE personnel are working at the Department of Energy
     source: https://www.reuters.com/world/us/three-doge-members-raise-access-concerns-us-energy-department-sources-say-2025-02-07/
+  - date: 2025-03-07
+    event: Ryan Reiedel resigns from the CIO role and departs from the agency
+    source: https://www.nextgov.com/people/2025/03/energy-cio-departs-after-short-tenure/403596/
+  - date: 2025-03-13
+    event: Ross Graeber is named the new CIO of the Department of Energy, after working with DOGE at the Department of State
+    source: https://www.nextgov.com/people/2025/03/energy-appoints-twitter-google-alum-new-cio/403717/
   systems:
   - name: Office365
     description: "Basic IT including email and Microsoft 365"
@@ -504,6 +510,7 @@ agencies:
   - Marko Elez
   - Aram Moghaddassi
   - Miles B. Collins
+  - Thomas Shedd
   events:
   - date: 2025-01-24
     event: Trump fires the Inspector General for the Department of Labor in a late-night purge
@@ -530,6 +537,9 @@ agencies:
     - Aram Moghaddassi
     - Miles B. Collins
     source: https://www.businessinsider.com/doge-staffer-fertility-clinic-pronatalist-department-of-labor
+  - date: 2025-03-14
+    event: Thomas Shedd apparently starts working at the CIO at Department of Labor while also serving as the TTS Commissioner at GSA (experts are unclear if this is legal)
+    source: https://www.nextgov.com/people/2025/03/tts-director-tapped-serve-labor-cio/403855/?oref=ng-home-top-story
   cases:
   - name: AFL-CIO v. Dep’t of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor (“DOL”), the Department of Government Efficiency (“DOGE”), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court denied requests to temporarily block DOGE’s access while the case proceeds, but indicated further analysis was needed in particular on the Economy Act claims.
@@ -1291,6 +1301,7 @@ agencies:
   people:
   - Edward Coristine
   - Luke Farritor
+  - Ross Graeber
   events:
   - date: 2025-02-10
     event: Edward Coristine and Luke Farritor are posted to the State Department's Bureau of Diplomatic Technology
@@ -1298,6 +1309,8 @@ agencies:
     - Edward Coristine
     - Luke Farritor
     source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
+  sources:
+  - https://www.nextgov.com/people/2025/03/energy-appoints-twitter-google-alum-new-cio/403717/
 
 - name: Securities and Exchange Commission
   acronym: SEC
@@ -1589,6 +1602,9 @@ agencies:
   - Edward Coristine
   - Gavin Kliger
   - Luke Farritor
+  - Pete Marocco
+  - Jeremy Lewin
+  - Kenneth Jackson
   events:
   - date: 2025-01-27
     event: A DOGE official first arrives at USAID. Later, senior staff are summoned to a meeting with Gavin Kliger and Luke Farritor.
@@ -1652,6 +1668,13 @@ agencies:
   - date: 2025-03-18
     event: In a ruling in J. Doe 1-26 v. Musk (D. Md), Judge Theodore D. Chuang finds that the decision to shut down USAID violated the Constitution in multiple ways and orders the agency must be reopened
     source: https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rZttxcbH9cfc/v0
+  - date: 2025-03-19
+    event: Pete Marocco says that he will be succeeded at the agency by Jeremy Lewin and Kenneth Jackson
+    named:
+    - Pete Marocco
+    - Jeremy Lewin
+    - Kenneth Jackson
+    source: https://www.nytimes.com/2025/03/19/us/politics/usaid-doge-leadership.html
   vandalism:
   - Entire website removed
   - Social media accounts deleted
