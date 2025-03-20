@@ -8,7 +8,8 @@ The file modernization.yaml will track the "modernization" work of the DOGE crew
 
 This file will **not** track contracts being cancelled by DOGE, except if that has ramifications for DOGE actions and activities.
 
-# The Data
+## The Data
+
 A record might look something like this:
 
 ```yaml
@@ -37,15 +38,18 @@ A record might look something like this:
 ```
 
 With the following fields:
+
 - agency: the name of the agency
 - acronym: if the agency has an acronym, it will be here
 - people: a list of known DOGE participants linked to the agency
 - events: a list of key events in DOGE's efforts at the agency
 - systems: a list of systems that DOGE is likely looking to access, based on either direct reporting or by the class of systems they are (eg, budgeting, HR)
+- cases: a list of cases relevant to the agency
 - sources: a list of other sources for things like participants that aren't necessarily linked to specific events
 - vandalism: a list of specific acts of vandalism or sabotage against the agency's IT resources
 
 For a given system, there will be the following fields
+
 - name: the name of the system
 - acronym: if the system has an acronym, here it is
 - link: if there is a page on an agency website for the system
@@ -56,21 +60,26 @@ For a given system, there will be the following fields
 
 More formally, there is now a JSON Schema file for the YAML and if you have the appropriate validation tools (like the RedHat YAML plugin in Visual SourceSafe), it can help report any validation errors.
 
-# Can You Tell Me More About These Names?
+## Can You Tell Me More About These Names?
+
 No. I am mainly just trying to track who is at each agency, the types of systems they might be accessing (mentioned in news coverage as well as the general notion they are looking at HR/Contracting/Procurement systems) and a timeline of events for their action. Other news organizations like ProPublica and Wired already have excellent resources on who these people are and where they have come from.
 
-# PIAs and SORNs?
+## PIAs and SORNs?
+
 Unlike a private business, the US Government is not allowed to just wantonly collect data on citizens without notification and legal review. There are two main types of documents that can provide insight into what data is in various systems that DOGE is accessing:
+
 - **Privacy Impact Assessments** [(examples)](https://www.ed.gov/about/ed-overview/required-notices/privacy/privacy-impact-assessments-pia) are required to assess the privacy impact of any new system that stores and/or processess the private information of individuals (as mandated in the [E-Government Act of 2002](https://en.wikipedia.org/wiki/E-Government_Act_of_2002)).
-- **Systems of Records Notices** [(examples)](https://www.ed.gov/about/ed-overview/required-notices/privacy/privacy-act-system-of-record-notice-issuances) identify the purpose for which a record about an individual is collected, from whom and what type of information is collected and how the information is shared with individuals and organizations outside/external to the agency (as mandated in the [Privacy Act of 1974](https://en.wikipedia.org/wiki/Privacy_Act_of_1974)). 
+- **Systems of Records Notices** [(examples)](https://www.ed.gov/about/ed-overview/required-notices/privacy/privacy-act-system-of-record-notice-issuances) identify the purpose for which a record about an individual is collected, from whom and what type of information is collected and how the information is shared with individuals and organizations outside/external to the agency (as mandated in the [Privacy Act of 1974](https://en.wikipedia.org/wiki/Privacy_Act_of_1974)).
 
 In some cases, both of these documents might describe the same system, but it's not necessarily guaranteed. For instance, OPM might have a SORN describing the general structure of personnel records and PIAs for one or more systems that operate on that data. You can loosely think of the SORN as describing what information is collected on a form coming into the agency, while a PIA describes systems that act on that data after it has been ingested. In the OPM example, there is a [SORN for race/national origin/disability of staff](https://www.opm.gov/information-management/privacy-policy/sorn/opm-sorn-govt-7-applicant-race-sex-national-origin-and-disability-status-records.pdf) because those are collected on a form as part of the onboarding process and the data collected from those records is available in the [EHRI system as described in its PIA](https://www.opm.gov/information-management/privacy-policy/privacy-policy/ehridw.pdf). I have made my best attempt to link to relevant SORNs and PIAs when I can, but it is an inexact science because they describe two related but different concepts.
 
-# Why You Should Really Look at SORNs
+## Why You Should Really Look at SORNs
+
 Government agencies are required to provide some standard fields in SORNs that can tell you about the purpose of the system, the type of data being stored, the individuals whose data will be in the system and where data might be sourced from that goes into those systems. For instance, let's look at the SORN for the Department of Education's [Common Origination and Disbursement (COD) System](https://www.federalregister.gov/documents/2023/06/28/2023-13698/privacy-act-of-1974-system-of-records). Whenever a Privacyt Impact Assessment uses or creates a new System of Records, **it is required to reference the associated SORN**
 
 Looking at this specific SORN, we can see for instance the individuals included in the system:
 _This system contains records of aid applicants, aid applicants' parents, spouses of aid applicants, and where applicable, endorsers, who apply for title IV, HEA programs including, but not limited to, the_:
+
 1. _Federal Pell Grant Program;_
 2. _Federal Perkins Loans Program;_
 3. _Academic Competitiveness Grant (ACG) Program;_
@@ -87,6 +96,7 @@ _The COD System also contains records of aid recipients under title IV of the HE
 
 And it has this information about the type of information in the COD system:
 _Records in the COD System include, but are not limited to, the following data about aid applicants and recipients, endorsers, aid applicants' and recipients' parents, and spouses of aid applicants and recipients who are part of an aid applicant's title IV, HEA aid application or receive title IV, HEA aid:_
+
 1. _Identifier information, including name, Social Security number (SSN), date of birth (DOB), mailing address, email address, driver's license number, and telephone number;_
 2. _Aid applicant and recipient demographic information, including demographic information of the aid applicant's and recipient's parent(s) and aid applicant's and recipient's spouse (if applicable), incarcerated student indicator flag, expected student enrollment, list of participating title IV, HEA institutions of higher education designated by the aid applicant to receive the Free Application For Federal Student Aid (FAFSA®) form data along with residency plans, and the financial profile of an aid applicant, an aid applicant's parent(s), or an aid applicant's spouse, as reported and calculated through the FAFSA form, and to also include processing flags, indicators, rejections, and overrides; and the consent/affirmative approval to disclose personally identifiable information to the IRS and to obtain FTI in order to determine eligibility for, or repayment obligations under, IDR plans pursuant to subsection 494 (a) of the HEA (20 U.S.C. 1098h(a));_
 3. _Aid recipient's loan information including information about Direct Loans, FFEL program loans, Perkins loans, and FISL program loans. This includes information about the period from the origination of the loan through final payment, and milestones, including, but not limited to: discharge, consolidation, or other final disposition including details such as loan amount, date of disbursement, disbursement amounts, balances, loan status, repayment plan and related information, collections, claims, deferments, forbearances, refunds, and guaranty agencies, lender(s), holder(s), and servicer(s) of an aid recipient's FFEL program loan(s);_
@@ -101,9 +111,15 @@ _Records in the COD System include, but are not limited to, the following data a
 and so on. You can see why these might be useful to figure out in the event of a privacy breach both what kind of information could be leaked and who would be affected. I attempt to summarize it in in the `risk` field, but that is largely limited.
 
 I will generally try to include systems in the `systems` section for which any of the following criteria are true:
+
 - They are named directly in a news report or court filing
 - They are described indirectly and I am able to identify based on that
 - They are used for HR or contracting/procurement or making payments (those seem to be the systems that DOGE goes after first)
 
-# Disclaimer
+## Validation
+
+I have created a JSON schema for the document that can be used to validate edits if you are using a plugin like the RedHat YAML one in an IDE.
+
+## Disclaimer
+
 I am doing my best to fill in the gaps and collect information on a purposefully murky organization designed to avoid transparency and oversight. Mistakes are inevitable; please be aware of the risks and point out any issues to me by filing an Issue on this repo. Also, I am not a reporter. I only put things in here that have been presented publicly in the media.
