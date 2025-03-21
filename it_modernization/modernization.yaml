@@ -869,6 +869,12 @@ agencies:
   - date: 2025-03-07
     event: DOGE rolls out a custom GSAi custom chatbot to 1500 workers
     source: https://www.wired.com/story/gsai-chatbot-1500-federal-workers/
+  - date: 2025-03-19
+    event: GSA hosts a deep-background media briefing to demo its GSAi tool with invitations sent to reporters from Bloomberg, The Atlantic, and Fox among others.
+    source: https://www.wired.com/story/gsa-staff-all-hands-meeting-ai/
+  - date: 2025-03-21
+    event: DOGE expands the GSAi chatbot rollout to more than 13,000 GSA employees
+    source: https://www.wired.com/story/gsa-staff-all-hands-meeting-ai/
   vandalism:
   - 18F website removed
   systems:
