@@ -187,6 +187,9 @@ agencies:
   - date: 2025-02-20
     event: Defense Secretary Hegseth releases a video stating that he met with DOGE about cuts to the agency and many of them are veterans
     source: https://www.foxnews.com/politics/defense-sec-hegseth-working-doge-cut-bs
+  - date: 2025-03-21
+    event: Elon Musk arrives at the Pentagon for a meeting with leadership, reportedly to discuss DOGE
+    source: https://www.nbcnews.com/politics/trump-administration/elon-musk-visit-pentagon-discuss-china-rcna197435
 
 - name: Department of Education
   acronym: ED
@@ -423,6 +426,9 @@ agencies:
   - date: 2025-03-18
     event: In a ruling in J. Doe 1-26 v. Musk (D. Md), Judge Theodore D. Chuang declares that evidence shows that Elon Musk was effectively running DOGE without being appointed to the role
     source: https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rZttxcbH9cfc/v0
+  - date: 2025-03-20
+    event: President Trump issues an executive order demaning that agency heads must share all access to any unclassified datasets "related to the identification and elimination of waste, fraud, and abuse" but also "to the maximum extent consistent with law"
+    source: https://www.whitehouse.gov/presidential-actions/2025/03/stopping-waste-fraud-and-abuse-by-eliminating-information-silos/
   cases:
   - name: Public Citizen Inc et al v. Donald J. Trump and Office of Management and Budget (D.D.C.)
     description: Two advocacy organizations and the American Federation of Government Employees sued that DOGE creation violated the Federal Advisory Committee Act
@@ -1272,6 +1278,9 @@ agencies:
   - date: 2025-03-18
     event: A lawyer for the plaintiffs accuses the DOJ of misrepresenting Altik's participation "perhaps to preserve the illusion that OPM’s counsel were ignorant of what OPM was doing with the Government-Wide Email System, or perhaps to obscure the role of DOGE and the White House in this case."
     source: https://fedscoop.com/doge-lawyer-opm-email-lawsuit-jacob-altik/
+  - date: 2025-03-20
+    event: President Trump issues an executive order that
+    source: https://www.whitehouse.gov/presidential-actions/2025/03/strengthening-the-suitability-and-fitness-of-the-federal-workforce/
   systems:
   - name: UsaJobs
     description: Official hiring site for the federal government
@@ -1533,6 +1542,9 @@ agencies:
   - date: 2025-03-20
     event: In a ruling for AFL-CIO vs. SSA, Judge Hollander grants a temporary restraining order enjoining DOGE from having any access to SSA systems or installing any software as well as ordering them to delete any data
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.48.0.pdf
+  - date: 2025-03-20
+    event: Leland Dudek threatens to shut down the entire Social Security Administration instead of complying with the order
+    source: https://www.washingtonpost.com/politics/2025/03/21/social-security-benefits-trump-doge/
   - date: 2025-03-24
     event: SSA defendants and DOGE staff are required to file a status report documenting compliance with the restraining order
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.48.0.pdf
