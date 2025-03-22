@@ -338,8 +338,46 @@ agencies:
   people:
   - Elon Musk
   - Amy Gleason
+  - Justin Aimonetti
+  - Jacob Altik
+  - Anthony Armstrong
+  - Jennifer Balajadia
+  - Alexandra Beynon
+  - Riccardo Baisini
+  - Akash Bobba
+  - Ashley Boizelle
+  - Emily Bryant
+  - James Burnham
+  - Edward Coristine
+  - Steven Davis
+  - Marko Elez
+  - Luke Farritor
+  - Joshua Fox
+  - Antonio Gracias
+  - Joshua Hanley
+  - Stephanie Holmes
+  - Erica Jehling
   - Cole Killian
+  - Gavin Kliger
+  - Keenan Kmiec
+  - Nicholas Lahera
+  - Scott Langmack
+  - Jeremy Lewin
+  - Kendall Lindemann
+  - Katie Miller
+  - Noah Peters
   - Nikhil Rajpal
+  - Adam Ramada
+  - Austin Raynor
+  - Mike Russo
+  - Kyle Schutt
+  - Ethan Shaotran
+  - Brad Smith
+  - Christopher Stanley
+  - Thomas Shedd
+  - Jordan Wick
+  - Ryan Wunderly
+  - Christopher Young
   - Riley Sennott
   - Derek Geissler
   - Brooks Morgan
@@ -423,9 +461,66 @@ agencies:
     source: https://www.politico.com/news/2025/03/12/elon-musk-judge-orders-discovery-00227924
     named:
     - Elon Musk
+  - date: 2025-03-17
+    event: Democratic members of the House Judiciary Committee file an expedited FOIA records request against DOGE, including individual records on named staff
+    named:
+    - Elon Musk
+    - Amy Gleason
+    - Justin Aimonetti
+    - Jacob Altik
+    - Anthony Armstrong
+    - Jennifer Balajadia
+    - Alexandra Beynon
+    - Riccardo Baisini
+    - Akash Bobba
+    - Ashley Boizelle
+    - Emily Bryant
+    - James Burnham
+    - Edward Coristine
+    - Steven Davis
+    - Marko Elez
+    - Luke Farritor
+    - Joshua Fox
+    - Antonio Gracias
+    - Joshua Hanley
+    - Stephanie Holmes
+    - Erica Jehling
+    - Cole Killian
+    - Gavin Kliger
+    - Keenan Kmiec
+    - Nicholas Lahera
+    - Scott Langmack
+    - Jeremy Lewin
+    - Kendall Lindemann
+    - Katie Miller
+    - Noah Peters
+    - Nikhil Rajpal
+    - Adam Ramada
+    - Austin Raynor
+    - Mike Russo
+    - Kyle Schutt
+    - Ethan Shaotran
+    - Brad Smith
+    - Christopher Stanley
+    - Thomas Shedd
+    - Jordan Wick
+    - Ryan Wunderly
+    - Christopher Young
+    source: https://democrats-judiciary.house.gov/uploadedfiles/2025-03-17_raskin_connolly_foia_request.pdf
   - date: 2025-03-18
     event: In a ruling in J. Doe 1-26 v. Musk (D. Md), Judge Theodore D. Chuang declares that evidence shows that Elon Musk was effectively running DOGE without being appointed to the role
     source: https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rZttxcbH9cfc/v0
+  - date: 2025-03-19
+    event: In another sworn statement, Amy Gleason declares "every member of an agency’s DOGE Team is an employee of the agency or a detailee to the agency." She does clarify that some are detailed from USDS but also claims they report to agency heads.
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277646/gov.uscourts.dcd.277646.24.2.pdf
+  - date: 2025-03-19
+    event: In a sworn statement, Jeremy Lewin declares he has never been an employee of USDS or Elon Musk but reports he was the DOGE team lead at USAID for a while
+    named:
+    - Jeremy Lewin
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576293/gov.uscourts.mdd.576293.77.2.pdf
+  - date: 2025-03-20
+    event: In a response to the court order by Judge Cooper in CREW v. DOGE, the government estimates it would need to produce 105,403 documents in discovery
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277646/gov.uscourts.dcd.277646.25.0.pdf
   - date: 2025-03-20
     event: President Trump issues an executive order demaning that agency heads must share all access to any unclassified datasets "related to the identification and elimination of waste, fraud, and abuse" but also "to the maximum extent consistent with law"
     source: https://www.whitehouse.gov/presidential-actions/2025/03/stopping-waste-fraud-and-abuse-by-eliminating-information-silos/
@@ -524,6 +619,7 @@ agencies:
   - Aram Moghaddassi
   - Miles B. Collins
   - Thomas Shedd
+  - Keith Sonderling
   events:
   - date: 2025-01-24
     event: Trump fires the Inspector General for the Department of Labor in a late-night purge
@@ -553,6 +649,11 @@ agencies:
   - date: 2025-03-14
     event: Thomas Shedd apparently starts working at the CIO at Department of Labor while also serving as the TTS Commissioner at GSA (experts are unclear if this is legal)
     source: https://www.nextgov.com/people/2025/03/tts-director-tapped-serve-labor-cio/403855/?oref=ng-home-top-story
+  - date: 2025-03-18
+    event: Keith Sonderling is sworn in as the Deputy Secretary of labor
+    named:
+    - Keith Sonderling
+    source: https://news.artnet.com/art-world/doge-imls-institute-museum-library-services-2623286
   cases:
   - name: AFL-CIO v. Dep’t of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor (“DOL”), the Department of Government Efficiency (“DOGE”), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court denied requests to temporarily block DOGE’s access while the case proceeds, but indicated further analysis was needed in particular on the Economy Act claims.
@@ -1002,16 +1103,18 @@ agencies:
 
 - name: Institute for Museum and Library Services
   acronym: IMLS
+  people:
+  - Keith Sonderling
   events:
   - date: 2025-03-14
     event: Trump issues a new executive order proclaiming that the IMLS among other agencies must be reduced to statutory functions only
     source: https://www.whitehouse.gov/presidential-actions/2025/03/continuing-the-reduction-of-the-federal-bureaucracy/
   - date: 2025-03-19
-    event: Keith Sonderling, the Deputy Secretary of Labor, is named the acting director of the IMLS
-    source: https://bsky.app/profile/marisakabas.bsky.social/post/3lkr67qbqe22i
+    event: IMLS staff learn that DOGE is planning to visit the following day; most make plans to attend
+    source: https://news.artnet.com/art-world/doge-imls-institute-museum-library-services-2623286
   - date: 2025-03-20
-    event: DOGE arrives at IMLS HQ
-    source: https://bsky.app/profile/jsweetli.bsky.social/post/3lkt6r42d2k25
+    event: DOGE arrives at IMLS HQ, are startled to find staff there, swear in Keith Sonderling as acting director and leave
+    source: https://news.artnet.com/art-world/doge-imls-institute-museum-library-services-2623286
 
 - name: Inter-American Foundation
   acronym: IAF
@@ -1704,6 +1807,11 @@ agencies:
     - Gavin Kliger
     - Luke Farritor
     source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
+  - date: 2025-01-28
+    event: Jeremy Lewin starts working at USAID as both a Senior Advisor and Director for Strategy & Programs
+    named:
+    - Jeremy Lewin
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576293/gov.uscourts.mdd.576293.77.2.pdf
   - date: 2025-01-30
     event: DOGE discovers that some USAID grants had been paid automatically through HHS despite a declared freeze
     source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
@@ -1760,6 +1868,12 @@ agencies:
   - date: 2025-03-18
     event: In a ruling in J. Doe 1-26 v. Musk (D. Md), Judge Theodore D. Chuang finds that the decision to shut down USAID violated the Constitution in multiple ways and orders the agency must be reopened
     source: https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rZttxcbH9cfc/v0
+  - date: 2025-03-18
+    event: Jeremy Lewin is appointed to the position of Deputy Administrator (Policy and Programming) and Kenneth Jackson is named Deputy Administrator (Management and Resources). He claims it was unrelated to the ruling by Chuang.
+    named:
+    - Jeremy Lewin
+    - Kenneth Jackson
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576293/gov.uscourts.mdd.576293.77.2.pdf
   - date: 2025-03-19
     event: Pete Marocco says that he will be succeeded at the agency by Jeremy Lewin and Kenneth Jackson
     named:
