@@ -15,11 +15,39 @@
                         "description": "The acronym of the abbreviation (eg, NASA or CIA)",
                         "type": "string"
                     },
-                    "people": {
-                        "description": "A list of DOGE people who have been linked to the agency",
+                    "roundups": {
+                        "description": "A summary of identifications made by media organizations of staff at the agency",
                         "type": "array",
                         "items": {
-                            "type": "string"
+                            "description": "An individual roundup of DOGE staff at this agency made by an organization",
+                            "properties": {
+                                "source": {
+                                    "description": "A URL for the source of this roundup",
+                                    "type": "string",
+                                    "format": "uri"
+                                },
+                                "organization": {
+                                    "description": "The name of the organization providing this roundup",
+                                    "type": "string"
+                                },
+                                "context": {
+                                    "description": "A text description of the roundup's context if applicable",
+                                    "type": "string"
+                                },
+                                "date": {
+                                    "description": "The date of this particular roundup if applicable (not provided for listings are ongoing)",
+                                    "type": "string"
+                                },
+                                "named": {
+                                    "description": "A list of names for this agency in the roundup",
+                                    "type": "array",
+                                    "items": {
+                                        "description": "Name of a DOGE staffer mentioned in this roundup at this agency",
+                                        "type": "string"
+                                    }
+                                }
+                            },
+                            "required": ["source", "organization", "named"]
                         }
                     },
                     "events": {
@@ -47,7 +75,8 @@
                                 },
                                 "source": {
                                     "type": "string",
-                                    "description": "A URL of the source for the information in the event"
+                                    "description": "A URL of the source for the information in the event",
+                                    "format": "uri"
                                 }
                             },
                             "required": ["date", "event", "source"]
@@ -89,11 +118,13 @@
                                 },
                                 "pia": {
                                     "description": "A URL linking to the Privacy Impact Assessment for the system",
-                                    "type": "string"
+                                    "type": "string",
+                                    "format": "uri"
                                 },
                                 "sorn": {
                                     "description": "A URL linking to the SORN for the system",
-                                    "type": "string"
+                                    "type": "string",
+                                    "format": "uri"
                                 }
                             },
                             "required": ["name", "description"]
@@ -118,7 +149,8 @@
                                 },
                                 "link": {
                                     "type": "string",
-                                    "description": "A URL for the case on Court Listener"
+                                    "description": "A URL for the case on Court Listener",
+                                    "format": "uri"
                                 }
 
                             },
@@ -130,7 +162,8 @@
                         "type": "array",
                         "items": {
                             "type": "string",
-                            "description": "A URL linking to a news source about DOGE overall at the agency"
+                            "description": "A URL linking to a news source about DOGE overall at the agency",
+                            "format": "uri"
                         }
                     }
                 },

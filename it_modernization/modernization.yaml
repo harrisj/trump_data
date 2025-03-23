@@ -2,9 +2,11 @@
 agencies:
 - name: Centers for Disease Control and Prevention
   acronym: CDC
-  people:
-  - Gavin Kliger
-  - Nikhil Rajpal
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Luke Farritor
   events:
   - date: 2025-02-06
     event: DOGE staff arrive at CDC HQ in Atlanta
@@ -21,12 +23,21 @@ agencies:
 
 - name: Centers for Medicare and Medicaid Services
   acronym: CMS
-  people:
-  - Luke Farritor
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Luke Farritor
+    - Amy Gleason
+    - Rachel Riley
+    - Brad Smith
   events:
   - date: 2025-02-05
     event: DOGE staff reported with agency buildings with access to certain systems
     source: https://www.wsj.com/politics/elon-musk-doge-medicare-medicaid-fraud-e697b162
+  - date: 2025-02-05
+    event: CMS releases a press release stating that two agency veterans have been assigned to work with DOGE
+    source: https://www.cms.gov/newsroom/press-releases/cms-statement-collaboration-doge
   systems:
   - name: Acquistions and Grants Exchange
     acronym: AGX
@@ -35,15 +46,15 @@ agencies:
   - name: CMS Acquisition Lifecycle Management system
     acronym: CALM
     description: System for tracking CMS acquisitions, contracts, milestones and audits.
-  sources:
-  - https://www.msn.com/en-us/money/general/doge-targets-u-s-health-agencies-gains-access-to-payment-systems/ar-AA1yu5OD
-  - https://www.cms.gov/newsroom/press-releases/cms-statement-collaboration-doge
-  - https://www.wsj.com/politics/elon-musk-doge-medicare-medicaid-fraud-e697b162
 
 - name: Commerce Department
   acronym: Commerce
-  people:
-  - Nikhil Rajpal
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Michael Grimes
+    - Gavin Kliger
   events:
   - date: 2025-01-24
     event: Commerce Department Inspector General is fired in a late-night purge
@@ -54,11 +65,19 @@ agencies:
 
 - name: Consumer Financial Protection Bureau
   acronym: CFPB
-  people:
-  - Gavin Kliger
-  - Nikhil Rajpal
-  - Jordan Wick
-  - Luke Farritor
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Gavin Kliger
+    - Jeremy Lewin
+    - Nikhil Rajpal
+    - Jordan Wick
+    - Chris Young
+  - source: https://projects.propublica.org/elon-musk-doge-tracker/
+    organization: ProPublica
+    named:
+    - Jeremy Lewin
   vandalism:
   - Website homepage deleted
   - Social media accounts deleted
@@ -77,6 +96,8 @@ agencies:
     source: https://www.wired.com/story/doge-access-consumer-financial-protection-bureau-data/
   - date: 2025-02-07
     event: Elon Musk posts a tweet "CFPB RIP" with a tombstone emoji
+    named:
+    - Elon Musk
     source: https://news.bloomberglaw.com/banking-law/musks-doge-descends-on-consumer-financial-protection-bureau
   - date: 2025-02-07
     event: DOGE staff are given full privileged access to CFPB systems without completing training or agreeing to CFPB's acceptable use policy for IT systems
@@ -120,6 +141,7 @@ agencies:
       Records in this system may contain identifiable information about individuals including, without limitation:  (1) Identification and contact information, including name, address, email address, phone number and other contact  information; (2) employee emergency contact information, including name, phone number, relationship to employee  or emergency contact; (3) Social Security number (SSN), employee ID number, organization code, pay rate, salary,  grade, length of service, and other related pay and leave records including payroll data; (4) biographic and  demographic data, including date of birth and marital or domestic partnership status; (5) employment-related  information such as performance reports, training, professional licenses, certification, and memberships  information, alternative dispute resolution processes, fitness center membership information, union dues,  employee claims for loss or damage to personal property, and other information related to employment  by the Bureau; (6) benefits data, such as health, life, travel, and disability insurance information;  (7) retirement benefits information and flexible spending account information; and (8) time and attendance records.
   - name: PRISM
     description: System for tracking procurement and contracting
+    link: https://www.doi.gov/ibc/services/finance/financial-systems/prism
     risk: PII/CUI of contracting recipients
   - name: Discoverer
     description: System for tracking CFPB finances. More details unknown.
@@ -134,15 +156,22 @@ agencies:
     case_no: 1:25-cv-00381
     date_filed: 2025-02-09
     link: https://www.courtlistener.com/docket/69624423/national-treasury-employees-union-v-vought/
-  sources:
-  - https://www.wired.com/story/doge-access-consumer-financial-protection-bureau-data/
-  - https://www.doi.gov/ibc/services/finance/financial-systems/prism
+
+- name: Customs and Border Patrol
+  acronym: CBP
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Marko Elez
 
 - name: Cybersecurity and Infrastructure Security Agency
   acronym: CISA
-  people:
-  - Edward Coristine
-  - Kyle Schutt
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Chris Young
   events:
   - date: 2025-02-19
     event: Edward Coristine and Kyle Schutt are given access to CISA systems
@@ -158,6 +187,11 @@ agencies:
 
 - name: Department of Agriculture
   acronym: USDA
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Gavin Kliger
   events:
   - date: 2025-01-24
     event: Trump fires the USDA Inspector General in a late-night purge
@@ -192,12 +226,25 @@ agencies:
     source: https://www.nbcnews.com/politics/trump-administration/elon-musk-visit-pentagon-discuss-china-rcna197435
 
 - name: Department of Education
-  acronym: ED
-  people:
-  - Adam Ramada
-  - Akash Bobba
-  - Ethan Shaotran
-  - Brooks Morgan
+  acronym: Education
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Jennifer Balajadia
+    - Alexandra Beynon
+    - Edward Coristine
+    - Luke Farritor
+    - Connor Fennesy
+    - Brooks Morgan
+    - Adam Ramada
+    - Ethan Shaotran
+  - source: https://projects.propublica.org/elon-musk-doge-tracker/
+    organization: ProPublica
+    named:
+    - Conor Fennessy
+    - Brooks Morgan
+    - Adam Ramada
   events:
   - date: 2025-01-24
     event: Trump fires the Inspector General for the Department of Education in a late-night purge
@@ -234,11 +281,6 @@ agencies:
   - date: 2025-02-24
     event: A court ruling names the systems NSLDS, COD, FAS and FMS as being accessed by DOGE
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.38.0.pdf
-  - date: 2025-03-14
-    event: ProPublica reports Connor Fennessy is active at the Department of Education as a Senior Advisor
-    named:
-    - Connor Fennessy
-    source: https://projects.propublica.org/elon-musk-doge-tracker/#Conor-Fennessy
   systems:
   - name: Common Origination and Disbursement System
     acronym: COD
@@ -302,9 +344,17 @@ agencies:
 
 - name: Department of Energy
   acronym: DOE
-  people:
-  - Luke Farritor
-  - Ryan Riedel
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Gavin Farritor
+    - Ryan Riedel
+  - source: https://projects.propublica.org/elon-musk-doge-tracker/
+    organization: ProPublica
+    named:
+    - Adam Ramada
+    - Ryan Riedel
   events:
   - date: 2025-01-24
     event: Trump fires the Inspector General for the Department of Energy in a late-night purge
@@ -335,53 +385,74 @@ agencies:
 
 - name: US Digital Service/Department of Government Efficiency
   acronym: USDS/DOGE
-  people:
-  - Elon Musk
-  - Amy Gleason
-  - Justin Aimonetti
-  - Jacob Altik
-  - Anthony Armstrong
-  - Jennifer Balajadia
-  - Alexandra Beynon
-  - Riccardo Baisini
-  - Akash Bobba
-  - Ashley Boizelle
-  - Emily Bryant
-  - James Burnham
-  - Edward Coristine
-  - Steven Davis
-  - Marko Elez
-  - Luke Farritor
-  - Joshua Fox
-  - Antonio Gracias
-  - Joshua Hanley
-  - Stephanie Holmes
-  - Erica Jehling
-  - Cole Killian
-  - Gavin Kliger
-  - Keenan Kmiec
-  - Nicholas Lahera
-  - Scott Langmack
-  - Jeremy Lewin
-  - Kendall Lindemann
-  - Katie Miller
-  - Noah Peters
-  - Nikhil Rajpal
-  - Adam Ramada
-  - Austin Raynor
-  - Mike Russo
-  - Kyle Schutt
-  - Ethan Shaotran
-  - Brad Smith
-  - Christopher Stanley
-  - Thomas Shedd
-  - Jordan Wick
-  - Ryan Wunderly
-  - Christopher Young
-  - Riley Sennott
-  - Derek Geissler
-  - Brooks Morgan
-  - Conor Fennessy
+  roundups:
+  - source: https://democrats-judiciary.house.gov/uploadedfiles/2025-03-17_raskin_connolly_foia_request.pdf
+    date: 2025-03-17
+    organization: House Judiciary Committee
+    named:
+    - Elon Musk
+    - Amy Gleason
+    - Justin Aimonetti
+    - Jacob Altik
+    - Anthony Armstrong
+    - Jennifer Balajadia
+    - Alexandra Beynon
+    - Riccardo Baisini
+    - Akash Bobba
+    - Ashley Boizelle
+    - Emily Bryant
+    - James Burnham
+    - Edward Coristine
+    - Steven Davis
+    - Marko Elez
+    - Luke Farritor
+    - Joshua Fox
+    - Antonio Gracias
+    - Joshua Hanley
+    - Stephanie Holmes
+    - Erica Jehling
+    - Cole Killian
+    - Gavin Kliger
+    - Keenan Kmiec
+    - Nicholas Lahera
+    - Scott Langmack
+    - Jeremy Lewin
+    - Kendall Lindemann
+    - Katie Miller
+    - Noah Peters
+    - Nikhil Rajpal
+    - Adam Ramada
+    - Austin Raynor
+    - Mike Russo
+    - Kyle Schutt
+    - Ethan Shaotran
+    - Brad Smith
+    - Christopher Stanley
+    - Thomas Shedd
+    - Jordan Wick
+    - Ryan Wunderly
+    - Christopher Young
+  - source: https://projects.propublica.org/elon-musk-doge-tracker/
+    organization: ProPublica
+    context: I am also including Executive Office of the President (EOP) positions
+    named:
+    - Justin Aimonetti
+    - Jacob Altik
+    - Alexandra Beynon
+    - Ashley Boizelle
+    - James Burnham
+    - Steve Davis
+    - Amy Gleason
+    - Joshua Hanley
+    - Keenan Kmiec
+    - Kendall Lindemann
+    - Katie Miller
+    - Noah Peters
+    - Adam Ramada
+    - Brad Smith
+    - Christopher Stanley
+    - Jordan Wick
+    - Chris Young
   events:
   - date: 2024-12-30
     event: Amy Gleason joins the USDS, according to her sworn testimony.
@@ -461,52 +532,6 @@ agencies:
     source: https://www.politico.com/news/2025/03/12/elon-musk-judge-orders-discovery-00227924
     named:
     - Elon Musk
-  - date: 2025-03-17
-    event: Democratic members of the House Judiciary Committee file an expedited FOIA records request against DOGE, including individual records on named staff
-    named:
-    - Elon Musk
-    - Amy Gleason
-    - Justin Aimonetti
-    - Jacob Altik
-    - Anthony Armstrong
-    - Jennifer Balajadia
-    - Alexandra Beynon
-    - Riccardo Baisini
-    - Akash Bobba
-    - Ashley Boizelle
-    - Emily Bryant
-    - James Burnham
-    - Edward Coristine
-    - Steven Davis
-    - Marko Elez
-    - Luke Farritor
-    - Joshua Fox
-    - Antonio Gracias
-    - Joshua Hanley
-    - Stephanie Holmes
-    - Erica Jehling
-    - Cole Killian
-    - Gavin Kliger
-    - Keenan Kmiec
-    - Nicholas Lahera
-    - Scott Langmack
-    - Jeremy Lewin
-    - Kendall Lindemann
-    - Katie Miller
-    - Noah Peters
-    - Nikhil Rajpal
-    - Adam Ramada
-    - Austin Raynor
-    - Mike Russo
-    - Kyle Schutt
-    - Ethan Shaotran
-    - Brad Smith
-    - Christopher Stanley
-    - Thomas Shedd
-    - Jordan Wick
-    - Ryan Wunderly
-    - Christopher Young
-    source: https://democrats-judiciary.house.gov/uploadedfiles/2025-03-17_raskin_connolly_foia_request.pdf
   - date: 2025-03-18
     event: In a ruling in J. Doe 1-26 v. Musk (D. Md), Judge Theodore D. Chuang declares that evidence shows that Elon Musk was effectively running DOGE without being appointed to the role
     source: https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rZttxcbH9cfc/v0
@@ -569,8 +594,17 @@ agencies:
 
 - name: Department of Homeland Security
   acronym: DHS
-  people:
-  - Edward Coristine
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - James Burnham
+    - Edward Coristine
+    - Steve Davis
+    - Marko Elez
+    - Kyle Schutt
+    - Brad Smith
+    - Chris Young
   events:
   - date: 2025-02-08
     event: DOGE social media account on X boasts about deleting a DHS page of LGBTQI+ resources
@@ -583,10 +617,21 @@ agencies:
     source: https://www.bankinfosecurity.com/house-committee-blocks-probe-into-doge-access-to-dhs-systems-a-27608
   - date: 2025-03-11
     event: New CIO Antoine McCord arrives at DHS, reportedly with affiliates of DOGE
+    named:
+    - Antoine McCord
     source: https://www.nextgov.com/people/2025/03/dhs-taps-antoine-mccord-top-tech-post/403727/?oref=ng-homepage-river
 
 - name: Department of the Interior
   acronym: DOI
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Tyler Hassen
+  - source: https://projects.propublica.org/elon-musk-doge-tracker/
+    organization: ProPublica
+    named:
+    - Tyler Hassen
   people:
   - Tyler Hassen
   - Bryton Shang
@@ -609,17 +654,23 @@ agencies:
 
 - name: Department of Labor
   acronym: DOL
-  people:
-  - Sam Beyda
-  - Derek Geissler
-  - Cole Killian
-  - Adam Ramada
-  - Jordan Wick
-  - Marko Elez
-  - Aram Moghaddassi
-  - Miles B. Collins
-  - Thomas Shedd
-  - Keith Sonderling
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Adam Ramada
+  - source: https://projects.propublica.org/elon-musk-doge-tracker/
+    organization: ProPublica
+    named:
+    - Aram Moghaddassi
+  - source: https://www.businessinsider.com/doge-staffer-fertility-clinic-pronatalist-department-of-labor
+    organization: Business Insider
+    date: 2025-03-05
+    context: Business Insider reports Marko Elez, Aram Moghaddassi, and Miles B. Collins are new DOGE arrivals at Department of Labor
+    named:
+    - Marko Elez
+    - Aram Moghaddassi
+    - Miles Collins
   events:
   - date: 2025-01-24
     event: Trump fires the Inspector General for the Department of Labor in a late-night purge
@@ -639,13 +690,6 @@ agencies:
     - Adam Ramada
     - Jordan Wick
     source: https://www.nbcnews.com/tech/security/doge-software-approval-alarms-labor-department-employees-data-security-rcna191583
-  - date: 2025-03-05
-    event: Business Insider reports Marko Elez, Aram Moghaddassi, and Miles B. Collins are new DOGE arrivals at Department of Labor
-    named:
-    - Marko Elez
-    - Aram Moghaddassi
-    - Miles B. Collins
-    source: https://www.businessinsider.com/doge-staffer-fertility-clinic-pronatalist-department-of-labor
   - date: 2025-03-14
     event: Thomas Shedd apparently starts working at the CIO at Department of Labor while also serving as the TTS Commissioner at GSA (experts are unclear if this is legal)
     source: https://www.nextgov.com/people/2025/03/tts-director-tapped-serve-labor-cio/403855/?oref=ng-home-top-story
@@ -661,12 +705,32 @@ agencies:
     date_filed: 2025-02-05
     link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
 
+- name: Department of Transportation
+  acronym: DOT
+  roundups:
+  - source: https://projects.propublica.org/elon-musk-doge-tracker/
+    organization: ProPublica
+    named:
+    - Daniel Abrahamson
+
 - name: Department of the Treasury
   acronym: Treasury
-  people:
-  - Marko Elez
-  - Ryan Wunderly
-  - Thomas Krause
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Baris Akis
+    - Sam Corcos
+    - Tom Krause
+    - Marko Elez
+    - Ryan Wunderly
+  - source: https://projects.propublica.org/elon-musk-doge-tracker/
+    organization: ProPublica
+    named:
+    - Marko Elez
+    - Tom Krause
+    - Aram Moghaddassi
+    - Ryan Wunderly
   events:
   - date: 2025-01-08
     event: The leader of the Trump transition team for the Treasury Department sends an email requesting that Thomas Krause be incuded on the "day 1 team, to lead on Fiscal Services modernization efforts."
@@ -820,9 +884,17 @@ agencies:
 
 - name: Environmental Protection Agency
   acronym: EPA
-  people:
-  - Cole Killian
-  - Catherine Armstrong Loving
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Cole Killian
+  - source: https://projects.propublica.org/elon-musk-doge-tracker/
+    organization: ProPublica
+    named:
+    - Erica Jehling
+    - Cole Killian
+    - Kathryn Armstrong Loving
   events:
   - date: 2025-01-24
     event: Trump fires the EPA Inspector General in a late-night purge
@@ -843,11 +915,14 @@ agencies:
 
 - name: Federal Aviation Administration
   acronym: FAA
-  people:
-  - Ted Malaska
-  - Thomas Kiernan
-  - Sam Smeal
-  - Brady Glantz
+  roundups:
+  - source: https://projects.propublica.org/elon-musk-doge-tracker/
+    organization: ProPublica
+    named:
+    - Brady Glantz
+    - Thomas Kiernan
+    - Ted Malaska
+    - Sam Smeal
   events:
   - date: 2025-02-05
     event: Elon Musk promises that DOGE will make rapid upgrades to airline systems after outage of NOTAM alerting system
@@ -877,13 +952,26 @@ agencies:
 
 - name: Federal Bureau of Investigation
   acronym: FBI
-  people:
-  - Justin Monroe
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Justin Monroe
+  - source: https://projects.propublica.org/elon-musk-doge-tracker/
+    organization: ProPublica
+    named:
+    - Justin Monroe
 
 - name: Federal Emergency Management Agency
   acronym: FEMA
-  people:
-  - Edward Coristine
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - James Burnham
+    - Steve Davis
+    - Kyle Schutt
+    - Brad Smith
   events:
   - date: 2025-02-05
     event: Edward Coristine is given a FEMA badge and onboarded into the agency
@@ -908,6 +996,14 @@ agencies:
     case_no: 1:25-cv-00624
     link: https://www.courtlistener.com/docket/69702272/comans-v-department-of-homeland-security/
 
+- name: Federal Housing Finance Agency
+  acronym: FHFA
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Michael Mirski
+
 - name: Food and Drug Administration
   acronym: FDA
   events:
@@ -920,15 +1016,41 @@ agencies:
 
 - name: General Services Administration
   acronym: GSA
-  people:
-  - Thomas Shedd
-  - Akash Bobba
-  - Edward Coristine
-  - Luke Farritor
-  - Ethan Shaotran
-  - Kyle Schutt
-  - Derek Geissler
-  - Nicole Hollander
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Nate Cavanaugh
+    - Edward Coristine
+    - Steve Davis
+    - Luke Farritor
+    - Jeremy Lewin
+    - Adam Ramada
+    - Ethan Shaotran
+  - source: https://www.wired.com/story/doge-government-salaries-elon-musk/
+    organization: Wired Magazine
+    date: 2025-03-04
+    context: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid in the GSA, but others are listed as volunteers for that agency
+    named:
+    - Kyle Schutt
+    - Nate Cavanaugh
+    - Edward Coristine
+    - Ethan Shaotran
+    - Luke Farritor
+    - Derek Geissler
+    - Nicole Hollander
+  - source: https://projects.propublica.org/elon-musk-doge-tracker/
+    organization: ProPublica
+    context: I am also including Executive Office of the President (EOP) positions
+    named:
+    - Ashley Boizelle
+    - Nate Cavanaugh
+    - Edward Coristine
+    - Nicole Hollander
+    - Erica Jehling
+    - Kyle Schutt
+    - Ethan Shaotran
+    - Thomas Shedd
   events:
   - date: 2025-02-12
     event: Dozens of workers within the Technology Transformation Service (TTS) are fired.
@@ -957,17 +1079,6 @@ agencies:
   - date: 2025-03-01
     event: Hours after the staff is hit with the RIF email, the DNS entry for 18F.gsa.gov is removed
     source: https://18f.gsa.gov/
-  - date: 2025-03-04
-    event: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid in the GSA, but others are listed as volunteers for that agency
-    named:
-    - Kyle Schutt
-    - Nate Cavanaugh
-    - Edward Coristine
-    - Ethan Shaotran
-    - Luke Farritor
-    - Derek Geissler
-    - Nicole Hollander
-    source: https://www.wired.com/story/doge-government-salaries-elon-musk/
   - date: 2025-03-06
     event: Thomas Shedd says in a statement that he expects TTS will be 50% smaller within weeks
     named:
@@ -995,19 +1106,34 @@ agencies:
     sorn: https://www.federalregister.gov/documents/2006/10/16/E6-17069/privacy-act-of-1974-notice-of-a-new-system-of-records
   sources:
   - https://www.wired.com/story/elon-musk-government-young-engineers/
-  - https://www.npr.org/2025/02/11/nx-s1-5293258/trump-gsa-budget-cuts-doge
-  - https://projects.propublica.org/elon-musk-doge-tracker/
 
 - name: Health and Human Services
   acronym: HHS
-  people:
-  - Edward Coristine
-  - Marko Elez
-  - Luke Farritor
-  - Aram Moghaddassi
-  - Rachel Riley
-  - Amy Gleason
-  - Brad Smith
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Luke Farritor
+    - Rachel Riley
+  - source: https://projects.propublica.org/elon-musk-doge-tracker/
+    organization: ProPublica
+    named:
+    - Luke Farritor
+    - Conor Fennessy
+    - Mattieu Gamache-Asselin
+    - Amy Gleason
+    - Clark Minor
+    - Rachel Riley
+  - source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
+    organization: Court filing in AFL-CIO et al. vs. Department of Labor
+    date: 2025-03-13
+    context: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
+    named:
+    - Edward Coristine
+    - Marko Elez
+    - Luke Farritor
+    - Aram Moghaddassi
+    - Rachel Riley
   events:
   - date: 2025-01-24
     event: Trump fires the HHS Inspector General in a late-night purge
@@ -1028,15 +1154,6 @@ agencies:
   - date: 2025-03-08
     event: DOGE staff are granted access to NDNH and objecting federal staff are "no longer with the agency"
     source: https://www.washingtonpost.com/business/2025/03/08/hhs-doge-child-support
-  - date: 2025-03-13
-    event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
-    named:
-    - Edward Coristine
-    - Marko Elez
-    - Luke Farritor
-    - Aram Moghaddassi
-    - Rachel Riley
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
   systems:
   - name: National Directory of New Hires
     acronym: NDNH
@@ -1048,9 +1165,17 @@ agencies:
 
 - name: Housing and Urban Development
   acronym: HUD
-  people:
-  - Scott Langmack
-  - Michael Mirski
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Scott Langmack
+    - Michael Mirski
+  - source: https://projects.propublica.org/elon-musk-doge-tracker/
+    organization: ProPublica
+    named:
+    - Scott Langmack
+    - Michael Mirski
   events:
   - date: 2025-01-26
     event: Spurred by rumors there would be a funding freeze, HUD grantees drew their funds early at 5x normal rate or $1.5 billion
@@ -1101,6 +1226,14 @@ agencies:
   sources:
   - https://www.nbcnews.com/politics/doge/doge-elon-musk-report-people-staff-what-we-know-news-rcna191260
 
+- name: Immigration and Customs Enforcement
+  acronym: ICE
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Marko Elez
+
 - name: Institute for Museum and Library Services
   acronym: IMLS
   people:
@@ -1148,6 +1281,13 @@ agencies:
 
 - name: Internal Revenue Service
   acronym: IRS
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Baris Akis
+    - Sam Corcos
+    - Gavin Kliger
   people:
   - Gavin Kliger
   - Sam Corcos
@@ -1205,10 +1345,11 @@ agencies:
 
 - name: National Aeronautics and Space Administration
   acronym: NASA
-  people:
-  - Scott Coulter
-  - Riley Sennott
-  - Alexander Simonpour
+  roundups:
+  - source: https://projects.propublica.org/elon-musk-doge-tracker/
+    organization: ProPublica
+    named:
+    - Scott Coulter
   events:
   - date: 2025-02-14
     event: NASA administrator emails all staff to report that "DOGE has arrived"
@@ -1231,6 +1372,11 @@ agencies:
 
 - name: National Oceanic and Atmospheric Administration
   acronym: NOAA
+  roundups:
+  - source: https://projects.propublica.org/elon-musk-doge-tracker/
+    organization: ProPublica
+    named:
+    - Nikhil Rajpal
   events:
   - date: 2025-02-04
     event: DOGE staff enter NOAA facilities
@@ -1281,8 +1427,6 @@ agencies:
 
 - name: National Security Agency
   acronym: NSA
-  people:
-  - Elon Musk
   events:
   - date: 2025-03-12
     event: Elon Musk visits the NSA to meet with its top administrator, General Timothy Haugh
@@ -1305,13 +1449,46 @@ agencies:
 
 - name: Office of Personnel Management
   acronym: OPM
-  date_started: 2025-01-20
-  date_completed: 2025-01-25
-  people:
-  - Akash Bobba
-  - Edward Coristine
-  - Gavin Kliger
-  - Riccardo Biasini
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Jacob Altik
+    - Anthony Armstrong
+    - Brian Bjelde
+    - Akash Bobba
+    - Riccardo Biasini
+    - Steve Davis
+    - Stephen Duarte
+    - Christina Hanna
+    - Greg Hogan
+    - Stephanie Holmes
+    - Gavin Kliger
+    - Bryanne-Michelle Mlodzianowski
+    - Justin Monroe
+    - Noah Peters
+    - Nikhil Rajpal
+    - Austin Raynor
+    - Amanda Scales
+    - Christopher Stanley
+    - Chris Young
+  - source: https://projects.propublica.org/elon-musk-doge-tracker/
+    organization: ProPublica
+    named:
+    - Anthony Armstrong
+    - Riccardo Biasini
+    - Brian Bjelde
+    - Akash Bobba
+    - Stephen Duarte
+    - Stephen Ehikian
+    - Joe Gebbia
+    - Christina Hanna
+    - Greg Hogan
+    - Bryanne-Michelle Mlodzianowski
+    - Noah Peters
+    - Nikhil Rajpal
+    - Austin Raynor
+    - Amanda Scales
   events:
   - date: 2025-01-20
     event: Acting OPM Director Charles Ezell replaces existing CIO Melvin Brown with Greg Hogan
@@ -1462,9 +1639,11 @@ agencies:
 
 - name: Small Business Administration
   acronym: SBA
-  people:
-  - Edward Coristine
-  - Donald Park
+  roundups:
+  - source: https://projects.propublica.org/elon-musk-doge-tracker/
+    organization: ProPublica
+    named:
+    - Edward Coristine
   events:
   - date: 2025-01-24
     event: Trump fires the SBA Inspector General in a late-night purge
@@ -1482,8 +1661,14 @@ agencies:
     case_no: 1:25-cv-00684
     link: https://www.courtlistener.com/docket/69715653/democracy-forward-foundation-v-us-department-of-the-treasury/
 
-- name: State Department
+- name: Department of State
   acronym: State
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Jeremy Lewin
+    - Tarak Makecha
   people:
   - Edward Coristine
   - Luke Farritor
@@ -1507,18 +1692,46 @@ agencies:
 
 - name: Social Security Administration
   acronym: SSA
-  people:
-  - Akash Bobba
-  - Mike Russo
-  - Marko Elez
-  - Ethan Shaotran
-  - Nikhil Rajpal
-  - Cole Killian
-  - Antonio Gracias
-  - Luke Farritor
-  - Jon Koval
-  - Payton Rehling
-  - Ethan Shaotran
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Leland Dudek
+    - Antonio Gracias
+    - Cole Killian
+    - Jon Koval
+    - Payton Rehling
+    - Michael Russo
+    - Ethan Shaotran
+  - source: https://projects.propublica.org/elon-musk-doge-tracker/
+    organization: ProPublica
+    named:
+    - Michael Russo
+  - source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
+    context: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
+    organization: The Handbasket
+    date: 2025-02-20
+    named:
+    - Leland Dudek
+    - Ethan Shaotran
+    - Nikhil Rajpal
+    - Cole Killian
+    - Marko Elez
+  - source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
+    organization: Wired Magazine
+    date: 2025-03-13
+    context: Wired reports that 10 DOGE staffer – Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran – are showing up in the Microsoft Teams directory at SSA
+    named:
+    - Akash Bobba
+    - Scott Coulter
+    - Marko Elez
+    - Luke Farritor
+    - Antonio Gracias
+    - Cole Killian
+    - Jon Koval
+    - Nikhil Rajpal
+    - Payton Rehling
+    - Ethan Shaotran
   events:
   - date: 2025-01-30
     event: Leland Dudek reaches out to Tiffany Flick, the Associate Director of Budget, Facilities and Security to inform her two DOGE staff would be onboarding. He was a mid-level employee at the time.
@@ -1594,15 +1807,6 @@ agencies:
     named:
     - Ethan Shaotran
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
-  - date: 2025-02-20
-    event: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
-    source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
-    named:
-    - Leland Dudek
-    - Ethan Shaotran
-    - Nikhil Rajpal
-    - Cole Killian
-    - Marko Elez
   - date: 2025-02-26
     event: According to a sworn declaration, "employee 8, an engineer, was detailed from Office of Personnel Management to SSA. His duties currently relate to improper payments and death data."
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
@@ -1628,20 +1832,6 @@ agencies:
   - date: 2025-03-12
     event: Multiple SSA employees told ProPublica, their tech systems seem to be crashing nearly every day, leading to more delays in serving beneficiaries.
     source: https://www.propublica.org/article/recording-reveals-leland-dudek-thoughts-trump-doge-social-security
-  - date: 2025-03-13
-    event: Wired reports that 10 DOGE staffer – Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran – are showing up in the Microsoft Teams directory at SSA
-    named:
-    - Akash Bobba
-    - Scott Coulter
-    - Marko Elez
-    - Luke Farritor
-    - Antonio Gracias
-    - Gautier Cole Killian
-    - Jon Koval
-    - Nikhil Rajpal
-    - Payton Rehling
-    - Ethan Shaotran
-    source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
   - date: 2025-03-20
     event: In a ruling for AFL-CIO vs. SSA, Judge Hollander grants a temporary restraining order enjoining DOGE from having any access to SSA systems or installing any software as well as ordering them to delete any data
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.48.0.pdf
@@ -1698,11 +1888,6 @@ agencies:
 
 - name: U.S. African Development Foundation
   acronym: USADF
-  people:
-  - Chris Young
-  - Jacob Altik
-  - Ethan Shaotran
-  - Nate Cavanaugh
   events:
   - date: 2025-02-19
     event: Trump issues an Executive Order "Commencing the Reduction of the Federal Bureaucracy" targeting the Presidio Trust, the Inter-American Foundation, the United States African Development Foundation and the United States Institute of Peace for reductions.
@@ -1793,13 +1978,19 @@ agencies:
 
 - name: "US Agency for International Development"
   acronym: USAID
-  people:
-  - Edward Coristine
-  - Gavin Kliger
-  - Luke Farritor
-  - Pete Marocco
-  - Jeremy Lewin
-  - Kenneth Jackson
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Edward Coristine
+    - Luke Farritor
+    - Gavin Kliger
+    - Jeremy Lewin
+  - source: https://projects.propublica.org/elon-musk-doge-tracker/
+    organization: ProPublica
+    named:
+    - Gavin Kliger
+    - Jeremy Lewin
   events:
   - date: 2025-01-27
     event: A DOGE official first arrives at USAID. Later, senior staff are summoned to a meeting with Gavin Kliger and Luke Farritor.
@@ -1896,10 +2087,6 @@ agencies:
   - https://www.nextgov.com/people/2025/02/doge-deputies-land-state-department-tech-bureau-usaid-emails/402888/
 
 - name: US Institute of Peace
-  people:
-  - Kenneth Jackson
-  - Jacob Altik
-  - Nate Cavanaugh
   acronym: USIP
   events:
   - date: 2025-02-19
@@ -2005,8 +2192,15 @@ agencies:
 
 - name: Veterans Affairs
   acronym: VA
-  people:
-  - Justin Fulcher
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Justin Fulcher
+  - source: https://projects.propublica.org/elon-musk-doge-tracker/
+    organization: ProPublica
+    named:
+    - Justin Fulcher
   events:
   - date: 2025-01-24
     event: Trump fires the VA Inspector General in a late-night purge

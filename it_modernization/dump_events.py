@@ -26,6 +26,12 @@ def read_yaml(file_path):
                 events.append({'agency': agency['name'], 'acronym': acronym, 'event': f'{acronym} named as defendant in new lawsuit {case["name"]} (Case No {case["case_no"]})', 'date': case['date_filed'], 'source': case['link'], 'order': i})
                 i += 1
 
+        if 'roundups' in agency:
+            for roundup in agency['roundups']:
+                if 'date' in roundup and 'context' in roundup:
+                    events.append({'agency': agency['name'], 'acronym': acronym, 'event': roundup['context'], 'date': roundup['date'], 'source': roundup['source'], 'order': i})
+                    i += 1
+
     return sorted(events, key=lambda x: (x['date'], x['agency'], x['order']))
 
 
