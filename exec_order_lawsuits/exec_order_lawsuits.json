@@ -1806,6 +1806,28 @@
                         }
                     ],
                     "title": "Continuing the Reduction of the Federal Bureaucracy (Executive Order 14238)"
+                },
+                {
+                    "cases": [
+                        {
+                            "case_link": {
+                                "title": "Widakuswara v. Kari Lake",
+                                "url": "https://www.courtlistener.com/docket/69771249/widakuswara-v-kari-lake-in-her-official-capacity-as-senior-advisor-to-the/"
+                            },
+                            "case_name": "Widakuswara v. Kari Lake (S.D.N.Y.) Case No. 1:25-cv-02390",
+                            "case_summary": "[Coming soon]",
+                            "case_summary_html": "[Coming soon]",
+                            "complaint_link": {
+                                "title": "Complaint",
+                                "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.639139/gov.uscourts.nysd.639139.1.0.pdf"
+                            },
+                            "complaint_link_text": "Complaint",
+                            "date_filed": "2025-03-21",
+                            "last_update": "2025-03-21"
+                        }
+                    ],
+                    "links": [],
+                    "title": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.639139/gov.uscourts.nysd.639139.1.0.pdf"
                 }
             ],
             "title": "Government Grants, Loans and Assistance"
@@ -2721,5 +2743,5 @@
             "title": "Other/Miscellaneous"
         }
     ],
-    "last_updated": "2025-03-21"
+    "last_updated": "2025-03-22"
 }
