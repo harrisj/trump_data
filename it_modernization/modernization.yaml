@@ -281,6 +281,9 @@ agencies:
   - date: 2025-02-24
     event: A court ruling names the systems NSLDS, COD, FAS and FMS as being accessed by DOGE
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.38.0.pdf
+  - date: 2025-03-24
+    event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge Boardman issues a preliminary injunction against to internal systems at the Departoment of Education by DOGE staff and the Acting Secretary where the justification for access was "the DOGE agenda" (i.e., all of them)
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.69.0.pdf
   systems:
   - name: Common Origination and Disbursement System
     acronym: COD
@@ -832,6 +835,12 @@ agencies:
     - Marko Elez
     - Ryan Wunderly
     source: https://www.politico.com/news/2025/02/20/treasury-irs-data-white-house-doge-00205391
+  - date: 2025-03-24
+    event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge Boardman issues a preliminary injunction against DOGE access to internal systems at the Departoment of the Treasury where the justification for access was "the DOGE agenda" (i.e., all of them)
+    named:
+    - Tom Krause
+    - Ryan Wunderly
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.69.0.pdf
   systems:
   - name: Federal Disbursement Services
     acronym: FDS
@@ -1562,8 +1571,15 @@ agencies:
     event: A lawyer for the plaintiffs accuses the DOJ of misrepresenting Altik's participation "perhaps to preserve the illusion that OPM’s counsel were ignorant of what OPM was doing with the Government-Wide Email System, or perhaps to obscure the role of DOGE and the White House in this case."
     source: https://fedscoop.com/doge-lawyer-opm-email-lawsuit-jacob-altik/
   - date: 2025-03-20
-    event: President Trump issues an executive order that
+    event: President Trump issues an executive order that requests OPM to redefine regulations to give them more power to terminate employees at other agencies
     source: https://www.whitehouse.gov/presidential-actions/2025/03/strengthening-the-suitability-and-fitness-of-the-federal-workforce/
+  - date: 2025-03-24
+    event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge Boardman issues a preliminary injunction against access to internal systems at OPM by DOGE staff, but still allows it for OPM leadership including Ezell, Scales and Hogan
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.69.0.pdf
+    named:
+    - Charles Ezell
+    - Amanda Scales
+    - Greg Hogan
   systems:
   - name: UsaJobs
     description: Official hiring site for the federal government
