@@ -1080,6 +1080,9 @@ agencies:
   - date: 2025-02-25
     event: GSA reportedly spending $25,000 to install a washer and dryer near a makeshift sleeping area occupied by DOGE
     source: https://timesofindia.indiatimes.com/world/us/doges-controversial-office-culture-ikea-beds-and-secret-sleeping-spaces-among-federal-staff/articleshow/118782925.cms
+  - date: 2025-02-26
+    event: Without any warning, GSA puts a $1 spending limit on all government purchase cards following an executive order by Trump. This predictably creates a large amount of chaos by destroying the ability of agencies to do micro-purchases allowed by law.
+    source: https://www.washingtonpost.com/politics/2025/03/09/doge-government-credit-card-limits
   - date: 2025-02-27
     event: Thomas Shedd, an engineer who has worked 8 years at Tesla, is named the head of GSA's Technology Transformation Services (TTS)
     source: https://executivegov.com/2025/01/gsa-jan-2025-leadership-appointments-fas-pbs-tts/#Thomas_Shedd
@@ -1419,6 +1422,9 @@ agencies:
     - Jeremy Lewin
     - Clark Minor
     source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
+  - date: 2025-03-20
+    event: Access to purchase cards are restored at NIH for nonemergency purchases, but scientists face a huge backlog in processing orders for supplies.
+    source: https://www.nytimes.com/2025/03/24/health/nih-doge-trump.html
   systems:
   - name: NIH Business System
     acronym: NBS
@@ -1858,8 +1864,11 @@ agencies:
     event: Leland Dudek threatens to shut down the entire Social Security Administration instead of complying with the order
     source: https://www.washingtonpost.com/politics/2025/03/21/social-security-benefits-trump-doge/
   - date: 2025-03-24
-    event: SSA defendants and DOGE staff are required to file a status report documenting compliance with the restraining order
-    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.48.0.pdf
+    event: In a status update, SSA leadership confirms "SSA has revoked all SSA DOGE Team members’ access to SSA systems of records, including but not limited to the Enterprise Data Warehouse, Numident, Master Beneficiary Record, and Supplemental Security Record"
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.56.0.pdf
+  - date: 2025-03-26
+    event: During his confirmation hearing, Frank Bisignano, the nominee to run the agency, confirms that he had coordinated with Michael Russo but denied a whistleblower report that he had ordered the appointment of DOGE staff there
+    source: https://thehill.com/homenews/5212751-sen-wyden-questions-bisignano/
   systems:
   - name: Anti-Fraud Enterprise Solution
     acronym: AFES
