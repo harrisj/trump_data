@@ -26,7 +26,7 @@
                             "description": "The description of the event"
                         },
                         "name": {
-                            "type": "string",
+                            "$ref": "valid_names.json#people",
                             "description": "The name of the DOGE staffer (provided in here for convenience)"
                         },
                         "event": {
