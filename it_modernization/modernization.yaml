@@ -1881,6 +1881,12 @@ agencies:
   - date: 2025-03-24
     event: In a status update, SSA leadership confirms "SSA has revoked all SSA DOGE Team members' access to SSA systems of records, including but not limited to the Enterprise Data Warehouse, Numident, Master Beneficiary Record, and Supplemental Security Record"
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.56.0.pdf
+  - date: 2025-03-25
+    event: Scott Coulter is named the new CIO at the Social Security Administration and Mike Russo is moved to a Senior Advisor role with a focus on modernizing systems
+    named:
+    - Scott Coulter
+    - Mike Russo
+    source: https://www.nextgov.com/people/2025/03/ssa-tech-shop-be-led-another-doge-associate/404031/?oref=ng-homepage-river
   - date: 2025-03-26
     event: During his confirmation hearing, Frank Bisignano, the nominee to run the agency, confirms that he had coordinated with Michael Russo but denied a whistleblower report that he had ordered the appointment of DOGE staff there
     named:
