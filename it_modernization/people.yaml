@@ -758,6 +758,16 @@ Leland Dudek:
     event: In a meeting, Dudek stresses again that DOGE will make mistakes and also admits "I am receiving decisions that are made without my input. I have to effectuate those decisions," suggesting DOGE is in charge.
     name: Leland Dudek
     source: https://www.washingtonpost.com/politics/2025/03/06/doge-is-driving-social-security-cuts-will-make-mistakes-acting-head-says-privately/
+  - agency: Social Security Administration
+    date: '2025-03-20'
+    event: Leland Dudek threatens to shut down the entire Social Security Administration instead of complying with the order
+    name: Leland Dudek
+    source: https://www.washingtonpost.com/politics/2025/03/21/social-security-benefits-trump-doge/
+  - agency: Social Security Administration
+    date: '2025-03-26'
+    event: During his confirmation hearing, Frank Bisignano, the nominee to run the agency, confirms that he had coordinated with Michael Russo but denied a whistleblower report that he had ordered the appointment of DOGE staff there
+    name: Leland Dudek
+    source: https://thehill.com/homenews/5212751-sen-wyden-questions-bisignano/
 
 Luke Farritor:
   agencies:
@@ -924,6 +934,11 @@ Mike Russo:
     event: Akash Bobba reports issue with the "sandbox" data. Russo demands he gets immediate full access to Enterprise Data Warehouse (EDW), Master Beneficiary Record (MBR) and Supplemental Security Record (SSR) files as well as source code
     name: Mike Russo
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
+  - agency: Social Security Administration
+    date: '2025-03-26'
+    event: During his confirmation hearing, Frank Bisignano, the nominee to run the agency, confirms that he had coordinated with Michael Russo but denied a whistleblower report that he had ordered the appointment of DOGE staff there
+    name: Mike Russo
+    source: https://thehill.com/homenews/5212751-sen-wyden-questions-bisignano/
 
 Miles Collins:
   agencies:
