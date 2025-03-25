@@ -147,12 +147,12 @@ agencies:
     description: System for tracking CFPB finances. More details unknown.
   cases:
   - name: National Treasury Employees Union v. Russell Vought (D.D.C.)
-    description: The National Treasury Employees Union sued Acting Director of the Consumer Financial Protection Bureau (“CFPB”) Russell Vought seeking to block the Department of Government Efficiency’s (“DOGE’s”) access to sensitive information systems with CFPB employee records on the basis that the CFPB's decision to grant DOGE-affiliated individuals access to employee information and non-classified systems violated the Privacy Act and CFPB regulations.
+    description: The National Treasury Employees Union sued Acting Director of the Consumer Financial Protection Bureau ("CFPB") Russell Vought seeking to block the Department of Government Efficiency's ("DOGE's") access to sensitive information systems with CFPB employee records on the basis that the CFPB's decision to grant DOGE-affiliated individuals access to employee information and non-classified systems violated the Privacy Act and CFPB regulations.
     case_no: 1:25-cv-00380
     date_filed: 2025-02-09
     link: https://www.courtlistener.com/docket/69624412/national-treasury-employees-union-v-vought/
   - name: National Treasury Employees Union v. Russell Vought (D.D.C.)
-    description: National Treasury Employees Union, representing employees across 37 federal agencies and departments including the Consumer Financial Protection Bureau (“CFPB”), challenged the Trump Administration's efforts to shut down the CFPB and requested a temporary restraining order against the CFPB and Acting Director Russell Vought. A federal judge ordered the Administration to stop deleting and removing records, terminating employees without cause, or disbursing funds except for operating expenses, while the case proceeds.
+    description: National Treasury Employees Union, representing employees across 37 federal agencies and departments including the Consumer Financial Protection Bureau ("CFPB"), challenged the Trump Administration's efforts to shut down the CFPB and requested a temporary restraining order against the CFPB and Acting Director Russell Vought. A federal judge ordered the Administration to stop deleting and removing records, terminating employees without cause, or disbursing funds except for operating expenses, while the case proceeds.
     case_no: 1:25-cv-00381
     date_filed: 2025-02-09
     link: https://www.courtlistener.com/docket/69624423/national-treasury-employees-union-v-vought/
@@ -278,7 +278,7 @@ agencies:
     event: A federal judge denied an attempt to block DOGE from accessing Department of Education systems related to financial aid
     source: https://www.usatoday.com/story/news/education/2025/02/18/doge-student-data-education-department-judge-approves/79062995007/
   - date: 2025-02-24
-    event: In a ruling, a judge declared "DOGE affiliates have been granted access to systems of record that contain some of the plaintiffs’ most sensitive data — Social Security numbers, dates of birth, home addresses, income and assets, citizenship status, and disability status — and their access to this trove of personal information is ongoing"
+    event: In a ruling, a judge declared "DOGE affiliates have been granted access to systems of record that contain some of the plaintiffs' most sensitive data - Social Security numbers, dates of birth, home addresses, income and assets, citizenship status, and disability status - and their access to this trove of personal information is ongoing"
     source: https://www.nbcnews.com/politics/doge/judge-blocks-department-education-federal-personnel-office-sharing-dat-rcna193453
   - date: 2025-02-24
     event: A court ruling names the systems NSLDS, COD, FAS and FMS as being accessed by DOGE
@@ -325,22 +325,22 @@ agencies:
     sorn: https://www.federalregister.gov/documents/2024/05/21/2024-11136/privacy-act-of-1974-system-of-records
   cases:
   - name: University of California Student Assn. v. Carter et al
-    description: The University of California Student Association sued the Department of Education seeking to block the Department of Government Efficiency’s (“DOGE’s”) access to sensitive information systems containing student data on the basis that such access violates the Administrative Procedure Act, the Privacy Act, and the Internal Revenue Code. A federal court denied the request to temporarily block DOGE’s access while the case proceeds.
+    description: The University of California Student Association sued the Department of Education seeking to block the Department of Government Efficiency's ("DOGE's") access to sensitive information systems containing student data on the basis that such access violates the Administrative Procedure Act, the Privacy Act, and the Internal Revenue Code. A federal court denied the request to temporarily block DOGE's access while the case proceeds.
     case_no: 1:25-cv-00354
     date_filed: 2025-02-07
     link: https://www.courtlistener.com/docket/69620025/university-of-california-student-association-v-carter/
   - name: American Federation of Teachers et al v. Bessent et al (D. Md.)
-    description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management (“OPM”), and the Department of Education (”DOE”), challenging the agencies’ disclosure of sensitive personal information to Department of Government Efficiency (”DOGE”) employees.
+    description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management ("OPM"), and the Department of Education ("DOE"), challenging the agencies' disclosure of sensitive personal information to Department of Government Efficiency ("DOGE") employees.
     case_no: 8:25-cv-00430
     date_filed: 2025-02-10
     link: https://www.courtlistener.com/docket/69627648/american-federation-of-teachers-v-scott-bessent/
   - name: State of New York v. McMahon (D.Mass)
-    description: Twenty states and the District of Columbia requested the court to halt the announced Department of Education (DOE) and the Trump administration’s planned Reduction in Force (RIF) of half of the remaining employees of the DOE and closure of the DOE.
+    description: Twenty states and the District of Columbia requested the court to halt the announced Department of Education (DOE) and the Trump administration's planned Reduction in Force (RIF) of half of the remaining employees of the DOE and closure of the DOE.
     case_no: 1:25-cv-10601
     date_filed: 2025-03-13
     link: https://www.courtlistener.com/docket/69732750/state-of-new-york-v-mcmahon/
   - name: Democracy Forward Foundation v. U.S. Department of the Treasury (D.D.C.)
-    description: On Jan. 31 and Feb. 6, 2025, Democracy Forward filed several FOIA requests with the Department of the Treasury, Department of Education, and Small Business Administration, seeking documents from Jan. 20, 2025 onwards following allegations that DOGE staffers and DOGE-affiliated staff “were influencing important functions and policy decisions at agencies across the Executive Branch.” These agencies acknowledged receipt but sent no further communications. The Plaintiff states these agencies failed to respond within the statutorily mandated time period under FOIA
+    description: On Jan. 31 and Feb. 6, 2025, Democracy Forward filed several FOIA requests with the Department of the Treasury, Department of Education, and Small Business Administration, seeking documents from Jan. 20, 2025 onwards following allegations that DOGE staffers and DOGE-affiliated staff "were influencing important functions and policy decisions at agencies across the Executive Branch." These agencies acknowledged receipt but sent no further communications. The Plaintiff states these agencies failed to respond within the statutorily mandated time period under FOIA
     date_filed: 2025-03-07
     case_no: 1:25-cv-00684
     link: https://www.courtlistener.com/docket/69715653/democracy-forward-foundation-v-us-department-of-the-treasury/
@@ -544,7 +544,7 @@ agencies:
     event: In a ruling in J. Doe 1-26 v. Musk (D. Md), Judge Theodore D. Chuang declares that evidence shows that Elon Musk was effectively running DOGE without being appointed to the role
     source: https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rZttxcbH9cfc/v0
   - date: 2025-03-19
-    event: In another sworn statement, Amy Gleason declares "every member of an agency’s DOGE Team is an employee of the agency or a detailee to the agency." She does clarify that some are detailed from USDS but also claims they report to agency heads.
+    event: In another sworn statement, Amy Gleason declares "every member of an agency's DOGE Team is an employee of the agency or a detailee to the agency." She does clarify that some are detailed from USDS but also claims they report to agency heads.
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277646/gov.uscourts.dcd.277646.24.2.pdf
   - date: 2025-03-19
     event: In a sworn statement, Jeremy Lewin declares he has never been an employee of USDS or Elon Musk but reports he was the DOGE team lead at USAID for a while
@@ -565,27 +565,27 @@ agencies:
     link: https://www.courtlistener.com/docket/69559444/public-citizen-inc-v-trump/
     status: closed
   - name: Center for Biological Diversity v. Office of Management and Budget (D.D.C.)
-    description: The Center for Biological Diversity sued the Office of Management and Budget under the Freedom of Information Act, demanding records related to communications between OMB and DOGE’s leadership or those acting on its behalf.
+    description: The Center for Biological Diversity sued the Office of Management and Budget under the Freedom of Information Act, demanding records related to communications between OMB and DOGE's leadership or those acting on its behalf.
     case_no: 1:25-cv-00165
     date_filed: 2025-01-20
     link: https://www.courtlistener.com/docket/69559509/center-for-biological-diversity-v-office-of-management-and-budget/
   - name: J. Doe 1-26 v. Musk (D. Md)
-    description: Twenty-six current and former employees of the U.S. Agency for International Development (“USAID”) sued Elon Musk and the Department of Government Efficiency (“DOGE”) alleging that Musk's appointment to his role as head of DOGE violates the Constitution’s Appointments Clause
+    description: Twenty-six current and former employees of the U.S. Agency for International Development ("USAID") sued Elon Musk and the Department of Government Efficiency ("DOGE") alleging that Musk's appointment to his role as head of DOGE violates the Constitution's Appointments Clause
     case_no: 8:25-cv-00462-TDC
     date_filed: 2025-02-13
     link: https://www.courtlistener.com/docket/69636722/does-1-26-v-musk/
   - name: New Mexico et al v. Musk (D.D.C.)
-    description: Fourteen states sued Elon Musk and the Department of Government Efficiency (“DOGE”) alleging that Musk's appointment to his role as head of DOGE violates the Constitution’s Appointments Clause
+    description: Fourteen states sued Elon Musk and the Department of Government Efficiency ("DOGE") alleging that Musk's appointment to his role as head of DOGE violates the Constitution's Appointments Clause
     case_no: 1.25-cv-00429
     date_filed: 2025-02-13
     link: https://www.courtlistener.com/docket/69638651/new-mexico-state-of-v-musk/
   - name: Japanese American Citizens League v. Musk (D.D.C.)
-    description: Plaintiffs allege that they are harmed by DOGE’s cutting of federal funding and firing of federal employees, including in the work of the National Park Service and historic sites, and they are violating the separation of powers, Appointments Clause and Administrative Procedure Act
+    description: Plaintiffs allege that they are harmed by DOGE's cutting of federal funding and firing of federal employees, including in the work of the National Park Service and historic sites, and they are violating the separation of powers, Appointments Clause and Administrative Procedure Act
     case_no: 1:25-cv-00643
     date_filed: 2025-03-05
     link: https://www.courtlistener.com/docket/69706944/japanese-american-citizens-league-v-musk/
   - name: Gribbon et al. v. Musk (D.D.C.)
-    description: Six individuals sued Elon Musk, the Office of Personnel Management (”OPM”), and the Treasury for sharing personal information. The plaintiffs argue that by sharing their private information, Musk and the agencies violated federal laws.
+    description: Six individuals sued Elon Musk, the Office of Personnel Management ("OPM"), and the Treasury for sharing personal information. The plaintiffs argue that by sharing their private information, Musk and the agencies violated federal laws.
     date_filed: 2025-02-12
     case_no: 1:25-cv-00422
     link: https://www.courtlistener.com/docket/69635650/gribbon-v-musk/
@@ -595,7 +595,7 @@ agencies:
     case_no: 1:25-cv-00409
     link: https://www.courtlistener.com/docket/69630062/oversight-v-efficiency/
   - name: Project on Government Oversight, Inc. v. Trump (D.D.C)
-    description: Plaintiff alleges that DOGE has “run roughshod over record keeping requirements,” including by misclassifying agency records as covered by the Presidential Records Act (rather than the Freedom of Information Act) and requiring partner agencies to notify DOGE of any oversight requests related to DOGE’s work.
+    description: Plaintiff alleges that DOGE has "run roughshod over record keeping requirements," including by misclassifying agency records as covered by the Presidential Records Act (rather than the Freedom of Information Act) and requiring partner agencies to notify DOGE of any oversight requests related to DOGE's work.
     date_filed: 2025-02-21
     case_no: 1:25-cv-00527
     link: https://www.courtlistener.com/docket/69661712/project-on-government-oversight-inc-v-trump/
@@ -689,7 +689,7 @@ agencies:
     event: Trump fires the Inspector General for the Department of Labor in a late-night purge
     source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
   - date: 2025-02-04
-    event: DOL staff reportedly ordered "to give DOGE access to whatever they ask for—or risk termination"
+    event: DOL staff reportedly ordered "to give DOGE access to whatever they ask for-or risk termination"
     source: https://bsky.app/profile/kimkelly.bsky.social/post/3lhf2owbxc22b
   - date: 2025-02-05
     event: DOGE staff are given access to the Department of Labor IT systems
@@ -714,11 +714,11 @@ agencies:
     - Keith Sonderling
     source: https://news.artnet.com/art-world/doge-imls-institute-museum-library-services-2623286
   - date: 2025-03-20
-    event: Trump issues an executive order which explicitly includes an instruction that "the Secretary of Labor and the Secretary’s designees shall receive, to the maximum extent consistent with law, unfettered access to all unemployment data and related payment records, including all such data and records currently available to the Department of Labor’s Office of Inspector General."
+    event: Trump issues an executive order which explicitly includes an instruction that "the Secretary of Labor and the Secretary's designees shall receive, to the maximum extent consistent with law, unfettered access to all unemployment data and related payment records, including all such data and records currently available to the Department of Labor's Office of Inspector General."
     source: https://www.whitehouse.gov/presidential-actions/2025/03/stopping-waste-fraud-and-abuse-by-eliminating-information-silos/
   cases:
-  - name: AFL-CIO v. Dep’t of Labor (D.D.C.)
-    description: A coalition of labor unions sued the Department of Labor (“DOL”), the Department of Government Efficiency (“DOGE”), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court denied requests to temporarily block DOGE’s access while the case proceeds, but indicated further analysis was needed in particular on the Economy Act claims.
+  - name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed in particular on the Economy Act claims.
     case_no: 1:25-cv-00339
     date_filed: 2025-02-05
     link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
@@ -876,27 +876,27 @@ agencies:
     date_filed: 2025-03-07
     link: https://www.courtlistener.com/docket/69714586/centro-de-trabajadores-unidos-v-bessent/
   - name: Alliance for Retired Americans v. Scott Bessent et al (D.D.C.)
-    description: A group of labor unions representing federal employees sued Secretary of the Treasury Scott Bessent and others alleging that individuals affiliated with the Department of Government Efficiency (“DOGE”) were granted unauthorized access to sensitive Treasury Department records in violation of the Privacy Act and the IRS Code. Both parties agreed to an order limiting access to Treasury payment records to specific individuals with “read-only” access.
+    description: A group of labor unions representing federal employees sued Secretary of the Treasury Scott Bessent and others alleging that individuals affiliated with the Department of Government Efficiency ("DOGE") were granted unauthorized access to sensitive Treasury Department records in violation of the Privacy Act and the IRS Code. Both parties agreed to an order limiting access to Treasury payment records to specific individuals with "read-only" access.
     case_no: 1:25-cv-00313
     date_filed: 2025-02-03
     link: https://www.courtlistener.com/docket/69607077/alliance-for-retired-americans-v-bessent/
   - name: New York et al v. Donald J. Trump (S.D.N.Y.)
-    description: Nineteen state attorneys general sued President Donald Trump and Secretary of the Treasury Scott Bessent alleging that individuals affiliated with the Department of Government Efficiency (“DOGE”) were granted unauthorized access to sensitive Treasury Department records in violation of the Administrative Procedure Act, the Privacy Act, and other ethics statutes.
+    description: Nineteen state attorneys general sued President Donald Trump and Secretary of the Treasury Scott Bessent alleging that individuals affiliated with the Department of Government Efficiency ("DOGE") were granted unauthorized access to sensitive Treasury Department records in violation of the Administrative Procedure Act, the Privacy Act, and other ethics statutes.
     case_no: 1:25-cv-01144-JAV
     date_filed: 2025-02-07
     link: https://www.courtlistener.com/docket/69623558/state-of-new-york-v-donald-j-trump/
   - name: American Federation of Teachers et al v. Bessent et al (D. Md.)
-    description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management (“OPM”), and the Department of Education (”DOE”), challenging the agencies’ disclosure of sensitive personal information to Department of Government Efficiency (”DOGE”) employees.
+    description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management ("OPM"), and the Department of Education ("DOE"), challenging the agencies' disclosure of sensitive personal information to Department of Government Efficiency ("DOGE") employees.
     case_no: 8:25-cv-00430
     date_filed: 2025-02-10
     link: https://www.courtlistener.com/docket/69627648/american-federation-of-teachers-v-scott-bessent/
   - name: Gribbon et al. v. Musk (D.D.C.)
-    description: Six individuals sued Elon Musk, the Office of Personnel Management (”OPM”), and the Treasury for sharing personal information. The plaintiffs argue that by sharing their private information, Musk and the agencies violated federal laws.
+    description: Six individuals sued Elon Musk, the Office of Personnel Management ("OPM"), and the Treasury for sharing personal information. The plaintiffs argue that by sharing their private information, Musk and the agencies violated federal laws.
     date_filed: 2025-02-12
     case_no: 1:25-cv-00422
     link: https://www.courtlistener.com/docket/69635650/gribbon-v-musk/
   - name: Democracy Forward Foundation v. U.S. Department of the Treasury (D.D.C.)
-    description: On Jan. 31 and Feb. 6, 2025, Democracy Forward filed several FOIA requests with the Department of the Treasury, Department of Education, and Small Business Administration, seeking documents from Jan. 20, 2025 onwards following allegations that DOGE staffers and DOGE-affiliated staff “were influencing important functions and policy decisions at agencies across the Executive Branch.” These agencies acknowledged receipt but sent no further communications. The Plaintiff states these agencies failed to respond within the statutorily mandated time period under FOIA
+    description: On Jan. 31 and Feb. 6, 2025, Democracy Forward filed several FOIA requests with the Department of the Treasury, Department of Education, and Small Business Administration, seeking documents from Jan. 20, 2025 onwards following allegations that DOGE staffers and DOGE-affiliated staff "were influencing important functions and policy decisions at agencies across the Executive Branch." These agencies acknowledged receipt but sent no further communications. The Plaintiff states these agencies failed to respond within the statutorily mandated time period under FOIA
     date_filed: 2025-03-07
     case_no: 1:25-cv-00684
     link: https://www.courtlistener.com/docket/69715653/democracy-forward-foundation-v-us-department-of-the-treasury/
@@ -1345,7 +1345,7 @@ agencies:
     event: The Post reports that DOGE is being granted access to only anonymized data from IDRS
     source: https://www.washingtonpost.com/business/2025/02/25/elon-musk-doge-data-privacy-security/
   - date: 2025-02-28
-    event: Gavin Kliger and Sam Corcos, DOGE representatives embedded at the tax agency, on Friday asked IRS lawyers to assist in creating an “omnibus” agreement with other federal agencies that would allow a broad swath of federal officials to cross-reference benefits rolls with taxpayer data
+    event: Gavin Kliger and Sam Corcos, DOGE representatives embedded at the tax agency, on Friday asked IRS lawyers to assist in creating an "omnibus" agreement with other federal agencies that would allow a broad swath of federal officials to cross-reference benefits rolls with taxpayer data
     source: https://www.washingtonpost.com/business/2025/03/01/doge-irs-tax-records-benefits/
   - date: 2025-03-03
     event: The head of HR, Traci DiMartini, is placed on administrative leave for refusing to bring in employees over the weekend to onboard Sam Corcos
@@ -1363,7 +1363,7 @@ agencies:
     risk: Access to PII and financial data of American taxpayers, including names, SSNs, tax returns, bank account numbers, etc.
   cases:
   - name: Center for Taxpayer Rights v. IRS (D.D.C)
-    description: Several organizations, on behalf of taxpayers, sued the Internal Revenue Service (”IRS”) and the Treasury, challenging the access to private tax information the agencies gave to the Department of Government Efficiency’s (”DOGE”)
+    description: Several organizations, on behalf of taxpayers, sued the Internal Revenue Service ("IRS") and the Treasury, challenging the access to private tax information the agencies gave to the Department of Government Efficiency's ("DOGE")
     date_filed: 2025-02-17
     case_no: 1:25-cv-00457
     link: https://www.courtlistener.com/docket/69646607/center-for-taxpayer-rights-v-internal-revenue-service/
@@ -1428,7 +1428,7 @@ agencies:
   - Clark Minor
   events:
   - date: 2025-02-24
-    event: Reports that DOGE have accounts are working with the NIH Business System Department for NIH’s central electronic business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
+    event: Reports that DOGE have accounts are working with the NIH Business System Department for NIH's central electronic business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
     named:
     - Luke Farritor
     - Rachel Riley
@@ -1587,7 +1587,7 @@ agencies:
     event: All government employees receive a second email telling them they must list their accomplishments every Monday by 11:59pm
     source: https://www.npr.org/2025/03/01/g-s1-51490/federal-workers-new-email-accomplishments
   - date: 2025-03-18
-    event: A lawyer for the plaintiffs accuses the DOJ of misrepresenting Altik's participation "perhaps to preserve the illusion that OPM’s counsel were ignorant of what OPM was doing with the Government-Wide Email System, or perhaps to obscure the role of DOGE and the White House in this case."
+    event: A lawyer for the plaintiffs accuses the DOJ of misrepresenting Altik's participation "perhaps to preserve the illusion that OPM's counsel were ignorant of what OPM was doing with the Government-Wide Email System, or perhaps to obscure the role of DOGE and the White House in this case."
     source: https://fedscoop.com/doge-lawyer-opm-email-lawsuit-jacob-altik/
   - date: 2025-03-20
     event: President Trump issues an executive order that requests OPM to redefine regulations to give them more power to terminate employees at other agencies
@@ -1643,32 +1643,32 @@ agencies:
     date_filed: 2025-01-27
     link: https://www.courtlistener.com/docket/69582338/doe-v-office-of-personnel-management/
   - name: American Federation of Teachers et al v. Bessent et al (D. Md.)
-    description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management (“OPM”), and the Department of Education (”DOE”), challenging the agencies’ disclosure of sensitive personal information to Department of Government Efficiency (”DOGE”) employees.
+    description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management ("OPM"), and the Department of Education ("DOE"), challenging the agencies' disclosure of sensitive personal information to Department of Government Efficiency ("DOGE") employees.
     case_no: 8:25-cv-00430
     date_filed: 2025-02-10
     link: https://www.courtlistener.com/docket/69627648/american-federation-of-teachers-v-scott-bessent/
   - name: Electronic Privacy Information Center v. U.S. Office of Personnel Management (E.D.V.A.)
-    description: The Electronic Privacy Information Center (“EPIC”) and a federal employee sued the Office of Personnel Management (“OPM”) and the Treasury Department, challenging the agencies’ disclosure of sensitive personal information to Department of Government Efficiency (“DOGE”) employees. The court denied their request to block DOGE’s access because the possible scenarios for harm were too speculative.
+    description: The Electronic Privacy Information Center ("EPIC") and a federal employee sued the Office of Personnel Management ("OPM") and the Treasury Department, challenging the agencies' disclosure of sensitive personal information to Department of Government Efficiency ("DOGE") employees. The court denied their request to block DOGE's access because the possible scenarios for harm were too speculative.
     case_no: 1:25-cv-00255
     date_filed: 2025-02-10
     link: https://www.courtlistener.com/docket/69627950/electronic-privacy-information-center-v-us-office-of-personnel/
   - name: American Federation of Government Employees, et al. v. Office of Personnel Management et al (S.D.N.Y)
-    description: The American Federation of Government Employees and other plaintiffs sued the Office of Personnel Management (”OPM”), challenging the agencies’ alleging unlawful disclosure of sensitive personal information to Department of Government Efficiency (DOGE) employees.
+    description: The American Federation of Government Employees and other plaintiffs sued the Office of Personnel Management ("OPM"), challenging the agencies' alleging unlawful disclosure of sensitive personal information to Department of Government Efficiency (DOGE) employees.
     case_no: 1:25-cv-01237
     date_filed: 2025-02-11
     link: https://www.courtlistener.com/docket/69631573/unknown-case-title/
   - name: Nemeth-Greenleaf, et al. v. Office of Personnel Management, et al. (D.D.C.)
-    description: Federal employees have sued the Office of Personnel Management (”OPM”) and the Treasury, challenging the agencies’ disclosure of personal, health, and financial information to the Department of Government Efficiency's (”DOGE”) employees. The plaintiffs argue the disclosure violates federal laws. They have asked the court to stop further disclosure and compensation for harm.
+    description: Federal employees have sued the Office of Personnel Management ("OPM") and the Treasury, challenging the agencies' disclosure of personal, health, and financial information to the Department of Government Efficiency's ("DOGE") employees. The plaintiffs argue the disclosure violates federal laws. They have asked the court to stop further disclosure and compensation for harm.
     date_filed: 2025-02-11
     case_no: 1:25-cv-00407
     link: https://www.courtlistener.com/docket/69629660/nemeth-greenleaf-v-united-states-office-of-personnel-management/
   - name: Gribbon et al. v. Musk (D.D.C.)
-    description: Six individuals sued Elon Musk, the Office of Personnel Management (”OPM”), and the Treasury for sharing personal information. The plaintiffs argue that by sharing their private information, Musk and the agencies violated federal laws.
+    description: Six individuals sued Elon Musk, the Office of Personnel Management ("OPM"), and the Treasury for sharing personal information. The plaintiffs argue that by sharing their private information, Musk and the agencies violated federal laws.
     date_filed: 2025-02-12
     case_no: 1:25-cv-00422
     link: https://www.courtlistener.com/docket/69635650/gribbon-v-musk/
-  - name: American Federation of Gov’t Employees, AFL-CIO v. Ezell (D. Mass)
-    description: Multiple labor unions sued the Office of Personnel Management (“OPM”), challenging the legality of the "deferred resignation" offer program.
+  - name: American Federation of Gov't Employees, AFL-CIO v. Ezell (D. Mass)
+    description: Multiple labor unions sued the Office of Personnel Management ("OPM"), challenging the legality of the "deferred resignation" offer program.
     date_filed: 2025-02-04
     case_no: 1:25-cv-10276
     link: https://www.courtlistener.com/docket/69610323/american-federation-of-government-employees-afl-cio-v-ezell/
@@ -1694,7 +1694,7 @@ agencies:
     source: https://democrats-smallbusiness.house.gov/uploadedfiles/letter_to_sba_system_access_feb._3_2025_final12.pdf
   cases:
   - name: Democracy Forward Foundation v. U.S. Department of the Treasury (D.D.C.)
-    description: On Jan. 31 and Feb. 6, 2025, Democracy Forward filed several FOIA requests with the Department of the Treasury, Department of Education, and Small Business Administration, seeking documents from Jan. 20, 2025 onwards following allegations that DOGE staffers and DOGE-affiliated staff “were influencing important functions and policy decisions at agencies across the Executive Branch.” These agencies acknowledged receipt but sent no further communications. The Plaintiff states these agencies failed to respond within the statutorily mandated time period under FOIA
+    description: On Jan. 31 and Feb. 6, 2025, Democracy Forward filed several FOIA requests with the Department of the Treasury, Department of Education, and Small Business Administration, seeking documents from Jan. 20, 2025 onwards following allegations that DOGE staffers and DOGE-affiliated staff "were influencing important functions and policy decisions at agencies across the Executive Branch." These agencies acknowledged receipt but sent no further communications. The Plaintiff states these agencies failed to respond within the statutorily mandated time period under FOIA
     date_filed: 2025-03-07
     case_no: 1:25-cv-00684
     link: https://www.courtlistener.com/docket/69715653/democracy-forward-foundation-v-us-department-of-the-treasury/
@@ -1758,7 +1758,7 @@ agencies:
   - source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
     organization: Wired Magazine
     date: 2025-03-13
-    context: Wired reports that 10 DOGE staffer – Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran – are showing up in the Microsoft Teams directory at SSA
+    context: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     named:
     - Akash Bobba
     - Scott Coulter
@@ -1832,7 +1832,7 @@ agencies:
     named:
     - Leland Dudek
   - date: 2025-02-18
-    event: According to a sworn declaration by a Deputy Commissioner at SSA, "we began onboarding and training Employee 3, a Schedule C Policy Advisor, detailed from the Department of Labor to SSA" with it finalized on February 22. "His duties currently relate to improper payments and SSA’s Death Master File."
+    event: According to a sworn declaration by a Deputy Commissioner at SSA, "we began onboarding and training Employee 3, a Schedule C Policy Advisor, detailed from the Department of Labor to SSA" with it finalized on February 22. "His duties currently relate to improper payments and SSA's Death Master File."
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
   - date: 2025-02-18
     event: According to a sworn declaration, "SSA began onboarding and training Employee 5, an engineer, detailed from the United States DOGE Service to SSA" with an inter-agency agreement to DOGE.
@@ -1877,7 +1877,7 @@ agencies:
     event: Leland Dudek threatens to shut down the entire Social Security Administration instead of complying with the order
     source: https://www.washingtonpost.com/politics/2025/03/21/social-security-benefits-trump-doge/
   - date: 2025-03-24
-    event: In a status update, SSA leadership confirms "SSA has revoked all SSA DOGE Team members’ access to SSA systems of records, including but not limited to the Enterprise Data Warehouse, Numident, Master Beneficiary Record, and Supplemental Security Record"
+    event: In a status update, SSA leadership confirms "SSA has revoked all SSA DOGE Team members' access to SSA systems of records, including but not limited to the Enterprise Data Warehouse, Numident, Master Beneficiary Record, and Supplemental Security Record"
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.56.0.pdf
   - date: 2025-03-26
     event: During his confirmation hearing, Frank Bisignano, the nominee to run the agency, confirms that he had coordinated with Michael Russo but denied a whistleblower report that he had ordered the appointment of DOGE staff there
@@ -1919,7 +1919,7 @@ agencies:
     sorn: https://www.ssa.gov/privacy/sorn/60-0090.pdf
   cases:
   - name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
-    description: Three labor unions sued the Social Security Administration (“SSA”) and the Department of Government Efficiency (“DOGE”), challenging the access to sensitive personal data of millions of Americans which SSA gave to https://www.nytimes.com/2025/02/05/us/politics/elon-musk-doge-faa.html
+    description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency ("DOGE"), challenging the access to sensitive personal data of millions of Americans which SSA gave to https://www.nytimes.com/2025/02/05/us/politics/elon-musk-doge-faa.html
     date_filed: 2025-02-21
     case_no: 1:25-cv-00596
     link: https://www.courtlistener.com/docket/69664313/american-federation-of-state-county-and-municipal-employees-afl-cio-v/
@@ -2012,7 +2012,7 @@ agencies:
     source: https://www.senate.gov/legislative/LIS/executive_calendar/xcalv.pdf
   cases:
   - name: Brehm v. Marocco (D.D.C.)
-    description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal and Marocco’s appointment and requesting a temporary block.
+    description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal and Marocco's appointment and requesting a temporary block.
     date_filed: 2025-03-06
     case_no: 1:25-cv-00660
     link: https://www.courtlistener.com/docket/69711562/brehm-v-marocco/
@@ -2048,7 +2048,7 @@ agencies:
     event: DOGE discovers that some USAID grants had been paid automatically through HHS despite a declared freeze
     source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
   - date: 2025-01-30
-    event: "Farritor and Kliger demanded that all senior managers be stripped of their power to authorize payments — and that they alone become the authorizers."
+    event: "Farritor and Kliger demanded that all senior managers be stripped of their power to authorize payments - and that they alone become the authorizers."
     named:
     - Luke Farritor
     - Gavin Kliger
@@ -2119,7 +2119,7 @@ agencies:
   - YouTube videos removed
   cases:
   - name: American Foreign Service Association v. Trump (D.D.C.)
-    description: Two unions sued the Trump administration, challenging its efforts to dismantle the United States Agency for International Development (“USAID”). The unions argue that the efforts are unconstitutional, violate federal law, and exceed the scope of agency authority.
+    description: Two unions sued the Trump administration, challenging its efforts to dismantle the United States Agency for International Development ("USAID"). The unions argue that the efforts are unconstitutional, violate federal law, and exceed the scope of agency authority.
     date_filed: 2025-02-06
     case_no: 1:25-cv-00352
     link: https://www.courtlistener.com/docket/69619544/american-federation-of-government-employees-v-trump/
@@ -2167,7 +2167,7 @@ agencies:
     event: Two FBI agents visited a senior USIP security official at his home unannounced to ask about gaining entry to the building, possibly through pressuring the the Institute's security contractor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
   - date: 2025-03-16
-    event: Chief of the Criminal Division of the U.S. Attorney’s Office for the District of Columbia, Johnathan Hornok, and two FBI special agents called USIP’s outside counsel, Mr. Foote, stating that they had suspicion of criminal behavior at USIP,
+    event: Chief of the Criminal Division of the U.S. Attorney's Office for the District of Columbia, Johnathan Hornok, and two FBI special agents called USIP's outside counsel, Mr. Foote, stating that they had suspicion of criminal behavior at USIP,
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
   - date: 2025-03-16
     event: Concerned they might be coerced by DOGE, the Chief Security Officer suspends the contract for building security contractor Inter-Con after being contacted by FBI agents interested in questioning him
