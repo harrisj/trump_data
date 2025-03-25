@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=people_schema.json
+# yaml-language-server: $schema=schemas/people_schema.json
 Adam Ramada:
   agencies:
   - Department of Education
@@ -1145,16 +1145,6 @@ Rachel Riley:
       \ system"
     name: Rachel Riley
     source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
-Ricardo Biasini:
-  agencies:
-  - Office of Personnel Management
-  events:
-  - agency: Office of Personnel Management
-    date: '2025-02-25'
-    event: DOGE engineer Ricardo Biasini is reported to be working on updating software
-      to automate Reduction-in-Force (RIF) processes
-    name: Ricardo Biasini
-    source: https://www.wired.com/story/doge-autorif-mass-firing-government-workers/
 Riccardo Biasini:
   agencies:
   - Office of Personnel Management
@@ -1166,6 +1156,12 @@ Riccardo Biasini:
       and OPM leadership
     name: Riccardo Biasini
     source: https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/
+  - agency: Office of Personnel Management
+    date: '2025-02-25'
+    event: DOGE engineer Ricardo Biasini is reported to be working on updating software
+      to automate Reduction-in-Force (RIF) processes
+    name: Riccardo Biasini
+    source: https://www.wired.com/story/doge-autorif-mass-firing-government-workers/
 Riley Sennott:
   agencies:
   - National Aeronautics and Space Administration
@@ -1313,28 +1309,6 @@ Thomas Kiernan:
       authority for people with disabilities
     name: Thomas Kiernan
     source: https://www.wired.com/story/faa-doge-elon-musk-space-x/
-Thomas Krause:
-  agencies:
-  - Department of the Treasury
-  events:
-  - agency: Department of the Treasury
-    date: '2025-01-08'
-    event: The leader of the Trump transition team for the Treasury Department sends
-      an email requesting that Thomas Krause be incuded on the "day 1 team, to lead
-      on Fiscal Services modernization efforts."
-    name: Thomas Krause
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf#page=13
-  - agency: Department of the Treasury
-    date: '2025-01-23'
-    event: Thomas Krause starts at the Treasury Department
-    name: Thomas Krause
-    source: https://fedscoop.com/treasury-payments-systems-doge-judge-ruling/
-  - agency: Department of the Treasury
-    date: '2025-02-04'
-    event: Treasury Secretary Scott Bessent writes a letter to Congress about Scott
-      Krause having read-only access but doesn't mention Marko Elez
-    name: Thomas Krause
-    source: https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/
 Thomas Shedd:
   agencies:
   - Department of Labor
@@ -1376,6 +1350,24 @@ Tom Krause:
   agencies:
   - Department of the Treasury
   events:
+  - agency: Department of the Treasury
+    date: '2025-01-08'
+    event: The leader of the Trump transition team for the Treasury Department sends
+      an email requesting that Thomas Krause be incuded on the "day 1 team, to lead
+      on Fiscal Services modernization efforts."
+    name: Tom Krause
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf#page=13
+  - agency: Department of the Treasury
+    date: '2025-01-23'
+    event: Thomas Krause starts at the Treasury Department
+    name: Tom Krause
+    source: https://fedscoop.com/treasury-payments-systems-doge-judge-ruling/
+  - agency: Department of the Treasury
+    date: '2025-02-04'
+    event: Treasury Secretary Scott Bessent writes a letter to Congress about Scott
+      Krause having read-only access but doesn't mention Marko Elez
+    name: Tom Krause
+    source: https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/
   - agency: Department of the Treasury
     date: '2025-03-24'
     event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge

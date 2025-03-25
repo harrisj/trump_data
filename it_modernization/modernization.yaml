@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=modernization_schema.json
+# yaml-language-server: $schema=schemas/modernization_schema.json
 agencies:
 - name: Centers for Disease Control and Prevention
   acronym: CDC
@@ -753,7 +753,7 @@ agencies:
   - date: 2025-01-08
     event: The leader of the Trump transition team for the Treasury Department sends an email requesting that Thomas Krause be incuded on the "day 1 team, to lead on Fiscal Services modernization efforts."
     named:
-    - Thomas Krause
+    - Tom Krause
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf#page=13
   - date: 2025-01-21
     event: Marko Elez starts at the Treasury Department and is granted full read-write access to systems
@@ -763,7 +763,7 @@ agencies:
   - date: 2025-01-23
     event: Thomas Krause starts at the Treasury Department
     named:
-    - Thomas Krause
+    - Tom Krause
     source: https://fedscoop.com/treasury-payments-systems-doge-judge-ruling/
   - date: 2025-01-24
     event: Treasury Chief of Staff Dan Katz sends an email stating that DOGE staff need to be given access to pause USAID payments
@@ -804,7 +804,7 @@ agencies:
   - date: 2025-02-04
     event: Treasury Secretary Scott Bessent writes a letter to Congress about Scott Krause having read-only access but doesn't mention Marko Elez
     named:
-    - Thomas Krause
+    - Tom Krause
     source: https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/
   - date: 2025-02-05
     event: A ticket notes that Marko Elez was walked through read-only access to the SPS system
@@ -1578,7 +1578,7 @@ agencies:
   - date: 2025-02-25
     event: DOGE engineer Ricardo Biasini is reported to be working on updating software to automate Reduction-in-Force (RIF) processes
     named:
-    - Ricardo Biasini
+    - Riccardo Biasini
     source: https://www.wired.com/story/doge-autorif-mass-firing-government-workers/
   - date: 2025-02-28
     event: OPM amends the Privacy Impact Assessment for its Government-Wide Email System (GWES) to remove declarations that responses are voluntary.

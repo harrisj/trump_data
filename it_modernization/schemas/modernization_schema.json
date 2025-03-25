@@ -43,7 +43,7 @@
                                     "type": "array",
                                     "items": {
                                         "description": "Name of a DOGE staffer mentioned in this roundup at this agency",
-                                        "type": "string"
+                                        "$ref": "valid_names.json#people"
                                     }
                                 }
                             },
@@ -70,7 +70,7 @@
                                     "description": "A list of DOGE staff named with the event",
                                     "items": {
                                         "description": "The names of DOGE staff in the incident.",
-                                        "type": "string"
+                                        "$ref": "valid_names.json#people"
                                     }
                                 },
                                 "source": {

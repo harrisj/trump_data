@@ -58,5 +58,5 @@ file_path = './modernization.yaml'
 people_data = read_yaml(file_path)
 output_file = './people.yaml'
 with open(output_file, 'w') as file:
-    file.write("# yaml-language-server: $schema=people_schema.json\n")
+    file.write("# yaml-language-server: $schema=schemas/people_schema.json\n")
     file.write(yaml.dump(people_data))
