@@ -13,39 +13,73 @@ This file will **not** track contracts being cancelled by DOGE, except if that h
 A record might look something like this:
 
 ```yaml
-    - agency: Internal Revenue Service
-      acronym: IRS
-      people:
-        - Gavin Kliger
-      events:
-        - date: 2025-02-13
-          event: Gavin Kliger arrives at the IRS to begin onboarding
-          source: https://www.wsj.com/politics/policy/doge-internal-revenue-service-9697cb99
-        - date: 2025-02-18
-          event: White House pressures the IRS to sign a MOU granting DOGE expanded access to internal systems
-          source: https://www.washingtonpost.com/business/2025/02/16/doge-irs-access-taxpayer-data/
-      systems:
-        - name: Integrated Data Retrieval System
-          acronym: IDRS
-          link: https://www.irs.gov/irm/part2/irm_02-009-001r
-          pia: https://www.irs.gov/pub/irs-pia/idrs-pia.pdf
-          sorn: https://www.federalregister.gov/documents/2015/09/08/2015-21980/privacy-act-of-1974-as-amended-system-of-records-notice
-          description: The IDRS contains some of the most sensitive financial information on American taxpayers.
-          risk: Access to PII and financial data of American taxpayers, including names, SSNs, tax returns, bank account numbers, etc.
-      sources:
-        - https://thehill.com/homenews/administration/5149835-stephen-miller-doge-irs/
-        - https://www.cnn.com/2025/02/17/politics/doge-irs-taxpayer-data/index.html
+- name: Department of Labor
+  acronym: DOL
+  roundups:
+  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+    organization: The New York Times
+    named:
+    - Adam Ramada
+  - source: https://projects.propublica.org/elon-musk-doge-tracker/
+    organization: ProPublica
+    named:
+    - Aram Moghaddassi
+  - source: https://www.businessinsider.com/doge-staffer-fertility-clinic-pronatalist-department-of-labor
+    organization: Business Insider
+    date: 2025-03-05
+    context: Business Insider reports Marko Elez, Aram Moghaddassi, and Miles B. Collins are new DOGE arrivals at Department of Labor
+    named:
+    - Marko Elez
+    - Aram Moghaddassi
+    - Miles Collins
+  events:
+  - date: 2025-01-24
+    event: Trump fires the Inspector General for the Department of Labor in a late-night purge
+    source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
+  - date: 2025-02-04
+    event: DOL staff reportedly ordered "to give DOGE access to whatever they ask for-or risk termination"
+    source: https://bsky.app/profile/kimkelly.bsky.social/post/3lhf2owbxc22b
+  - date: 2025-02-05
+    event: DOGE staff are given access to the Department of Labor IT systems
+    source: https://www.theguardian.com/us-news/2025/feb/05/elon-musk-doge-labor-department-protest
+  - date: 2025-02-13
+    event: DOGE is granted authorization to use file transfer software
+    named:
+    - Sam Beyda
+    - Derek Geissler
+    - Cole Killian
+    - Adam Ramada
+    - Jordan Wick
+    source: https://www.nbcnews.com/tech/security/doge-software-approval-alarms-labor-department-employees-data-security-rcna191583
+  - date: 2025-03-14
+    event: Thomas Shedd apparently starts working at the CIO at Department of Labor while also serving as the TTS Commissioner at GSA (experts are unclear if this is legal)
+    named:
+    - Thomas Shedd
+    source: https://www.nextgov.com/people/2025/03/tts-director-tapped-serve-labor-cio/403855/?oref=ng-home-top-story
+  - date: 2025-03-18
+    event: Keith Sonderling is sworn in as the Deputy Secretary of labor
+    named:
+    - Keith Sonderling
+    source: https://news.artnet.com/art-world/doge-imls-institute-museum-library-services-2623286
+  - date: 2025-03-20
+    event: Trump issues an executive order which explicitly includes an instruction that "the Secretary of Labor and the Secretary's designees shall receive, to the maximum extent consistent with law, unfettered access to all unemployment data and related payment records, including all such data and records currently available to the Department of Labor's Office of Inspector General."
+    source: https://www.whitehouse.gov/presidential-actions/2025/03/stopping-waste-fraud-and-abuse-by-eliminating-information-silos/
+  cases:
+  - name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
 ```
 
 With the following fields:
 
 - agency: the name of the agency
 - acronym: if the agency has an acronym, it will be here
-- people: a list of known DOGE participants linked to the agency
-- events: a list of key events in DOGE's efforts at the agency
+- roundups: if there are any articles, etc. that list staff identified at that agency, I put them here
+- events: a list of dated events in DOGE's efforts at the agency, included staff explicitly named where available
 - systems: a list of systems that DOGE is likely looking to access, based on either direct reporting or by the class of systems they are (eg, budgeting, HR)
 - cases: a list of cases relevant to the agency
-- sources: a list of other sources for things like participants that aren't necessarily linked to specific events
 - vandalism: a list of specific acts of vandalism or sabotage against the agency's IT resources
 
 For a given system, there will be the following fields
@@ -63,6 +97,22 @@ More formally, there is now a JSON Schema file for the YAML and if you have the 
 ## Can You Tell Me More About These Names?
 
 No. I am mainly just trying to track who is at each agency, the types of systems they might be accessing (mentioned in news coverage as well as the general notion they are looking at HR/Contracting/Procurement systems) and a timeline of events for their action. Other news organizations like ProPublica and Wired already have excellent resources on who these people are and where they have come from.
+
+## I See an Error!
+Great, please go to the [Issues](https://github.com/harrisj/trump_data/issues) tab and let me know. I especially want to know if:
+
+- You see an error in the data
+- You have an idea for a new feature
+- There are some media reports or court filings I've missed that include DOGE activities
+
+## Other Useful Fields
+
+Okay, this is where it gets cool. I have some automations going for this file that make if helpful. First, I have JSON schemas defined for these files in the schemas directory. This includes a file with a master list of DOGE names so I don't misspell them in multiple places (Mike Russo here, Michael Russo there, etc.)
+
+I also have a pre-commit hook that makes the following files and keeps them up-to-date:
+
+- events.csv = a CSV dump of the events
+- people.yaml = a dump of the DOGE people with a listing of agencies they've been linked to and events they've been named
 
 ## PIAs and SORNs?
 
