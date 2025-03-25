@@ -223,6 +223,8 @@ agencies:
     source: https://www.foxnews.com/politics/defense-sec-hegseth-working-doge-cut-bs
   - date: 2025-03-21
     event: Elon Musk arrives at the Pentagon for a meeting with leadership, reportedly to discuss DOGE
+    named:
+    - Elon Musk
     source: https://www.nbcnews.com/politics/trump-administration/elon-musk-visit-pentagon-discuss-china-rcna197435
 
 - name: Department of Education
@@ -235,7 +237,7 @@ agencies:
     - Alexandra Beynon
     - Edward Coristine
     - Luke Farritor
-    - Connor Fennesy
+    - Conor Fennessy
     - Brooks Morgan
     - Adam Ramada
     - Ethan Shaotran
@@ -351,7 +353,7 @@ agencies:
   - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
     organization: The New York Times
     named:
-    - Gavin Farritor
+    - Luke Farritor
     - Ryan Riedel
   - source: https://projects.propublica.org/elon-musk-doge-tracker/
     organization: ProPublica
@@ -400,13 +402,13 @@ agencies:
     - Anthony Armstrong
     - Jennifer Balajadia
     - Alexandra Beynon
-    - Riccardo Baisini
+    - Riccardo Biasini
     - Akash Bobba
     - Ashley Boizelle
     - Emily Bryant
     - James Burnham
     - Edward Coristine
-    - Steven Davis
+    - Steve Davis
     - Marko Elez
     - Luke Farritor
     - Joshua Fox
@@ -434,7 +436,7 @@ agencies:
     - Thomas Shedd
     - Jordan Wick
     - Ryan Wunderly
-    - Christopher Young
+    - Chris Young
   - source: https://projects.propublica.org/elon-musk-doge-tracker/
     organization: ProPublica
     context: I am also including Executive Office of the President (EOP) positions
@@ -703,6 +705,8 @@ agencies:
     source: https://www.nbcnews.com/tech/security/doge-software-approval-alarms-labor-department-employees-data-security-rcna191583
   - date: 2025-03-14
     event: Thomas Shedd apparently starts working at the CIO at Department of Labor while also serving as the TTS Commissioner at GSA (experts are unclear if this is legal)
+    named:
+    - Thomas Shedd
     source: https://www.nextgov.com/people/2025/03/tts-director-tapped-serve-labor-cio/403855/?oref=ng-home-top-story
   - date: 2025-03-18
     event: Keith Sonderling is sworn in as the Deputy Secretary of labor
@@ -1061,7 +1065,6 @@ agencies:
     - Nicole Hollander
   - source: https://projects.propublica.org/elon-musk-doge-tracker/
     organization: ProPublica
-    context: I am also including Executive Office of the President (EOP) positions
     named:
     - Ashley Boizelle
     - Nate Cavanaugh
@@ -1270,6 +1273,8 @@ agencies:
     source: https://news.artnet.com/art-world/doge-imls-institute-museum-library-services-2623286
   - date: 2025-03-20
     event: DOGE arrives at IMLS HQ, are startled to find staff there, swear in Keith Sonderling as acting director and leave
+    named:
+    - Keith Sonderling
     source: https://news.artnet.com/art-world/doge-imls-institute-museum-library-services-2623286
 
 - name: Inter-American Foundation
@@ -1734,12 +1739,12 @@ agencies:
     - Cole Killian
     - Jon Koval
     - Payton Rehling
-    - Michael Russo
+    - Mike Russo
     - Ethan Shaotran
   - source: https://projects.propublica.org/elon-musk-doge-tracker/
     organization: ProPublica
     named:
-    - Michael Russo
+    - Mike Russo
   - source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
     context: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
     organization: The Handbasket
@@ -2102,9 +2107,9 @@ agencies:
     - Kenneth Jackson
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576293/gov.uscourts.mdd.576293.77.2.pdf
   - date: 2025-03-19
-    event: Pete Marocco says that he will be succeeded at the agency by Jeremy Lewin and Kenneth Jackson
+    event: Peter Marocco says that he will be succeeded at the agency by Jeremy Lewin and Kenneth Jackson
     named:
-    - Pete Marocco
+    - Peter Marocco
     - Jeremy Lewin
     - Kenneth Jackson
     source: https://www.nytimes.com/2025/03/19/us/politics/usaid-doge-leadership.html
