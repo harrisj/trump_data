@@ -53,10 +53,19 @@ def read_yaml(file_path):
 
     return out
 
+class MyDumper(yaml.SafeDumper):
+    # HACK: insert blank lines between top-level objects
+    # inspired by https://stackoverflow.com/a/44284819/3786245
+    def write_line_break(self, data=None):
+        super().write_line_break(data)
+
+        if len(self.indents) == 1:
+            super().write_line_break()
+
 # Example usage
 file_path = './modernization.yaml'
 people_data = read_yaml(file_path)
 output_file = './people.yaml'
 with open(output_file, 'w') as file:
     file.write("# yaml-language-server: $schema=schemas/people_schema.json\n")
-    file.write(yaml.dump(people_data, default_flow_style=False, indent=2, width=500))
+    file.write(yaml.dump(people_data, Dumper=MyDumper, indent=2, width=500, sort_keys=True))
