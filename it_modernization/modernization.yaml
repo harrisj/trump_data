@@ -536,6 +536,9 @@ agencies:
     named:
     - Elon Musk
   - date: 2025-03-18
+    event: In an unsigned email response to the Intercept Media, DOGE claims it is within the Executive Office of the President and not subject to FOIA
+    source: https://storage.courtlistener.com/recap/gov.uscourts.nysd.639178/gov.uscourts.nysd.639178.1.0.pdf
+  - date: 2025-03-18
     event: In a ruling in J. Doe 1-26 v. Musk (D. Md), Judge Theodore D. Chuang declares that evidence shows that Elon Musk was effectively running DOGE without being appointed to the role
     source: https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rZttxcbH9cfc/v0
   - date: 2025-03-19
@@ -594,6 +597,11 @@ agencies:
     date_filed: 2025-02-21
     case_no: 1:25-cv-00527
     link: https://www.courtlistener.com/docket/69661712/project-on-government-oversight-inc-v-trump/
+  - name: The Intercept Media, Inc. v. United States Department of Government Efficiency (S.D.N.Y.)
+    description: Plaintiff is suing DOGE to comply with five FOIA requests made during March 2025
+    date_filed: 2025-03-24
+    case_no: 1:25-cv-02404
+    link: https://www.courtlistener.com/docket/69780037/the-intercept-media-inc-v-united-states-department-of-government/
 
 - name: Department of Homeland Security
   acronym: DHS
