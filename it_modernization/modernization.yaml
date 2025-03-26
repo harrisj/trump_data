@@ -557,6 +557,9 @@ agencies:
   - date: 2025-03-20
     event: President Trump issues an executive order demaning that agency heads must share all access to any unclassified datasets "related to the identification and elimination of waste, fraud, and abuse" but also "to the maximum extent consistent with law"
     source: https://www.whitehouse.gov/presidential-actions/2025/03/stopping-waste-fraud-and-abuse-by-eliminating-information-silos/
+  - date: 2025-03-25
+    event: Within a large executive order about voting, Trump orders DOGE "to review each State's publicly available voter registration list and available records concerning voter list maintenance activities."
+    source: https://www.businessinsider.com/trump-doge-voter-rolls-executive-order-2025-3
   cases:
   - name: Public Citizen Inc et al v. Donald J. Trump and Office of Management and Budget (D.D.C.)
     description: Two advocacy organizations and the American Federation of Government Employees sued that DOGE creation violated the Federal Advisory Committee Act
