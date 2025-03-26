@@ -853,6 +853,9 @@ agencies:
     - Tom Krause
     - Ryan Wunderly
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.69.0.pdf
+  - date: 2025-03-25
+    event: President Trump issues an executive order mandating that all payments flow through Treasury that agencies must modify SORNs to share data with Treasury as "routine use"
+    source: https://www.whitehouse.gov/presidential-actions/2025/03/protecting-americas-bank-account-against-fraud-waste-and-abuse/
   systems:
   - name: Federal Disbursement Services
     acronym: FDS

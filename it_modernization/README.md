@@ -99,6 +99,7 @@ More formally, there is now a JSON Schema file for the YAML and if you have the 
 No. I am mainly just trying to track who is at each agency, the types of systems they might be accessing (mentioned in news coverage as well as the general notion they are looking at HR/Contracting/Procurement systems) and a timeline of events for their action. Other news organizations like ProPublica and Wired already have excellent resources on who these people are and where they have come from.
 
 ## I See an Error!
+
 Great, please go to the [Issues](https://github.com/harrisj/trump_data/issues) tab and let me know. I especially want to know if:
 
 - You see an error in the data
