@@ -7,6 +7,16 @@ Adam Ramada:
   - General Services Administration
   - US Digital Service/Department of Government Efficiency
   events:
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-01-23'
+    event: According to his own testimony, Adam Ramada starts at the USDS
+    name: Adam Ramada
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
+  - agency: Department of Education
+    date: '2025-01-28'
+    event: According to his sworn testimony, Adam Ramada is detailed from the USDS to the Department of Education
+    name: Adam Ramada
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
   - agency: Department of Education
     date: '2025-01-28'
     event: According to his sworn testimony, Adam Ramada started working at the Department of Education on this date. He says there is one other USDS staffer with him, two other detailees and two DOE staffers.
@@ -45,6 +55,11 @@ Akash Bobba:
     event: Akash Bobba is rapidly trained and is granted access to anonymized and read-only "sandbox" NUMIDENT data for his purported fraud investigations
     name: Akash Bobba
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
+  - agency: Social Security Administration
+    date: '2025-02-12'
+    event: An unusual Memorandum of Understanding is signed by Brian Bjelde for OPM and representatives of Social Security and the Department of Education for Akash Bobba to start working at SSA (but he already had been working there, according to Tiffany Flick's testimony)
+    name: Akash Bobba
+    source: https://www.npr.org/2025/03/26/nx-s1-5339842/doge-data-access-privacy-act-social-security-treasury-opm-lawsuit
   - agency: Social Security Administration
     date: '2025-02-15'
     event: Akash Bobba reports issue with the "sandbox" data. Russo demands he gets immediate full access to Enterprise Data Warehouse (EDW), Master Beneficiary Record (MBR) and Supplemental Security Record (SSR) files as well as source code
@@ -171,6 +186,13 @@ Brady Glantz:
 Brian Bjelde:
   agencies:
   - Office of Personnel Management
+  - Social Security Administration
+  events:
+  - agency: Social Security Administration
+    date: '2025-02-12'
+    event: An unusual Memorandum of Understanding is signed by Brian Bjelde for OPM and representatives of Social Security and the Department of Education for Akash Bobba to start working at SSA (but he already had been working there, according to Tiffany Flick's testimony)
+    name: Brian Bjelde
+    source: https://www.npr.org/2025/03/26/nx-s1-5339842/doge-data-access-privacy-act-social-security-treasury-opm-lawsuit
 
 Brooks Morgan:
   agencies:
@@ -827,9 +849,14 @@ Marko Elez:
   events:
   - agency: Department of the Treasury
     date: '2025-01-21'
-    event: Marko Elez starts at the Treasury Department and is granted full read-write access to systems
+    event: Marko Elez starts at the Treasury Department. He is not appointed as a Special Government Employee, meaning he is subject to additional ethics requirements.
     name: Marko Elez
-    source: https://fedscoop.com/treasury-payments-systems-doge-judge-ruling/
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.4_3.pdf
+  - agency: Department of the Treasury
+    date: '2025-01-28'
+    event: Marko Elez is provided with a laptop from Treasury with with copies of the source code for PAM, SPS, and ASAP in a separate, secure coding environment known as a "secure code repository" or "sandbox."
+    name: Marko Elez
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.3_1.pdf
   - agency: Department of the Treasury
     date: '2025-01-29'
     event: A ticket for systems access is issued to give Marko Elez read-only access to the FROPK and SPR systems and read-write access to PAM
@@ -857,6 +884,11 @@ Marko Elez:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
   - agency: Department of the Treasury
     date: '2025-02-03'
+    event: Marko Elez is provided read-only access to the Payment Automation Manager (PAM) Database, Payment Automation Manager (PAM) File System
+    name: Marko Elez
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.3_1.pdf
+  - agency: Department of the Treasury
+    date: '2025-02-03'
     event: A ticket notes that Marko Elez was walked through access to the PAM system and confirms access was read only
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
@@ -872,9 +904,9 @@ Marko Elez:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
   - agency: Department of the Treasury
     date: '2025-02-06'
-    event: Marko Elez was discovered to inappropriately have read-write access on his laptop
+    event: On the morning of February 6, Treasury discovers that Marko Elez's database access to SPS on February 5 had mistakenly been configured to have read/write permissions instead of read-only
     name: Marko Elez
-    source: https://www.emptywheel.net/2025/02/12/marko-elez-resigned-the-day-his-write-access-to-payment-systems-was-discovered/
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.3_1.pdfmarko-elez-resigned-the-day-his-write-access-to-payment-systems-was-discovered/
   - agency: Department of the Treasury
     date: '2025-02-11'
     event: Affadavit states Marko Elez was accidentally given edit access to BFS systems but did not use it
