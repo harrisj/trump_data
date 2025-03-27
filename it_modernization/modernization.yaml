@@ -577,9 +577,9 @@ agencies:
   - date: 2025-02-13
     event: DOGE announces its website is now live with an organizational chart and tweets
     source: https://xcancel.com/DOGE/status/1889897384122982604#m
-  - date: 2025-02-16
-    event: Approximately 50 USDS staff are fired as part (removing approximately 1/3 of the USDS staff that predated DOGE)
-    source: https://www.linkedin.com/posts/jonathankamens_around-50-us-digital-service-employees-activity-7296541591333203969-VCs2/
+  - date: 2025-02-14
+    event: Approximately 50 USDS staff are fired, with most of terminations focused on project managers and designers (removing approximately 1/3 of the USDS staff that predated DOGE)
+    source: https://www.wired.com/story/doge-major-government-tech-projects-efficiency/
   - date: 2025-02-17
     event: In a filing in "State of New Mexico v. Elon Musk," DOJ lawyers declare that Elon Musk is not the USDS Administrator, but just an advisor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277463/gov.uscourts.dcd.277463.24.0_1.pdf
@@ -610,6 +610,9 @@ agencies:
   - date: 2025-03-05
     event: From this date, detailing arrangements for DOGE staff are between the target agency and other agencies hiring DOGE staff, according to a declaration made by DOGE in AFL-CIO et al vs. Department of Labor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.51.1.pdf
+  - date: 2025-03-06
+    event: The Engineering Director of USDS publicly resigns in protest, stating "this is not the mission I joined"
+    source: https://cloudbrain.in/engineering-director-of-usds-steps-down-this-is-not-the-mission-i-joined/
   - date: 2025-03-10
     event: U.S. District Judge Christopher Cooper demands a rolling production of DOGE to produce documents in discovery within weeks
     source: https://www.politico.com/news/2025/03/10/judge-orders-doge-record-release-00223151
