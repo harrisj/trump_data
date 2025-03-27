@@ -88,6 +88,11 @@ agencies:
     organization: ProPublica
     named:
     - Jeremy Lewin
+  - source: https://www.npr.org/2025/02/07/nx-s1-5288988/doge-elon-musk-staff-trump
+    organization: NPR
+    date: 2025-02-07
+    named:
+    - Gavin Kliger
   - source: https://techcrunch.com/2025/03/12/the-people-in-elon-musk-doge-universe/
     organization: TechCrunch
     named:
@@ -833,7 +838,6 @@ agencies:
   - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
     organization: The New York Times
     named:
-    - Baris Akis
     - Sam Corcos
     - Tom Krause
     - Marko Elez
@@ -845,6 +849,12 @@ agencies:
     - Tom Krause
     - Aram Moghaddassi
     - Ryan Wunderly
+  - source: https://www.npr.org/2025/02/07/nx-s1-5288988/doge-elon-musk-staff-trump
+    organization: NPR
+    date: 2025-02-07
+    named:
+    - Marko Elez
+    - Tom Krause
   - source: https://techcrunch.com/2025/03/12/the-people-in-elon-musk-doge-universe/
     organization: TechCrunch
     named:
@@ -1192,13 +1202,23 @@ agencies:
   - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
     organization: The New York Times
     named:
+    - Akash Bobba
     - Nate Cavanaugh
     - Edward Coristine
     - Steve Davis
+    - Stephen Ehikian
     - Luke Farritor
+    - Nicole Hollander
     - Jeremy Lewin
     - Adam Ramada
+    - Kyle Schutt
+    - Thomas Shedd
     - Ethan Shaotran
+  - source: https://www.npr.org/2025/02/07/nx-s1-5288988/doge-elon-musk-staff-trump
+    organization: NPR
+    date: 2025-02-07
+    named:
+    - Thomas Shedd
   - source: https://www.wired.com/story/doge-government-salaries-elon-musk/
     organization: Wired Magazine
     date: 2025-03-04
@@ -1678,6 +1698,8 @@ agencies:
     - Amanda Scales
     - Christopher Stanley
     - Chris Young
+    - Tarak Makecha
+    - Scott Kupor
   - source: https://projects.propublica.org/elon-musk-doge-tracker/
     organization: ProPublica
     named:
@@ -1694,6 +1716,13 @@ agencies:
     - Noah Peters
     - Nikhil Rajpal
     - Austin Raynor
+    - Amanda Scales
+  - source: https://www.npr.org/2025/02/07/nx-s1-5288988/doge-elon-musk-staff-trump
+    organization: NPR
+    date: 2025-02-07
+    named:
+    - Riccardo Biasini
+    - Gavin Kliger
     - Amanda Scales
   - source: https://techcrunch.com/2025/03/12/the-people-in-elon-musk-doge-universe/
     organization: TechCrunch
@@ -1934,11 +1963,16 @@ agencies:
   - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
     organization: The New York Times
     named:
+    - Akash Bobba
+    - Scott Coulter
     - Leland Dudek
+    - Marko Elez
+    - Luke Farritor
     - Antonio Gracias
     - Cole Killian
     - Jon Koval
     - Payton Rehling
+    - Nikhil Rajpal
     - Mike Russo
     - Ethan Shaotran
   - source: https://projects.propublica.org/elon-musk-doge-tracker/
@@ -2267,6 +2301,11 @@ agencies:
     named:
     - Gavin Kliger
     - Jeremy Lewin
+  - source: https://www.npr.org/2025/02/07/nx-s1-5288988/doge-elon-musk-staff-trump
+    organization: NPR
+    date: 2025-02-07
+    named:
+    - Gavin Kliger
   - source: https://techcrunch.com/2025/03/12/the-people-in-elon-musk-doge-universe/
     organization: TechCrunch
     named:
