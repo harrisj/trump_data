@@ -2852,6 +2852,22 @@
                             "complaint_link_text": "Complaint",
                             "date_filed": "2025-03-14",
                             "last_update": "2025-03-14"
+                        },
+                        {
+                            "case_link": {
+                                "title": "American Oversight v. Hegseth",
+                                "url": "https://www.courtlistener.com/docket/69788832/american-oversight-v-hegseth/"
+                            },
+                            "case_name": "American Oversight v. Hegseth (D.D.C.) Case no. 1:25-cv-00883",
+                            "case_summary": "[Coming soon]",
+                            "case_summary_html": "[Coming soon]",
+                            "complaint_link": {
+                                "title": "Complaint",
+                                "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.278806/gov.uscourts.dcd.278806.1.0_1.pdf"
+                            },
+                            "complaint_link_text": "Complaint",
+                            "date_filed": "2025-03-25",
+                            "last_update": "2025-03-25"
                         }
                     ],
                     "links": [],
