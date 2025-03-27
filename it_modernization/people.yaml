@@ -123,6 +123,10 @@ Anthony Armstrong:
   - Office of Personnel Management
   - US Digital Service/Department of Government Efficiency
 
+Anthony Jancso:
+  agencies:
+  - US Digital Service/Department of Government Efficiency
+
 Antoine McCord:
   agencies:
   - Department of Homeland Security
@@ -182,6 +186,10 @@ Brady Glantz:
     event: 4 SpaceX engineers were onboarded into the FAA under the Schedule A hiring authority for people with disabilities
     name: Brady Glantz
     source: https://www.wired.com/story/faa-doge-elon-musk-space-x/
+
+Branden Spikes:
+  agencies:
+  - US Digital Service/Department of Government Efficiency
 
 Brian Bjelde:
   agencies:
@@ -339,6 +347,7 @@ Edward Coristine:
   - Federal Emergency Management Agency
   - General Services Administration
   - Health and Human Services
+  - Office of Personnel Management
   - Small Business Administration
   - US Agency for International Development
   - US Digital Service/Department of Government Efficiency
@@ -488,6 +497,10 @@ Gavin Kliger:
     event: Gavin Kliger and Luke Farritor completely remove all access to the payments system for all other USAID staff
     name: Gavin Kliger
     source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
+
+George Cooper:
+  agencies:
+  - US Digital Service/Department of Government Efficiency
 
 Greg Hogan:
   agencies:
@@ -802,6 +815,7 @@ Luke Farritor:
   agencies:
   - Centers for Disease Control and Prevention
   - Centers for Medicare and Medicaid Services
+  - Consumer Financial Protection Bureau
   - Department of Education
   - Department of Energy
   - Department of State
@@ -842,6 +856,10 @@ Luke Farritor:
     event: Reports that DOGE have accounts are working with the NIH Business System Department for NIH's central electronic business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
     name: Luke Farritor
     source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
+
+Marc Andreessen:
+  agencies:
+  - US Digital Service/Department of Government Efficiency
 
 Marko Elez:
   agencies:
@@ -933,10 +951,18 @@ Michael Grimes:
   agencies:
   - Commerce Department
 
+Michael Kratsios:
+  agencies:
+  - US Digital Service/Department of Government Efficiency
+
 Michael Mirski:
   agencies:
   - Federal Housing Finance Agency
   - Housing and Urban Development
+
+Mike Gonzalez:
+  agencies:
+  - Office of Personnel Management
 
 Mike Russo:
   agencies:
@@ -991,6 +1017,7 @@ Miles Collins:
 Nate Cavanaugh:
   agencies:
   - General Services Administration
+  - Inter-American Foundation
   - U.S. African Development Foundation
   - US Institute of Peace
   events:
@@ -1224,9 +1251,17 @@ Scott Coulter:
     name: Scott Coulter
     source: https://www.nextgov.com/people/2025/03/ssa-tech-shop-be-led-another-doge-associate/404031/?oref=ng-homepage-river
 
+Scott Kupor:
+  agencies:
+  - Office of Personnel Management
+
 Scott Langmack:
   agencies:
   - Housing and Urban Development
+  - US Digital Service/Department of Government Efficiency
+
+Shaun Maguire:
+  agencies:
   - US Digital Service/Department of Government Efficiency
 
 Stephanie Holmes:
@@ -1240,6 +1275,7 @@ Stephen Duarte:
 
 Stephen Ehikian:
   agencies:
+  - General Services Administration
   - Office of Personnel Management
 
 Steve Davis:
@@ -1347,3 +1383,7 @@ Tyler Hassen:
     event: Two DOGE staffers attempted to force water pumps to be turned on in a large reservoir in California for a photo op
     name: Tyler Hassen
     source: https://www.cnn.com/2025/03/07/climate/trump-doge-california-water/index.html
+
+Vinay Hiremath:
+  agencies:
+  - US Digital Service/Department of Government Efficiency
