@@ -368,9 +368,16 @@ Elon Musk:
   agencies:
   - Consumer Financial Protection Bureau
   - Department of Defense
+  - Department of Labor
   - National Security Agency
   - US Digital Service/Department of Government Efficiency
   events:
+  - agency: Department of Labor
+    date: '2025-02-04'
+    event: One of AFGE's members who works in the headquarters of the Department received an instruction from Department leadership that Elon Musk and his DOGE team would be accessing Department of Labor headquarters beginning around 4 p.m. on February 5, 2025. This member and other employees were told by Department leadership that when Mr. Musk and his team visit, they are to do whatever they ask, not to push back, not to ask questions. They were told to provide access to any DOL system they requested
+      access to and not to worry about any security protocols; just do it.
+    name: Elon Musk
+    source: hthttps://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.29.8_1.pdf
   - agency: Consumer Financial Protection Bureau
     date: '2025-02-07'
     event: Elon Musk posts a tweet "CFPB RIP" with a tombstone emoji

@@ -702,8 +702,10 @@ agencies:
     event: Trump fires the Inspector General for the Department of Labor in a late-night purge
     source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
   - date: 2025-02-04
-    event: DOL staff reportedly ordered "to give DOGE access to whatever they ask for-or risk termination"
-    source: https://bsky.app/profile/kimkelly.bsky.social/post/3lhf2owbxc22b
+    event: One of AFGE's members who works in the headquarters of the Department received an instruction from Department leadership that Elon Musk and his DOGE team would be accessing Department of Labor headquarters beginning around 4 p.m. on February 5, 2025. This member and other employees were told by Department leadership that when Mr. Musk and his team visit, they are to do whatever they ask, not to push back, not to ask questions. They were told to provide access to any DOL system they requested access to and not to worry about any security protocols; just do it.
+    named:
+    - Elon Musk
+    source: hthttps://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.29.8_1.pdf
   - date: 2025-02-05
     event: DOGE staff are given access to the Department of Labor IT systems
     source: https://www.theguardian.com/us-news/2025/feb/05/elon-musk-doge-labor-department-protest
