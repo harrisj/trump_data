@@ -25,4 +25,6 @@ I am not a media organization. I am not a reporter. I am doing my best here, but
 ## Other Date Collections Out There
 
 - [Trump Golf Track](https://trumpgolftrack.com/)
-- more?
+- [Layoffs.fyi](https://layoffs.fyi/)
+- [Spotlight on Doge](https://www.spotlightondoge.com/)
+
