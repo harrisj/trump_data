@@ -27,4 +27,6 @@ I am not a media organization. I am not a reporter. I am doing my best here, but
 - [Trump Golf Track](https://trumpgolftrack.com/)
 - [Layoffs.fyi](https://layoffs.fyi/)
 - [Spotlight on Doge](https://www.spotlightondoge.com/)
+- [Trump Overseas Real-Estate Deals](https://www.citizensforethics.org/reports-investigations/crew-reports/trump-foreign-development-tracker/)
+
 

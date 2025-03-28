@@ -113,11 +113,21 @@ Amy Gleason:
     event: Amy Gleason joins the USDS, according to her sworn testimony.
     name: Amy Gleason
     source: https://www.documentcloud.org/documents/25564597-crewvdogereconmot031425/
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-02-26'
+    event: After days of sustained questioning about who the USDS Administrator is, the White House gives the name of Amy Gleason. It is unclear how long she had been in the role.
+    name: Amy Gleason
+    source: https://www.npr.org/2025/02/26/nx-s1-5310634/amy-gleason-doge-administrator
   - agency: Health and Human Services
     date: '2025-03-04'
     event: Amy Gleason (purported head of DOGE) is formally onboarded at HHS as a Senior Advisor and swears the oath of office
     name: Amy Gleason
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.65.1_1.pdf
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-03-19'
+    event: In another sworn statement, Amy Gleason declares "every member of an agency's DOGE Team is an employee of the agency or a detailee to the agency." She does clarify that some are detailed from USDS but also claims they report to agency heads. She reports thar USDS has approximately 79 directly appointed employees and 10 employees detailed from other agencies.
+    name: Amy Gleason
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277646/gov.uscourts.dcd.277646.24.2.pdf
 
 Anthony Armstrong:
   agencies:
@@ -393,6 +403,11 @@ Elon Musk:
     event: Elon Musk posts a tweet "CFPB RIP" with a tombstone emoji
     name: Elon Musk
     source: https://news.bloomberglaw.com/banking-law/musks-doge-descends-on-consumer-financial-protection-bureau
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-03-10'
+    event: Elon Musk claims there are about 100 DOGE staffers and he has plans to double to 200. He also claims they are in every federal Department.
+    name: Elon Musk
+    source: https://www.nbcnews.com/politics/doge/musk-says-doge-almost-every-federal-agency-plans-double-staff-rcna195735
   - agency: US Digital Service/Department of Government Efficiency
     date: '2025-03-12'
     event: US District Judge Tanya Chutkan issues an order giving DOGE and Elon Musk three weeks to comply with document discovery requests about its staffing and downsizing plans for agencies

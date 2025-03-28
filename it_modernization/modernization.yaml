@@ -603,6 +603,8 @@ agencies:
     source: https://xcancel.com/DOGE/status/1896948512975433787
   - date: 2025-02-26
     event: After days of sustained questioning about who the USDS Administrator is, the White House gives the name of Amy Gleason. It is unclear how long she had been in the role.
+    named:
+    - Amy Gleason
     source: https://www.npr.org/2025/02/26/nx-s1-5310634/amy-gleason-doge-administrator
   - date: 2025-02-27
     event: U.S. District Judge John Bates orders that some DOGE officials should be required to testify under oath
@@ -616,6 +618,11 @@ agencies:
   - date: 2025-03-10
     event: U.S. District Judge Christopher Cooper demands a rolling production of DOGE to produce documents in discovery within weeks
     source: https://www.politico.com/news/2025/03/10/judge-orders-doge-record-release-00223151
+  - date: 2025-03-10
+    event: Elon Musk claims there are about 100 DOGE staffers and he has plans to double to 200. He also claims they are in every federal Department.
+    named:
+    - Elon Musk
+    source: https://www.nbcnews.com/politics/doge/musk-says-doge-almost-every-federal-agency-plans-double-staff-rcna195735
   - date: 2025-03-12
     event: US District Judge Tanya Chutkan issues an order giving DOGE and Elon Musk three weeks to comply with document discovery requests about its staffing and downsizing plans for agencies
     source: https://www.politico.com/news/2025/03/12/elon-musk-judge-orders-discovery-00227924
@@ -628,7 +635,9 @@ agencies:
     event: In a ruling in J. Doe 1-26 v. Musk (D. Md), Judge Theodore D. Chuang declares that evidence shows that Elon Musk was effectively running DOGE without being appointed to the role
     source: https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rZttxcbH9cfc/v0
   - date: 2025-03-19
-    event: In another sworn statement, Amy Gleason declares "every member of an agency's DOGE Team is an employee of the agency or a detailee to the agency." She does clarify that some are detailed from USDS but also claims they report to agency heads.
+    event: In another sworn statement, Amy Gleason declares "every member of an agency's DOGE Team is an employee of the agency or a detailee to the agency." She does clarify that some are detailed from USDS but also claims they report to agency heads. She reports thar USDS has approximately 79 directly appointed employees and 10 employees detailed from other agencies.
+    named:
+    - Amy Gleason
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277646/gov.uscourts.dcd.277646.24.2.pdf
   - date: 2025-03-19
     event: In a sworn statement, Jeremy Lewin declares he has never been an employee of USDS or Elon Musk but reports he was the DOGE team lead at USAID for a while
@@ -636,7 +645,7 @@ agencies:
     - Jeremy Lewin
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576293/gov.uscourts.mdd.576293.77.2.pdf
   - date: 2025-03-20
-    event: In a response to the court order by Judge Cooper in CREW v. DOGE, the government estimates it would need to produce 105,403 documents in discovery
+    event: In a response to the court order by Judge Cooper in CREW v. DOGE, the government estimates it would need to produce 105,403 documents in response to the CREW FOIA requests
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277646/gov.uscourts.dcd.277646.25.0.pdf
   - date: 2025-03-20
     event: President Trump issues an executive order demaning that agency heads must share all access to any unclassified datasets "related to the identification and elimination of waste, fraud, and abuse" but also "to the maximum extent consistent with law"
@@ -644,6 +653,9 @@ agencies:
   - date: 2025-03-25
     event: Within a large executive order about voting, Trump orders DOGE "to review each State's publicly available voter registration list and available records concerning voter list maintenance activities."
     source: https://www.businessinsider.com/trump-doge-voter-rolls-executive-order-2025-3
+  - date: 2025-03-27
+    event: DOGE provides an updated estimate of documents that would be subject to CREW's FOIA requests as 58,000
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277646/gov.uscourts.dcd.277646.28.0.pdf
   cases:
   - name: Public Citizen Inc et al v. Donald J. Trump and Office of Management and Budget (D.D.C.)
     description: Two advocacy organizations and the American Federation of Government Employees sued that DOGE creation violated the Federal Advisory Committee Act
@@ -666,6 +678,11 @@ agencies:
     case_no: 1.25-cv-00429
     date_filed: 2025-02-13
     link: https://www.courtlistener.com/docket/69638651/new-mexico-state-of-v-musk/
+  - name: Citizens For Responsibility and Ethics in Washington (CREW) vs. DOGE Service (D.D.C.)
+    description: Plaintiff claims that the United States DOGE Service (USDS) “has provided no meaningful transparency into its operations or assurances that it is maintaining proper records.” The complaint alleges that Defendants have refused to comply with FOIA requests for records and demands for records preservation under the Federal Records Act (FRA).
+    case_no: 1:25-cv-00511
+    date_filed: 2025-02-20
+    link: https://www.courtlistener.com/docket/69658871/citizens-for-responsibility-and-ethics-in-washington-v-us-doge-service/
   - name: Japanese American Citizens League v. Musk (D.D.C.)
     description: Plaintiffs allege that they are harmed by DOGE's cutting of federal funding and firing of federal employees, including in the work of the National Park Service and historic sites, and they are violating the separation of powers, Appointments Clause and Administrative Procedure Act
     case_no: 1:25-cv-00643
