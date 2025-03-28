@@ -186,6 +186,7 @@ Baris Akis:
   agencies:
   - Department of the Treasury
   - Internal Revenue Service
+  - Office of Personnel Management
 
 Brad Smith:
   agencies:
@@ -256,6 +257,10 @@ Bryton Shang:
     name: Bryton Shang
     source: https://www.cnn.com/2025/03/07/climate/trump-doge-california-water/index.html
 
+Cary Volpert:
+  agencies:
+  - Veterans Affairs
+
 Charles Ezell:
   agencies:
   - Office of Personnel Management
@@ -315,6 +320,7 @@ Cole Killian:
   agencies:
   - Department of Labor
   - Environmental Protection Agency
+  - General Services Administration
   - Social Security Administration
   - US Digital Service/Department of Government Efficiency
   events:
@@ -461,6 +467,7 @@ Ethan Shaotran:
   agencies:
   - Department of Education
   - General Services Administration
+  - Housing and Urban Development
   - Social Security Administration
   - U.S. African Development Foundation
   - US Digital Service/Department of Government Efficiency
@@ -500,6 +507,10 @@ Ethan Shaotran:
     event: DOGE staff Jacob Altik and Ethan Shaotran return joined by Nate Cavanaugh with US marshals to force entry to the agency
     name: Ethan Shaotran
     source: https://www.thedailybeast.com/elon-musks-doge-goons-in-tense-standoff-video-unmasked/
+
+Frank Schuler:
+  agencies:
+  - General Services Administration
 
 Gavin Kliger:
   agencies:
@@ -554,6 +565,7 @@ Greg Hogan:
 Jacob Altik:
   agencies:
   - Office of Personnel Management
+  - Social Security Administration
   - U.S. African Development Foundation
   - US Digital Service/Department of Government Efficiency
   - US Institute of Peace
@@ -1206,6 +1218,7 @@ Riccardo Biasini:
 
 Riley Sennott:
   agencies:
+  - General Services Administration
   - National Aeronautics and Space Administration
   - US Digital Service/Department of Government Efficiency
   events:
@@ -1349,6 +1362,11 @@ Steve Davis:
     event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government spending. Amy Gleason did not appear.
     name: Steve Davis
     source: https://www.nbcnews.com/politics/doge/elon-musks-doge-tries-put-new-faces-reclusive-federal-office-rcna198491
+  - agency: Social Security Administration
+    date: '2025-03-28'
+    event: Reports emerge that DOGE is planning to rewrite the entire COBOL codebase for Social Security to Java in months using generative AI
+    name: Steve Davis
+    source: https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/
 
 Tarak Makecha:
   agencies:
