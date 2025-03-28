@@ -656,6 +656,17 @@ agencies:
   - date: 2025-03-27
     event: DOGE provides an updated estimate of documents that would be subject to CREW's FOIA requests as 58,000
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277646/gov.uscourts.dcd.277646.28.0.pdf
+  - date: 2025-03-27
+    event: Elon Musk and 7 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government spending. Amy Gleason did not appear.
+    named:
+    - Elon Musk
+    - Joe Gebbia
+    - Tom Krause
+    - Steve Davis
+    - Anthony Armstrong
+    - Aram Moghaddassi
+    - Brad Smith
+    source: https://www.nbcnews.com/politics/doge/elon-musks-doge-tries-put-new-faces-reclusive-federal-office-rcna198491
   cases:
   - name: Public Citizen Inc et al v. Donald J. Trump and Office of Management and Budget (D.D.C.)
     description: Two advocacy organizations and the American Federation of Government Employees sued that DOGE creation violated the Federal Advisory Committee Act
@@ -1279,9 +1290,27 @@ agencies:
     - Ethan Shaotran
     date: 2025-03-26
   events:
+  - date: 2025-01-20
+    event: Stephen Ehikian is sworn in as a Deputy Administrator of the real estate division and Acting Administrator of the GSA
+    named:
+    - Stephen Ehikian
+    source: https://www.nextgov.com/people/2025/01/gsa-announces-new-fas-tts-leadership/402485/
+  - date: 2025-01-24
+    event: Thomas Shedd, a 28-year-old with 8 years of experience working for Tesla, is named the head of GSA's Technology Transformation Service (TTS), the parent of 18F, login.gov and FedRAMP among others.
+    named:
+    - Thomas Shedd
+    source: https://www.nextgov.com/people/2025/01/gsa-announces-new-fas-tts-leadership/402485/
+  - date: 2025-02-10
+    event: Unnamed DOGE staff using non-government accounts conduct dozens of "touch-base" interviews with dozens of US Digital Corps fellows, under the direction of Thomas Shedd
+    named:
+    - Thomas Shedd
+    source: https://fedscoop.com/doge-sessions-gsa-staff-probationary-terminations/
   - date: 2025-02-12
-    event: Dozens of workers within the Technology Transformation Service (TTS) are fired.
-    source: https://www.wired.com/story/doge-access-consumer-financial-protection-bureau-data/
+    event: GSA staff describe being subjected to 15-minute interviews where they felt they were asked to justify their jobs
+    source: https://www.politico.com/news/2025/02/12/government-workers-doge-interviews-016214
+  - date: 2025-02-12
+    event: Dozens of probationary workers within the Technology Transformation Service (TTS) are fired, with many of the cuts focused on the US Digital Corps and Presidential Innovation Fellows programs
+    source: https://www.nextgov.com/people/2025/02/gsa-cut-least-100-employees-feds-inside-agency-say/402975/
   - date: 2025-02-18
     event: A GSA employee resigned rather than give unrestricted admin access of Notify.gov to Thomas Shedd
     named:
