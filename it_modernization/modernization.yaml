@@ -2203,9 +2203,9 @@ agencies:
 - name: Securities and Exchange Commission
   acronym: SEC
   events:
-  - date: 2025-02-17
-    event: SEC staff report the imminent arrival of DOGE to to the agency
-    source: https://www.politico.com/news/2025/02/17/musk-doge-securities-exchange-commission-00204621
+  - date: 2025-03-28
+    event: SEC employees receive an email that the agency is beginning to onboard DOGE staff
+    source: https://www.reuters.com/world/us/us-securities-exchange-commission-beginning-onboard-doge-staff-email-says-2025-03-28/
 
 - name: Social Security Administration
   acronym: SSA
