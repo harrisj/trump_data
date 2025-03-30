@@ -113,6 +113,11 @@ Amy Gleason:
     event: Amy Gleason joins the USDS, according to her sworn testimony.
     name: Amy Gleason
     source: https://www.documentcloud.org/documents/25564597-crewvdogereconmot031425/
+  - agency: Centers for Medicare and Medicaid Services
+    date: '2025-02-24'
+    event: Amy Gleason is granted read-only access to the CMS Acquisition Lifecycle Modernization (CALM) system. She is reportedly not granted access to other systems.
+    name: Amy Gleason
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - agency: US Digital Service/Department of Government Efficiency
     date: '2025-02-26'
     event: After days of sustained questioning about who the USDS Administrator is, the White House gives the name of Amy Gleason. It is unclear how long she had been in the role.
@@ -375,6 +380,7 @@ Derek Geissler:
 
 Edward Coristine:
   agencies:
+  - Centers for Medicare and Medicaid Services
   - Cybersecurity and Infrastructure Security Agency
   - Department of Education
   - Department of Homeland Security
@@ -407,6 +413,31 @@ Edward Coristine:
     event: Division leaders at the Cybersecurity and Infrastructure Security Agency informed some senior CISA staffers that DOGE has access to internal emails and Microsoft Teams chats of employees.
     name: Edward Coristine
     source: https://www.nbcnews.com/politics/donald-trump/live-blog/trump-france-emmanuel-macron-white-house-ukraine-tariffs-live-updates-rcna193386#rcrd73638
+  - agency: Centers for Medicare and Medicaid Services
+    date: '2025-03-05'
+    event: Edward Coristine is detailed to HHS from GSA, where he is reported as an employee
+    name: Edward Coristine
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Centers for Medicare and Medicaid Services
+    date: '2025-03-05'
+    event: Edward Coristine and Marko Elez are granted read-only access to the CMS Acquisition Lifecycle Modernization (CALM) system. She is reportedly not granted access to other systems.
+    name: Edward Coristine
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Centers for Medicare and Medicaid Services
+    date: '2025-03-05'
+    event: Edward Coristine and Marko Elez are granted read-only access to the Healthcare Integrated General Ledger Accounting System (HIGLAS) system by the CIO of the CMS Office of Information Technology
+    name: Edward Coristine
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Centers for Medicare and Medicaid Services
+    date: '2025-03-11'
+    event: Edward Coristine is granted read-only access to the Integrated Data Repository (IDR) system by the CIO of the CMS Office of Information Technology
+    name: Edward Coristine
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Health and Human Services
+    date: '2025-03-29'
+    event: In a filing, DOJ asserts that Edward Coristine and Marko Elez no longer have access to HHS systems
+    name: Edward Coristine
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
 
 Elon Musk:
   agencies:
@@ -711,6 +742,21 @@ Jordan Wick:
   - US Digital Service/Department of Government Efficiency
   events:
   - agency: Consumer Financial Protection Bureau
+    date: '2025-02-07'
+    event: Jordan Wick, Nikhil Rajpal and Luke Farritor are granted read-only access to the Procurement Request Information System Management (PRISM), webTA, Data Insight, USAStaffing, Invoice Processing Platform (IPP), Oracle Business Intelligence (OBI), oneARC, G-Invoicing, and Concur
+    name: Jordan Wick
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Consumer Financial Protection Bureau
+    date: '2025-02-07'
+    event: Jordan Wick, Nikhil Rajpal and Luke Farritor are granted full admin access to the HRConnect system
+    name: Jordan Wick
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Consumer Financial Protection Bureau
+    date: '2025-02-09'
+    event: Jordan Wick is granted full admin access to the Microsoft Entra system
+    name: Jordan Wick
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Consumer Financial Protection Bureau
     date: '2025-02-12'
     event: Adam Martinez, CFPB COO, includes DOGE representatives in emails hiring OPM for consulting on Reduction-in-Force planning for the CFPB
     name: Jordan Wick
@@ -727,9 +773,14 @@ Jordan Wick:
     source: https://www.nbcnews.com/tech/security/doge-software-approval-alarms-labor-department-employees-data-security-rcna191583
   - agency: Consumer Financial Protection Bureau
     date: '2025-03-05'
-    event: Jordan Wick is formally onboarded as an employee of the CFPB (and not a DOGE detailee) and swears the Oath of Office
+    event: Jordan Wick's elevated admin access to CFPB systems is revoked
     name: Jordan Wick
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.65.2.pdf
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Consumer Financial Protection Bureau
+    date: '2025-03-05'
+    event: Jordan Wick is formally onboarded as a CFPB employee on March 5 (while remaining an employee of USDS). Prior to that, he was detailed to the CFPB from USDS.
+    name: Jordan Wick
+    source: hhttps://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
 
 Joshua Fox:
   agencies:
@@ -821,6 +872,7 @@ Kyle Schutt:
   - Department of Homeland Security
   - Federal Emergency Management Agency
   - General Services Administration
+  - Health and Human Services
   - US Digital Service/Department of Government Efficiency
   events:
   - agency: Cybersecurity and Infrastructure Security Agency
@@ -828,6 +880,16 @@ Kyle Schutt:
     event: Edward Coristine and Kyle Schutt are given access to CISA systems
     name: Kyle Schutt
     source: https://www.wired.com/story/doge-cisa-coristine-cybersecurity/
+  - agency: Health and Human Services
+    date: '2025-03-14'
+    event: Kyle Schutt is detailed to the Administration for Children and Families (ACF) office at HHS from the GSA. He also is detailed to the USDS
+    name: Kyle Schutt
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Health and Human Services
+    date: '2025-03-21'
+    event: Kyle Schutt is granted read-only access to the Unaccompanied Alien Children (UAC) Portal
+    name: Kyle Schutt
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
 
 Leland Dudek:
   agencies:
@@ -889,21 +951,66 @@ Luke Farritor:
   - US Agency for International Development
   - US Digital Service/Department of Government Efficiency
   events:
+  - agency: Health and Human Services
+    date: '2025-01-21'
+    event: According to a government declaration, Luke Farritor is detailed from the GSA to Health and Human Services
+    name: Luke Farritor
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Health and Human Services
+    date: '2025-01-22'
+    event: Luke Farritor is granted full admin access to the Payment Management System (PMS)
+    name: Luke Farritor
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Health and Human Services
+    date: '2025-01-27'
+    event: Luke Farritor is granted read-only access to the GrantSolutions by the Director, Security and Data Project Management Office, HHS Office of Grants
+    name: Luke Farritor
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - agency: US Agency for International Development
     date: '2025-01-27'
     event: A DOGE official first arrives at USAID. Later, senior staff are summoned to a meeting with Gavin Kliger and Luke Farritor.
     name: Luke Farritor
     source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
+  - agency: Health and Human Services
+    date: '2025-01-29'
+    event: Luke Farritor is granted full-admin access to the HHS Consolidated Acquisition System (HCAS) by the Executive Director, Strategic Programs and Business Systems at the Office of the Assistant Secretary for Financial Resources (ASFR)
+    name: Luke Farritor
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Centers for Disease Control and Prevention
+    date: '2025-01-30'
+    event: Luke Farritor is granted access to the Integrated Contracts Expert (ICE) system at CDC by the Office of the CIO
+    name: Luke Farritor
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - agency: US Agency for International Development
     date: '2025-01-30'
     event: Farritor and Kliger demanded that all senior managers be stripped of their power to authorize payments - and that they alone become the authorizers.
     name: Luke Farritor
     source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
+  - agency: Centers for Medicare and Medicaid Services
+    date: '2025-01-31'
+    event: Luke Farritor is granted read-only access to the Healthcare Integrated General Ledger Accounting System (HIGLAS) by the CIO, CMS Office of Information Technology
+    name: Luke Farritor
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - agency: Department of Energy
     date: '2025-02-05'
     event: Luke Farritor was granted access to the Energy Department's IT system on Wednesday by Energy Secretary Chris Wright over objections from agency security staff
     name: Luke Farritor
     source: https://www.cnn.com/2025/02/06/climate/doge-energy-department-trump/index.html
+  - agency: Consumer Financial Protection Bureau
+    date: '2025-02-07'
+    event: Jordan Wick, Nikhil Rajpal and Luke Farritor are granted read-only access to the Procurement Request Information System Management (PRISM), webTA, Data Insight, USAStaffing, Invoice Processing Platform (IPP), Oracle Business Intelligence (OBI), oneARC, G-Invoicing, and Concur
+    name: Luke Farritor
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Consumer Financial Protection Bureau
+    date: '2025-02-07'
+    event: Jordan Wick, Nikhil Rajpal and Luke Farritor are granted full admin access to the HRConnect system
+    name: Luke Farritor
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Consumer Financial Protection Bureau
+    date: '2025-02-07'
+    event: Nikhil Rajpal and Luke Farritor are granted full admin access to the Microsoft Entra system
+    name: Luke Farritor
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - agency: US Agency for International Development
     date: '2025-02-09'
     event: Gavin Kliger and Luke Farritor completely remove all access to the payments system for all other USAID staff
@@ -914,11 +1021,41 @@ Luke Farritor:
     event: Edward Coristine and Luke Farritor are posted to the State Department's Bureau of Diplomatic Technology
     name: Luke Farritor
     source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
+  - agency: Centers for Medicare and Medicaid Services
+    date: '2025-02-18'
+    event: Luke Farritor is granted read-only access to Integrated Data Repository (IDR) at CMS on February 18, 2025, by the CIO, CMS Office of Information Technology;
+    name: Luke Farritor
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Centers for Disease Control and Prevention
+    date: '2025-02-24'
+    event: Luke Farritor is granted access to the Acquisition Performance and Execution (APEX) system at CDC by the Office of the CIO
+    name: Luke Farritor
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - agency: National Institute of Health
     date: '2025-02-24'
     event: Reports that DOGE have accounts are working with the NIH Business System Department for NIH's central electronic business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
     name: Luke Farritor
     source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
+  - agency: Health and Human Services
+    date: '2025-02-28'
+    event: Luke Farritor is granted full admin access to the Enterprise Human Capital Management System (EHCM) by the Human Resources Information System Security Officer
+    name: Luke Farritor
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: National Institute of Health
+    date: '2025-02-28'
+    event: Luke Farritor is granted access to NIH Business System EBS and PRISM systems by NIH's office of the CIO
+    name: Luke Farritor
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Consumer Financial Protection Bureau
+    date: '2025-03-04'
+    event: Luke Farritor is no longer detailed to the CFPB
+    name: Luke Farritor
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Health and Human Services
+    date: '2025-03-21'
+    event: Luke Farritor is granted admin read-write access to Grants.gov by the Assistant Secretary for Financial Resources (ASFR)
+    name: Luke Farritor
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
 
 Marc Andreessen:
   agencies:
@@ -926,6 +1063,7 @@ Marc Andreessen:
 
 Marko Elez:
   agencies:
+  - Centers for Medicare and Medicaid Services
   - Customs and Border Patrol
   - Department of Homeland Security
   - Department of Labor
@@ -1005,6 +1143,56 @@ Marko Elez:
     event: John York, a senior counselor to Bessent, wrote in a sworn statement that Ryan Wunderly would take over Marko Elez's work at the BFS
     name: Marko Elez
     source: https://www.politico.com/news/2025/02/20/treasury-irs-data-white-house-doge-00205391
+  - agency: Department of Labor
+    date: '2025-02-25'
+    event: Marko Elez is granted access read-only access to USAccess by Troy Finnegan, Former Assistant Secretary for Administration and Management
+    name: Marko Elez
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Department of Labor
+    date: '2025-02-25'
+    event: Marko Elez is granted access read-only access to DOL Homeland Security Presidential Directive 12 (HSPD-12) Enterprise Physical Access Control System (EPACS) by Troy Finnegan, Former Assistant Secretary for Administration and Management
+    name: Marko Elez
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Department of Labor
+    date: '2025-02-25'
+    event: Marko Elez is granted access read-only access to DOL Directory Resource Administrator (DRA) by Troy Finnegan, Former Assistant Secretary for Administration and Management
+    name: Marko Elez
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Centers for Medicare and Medicaid Services
+    date: '2025-03-05'
+    event: Marko Elez is detailed to HHS from the Department of Labor, where he is reported as an employee. He is also detailed to USDS
+    name: Marko Elez
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Centers for Medicare and Medicaid Services
+    date: '2025-03-05'
+    event: Edward Coristine and Marko Elez are granted read-only access to the CMS Acquisition Lifecycle Modernization (CALM) system. She is reportedly not granted access to other systems.
+    name: Marko Elez
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Centers for Medicare and Medicaid Services
+    date: '2025-03-05'
+    event: Edward Coristine and Marko Elez are granted read-only access to the Healthcare Integrated General Ledger Accounting System (HIGLAS) system by the CIO of the CMS Office of Information Technology
+    name: Marko Elez
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Centers for Medicare and Medicaid Services
+    date: '2025-03-05'
+    event: Marko Elez is granted read-only access to the Integrated Data Repository (IDR) system by the CIO of the CMS Office of Information Technology
+    name: Marko Elez
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Health and Human Services
+    date: '2025-03-05'
+    event: Marko Elez is granted read-only access to National Directory of New Hires (NDNH) database by the Administration for Children and Families (ACF) CTO
+    name: Marko Elez
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Department of Labor
+    date: '2025-03-21'
+    event: Marko Elez is granted access read-only access to Unemployment Insurance Data and Related Records  by Thomas Shedd, the new CIO
+    name: Marko Elez
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Health and Human Services
+    date: '2025-03-29'
+    event: In a filing, DOJ asserts that Edward Coristine and Marko Elez no longer have access to HHS systems
+    name: Marko Elez
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
 
 Mattieu Gamache-Asselin:
   agencies:
@@ -1161,6 +1349,26 @@ Nikhil Rajpal:
     event: DOGE staff enter CFPB facilities and are given equipment and onboarded
     name: Nikhil Rajpal
     source: https://www.wired.com/story/doge-access-consumer-financial-protection-bureau-data/
+  - agency: Consumer Financial Protection Bureau
+    date: '2025-02-07'
+    event: Jordan Wick, Nikhil Rajpal and Luke Farritor are granted read-only access to the Procurement Request Information System Management (PRISM), webTA, Data Insight, USAStaffing, Invoice Processing Platform (IPP), Oracle Business Intelligence (OBI), oneARC, G-Invoicing, and Concur
+    name: Nikhil Rajpal
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Consumer Financial Protection Bureau
+    date: '2025-02-07'
+    event: Jordan Wick, Nikhil Rajpal and Luke Farritor are granted full admin access to the HRConnect system
+    name: Nikhil Rajpal
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Consumer Financial Protection Bureau
+    date: '2025-02-07'
+    event: Nikhil Rajpal and Luke Farritor are granted full admin access to the Microsoft Entra system
+    name: Nikhil Rajpal
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Consumer Financial Protection Bureau
+    date: '2025-03-21'
+    event: Nikhil Rajpal is no longer detailed to the CFPB
+    name: Nikhil Rajpal
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
 
 Noah Peters:
   agencies:
