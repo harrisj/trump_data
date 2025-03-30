@@ -44,13 +44,15 @@
                         "date",
                         "event",
                         "source"
-                    ]
+                    ],
+                    "additionalProperties": false
                 }
             }
         },
         "required": [
             "agencies",
             "events"
-        ]
+        ],
+        "additionalProperties": false
     }
 }

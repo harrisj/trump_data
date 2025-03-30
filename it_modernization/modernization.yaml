@@ -294,10 +294,6 @@ agencies:
     description: HR system for CFPB employees
     risk: PII of CFPB employees, including SSN, home address, and employment records
     sorn: https://www.consumerfinance.gov/privacy/system-records-notices/employee-administrative-records/
-    sorn_individuals: >
-      CFPB Employees and their named dependents and/or beneficiaries, their named emergency contacts, and individuals who have been extended offers of employment.
-    sorn_records: >
-      Records in this system may contain identifiable information about individuals including, without limitation:  (1) Identification and contact information, including name, address, email address, phone number and other contact  information; (2) employee emergency contact information, including name, phone number, relationship to employee  or emergency contact; (3) Social Security number (SSN), employee ID number, organization code, pay rate, salary,  grade, length of service, and other related pay and leave records including payroll data; (4) biographic and  demographic data, including date of birth and marital or domestic partnership status; (5) employment-related  information such as performance reports, training, professional licenses, certification, and memberships  information, alternative dispute resolution processes, fitness center membership information, union dues,  employee claims for loss or damage to personal property, and other information related to employment  by the Bureau; (6) benefits data, such as health, life, travel, and disability insurance information;  (7) retirement benefits information and flexible spending account information; and (8) time and attendance records.
   - name: PRISM
     description: System for tracking procurement and contracting
     link: https://www.doi.gov/ibc/services/finance/financial-systems/prism
@@ -588,10 +584,6 @@ agencies:
   - date: 2025-03-13
     event: Ross Graeber is named the new CIO of the Department of Energy, after working with DOGE at the Department of State
     source: https://www.nextgov.com/people/2025/03/energy-appoints-twitter-google-alum-new-cio/403717/
-  systems:
-  - name: Office365
-    description: "Basic IT including email and Microsoft 365"
-    source: https://www.cnn.com/2025/02/06/climate/doge-energy-department-trump/index.html
 
 - name: US Digital Service/Department of Government Efficiency
   acronym: USDS/DOGE
@@ -644,7 +636,7 @@ agencies:
     - Chris Young
   - source: https://projects.propublica.org/elon-musk-doge-tracker/
     organization: ProPublica
-    context: I am also including Executive Office of the President (EOP) positions
+    comment: I am also including Executive Office of the President (EOP) positions
     named:
     - Justin Aimonetti
     - Jacob Altik
@@ -980,7 +972,7 @@ agencies:
   - source: https://www.businessinsider.com/doge-staffer-fertility-clinic-pronatalist-department-of-labor
     organization: Business Insider
     date: 2025-03-05
-    context: Business Insider reports Marko Elez, Aram Moghaddassi, and Miles B. Collins are new DOGE arrivals at Department of Labor
+    comment: Business Insider reports Marko Elez, Aram Moghaddassi, and Miles B. Collins are new DOGE arrivals at Department of Labor
     named:
     - Marko Elez
     - Aram Moghaddassi
@@ -1052,6 +1044,11 @@ agencies:
     named:
     - Keith Sonderling
     source: https://news.artnet.com/art-world/doge-imls-institute-museum-library-services-2623286
+  - date: 2025-03-19
+    event: Marko Elez affirms he has completed his mandatory privacy training at the Department of Labor
+    named:
+    - Marko Elez
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.3.pdf
   - date: 2025-03-20
     event: Trump issues an executive order which explicitly includes an instruction that "the Secretary of Labor and the Secretary's designees shall receive, to the maximum extent consistent with law, unfettered access to all unemployment data and related payment records, including all such data and records currently available to the Department of Labor's Office of Inspector General."
     source: https://www.whitehouse.gov/presidential-actions/2025/03/stopping-waste-fraud-and-abuse-by-eliminating-information-silos/
@@ -1498,7 +1495,7 @@ agencies:
   - source: https://www.wired.com/story/doge-government-salaries-elon-musk/
     organization: Wired Magazine
     date: 2025-03-04
-    context: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid in the GSA, but others are listed as volunteers for that agency
+    comment: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid in the GSA, but others are listed as volunteers for that agency
     named:
     - Kyle Schutt
     - Nate Cavanaugh
@@ -1651,7 +1648,7 @@ agencies:
   - source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
     organization: Court filing in AFL-CIO et al. vs. Department of Labor
     date: 2025-03-13
-    context: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
+    comment: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
     named:
     - Edward Coristine
     - Marko Elez
@@ -1668,8 +1665,14 @@ agencies:
     - Amy Gleason
     - Clark Minor
     - Rachel Riley
+  - source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.4.pdf
+    organization: Court declaration of plaintiff counsel Alexa T. Milton
+    date: 2025-03-29
+    named:
+    - Conor Fennessy
+    - Jeremy Lewin
   - source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    organization: Department of Justice filing
+    organization: Department of Justice filing of staff at HHS
     date: 2025-03-29
     named:
     - Edward Coristine
@@ -1844,8 +1847,6 @@ agencies:
 
 - name: Institute for Museum and Library Services
   acronym: IMLS
-  people:
-  - Keith Sonderling
   events:
   - date: 2025-03-14
     event: Trump issues a new executive order proclaiming that the IMLS among other agencies must be reduced to statutory functions only
@@ -2021,8 +2022,6 @@ agencies:
   - date: 2025-02-05
     event: NOAA employees were ordered to grant Rajpal editor access to all NOAA Google sites on instructions of the acting commerce secretary, Jeremy Pelter, by the close of business.
     source: https://www.wired.com/story/doge-engineer-noaa-data-google-musk-climate-project-2025/
-  people:
-  - Nikhil Rajpal
   systems:
   - name: NOAA Google enterprise systems
     description: Not more precisely described, but this seems to be Google Drive and email
@@ -2030,11 +2029,6 @@ agencies:
 
 - name: National Institute of Health
   acronym: NIH
-  people:
-  - Luke Farritor
-  - Rachel Riley
-  - Jeremy Lewin
-  - Clark Minor
   events:
   - date: 2025-02-24
     event: Reports that DOGE have accounts are working with the NIH Business System Department for NIH's central electronic business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
@@ -2058,10 +2052,6 @@ agencies:
     description: is the central electronic business system of the NIH including the general ledger, finance, budget, procurement, supply, travel, and property management systems. NBS is aimed at improving data consolidation and financial reporting capabilities.
     risk: As a payment system, includes names, SSNs, TINs, and other PII of persons/entities receiving payments from NIH
     sorn: https://www.federalregister.gov/documents/2002/08/22/02-21348/privacy-act-of-1974-proposed-new-system-of-records
-    sorn_individuals: >
-      The proposed system of records covers all persons who receive a payment exclusive of salary or wages, from the NIH,  and all persons owing money to the NIH. Persons receiving payments include, but are not limited to, travelers on  official business, grantees, contractors, consultants, Fellows and recipients of loans and scholarships. Persons  owing monies include, but are not limited to, persons who have been overpaid and who owe the NIH a refund the  persons who have received from NIH goods or services for which there is a charge or fee.
-    sorn_records: >
-      Name, Social Security Number (SSN) or EIN/TID, address, email address, phone number, purpose of payment or request  for payment, bank account and routing numbers, accounting classification and the amount paid or billed. Also, in the  event of an overpayment and for outstanding charges, fees, loans, grants or scholarships, the amount of the indebtedness, the repayment status and the amount to be collected. In the event of an administrative wage garnishment, information about the debtor's employment status and disposable pay available for withholding will be maintained.
 
 - name: National Institute of Standards and Technology
   acronym: NIST
@@ -2438,7 +2428,7 @@ agencies:
     named:
     - Mike Russo
   - source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
-    context: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
+    comment: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
     organization: The Handbasket
     date: 2025-02-20
     named:
@@ -2450,7 +2440,7 @@ agencies:
   - source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
     organization: Wired Magazine
     date: 2025-03-13
-    context: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    comment: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     named:
     - Akash Bobba
     - Scott Coulter

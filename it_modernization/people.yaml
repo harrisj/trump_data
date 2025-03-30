@@ -685,6 +685,7 @@ Jeremy Lewin:
   - Consumer Financial Protection Bureau
   - Department of State
   - General Services Administration
+  - Health and Human Services
   - National Institute of Health
   - US Agency for International Development
   - US Digital Service/Department of Government Efficiency
@@ -1183,6 +1184,11 @@ Marko Elez:
     event: Marko Elez is granted read-only access to National Directory of New Hires (NDNH) database by the Administration for Children and Families (ACF) CTO
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Department of Labor
+    date: '2025-03-19'
+    event: Marko Elez affirms he has completed his mandatory privacy training at the Department of Labor
+    name: Marko Elez
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.3.pdf
   - agency: Department of Labor
     date: '2025-03-21'
     event: Marko Elez is granted access read-only access to Unemployment Insurance Data and Related Records  by Thomas Shedd, the new CIO

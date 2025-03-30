@@ -30,7 +30,7 @@
                                     "description": "The name of the organization providing this roundup",
                                     "type": "string"
                                 },
-                                "context": {
+                                "comment": {
                                     "description": "A text description of the roundup's context if applicable",
                                     "type": "string"
                                 },
@@ -47,7 +47,8 @@
                                     }
                                 }
                             },
-                            "required": ["source", "organization", "named"]
+                            "required": ["source", "organization", "named"],
+                            "additionalProperties": false
                         }
                     },
                     "events": {
@@ -79,7 +80,8 @@
                                     "format": "uri"
                                 }
                             },
-                            "required": ["date", "event", "source"]
+                            "required": ["date", "event", "source"],
+                            "additionalProperties": false
                         }
                     },
                     "vandalism": {
@@ -127,7 +129,8 @@
                                     "format": "uri"
                                 }
                             },
-                            "required": ["name", "description"]
+                            "required": ["name", "description"],
+                            "additionalProperties": false
                         }
                     },
                     "cases": {
@@ -139,6 +142,10 @@
                                     "type": "string",
                                     "description": "The name of the case"
                                 },
+                                "description": {
+                                    "type": "string",
+                                    "description": "A text description of the case"
+                                },
                                 "case_no": {
                                     "type": "string",
                                     "description": "A case-number identifier"
@@ -147,6 +154,10 @@
                                     "type": "string",
                                     "description": "An ISO8601 date string for when the case was filed"
                                 },
+                                "status": {
+                                    "type": "string",
+                                    "description": "A description of the case status"
+                                },
                                 "link": {
                                     "type": "string",
                                     "description": "A URL for the case on Court Listener",
@@ -154,7 +165,8 @@
                                 }
 
                             },
-                            "required": ["name", "case_no", "link", "date_filed"]
+                            "required": ["name", "case_no", "link", "date_filed"],
+                            "additionalProperties": false
                         }
                     },
                     "sources": {
@@ -167,9 +179,11 @@
                         }
                     }
                 },
-                "required": ["name", "acronym"]
+                "required": ["name", "acronym"],
+                "additionalProperties": false
             }
         }
     },
-    "required": ["agencies"]
+    "required": ["agencies"],
+    "additionalProperties": false
 }
