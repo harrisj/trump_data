@@ -82,7 +82,7 @@ agencies:
     - Amy Gleason
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - date: 2025-03-05
-    event: Edward Coristine is detailed to HHS from GSA, where he is reported as an employee
+    event: Edward Coristine is detailed to HHS from GSA, where he is reported as an employee. He is also detailed to USDS.
     named:
     - Edward Coristine
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
@@ -92,7 +92,7 @@ agencies:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - date: 2025-03-05
-    event: Edward Coristine and Marko Elez are granted read-only access to the CMS Acquisition Lifecycle Modernization (CALM) system. She is reportedly not granted access to other systems.
+    event: Edward Coristine and Marko Elez are granted read-only access to the CMS Acquisition Lifecycle Modernization (CALM) system.
     named:
     - Edward Coristine
     - Marko Elez
@@ -123,7 +123,7 @@ agencies:
     description: System for tracking CMS acquisitions, contracts, milestones and audits.
   - name: Healthcare Integrated General Ledger Accounting System
     acronym: HIGLAS
-    link: https://www.cms.gov/about-cms/information-systems/higlas
+    link: https://www.cms.gov/about-cms/information-systems/higlas/higlas-architecture
     description: A single, integrated dual-entry accounting system that standardizes and centralizes federal financial accounting functions for all of CMS's programs.
   - name: Integrated Data Repository
     acronym: IDR
