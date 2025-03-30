@@ -66,6 +66,10 @@
                                     "type": "string",
                                     "description": "A description of the DOGE-related event"
                                 },
+                                "comment": {
+                                    "type": "string",
+                                    "description": "For making any comments about the event notes"
+                                },
                                 "named": {
                                     "type": "array",
                                     "description": "A list of DOGE staff named with the event",
