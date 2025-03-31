@@ -97,6 +97,11 @@ Amanda Scales:
     name: Amanda Scales
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.276820/gov.uscourts.dcd.276820.1.0.pdf
   - agency: Office of Personnel Management
+    date: '2025-01-31'
+    event: Federal employees at OPM are locked out of access to key systems by DOGE and OPM leadership
+    name: Amanda Scales
+    source: https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/
+  - agency: Office of Personnel Management
     date: '2025-03-24'
     event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge Boardman issues a preliminary injunction against access to internal systems at OPM by DOGE staff, but still allows it for OPM leadership including Ezell, Scales and Hogan
     name: Amanda Scales
@@ -270,6 +275,16 @@ Charles Ezell:
   agencies:
   - Office of Personnel Management
   events:
+  - agency: Office of Personnel Management
+    date: '2025-01-20'
+    event: Acting OPM Director Charles Ezell replaces existing CIO Melvin Brown with Greg Hogan
+    name: Charles Ezell
+    source: https://www.muskwatch.com/p/musk-associates-given-unfettered
+  - agency: Office of Personnel Management
+    date: '2025-01-31'
+    event: Federal employees at OPM are locked out of access to key systems by DOGE and OPM leadership
+    name: Charles Ezell
+    source: https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/
   - agency: Office of Personnel Management
     date: '2025-03-24'
     event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge Boardman issues a preliminary injunction against access to internal systems at OPM by DOGE staff, but still allows it for OPM leadership including Ezell, Scales and Hogan
@@ -587,6 +602,11 @@ Greg Hogan:
   agencies:
   - Office of Personnel Management
   events:
+  - agency: Office of Personnel Management
+    date: '2025-01-20'
+    event: Acting OPM Director Charles Ezell replaces existing CIO Melvin Brown with Greg Hogan
+    name: Greg Hogan
+    source: https://www.muskwatch.com/p/musk-associates-given-unfettered
   - agency: Office of Personnel Management
     date: '2025-03-24'
     event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge Boardman issues a preliminary injunction against access to internal systems at OPM by DOGE staff, but still allows it for OPM leadership including Ezell, Scales and Hogan

@@ -2127,6 +2127,16 @@ agencies:
     - Nikhil Rajpal
     - Austin Raynor
     - Amanda Scales
+  - date: 2025-02-03
+    organization: MuskWatch
+    named:
+    - Charles Ezell
+    - Amanda Scales
+    - Akash Bobba
+    - Brian Bjelde
+    - Gavin Kliger
+    - Greg Hogan
+    source: https://www.muskwatch.com/p/musk-associates-given-unfettered
   - source: https://www.npr.org/2025/02/07/nx-s1-5288988/doge-elon-musk-staff-trump
     organization: NPR
     date: 2025-02-07
@@ -2182,6 +2192,9 @@ agencies:
   events:
   - date: 2025-01-20
     event: Acting OPM Director Charles Ezell replaces existing CIO Melvin Brown with Greg Hogan
+    named:
+    - Charles Ezell
+    - Greg Hogan
     source: https://www.muskwatch.com/p/musk-associates-given-unfettered
   - date: 2025-01-20
     event: The DOGE team moves into OPM, installing sofa beds and armed security
@@ -2198,6 +2211,8 @@ agencies:
   - date: 2025-01-31
     event: Federal employees at OPM are locked out of access to key systems by DOGE and OPM leadership
     named:
+    - Charles Ezell
+    - Amanda Scales
     - Riccardo Biasini
     source: https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/
   - date: 2025-01-27
