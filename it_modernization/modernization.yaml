@@ -367,7 +367,7 @@ agencies:
     source: https://xcancel.com/SecRollins/status/1892777526704885880#m
 
 - name: Department of Defense
-  acronym: DoD
+  acronym: DOD
   events:
   - date: 2025-01-24
     event: Trump fires the DoD Inspector General in a late-night purge
@@ -586,7 +586,7 @@ agencies:
     source: https://www.nextgov.com/people/2025/03/energy-appoints-twitter-google-alum-new-cio/403717/
 
 - name: US Digital Service/Department of Government Efficiency
-  acronym: USDS/DOGE
+  acronym: DOGE
   roundups:
   - source: https://democrats-judiciary.house.gov/uploadedfiles/2025-03-17_raskin_connolly_foia_request.pdf
     date: 2025-03-17
@@ -3007,8 +3007,11 @@ agencies:
   acronym: USPS
   events:
   - date: 2025-03-13
-    event: Postmaster General Louid DeJoy sends a letter to Congress informing he has signed an agreement with GSA and DOGE to eliminate 10,000 jobs
+    event: Postmaster General Louis DeJoy sends a letter to Congress informing he has signed an agreement with GSA and DOGE to eliminate 10,000 jobs
     source: https://apnews.com/article/us-postal-service-doge-agreement-daf3bf54fa0718908791fcb368b4d9d8
+  - date: 2025-03-24
+    event: Postmaster General DeJoy resigns
+    source: https://www.usatoday.com/story/news/nation/2025/03/30/postal-service-changes-doge-musk/82696231007/
 
 - name: Veterans Affairs
   acronym: VA
@@ -3038,6 +3041,7 @@ agencies:
     source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
   - date: 2025-02-04
     event: A representative from DOGE was given access to contracting systems as well as information on VA operations and information technology systems.
+    comment: likely Justin Fulcher
     source: https://www.military.com/daily-news/2025/02/05/elon-musk-aide-now-working-va-and-accessing-its-computer-systems.html
   - date: 2025-02-10
     event: A day after a conservative activist flagged it on X, DOGE posts it has removed gender identity options from a VA form
@@ -3045,5 +3049,3 @@ agencies:
   - date: 2025-02-18
     event: Senate Democrats send letter to VA Secretary demanding information about DOGE's activities there
     source: https://fedscoop.com/veterans-affairs-data-doge-elon-musk/
-  sources:
-  - https://projects.propublica.org/elon-musk-doge-tracker/#Justin-Fulcher

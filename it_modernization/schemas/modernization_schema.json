@@ -12,8 +12,8 @@
                         "type": "string"
                     },
                     "acronym": {
-                        "description": "The acronym of the abbreviation (eg, NASA or CIA)",
-                        "type": "string"
+                        "description": "The acronym of the agency (eg, NASA or CIA) that we use as a unique ID. Some agencies like Treasury don't use acronyms.",
+                        "$ref": "valid_names.json#agency_ids"
                     },
                     "roundups": {
                         "description": "A summary of identifications made by media organizations of staff at the agency",
