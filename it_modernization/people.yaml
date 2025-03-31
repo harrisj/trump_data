@@ -14,19 +14,19 @@ Adam Ramada:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
   - agency: Department of Education
     date: '2025-01-28'
-    event: According to his sworn testimony, Adam Ramada is detailed from the USDS to the Department of Education
+    event: According to his sworn testimony, Adam Ramada is detailed from the USDS to the Department of Education. He says there is one other USDS staffer with him, two other detailees and two DOE staffers.
     name: Adam Ramada
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
-  - agency: Department of Education
-    date: '2025-01-28'
-    event: According to his sworn testimony, Adam Ramada started working at the Department of Education on this date. He says there is one other USDS staffer with him, two other detailees and two DOE staffers.
-    name: Adam Ramada
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.16.1.pdf
   - agency: Department of Labor
     date: '2025-02-13'
     event: DOGE is granted authorization to use file transfer software
     name: Adam Ramada
     source: https://www.nbcnews.com/tech/security/doge-software-approval-alarms-labor-department-employees-data-security-rcna191583
+  - agency: Department of Education
+    date: '2025-02-24'
+    event: A court ruling names the systems NSLDS, COD, FAS and FMS as being accessed by 6 DOGE staff at Education, but only identifies Adam Ramada
+    name: Adam Ramada
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.38.0.pdf
 
 Akash Bobba:
   agencies:
@@ -332,7 +332,12 @@ Clark Minor:
   events:
   - agency: National Institute of Health
     date: '2025-02-24'
-    event: Reports that DOGE have accounts are working with the NIH Business System Department for NIH's central electronic business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
+    event: Four DOGE staffers have email addresses linked to NIH
+    name: Clark Minor
+    source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
+  - agency: National Institute of Health
+    date: '2025-02-24'
+    event: Three DOGE staffers are placed within the NIH Business System Department for access to NIH's central electronic business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
     name: Clark Minor
     source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
 
@@ -408,11 +413,26 @@ Edward Coristine:
   - US Agency for International Development
   - US Digital Service/Department of Government Efficiency
   events:
+  - agency: Small Business Administration
+    date: '2025-02-03'
+    event: Email to SBA staff announces that Edward Coristine was granted access to all systems including HR, contract, and payment systems.
+    name: Edward Coristine
+    source: https://xcancel.com/lbarronlopez/status/1886491276729544809
   - agency: Federal Emergency Management Agency
     date: '2025-02-05'
     event: Edward Coristine is given a FEMA badge and onboarded into the agency
     name: Edward Coristine
     source: https://www.washingtonpost.com/climate-environment/2025/02/07/musk-trump-fema-doge/
+  - agency: Federal Emergency Management Agency
+    date: '2025-02-05'
+    event: DOGE staff are reportedly given access to review grants on the FEMA GO platform
+    name: Edward Coristine
+    source: https://www.washingtonpost.com/climate-environment/2025/02/07/musk-trump-fema-doge/
+  - agency: Department of Homeland Security
+    date: '2025-02-10'
+    event: Edward Coristine appears in a DHS directory as a "senior advisor"
+    name: Edward Coristine
+    source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
   - agency: Department of State
     date: '2025-02-10'
     event: Edward Coristine and Luke Farritor are posted to the State Department's Bureau of Diplomatic Technology
@@ -420,7 +440,7 @@ Edward Coristine:
     source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
   - agency: Cybersecurity and Infrastructure Security Agency
     date: '2025-02-19'
-    event: Edward Coristine and Kyle Schutt are given access to CISA systems
+    event: Edward Coristine and Kyle Schutt are reportedly given access to CISA systems
     name: Edward Coristine
     source: https://www.wired.com/story/doge-cisa-coristine-cybersecurity/
   - agency: Cybersecurity and Infrastructure Security Agency
@@ -448,7 +468,7 @@ Edward Coristine:
     event: Edward Coristine is granted read-only access to the Integrated Data Repository (IDR) system by the CIO of the CMS Office of Information Technology
     name: Edward Coristine
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Health and Human Services
+  - agency: Centers for Medicare and Medicaid Services
     date: '2025-03-29'
     event: In a filing, DOJ asserts that Edward Coristine and Marko Elez no longer have access to HHS systems
     name: Edward Coristine
@@ -459,6 +479,7 @@ Elon Musk:
   - Consumer Financial Protection Bureau
   - Department of Defense
   - Department of Labor
+  - Federal Aviation Administration
   - National Security Agency
   - US Digital Service/Department of Government Efficiency
   events:
@@ -467,12 +488,22 @@ Elon Musk:
     event: One of AFGE's members who works in the headquarters of the Department received an instruction from Department leadership that Elon Musk and his DOGE team would be accessing Department of Labor headquarters beginning around 4 p.m. on February 5, 2025. This member and other employees were told by Department leadership that when Mr. Musk and his team visit, they are to do whatever they ask, not to push back, not to ask questions. They were told to provide access to any DOL system they requested
       access to and not to worry about any security protocols; just do it.
     name: Elon Musk
-    source: hthttps://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.29.8_1.pdf
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.29.8_1.pdf
+  - agency: Federal Aviation Administration
+    date: '2025-02-05'
+    event: Elon Musk promises that DOGE will make rapid upgrades to airline systems after outage of NOTAM alerting system
+    name: Elon Musk
+    source: https://www.nytimes.com/2025/02/05/us/politics/elon-musk-doge-faa.html
   - agency: Consumer Financial Protection Bureau
     date: '2025-02-07'
     event: Elon Musk posts a tweet "CFPB RIP" with a tombstone emoji
     name: Elon Musk
     source: https://news.bloomberglaw.com/banking-law/musks-doge-descends-on-consumer-financial-protection-bureau
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-02-17'
+    event: In a filing in "State of New Mexico v. Elon Musk," DOJ lawyers declare that Elon Musk is not the USDS Administrator, but just an advisor
+    name: Elon Musk
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277463/gov.uscourts.dcd.277463.24.0_1.pdf
   - agency: US Digital Service/Department of Government Efficiency
     date: '2025-03-10'
     event: Elon Musk claims there are about 100 DOGE staffers and he has plans to double to 200. He also claims they are in every federal Department.
@@ -558,6 +589,16 @@ Frank Schuler:
   agencies:
   - General Services Administration
 
+Gavin Hamrick:
+  agencies:
+  - Institute for Museum and Library Services
+  events:
+  - agency: Institute for Museum and Library Services
+    date: '2025-03-31'
+    event: DOGE arrives at the agency and notifies the entire staff of IMLS that they are being put on administrative leave effective immediately
+    name: Gavin Hamrick
+    source: https://bsky.app/profile/marisakabas.bsky.social
+
 Gavin Kliger:
   agencies:
   - Commerce Department
@@ -593,6 +634,11 @@ Gavin Kliger:
     event: Gavin Kliger and Luke Farritor completely remove all access to the payments system for all other USAID staff
     name: Gavin Kliger
     source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
+  - agency: Internal Revenue Service
+    date: '2025-02-28'
+    event: Gavin Kliger and Sam Corcos, DOGE representatives embedded at the tax agency, on Friday asked IRS lawyers to assist in creating an "omnibus" agreement with other federal agencies that would allow a broad swath of federal officials to cross-reference benefits rolls with taxpayer data
+    name: Gavin Kliger
+    source: https://www.washingtonpost.com/business/2025/03/01/doge-irs-tax-records-benefits/
 
 George Cooper:
   agencies:
@@ -717,7 +763,7 @@ Jeremy Lewin:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576293/gov.uscourts.mdd.576293.77.2.pdf
   - agency: National Institute of Health
     date: '2025-02-24'
-    event: Reports that DOGE have accounts are working with the NIH Business System Department for NIH's central electronic business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
+    event: Four DOGE staffers have email addresses linked to NIH
     name: Jeremy Lewin
     source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
   - agency: US Agency for International Development
@@ -898,7 +944,7 @@ Kyle Schutt:
   events:
   - agency: Cybersecurity and Infrastructure Security Agency
     date: '2025-02-19'
-    event: Edward Coristine and Kyle Schutt are given access to CISA systems
+    event: Edward Coristine and Kyle Schutt are reportedly given access to CISA systems
     name: Kyle Schutt
     source: https://www.wired.com/story/doge-cisa-coristine-cybersecurity/
   - agency: Health and Human Services
@@ -999,7 +1045,7 @@ Luke Farritor:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - agency: Centers for Disease Control and Prevention
     date: '2025-01-30'
-    event: Luke Farritor is granted access to the Integrated Contracts Expert (ICE) system at CDC by the Office of the CIO
+    event: Luke Farritor is granted read-only access to the Integrated Contracts Expert (ICE) system at CDC by the Office of the CIO
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - agency: US Agency for International Development
@@ -1049,12 +1095,17 @@ Luke Farritor:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - agency: Centers for Disease Control and Prevention
     date: '2025-02-24'
-    event: Luke Farritor is granted access to the Acquisition Performance and Execution (APEX) system at CDC by the Office of the CIO
+    event: Luke Farritor is granted read-only access to the Acquisition Performance and Execution (APEX) system at CDC by the Office of the CIO
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - agency: National Institute of Health
     date: '2025-02-24'
-    event: Reports that DOGE have accounts are working with the NIH Business System Department for NIH's central electronic business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
+    event: Four DOGE staffers have email addresses linked to NIH
+    name: Luke Farritor
+    source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
+  - agency: National Institute of Health
+    date: '2025-02-24'
+    event: Three DOGE staffers are placed within the NIH Business System Department for access to NIH's central electronic business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
     name: Luke Farritor
     source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
   - agency: Health and Human Services
@@ -1064,12 +1115,17 @@ Luke Farritor:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - agency: National Institute of Health
     date: '2025-02-28'
-    event: Luke Farritor is granted access to NIH Business System EBS and PRISM systems by NIH's office of the CIO
+    event: Luke Farritor is granted read-only access to NIH Business System EBS and PRISM systems by NIH's office of the CIO
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - agency: Consumer Financial Protection Bureau
     date: '2025-03-04'
-    event: Luke Farritor is no longer detailed to the CFPB
+    event: Luke Farritor has his access revoked to all systems as part of offboarding
+    name: Luke Farritor
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Consumer Financial Protection Bureau
+    date: '2025-03-04'
+    event: Luke Farritor is no longer detailed to the CFPB and is offboarded
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - agency: Health and Human Services
@@ -1106,7 +1162,7 @@ Marko Elez:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.3_1.pdf
   - agency: Department of the Treasury
     date: '2025-01-29'
-    event: A ticket for systems access is issued to give Marko Elez read-only access to the FROPK and SPR systems and read-write access to PAM
+    event: A ticket for systems access is issued to give Marko Elez read-write access to PAM
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
   - agency: Department of the Treasury
@@ -1116,7 +1172,7 @@ Marko Elez:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
   - agency: Department of the Treasury
     date: '2025-01-31'
-    event: A ticket for systems access is corrected to change Marko Elez's access from read-only to read-write
+    event: A ticket for systems access is corrected to change Marko Elez's access from read-only to read-write for the PAM
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
   - agency: Department of the Treasury
@@ -1166,17 +1222,12 @@ Marko Elez:
     source: https://www.politico.com/news/2025/02/20/treasury-irs-data-white-house-doge-00205391
   - agency: Department of Labor
     date: '2025-02-25'
-    event: Marko Elez is granted access read-only access to USAccess by Troy Finnegan, Former Assistant Secretary for Administration and Management
+    event: Marko Elez is granted access read-only access to USAccess and DOL Directory Resource Administrator (DRA) systems by Troy Finnegan, Former Assistant Secretary for Administration and Management
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - agency: Department of Labor
     date: '2025-02-25'
     event: Marko Elez is granted access read-only access to DOL Homeland Security Presidential Directive 12 (HSPD-12) Enterprise Physical Access Control System (EPACS) by Troy Finnegan, Former Assistant Secretary for Administration and Management
-    name: Marko Elez
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Department of Labor
-    date: '2025-02-25'
-    event: Marko Elez is granted access read-only access to DOL Directory Resource Administrator (DRA) by Troy Finnegan, Former Assistant Secretary for Administration and Management
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - agency: Centers for Medicare and Medicaid Services
@@ -1211,7 +1262,7 @@ Marko Elez:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.3.pdf
   - agency: Department of Labor
     date: '2025-03-21'
-    event: Marko Elez is granted access read-only access to Unemployment Insurance Data and Related Records  by Thomas Shedd, the new CIO
+    event: Marko Elez is granted access read-only access to Unemployment Insurance Data and Related Records by Thomas Shedd, the new CIO
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - agency: Health and Human Services
@@ -1236,6 +1287,27 @@ Michael Mirski:
   agencies:
   - Federal Housing Finance Agency
   - Housing and Urban Development
+  events:
+  - agency: Housing and Urban Development
+    date: '2025-02-20'
+    event: DOGE staff gains access to the HUD Enforcement Management System (HEMS), which contains information on victims of housing discrimination and domestic violence
+    name: Michael Mirski
+    source: https://www.propublica.org/article/doge-elon-musk-hud-housing-discrimination-privacy-domestic-violence
+  - agency: Housing and Urban Development
+    date: '2025-02-26'
+    event: Wired reports that two DOGE staffers have read-write access to the LOCCS and HUDCAPS systems
+    name: Michael Mirski
+    source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
+  - agency: Housing and Urban Development
+    date: '2025-02-26'
+    event: Wired reports that Michael Mirski has read-write access to Web Access Security Subsystem (WASS) at HUD, which would let him grant or revoke access to any other systems
+    name: Michael Mirski
+    source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
+  - agency: Housing and Urban Development
+    date: '2025-02-26'
+    event: Wired reports that Michael Mirski has read access to the IDIS and FASS-PH systems at HUD
+    name: Michael Mirski
+    source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
 
 Mike Gonzalez:
   agencies:
@@ -1294,6 +1366,7 @@ Miles Collins:
 Nate Cavanaugh:
   agencies:
   - General Services Administration
+  - Institute for Museum and Library Services
   - Inter-American Foundation
   - U.S. African Development Foundation
   - US Institute of Peace
@@ -1348,6 +1421,11 @@ Nate Cavanaugh:
     event: DOGE members Kenneth Jackson, Jacob Altik and Nate Cavanaugh remove staff and president of the USIP with the help of Office of the U.S. Attorney for the District of Columbia, the FBI and D.C. police
     name: Nate Cavanaugh
     source: https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/
+  - agency: Institute for Museum and Library Services
+    date: '2025-03-31'
+    event: DOGE arrives at the agency and notifies the entire staff of IMLS that they are being put on administrative leave effective immediately
+    name: Nate Cavanaugh
+    source: https://bsky.app/profile/marisakabas.bsky.social
 
 Nicholas Lahera:
   agencies:
@@ -1370,6 +1448,11 @@ Nikhil Rajpal:
     event: DOGE staff start screening all USDS staff in interviews, asking them their views of DOGE and who were underperformers who should be fired.
     name: Nikhil Rajpal
     source: https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/
+  - agency: National Oceanic and Atmospheric Administration
+    date: '2025-02-05'
+    event: NOAA employees were ordered to grant Rajpal editor access to all NOAA Google sites on instructions of the acting commerce secretary, Jeremy Pelter, by the close of business.
+    name: Nikhil Rajpal
+    source: https://www.wired.com/story/doge-engineer-noaa-data-google-musk-climate-project-2025/
   - agency: Consumer Financial Protection Bureau
     date: '2025-02-06'
     event: DOGE staff enter CFPB facilities and are given equipment and onboarded
@@ -1388,6 +1471,11 @@ Nikhil Rajpal:
   - agency: Consumer Financial Protection Bureau
     date: '2025-02-07'
     event: Nikhil Rajpal and Luke Farritor are granted full admin access to the Microsoft Entra system
+    name: Nikhil Rajpal
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Consumer Financial Protection Bureau
+    date: '2025-03-21'
+    event: Nikhil Rajpal has his access revoked to all systems as part of offboarding
     name: Nikhil Rajpal
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - agency: Consumer Financial Protection Bureau
@@ -1435,7 +1523,12 @@ Rachel Riley:
   events:
   - agency: National Institute of Health
     date: '2025-02-24'
-    event: Reports that DOGE have accounts are working with the NIH Business System Department for NIH's central electronic business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
+    event: Four DOGE staffers have email addresses linked to NIH
+    name: Rachel Riley
+    source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
+  - agency: National Institute of Health
+    date: '2025-02-24'
+    event: Three DOGE staffers are placed within the NIH Business System Department for access to NIH's central electronic business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
     name: Rachel Riley
     source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
 
@@ -1461,6 +1554,11 @@ Riley Sennott:
   - National Aeronautics and Space Administration
   - US Digital Service/Department of Government Efficiency
   events:
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-01-06'
+    event: Riley Sennott's public calendar includes a 15-minute DOGE recruiting meeting
+    name: Riley Sennott
+    source: https://www.msn.com/en-us/money/companies/we-found-a-doge-guy-at-nasa-because-his-google-calendar-was-public/ar-AA1At75X
   - agency: US Digital Service/Department of Government Efficiency
     date: '2025-01-17'
     event: The public calendar of Riley Sennott mentions a 30-minute "SGE Ethics Discussion" meeting with 2 GSA addresses and other DOGE staff
@@ -1512,6 +1610,12 @@ Sam Corcos:
   agencies:
   - Department of the Treasury
   - Internal Revenue Service
+  events:
+  - agency: Internal Revenue Service
+    date: '2025-02-28'
+    event: Gavin Kliger and Sam Corcos, DOGE representatives embedded at the tax agency, on Friday asked IRS lawyers to assist in creating an "omnibus" agreement with other federal agencies that would allow a broad swath of federal officials to cross-reference benefits rolls with taxpayer data
+    name: Sam Corcos
+    source: https://www.washingtonpost.com/business/2025/03/01/doge-irs-tax-records-benefits/
 
 Sam Smeal:
   agencies:
@@ -1557,6 +1661,17 @@ Scott Langmack:
   agencies:
   - Housing and Urban Development
   - US Digital Service/Department of Government Efficiency
+  events:
+  - agency: Housing and Urban Development
+    date: '2025-02-10'
+    event: Employees at HUD receive an email from Scott Langmack asking them to list every contract at HUD and whether it is critical and/or has DEI components
+    name: Scott Langmack
+    source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
+  - agency: Housing and Urban Development
+    date: '2025-02-26'
+    event: Wired reports that two DOGE staffers have read-write access to the LOCCS and HUDCAPS systems
+    name: Scott Langmack
+    source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
 
 Shaun Maguire:
   agencies:

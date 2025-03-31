@@ -94,6 +94,41 @@ For a given system, there will be the following fields
 
 More formally, there is now a JSON Schema file for the YAML and if you have the appropriate validation tools (like the RedHat YAML plugin in Visual SourceSafe), it can help report any validation errors.
 
+## Event Types
+
+I have defined event types to help supplement what is going on in various systems and which include additional metadata:
+
+First, there are some general event fields you will always see:
+
+- date: the date of the event or a close approximation (journalists, I am begging you to say "last Thursday" instead of "late last week")
+- event: a text description of what happened
+- source: the source from where the event info was taken
+- comment: if I need to put a comment about the record
+- named: an array of DOGE staff that were associated with the even
+
+- access_granted: identifying when access has been granted to one or more systems for one or more DOGE staff
+  - access_type: read | read-write | admin | unknown
+  - access_systems: an array of system IDs if provided
+  - named: which DOGE staff were given access
+- access_changed: when the access level for a DOGE staffer is changed
+  - access_type: (like above, but indicating the new value)
+  - access_systems: like above
+  - named: which DOGE staff had access changed
+- access_revoked: when access for a system might be revoked (might be reported later than when revocation happened)
+  - access_systems: like above
+  - named: which DOGE staff had access removed
+- disruption: the Silicon Valley term for vandalism, looting, destruction
+- offboarding: when DOGE staffers leaves an agency
+  - named: an array of named
+- onboarding: a record of an employee onboarding at an agency. This doesn't cover internal promotions (like Leland Dudek) or non-DOGE staff
+  - onboard_type: hired | appointed | detailed | other
+  - detailed_from: the agencies where people were detailed from
+  - named: the names of the people being onboarded
+- legal: a legal development
+- official: an official communication or action, usually one of the many executive orders
+- other: for things I don't know, but also aren't reports?
+- report: a general report of a sighting, something happening, etc.
+
 ## Can You Tell Me More About These Names?
 
 No. I am mainly just trying to track who is at each agency, the types of systems they might be accessing (mentioned in news coverage as well as the general notion they are looking at HR/Contracting/Procurement systems) and a timeline of events for their action. Other news organizations like ProPublica and Wired already have excellent resources on who these people are and where they have come from.
@@ -106,7 +141,7 @@ Great, please go to the [Issues](https://github.com/harrisj/trump_data/issues) t
 - You have an idea for a new feature
 - There are some media reports or court filings I've missed that include DOGE activities
 
-## Other Useful Fields
+## Other Useful Files
 
 Okay, this is where it gets cool. I have some automations going for this file that make if helpful. First, I have JSON schemas defined for these files in the schemas directory. This includes a file with a master list of DOGE names so I don't misspell them in multiple places (Mike Russo here, Michael Russo there, etc.)
 

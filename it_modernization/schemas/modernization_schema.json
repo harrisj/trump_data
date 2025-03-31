@@ -82,9 +82,32 @@
                                     "type": "string",
                                     "description": "A URL of the source for the information in the event",
                                     "format": "uri"
+                                },
+                                "type": {
+                                    "description": "The type of the event",
+                                    "$ref": "valid_names.json#event_types"
+                                },
+                                "access_type": {
+                                    "description": "The type of the access granted/changed to",
+                                    "$ref": "valid_names.json#access_types"
+                                },
+                                "access_systems": {
+                                    "description": "The systems access granted/changed/revoked for",
+                                    "type": "array",
+                                    "items": {
+                                        "$ref": "valid_names.json#system_ids"
+                                    }
+                                },
+                                "onboard_type": {
+                                    "description": "What kind of onboarding it was for DOGE staff",
+                                    "$ref": "valid_names.json#onboard_types"
+                                },
+                                "detailed_from": {
+                                    "description": "The agency the staff in the event were detailed from",
+                                    "$ref": "valid_names.json#agency_ids"
                                 }
                             },
-                            "required": ["date", "event", "source"],
+                            "required": ["date", "event", "source", "type"],
                             "additionalProperties": false
                         }
                     },
