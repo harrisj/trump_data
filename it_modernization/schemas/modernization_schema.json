@@ -106,9 +106,9 @@
                                     "description": "THe name of the system",
                                     "type": "string"
                                 },
-                                "acronym": {
-                                    "description": "An acronym for the system",
-                                    "type": "string"
+                                "id": {
+                                    "description": "An ID for the system (usually an acronym)",
+                                    "$ref": "valid_names.json#system_ids"
                                 },
                                 "description": {
                                     "description": "A description of the system",
@@ -133,7 +133,7 @@
                                     "format": "uri"
                                 }
                             },
-                            "required": ["name", "description"],
+                            "required": ["name", "description", "id"],
                             "additionalProperties": false
                         }
                     },

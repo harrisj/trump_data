@@ -28,6 +28,7 @@ agencies:
   - https://www.motherjones.com/politics/2025/02/cdc-elon-musk-doge-layoffs-trump-chaos/
   systems:
   - name: One CDC Data Platform
+    id: "OneCDC"
     description: A system for centralizng health access, public-health data, including hundreds of thousands of daily anonymized lab tests, data from emergency-room visits, and measurements from wastewater disease-reporting sites
     link: https://www.cdc.gov/public-health-data-strategy/php/about/index.html
 
@@ -115,18 +116,18 @@ agencies:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   systems:
   - name: Acquistions and Grants Exchange
-    acronym: AGX
+    id: AGX
     description: A web-based application that provides the Office of Acquisition and Grants Management with tools for contracting officers
     pia: https://www.hhs.gov/sites/default/files/cms-acquisition-and-grants-exchange.pdf
   - name: CMS Acquisition Lifecycle Management system
-    acronym: CALM
+    id: CALM
     description: System for tracking CMS acquisitions, contracts, milestones and audits.
   - name: Healthcare Integrated General Ledger Accounting System
-    acronym: HIGLAS
+    id: HIGLAS
     link: https://www.cms.gov/about-cms/information-systems/higlas/higlas-architecture
     description: A single, integrated dual-entry accounting system that standardizes and centralizes federal financial accounting functions for all of CMS's programs.
   - name: Integrated Data Repository
-    acronym: IDR
+    id: IDR
     description: A data warehouse of all Medicare claims after they have been approved for payment
     sorn: https://www.hhs.gov/foia/privacy/sorns/09700571/index.html
 
@@ -291,15 +292,15 @@ agencies:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   systems:
   - name: HRConnect
+    id: HRConnect
     description: HR system for CFPB employees
     risk: PII of CFPB employees, including SSN, home address, and employment records
     sorn: https://www.consumerfinance.gov/privacy/system-records-notices/employee-administrative-records/
   - name: PRISM
+    id: PRISM
     description: System for tracking procurement and contracting
     link: https://www.doi.gov/ibc/services/finance/financial-systems/prism
     risk: PII/CUI of contracting recipients
-  - name: Discoverer
-    description: System for tracking CFPB finances. More details unknown.
   cases:
   - name: National Treasury Employees Union v. Russell Vought (D.D.C.)
     description: The National Treasury Employees Union sued Acting Director of the Consumer Financial Protection Bureau ("CFPB") Russell Vought seeking to block the Department of Government Efficiency's ("DOGE's") access to sensitive information systems with CFPB employee records on the basis that the CFPB's decision to grant DOGE-affiliated individuals access to employee information and non-classified systems violated the Privacy Act and CFPB regulations.
@@ -477,37 +478,37 @@ agencies:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.69.0.pdf
   systems:
   - name: Common Origination and Disbursement System
-    acronym: COD
+    id: COD
     description: A system for disbursing grants and loans that are paid to institutions of higher education directly (who then provide to students)
     risk: PII and bank account information for institutions of higher education
     pia: https://www.ed.gov/sites/ed/files/notices/pia/fsa-pia-cod.pdf
     sorn: https://www.federalregister.gov/documents/2023/06/28/2023-13698/privacy-act-of-1974-system-of-record
   - name: Debt Management and Collection System
-    acronym: DMCS
+    id: DMCS
     description: A system used for tracking and assisting in collection of federal student loans in default
     risk: PII and details of debt amounts for individuals who have defaulted on their loans
     pia: https://www.ed.gov/sites/ed/files/2025-01/PIA_FSA_DMCS_11_22_2024.pdf
     sorn: https://www.federalregister.gov/documents/2023/07/27/2023-15931/privacy-act-of-1974-system-of-records
   - name: FAFSA Processing System
-    acronym: FPS
+    id: FPS
     description: The system for receiving and evaluating applications for federal student aid and sharing determinations with universities
     risk: PII of student and parents, include names, address, SSNs, tax information and schools receiving the form
     pia: https://www.ed.gov/sites/ed/files/notices/pia/pia-fps.pdf
     sorn: https://www.federalregister.gov/documents/2023/06/15/2023-12831/privacy-act-of-1974-system-of-records
   - name: FUTURE Act Systems
-    acronym: FAS
+    id: FAS
     description: Systems for implementing the FUTURE Act, allowing FAFSA to obtain federal tax information for students
     risk: Sensitive tax information of students and parents
     pia: https://www.ed.gov/media/document/federal-tax-information-module-107894.pdf
     sorn: https://www.federalregister.gov/documents/2023/06/29/2023-13980/privacy-act-of-1974-system-of-records
   - name: Financial Management System
-    acronym: FMS
+    id: FMS
     description: A system that consolidates grants, loans and work-study funds for students under Title IV of the Higher Education Act
     risk: PII of students, including names, addresses, SSNs and financial details of payments
     pia: https://www.ed.gov/sites/ed/files/notices/pia/fsa-financ-manag-syst.pdf
     sorn: https://www.ed.gov/sites/ed/files/notices/sorn/18-11-17_010208.pdf
   - name: National Student Loan Data System (New)
-    acronym: NSLDS
+    id: NSLDS
     description: A a comprehensive national database for the Federal financial aid history of recipients of student financial assistance and grants authorized under Title IV of the Higher Education Act of 1965
     risk: PII of students, including names, addresses, SSNs and financial details of student loans
     pia: https://www.ed.gov/about/ed-overview/required-notices/privacy/privacy-impact-assessments-pia
@@ -1240,26 +1241,26 @@ agencies:
     source: https://www.whitehouse.gov/presidential-actions/2025/03/protecting-americas-bank-account-against-fraud-waste-and-abuse/
   systems:
   - name: Automated Standard Access For Payments
-    acronym: ASAP
+    id: ASAP
     description: A payment system that allows recipients to draw down funds from an established account for that recipient.
   - name: Central Accounting Reporting System
-    acronym: CARS
+    id: CARS
     link: https://fiscal.treasury.gov/cars/
     description: A system which handles accounting for all federal agencies
     pia: https://www.fiscal.treasury.gov/files/pia/cars-pclia.pdf
   - name: Federal Disbursement Services
-    acronym: FDS
+    id: FDS
     description: The Federal Disbursement Services (FDS) pays out money, helps collect money, handles foreign transactions, and supports Fiscal Service programs.
     link: https://fiscal.treasury.gov/fds/
   - name: Payment Automation Manager
-    acronym: PAM
+    id: PAM
     link: https://fiscal.treasury.gov/pam/
     description: >
       The U.S. government uses the Payment Automation Manager (PAM) to pay all bills, except payments in foreign currency. PAM processed over 1.2 billion payments in FY 2024, valued at over 4.7 trillion dollars. PAM replaced many older systems that Federal Program Agencies used, saving money and increasing efficiency.
     risk: PII/CUI of entities receiving payments, SSNs, TINs, bank account info
     pia: https://www.fiscal.treasury.gov/files/pia/pampclia.pdf
   - name: Secure Payment System
-    acronym: SPS
+    id: SPS
     link: https://www.fiscal.treasury.gov/sps/
     description: Secure Payment System (SPS) is used by federal government agencies to securely create, certify, and submit payments to the Fiscal Service.
     risk: Access to CUI/PII of entities submitting/receiving payments. Access to private encryption keys.
@@ -1386,7 +1387,7 @@ agencies:
     source: https://www.bloomberg.com/news/features/2025-03-05/after-elon-musk-lands-at-faa-his-starlink-business-stands-to-gain-business
   systems:
   - name: Notice to Airmen
-    acronym: NOTAM
+    id: NOTAM
     description: System for alerting pilots and airports of events that might affect air travel
     link: https://www.faa.gov/about/initiatives/notam/what_is_a_notam
 
@@ -1438,7 +1439,7 @@ agencies:
     source: https://lawandcrime.com/high-profile/publicly-and-falsely-condemned-fired-fema-official-sues-trump-admin-for-unlawful-termination-and-prompting-smear-campaign-to-make-her-look-like-a-criminal/
   systems:
   - name: FEMA Grants Outcomes
-    acronym: FEMA GO
+    id: FEMA GO
     description: A system for managing grant program for communities affected by disasters
     risk: PII of grant recipients, including names, addresses and bank information
     link: https://go.fema.gov/
@@ -1618,9 +1619,11 @@ agencies:
   - 18F website removed
   systems:
   - name: Notify.gov
+    id: Notify
     description: System for sending text messages to the public
     risk: Access to PII like phone numbers as well as private information like participation in Medicaid, etc.
   - name: Pegasys
+    id: Pegasys
     description: Pegasys is the GSA core financial management system of records to make payments and record accounting transactions. This includes funds management (budget execution and purchasing), credit cards, accounts payable, disbursements, standard general ledger, and reporting.
     risk: PII of individuals and companies that receive funds from the GSA
     pia: https://www.gsa.gov/system/files/Pegasys_PIA.pdf
@@ -1753,16 +1756,17 @@ agencies:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   systems:
   - name: National Directory of New Hires
-    acronym: NDNH
+    id: NDNH
     description: A system for tracking wages and new hires that's used for child support location
     link: https://acf.gov/css/training-technical-assistance/overview-federal-parent-locator-service
     risk: Contains wage information and unemployment claims for all Americans
     pia: https://www.hhs.gov/sites/default/files/acf-national-directory-of-new-hires.pdf
     sorn: https://www.federalregister.gov/documents/2021/07/28/2021-16098/privacy-act-of-1974-matching-program
   - name: Grants.gov
+    id: Grants.gov
     description: FIXME
   - name: Unaccompanied Alien Children (UAC) Portal
-    acronym: UAC
+    id: UAC
     description: The UC Portal manages all medical (mental and dental health included), educational, and sponsorship information for UC in ORR custody
     pia: https://www.hhs.gov/sites/default/files/acf-unaccompanied-children-portal.pdf
     sorn: https://www.federalregister.gov/documents/2022/02/08/2022-02535/privacy-act-of-1974-system-of-records
@@ -1802,36 +1806,36 @@ agencies:
     source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
   systems:
   - name: Line of Credit Control System
-    acronym: LOCCS
+    id: LOCCS
     link: https://www.hud.gov/sites/dfiles/CFO/documents/eLOCCS_Getting_Started_Guide-Sept_2022.pdf
     description: Handles disbursement and cash management for the majority of HUD's grant programs
     risk: Access to PII of grant recipients, including names, addresses and bank information
     pia: https://www.hud.gov/sites/dfiles/OCHCO/documents/OCFO29_A67.pdf
     sorn: https://www.govinfo.gov/content/pkg/FR-2022-03-07/pdf/2022-04715.pdf
   - name: HUD Central Accounting and Processing System
-    acronym: HUDCAPS
+    id: HUDCAPS
     description: Integrated management system for Section 8 programs under the jurisdiction of the Office of Public and Indian Housing
     risk: PII of individuals applying for housing vouchers including medical records and personal narratives
     pia: https://www.hud.gov/sites/dfiles/OCHCO/documents/OCFO33_A75.pdf
     sorn: https://www.federalregister.gov/documents/2022/08/17/2022-17709/privacy-act-of-1974-system-of-records
   - name: HUD Enforcement Management System
-    acronym: HEMS
+    id: HEMS
     link: https://www.hud.gov/program_offices/fair_housing_equal_opp/system/hems
     description: A database for tracking housing discrimination complaints and enforcement actions, including accusations of domestic violence
     risk: PII and PHI of individuals, including medical records, legal records and case files
     pia: https://www.hud.gov/sites/dfiles/OCHCO/documents/FHEO-V05-HEMS-PIA.pdf
     sorn: https://www.federalregister.gov/documents/2023/12/14/2023-27443/privacy-act-of-1974-system-of-records
   - name: Web Access Security Subsystem
-    acronym: WASS
+    id: WASS
     description: System for authorizing access and setting permissions to talk to other systems
     risk: With read-write access, DOGE staff were able to grant and revoke access to other systems without oversight
   - name: Integrated Disbursement and Information System
-    acronym: IDIS
+    id: IDIS
     description: A database for tracking all HUD programs nationwide
     risk: Among other things, it includes hidden locations of domestic violence shelters
     pia: https://www.hud.gov/sites/dfiles/OCHCO/documents/CPD-1IDISPIA.pdf
   - name: Financial Assessment of Public Housing
-    acronym: FASS-PH
+    id: FASS-PH
     link: https://www.hud.gov/program_offices/public_indian_housing/reac/products/fassph
     description: A database to measure the financial condition of public housing agencies and assess their ability to provide safe and decent housing.
   sources:
@@ -1948,7 +1952,7 @@ agencies:
     source: https://www.cbsnews.com/news/andrew-de-mello-irs-william-paul-doge-trump/
   systems:
   - name: Integrated Data Retrieval System
-    acronym: IDRS
+    id: IDRS
     link: https://www.irs.gov/irm/part2/irm_02-009-001r
     pia: https://www.irs.gov/pub/irs-pia/idrs-pia.pdf
     sorn: https://www.federalregister.gov/documents/2015/09/08/2015-21980/privacy-act-of-1974-as-amended-system-of-records-notice
@@ -2024,6 +2028,7 @@ agencies:
     source: https://www.wired.com/story/doge-engineer-noaa-data-google-musk-climate-project-2025/
   systems:
   - name: NOAA Google enterprise systems
+    id: NOAA-Google
     description: Not more precisely described, but this seems to be Google Drive and email
     risk: Access to CUI stored in Google Drive at the NOAA
 
@@ -2048,7 +2053,7 @@ agencies:
     source: https://www.nytimes.com/2025/03/24/health/nih-doge-trump.html
   systems:
   - name: NIH Business System
-    acronym: NBS
+    id: NBS
     description: is the central electronic business system of the NIH including the general ledger, finance, budget, procurement, supply, travel, and property management systems. NBS is aimed at improving data consolidation and financial reporting capabilities.
     risk: As a payment system, includes names, SSNs, TINs, and other PII of persons/entities receiving payments from NIH
     sorn: https://www.federalregister.gov/documents/2002/08/22/02-21348/privacy-act-of-1974-proposed-new-system-of-records
@@ -2073,7 +2078,7 @@ agencies:
   acronym: OSHA
   systems:
   - name: OSHA Business Information Systems
-    acronym: OBIS
+    id: OBIS
     description: Information gathered as part of whistleblowing and used for enforcement
     risk: PII of individuals reporting problems as well as confidential whistleblower information
     pia: https://www.dol.gov/agencies/oasam/centers-offices/ocio/privacy/osha/obis
@@ -2274,33 +2279,36 @@ agencies:
     - Amanda Scales
     - Greg Hogan
   systems:
-  - name: UsaJobs
+  - name: USAJobs
+    id: USAJobs
     description: Official hiring site for the federal government
     sorn: https://www.federalregister.gov/documents/2014/03/26/2014-06593/privacy-act-of-1974-update-and-amend-system-of-records
     risk: PII of individuals who have applied for federal jobs, including SSN, home address, and employment records
   - name: Enterprise Human Resources Integration
-    acronym: EHRI
+    id: EHRI
     sorn: https://www.federalregister.gov/documents/2023/08/17/2023-17651/privacy-act-of-1974-system-of-records
     pia: https://www.opm.gov/information-management/privacy-policy/privacy-policy/ehridw.pdf
     description: Database of all federal employees
     risk: PII including SSN, date of birth, salary, home address, and job description
   - name: USA Staffing
+    id: USAStaffing
     description: System tracking onboarding of federal employees
     sorn: https://www.federalregister.gov/documents/2021/12/01/2021-26086/privacy-act-of-1974-system-of-records
     risk: agency-specific CUI related to onboarding
   - name: USA Performance
-    acronym: USAP
+    id: USAP
     description: System tracking job performance of federal employees
     risk: PII and performance reviews of federal employees
     sorn: https://www.opm.gov/information-management/privacy-policy/sorn/opm-sorn-govt-2-employee-performance-file-system-records.pdf
     pia: https://www.opm.gov/information-management/privacy-policy/privacy-policy/usap-pia.pdf
   - name: Health Insurance Data Warehouse
+    id: HI
     description: System tracking health claims of government employees and their dependents on FEHB health insurance plans
     risk: PII and PHI of government employees and their dependents
     pia: https://www.opm.gov/information-management/privacy-policy/privacy-policy/hidw-pia.pdf
     sorn: https://www.opm.gov/information-management/privacy-policy/sorn/opm-sorn-central-15-health-claims-data-warehouse.pdf
   - name: Government-Wide Email System
-    acronym: GWES
+    id: GWES
     pia: https://www.opm.gov/media/kfpozkad/gwes-pia.pdf
     sorn: https://www.federalregister.gov/documents/2017/12/05/2017-26107/privacy-act-of-1974-system-of-records
     description: A new system developed by DOGE for sending out email to all federal employees and collecting responses. It was most famously used for the Fork in The Road email.
@@ -2632,35 +2640,36 @@ agencies:
     source: https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/
   systems:
   - name: Anti-Fraud Enterprise Solution
-    acronym: AFES
+    id: AFES
     description: System for detecting and preventing fraud in Social Security
     risk: PII of individuals stored in other systems and copied here for investigation
     pia: https://www.ssa.gov/privacy/pia/AFES_OPD%20Draft_PIA_04-17-2018.htm
     sorn: https://www.govinfo.gov/content/pkg/FR-2022-04-28/pdf/2022-09091.pdf
   - name: Electronic Disability System
-    acronym: eDib
+    id: eDib
     description: System for processing disability claims against Social Security
     risk: PII and PHI of individuals applying for disability benefits, including names, SSNs, and medical information related to their disability
     pia: https://www.ssa.gov/privacy/pia/eDib%20PIA%20OPD%20Final_Feb%201,%202018.pdf
     sorn: https://www.govinfo.gov/content/pkg/FR-2020-06-04/pdf/2020-12067.pdf
   - name: Electronic Wage Reporting System
-    acronym: EWR
+    id: EWR
     description: A system for employers to submit W-2 records every year for their employees
     risk: Private tax information for every American
     pia: https://www.ssa.gov/privacy/pia/Final%20PIA%20for%20the%20EWR%20System.htm
     sorn: https://www.ssa.gov/privacy/sorn/60-0059.pdf
   - name: Human Resources System
-    acronym: HRS
+    id: HRS
     description: Collection of systems for human resources, timekeeping and payroll for SSA employees
     risk: PII of SSA employees, including names, SSNs, and payroll information
     pia: https://www.ssa.gov/privacy/pia/HRS%20PIA.htm
   - name: Social Security Number Establishment and Correction System
-    acronym: SSNEC
+    id: SSNEC
     description: The system for issuing new SSNs as well as replacement SSN cards
     risk: PII of individual include SSNs and information submitted on birth certificates
     pia: https://www.ssa.gov/privacy/pia/Social%20Security%20Number%20Establishment%20and%20Correction%20System.updtdSept%2028.htm
     sorn: https://www.federalregister.gov/documents/2024/12/31/2024-31131/privacy-act-of-1974-system-of-records
   - name: Title II
+    id: title-ii
     description: Major Application consisting of sub-systems and applications associated with receiving, adjudicating, and processing applications for Title II Social Security benefits.
     risk: PII of individuals including names, SSNs, SS claims and Medicare eligibility
     pia: https://www.ssa.gov/privacy/pia/Title%20II%20PIA%20Final.htm
