@@ -24,18 +24,18 @@ def read_yaml(file_path):
                 else:
                     named = []
 
-                events.append({'agency': agency['name'], 'acronym': acronym, 'event': event['event'], 'date': event['date'], 'source': source, 'named': ', '.join(named), 'order': i})
+                events.append({'agency': agency['name'], 'acronym': acronym, 'event': event['event'], 'type': event['type'], 'date': event['date'], 'source': source, 'named': ', '.join(named), 'order': i})
                 i += 1
 
         if 'cases' in agency:
             for case in agency['cases']:
-                events.append({'agency': agency['name'], 'acronym': acronym, 'event': f'{acronym} named as defendant in new lawsuit {case["name"]} (Case No {case["case_no"]})', 'date': case['date_filed'], 'named': None, 'source': case['link'], 'order': i})
+                events.append({'agency': agency['name'], 'acronym': acronym, 'event': f'{acronym} named as defendant in new lawsuit {case["name"]} (Case No {case["case_no"]})', 'type': 'legal', 'date': case['date_filed'], 'named': None, 'source': case['link'], 'order': i})
                 i += 1
 
         if 'roundups' in agency:
             for roundup in agency['roundups']:
                 if 'date' in roundup and 'context' in roundup:
-                    events.append({'agency': agency['name'], 'acronym': acronym, 'event': roundup['context'], 'date': roundup['date'], 'named': ', '.join(roundup['named']), 'source': roundup['source'], 'order': i})
+                    events.append({'agency': agency['name'], 'acronym': acronym, 'event': roundup['context'], 'type': 'roundup', 'date': roundup['date'], 'named': ', '.join(roundup['named']), 'source': roundup['source'], 'order': i})
                     i += 1
 
     return sorted(events, key=lambda x: (x['date'], x['agency'], x['order']))
@@ -48,7 +48,7 @@ output_file = './events.csv'
 
 # Write the yaml_data to a CSV file
 with open(output_file, 'w', newline='') as csvfile:
-    fieldnames = ['date', 'agency', 'acronym', 'named', 'event', 'source']
+    fieldnames = ['date', 'agency', 'acronym', 'type', 'named', 'event', 'source']
     fieldnames_set = set(fieldnames)
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames, extrasaction='ignore')
 

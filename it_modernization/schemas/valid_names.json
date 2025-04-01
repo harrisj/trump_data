@@ -99,6 +99,7 @@
             "Thomas Shedd",
             "Keith Sonderling",
             "Branden Spikes",
+            "Katrine Trampe",
             "Cary Volpert",
             "Jordan Wick",
             "Ryan Wunderly",
@@ -183,6 +184,7 @@
             "FDS",
             "FEMA-GO",
             "FMS",
+            "FPPS",
             "FPS",
             "G-Invoicing",
             "Google-NOAA",
@@ -246,6 +248,7 @@
             "official",
             "onboarded",
             "other",
+            "promotion",
             "report"
         ]
     },

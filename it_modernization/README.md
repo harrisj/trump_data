@@ -120,13 +120,15 @@ First, there are some general event fields you will always see:
 - disruption: the Silicon Valley term for vandalism, looting, destruction
 - offboarding: when DOGE staffers leaves an agency
   - named: an array of named
-- onboarding: a record of an employee onboarding at an agency. This doesn't cover internal promotions (like Leland Dudek) or non-DOGE staff
+- onboarding: a record of DOGE staff onboarding at a new agency.
   - onboard_type: hired | appointed | detailed | other
   - detailed_from: the agencies where people were detailed from
   - named: the names of the people being onboarded
 - legal: a legal development
 - official: an official communication or action, usually one of the many executive orders
 - other: for things I don't know, but also aren't reports?
+- promotion: a record of a DOGE staffers getting a new role at an existing agency (usually to have more power)
+  - named: who was affects
 - report: a general report of a sighting, something happening, etc.
 
 ## Can You Tell Me More About These Names?

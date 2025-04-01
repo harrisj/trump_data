@@ -62,14 +62,6 @@ agencies:
     named:
     - Brad Smith
     date: 2025-03-26
-  - source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    organization: Department of Justice filing
-    date: 2025-03-29
-    named:
-    - Edward Coristine
-    - Marko Elez
-    - Luke Farritor
-    - Amy Gleason
   events:
   - date: 2025-01-31
     type: access_granted
@@ -159,6 +151,15 @@ agencies:
     named:
     - Edward Coristine
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - date: 2025-03-29
+    type: report
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    event: In a legal filing, the DOJ identifies 4 DOGE staffers - Edward Coristine, Marko Elez, Luke Farritor and Amy Gleason - at CMS
+    named:
+    - Edward Coristine
+    - Marko Elez
+    - Luke Farritor
+    - Amy Gleason
   - date: 2025-03-29
     type: access_revoked
     access_systems:
@@ -859,7 +860,7 @@ agencies:
     date: 2025-03-26
   - source: https://www.wired.com/story/elon-musk-doge-silicon-valley-corporate-connections/
     organization: Wired Magazine
-    comment: I am including EOP names in this list
+    comment: I am including names identified as EOP in this list
     date: 2025-03-28
     named:
     - Justin Aimonetti
@@ -1178,10 +1179,50 @@ agencies:
     - Tyler Hassen
     - Bryton Shang
     source: https://www.cnn.com/2025/03/07/climate/trump-doge-california-water/index.html
+  - date: 2025-02-24
+    type: onboarded
+    onboard_type: detailed
+    event: Stephanie Holmes is detailed to the Department of the Interior as a Special Advisor and acting Chief Human Capital Officer for the entire agency
+    detailed_from: DOGE
+    named:
+    - Stephanie Holmes
+    source: https://subscriber.politicopro.com/article/eenews/2025/03/05/heres-the-people-connected-to-doge-at-interior-00213330
   - date: 2025-03-04
     type: disruption
     event: DOGE boasts in a tweet that 27% more water was released in February compared to January (unclear if this adjusts for different lengths of months)
     source: https://xcancel.com/DOGE/status/1896948512975433787
+  - date: 2025-03-07
+    type: promotion
+    event: Tyler Hassen is promoted to Acting Assistant Secretary of Policy, Management and Budget
+    named:
+    - Tyler Hassen
+    source: https://www.eenews.net/articles/doge-official-appointed-head-of-policy-at-interior/
+  - date: 2025-03-28
+    type: report
+    event: Expressing concerns about DOGE requesting access to FPPS, the CIO and CISO of the Department of the Interior present a memo to the Interior Secretary about the risks for him to acknowledge and sign. He doesn't sign it
+    source: https://www.nytimes.com/2025/03/31/us/politics/doge-musk-federal-payroll.html
+  - date: 2025-03-28
+    type: disruption
+    event: Tyler Hassen places the CIO and CISO on admininstrative leave under investigation for raising alarm about DOGE access
+    named:
+    - Tyler Hassen
+    source: https://www.nytimes.com/2025/03/31/us/politics/doge-musk-federal-payroll.html
+  - date: 2023-03-29
+    event: Two DOGE staffers are granted admin access to the FPPS payroll system at the Department of the Interior
+    type: access_granted
+    access_type: admin
+    access_systems:
+    - FPPS
+    named:
+    - Stephanie Holmes
+    - Katrine Trampe
+    source: https://www.nytimes.com/2025/03/31/us/politics/doge-musk-federal-payroll.html
+  systems:
+  - name: Federal Personnel Payroll System
+    id: FPPS
+    description: A shared service which processes payrolls for the Justice, Treasury and Homeland Security departments, as well as the Air Force, Nuclear Regulatory Commission and the U.S. Customs and Border Protection, among other federal agencies.
+    risk: PII and payment info for federal staff at several large agencies, including the ability to interfere with pay
+    pia: https://www.doi.gov/sites/doi.gov/files/fpps-pia-revised-04222020_0.pdf
   cases:
   - name: Center for Biological Diversity v. U.S. Department of Interior (D.D.C.)
     description: Plaintiffs, a nonprofit organization focused on habitat preservation for endangered species, alleges that DOGE and the Department of Interior have violated the Administrative Procedures Act by failing to follow Federal Advisory Committee Act (FACA) requirements
@@ -2010,16 +2051,6 @@ agencies:
     - Amy Gleason
     - Clark Minor
     - Rachel Riley
-  - source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
-    organization: Court filing in AFL-CIO et al. vs. Department of Labor
-    date: 2025-03-13
-    comment: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
-    named:
-    - Edward Coristine
-    - Marko Elez
-    - Luke Farritor
-    - Aram Moghaddassi
-    - Rachel Riley
   - source: https://www.wired.com/story/elon-musk-doge-silicon-valley-corporate-connections/
     organization: Wired Magazine
     date: 2025-03-28
@@ -2030,21 +2061,6 @@ agencies:
     - Amy Gleason
     - Clark Minor
     - Rachel Riley
-  - source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.4.pdf
-    organization: Court declaration of plaintiff counsel Alexa T. Milton
-    date: 2025-03-29
-    named:
-    - Conor Fennessy
-    - Jeremy Lewin
-  - source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    organization: Department of Justice filing of staff at HHS
-    date: 2025-03-29
-    named:
-    - Edward Coristine
-    - Marko Elez
-    - Luke Farritor
-    - Amy Gleason
-    - Kyle Schutt
   events:
   - date: 2025-01-21
     type: onboarded
@@ -2125,6 +2141,16 @@ agencies:
     type: disruption
     event: Federal staff who objected to DOGE getting access to NDNH are "no longer with the agency"
     source: https://www.washingtonpost.com/business/2025/03/08/hhs-doge-child-support
+  - date: 2025-03-13
+    type: report
+    event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
+    named:
+    - Edward Coristine
+    - Marko Elez
+    - Luke Farritor
+    - Aram Moghaddassi
+    - Rachel Riley
   - date: 2025-03-14
     type: onboarded
     onboard_type: detailed
@@ -2159,6 +2185,23 @@ agencies:
     named:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - date: 2025-03-29
+    type: report
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff who have worked at HHS
+    named:
+    - Edward Coristine
+    - Marko Elez
+    - Luke Farritor
+    - Amy Gleason
+    - Kyle Schutt
+  - date: 2025-03-29
+    type: report
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.4.pdf
+    event: In a court declaration in AFL-CIO vs. DOL, counsel for the plaintiffs Alexa Milton provides the names of two DOGE staffers at HHS who were not provided in the government's list of staffers there
+    named:
+    - Conor Fennessy
+    - Jeremy Lewin
   systems:
   - name: National Directory of New Hires
     id: NDNH
@@ -2328,6 +2371,10 @@ agencies:
     - Nate Cavanaugh
     - Gavin Hamrick
     source: https://bsky.app/profile/marisakabas.bsky.social
+  - date: 2025-03-31
+    type: disruption
+    event: DOGE is cancelling all 900 open awards from IMLS to museums across the country
+    source: https://news.artnet.com/art-world/doge-decimates-institute-museum-library-services-imls-2626543
 
 - name: Inter-American Foundation
   acronym: IAF
@@ -2396,7 +2443,7 @@ agencies:
     onboard_type: detailed
     detailed_from: OPM
     comment: Assumptions made this is a detail from OPM based on this article reporting he came from OPM
-    event: Gavin Kliger arrives at the IRS to begin onboarding
+    event: Gavin Kliger arrives at the IRS to begin onboarding as a staffer there
     source: https://www.wsj.com/politics/policy/doge-internal-revenue-service-9697cb99
   - date: 2025-02-17
     type: report
@@ -2887,6 +2934,11 @@ agencies:
     date_filed: 2025-02-04
     case_no: 1:25-cv-10276
     link: https://www.courtlistener.com/docket/69610323/american-federation-of-government-employees-afl-cio-v-ezell/
+  - name: National Treasury Employees Union v. Donald J. Trump
+    description: The union is suing the Donald Trump along with Charles Ezell at the OPM about a recent executive order made by Trump that attempts to dissolve government labor unions at many major agencies like the GSA and FDA by claiming they are intelligence-related.
+    date_filed: 2025-03-31
+    case_no: 1:25-cv-00935
+    link: https://www.courtlistener.com/docket/69821136/national-treasury-employees-union-v-donald-j-trump/
   sources:
   - https://www.muskwatch.com/p/musk-associates-given-unfettered
 
@@ -2987,31 +3039,6 @@ agencies:
     organization: ProPublica
     named:
     - Mike Russo
-  - source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
-    comment: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
-    organization: The Handbasket
-    date: 2025-02-20
-    named:
-    - Leland Dudek
-    - Ethan Shaotran
-    - Nikhil Rajpal
-    - Cole Killian
-    - Marko Elez
-  - source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
-    organization: Wired Magazine
-    date: 2025-03-13
-    comment: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
-    named:
-    - Akash Bobba
-    - Scott Coulter
-    - Marko Elez
-    - Luke Farritor
-    - Antonio Gracias
-    - Cole Killian
-    - Jon Koval
-    - Nikhil Rajpal
-    - Payton Rehling
-    - Ethan Shaotran
   - source: https://techcrunch.com/2025/03/12/the-people-in-elon-musk-doge-universe/
     organization: TechCrunch
     named:
@@ -3082,8 +3109,8 @@ agencies:
     type: access_granted
     access_type: read
     access_systems:
-    - NUMIDENT
-    event: Akash Bobba is rapidly trained and is granted access to anonymized and read-only "sandbox" NUMIDENT data for his purported fraud investigations
+    - SSNEC
+    event: Akash Bobba is rapidly trained and is granted access to anonymized and read-only "sandbox" NUMIDENT data from SSNEC for his purported fraud investigations
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
     named:
     - Akash Bobba
@@ -3157,6 +3184,16 @@ agencies:
     named:
     - Ethan Shaotran
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+  - date: 2025-02-20
+    type: report
+    source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
+    event: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
+    named:
+    - Leland Dudek
+    - Ethan Shaotran
+    - Nikhil Rajpal
+    - Cole Killian
+    - Marko Elez
   - date: 2025-02-26
     type: onboarded
     onboard_type: detailed
@@ -3194,6 +3231,21 @@ agencies:
     type: report
     event: Multiple SSA employees told ProPublica, their tech systems seem to be crashing nearly every day, leading to more delays in serving beneficiaries.
     source: https://www.propublica.org/article/recording-reveals-leland-dudek-thoughts-trump-doge-social-security
+  - date: 2025-03-13
+    source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
+    type: report
+    event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    named:
+    - Akash Bobba
+    - Scott Coulter
+    - Marko Elez
+    - Luke Farritor
+    - Antonio Gracias
+    - Cole Killian
+    - Jon Koval
+    - Nikhil Rajpal
+    - Payton Rehling
+    - Ethan Shaotran
   - date: 2025-03-20
     type: legal
     event: In a ruling for AFL-CIO vs. SSA, Judge Hollander grants a temporary restraining order enjoining DOGE from having any access to SSA systems or installing any software as well as ordering them to delete any data
@@ -3242,6 +3294,9 @@ agencies:
     risk: PII and PHI of individuals applying for disability benefits, including names, SSNs, and medical information related to their disability
     pia: https://www.ssa.gov/privacy/pia/eDib%20PIA%20OPD%20Final_Feb%201,%202018.pdf
     sorn: https://www.govinfo.gov/content/pkg/FR-2020-06-04/pdf/2020-12067.pdf
+  - name: Electronic Data Warehouse
+    id: SSA-EDW
+    description: FIXME
   - name: Electronic Wage Reporting System
     id: EWR
     description: A system for employers to submit W-2 records every year for their employees
@@ -3253,12 +3308,19 @@ agencies:
     description: Collection of systems for human resources, timekeeping and payroll for SSA employees
     risk: PII of SSA employees, including names, SSNs, and payroll information
     pia: https://www.ssa.gov/privacy/pia/HRS%20PIA.htm
+  - name: Master Beneficiary Record
+    id: MBR
+    description: A large record of all individuals elgible to receive social security benefits
+    sorn: https://www.ssa.gov/privacy/sorn/60-0090.pdf
   - name: Social Security Number Establishment and Correction System
     id: SSNEC
-    description: The system for issuing new SSNs as well as replacement SSN cards
+    description: The system for issuing new SSNs as well as replacement SSN cards. This system also sources the NUMIDENT files
     risk: PII of individual include SSNs and information submitted on birth certificates
     pia: https://www.ssa.gov/privacy/pia/Social%20Security%20Number%20Establishment%20and%20Correction%20System.updtdSept%2028.htm
     sorn: https://www.federalregister.gov/documents/2024/12/31/2024-31131/privacy-act-of-1974-system-of-records
+  - name: SSR
+    id: SSR
+    description: FIXME
   cases:
   - name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
     description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency ("DOGE"), challenging the access to sensitive personal data of millions of Americans which SSA gave to https://www.nytimes.com/2025/02/05/us/politics/elon-musk-doge-faa.html
@@ -3427,7 +3489,7 @@ agencies:
     source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
   - date: 2025-01-28
     type: onboarded
-    onboard_type: hired
+    onboard_type: appointed
     event: Jeremy Lewin starts working at USAID as both a Senior Advisor and Director for Strategy & Programs
     named:
     - Jeremy Lewin
@@ -3505,7 +3567,7 @@ agencies:
     event: In a ruling in J. Doe 1-26 v. Musk (D. Md), Judge Theodore D. Chuang finds that the decision to shut down USAID violated the Constitution in multiple ways and orders the agency must be reopened
     source: https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rZttxcbH9cfc/v0
   - date: 2025-03-18
-    type: report
+    type: promotion
     event: Jeremy Lewin is appointed to the position of Deputy Administrator (Policy and Programming) and Kenneth Jackson is named Deputy Administrator (Management and Resources). He claims it was unrelated to the ruling by Chuang.
     named:
     - Jeremy Lewin
@@ -3649,6 +3711,18 @@ agencies:
     type: disruption
     event: USIP website is taken offline
     source: https://bsky.app/profile/marisakabas.bsky.social/post/3lkskjyhqkk2p
+  - date: 2025-03-31
+    type: promotion
+    named:
+    - Nate Cavanaugh
+    event: Nate Cavanaugh is reportedly named the new President of USIP by two members of the board
+    source: https://apnews.com/article/doge-institute-peace-trump-musk-executive-order-be36e51ae6a59d08342920bf81f61698
+  - date: 2025-03-31
+    type: report
+    named:
+    - Nate Cavanaugh
+    event: Nate Cavanaugh is apparently ordered to transfer USIP property to the GSA to be sold off
+    source: https://apnews.com/article/doge-institute-peace-trump-musk-executive-order-be36e51ae6a59d08342920bf81f61698
   vandalism:
   - Removal of all signage
   - Website taken offline

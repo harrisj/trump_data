@@ -53,7 +53,7 @@ Akash Bobba:
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
   - agency: Social Security Administration
     date: '2025-02-10'
-    event: Akash Bobba is rapidly trained and is granted access to anonymized and read-only "sandbox" NUMIDENT data for his purported fraud investigations
+    event: Akash Bobba is rapidly trained and is granted access to anonymized and read-only "sandbox" NUMIDENT data from SSNEC for his purported fraud investigations
     name: Akash Bobba
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
   - agency: Social Security Administration
@@ -71,6 +71,11 @@ Akash Bobba:
     event: Staff express concern to Acting Commissioner King that Bobba is accessing information remotely and in an insecure location (the OPM)
     name: Akash Bobba
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
+  - agency: Social Security Administration
+    date: '2025-03-13'
+    event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    name: Akash Bobba
+    source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
 
 Alexander Simonpour:
   agencies:
@@ -138,6 +143,16 @@ Amy Gleason:
     event: In another sworn statement, Amy Gleason declares "every member of an agency's DOGE Team is an employee of the agency or a detailee to the agency." She does clarify that some are detailed from USDS but also claims they report to agency heads. She reports thar USDS has approximately 79 directly appointed employees and 10 employees detailed from other agencies.
     name: Amy Gleason
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277646/gov.uscourts.dcd.277646.24.2.pdf
+  - agency: Centers for Medicare and Medicaid Services
+    date: '2025-03-29'
+    event: In a legal filing, the DOJ identifies 4 DOGE staffers - Edward Coristine, Marko Elez, Luke Farritor and Amy Gleason - at CMS
+    name: Amy Gleason
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Health and Human Services
+    date: '2025-03-29'
+    event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff who have worked at HHS
+    name: Amy Gleason
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
 
 Anthony Armstrong:
   agencies:
@@ -168,6 +183,12 @@ Antonio Gracias:
   agencies:
   - Social Security Administration
   - US Digital Service/Department of Government Efficiency
+  events:
+  - agency: Social Security Administration
+    date: '2025-03-13'
+    event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    name: Antonio Gracias
+    source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
 
 Aram Moghaddassi:
   agencies:
@@ -176,6 +197,11 @@ Aram Moghaddassi:
   - Health and Human Services
   - US Digital Service/Department of Government Efficiency
   events:
+  - agency: Health and Human Services
+    date: '2025-03-13'
+    event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
+    name: Aram Moghaddassi
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
   - agency: US Digital Service/Department of Government Efficiency
     date: '2025-03-27'
     event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government spending. Amy Gleason did not appear.
@@ -364,6 +390,16 @@ Cole Killian:
     event: DOGE is granted authorization to use file transfer software
     name: Cole Killian
     source: https://www.nbcnews.com/tech/security/doge-software-approval-alarms-labor-department-employees-data-security-rcna191583
+  - agency: Social Security Administration
+    date: '2025-02-20'
+    event: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
+    name: Cole Killian
+    source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
+  - agency: Social Security Administration
+    date: '2025-03-13'
+    event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    name: Cole Killian
+    source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
 
 Conor Fennessy:
   agencies:
@@ -376,6 +412,11 @@ Conor Fennessy:
     event: The public calendar of Riley Sennott mentions a 30-minute "SGE Ethics Discussion" meeting with 2 GSA addresses and other DOGE staff
     name: Conor Fennessy
     source: https://www.msn.com/en-us/money/companies/we-found-a-doge-guy-at-nasa-because-his-google-calendar-was-public/ar-AA1At75X
+  - agency: Health and Human Services
+    date: '2025-03-29'
+    event: In a court declaration in AFL-CIO vs. DOL, counsel for the plaintiffs Alexa Milton provides the names of two DOGE staffers at HHS who were not provided in the government's list of staffers there
+    name: Conor Fennessy
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.4.pdf
 
 Daniel Abrahamson:
   agencies:
@@ -468,9 +509,24 @@ Edward Coristine:
     event: Edward Coristine is granted read-only access to the Integrated Data Repository (IDR) system by the CIO of the CMS Office of Information Technology
     name: Edward Coristine
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Health and Human Services
+    date: '2025-03-13'
+    event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
+    name: Edward Coristine
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
+  - agency: Centers for Medicare and Medicaid Services
+    date: '2025-03-29'
+    event: In a legal filing, the DOJ identifies 4 DOGE staffers - Edward Coristine, Marko Elez, Luke Farritor and Amy Gleason - at CMS
+    name: Edward Coristine
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - agency: Centers for Medicare and Medicaid Services
     date: '2025-03-29'
     event: In a filing, DOJ asserts that Edward Coristine and Marko Elez no longer have access to HHS systems
+    name: Edward Coristine
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Health and Human Services
+    date: '2025-03-29'
+    event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff who have worked at HHS
     name: Edward Coristine
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
 
@@ -559,6 +615,11 @@ Ethan Shaotran:
     event: According to a sworn declaration, "Employee 10, a software engineer, was detailed from the Office of the Administrator at the General Services Administration to SSA" (possibly Ehtan Shaotran)
     name: Ethan Shaotran
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+  - agency: Social Security Administration
+    date: '2025-02-20'
+    event: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
+    name: Ethan Shaotran
+    source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
   - agency: U.S. African Development Foundation
     date: '2025-02-21'
     event: Ethan Shaotran, Jacob Altik, and Nate Cavanaugh arrive at the agency and demand that a MOU must be signed for their detail assignment
@@ -584,6 +645,11 @@ Ethan Shaotran:
     event: DOGE staff Jacob Altik and Ethan Shaotran return joined by Nate Cavanaugh with US marshals to force entry to the agency
     name: Ethan Shaotran
     source: https://www.thedailybeast.com/elon-musks-doge-goons-in-tense-standoff-video-unmasked/
+  - agency: Social Security Administration
+    date: '2025-03-13'
+    event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    name: Ethan Shaotran
+    source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
 
 Frank Schuler:
   agencies:
@@ -786,6 +852,11 @@ Jeremy Lewin:
     event: Almost all of the remaining 900 USAID employees are terminated by email from Jeremy Lewin with RIFs that will go into effect either in July or September
     name: Jeremy Lewin
     source: https://www.npr.org/sections/goats-and-soda/2025/03/28/g-s1-56968/usaid-terminates-nearly-all-its-remaining-employees
+  - agency: Health and Human Services
+    date: '2025-03-29'
+    event: In a court declaration in AFL-CIO vs. DOL, counsel for the plaintiffs Alexa Milton provides the names of two DOGE staffers at HHS who were not provided in the government's list of staffers there
+    name: Jeremy Lewin
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.4.pdf
 
 Joe Gebbia:
   agencies:
@@ -801,6 +872,12 @@ Joe Gebbia:
 Jon Koval:
   agencies:
   - Social Security Administration
+  events:
+  - agency: Social Security Administration
+    date: '2025-03-13'
+    event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    name: Jon Koval
+    source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
 
 Jordan Wick:
   agencies:
@@ -877,6 +954,16 @@ Kathryn Armstrong Loving:
 Katie Miller:
   agencies:
   - US Digital Service/Department of Government Efficiency
+
+Katrine Trampe:
+  agencies:
+  - Department of the Interior
+  events:
+  - agency: Department of the Interior
+    date: '2023-03-29'
+    event: Two DOGE staffers are granted admin access to the FPPS payroll system at the Department of the Interior
+    name: Katrine Trampe
+    source: https://www.nytimes.com/2025/03/31/us/politics/doge-musk-federal-payroll.html
 
 Keenan Kmiec:
   agencies:
@@ -957,6 +1044,11 @@ Kyle Schutt:
     event: Kyle Schutt is granted read-only access to the Unaccompanied Alien Children (UAC) Portal
     name: Kyle Schutt
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Health and Human Services
+    date: '2025-03-29'
+    event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff who have worked at HHS
+    name: Kyle Schutt
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
 
 Leland Dudek:
   agencies:
@@ -982,6 +1074,11 @@ Leland Dudek:
     event: The acting director of the Social Security Administration, Michelle King, receives an email from the White House that Dudek is now the Acting Commissioner.
     name: Leland Dudek
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
+  - agency: Social Security Administration
+    date: '2025-02-20'
+    event: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
+    name: Leland Dudek
+    source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
   - agency: Social Security Administration
     date: '2025-03-01'
     event: In an email to staff, Dudek explains the disruptions by saying "elections have consequences"
@@ -1129,8 +1226,28 @@ Luke Farritor:
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - agency: Health and Human Services
+    date: '2025-03-13'
+    event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
+    name: Luke Farritor
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
+  - agency: Social Security Administration
+    date: '2025-03-13'
+    event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    name: Luke Farritor
+    source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
+  - agency: Health and Human Services
     date: '2025-03-21'
     event: Luke Farritor is granted admin read-write access to Grants.gov by the Assistant Secretary for Financial Resources (ASFR)
+    name: Luke Farritor
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Centers for Medicare and Medicaid Services
+    date: '2025-03-29'
+    event: In a legal filing, the DOJ identifies 4 DOGE staffers - Edward Coristine, Marko Elez, Luke Farritor and Amy Gleason - at CMS
+    name: Luke Farritor
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Health and Human Services
+    date: '2025-03-29'
+    event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff who have worked at HHS
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
 
@@ -1220,6 +1337,11 @@ Marko Elez:
     event: John York, a senior counselor to Bessent, wrote in a sworn statement that Ryan Wunderly would take over Marko Elez's work at the BFS
     name: Marko Elez
     source: https://www.politico.com/news/2025/02/20/treasury-irs-data-white-house-doge-00205391
+  - agency: Social Security Administration
+    date: '2025-02-20'
+    event: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
+    name: Marko Elez
+    source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
   - agency: Department of Labor
     date: '2025-02-25'
     event: Marko Elez is granted access read-only access to USAccess and DOL Directory Resource Administrator (DRA) systems by Troy Finnegan, Former Assistant Secretary for Administration and Management
@@ -1255,6 +1377,16 @@ Marko Elez:
     event: Marko Elez is granted read-only access to National Directory of New Hires (NDNH) database by the Administration for Children and Families (ACF) CTO
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Health and Human Services
+    date: '2025-03-13'
+    event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
+    name: Marko Elez
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
+  - agency: Social Security Administration
+    date: '2025-03-13'
+    event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    name: Marko Elez
+    source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
   - agency: Department of Labor
     date: '2025-03-19'
     event: Marko Elez affirms he has completed his mandatory privacy training at the Department of Labor
@@ -1265,9 +1397,19 @@ Marko Elez:
     event: Marko Elez is granted access read-only access to Unemployment Insurance Data and Related Records by Thomas Shedd, the new CIO
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Centers for Medicare and Medicaid Services
+    date: '2025-03-29'
+    event: In a legal filing, the DOJ identifies 4 DOGE staffers - Edward Coristine, Marko Elez, Luke Farritor and Amy Gleason - at CMS
+    name: Marko Elez
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - agency: Health and Human Services
     date: '2025-03-29'
     event: In a filing, DOJ asserts that Edward Coristine and Marko Elez no longer have access to HHS systems
+    name: Marko Elez
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Health and Human Services
+    date: '2025-03-29'
+    event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff who have worked at HHS
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
 
@@ -1426,6 +1568,16 @@ Nate Cavanaugh:
     event: DOGE arrives at the agency and notifies the entire staff of IMLS that they are being put on administrative leave effective immediately
     name: Nate Cavanaugh
     source: https://bsky.app/profile/marisakabas.bsky.social
+  - agency: US Institute of Peace
+    date: '2025-03-31'
+    event: Nate Cavanaugh is reportedly named the new President of USIP by two members of the board
+    name: Nate Cavanaugh
+    source: https://apnews.com/article/doge-institute-peace-trump-musk-executive-order-be36e51ae6a59d08342920bf81f61698
+  - agency: US Institute of Peace
+    date: '2025-03-31'
+    event: Nate Cavanaugh is apparently ordered to transfer USIP property to the GSA to be sold off
+    name: Nate Cavanaugh
+    source: https://apnews.com/article/doge-institute-peace-trump-musk-executive-order-be36e51ae6a59d08342920bf81f61698
 
 Nicholas Lahera:
   agencies:
@@ -1473,6 +1625,16 @@ Nikhil Rajpal:
     event: Nikhil Rajpal and Luke Farritor are granted full admin access to the Microsoft Entra system
     name: Nikhil Rajpal
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Social Security Administration
+    date: '2025-02-20'
+    event: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
+    name: Nikhil Rajpal
+    source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
+  - agency: Social Security Administration
+    date: '2025-03-13'
+    event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    name: Nikhil Rajpal
+    source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
   - agency: Consumer Financial Protection Bureau
     date: '2025-03-21'
     event: Nikhil Rajpal has his access revoked to all systems as part of offboarding
@@ -1492,6 +1654,12 @@ Noah Peters:
 Payton Rehling:
   agencies:
   - Social Security Administration
+  events:
+  - agency: Social Security Administration
+    date: '2025-03-13'
+    event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    name: Payton Rehling
+    source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
 
 Peter Marocco:
   agencies:
@@ -1531,6 +1699,11 @@ Rachel Riley:
     event: Three DOGE staffers are placed within the NIH Business System Department for access to NIH's central electronic business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
     name: Rachel Riley
     source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
+  - agency: Health and Human Services
+    date: '2025-03-13'
+    event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
+    name: Rachel Riley
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
 
 Riccardo Biasini:
   agencies:
@@ -1637,6 +1810,11 @@ Scott Coulter:
     event: Leland Dudek reaches out to Tiffany Flick, the Associate Director of Budget, Facilities and Security to inform her two DOGE staff would be onboarding. He was a mid-level employee at the time.
     name: Scott Coulter
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
+  - agency: Social Security Administration
+    date: '2025-03-13'
+    event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    name: Scott Coulter
+    source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
   - agency: National Aeronautics and Space Administration
     date: '2025-03-14'
     event: ProPublica reports that Scott Coulter has "wide access to internal databases at NASA"
@@ -1679,8 +1857,20 @@ Shaun Maguire:
 
 Stephanie Holmes:
   agencies:
+  - Department of the Interior
   - Office of Personnel Management
   - US Digital Service/Department of Government Efficiency
+  events:
+  - agency: Department of the Interior
+    date: '2023-03-29'
+    event: Two DOGE staffers are granted admin access to the FPPS payroll system at the Department of the Interior
+    name: Stephanie Holmes
+    source: https://www.nytimes.com/2025/03/31/us/politics/doge-musk-federal-payroll.html
+  - agency: Department of the Interior
+    date: '2025-02-24'
+    event: Stephanie Holmes is detailed to the Department of the Interior as a Special Advisor and acting Chief Human Capital Officer for the entire agency
+    name: Stephanie Holmes
+    source: https://subscriber.politicopro.com/article/eenews/2025/03/05/heres-the-people-connected-to-doge-at-interior-00213330
 
 Stephen Duarte:
   agencies:
@@ -1829,6 +2019,16 @@ Tyler Hassen:
     event: Two DOGE staffers attempted to force water pumps to be turned on in a large reservoir in California for a photo op
     name: Tyler Hassen
     source: https://www.cnn.com/2025/03/07/climate/trump-doge-california-water/index.html
+  - agency: Department of the Interior
+    date: '2025-03-07'
+    event: Tyler Hassen is promoted to Acting Assistant Secretary of Policy, Management and Budget
+    name: Tyler Hassen
+    source: https://www.eenews.net/articles/doge-official-appointed-head-of-policy-at-interior/
+  - agency: Department of the Interior
+    date: '2025-03-28'
+    event: Tyler Hassen places the CIO and CISO on admininstrative leave under investigation for raising alarm about DOGE access
+    name: Tyler Hassen
+    source: https://www.nytimes.com/2025/03/31/us/politics/doge-musk-federal-payroll.html
 
 Vinay Hiremath:
   agencies:
