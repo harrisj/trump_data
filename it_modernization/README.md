@@ -2,74 +2,91 @@
 
 A manually updated YAML file that tracks the "IT modernization" efforts of the DOGE Team across various agencies. In the Executive Order establishing DOGE, they are given the following mandate:
 
-> The USDS Administrator shall commence a Software Modernization Initiative to improve the quality and efficiency of government-wide software, network infrastructure, and information technology (IT) systems.  Among other things, the USDS Administrator shall work with Agency Heads to promote inter-operability between agency networks and systems, ensure data integrity, and facilitate responsible data collection and synchronization.
+> The USDS Administrator shall commence a Software Modernization Initiative to improve the quality and efficiency of government-wide software, network infrastructure, and information technology (IT) systems. Among other things, the USDS Administrator shall work with Agency Heads to promote inter-operability between agency networks and systems, ensure data integrity, and facilitate responsible data collection and synchronization.
 
 The file modernization.yaml will track the "modernization" work of the DOGE crew as they steamroll across various agencies. This work will be using only reported sources, which will be linked from the record. Hopefully, it will present a more comprehensive picture of events. You might begin to notice that none of it seems to involve actual IT modernization...
 
-This file will **not** track contracts being cancelled by DOGE, except if that has ramifications for DOGE actions and activities.
+This file will **not** track contracts being canceled by DOGE, except if that has ramifications for DOGE actions and activities.
 
 ## The Data
 
 A record might look something like this:
 
 ```yaml
-- name: Department of Labor
-  acronym: DOL
+name: Department of the Interior
+  acronym: DOI
   roundups:
   - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
     organization: The New York Times
     named:
-    - Adam Ramada
+    - Tyler Hassen
   - source: https://projects.propublica.org/elon-musk-doge-tracker/
     organization: ProPublica
     named:
-    - Aram Moghaddassi
-  - source: https://www.businessinsider.com/doge-staffer-fertility-clinic-pronatalist-department-of-labor
-    organization: Business Insider
-    date: 2025-03-05
-    context: Business Insider reports Marko Elez, Aram Moghaddassi, and Miles B. Collins are new DOGE arrivals at Department of Labor
+    - Tyler Hassen
+  - source: https://www.wired.com/story/elon-musk-doge-silicon-valley-corporate-connections/
+    organization: Wired Magazine
+    date: 2025-03-28
     named:
-    - Marko Elez
-    - Aram Moghaddassi
-    - Miles Collins
+    - Tyler Hassen
   events:
-  - date: 2025-01-24
-    event: Trump fires the Inspector General for the Department of Labor in a late-night purge
-    source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
-  - date: 2025-02-04
-    event: DOL staff reportedly ordered "to give DOGE access to whatever they ask for-or risk termination"
-    source: https://bsky.app/profile/kimkelly.bsky.social/post/3lhf2owbxc22b
-  - date: 2025-02-05
-    event: DOGE staff are given access to the Department of Labor IT systems
-    source: https://www.theguardian.com/us-news/2025/feb/05/elon-musk-doge-labor-department-protest
-  - date: 2025-02-13
-    event: DOGE is granted authorization to use file transfer software
+  - date: 2025-01-28
+    type: disruption
+    event: Two DOGE staffers attempted to force water pumps to be turned on in a large reservoir in California for a photo op
     named:
-    - Sam Beyda
-    - Derek Geissler
-    - Cole Killian
-    - Adam Ramada
-    - Jordan Wick
-    source: https://www.nbcnews.com/tech/security/doge-software-approval-alarms-labor-department-employees-data-security-rcna191583
-  - date: 2025-03-14
-    event: Thomas Shedd apparently starts working at the CIO at Department of Labor while also serving as the TTS Commissioner at GSA (experts are unclear if this is legal)
+    - Tyler Hassen
+    - Bryton Shang
+    source: https://www.cnn.com/2025/03/07/climate/trump-doge-california-water/index.html
+  - date: 2025-02-24
+    type: onboarded
+    onboard_type: detailed
+    event: Stephanie Holmes is detailed to the Department of the Interior as a Special Advisor and acting Chief Human Capital Officer for the entire agency
+    detailed_from: DOGE
     named:
-    - Thomas Shedd
-    source: https://www.nextgov.com/people/2025/03/tts-director-tapped-serve-labor-cio/403855/?oref=ng-home-top-story
-  - date: 2025-03-18
-    event: Keith Sonderling is sworn in as the Deputy Secretary of labor
+    - Stephanie Holmes
+    source: https://subscriber.politicopro.com/article/eenews/2025/03/05/heres-the-people-connected-to-doge-at-interior-00213330
+  - date: 2025-03-04
+    type: disruption
+    event: DOGE boasts in a tweet that 27% more water was released in February compared to January (unclear if this adjusts for different lengths of months)
+    source: https://xcancel.com/DOGE/status/1896948512975433787
+  - date: 2025-03-07
+    type: promotion
+    event: Tyler Hassen is promoted to Acting Assistant Secretary of Policy, Management and Budget
     named:
-    - Keith Sonderling
-    source: https://news.artnet.com/art-world/doge-imls-institute-museum-library-services-2623286
-  - date: 2025-03-20
-    event: Trump issues an executive order which explicitly includes an instruction that "the Secretary of Labor and the Secretary's designees shall receive, to the maximum extent consistent with law, unfettered access to all unemployment data and related payment records, including all such data and records currently available to the Department of Labor's Office of Inspector General."
-    source: https://www.whitehouse.gov/presidential-actions/2025/03/stopping-waste-fraud-and-abuse-by-eliminating-information-silos/
+    - Tyler Hassen
+    source: https://www.eenews.net/articles/doge-official-appointed-head-of-policy-at-interior/
+  - date: 2025-03-28
+    type: report
+    event: Expressing concerns about DOGE requesting access to FPPS, the CIO and CISO of the Department of the Interior present a memo to the Interior Secretary about the risks for him to acknowledge and sign. He doesn't sign it
+    source: https://www.nytimes.com/2025/03/31/us/politics/doge-musk-federal-payroll.html
+  - date: 2025-03-28
+    type: disruption
+    event: Tyler Hassen places the CIO and CISO on admininstrative leave under investigation for raising alarm about DOGE access
+    named:
+    - Tyler Hassen
+    source: https://www.nytimes.com/2025/03/31/us/politics/doge-musk-federal-payroll.html
+  - date: 2023-03-29
+    event: Two DOGE staffers are granted admin access to the FPPS payroll system at the Department of the Interior
+    type: access_granted
+    access_type: admin
+    access_systems:
+    - FPPS
+    named:
+    - Stephanie Holmes
+    - Katrine Trampe
+    source: https://www.nytimes.com/2025/03/31/us/politics/doge-musk-federal-payroll.html
+  systems:
+  - name: Federal Personnel Payroll System
+    id: FPPS
+    description: A shared service which processes payrolls for the Justice, Treasury and Homeland Security departments, as well as the Air Force, Nuclear Regulatory Commission and the U.S. Customs and Border Protection, among other federal agencies.
+    risk: PII and payment info for federal staff at several large agencies, including the ability to interfere with pay
+    pia: https://www.doi.gov/sites/doi.gov/files/fpps-pia-revised-04222020_0.pdf
   cases:
-  - name: AFL-CIO v. Dep't of Labor (D.D.C.)
-    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed in particular on the Economy Act claims.
-    case_no: 1:25-cv-00339
-    date_filed: 2025-02-05
-    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+  - name: Center for Biological Diversity v. U.S. Department of Interior (D.D.C.)
+    description: Plaintiffs, a nonprofit organization focused on habitat preservation for endangered species, alleges that DOGE and the Department of Interior have violated the Administrative Procedures Act by failing to follow Federal Advisory Committee Act (FACA) requirements
+    case_no: 1:25-cv-00612
+    date_filed: 2025-03-03
+    link: https://www.courtlistener.com/docket/69698261/center-for-biological-diversity-v-us-department-of-interior/
 ```
 
 With the following fields:
