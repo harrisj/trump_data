@@ -33,6 +33,28 @@
                     "cases": [
                         {
                             "case_link": {
+                                "title": "Abrego Garcia v. Noem",
+                                "url": "https://www.courtlistener.com/docket/69777799/abrego-garcia-v-noem/"
+                            },
+                            "case_name": "Abrego Garcia v. Noem (D. Md.) Case No. 8:25-cv-00951",
+                            "case_summary": "[Coming soon]",
+                            "case_summary_html": "[Coming soon]",
+                            "complaint_link": {
+                                "title": "Complaint",
+                                "url": "https://storage.courtlistener.com/recap/gov.uscourts.mdd.578815/gov.uscourts.mdd.578815.1.0.pdf"
+                            },
+                            "complaint_link_text": "Complaint",
+                            "date_filed": "2025-03-24",
+                            "last_update": "2025-03-24"
+                        }
+                    ],
+                    "links": [],
+                    "title": "Removal to El Salvador/Fear of Persecution"
+                },
+                {
+                    "cases": [
+                        {
+                            "case_link": {
                                 "title": "New Hampshire Indonesian Community Support v. Donald J. Trump",
                                 "url": "https://www.courtlistener.com/docket/69560542/new-hampshire-indonesian-community-support-v-trump/"
                             },
@@ -3206,5 +3228,5 @@
             "title": "Other/Miscellaneous"
         }
     ],
-    "last_updated": "2025-03-31"
+    "last_updated": "2025-04-01"
 }
