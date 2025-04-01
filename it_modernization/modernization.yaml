@@ -37,6 +37,12 @@ agencies:
   sources:
   - https://www.motherjones.com/politics/2025/02/cdc-elon-musk-doge-layoffs-trump-chaos/
   systems:
+  - name: Acquisition Performance and Execution
+    id: APEX
+    description: FIXME
+  - name: Integrated Contracts Expert
+    id: ICE
+    description: FIXME
   - name: One CDC Data Platform
     id: "OneCDC"
     description: A system for centralizng health access, public-health data, including hundreds of thousands of daily anonymized lab tests, data from emergency-room visits, and measurements from wastewater disease-reporting sites
@@ -209,6 +215,16 @@ agencies:
     type: report
     event: DOGE staff enters the Commerce Department
     source: https://www.govexec.com/management/2025/02/doge-enters-noaa-accesses-it-systems-and-removes-top-hr-official/402776/
+
+- name: Central Intelligence Agency
+  acronym: CIA
+  events:
+  - date: 2025-03-31
+    type: report
+    event: Elon Musk visits the CIA at the invitation of its director, John Ratcliffe
+    named:
+    - Elon Musk
+    source: https://www.washingtonpost.com/national-security/2025/03/31/elon-musk-cia-doge/
 
 - name: Consumer Financial Protection Bureau
   acronym: CFPB
@@ -3711,18 +3727,23 @@ agencies:
     type: disruption
     event: USIP website is taken offline
     source: https://bsky.app/profile/marisakabas.bsky.social/post/3lkskjyhqkk2p
-  - date: 2025-03-31
+  - date: 2025-03-25
     type: promotion
     named:
     - Nate Cavanaugh
-    event: Nate Cavanaugh is reportedly named the new President of USIP by two members of the board
-    source: https://apnews.com/article/doge-institute-peace-trump-musk-executive-order-be36e51ae6a59d08342920bf81f61698
-  - date: 2025-03-31
+    event: Nate Cavanaugh is named the new President of USIP by the two remaining members of the board, Marco Rubio and Pete Hegseth, and he is authorized to transfer all assets to the GSA
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.14.1.pdf
+  - date: 2025-03-25
     type: report
     named:
     - Nate Cavanaugh
-    event: Nate Cavanaugh is apparently ordered to transfer USIP property to the GSA to be sold off
-    source: https://apnews.com/article/doge-institute-peace-trump-musk-executive-order-be36e51ae6a59d08342920bf81f61698
+    - Stephen Ehikian
+    event: Nate Cavanaugh contacts the administrator of the GSA to propose transferring the USIP building to them, arguing that USIP won't need a building because the statute doesn't mandate it has one or staffing
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.15.3.pdf
+  - date: 2025-03-28
+    type: disruption
+    event: Almost all USIP HQ staff (200-300 people) receive termination notices late on a Friday night
+    source: https://www.washingtonpost.com/national-security/2025/03/29/doge-usip-peace-institute-fired/
   vandalism:
   - Removal of all signage
   - Website taken offline

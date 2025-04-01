@@ -532,6 +532,7 @@ Edward Coristine:
 
 Elon Musk:
   agencies:
+  - Central Intelligence Agency
   - Consumer Financial Protection Bureau
   - Department of Defense
   - Department of Labor
@@ -585,6 +586,11 @@ Elon Musk:
     event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government spending. Amy Gleason did not appear.
     name: Elon Musk
     source: https://www.nbcnews.com/politics/doge/elon-musks-doge-tries-put-new-faces-reclusive-federal-office-rcna198491
+  - agency: Central Intelligence Agency
+    date: '2025-03-31'
+    event: Elon Musk visits the CIA at the invitation of its director, John Ratcliffe
+    name: Elon Musk
+    source: https://www.washingtonpost.com/national-security/2025/03/31/elon-musk-cia-doge/
 
 Emily Bryant:
   agencies:
@@ -1563,21 +1569,21 @@ Nate Cavanaugh:
     event: DOGE members Kenneth Jackson, Jacob Altik and Nate Cavanaugh remove staff and president of the USIP with the help of Office of the U.S. Attorney for the District of Columbia, the FBI and D.C. police
     name: Nate Cavanaugh
     source: https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/
+  - agency: US Institute of Peace
+    date: '2025-03-25'
+    event: Nate Cavanaugh is named the new President of USIP by the two remaining members of the board, Marco Rubio and Pete Hegseth, and he is authorized to transfer all assets to the GSA
+    name: Nate Cavanaugh
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.14.1.pdf
+  - agency: US Institute of Peace
+    date: '2025-03-25'
+    event: Nate Cavanaugh contacts the administrator of the GSA to propose transferring the USIP building to them, arguing that USIP won't need a building because the statute doesn't mandate it has one or staffing
+    name: Nate Cavanaugh
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.15.3.pdf
   - agency: Institute for Museum and Library Services
     date: '2025-03-31'
     event: DOGE arrives at the agency and notifies the entire staff of IMLS that they are being put on administrative leave effective immediately
     name: Nate Cavanaugh
     source: https://bsky.app/profile/marisakabas.bsky.social
-  - agency: US Institute of Peace
-    date: '2025-03-31'
-    event: Nate Cavanaugh is reportedly named the new President of USIP by two members of the board
-    name: Nate Cavanaugh
-    source: https://apnews.com/article/doge-institute-peace-trump-musk-executive-order-be36e51ae6a59d08342920bf81f61698
-  - agency: US Institute of Peace
-    date: '2025-03-31'
-    event: Nate Cavanaugh is apparently ordered to transfer USIP property to the GSA to be sold off
-    name: Nate Cavanaugh
-    source: https://apnews.com/article/doge-institute-peace-trump-musk-executive-order-be36e51ae6a59d08342920bf81f61698
 
 Nicholas Lahera:
   agencies:
@@ -1880,12 +1886,18 @@ Stephen Ehikian:
   agencies:
   - General Services Administration
   - Office of Personnel Management
+  - US Institute of Peace
   events:
   - agency: General Services Administration
     date: '2025-01-20'
     event: Stephen Ehikian is sworn in as a Deputy Administrator of the real estate division and Acting Administrator of the GSA
     name: Stephen Ehikian
     source: https://www.nextgov.com/people/2025/01/gsa-announces-new-fas-tts-leadership/402485/
+  - agency: US Institute of Peace
+    date: '2025-03-25'
+    event: Nate Cavanaugh contacts the administrator of the GSA to propose transferring the USIP building to them, arguing that USIP won't need a building because the statute doesn't mandate it has one or staffing
+    name: Stephen Ehikian
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.15.3.pdf
 
 Steve Davis:
   agencies:
