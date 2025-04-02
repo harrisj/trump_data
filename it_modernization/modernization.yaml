@@ -239,10 +239,23 @@ agencies:
     type: disruption
     event: Commerce Department Inspector General is fired in a late-night purge
     source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
+  - date: 2025-01-29
+    type: onboarded
+    onboard_type: appointed
+    event: Michael Grimes reported to be taking a senior role at the Commerce Department
+    named:
+    - Michael Grimes
+    source: https://www.nytimes.com/2025/01/29/us/politics/morgan-stanley-grimes-trump-commerce.html
   - date: 2025-02-05
     type: report
     event: DOGE staff enters the Commerce Department
     source: https://www.govexec.com/management/2025/02/doge-enters-noaa-accesses-it-systems-and-removes-top-hr-official/402776/
+  - date: 2025-03-28
+    type: report
+    event: Michael Grimes conducts DOGE-style interviews with each member of the staff in the Chips Program Office
+    named:
+    - Michael Grimes
+    source: https://www.ft.com/content/21ad2223-2a7f-44d4-8004-38956597bb9d
 
 - name: Central Intelligence Agency
   acronym: CIA
@@ -569,6 +582,10 @@ agencies:
     type: disruption
     event: Trump fires the DoD Inspector General in a late-night purge
     source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
+  - date: 2025-02-12
+    type: report
+    event: DOGE staff will reportedly be hired directly to the Department of Defense and not be detailed from elsewhere
+    source: https://www.forbes.com/sites/davidjeans/2025/03/04/pentagon-doge-official-justin-fulcher/
   - date: 2025-02-18
     type: report
     event: Unidentified DOGE team has a kickoff meeting with DoD staff at the Pentagon
@@ -581,6 +598,12 @@ agencies:
     type: report
     event: Defense Secretary Hegseth releases a video stating that he met with DOGE about cuts to the agency and many of them are veterans
     source: https://www.foxnews.com/politics/defense-sec-hegseth-working-doge-cut-bs
+  - date: 2025-03-04
+    type: report
+    event: A Forbes article identifies Justin Fulcher as one of the DOGE staff at the Pentagon and questions details about his background
+    named:
+    - Justin Fulcher
+    source: https://www.forbes.com/sites/davidjeans/2025/03/04/pentagon-doge-official-justin-fulcher/
   - date: 2025-03-21
     type: report
     event: Elon Musk arrives at the Pentagon for a meeting with leadership, reportedly to discuss DOGE
@@ -671,6 +694,14 @@ agencies:
     event: Department of Education agreed to block DOGE from access to financial aid systems
     case_no: 8:25-cv-00430
     source: https://www.usatoday.com/story/news/politics/2025/02/11/education-dept-doge-musk-court-order/78429043007/
+  - date: 2025-02-13
+    type: report
+    event: A story on a proposal to use AI at the Department of Education lists several DOGE staffers identified there within the last few weeks
+    named:
+    - Brooks Morgan
+    - Alexandra Beynon
+    - Adam Ramada
+    source: https://www.nytimes.com/2025/02/13/us/doge-ai-education-department-students.html
   - date: 2025-02-14
     type: report
     event: After a conservative account complained to Musk on Twitter about gender options on the FAFSA form, it was changed the same day (a change was planned, but multiple contractors were called in to rush it)
@@ -829,6 +860,24 @@ agencies:
     event: Employees at the Department of Energy are sent an email offering for them to enroll in a deferred resignation plan
     source: https://www.nytimes.com/2025/04/01/us/politics/federal-layoff-buyout-offers.html
 
+- name: Department of Justice
+  acronym: DOJ
+  events:
+  - date: 2025-03-12
+    type: report
+    event: Several DOGE representatives are reportedly seen at DOJ
+    source: https://abcnews.go.com/US/ag-pam-bondi-forms-internal-team-work-doge/story?id=119751049
+  - date: 2025-03-13
+    type: report
+    event: Attorney General Pam Bondi announces she is forming a "JUST DOGE" team to look at restructuring
+    source: https://abcnews.go.com/US/ag-pam-bondi-forms-internal-team-work-doge/story?id=119751049
+  - date: 2025-04-01
+    type: report
+    event: DOGE member Christopher Stanley is listed as a Senior Advisor in Deputy Attorney General's Office and holds a security clearance
+    named:
+    - Christopher Stanley
+    source: https://www.reuters.com/technology/cybersecurity/doge-official-doj-bragged-about-hacking-distributing-pirated-software-2025-04-02/
+
 - name: US Digital Service/Department of Government Efficiency
   acronym: DOGE
   roundups:
@@ -963,6 +1012,19 @@ agencies:
     named:
     - Luke Farritor
     source: https://www.wired.com/story/elon-musk-doge-recruiting-palantir/
+  - date: 2024-12-06
+    type: report
+    event: A report on the tech billionaires steering Trump's transition mentions Musk and other DOGE staff, and how they have been interviewing people at Mar-a-Lago
+    source: https://www.nytimes.com/2024/12/06/us/politics/trump-elon-musk-silicon-valley.html
+    named:
+    - Elon Musk
+    - Marc Andreessen
+    - Jared Birchall
+    - Shaun Maguire
+    - Scott Kupor
+    - Michael Kratsios
+    - Steve Davis
+    - Baris Akis
   - date: 2024-12-30
     type: onboarded
     onboard_type: hired
@@ -976,6 +1038,13 @@ agencies:
     named:
     - Riley Sennott
     source: https://www.msn.com/en-us/money/companies/we-found-a-doge-guy-at-nasa-because-his-google-calendar-was-public/ar-AA1At75X
+  - date: 2025-01-16
+    type: report
+    event: A report on conservative nonprofit groups doing research for DOGE notes that interviews are being conducted by Marc Andreessen and Shaun Maguire
+    named:
+    - Marc Andreessen
+    - Shaun Maguire
+    source: https://www.washingtonexaminer.com/news/investigations/3287555/maga-conservative-non-profits-doge-research/
   - date: 2025-01-17
     type: report
     event: The public calendar of Riley Sennott mentions a 30-minute "SGE Ethics Discussion" meeting with 2 GSA addresses and other DOGE staff
@@ -1011,6 +1080,20 @@ agencies:
     named:
     - Adam Ramada
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
+  - date: 2025-01-24
+    type: report
+    event: A report from Business Insider names some of the DOGE staff that was involved in transition activities
+    source: https://www.yahoo.com/news/doge-just-got-hire-224212262.html
+    named:
+    - Katie Miller
+    - Brad Smith
+    - Steve Davis
+    - Marc Andreessen
+    - Shaun Maguire
+    - Rachel Riley
+    - Joanna Wischer
+    - Baris Akis
+    - James Burnham
   - date: 2025-02-11
     type: official
     event: Trump issues an executive order giving DOGE teams in every agency final approval on any hiring decisions, sets quota of 1 new hire for 4 departures
@@ -1023,6 +1106,13 @@ agencies:
     type: disruption
     event: Approximately 50 USDS staff are fired, with most of terminations focused on project managers and designers (removing approximately 1/3 of the USDS staff that predated DOGE)
     source: https://www.wired.com/story/doge-major-government-tech-projects-efficiency/
+  - date: 2025-02-14
+    type: onboarded
+    onboard_type: hired
+    event: Kendall Lindemann hired at DOGE from McKinsey and Associates (not a Musk-related company)
+    named:
+    - Kendall Lindemann
+    source: https://www.consulting.us/news/11397/former-mckinsey-business-analyst-hired-to-musks-doge-nerd-army
   - date: 2025-02-17
     type: legal
     event: In a filing in "State of New Mexico v. Elon Musk," DOJ lawyers declare that Elon Musk is not the USDS Administrator, but just an advisor
@@ -1030,6 +1120,12 @@ agencies:
     - Elon Musk
     case_no: 1:25-cv-00429
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277463/gov.uscourts.dcd.277463.24.0_1.pdf
+  - date: 2025-02-18
+    type: report
+    event: A custom AI chatbot based on xAI's Grok model was discovered hosted on subdomain on the doge.gov site
+    named:
+    - Christopher Stanley
+    source: https://techcrunch.com/2025/02/18/elon-musk-staffer-created-a-doge-ai-assistant-for-making-government-less-dumb/
   - date: 2025-02-19
     type: official
     event: Trump issues an executive order "Ending Taxpayer Subsidization of Open Borders" that instructs USDS to work with agencies to identify federal funding for immigrants and build up eligibility verification systems
@@ -1142,6 +1238,12 @@ agencies:
     type: official
     event: Within a large executive order about voting, Trump orders DOGE "to review each State's publicly available voter registration list and available records concerning voter list maintenance activities."
     source: https://www.businessinsider.com/trump-doge-voter-rolls-executive-order-2025-3
+  - date: 2025-03-25
+    type: offboarded
+    event: Michael Kratsios is confirmed by the Senate as the new director of the White House Office of Science and Technology Policy (OSTP)
+    named:
+    - Michael Kratsios
+    source: https://fedscoop.com/senate-confirms-michael-kratsios-white-house-ostp-director/
   - date: 2025-03-26
     type: report
     event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
@@ -1369,14 +1471,6 @@ agencies:
     organization: ProPublica
     named:
     - Aram Moghaddassi
-  - source: https://www.businessinsider.com/doge-staffer-fertility-clinic-pronatalist-department-of-labor
-    organization: Business Insider
-    date: 2025-03-05
-    comment: Business Insider reports Marko Elez, Aram Moghaddassi, and Miles B. Collins are new DOGE arrivals at Department of Labor
-    named:
-    - Marko Elez
-    - Aram Moghaddassi
-    - Miles Collins
   - source: https://techcrunch.com/2025/03/12/the-people-in-elon-musk-doge-universe/
     organization: TechCrunch
     named:
@@ -1442,6 +1536,14 @@ agencies:
     named:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - date: 2025-03-05
+    type: report
+    source: https://www.businessinsider.com/doge-staffer-fertility-clinic-pronatalist-department-of-labor
+    event: Business Insider reports Marko Elez, Aram Moghaddassi, and Miles B. Collins are new DOGE arrivals at Department of Labor
+    named:
+    - Marko Elez
+    - Aram Moghaddassi
+    - Miles Collins
   - date: 2025-03-14
     type: onboarded
     onboard_type: appointed
@@ -1841,10 +1943,26 @@ agencies:
     type: disruption
     event: 168 employees who worked on environmental justice are placed on indefinite administrative leave
     source: https://subscriber.politicopro.com/article/eenews/2025/02/07/epas-environmental-justice-office-in-tatters-00203091
+  - date: 2025-02-12
+    type: access_granted
+    access_type: read
+    event: DOGE staff at the EPA are reportedly granted read-only access to the EPA Acquisition System system for acquisitions
+    access_systems:
+    - EAS
+    named:
+    - Erica Jehling
+    - Cole Killian
+    - Kathryn Armstrong Loving
+    source: https://www.eenews.net/articles/doge-lands-at-epa/
   - date: 2025-02-14
     type: disruption
     event: 388 probabtionary employees are fired
     source: https://www.eenews.net/articles/epa-pushes-out-almost-500-probationary-employees/
+  systems:
+  - name: EPA Acquisition System
+    id: EAS
+    description: The Office of Acquisition Solutions (OAS) EPA Acquisition System (EAS) Software as a Service (SaaS) is used to initiate, award, modify and track acquisition actions.
+    pia: https://www.epa.gov/system/files/documents/2023-12/eas-saas-pia-final.pdf
   sources:
   - https://projects.propublica.org/elon-musk-doge-tracker/
 
@@ -1982,6 +2100,20 @@ agencies:
     organization: The New York Times
     named:
     - Michael Mirski
+  events:
+  - date: 2025-03-17
+    type: onboarded
+    onboard_type: appointed
+    named:
+    - Christopher Stanley
+    event: DOGE member Christopher Stanley is named to the board of Fannie Mae/Freddie Mac
+    source: https://www.housingwire.com/articles/doge-fannie-mae-board-member-christopher-stanley-resignation/
+  - date: 2025-03-18
+    type: offboarded
+    named:
+    - Christopher Stanley
+    event: DOGE member Christopher Stanley abruptly resigns from Fannie Mae/Freddie Mac board one day after appointment
+    source: https://www.housingwire.com/articles/doge-fannie-mae-board-member-christopher-stanley-resignation/
 
 - name: Food and Drug Administration
   acronym: FDA
@@ -2022,18 +2154,6 @@ agencies:
     date: 2025-02-07
     named:
     - Thomas Shedd
-  - source: https://www.wired.com/story/doge-government-salaries-elon-musk/
-    organization: Wired Magazine
-    date: 2025-03-04
-    comment: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid in the GSA, but others are listed as volunteers for that agency
-    named:
-    - Kyle Schutt
-    - Nate Cavanaugh
-    - Edward Coristine
-    - Ethan Shaotran
-    - Luke Farritor
-    - Derek Geissler
-    - Nicole Hollander
   - source: https://projects.propublica.org/elon-musk-doge-tracker/
     organization: ProPublica
     named:
@@ -2096,6 +2216,33 @@ agencies:
     named:
     - Thomas Shedd
     source: https://www.nextgov.com/people/2025/01/gsa-announces-new-fas-tts-leadership/402485/
+  - date: 2025-01-30
+    type: report
+    event: Elon Musk reportedly visits GSA to meet with staff, several of whom are identified from appearances in the internal directory
+    source: https://www.nextgov.com/people/2025/01/musk-visits-and-asserts-growing-influence-gsa/402628/
+    named:
+    - Elon Musk
+    - Steve Davis
+    - Nicole Hollander
+    - Thomas Shedd
+    - Stephen Ehikian
+    - Luke Farritor
+  - date: 2025-01-29
+    type: report
+    event: A team of high-ranking GSA employees meets to discuss building special "resting rooms" for DOGE and other A-suite staff
+    source: https://www.wired.com/story/elon-musk-lackeys-general-services-administration/
+    named:
+    - Nicole Hollander
+  - date: 2025-01-31
+    type: report
+    event: Wired reports that DOGE staff are attempting to get elevated access to GSA systems and making changes to office arrangements
+    named:
+    - Nicole Hollander
+    - Steve Davis
+    - Thomas Shedd
+    - Edward Coristine
+    - Ethan Shaotran
+    source: https://www.wired.com/story/elon-musk-lackeys-general-services-administration/
   - date: 2025-02-10
     type: report
     event: Unnamed DOGE staff using non-government accounts conduct dozens of "touch-base" interviews with dozens of US Digital Corps fellows, under the direction of Thomas Shedd
@@ -2140,6 +2287,18 @@ agencies:
     type: disruption
     event: Hours after the staff is hit with the RIF email, the DNS entry for 18F.gsa.gov is removed
     source: https://18f.gsa.gov/
+  - date: 2025-03-04
+    type: report
+    source: https://www.wired.com/story/doge-government-salaries-elon-musk/
+    event: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid as full-time GSA employees, but other staff are listed as volunteers for that agency
+    named:
+    - Kyle Schutt
+    - Nate Cavanaugh
+    - Edward Coristine
+    - Ethan Shaotran
+    - Luke Farritor
+    - Derek Geissler
+    - Nicole Hollander
   - date: 2025-03-06
     type: report
     event: Thomas Shedd says in a statement that he expects TTS will be 50% smaller within weeks
@@ -4012,6 +4171,12 @@ agencies:
     type: disruption
     event: A day after a conservative activist flagged it on X, DOGE posts it has removed gender identity options from a VA form
     source: https://www.nytimes.com/2025/02/26/us/politics/elon-musk-doge-x-accounts-activists.html
+  - date: 2025-02-14
+    type: report
+    named:
+    - Justin Fulcher
+    event: Bloomberg publishes some background information on Justin Fulcher, the DOGE staffer working quietly at the VA
+    source: https://www.livemint.com/companies/news/musks-top-doge-staffer-at-va-worked-quietly-before-its-layoffs-11739553094269.html
   - date: 2025-02-18
     type: report
     event: Senate Democrats send letter to VA Secretary demanding information about DOGE's activities there
