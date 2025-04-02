@@ -529,6 +529,10 @@ agencies:
     type: report
     event: USDA Secretary Rollins posts a photo of a grant-cancellation session with @DOGE_USDA
     source: https://xcancel.com/SecRollins/status/1892777526704885880#m
+  - date: 2025-04-01
+    type: disruption
+    event: Federal staff at the USDA are sent an email offering them another chance to do a deferred resignation if they enroll within the next week or so
+    source: https://www.nytimes.com/2025/04/01/us/politics/federal-layoff-buyout-offers.html
 
 - name: Department of Defense
   acronym: DOD
@@ -555,6 +559,10 @@ agencies:
     named:
     - Elon Musk
     source: https://www.nbcnews.com/politics/trump-administration/elon-musk-visit-pentagon-discuss-china-rcna197435
+  - date: 2025-03-29
+    type: disruption
+    event: Federal staff at the DOD are sent an email offering them another chance for a deferred resignation if they enroll within the next week or so
+    source: https://www.defense.gov/News/News-Stories/Article/Article/4138965/hegseth-orders-civilian-workforce-realignment-in-dod-reopens-drp/
 
 - name: Department of Education
   acronym: Education
@@ -783,6 +791,10 @@ agencies:
     onboard_type: appointed
     event: Ross Graeber is named the new CIO of the Department of Energy, after working with DOGE at the Department of State
     source: https://www.nextgov.com/people/2025/03/energy-appoints-twitter-google-alum-new-cio/403717/
+  - date: 2025-04-01
+    type: disruption
+    event: Employees at the Department of Energy are sent an email offering for them to enroll in a deferred resignation plan
+    source: https://www.nytimes.com/2025/04/01/us/politics/federal-layoff-buyout-offers.html
 
 - name: US Digital Service/Department of Government Efficiency
   acronym: DOGE
@@ -1169,7 +1181,11 @@ agencies:
     event: New CIO Antoine McCord arrives at DHS, reportedly with affiliates of DOGE
     named:
     - Antoine McCord
-    source: https://www.nextgov.com/people/2025/03/dhs-taps-antoine-mccord-top-tech-post/403727/?oref=ng-homepage-river
+    source: https://www.nextgov.com/people/2025/03/dhs-taps-antoine-mccord-top-tech-post/403727/
+  - date: 2025-03-21
+    type: disruption
+    event: Trump administration eliminates the DHS Office for Civil Rights and Civil Liberties and two ombudsman offices responsible for investigating allegations of abuse from immigrants
+    source: https://www.nytimes.com/2025/03/21/us/politics/trump-civil-rights-homeland-security-deportations.html
 
 - name: Department of the Interior
   acronym: DOI
@@ -1397,6 +1413,12 @@ agencies:
     date: 2025-03-28
     named:
     - Daniel Abrahamson
+  events:
+  - date: 2025-04-01
+    event: Workers at the Department of Transportation are sent an offer from DOT HR to enroll in a deferred resignation program by April 7
+    type: disruption
+    source: https://www.nytimes.com/live/2025/04/01/us/trump-news-updates#trump-buyouts-us-transportation-department
+
 - name: Department of the Treasury
   acronym: Treasury
   roundups:
@@ -2313,6 +2335,10 @@ agencies:
     type: report
     event: There is reportedly a 6-person DOGE team working at HUD, with 4 of the staff being existing HUD employees and Michael Mirski and Scott Langmack from DOGE
     source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
+  - date: 2025-04-01
+    type: report
+    event: HUD staff receive an email from HUD HR offering a new "Fork in the Road" offer for deferred resignation, open until April 11
+    source: https://bsky.app/profile/davelevitan.bsky.social/post/3llqvwtc5lq2v
   systems:
   - name: Line of Credit Control System
     id: LOCCS
@@ -2560,6 +2586,18 @@ agencies:
     - Riley Sennott
     - Scott Coulter
     source: https://www.businessinsider.com/tesla-employee-alexander-simonpour-nasa-doge-team-2025-3
+
+- name: National Endowment for the Humanities
+  acronym: NEH
+  events:
+  - date: 2025-03-12
+    type: disruption
+    event: Shelly C. Lowe, the chair of the National Endowment for the Humanities, is forced out of her position by President Trump
+    source: https://www.nytimes.com/2025/03/12/arts/national-endowment-humanities-trump-shelly-lowe.html
+  - date: 2025-04-01
+    type: disruption
+    event: DOGE pushes for a reduction of 80% of staff and a cancellation of all grants that haven't been paid out
+    source: https://www.nytimes.com/2025/04/01/arts/trump-doge-federal-cuts-humanities.html
 
 - name: National Oceanic and Atmospheric Administration
   acronym: NOAA
@@ -3291,12 +3329,23 @@ agencies:
     - Leland Dudek
     - Mike Russo
     source: https://thehill.com/homenews/5212751-sen-wyden-questions-bisignano/
+  - date: 2025-03-27
+    type: report
+    event: The Social Security Administration ends a Biden-era rule that limited clawbacks for overpayments to 10% per check (to prior policy of taking entire checks)
+    source: https://www.cbsnews.com/news/social-security-benefits-clawback-overpayment-100-percent-march-27-doge/
   - date: 2025-03-28
     type: report
     event: Reports emerge that DOGE is planning to rewrite the entire COBOL codebase for Social Security to Java in months using generative AI
     named:
     - Steve Davis
     source: https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/
+  - date: 2025-03-30
+    type: report
+    event: At a town hall event in Wisconsin, Elon Musk and Antonio Gracias claim to have found fraud in the number of immigrants being granted social security numbers
+    named:
+    - Elon Musk
+    - Antonio Gracias
+    source: https://www.washingtonpost.com/politics/2025/04/01/elon-musk-social-security-immigrants/
   systems:
   - name: Anti-Fraud Enterprise Solution
     id: AFES
