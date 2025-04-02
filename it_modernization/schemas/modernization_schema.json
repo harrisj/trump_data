@@ -105,6 +105,10 @@
                                 "detailed_from": {
                                     "description": "The agency the staff in the event were detailed from",
                                     "$ref": "valid_names.json#agency_ids"
+                                },
+                                "case_no": {
+                                    "description": "The relevant case_no for legal events",
+                                    "type": "string"
                                 }
                             },
                             "required": ["date", "event", "source", "type"],

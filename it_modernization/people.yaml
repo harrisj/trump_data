@@ -168,6 +168,17 @@ Anthony Armstrong:
 Anthony Jancso:
   agencies:
   - US Digital Service/Department of Government Efficiency
+  events:
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2024-11-26'
+    event: A person who is likely Anthony Jancso posted a message in an AI challenge's Discord saying "Helping the Dept. of Government Efficiency team find hardcore engineers. Send your GitHub/LinkedIn to @DOGE on X and your X handle to me in DM if you're interested or know someone who is, could help get them into the pipeline."
+    name: Anthony Jancso
+    source: https://www.wired.com/story/elon-musk-doge-recruiting-palantir/
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2024-12-05'
+    event: A person who is likely Anthony Jancso posts recruitment messages for DOGE to a chat group for employees who had worked at Palantir
+    name: Anthony Jancso
+    source: https://www.wired.com/story/elon-musk-doge-recruiting-palantir/
 
 Antoine McCord:
   agencies:
@@ -217,11 +228,28 @@ Ashley Boizelle:
   agencies:
   - General Services Administration
   - US Digital Service/Department of Government Efficiency
+  events:
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-03-05'
+    event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP), including 4 lawyers previously not listed
+    name: Ashley Boizelle
+    source: https://theintercept.com/2025/03/05/leaked-list-musk-doge-lawyers/
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-03-26'
+    event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
+    name: Ashley Boizelle
+    source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
 
 Austin Raynor:
   agencies:
   - Office of Personnel Management
   - US Digital Service/Department of Government Efficiency
+  events:
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-03-26'
+    event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
+    name: Austin Raynor
+    source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
 
 Baris Akis:
   agencies:
@@ -426,6 +454,13 @@ Conor Fennessy:
 Daniel Abrahamson:
   agencies:
   - Department of Transportation
+  - US Digital Service/Department of Government Efficiency
+  events:
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-03-26'
+    event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
+    name: Daniel Abrahamson
+    source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
 
 Derek Geissler:
   agencies:
@@ -509,6 +544,11 @@ Edward Coristine:
     event: Edward Coristine and Marko Elez are granted read-only access to the Healthcare Integrated General Ledger Accounting System (HIGLAS) system by the CIO of the CMS Office of Information Technology
     name: Edward Coristine
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-03-05'
+    event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP), including 4 lawyers previously not listed
+    name: Edward Coristine
+    source: https://theintercept.com/2025/03/05/leaked-list-musk-doge-lawyers/
   - agency: Centers for Medicare and Medicaid Services
     date: '2025-03-11'
     event: Edward Coristine is granted read-only access to the Integrated Data Repository (IDR) system by the CIO of the CMS Office of Information Technology
@@ -542,7 +582,9 @@ Elon Musk:
   - Department of Defense
   - Department of Labor
   - Federal Aviation Administration
+  - Health and Human Services
   - National Security Agency
+  - Office of Personnel Management
   - Social Security Administration
   - US Digital Service/Department of Government Efficiency
   events:
@@ -567,6 +609,11 @@ Elon Musk:
     event: In a filing in "State of New Mexico v. Elon Musk," DOJ lawyers declare that Elon Musk is not the USDS Administrator, but just an advisor
     name: Elon Musk
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277463/gov.uscourts.dcd.277463.24.0_1.pdf
+  - agency: Office of Personnel Management
+    date: '2025-02-24'
+    event: After Elon Musk threatens on X that employees must complete a list of 5 accomplishments and send it to OPM or risk termination, OPM sends out an email requesting that list (without the threat) to every government employee. Widespread confusion occurs at many agenices.
+    name: Elon Musk
+    source: https://fedscoop.com/agencies-take-cautious-approaches-to-opm-email-asking-for-list-of-accomplishments/
   - agency: US Digital Service/Department of Government Efficiency
     date: '2025-03-10'
     event: Elon Musk claims there are about 100 DOGE staffers and he has plans to double to 200. He also claims they are in every federal Department.
@@ -592,6 +639,11 @@ Elon Musk:
     event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government spending. Amy Gleason did not appear.
     name: Elon Musk
     source: https://www.nbcnews.com/politics/doge/elon-musks-doge-tries-put-new-faces-reclusive-federal-office-rcna198491
+  - agency: Health and Human Services
+    date: '2025-03-28'
+    event: During an interview, the head of HHS reports that DOGE created the new organizational chart for the agency ahead of mass firings, says "we're not cutting scientists"
+    name: Elon Musk
+    source: https://www.newsnationnow.com/cuomo-show/rfk-defends-hhs-job-cuts/
   - agency: Social Security Administration
     date: '2025-03-30'
     event: At a town hall event in Wisconsin, Elon Musk and Antonio Gracias claim to have found fraud in the number of immigrants being granted social security numbers
@@ -805,6 +857,16 @@ Jacob Altik:
     event: DOGE members Kenneth Jackson, Jacob Altik and Nate Cavanaugh remove staff and president of the USIP with the help of Office of the U.S. Attorney for the District of Columbia, the FBI and D.C. police
     name: Jacob Altik
     source: https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/
+  - agency: Office of Personnel Management
+    date: '2025-03-18'
+    event: A lawyer for the plaintiffs accuses the DOJ of misrepresenting Altik's participation "perhaps to preserve the illusion that OPM's counsel were ignorant of what OPM was doing with the Government-Wide Email System, or perhaps to obscure the role of DOGE and the White House in this case."
+    name: Jacob Altik
+    source: https://fedscoop.com/doge-lawyer-opm-email-lawsuit-jacob-altik/
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-03-26'
+    event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
+    name: Jacob Altik
+    source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
 
 James Burnham:
   agencies:
@@ -823,6 +885,11 @@ James Burnham:
     event: DOGE counters their belief that minimum statutory size of agency is "a Board of Directors and a president, reports to Congress and the Executive branch, and expenses incident to the Board of Directors" and says they will regroup
     name: James Burnham
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-03-26'
+    event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
+    name: James Burnham
+    source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
 
 Jennifer Balajadia:
   agencies:
@@ -864,6 +931,11 @@ Jeremy Lewin:
     event: Peter Marocco says that he will be succeeded at the agency by Jeremy Lewin and Kenneth Jackson
     name: Jeremy Lewin
     source: https://www.nytimes.com/2025/03/19/us/politics/usaid-doge-leadership.html
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-03-26'
+    event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
+    name: Jeremy Lewin
+    source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
   - agency: US Agency for International Development
     date: '2025-03-28'
     event: Almost all of the remaining 900 USAID employees are terminated by email from Jeremy Lewin with RIFs that will go into effect either in July or September
@@ -946,14 +1018,47 @@ Jordan Wick:
 Joshua Fox:
   agencies:
   - US Digital Service/Department of Government Efficiency
+  events:
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-03-05'
+    event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP), including 4 lawyers previously not listed
+    name: Joshua Fox
+    source: https://theintercept.com/2025/03/05/leaked-list-musk-doge-lawyers/
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-03-26'
+    event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
+    name: Joshua Fox
+    source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
 
 Joshua Hanley:
   agencies:
   - US Digital Service/Department of Government Efficiency
+  events:
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-03-05'
+    event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP), including 4 lawyers previously not listed
+    name: Joshua Hanley
+    source: https://theintercept.com/2025/03/05/leaked-list-musk-doge-lawyers/
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-03-26'
+    event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
+    name: Joshua Hanley
+    source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
 
 Justin Aimonetti:
   agencies:
   - US Digital Service/Department of Government Efficiency
+  events:
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-03-05'
+    event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP), including 4 lawyers previously not listed
+    name: Justin Aimonetti
+    source: https://theintercept.com/2025/03/05/leaked-list-musk-doge-lawyers/
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-03-26'
+    event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
+    name: Justin Aimonetti
+    source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
 
 Justin Fulcher:
   agencies:
@@ -977,7 +1082,7 @@ Katrine Trampe:
   - Department of the Interior
   events:
   - agency: Department of the Interior
-    date: '2023-03-29'
+    date: '2025-03-29'
     event: Two DOGE staffers are granted admin access to the FPPS payroll system at the Department of the Interior
     name: Katrine Trampe
     source: https://www.nytimes.com/2025/03/31/us/politics/doge-musk-federal-payroll.html
@@ -985,6 +1090,12 @@ Katrine Trampe:
 Keenan Kmiec:
   agencies:
   - US Digital Service/Department of Government Efficiency
+  events:
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-03-26'
+    event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
+    name: Keenan Kmiec
+    source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
 
 Keith Sonderling:
   agencies:
@@ -1132,6 +1243,11 @@ Luke Farritor:
   - US Agency for International Development
   - US Digital Service/Department of Government Efficiency
   events:
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2024-12-05'
+    event: Luke Farritor posts a recruitment message for DOGE in a Discord server for SpaceX interns looking for volunteers to work at DOGE for 6 months
+    name: Luke Farritor
+    source: https://www.wired.com/story/elon-musk-doge-recruiting-palantir/
   - agency: Health and Human Services
     date: '2025-01-21'
     event: According to a government declaration, Luke Farritor is detailed from the GSA to Health and Human Services
@@ -1242,6 +1358,11 @@ Luke Farritor:
     event: Luke Farritor is no longer detailed to the CFPB and is offboarded
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-03-05'
+    event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP), including 4 lawyers previously not listed
+    name: Luke Farritor
+    source: https://theintercept.com/2025/03/05/leaked-list-musk-doge-lawyers/
   - agency: Health and Human Services
     date: '2025-03-13'
     event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
@@ -1389,6 +1510,11 @@ Marko Elez:
     event: Marko Elez is granted read-only access to the Integrated Data Repository (IDR) system by the CIO of the CMS Office of Information Technology
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-03-05'
+    event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP), including 4 lawyers previously not listed
+    name: Marko Elez
+    source: https://theintercept.com/2025/03/05/leaked-list-musk-doge-lawyers/
   - agency: Health and Human Services
     date: '2025-03-05'
     event: Marko Elez is granted read-only access to National Directory of New Hires (NDNH) database by the Administration for Children and Families (ACF) CTO
@@ -1667,6 +1793,12 @@ Noah Peters:
   agencies:
   - Office of Personnel Management
   - US Digital Service/Department of Government Efficiency
+  events:
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-03-26'
+    event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
+    name: Noah Peters
+    source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
 
 Payton Rehling:
   agencies:
@@ -1879,15 +2011,15 @@ Stephanie Holmes:
   - US Digital Service/Department of Government Efficiency
   events:
   - agency: Department of the Interior
-    date: '2023-03-29'
-    event: Two DOGE staffers are granted admin access to the FPPS payroll system at the Department of the Interior
-    name: Stephanie Holmes
-    source: https://www.nytimes.com/2025/03/31/us/politics/doge-musk-federal-payroll.html
-  - agency: Department of the Interior
     date: '2025-02-24'
     event: Stephanie Holmes is detailed to the Department of the Interior as a Special Advisor and acting Chief Human Capital Officer for the entire agency
     name: Stephanie Holmes
     source: https://subscriber.politicopro.com/article/eenews/2025/03/05/heres-the-people-connected-to-doge-at-interior-00213330
+  - agency: Department of the Interior
+    date: '2025-03-29'
+    event: Two DOGE staffers are granted admin access to the FPPS payroll system at the Department of the Interior
+    name: Stephanie Holmes
+    source: https://www.nytimes.com/2025/03/31/us/politics/doge-musk-federal-payroll.html
 
 Stephen Duarte:
   agencies:
@@ -1924,6 +2056,11 @@ Steve Davis:
     event: Mike Russo, DOGE chief of staff Steve Davis both demand that Akash Bobba be onboarded before midnight.
     name: Steve Davis
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
+  - agency: US Digital Service/Department of Government Efficiency
+    date: '2025-03-05'
+    event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP), including 4 lawyers previously not listed
+    name: Steve Davis
+    source: https://theintercept.com/2025/03/05/leaked-list-musk-doge-lawyers/
   - agency: US Digital Service/Department of Government Efficiency
     date: '2025-03-27'
     event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government spending. Amy Gleason did not appear.
