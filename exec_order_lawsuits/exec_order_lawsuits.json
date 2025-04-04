@@ -2719,7 +2719,7 @@
                                 "title": "League of Women Voters Education Fund v. Trump",
                                 "url": "https://www.courtlistener.com/docket/69828370/league-of-women-voters-education-fund-v-trump/"
                             },
-                            "case_name": "League of Women Voters Education Fund v. Trump (D.D.C.) \r Case No. 1:25-cv-00955",
+                            "case_name": "League of Women Voters Education Fund v. Trump (D.D.C.) Case No. 1:25-cv-00955",
                             "case_summary": "Overview: Numerous voting rights organizations have challenged President Trump’s Executive Order (EO) that seeks to implement new requirements to provide documentary proof of U.S. citizenship on the federal voter registration form. These organizations allege that the EO violates the Constitution and the National Voter Registration Act. Plaintiffs have asked the court to block the implementation of the EO. \nCase Summary: On Mar. 25, 2025, President Donald Trump signed an Executive Order (EO) titled “Preserving and Protecting the Integrity of American Elections,” which directs the Election Assistance Commission (EAC) to require documentary proof of U.S. citizenship on the federal voter registration form (“Federal Form”) and conditions federal funding to states based on compliance with the EO.\nPlaintiffs are seven voting rights organizations, including multiple branches of the League of Women Voters (LMV), the Hispanic Federation, and the National Association for the Advancement of Colored People (NAACP). They allege that the EO violates the separation of powers and the National Voter Registration Act. \nPlaintiffs request that the Court declare that the EO is unlawful and enjoin the implementation of the EO to the extent that it directs the EAC to change the Federal Form.",
                             "case_summary_html": "<span style=\"color: #0056a7;\"><strong>Overview:</strong></span> <em>Numerous voting rights organizations have challenged President Trump’s Executive Order (EO) that seeks to implement new requirements to provide documentary proof of U.S. citizenship on the federal voter registration form. These organizations allege that the EO violates the Constitution and the National Voter Registration Act. Plaintiffs have asked the court to block the implementation of the EO.</em><br/> <br>\n<strong>Case Summary</strong>: On Mar. 25, 2025, President Donald Trump signed an Executive Order (EO) titled “Preserving and Protecting the Integrity of American Elections,” which directs the Election Assistance Commission (EAC) to require documentary proof of U.S. citizenship on the federal voter registration form (“Federal Form”) and conditions federal funding to states based on compliance with the EO.<br/>\nPlaintiffs are seven voting rights organizations, including multiple branches of the League of Women Voters (LMV), the Hispanic Federation, and the National Association for the Advancement of Colored People (NAACP). They allege that the EO violates the separation of powers and the National Voter Registration Act. <br/>\nPlaintiffs request that the Court declare that the EO is unlawful and enjoin the implementation of the EO to the extent that it directs the EAC to change the Federal Form.</br>",
                             "complaint_link": {
@@ -2905,6 +2905,22 @@
                             "complaint_link_text": "Complaint",
                             "date_filed": "2025-03-06",
                             "last_update": "2025-03-26"
+                        },
+                        {
+                            "case_link": {
+                                "title": "Erie County New York v. Corporation for National and Community Service",
+                                "url": "https://www.courtlistener.com/docket/69747050/erie-county-new-york-v-corporation-for-national-and-community-service/"
+                            },
+                            "case_name": "Erie County New York v. Corporation for National and Community Service (D.D.C.) Case No. 1:25-cv-00783",
+                            "case_summary": "[Coming soon]",
+                            "case_summary_html": "[Coming soon]",
+                            "complaint_link": {
+                                "title": "Complaint",
+                                "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.278477/gov.uscourts.dcd.278477.1.0.pdf"
+                            },
+                            "complaint_link_text": "Complaint",
+                            "date_filed": "2025-03-17",
+                            "last_update": "2025-03-17"
                         }
                     ],
                     "links": [
