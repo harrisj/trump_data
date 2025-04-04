@@ -1,4 +1,104 @@
 {
+    "$defs": {
+        "Event": {
+            "title": "Event",
+            "description": "An event associated with DOGE staff",
+            "properties": {
+                "date": {
+                    "type": "string",
+                    "description": "A date in format YYYY-MM-DD"
+                },
+                "event": {
+                    "type": "string",
+                    "description": "A description of the DOGE-related event"
+                },
+                "comment": {
+                    "type": "string",
+                    "description": "For making any comments about the event notes"
+                },
+                "named": {
+                    "type": "array",
+                    "description": "A list of DOGE staff named with the event",
+                    "items": {
+                        "description": "The names of DOGE staff in the incident.",
+                        "$ref": "valid_names.json#people"
+                    }
+                },
+                "source": {
+                    "type": "string",
+                    "description": "A URL of the source for the information in the event",
+                    "format": "uri"
+                },
+                "type": {
+                    "description": "The type of the event",
+                    "$ref": "valid_names.json#event_types"
+                },
+                "access_type": {
+                    "description": "The type of the access granted/changed to",
+                    "$ref": "valid_names.json#access_types"
+                },
+                "access_systems": {
+                    "description": "The systems access granted/changed/revoked for",
+                    "type": "array",
+                    "items": {
+                        "$ref": "valid_names.json#system_ids"
+                    }
+                },
+                "onboard_type": {
+                    "description": "What kind of onboarding it was for DOGE staff",
+                    "$ref": "valid_names.json#onboard_types"
+                },
+                "detailed_from": {
+                    "description": "The agency the staff in the event were detailed from",
+                    "$ref": "valid_names.json#agency_ids"
+                },
+                "case_no": {
+                    "description": "The relevant case_no for legal events",
+                    "type": "string"
+                }
+            },
+            "required": ["date", "event", "source", "type"],
+            "additionalProperties": false
+        },
+        "System": {
+            "title": "System",
+            "description": "Information about a specific syatem",
+            "properties": {
+                "name": {
+                    "description": "THe name of the system",
+                    "type": "string"
+                },
+                "id": {
+                    "description": "An ID for the system (usually an acronym)",
+                    "$ref": "valid_names.json#system_ids"
+                },
+                "description": {
+                    "description": "A description of the system",
+                    "type": "string"
+                },
+                "risk": {
+                    "description": "A short description of the risks associated with DOGE accessing the system",
+                    "type": "string"
+                },
+                "link": {
+                    "description": "A link to an overview of the system",
+                    "type": "string"
+                },
+                "pia": {
+                    "description": "A URL linking to the Privacy Impact Assessment for the system",
+                    "type": "string",
+                    "format": "uri"
+                },
+                "sorn": {
+                    "description": "A URL linking to the SORN for the system",
+                    "type": "string",
+                    "format": "uri"
+                }
+            }
+        },
+        "required": ["name", "description", "id"],
+        "additionalProperties": false
+    },
     "properties": {
         "agencies": {
             "description": "A collection of agencies",
@@ -52,67 +152,10 @@
                         }
                     },
                     "events": {
-                        "description": "A list of events associated with DOGE at the agency",
                         "type": "array",
+                        "description": "An array of events",
                         "items": {
-                            "title": "Event",
-                            "description": "An event associated with DOGE staff",
-                            "properties": {
-                                "date": {
-                                    "type": "string",
-                                    "description": "A date in format YYYY-MM-DD"
-                                },
-                                "event": {
-                                    "type": "string",
-                                    "description": "A description of the DOGE-related event"
-                                },
-                                "comment": {
-                                    "type": "string",
-                                    "description": "For making any comments about the event notes"
-                                },
-                                "named": {
-                                    "type": "array",
-                                    "description": "A list of DOGE staff named with the event",
-                                    "items": {
-                                        "description": "The names of DOGE staff in the incident.",
-                                        "$ref": "valid_names.json#people"
-                                    }
-                                },
-                                "source": {
-                                    "type": "string",
-                                    "description": "A URL of the source for the information in the event",
-                                    "format": "uri"
-                                },
-                                "type": {
-                                    "description": "The type of the event",
-                                    "$ref": "valid_names.json#event_types"
-                                },
-                                "access_type": {
-                                    "description": "The type of the access granted/changed to",
-                                    "$ref": "valid_names.json#access_types"
-                                },
-                                "access_systems": {
-                                    "description": "The systems access granted/changed/revoked for",
-                                    "type": "array",
-                                    "items": {
-                                        "$ref": "valid_names.json#system_ids"
-                                    }
-                                },
-                                "onboard_type": {
-                                    "description": "What kind of onboarding it was for DOGE staff",
-                                    "$ref": "valid_names.json#onboard_types"
-                                },
-                                "detailed_from": {
-                                    "description": "The agency the staff in the event were detailed from",
-                                    "$ref": "valid_names.json#agency_ids"
-                                },
-                                "case_no": {
-                                    "description": "The relevant case_no for legal events",
-                                    "type": "string"
-                                }
-                            },
-                            "required": ["date", "event", "source", "type"],
-                            "additionalProperties": false
+                            "$ref": "#/$defs/Event"
                         }
                     },
                     "vandalism": {
@@ -126,42 +169,7 @@
                         "description": "An array of systems likely accessed by DOGE staff. In some cases, these might be named specifically or they might be for specific functions (eg, HR, contracts) that were accessed by DOGE",
                         "type": "array",
                         "items": {
-                            "title": "System",
-                            "description": "Information about a specific syatem",
-                            "properties": {
-                                "name": {
-                                    "description": "THe name of the system",
-                                    "type": "string"
-                                },
-                                "id": {
-                                    "description": "An ID for the system (usually an acronym)",
-                                    "$ref": "valid_names.json#system_ids"
-                                },
-                                "description": {
-                                    "description": "A description of the system",
-                                    "type": "string"
-                                },
-                                "risk": {
-                                    "description": "A short description of the risks associated with DOGE accessing the system",
-                                    "type": "string"
-                                },
-                                "link": {
-                                    "description": "A link to an overview of the system",
-                                    "type": "string"
-                                },
-                                "pia": {
-                                    "description": "A URL linking to the Privacy Impact Assessment for the system",
-                                    "type": "string",
-                                    "format": "uri"
-                                },
-                                "sorn": {
-                                    "description": "A URL linking to the SORN for the system",
-                                    "type": "string",
-                                    "format": "uri"
-                                }
-                            },
-                            "required": ["name", "description", "id"],
-                            "additionalProperties": false
+                            "$ref": "#/$defs/System"
                         }
                     },
                     "cases": {

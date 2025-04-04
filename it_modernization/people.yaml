@@ -222,6 +222,7 @@ Aram Moghaddassi:
   - Department of Labor
   - Department of the Treasury
   - Health and Human Services
+  - US Citizenship & Immigration Services
   - US Digital Service/Department of Government Efficiency
   events:
   - agency: Department of Labor
@@ -234,11 +235,21 @@ Aram Moghaddassi:
     event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
     name: Aram Moghaddassi
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
+  - agency: US Citizenship & Immigration Services
+    date: '2025-03-17'
+    event: DHS CIO Antoine McCord requests that access be granted for Aram Moghaddassi to the USCIS Data Business Intelligence Services (aka, the Data Lake)
+    name: Aram Moghaddassi
+    source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
   - agency: US Digital Service/Department of Government Efficiency
     date: '2025-03-27'
     event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government spending. Amy Gleason did not appear.
     name: Aram Moghaddassi
     source: https://www.nbcnews.com/politics/doge/elon-musks-doge-tries-put-new-faces-reclusive-federal-office-rcna198491
+  - agency: US Citizenship & Immigration Services
+    date: '2025-03-28'
+    event: USCIS CIO William McElhaney sends a message to DHS Deputy Secretary asking them to review access that was granted to DOGE staff
+    name: Aram Moghaddassi
+    source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
 
 Ashley Boizelle:
   agencies:
@@ -563,6 +574,7 @@ Edward Coristine:
   - Office of Personnel Management
   - Small Business Administration
   - US Agency for International Development
+  - US Citizenship & Immigration Services
   - US Digital Service/Department of Government Efficiency
   events:
   - agency: General Services Administration
@@ -640,6 +652,16 @@ Edward Coristine:
     event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
     name: Edward Coristine
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
+  - agency: US Citizenship & Immigration Services
+    date: '2025-03-15'
+    event: DHS CIO Antoine McCord requests that access be granted for DOGE to the USCIS Data Business Intelligence Services (aka, the Data Lake)
+    name: Edward Coristine
+    source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
+  - agency: US Citizenship & Immigration Services
+    date: '2025-03-28'
+    event: USCIS CIO William McElhaney sends a message to DHS Deputy Secretary asking them to review access that was granted to DOGE staff
+    name: Edward Coristine
+    source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
   - agency: Centers for Medicare and Medicaid Services
     date: '2025-03-29'
     event: In a legal filing, the DOJ identifies 4 DOGE staffers - Edward Coristine, Marko Elez, Luke Farritor and Amy Gleason - at CMS
@@ -1318,6 +1340,7 @@ Kyle Schutt:
   - Federal Emergency Management Agency
   - General Services Administration
   - Health and Human Services
+  - US Citizenship & Immigration Services
   - US Digital Service/Department of Government Efficiency
   events:
   - agency: Cybersecurity and Infrastructure Security Agency
@@ -1335,11 +1358,21 @@ Kyle Schutt:
     event: Kyle Schutt is detailed to the Administration for Children and Families (ACF) office at HHS from the GSA. He also is detailed to the USDS
     name: Kyle Schutt
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: US Citizenship & Immigration Services
+    date: '2025-03-15'
+    event: DHS CIO Antoine McCord requests that access be granted for DOGE to the USCIS Data Business Intelligence Services (aka, the Data Lake)
+    name: Kyle Schutt
+    source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
   - agency: Health and Human Services
     date: '2025-03-21'
     event: Kyle Schutt is granted read-only access to the Unaccompanied Alien Children (UAC) Portal
     name: Kyle Schutt
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: US Citizenship & Immigration Services
+    date: '2025-03-28'
+    event: USCIS CIO William McElhaney sends a message to DHS Deputy Secretary asking them to review access that was granted to DOGE staff
+    name: Kyle Schutt
+    source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
   - agency: Health and Human Services
     date: '2025-03-29'
     event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff who have worked at HHS
@@ -2056,12 +2089,23 @@ Noah Peters:
 Payton Rehling:
   agencies:
   - Social Security Administration
+  - US Citizenship & Immigration Services
   events:
   - agency: Social Security Administration
     date: '2025-03-13'
     event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     name: Payton Rehling
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
+  - agency: US Citizenship & Immigration Services
+    date: '2025-03-25'
+    event: Antoine McCord requests that access be granted for Peyton Rehling to the USCIS Data Business Intelligence Services (aka, the Data Lake)
+    name: Payton Rehling
+    source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
+  - agency: US Citizenship & Immigration Services
+    date: '2025-03-28'
+    event: USCIS CIO William McElhaney sends a message to DHS Deputy Secretary asking them to review access that was granted to DOGE staff
+    name: Payton Rehling
+    source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
 
 Peter Marocco:
   agencies:

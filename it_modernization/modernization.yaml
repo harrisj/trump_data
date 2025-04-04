@@ -4123,6 +4123,65 @@ agencies:
     link: https://www.courtlistener.com/docket/69754533/united-states-institute-of-peace-v-jackson/
     date_filed: 2025-03-18
 
+- name: US Citizenship & Immigration Services
+  acronym: USCIS
+  events:
+  - date: 2025-03-15
+    type: access_granted
+    event: DHS CIO Antoine McCord requests that access be granted for DOGE to the USCIS Data Business Intelligence Services (aka, the Data Lake)
+    comment: Date is approximate
+    access_type: unknown
+    access_systems:
+    - DBIS
+    - ELIS
+    - CIS
+    named:
+    - Kyle Schutt
+    - Edward Coristine
+    source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
+  - date: 2025-03-17
+    type: access_granted
+    event: DHS CIO Antoine McCord requests that access be granted for Aram Moghaddassi to the USCIS Data Business Intelligence Services (aka, the Data Lake)
+    comment: Date is approximate
+    access_type: unknown
+    access_systems:
+    - DBIS
+    - ELIS
+    - CIS
+    named:
+    - Aram Moghaddassi
+    source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
+  - date: 2025-03-25
+    type: access_granted
+    event: Antoine McCord requests that access be granted for Peyton Rehling to the USCIS Data Business Intelligence Services (aka, the Data Lake)
+    comment: Date is approximate
+    access_type: unknown
+    access_systems:
+    - DBIS
+    - ELIS
+    - CIS
+    named:
+    - Payton Rehling
+    source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
+  - date: 2025-03-28
+    type: report
+    event: USCIS CIO William McElhaney sends a message to DHS Deputy Secretary asking them to review access that was granted to DOGE staff
+    named:
+    - Kyle Schutt
+    - Edward Coristine
+    - Aram Moghaddassi
+    - Payton Rehling
+    source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
+  systems:
+  - name: USCIS Data Business Intelligence Services
+    id: DBIS
+  - name: Electronic Immigration System
+    id: ELIS
+    description: Part of DBIS; the system that processes legal immigration benefits. ELIS acts as a case management system for USCIS and includes information about green cards and petitions, as well as details related to Temporary Protected Status and DACA applicants
+  - name: Central Index System
+    id: CIS
+    description: The CIS contains information about people who use Alien Numbers, or A-Numbers. These can include people who don't have legal authorization to be in the country or who have interacted with Immigration and Customs Enforcement, the person said.
+
 - name: US Postal Service
   acronym: USPS
   events:
