@@ -378,6 +378,12 @@ Bryton Shang:
 Cary Volpert:
   agencies:
   - Veterans Affairs
+  events:
+  - agency: Veterans Affairs
+    date: '2025-03-25'
+    event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements for government services are.
+    name: Cary Volpert
+    source: https://www.wired.com/story/doge-department-of-veterans-affairs-ai/
 
 Charles Ezell:
   agencies:
@@ -428,6 +434,16 @@ Christina Hanna:
   agencies:
   - Office of Personnel Management
 
+Christopher Roussos:
+  agencies:
+  - Veterans Affairs
+  events:
+  - agency: Veterans Affairs
+    date: '2025-03-25'
+    event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements for government services are.
+    name: Christopher Roussos
+    source: https://www.wired.com/story/doge-department-of-veterans-affairs-ai/
+
 Christopher Stanley:
   agencies:
   - Department of Justice
@@ -461,6 +477,11 @@ Clark Minor:
   - Health and Human Services
   - National Institute of Health
   events:
+  - agency: Health and Human Services
+    date: '2025-02-14'
+    event: Clark Minor is named as the CIO for HHS
+    name: Clark Minor
+    source: https://orangeslices.ai/hhs-it-office-recruits-new-chief-from-palantir/
   - agency: National Institute of Health
     date: '2025-02-24'
     event: Four DOGE staffers have email addresses linked to NIH
@@ -1116,12 +1137,18 @@ Joe Gebbia:
 Jon Koval:
   agencies:
   - Social Security Administration
+  - Veterans Affairs
   events:
   - agency: Social Security Administration
     date: '2025-03-13'
     event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     name: Jon Koval
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
+  - agency: Veterans Affairs
+    date: '2025-03-25'
+    event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements for government services are.
+    name: Jon Koval
+    source: https://www.wired.com/story/doge-department-of-veterans-affairs-ai/
 
 Jordan Wick:
   agencies:
@@ -1187,8 +1214,14 @@ Joshua Fox:
 
 Joshua Hanley:
   agencies:
+  - National Institute of Health
   - US Digital Service/Department of Government Efficiency
   events:
+  - agency: National Institute of Health
+    date: '2025-03-03'
+    event: Joshua Hanley's name appeared in PDF metadata for grant cancellations sent out by the NIH to two researchers working on LGBTQ+-related scientific work
+    name: Joshua Hanley
+    source: https://insidemedicine.substack.com/p/new-trump-controlled-nih-begins-targeted
   - agency: US Digital Service/Department of Government Efficiency
     date: '2025-03-05'
     event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP), including 4 lawyers previously not listed
@@ -1230,6 +1263,11 @@ Justin Fulcher:
     event: A Forbes article identifies Justin Fulcher as one of the DOGE staff at the Pentagon and questions details about his background
     name: Justin Fulcher
     source: https://www.forbes.com/sites/davidjeans/2025/03/04/pentagon-doge-official-justin-fulcher/
+  - agency: Veterans Affairs
+    date: '2025-03-25'
+    event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements for government services are.
+    name: Justin Fulcher
+    source: https://www.wired.com/story/doge-department-of-veterans-affairs-ai/
 
 Justin Monroe:
   agencies:
@@ -2090,6 +2128,7 @@ Payton Rehling:
   agencies:
   - Social Security Administration
   - US Citizenship & Immigration Services
+  - Veterans Affairs
   events:
   - agency: Social Security Administration
     date: '2025-03-13'
@@ -2101,6 +2140,11 @@ Payton Rehling:
     event: Antoine McCord requests that access be granted for Peyton Rehling to the USCIS Data Business Intelligence Services (aka, the Data Lake)
     name: Payton Rehling
     source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
+  - agency: Veterans Affairs
+    date: '2025-03-25'
+    event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements for government services are.
+    name: Payton Rehling
+    source: https://www.wired.com/story/doge-department-of-veterans-affairs-ai/
   - agency: US Citizenship & Immigration Services
     date: '2025-03-28'
     event: USCIS CIO William McElhaney sends a message to DHS Deputy Secretary asking them to review access that was granted to DOGE staff
@@ -2220,6 +2264,16 @@ Ryan Wunderly:
     event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge Boardman issues a preliminary injunction against DOGE access to internal systems at the Departoment of the Treasury where the justification for access was "the DOGE agenda" (i.e., all of them)
     name: Ryan Wunderly
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.69.0.pdf
+
+Sahil Lavingia:
+  agencies:
+  - Veterans Affairs
+  events:
+  - agency: Veterans Affairs
+    date: '2025-03-25'
+    event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements for government services are.
+    name: Sahil Lavingia
+    source: https://www.wired.com/story/doge-department-of-veterans-affairs-ai/
 
 Sam Beyda:
   agencies:

@@ -2400,6 +2400,13 @@ agencies:
     named:
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - date: 2025-02-14
+    type: onboarded
+    source: https://orangeslices.ai/hhs-it-office-recruits-new-chief-from-palantir/
+    onboard_type: appointed
+    event: Clark Minor is named as the CIO for HHS
+    named:
+    - Clark Minor
   - date: 2025-02-28
     type: access_granted
     access_type: admin
@@ -2945,6 +2952,11 @@ agencies:
     named:
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - date: 2025-03-03
+    source: https://insidemedicine.substack.com/p/new-trump-controlled-nih-begins-targeted
+    event: Joshua Hanley's name appeared in PDF metadata for grant cancellations sent out by the NIH to two researchers working on LGBTQ+-related scientific work
+    named:
+    - Joshua Hanley
   - date: 2025-03-20
     type: disruption
     event: Access to purchase cards are restored at NIH for nonemergency purchases, but scientists face a huge backlog in processing orders for supplies.
@@ -2977,6 +2989,10 @@ agencies:
     named:
     - Elon Musk
     source: https://www.wsj.com/politics/national-security/elon-musk-made-secret-visit-to-u-s-spy-agency-9b0b64e2?mod=hp_lead_pos5
+  - date: 2025-04-02
+    type: disruption
+    event: The head and deputy leader of the NSA are both relieved of their command
+    source: https://www.nytimes.com/2025/04/03/us/politics/nsa-cyber-command-chief-fired.html
 
 - name: Office of Personnel Management
   acronym: OPM
@@ -4240,3 +4256,14 @@ agencies:
     type: report
     event: Senate Democrats send letter to VA Secretary demanding information about DOGE's activities there
     source: https://fedscoop.com/veterans-affairs-data-doge-elon-musk/
+  - date: 2025-03-25
+    source: https://www.wired.com/story/doge-department-of-veterans-affairs-ai/
+    type: report
+    event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements for government services are.
+    named:
+    - Sahil Lavingia
+    - Cary Volpert
+    - Christopher Roussos
+    - Justin Fulcher
+    - Payton Rehling
+    - Jon Koval
