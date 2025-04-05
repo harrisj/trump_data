@@ -22,14 +22,14 @@
             "type": "string",
             "description": "For making any comments about the event notes"
         },
-        "agencies": {
+        "agency": {
+            "description": "Can be a single agency or an array of agencies affected/involved in the event",
             "anyOf": [
                 {
                     "$ref": "valid_names.json#agency_ids"
                 },
                 {
                     "type": "array",
-                    "description": "A list of agencies involved in the event",
                     "items": {
                         "$ref": "valid_names.json#agency_ids"
                     }
@@ -80,7 +80,7 @@
     "required": [
         "date",
         "event",
-        "agencies",
+        "agency",
         "source",
         "type"
     ],
