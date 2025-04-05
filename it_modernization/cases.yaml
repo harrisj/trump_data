@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=schemas/cases-file.json
+
+- name: National Treasury Employees Union v. Russell Vought (D.D.C.)
+  agency: CFPB
+  description: The National Treasury Employees Union sued Acting Director of the Consumer Financial Protection Bureau ("CFPB") Russell Vought seeking to block the Department of Government Efficiency's ("DOGE's") access to sensitive information systems with CFPB employee records on the basis that the CFPB's decision to grant DOGE-affiliated individuals access to employee information and non-classified systems violated the Privacy Act and CFPB regulations.
+  case_no: 1:25-cv-00380
+  date_filed: 2025-02-09
+  link: https://www.courtlistener.com/docket/69624412/national-treasury-employees-union-v-vought/
+- name: National Treasury Employees Union v. Russell Vought (D.D.C.)
+  agency: CFPB
+  description: National Treasury Employees Union, representing employees across 37 federal agencies and departments including the Consumer Financial Protection Bureau ("CFPB"), challenged the Trump Administration's efforts to shut down the CFPB and requested a temporary restraining order against the CFPB and Acting Director Russell Vought. A federal judge ordered the Administration to stop deleting and removing records, terminating employees without cause, or disbursing funds except for operating expenses, while the case proceeds.
+  case_no: 1:25-cv-00381
+  date_filed: 2025-02-09
+  link: https://www.courtlistener.com/docket/69624423/national-treasury-employees-union-v-vought/
+
+- name: AFL-CIO v. Dep't of Labor (D.D.C.)
+  agency: [ HHS, CFPB, DOL, DOGE ]
+  description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed in particular on the Economy Act claims.
+  case_no: 1:25-cv-00339
+  date_filed: 2025-02-05
+  link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/

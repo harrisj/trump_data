@@ -1,5 +1,4 @@
 # yaml-language-server: $schema=schemas/events-file.json
-
 - date: 2025-01-24
   event: The Trump administration names Susan Monarez, an outsider to the agency, as acting director of the CDC
   type: disruption
@@ -65,3 +64,308 @@
   type: disruption
   event: HHS terminates a large number of staff at CDC in the name of cost savings and realignment, with the HHS director, Robert F. Kennedy Jr., reportedly wanting to focus only on infectious diseases
   source: https://www.nytimes.com/2025/04/01/us/politics/trump-federal-layoffs-health-food.html
+
+- date: 2025-01-31
+  type: access_granted
+  access_type: read
+  agency: CMS
+  access_systems:
+  - HIGLAS
+  event: Luke Farritor is granted read-only access to the Healthcare Integrated General Ledger Accounting System (HIGLAS) by the CIO, CMS Office of Information Technology
+  named:
+  - Luke Farritor
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+- date: 2025-02-05
+  type: report
+  agency: CMS
+  event: DOGE staff reported with agency buildings with access to certain systems like CALM, but sources deny they have access to HIGLAS
+  source: https://www.wsj.com/politics/elon-musk-doge-medicare-medicaid-fraud-e697b162
+- date: 2025-02-05
+  type: official
+  agency: CMS
+  event: CMS releases a press release stating that two agency veterans have been assigned to work with DOGE
+  source: https://www.cms.gov/newsroom/press-releases/cms-statement-collaboration-doge
+- date: 2025-02-18
+  type: access_granted
+  access_type: read
+  agency: CMS
+  access_systems:
+  - IDR
+  event: Luke Farritor is granted read-only access to Integrated Data Repository (IDR) at CMS on February 18, 2025, by the CIO, CMS Office of Information Technology;
+  named:
+  - Luke Farritor
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+- date: 2025-02-24
+  agency: CMS
+  type: access_granted
+  access_type: read
+  access_systems:
+  - CALM
+  event: Amy Gleason is granted read-only access to the CMS Acquisition Lifecycle Modernization (CALM) system. She is reportedly not granted access to other systems.
+  named:
+  - Amy Gleason
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+- date: 2025-03-05
+  agency: [ HHS, CMS ]
+  type: onboarded
+  onboard_type: detailed
+  detailed_from: GSA
+  event: Edward Coristine is detailed to HHS from GSA, where he is reported as an employee. He is also detailed to USDS.
+  named:
+  - Edward Coristine
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+- date: 2025-03-05
+  agency: CMS
+  type: onboarded
+  onboard_type: detailed
+  event: Marko Elez is detailed to HHS from the Department of Labor, where he is reported as an employee. He is also detailed to USDS
+  named:
+  - Marko Elez
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+- date: 2025-03-05
+  agency: CMS
+  type: access_granted
+  access_type: read
+  access_systems:
+  - CALM
+  event: Edward Coristine and Marko Elez are granted read-only access to the CMS Acquisition Lifecycle Modernization (CALM) system.
+  named:
+  - Edward Coristine
+  - Marko Elez
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+- date: 2025-03-05
+  agency: CMS
+  type: access_granted
+  access_type: read
+  access_systems:
+  - HIGLAS
+  event: Edward Coristine and Marko Elez are granted read-only access to the Healthcare Integrated General Ledger Accounting System (HIGLAS) system by the CIO of the CMS Office of Information Technology
+  named:
+  - Edward Coristine
+  - Marko Elez
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+- date: 2025-03-05
+  agency: CMS
+  type: access_granted
+  access_type: read
+  access_systems:
+  - IDR
+  event: Marko Elez is granted read-only access to the Integrated Data Repository (IDR) system by the CIO of the CMS Office of Information Technology
+  named:
+  - Marko Elez
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+- date: 2025-03-11
+  agency: CMS
+  type: access_granted
+  access_type: read
+  access_systems:
+  - IDR
+  event: Edward Coristine is granted read-only access to the Integrated Data Repository (IDR) system by the CIO of the CMS Office of Information Technology
+  named:
+  - Edward Coristine
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+- date: 2025-03-29
+  agency: CMS
+  type: report
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  event: In a legal filing, the DOJ identifies 4 DOGE staffers - Edward Coristine, Marko Elez, Luke Farritor and Amy Gleason - at CMS
+  named:
+  - Edward Coristine
+  - Marko Elez
+  - Luke Farritor
+  - Amy Gleason
+- date: 2025-03-29
+  agency: CMS
+  type: access_revoked
+  access_systems:
+  - HIGLAS
+  - IDR
+  - CALM
+  event: In a filing, DOJ asserts that Edward Coristine and Marko Elez no longer have access to HHS systems
+  named:
+  - Edward Coristine
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+
+- date: 2025-01-21
+  agency: [ CMS, HHS ]
+  type: onboarded
+  onboard_type: detailed
+  detailed_from: GSA
+  event: According to a government declaration, Luke Farritor is detailed from the GSA to Health and Human Services
+  named:
+  - Luke Farritor
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+- date: 2025-01-22
+  agency: HHS
+  type: access_granted
+  access_type: admin
+  access_systems:
+  - PMS
+  event: Luke Farritor is granted full admin access to the Payment Management System (PMS)
+  named:
+  - Luke Farritor
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+- date: 2025-01-24
+  agency: HHS
+  type: disruption
+  event: Trump fires the HHS Inspector General in a late-night purge
+  source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
+- date: 2025-01-27
+  agency: HHS
+  type: access_granted
+  access_type: read
+  access_systems:
+  - GrantSolutions
+  event: Luke Farritor is granted read-only access to the GrantSolutions by the Director, Security and Data Project Management Office, HHS Office of Grants
+  named:
+  - Luke Farritor
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+- date: 2025-01-29
+  agency: HHS
+  type: access_granted
+  access_type: admin
+  access_systems:
+  - HCAS
+  event: Luke Farritor is granted full-admin access to the HHS Consolidated Acquisition System (HCAS) by the Executive Director, Strategic Programs and Business Systems at the Office of the Assistant Secretary for Financial Resources (ASFR)
+  named:
+  - Luke Farritor
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+- date: 2025-02-14
+  agency: HHS
+  type: onboarded
+  source: https://orangeslices.ai/hhs-it-office-recruits-new-chief-from-palantir/
+  onboard_type: appointed
+  event: Clark Minor is named as the CIO for HHS
+  named:
+  - Clark Minor
+- date: 2025-02-28
+  agency: HHS
+  type: access_granted
+  access_type: admin
+  access_systems:
+  - EHCM
+  event: Luke Farritor is granted full admin access to the Enterprise Human Capital Management System (EHCM) by the Human Resources Information System Security Officer
+  named:
+  - Luke Farritor
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+- date: 2025-03-03
+  agency: HHS
+  type: report
+  event: DOGE staff attempt to access "a system within a broader government database created to help enforce child support payments, which pulls a vast trove of information, including income data linked to nearly all workers"
+  source: https://www.washingtonpost.com/business/2025/03/06/doge-hhs-ssa-data/
+- date: 2025-03-04
+  agency: HHS
+  type: onboarded
+  onboard_type: hired
+  event: Amy Gleason (purported head of DOGE) is formally onboarded at HHS as a Senior Advisor and swears the oath of office
+  named:
+  - Amy Gleason
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.65.1_1.pdf
+- date: 2025-03-04
+  agency: HHS
+  type: onboarded
+  onboard_type: hired
+  event: Brad Smith is formally onboarded at HHS as a Senior Advisor and swears the oath of office
+  named:
+  - Brad Smith
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.65.3.pdf
+- date: 2025-03-05
+  agency: HHS
+  type: access_granted
+  access_type: read
+  access_systems:
+  - NDNH
+  event: Marko Elez is granted read-only access to National Directory of New Hires (NDNH) database by the Administration for Children and Families (ACF) CTO
+  named:
+  - Marko Elez
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+- date: 2025-03-08
+  agency: HHS
+  type: disruption
+  event: Federal staff who objected to DOGE getting access to NDNH are "no longer with the agency"
+  source: https://www.washingtonpost.com/business/2025/03/08/hhs-doge-child-support
+- date: 2025-03-13
+  agency: HHS
+  type: report
+  event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
+  named:
+  - Edward Coristine
+  - Marko Elez
+  - Luke Farritor
+  - Aram Moghaddassi
+  - Rachel Riley
+- date: 2025-03-14
+  agency: HHS
+  type: onboarded
+  onboard_type: detailed
+  detailed_from: GSA
+  event: Kyle Schutt is detailed to the Administration for Children and Families (ACF) office at HHS from the GSA. He also is detailed to the USDS
+  named:
+  - Kyle Schutt
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+- date: 2025-03-21
+  agency: HHS
+  type: access_granted
+  access_type: read
+  access_systems:
+  - Grants.gov
+  event: Luke Farritor is granted admin read-write access to Grants.gov by the Assistant Secretary for Financial Resources (ASFR)
+  named:
+  - Luke Farritor
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+- date: 2025-03-21
+  agency: HHS
+  type: access_granted
+  access_type: read
+  access_systems:
+  - UAC
+  event: Kyle Schutt is granted read-only access to the Unaccompanied Alien Children (UAC) Portal
+  named:
+  - Kyle Schutt
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+- date: 2025-03-27
+  agency: HHS
+  type: official
+  event: HHS announces a large reorganization reducing HHS from 28 to 15 divisions and elimination 20,000 jobs (or 25% of total). The URL slug of the press release includes "DOGE" in it.
+  source: https://www.hhs.gov/about/news/hhs-restructuring-doge.html
+- date: 2025-03-28
+  agency: [ HHS, CDC, NIH, CMS ]
+  type: report
+  event: During an interview, the head of HHS reports that DOGE created the new organizational chart for the agency ahead of mass firings, says "we're not cutting scientists"
+  named:
+  - Elon Musk
+  source: https://www.newsnationnow.com/cuomo-show/rfk-defends-hhs-job-cuts/
+- date: 2025-03-29
+  type: access_revoked
+  agency: HHS
+  access_systems:
+  - NDNH
+  event: In a filing, DOJ asserts that Edward Coristine and Marko Elez no longer have access to HHS systems
+  named:
+  - Marko Elez
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+- date: 2025-03-29
+  type: report
+  agency: HHS
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff who have worked at HHS
+  named:
+  - Edward Coristine
+  - Marko Elez
+  - Luke Farritor
+  - Amy Gleason
+  - Kyle Schutt
+- date: 2025-03-29
+  type: report
+  agency: HHS
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.4.pdf
+  event: In a court declaration in AFL-CIO vs. DOL, counsel for the plaintiffs Alexa Milton provides the names of two DOGE staffers at HHS who were not provided in the government's list of staffers there
+  named:
+  - Conor Fennessy
+  - Jeremy Lewin
+- date: 2025-04-01
+  agency: [ FDA, CDC, NIH, HHS ]
+  type: disruption
+  event: HHS terminates 10,000 employees across many divisions (FDA, CDC, NIH, HHS) in the name of "bureaucratic realignment." Despite RFK's promises, the layoffs do include many scientists
+  source: https://www.npr.org/sections/shots-health-news/2025/04/01/g-s1-57485/hhs-fda-layoffs-doge-cdc-nih/

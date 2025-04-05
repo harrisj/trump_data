@@ -12,6 +12,20 @@
             "description": "An ID for the system (usually an acronym)",
             "$ref": "valid_names.json#system_ids"
         },
+        "agency": {
+            "description": "Can be a single agency or an array of agencies affected/involved in the event",
+            "anyOf": [
+                {
+                    "$ref": "valid_names.json#agency_ids"
+                },
+                {
+                    "type": "array",
+                    "items": {
+                        "$ref": "valid_names.json#agency_ids"
+                    }
+                }
+            ]            
+        },
         "description": {
             "description": "A description of the system",
             "type": "string"
@@ -38,6 +52,7 @@
     },
     "required": [
         "name",
+        "agency",
         "description",
         "id"
     ],

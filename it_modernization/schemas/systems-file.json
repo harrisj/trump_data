@@ -1,0 +1,7 @@
+{
+    "type": "array",
+    "description": "A list of systems that are in use at various agencies",
+    "items": {
+        "$ref": "system.json"
+    }
+}
