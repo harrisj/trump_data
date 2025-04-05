@@ -1,0 +1,66 @@
+# yaml-language-server: $schema=schemas/events-file.json
+
+- date: 2025-01-24
+  event: The Trump administration names Susan Monarez, an outsider to the agency, as acting director of the CDC
+  type: disruption
+  agencies: CDC
+  source: https://www.economist.com/united-states/2025/03/10/how-doge-is-driving-americas-public-health-guardians-mad
+- date: 2025-01-28
+  event: CDC managers receive a directive from OPM to rank probationary hires as "mission critical", working on "strategic priorities" or neither. When one of the CDC's ten centres responded that all their staff were "mission critical", higher-ups told them that wasn't good enough, and set percentages to meet for each category.
+  type: report
+  source: https://www.economist.com/united-states/2025/03/10/how-doge-is-driving-americas-public-health-guardians-mad
+- date: 2025-01-30
+  agencies: CDC
+  type: access_granted
+  access_type: read
+  access_systems:
+  - ICE
+  event: Luke Farritor is granted read-only access to the Integrated Contracts Expert (ICE) system at CDC by the Office of the CIO
+  named:
+  - Luke Farritor
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+- date: 2025-02-15
+  agencies: CDC
+  type: disruption
+  event: Roughly 750 probationary workers receive termination notices from the OPM
+  source: https://www.economist.com/united-states/2025/03/10/how-doge-is-driving-americas-public-health-guardians-mad
+- date: 2025-02-24
+  agencies: CDC
+  type: access_granted
+  access_type: read
+  access_systems:
+  - APEX
+  event: Luke Farritor is granted read-only access to the Acquisition Performance and Execution (APEX) system at CDC by the Office of the CIO
+  named:
+  - Luke Farritor
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+- date: 2025-02-06
+  agencies: CDC
+  type: report
+  event: DOGE staff arrive at CDC HQ in Atlanta
+  source: https://www.fox5atlanta.com/news/elon-musks-doge-team-visits-cdc-atlanta-reports-say
+- date: 2025-02-17
+  agencies: CDC
+  type: report
+  event: A senior manager at CDC comes back from a meeting to find two men in Tesla shirts leaving her office who said they "fixed" her computer
+  source: https://www.economist.com/united-states/2025/03/10/how-doge-is-driving-americas-public-health-guardians-mad
+- date: 2025-02-19
+  agencies: CDC
+  type: report
+  event: Staff at the CDC CIO's office report not being contacted by DOGE yet
+  source: https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/
+- date: 2025-02-28
+  agencies: CDC
+  type: disruption
+  event: After a federal judge overrules the mass firing of probationary workers, 180 workers (out of 750) return to work
+  source: https://www.economist.com/united-states/2025/03/10/how-doge-is-driving-americas-public-health-guardians-mad
+- date: 2025-03-25
+  agencies: CDC
+  type: disruption
+  event: CDC claws back $11.4 billion in funds allocated to various state and community health departments for COVID response
+  source: https://www.nbcnews.com/health/health-news/cdc-pulling-back-11b-covid-funding-sent-health-departments-us-rcna198006
+- date: 2025-04-01
+  agencies: CDC
+  type: disruption
+  event: HHS terminates a large number of staff at CDC in the name of cost savings and realignment, with the HHS director, Robert F. Kennedy Jr., reportedly wanting to focus only on infectious diseases
+  source: https://www.nytimes.com/2025/04/01/us/politics/trump-federal-layoffs-health-food.html

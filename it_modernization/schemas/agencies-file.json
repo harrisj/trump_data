@@ -1,0 +1,7 @@
+{
+    "type": "array",
+    "description": "Information about federal agencies affected by DOGE (used to make the combined file)",
+    "items": {
+        "$ref": "agency.json"
+    }
+}

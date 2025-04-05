@@ -1,0 +1,61 @@
+{
+    "$id": "schemas/roundup",
+    "type": "object",
+    "title": "Roundup",
+    "description": "Represents a media or related roundup that lists individuals associated with DOGE and one or more agencies",
+    "properties": {
+        "source": {
+            "description": "The source for this roundup",
+            "type": "string",
+            "format": "uri"
+        },
+        "title": {
+            "description": "The title of the roundup",
+            "type": "string"
+        },
+        "publisher": {
+            "description": "The publisher of the roundup",
+            "type": "string"
+        },
+        "last_updated": {
+            "description": "The date the roundup was published or last updated",
+            "type": "string",
+            "format": "date"
+        },
+        "scope": {
+            "description": "If the roundup is limited to a specific type of person (eg, Tech CEOs, Healthcare only, etc.)",
+            "type": "string"
+        },
+        "comment": {
+            "description": "For any other comment I want to make",
+            "type": "string"
+        },
+        "people": {
+            "type": "object",
+            "description": "Names mapped to an array of agency IDs",
+            "propertyNames": {
+                "$ref": "valid_names.json#people"
+            },
+            "additionalProperties": {
+                "anyOf": [
+                    {
+                        "$ref": "valid_names.json#agency_ids"
+                    },
+                    {
+                        "type": "array",
+                        "items": {
+                            "$ref": "valid_names.json#agency_ids"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "required": [
+        "title",
+        "source",
+        "publisher",
+        "people"
+    ],
+    "additionalProperties": false
+}

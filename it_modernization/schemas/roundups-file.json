@@ -1,0 +1,7 @@
+{
+    "type": "array",
+    "description": "Detailed roundups that have been published by media companies and linking DOGE staff to agencies",
+    "items": {
+        "$ref": "roundup.json"
+    }
+}

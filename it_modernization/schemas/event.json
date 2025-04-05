@@ -1,0 +1,88 @@
+{
+    "$id": "schemas/event",
+    "type": "object",
+    "title": "Event",
+    "description": "An event associated with DOGE staff doing something",
+    "properties": {
+        "date": {
+            "type": "string",
+            "description": "A date in format YYYY-MM-DD",
+            "pattern": "^(2024|2025)-(0[1-9]|10|11|12)-[0-3][0-9]$"
+        },
+        "time": {
+            "type": "string",
+            "description": "An optional time value in the form HH:MM (24-hour format)",
+            "pattern": "^([01][0-9]|2[0-3]):[0-5][0-9]$"
+        },
+        "event": {
+            "type": "string",
+            "description": "A description of the DOGE-related event"
+        },
+        "comment": {
+            "type": "string",
+            "description": "For making any comments about the event notes"
+        },
+        "agencies": {
+            "anyOf": [
+                {
+                    "$ref": "valid_names.json#agency_ids"
+                },
+                {
+                    "type": "array",
+                    "description": "A list of agencies involved in the event",
+                    "items": {
+                        "$ref": "valid_names.json#agency_ids"
+                    }
+                }
+            ]
+        },
+        "named": {
+            "type": "array",
+            "description": "A list of DOGE staff named with the event",
+            "items": {
+                "description": "The names of DOGE staff in the incident.",
+                "$ref": "valid_names.json#people"
+            }
+        },
+        "source": {
+            "type": "string",
+            "description": "A URL of the source for the information in the event",
+            "format": "uri"
+        },
+        "type": {
+            "description": "The type of the event",
+            "$ref": "valid_names.json#event_types"
+        },
+        "access_type": {
+            "description": "The type of the access granted/changed to",
+            "$ref": "valid_names.json#access_types"
+        },
+        "access_systems": {
+            "description": "The systems access granted/changed/revoked for",
+            "type": "array",
+            "items": {
+                "$ref": "valid_names.json#system_ids"
+            }
+        },
+        "onboard_type": {
+            "description": "What kind of onboarding it was for DOGE staff",
+            "$ref": "valid_names.json#onboard_types"
+        },
+        "detailed_from": {
+            "description": "The agency the staff in the event were detailed from",
+            "$ref": "valid_names.json#agency_ids"
+        },
+        "case_no": {
+            "description": "The relevant case_no for legal events",
+            "type": "string"
+        }
+    },
+    "required": [
+        "date",
+        "event",
+        "agencies",
+        "source",
+        "type"
+    ],
+    "additionalProperties": false
+}

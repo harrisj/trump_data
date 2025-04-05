@@ -1,0 +1,167 @@
+# yaml-language-server: $schema=schemas/agencies-file.json
+- name: Centers for Disease Control and Prevention
+  id: CDC
+  parent_id: HHS
+
+- name: Centers for Medicare and Medicaid Services
+  id: CMS
+  parent_id: HHS
+
+- name: Central Intelligence Agency
+  id: CIA
+
+- name: Commerce Department
+  id: Commerce
+
+- name: Consumer Financial Protection Bureau
+  id: CFPB
+
+- name: Census Bureau
+  id: Census
+  parent_id: Commerce
+
+- name: Customs and Border Patrol
+  id: CBP
+  parent_id: DHS
+
+- name: Cybersecurity and Infrastructure Security Agency
+  id: CISA
+  parent_id: DHS
+
+- name: Department of Agriculture
+  id: USDA
+
+- name: Department of Defense
+  id: DOD
+
+- name: Department of the Interior
+  id: DOI
+
+- name: Department of Government Efficiency
+  id: DOGE
+  parent_id: EOP
+
+- name: Department of Homeland Security
+  id: DHS
+
+- name: Department of Justice
+  id: DOJ
+
+- name: Department of Education
+  id: Education
+
+- name: Department of Energy
+  id: DOE
+
+- name: Department of Labor
+  id: DOL
+
+- name: Department of the Treasury
+  id: Treasury
+
+- name: Department of Transformation
+  id: DOT
+
+- name: Environmental Protection Agency
+  id: EPA
+
+- name: Executive Office of the President
+  id: EOP
+
+- name: Federal Aviation Administration
+  id: FAA
+  parent_id: DOT
+
+- name: Federal Bureau of Investigation
+  id: FBI
+  parent_id: DOJ
+
+- name: Federal Emergency Management Agency
+  id: FEMA
+  parent_id: DHS
+
+- name: Federal Housing Finance Agency
+  id: FHFA
+
+- name: Food and Drug Administration
+  id: FDA
+  parent_id: HHS
+
+- name: General Services Administration
+  id: GSA
+
+- name: Health and Human Services
+  id: HHS
+
+- name: Housing and Urban Development
+  id: HUD
+
+- name: Immigration and Customs Enforcement
+  id: ICE
+  parent_id: DHS
+
+- name: Institute for Museum and Library Services
+  id: IMLS
+
+- name: Inter-American Foundation
+  id: IAF
+
+- name: Internal Revenue Service
+  id: IRS
+  parent_id: Treasury
+
+- name: National Aeronautics and Space Administration
+  id: NASA
+
+- name: National Endowment for the Humanities
+  id: NEH
+
+- name: National Oceanic and Atmospheric Administration
+  id: NOAA
+  parent_id: Commerce
+
+- name: National Institute of Health
+  id: NIH
+  parent_id: HHS
+
+- name: National Institute of Standards and Technology
+  id: NIST
+
+- name: National Security Agency
+  id: NSA
+  parent_id: DOD
+
+- name: Office of Personnel Management
+  id: OPM
+
+- name: Securities and Exchange Commission
+  id: SEC
+
+- name: Small Business Administration
+  id: SBA
+
+- name: Social Security Administration
+  id: SSA
+
+- name: State Department
+  id: State
+
+- name: U.S. African Development Foundation
+  id: USADF
+
+- name: US Agency for International Development
+  id: USAID
+
+- name: US Citizenship & Immigration Services
+  id: USCIS
+  parent_id: DHS
+
+- name: US Institute of Peace
+  id: USIP
+
+- name: US Digital Service
+  id: USDS
+  parent_id: EOP
+
+- name: US Postal Service
+  id: USPS

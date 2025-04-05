@@ -1,0 +1,32 @@
+{
+    "$id": "schemas/agency",
+
+    "type": "object",
+    "title": "Agency",
+    "description": "Information about a specific agency",
+
+    "properties": {
+        "name": {
+            "description": "The name of the agency",
+            "type": "string"
+        },
+        "id": {
+            "description": "An ID for the agency (usually an acronym)",
+            "$ref": "valid_names.json#agency_ids"
+        },
+        "parent_id": {
+            "description": "The parent agency (identified by their ID)",
+            "$ref": "valid_names.json#agency_ids"
+        },
+        "link": {
+            "description": "A link to an overview of the agency",
+            "type": "string",
+            "format": "uri"
+        }
+    },
+    "required": [
+        "name",
+        "id"
+    ],
+    "additionalProperties": false
+}

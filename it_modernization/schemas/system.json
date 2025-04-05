@@ -1,0 +1,45 @@
+{
+    "$id": "schemas/event",
+    "type": "object",
+    "title": "System",
+    "description": "Information about a specific syatem accessed by DOGE staff",
+    "properties": {
+        "name": {
+            "description": "The name of the system",
+            "type": "string"
+        },
+        "id": {
+            "description": "An ID for the system (usually an acronym)",
+            "$ref": "valid_names.json#system_ids"
+        },
+        "description": {
+            "description": "A description of the system",
+            "type": "string"
+        },
+        "risk": {
+            "description": "A short description of the risks associated with DOGE accessing the system",
+            "type": "string"
+        },
+        "link": {
+            "description": "A link to an overview of the system",
+            "type": "string",
+            "format": "uri"
+        },
+        "pia": {
+            "description": "A URL linking to the Privacy Impact Assessment for the system",
+            "type": "string",
+            "format": "uri"
+        },
+        "sorn": {
+            "description": "A URL linking to the SORN for the system",
+            "type": "string",
+            "format": "uri"
+        }
+    },
+    "required": [
+        "name",
+        "description",
+        "id"
+    ],
+    "additionalProperties": false
+}
