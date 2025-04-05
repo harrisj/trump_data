@@ -2953,6 +2953,7 @@ agencies:
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - date: 2025-03-03
+    type: report
     source: https://insidemedicine.substack.com/p/new-trump-controlled-nih-begins-targeted
     event: Joshua Hanley's name appeared in PDF metadata for grant cancellations sent out by the NIH to two researchers working on LGBTQ+-related scientific work
     named:
