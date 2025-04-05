@@ -2036,6 +2036,18 @@ agencies:
     named:
     - Justin Monroe
 
+- name: Federal Communications Commission
+  acronym: FCC
+  events:
+  - date: 2025-04-04
+    type: report
+    event: Three DOGE staffers are listed in the public directory of FCC staff and listed as associated with the Office of the Chairman at the FCC
+    named:
+    - Tarak Makecha
+    - Jordan Wick
+    - Jacob Altik
+    source: https://www.theverge.com/news/644031/doge-federal-communications-commission-directory
+
 - name: Federal Emergency Management Agency
   acronym: FEMA
   roundups:
@@ -2114,6 +2126,17 @@ agencies:
     - Christopher Stanley
     event: DOGE member Christopher Stanley abruptly resigns from Fannie Mae/Freddie Mac board one day after appointment
     source: https://www.housingwire.com/articles/doge-fannie-mae-board-member-christopher-stanley-resignation/
+
+- name: Federal Trade Commission
+  acronym: FTC
+  events:
+  - date: 2025-04-04
+    type: report
+    event: Reports that two DOGE staffers have started work in the agency, looking at grants and contracts
+    named:
+    - Gavin Kliger
+    - Emily Bryant
+    source: https://www.axios.com/pro/tech-policy/2025/04/04/doge-staffers-move-into-ftc-office
 
 - name: Food and Drug Administration
   acronym: FDA
@@ -2813,6 +2836,22 @@ agencies:
     type: disruption
     event: The acting chief counsel of the IRS, William Paul, is removed from his role and replaced by Andrew De Mello, who is seen as more supportive of DOGE's work at the agency
     source: https://www.cbsnews.com/news/andrew-de-mello-irs-william-paul-doge-trump/
+  - date: 2025-03-28
+    type: disruption
+    event: DOGE abruptly places 50 technologists at the IRS on administrative leave
+    source: https://www.wired.com/story/doge-hackathon-irs-data-palantir/
+  - date: 2025-04-03
+    type: disruption
+    event: Senior technological positions are terminated including director of cybersecurity architecture and implementation, deputy chief information security officer, and acting director of security risk management. Only the CTO was spared.
+    source: https://www.wired.com/story/doge-hackathon-irs-data-palantir/
+  - date: 2025-04-05
+    type: report
+    event: DOGE is reportedly planning to state a "hack-a-thon" in cooperation with Palantir to create a "mega API" to access IRS data
+    named:
+    - Gavin Kliger
+    - Sam Corcos
+    source: https://www.wired.com/story/doge-hackathon-irs-data-palantir/
+
   systems:
   - name: Integrated Data Retrieval System
     id: IDRS
@@ -2980,6 +3019,10 @@ agencies:
     type: report
     event: NIST workers witness a handful people that they suspect of being DOGE at NIST IT facilities in Gaithersburg, MD
     source: https://www.wired.com/story/the-national-institute-of-standards-and-technology-braces-for-mass-firings/
+  - date: 2025-04-02
+    type: official
+    event: A group of 22 house members send a letter to Commerce Secretary Lutnick expressing concern about the firing of 70 staffers at NIST
+    source: https://mcclaindelaney.house.gov/sites/evo-subsites/mcclaindelaney.house.gov/files/evo-media-document/amd-letter-to-sec-lutnik-re-nist-probationary-and-rif-plans-v.f.pdf
 
 - name: National Security Agency
   acronym: NSA
@@ -3204,6 +3247,10 @@ agencies:
     type: report
     event: In response to recent rulings, the OPM quietly revises its initial memo requiring federal agencies to send lists of probationary employees to the agency and downplays suggestions that the lists should be used for deciding staffing levels
     source: https://www.fiercehealthcare.com/regulatory/mass-layoffs-hhs-cdc-cuts-1300-probationary-workers-reports-say
+  - date: 2025-03-10
+    type: report
+    event: The OPM Inspector General responds to questions from Democrats in Congress by stating his office will start investigating DOGE's servers and practices
+    source: https://fedscoop.com/opm-inspector-general-doge-access-it-systems/
   - date: 2025-03-18
     type: legal
     event: A lawyer for the plaintiffs accuses the DOJ of misrepresenting Altik's participation "perhaps to preserve the illusion that OPM's counsel were ignorant of what OPM was doing with the Government-Wide Email System, or perhaps to obscure the role of DOGE and the White House in this case."
@@ -3224,6 +3271,12 @@ agencies:
     - Charles Ezell
     - Amanda Scales
     - Greg Hogan
+  - date: 2025-04-03
+    type: report
+    event: Scott Kupor, the nominee to lead OPM, assured senators that he believes strong in data privacy and respecting the humanity and dignity of the workforce
+    named:
+    - Scott Kupor
+    source: https://fedscoop.com/opm-nominee-scott-kupor-data-privacy-doge/
   systems:
   - name: USAJobs
     id: USAJobs
@@ -3312,6 +3365,16 @@ agencies:
     link: https://www.courtlistener.com/docket/69821136/national-treasury-employees-union-v-donald-j-trump/
   sources:
   - https://www.muskwatch.com/p/musk-associates-given-unfettered
+
+- name: Peace Corps
+  acronym: PeaceCorps
+  events:
+  - date: 2025-04-04
+    type: report
+    event: DOGE staff reportedly visit the Peace Corps, planning to work over the weeked to review records and access IT systems
+    named:
+    - Bridget Youngs
+    source: https://www.theguardian.com/us-news/2025/apr/04/elon-musk-doge-peace-corps
 
 - name: Small Business Administration
   acronym: SBA
@@ -3665,6 +3728,14 @@ agencies:
     - Elon Musk
     - Antonio Gracias
     source: https://www.washingtonpost.com/politics/2025/04/01/elon-musk-social-security-immigrants/
+  - date: 2025-04-03
+    type: report
+    event: Social Security employees received an offer from the human resources department for voluntary reassignments to "mission-critical" front-line roles in call services and hearing offices to replace staff that were eliminated.
+    source: https://www.washingtonpost.com/politics/2025/04/04/social-security-layoffs-trump-musk/
+  - date: 2025-04-04
+    type: disruption
+    event: DOGE staffers at SSA declare the need for widespread RIFs at the agency, despite a reduction in staffing of 7000 people already and notable degradations in service. Among others, they are looking to cut 800 people from the IT department of 4000.
+    source: https://www.washingtonpost.com/politics/2025/04/04/social-security-layoffs-trump-musk/
   systems:
   - name: Anti-Fraud Enterprise Solution
     id: AFES

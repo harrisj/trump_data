@@ -345,6 +345,16 @@ Brian Bjelde:
     name: Brian Bjelde
     source: https://www.npr.org/2025/03/26/nx-s1-5339842/doge-data-access-privacy-act-social-security-treasury-opm-lawsuit
 
+Bridget Youngs:
+  agencies:
+  - Peace Corps
+  events:
+  - agency: Peace Corps
+    date: '2025-04-04'
+    event: DOGE staff reportedly visit the Peace Corps, planning to work over the weeked to review records and access IT systems
+    name: Bridget Youngs
+    source: https://www.theguardian.com/us-news/2025/apr/04/elon-musk-doge-peace-corps
+
 Brooks Morgan:
   agencies:
   - Department of Education
@@ -792,7 +802,14 @@ Elon Musk:
 
 Emily Bryant:
   agencies:
+  - Federal Trade Commission
   - US Digital Service/Department of Government Efficiency
+  events:
+  - agency: Federal Trade Commission
+    date: '2025-04-04'
+    event: Reports that two DOGE staffers have started work in the agency, looking at grants and contracts
+    name: Emily Bryant
+    source: https://www.axios.com/pro/tech-policy/2025/04/04/doge-staffers-move-into-ftc-office
 
 Erica Jehling:
   agencies:
@@ -890,6 +907,7 @@ Gavin Kliger:
   - Commerce Department
   - Consumer Financial Protection Bureau
   - Department of Agriculture
+  - Federal Trade Commission
   - Internal Revenue Service
   - Office of Personnel Management
   - US Agency for International Development
@@ -925,6 +943,16 @@ Gavin Kliger:
     event: Gavin Kliger and Sam Corcos, DOGE representatives embedded at the tax agency, on Friday asked IRS lawyers to assist in creating an "omnibus" agreement with other federal agencies that would allow a broad swath of federal officials to cross-reference benefits rolls with taxpayer data
     name: Gavin Kliger
     source: https://www.washingtonpost.com/business/2025/03/01/doge-irs-tax-records-benefits/
+  - agency: Federal Trade Commission
+    date: '2025-04-04'
+    event: Reports that two DOGE staffers have started work in the agency, looking at grants and contracts
+    name: Gavin Kliger
+    source: https://www.axios.com/pro/tech-policy/2025/04/04/doge-staffers-move-into-ftc-office
+  - agency: Internal Revenue Service
+    date: '2025-04-05'
+    event: DOGE is reportedly planning to state a "hack-a-thon" in cooperation with Palantir to create a "mega API" to access IRS data
+    name: Gavin Kliger
+    source: https://www.wired.com/story/doge-hackathon-irs-data-palantir/
 
 George Cooper:
   agencies:
@@ -947,6 +975,7 @@ Greg Hogan:
 
 Jacob Altik:
   agencies:
+  - Federal Communications Commission
   - Office of Personnel Management
   - Social Security Administration
   - U.S. African Development Foundation
@@ -1018,6 +1047,11 @@ Jacob Altik:
     event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
     name: Jacob Altik
     source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
+  - agency: Federal Communications Commission
+    date: '2025-04-04'
+    event: Three DOGE staffers are listed in the public directory of FCC staff and listed as associated with the Office of the Chairman at the FCC
+    name: Jacob Altik
+    source: https://www.theverge.com/news/644031/doge-federal-communications-commission-directory
 
 James Burnham:
   agencies:
@@ -1154,6 +1188,7 @@ Jordan Wick:
   agencies:
   - Consumer Financial Protection Bureau
   - Department of Labor
+  - Federal Communications Commission
   - US Digital Service/Department of Government Efficiency
   events:
   - agency: Consumer Financial Protection Bureau
@@ -1196,6 +1231,11 @@ Jordan Wick:
     event: Jordan Wick is formally onboarded as a CFPB employee on March 5 (while remaining an employee of USDS). Prior to that, he was detailed to the CFPB from USDS.
     name: Jordan Wick
     source: hhttps://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: Federal Communications Commission
+    date: '2025-04-04'
+    event: Three DOGE staffers are listed in the public directory of FCC staff and listed as associated with the Office of the Chairman at the FCC
+    name: Jordan Wick
+    source: https://www.theverge.com/news/644031/doge-federal-communications-commission-directory
 
 Joshua Fox:
   agencies:
@@ -2295,6 +2335,11 @@ Sam Corcos:
     event: Gavin Kliger and Sam Corcos, DOGE representatives embedded at the tax agency, on Friday asked IRS lawyers to assist in creating an "omnibus" agreement with other federal agencies that would allow a broad swath of federal officials to cross-reference benefits rolls with taxpayer data
     name: Sam Corcos
     source: https://www.washingtonpost.com/business/2025/03/01/doge-irs-tax-records-benefits/
+  - agency: Internal Revenue Service
+    date: '2025-04-05'
+    event: DOGE is reportedly planning to state a "hack-a-thon" in cooperation with Palantir to create a "mega API" to access IRS data
+    name: Sam Corcos
+    source: https://www.wired.com/story/doge-hackathon-irs-data-palantir/
 
 Sam Smeal:
   agencies:
@@ -2347,6 +2392,11 @@ Scott Kupor:
     event: A report on the tech billionaires steering Trump's transition mentions Musk and other DOGE staff, and how they have been interviewing people at Mar-a-Lago
     name: Scott Kupor
     source: https://www.nytimes.com/2024/12/06/us/politics/trump-elon-musk-silicon-valley.html
+  - agency: Office of Personnel Management
+    date: '2025-04-03'
+    event: Scott Kupor, the nominee to lead OPM, assured senators that he believes strong in data privacy and respecting the humanity and dignity of the workforce
+    name: Scott Kupor
+    source: https://fedscoop.com/opm-nominee-scott-kupor-data-privacy-doge/
 
 Scott Langmack:
   agencies:
@@ -2480,7 +2530,14 @@ Steve Davis:
 Tarak Makecha:
   agencies:
   - Department of State
+  - Federal Communications Commission
   - Office of Personnel Management
+  events:
+  - agency: Federal Communications Commission
+    date: '2025-04-04'
+    event: Three DOGE staffers are listed in the public directory of FCC staff and listed as associated with the Office of the Chairman at the FCC
+    name: Tarak Makecha
+    source: https://www.theverge.com/news/644031/doge-federal-communications-commission-directory
 
 Ted Malaska:
   agencies:
