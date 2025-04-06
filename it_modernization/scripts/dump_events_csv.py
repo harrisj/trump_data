@@ -2,7 +2,7 @@ import yaml
 import csv
 
 # Function to read a YAML file
-def read_yaml(file_path):
+def read_modernization_yaml(file_path):
     with open(file_path, 'r') as file:
         data = yaml.safe_load(file)
     
@@ -43,7 +43,7 @@ def read_yaml(file_path):
 
 # Example usage
 file_path = './modernization.yaml'
-yaml_data = read_yaml(file_path)
+yaml_data = read_modernization_yaml(file_path)
 output_file = './events.csv'
 
 # Write the yaml_data to a CSV file

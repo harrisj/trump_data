@@ -1,14 +1,67 @@
 # yaml-language-server: $schema=schemas/events-file.json
+- date: 2025-01-21
+  agency:
+  - CMS
+  - HHS
+  type: onboarded
+  onboard_type: detailed
+  detailed_from: GSA
+  event: According to a government declaration, Luke Farritor is detailed from the GSA to Health and Human Services
+  named:
+  - Luke Farritor
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+
+- date: 2025-01-22
+  agency: HHS
+  type: access_granted
+  access_type: admin
+  access_systems:
+  - PMS
+  event: Luke Farritor is granted full admin access to the Payment Management System (PMS)
+  named:
+  - Luke Farritor
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+
 - date: 2025-01-24
   event: The Trump administration names Susan Monarez, an outsider to the agency, as acting director of the CDC
   type: disruption
   agency: CDC
   source: https://www.economist.com/united-states/2025/03/10/how-doge-is-driving-americas-public-health-guardians-mad
+
+- date: 2025-01-24
+  agency: HHS
+  type: disruption
+  event: Trump fires the HHS Inspector General in a late-night purge
+  source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
+
+- date: 2025-01-27
+  agency: HHS
+  type: access_granted
+  access_type: read
+  access_systems:
+  - GrantSolutions
+  event: Luke Farritor is granted read-only access to the GrantSolutions by the Director, Security and Data Project Management Office, HHS Office of Grants
+  named:
+  - Luke Farritor
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+
 - date: 2025-01-28
   agency: CDC
   event: CDC managers receive a directive from OPM to rank probationary hires as "mission critical", working on "strategic priorities" or neither. When one of the CDC's ten centres responded that all their staff were "mission critical", higher-ups told them that wasn't good enough, and set percentages to meet for each category.
   type: report
   source: https://www.economist.com/united-states/2025/03/10/how-doge-is-driving-americas-public-health-guardians-mad
+
+- date: 2025-01-29
+  agency: HHS
+  type: access_granted
+  access_type: admin
+  access_systems:
+  - HCAS
+  event: Luke Farritor is granted full-admin access to the HHS Consolidated Acquisition System (HCAS) by the Executive Director, Strategic Programs and Business Systems at the Office of the Assistant Secretary for Financial Resources (ASFR)
+  named:
+  - Luke Farritor
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+
 - date: 2025-01-30
   agency: CDC
   type: access_granted
@@ -19,51 +72,6 @@
   named:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-- date: 2025-02-15
-  agency: CDC
-  type: disruption
-  event: Roughly 750 probationary workers receive termination notices from the OPM
-  source: https://www.economist.com/united-states/2025/03/10/how-doge-is-driving-americas-public-health-guardians-mad
-- date: 2025-02-24
-  agency: CDC
-  type: access_granted
-  access_type: read
-  access_systems:
-  - APEX
-  event: Luke Farritor is granted read-only access to the Acquisition Performance and Execution (APEX) system at CDC by the Office of the CIO
-  named:
-  - Luke Farritor
-  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-- date: 2025-02-06
-  agency: CDC
-  type: report
-  event: DOGE staff arrive at CDC HQ in Atlanta
-  source: https://www.fox5atlanta.com/news/elon-musks-doge-team-visits-cdc-atlanta-reports-say
-- date: 2025-02-17
-  agency: CDC
-  type: report
-  event: A senior manager at CDC comes back from a meeting to find two men in Tesla shirts leaving her office who said they "fixed" her computer
-  source: https://www.economist.com/united-states/2025/03/10/how-doge-is-driving-americas-public-health-guardians-mad
-- date: 2025-02-19
-  agency: CDC
-  type: report
-  event: Staff at the CDC CIO's office report not being contacted by DOGE yet
-  source: https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/
-- date: 2025-02-28
-  agency: CDC
-  type: disruption
-  event: After a federal judge overrules the mass firing of probationary workers, 180 workers (out of 750) return to work
-  source: https://www.economist.com/united-states/2025/03/10/how-doge-is-driving-americas-public-health-guardians-mad
-- date: 2025-03-25
-  agency: CDC
-  type: disruption
-  event: CDC claws back $11.4 billion in funds allocated to various state and community health departments for COVID response
-  source: https://www.nbcnews.com/health/health-news/cdc-pulling-back-11b-covid-funding-sent-health-departments-us-rcna198006
-- date: 2025-04-01
-  agency: CDC
-  type: disruption
-  event: HHS terminates a large number of staff at CDC in the name of cost savings and realignment, with the HHS director, Robert F. Kennedy Jr., reportedly wanting to focus only on infectious diseases
-  source: https://www.nytimes.com/2025/04/01/us/politics/trump-federal-layoffs-health-food.html
 
 - date: 2025-01-31
   type: access_granted
@@ -75,16 +83,46 @@
   named:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+
 - date: 2025-02-05
   type: report
   agency: CMS
   event: DOGE staff reported with agency buildings with access to certain systems like CALM, but sources deny they have access to HIGLAS
   source: https://www.wsj.com/politics/elon-musk-doge-medicare-medicaid-fraud-e697b162
+
 - date: 2025-02-05
   type: official
   agency: CMS
   event: CMS releases a press release stating that two agency veterans have been assigned to work with DOGE
   source: https://www.cms.gov/newsroom/press-releases/cms-statement-collaboration-doge
+
+- date: 2025-02-06
+  agency: CDC
+  type: report
+  event: DOGE staff arrive at CDC HQ in Atlanta
+  source: https://www.fox5atlanta.com/news/elon-musks-doge-team-visits-cdc-atlanta-reports-say
+
+- date: 2025-02-14
+  agency: HHS
+  type: onboarded
+  source: https://orangeslices.ai/hhs-it-office-recruits-new-chief-from-palantir/
+  onboard_type: appointed
+  event: Clark Minor is named as the CIO for HHS
+  named:
+  - Clark Minor
+
+- date: 2025-02-15
+  agency: CDC
+  type: disruption
+  event: Roughly 750 probationary workers receive termination notices from the OPM
+  source: https://www.economist.com/united-states/2025/03/10/how-doge-is-driving-americas-public-health-guardians-mad
+
+- date: 2025-02-17
+  agency: CDC
+  type: report
+  event: A senior manager at CDC comes back from a meeting to find two men in Tesla shirts leaving her office who said they "fixed" her computer
+  source: https://www.economist.com/united-states/2025/03/10/how-doge-is-driving-americas-public-health-guardians-mad
+
 - date: 2025-02-18
   type: access_granted
   access_type: read
@@ -95,6 +133,33 @@
   named:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+
+- date: 2025-02-19
+  agency: CDC
+  type: report
+  event: Staff at the CDC CIO's office report not being contacted by DOGE yet
+  source: https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/
+
+- date: 2025-02-19
+  agency:
+  - IAF
+  - USIP
+  - USADF
+  type: official
+  event: Trump issues an Executive Order "Commencing the Reduction of the Federal Bureaucracy" targeting the Presidio Trust, the Inter-American Foundation, the United States African Development Foundation and the United States Institute of Peace for reductions.
+  source: https://www.whitehouse.gov/presidential-actions/2025/02/commencing-the-reduction-of-the-federal-bureaucracy/
+
+- date: 2025-02-24
+  agency: CDC
+  type: access_granted
+  access_type: read
+  access_systems:
+  - APEX
+  event: Luke Farritor is granted read-only access to the Acquisition Performance and Execution (APEX) system at CDC by the Office of the CIO
+  named:
+  - Luke Farritor
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+
 - date: 2025-02-24
   agency: CMS
   type: access_granted
@@ -105,8 +170,72 @@
   named:
   - Amy Gleason
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+
+- date: 2025-02-24
+  type: report
+  agency: USIP
+  event: USIP leadership meets virtually with DOGE staff to explain history and legal status of the agency
+  named:
+  - James Burnham
+  - Jacob Altik
+  - Nate Cavanaugh
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+
+- date: 2025-02-24
+  agency: USIP
+  type: report
+  event: DOGE counters their belief that minimum statutory size of agency is "a Board of Directors and a president, reports to Congress and the Executive branch, and expenses incident to the Board of Directors" and says they will regroup
+  named:
+  - James Burnham
+  - Jacob Altik
+  - Nate Cavanaugh
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+
+- date: 2025-02-28
+  agency: CDC
+  type: disruption
+  event: After a federal judge overrules the mass firing of probationary workers, 180 workers (out of 750) return to work
+  source: https://www.economist.com/united-states/2025/03/10/how-doge-is-driving-americas-public-health-guardians-mad
+
+- date: 2025-02-28
+  agency: HHS
+  type: access_granted
+  access_type: admin
+  access_systems:
+  - EHCM
+  event: Luke Farritor is granted full admin access to the Enterprise Human Capital Management System (EHCM) by the Human Resources Information System Security Officer
+  named:
+  - Luke Farritor
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+
+- date: 2025-03-03
+  agency: HHS
+  type: report
+  event: DOGE staff attempt to access "a system within a broader government database created to help enforce child support payments, which pulls a vast trove of information, including income data linked to nearly all workers"
+  source: https://www.washingtonpost.com/business/2025/03/06/doge-hhs-ssa-data/
+
+- date: 2025-03-04
+  agency: HHS
+  type: onboarded
+  onboard_type: hired
+  event: Amy Gleason (purported head of DOGE) is formally onboarded at HHS as a Senior Advisor and swears the oath of office
+  named:
+  - Amy Gleason
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.65.1_1.pdf
+
+- date: 2025-03-04
+  agency: HHS
+  type: onboarded
+  onboard_type: hired
+  event: Brad Smith is formally onboarded at HHS as a Senior Advisor and swears the oath of office
+  named:
+  - Brad Smith
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.65.3.pdf
+
 - date: 2025-03-05
-  agency: [ HHS, CMS ]
+  agency:
+  - HHS
+  - CMS
   type: onboarded
   onboard_type: detailed
   detailed_from: GSA
@@ -114,6 +243,7 @@
   named:
   - Edward Coristine
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+
 - date: 2025-03-05
   agency: CMS
   type: onboarded
@@ -122,6 +252,7 @@
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+
 - date: 2025-03-05
   agency: CMS
   type: access_granted
@@ -133,6 +264,7 @@
   - Edward Coristine
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+
 - date: 2025-03-05
   agency: CMS
   type: access_granted
@@ -144,6 +276,7 @@
   - Edward Coristine
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+
 - date: 2025-03-05
   agency: CMS
   type: access_granted
@@ -154,6 +287,36 @@
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+
+- date: 2025-03-05
+  agency: HHS
+  type: access_granted
+  access_type: read
+  access_systems:
+  - NDNH
+  event: Marko Elez is granted read-only access to National Directory of New Hires (NDNH) database by the Administration for Children and Families (ACF) CTO
+  named:
+  - Marko Elez
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+
+- date: 2025-03-05
+  agency: USIP
+  type: report
+  event: Complying with the Executive Order from 2/19, USIP submits a letter to OMB asserting that USIP is an independent nonprofit organization, not a federal agency
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+
+- date: 2025-03-08
+  agency: HHS
+  type: disruption
+  event: Federal staff who objected to DOGE getting access to NDNH are "no longer with the agency"
+  source: https://www.washingtonpost.com/business/2025/03/08/hhs-doge-child-support
+
+- date: 2025-03-08
+  agency: USIP
+  type: report
+  event: USIP President George Moose becomes aware that DOGE is conducting some sort of reconnaisance with respect to USIP's security operations and contractor
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+
 - date: 2025-03-11
   agency: CMS
   type: access_granted
@@ -164,6 +327,205 @@
   named:
   - Edward Coristine
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+
+- date: 2025-03-13
+  agency: HHS
+  type: report
+  event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
+  named:
+  - Edward Coristine
+  - Marko Elez
+  - Luke Farritor
+  - Aram Moghaddassi
+  - Rachel Riley
+
+- date: 2025-03-14
+  agency: HHS
+  type: onboarded
+  onboard_type: detailed
+  detailed_from: GSA
+  event: Kyle Schutt is detailed to the Administration for Children and Families (ACF) office at HHS from the GSA. He also is detailed to the USDS
+  named:
+  - Kyle Schutt
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+
+- date: 2025-03-14
+  agency: USIP
+  type: disruption
+  event: Various members of the USIP board report receiving emails from the White House saying they are terminated from their positions.
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+
+- date: 2025-03-14
+  agency: USIP
+  type: disruption
+  event: DOGE members Kenneth Jackson, Jacob Altik and Nate Cavanaugh show up at USIP building with 2 other people claiming to be FBI agents and are refused entry. They attempted to present a document firing the USIP president.
+  named:
+  - Kenneth Jackson
+  - Jacob Altik
+  - Nate Cavanaugh
+  source: https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/
+
+- date: 2025-03-16
+  agency: USIP
+  type: disruption
+  event: Two FBI agents visited a senior USIP security official at his home unannounced to ask about gaining entry to the building, possibly through pressuring the the Institute's security contractor
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+
+- date: 2025-03-16
+  agency: USIP
+  type: disruption
+  event: Chief of the Criminal Division of the U.S. Attorney's Office for the District of Columbia, Johnathan Hornok, and two FBI special agents called USIP's outside counsel, Mr. Foote, stating that they had suspicion of criminal behavior at USIP,
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+
+- date: 2025-03-16
+  agency: USIP
+  type: disruption
+  event: Concerned they might be coerced by DOGE, the Chief Security Officer suspends the contract for building security contractor Inter-Con after being contacted by FBI agents interested in questioning him
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.2.2.pdf
+
+- date: 2025-03-16
+  time: '18:00'
+  agency: USIP
+  type: disruption
+  event: At 6pm, all Inter-Con staff are removed from the building, all keycard access is revoked and all physical keys accounted for except for one held by the Inter-Con account manager for USIP
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.2.2.pdf
+
+- date: 2025-03-17
+  agency: USIP
+  type: disruption
+  event: At 2:30pm, the Inter-Con account manager and employees attempt to enter the building with key cards and are denied. They use the physical key to enter once the account manager arrives with it.
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.2.2.pdf
+
+- date: 2025-03-17
+  agency: USIP
+  type: disruption
+  event: At 2:59pm, USIP Security Chief calls DC police and institutes a high-level lockdown for the building. He observes with the security cameras that DOGE staff attempting entry on various doors.
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.2.2.pdf
+
+- date: 2025-03-17
+  agency: USIP
+  type: report
+  event: Various USIP staff report receiving messages from DOGE staff asking for employee lists and access to computer systems
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+
+- date: 2025-03-17
+  agency: USIP
+  type: disruption
+  event: Asked why they are attempting to gain control of the building, the Vice President of Inter-Con reports that DOGE threatened to cancel every single one of their federal contracts if they didn't comply
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.2.2.pdf
+
+- date: 2025-03-17
+  agency: USIP
+  type: disruption
+  event: USIP President George Moose reports being present when four Inter-Con employees entered the USIP building without permission
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+
+- date: 2025-03-17
+  agency: USIP
+  type: disruption
+  event: USIP President George Moose is escorted out of the building by DC police who entered with DOGE at 5:30pm
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+
+- date: 2025-03-17
+  agency: USIP
+  type: onboarded
+  onboard_type: appointed
+  event: Kenneth Jackson is named Acting President of the US Institute of Peace
+  named:
+  - Kenneth Jackson
+  source: https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/
+
+- date: 2025-03-19
+  agency: USIP
+  type: disruption
+  event: DOGE-affiliated staff start removing interior signage from the USIP building
+  source: https://bsky.app/profile/marisakabas.bsky.social/post/3lkqia7po5c2a
+
+- date: 2025-03-19
+  agency: USIP
+  type: legal
+  event: Judge Beryl Howell presides over an emergency hearing on granting USIP's request for a temporary restraining order against DOGE, but doesn't grant a temporary restraining order
+  case_no: 1:25-cv-00804
+  source: https://bsky.app/profile/annabower.bsky.social/post/3lkqsbbysck2n
+
+- date: 2025-03-20
+  agency: USIP
+  type: disruption
+  event: USIP website is taken offline
+  source: https://bsky.app/profile/marisakabas.bsky.social/post/3lkskjyhqkk2p
+
+- date: 2025-03-21
+  agency: HHS
+  type: access_granted
+  access_type: read
+  access_systems:
+  - Grants.gov
+  event: Luke Farritor is granted admin read-write access to Grants.gov by the Assistant Secretary for Financial Resources (ASFR)
+  named:
+  - Luke Farritor
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+
+- date: 2025-03-21
+  agency: HHS
+  type: access_granted
+  access_type: read
+  access_systems:
+  - UAC
+  event: Kyle Schutt is granted read-only access to the Unaccompanied Alien Children (UAC) Portal
+  named:
+  - Kyle Schutt
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+
+- date: 2025-03-25
+  agency: CDC
+  type: disruption
+  event: CDC claws back $11.4 billion in funds allocated to various state and community health departments for COVID response
+  source: https://www.nbcnews.com/health/health-news/cdc-pulling-back-11b-covid-funding-sent-health-departments-us-rcna198006
+
+- date: 2025-03-25
+  agency: USIP
+  type: promotion
+  named:
+  - Nate Cavanaugh
+  event: Nate Cavanaugh is named the new President of USIP by the two remaining members of the board, Marco Rubio and Pete Hegseth, and he is authorized to transfer all assets to the GSA
+  case_no: 1:25-cv-00804
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.14.1.pdf
+
+- date: 2025-03-25
+  agency: USIP
+  type: report
+  named:
+  - Nate Cavanaugh
+  - Stephen Ehikian
+  case_no: 1:25-cv-00804
+  event: Nate Cavanaugh contacts the administrator of the GSA to propose transferring the USIP building to them, arguing that USIP won't need a building because the statute doesn't mandate it has one or staffing
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.15.3.pdf
+
+- date: 2025-03-27
+  agency: HHS
+  type: official
+  event: HHS announces a large reorganization reducing HHS from 28 to 15 divisions and elimination 20,000 jobs (or 25% of total). The URL slug of the press release includes "DOGE" in it.
+  source: https://www.hhs.gov/about/news/hhs-restructuring-doge.html
+
+- date: 2025-03-28
+  agency:
+  - HHS
+  - CDC
+  - NIH
+  - CMS
+  type: report
+  event: During an interview, the head of HHS reports that DOGE created the new organizational chart for the agency ahead of mass firings, says "we're not cutting scientists"
+  named:
+  - Elon Musk
+  source: https://www.newsnationnow.com/cuomo-show/rfk-defends-hhs-job-cuts/
+
+- date: 2025-03-28
+  agency: USIP
+  type: disruption
+  event: Almost all USIP HQ staff (200-300 people) receive termination notices late on a Friday night
+  source: https://www.washingtonpost.com/national-security/2025/03/29/doge-usip-peace-institute-fired/
+
 - date: 2025-03-29
   agency: CMS
   type: report
@@ -174,6 +536,7 @@
   - Marko Elez
   - Luke Farritor
   - Amy Gleason
+
 - date: 2025-03-29
   agency: CMS
   type: access_revoked
@@ -186,156 +549,6 @@
   - Edward Coristine
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
 
-- date: 2025-01-21
-  agency: [ CMS, HHS ]
-  type: onboarded
-  onboard_type: detailed
-  detailed_from: GSA
-  event: According to a government declaration, Luke Farritor is detailed from the GSA to Health and Human Services
-  named:
-  - Luke Farritor
-  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-- date: 2025-01-22
-  agency: HHS
-  type: access_granted
-  access_type: admin
-  access_systems:
-  - PMS
-  event: Luke Farritor is granted full admin access to the Payment Management System (PMS)
-  named:
-  - Luke Farritor
-  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-- date: 2025-01-24
-  agency: HHS
-  type: disruption
-  event: Trump fires the HHS Inspector General in a late-night purge
-  source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
-- date: 2025-01-27
-  agency: HHS
-  type: access_granted
-  access_type: read
-  access_systems:
-  - GrantSolutions
-  event: Luke Farritor is granted read-only access to the GrantSolutions by the Director, Security and Data Project Management Office, HHS Office of Grants
-  named:
-  - Luke Farritor
-  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-- date: 2025-01-29
-  agency: HHS
-  type: access_granted
-  access_type: admin
-  access_systems:
-  - HCAS
-  event: Luke Farritor is granted full-admin access to the HHS Consolidated Acquisition System (HCAS) by the Executive Director, Strategic Programs and Business Systems at the Office of the Assistant Secretary for Financial Resources (ASFR)
-  named:
-  - Luke Farritor
-  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-- date: 2025-02-14
-  agency: HHS
-  type: onboarded
-  source: https://orangeslices.ai/hhs-it-office-recruits-new-chief-from-palantir/
-  onboard_type: appointed
-  event: Clark Minor is named as the CIO for HHS
-  named:
-  - Clark Minor
-- date: 2025-02-28
-  agency: HHS
-  type: access_granted
-  access_type: admin
-  access_systems:
-  - EHCM
-  event: Luke Farritor is granted full admin access to the Enterprise Human Capital Management System (EHCM) by the Human Resources Information System Security Officer
-  named:
-  - Luke Farritor
-  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-- date: 2025-03-03
-  agency: HHS
-  type: report
-  event: DOGE staff attempt to access "a system within a broader government database created to help enforce child support payments, which pulls a vast trove of information, including income data linked to nearly all workers"
-  source: https://www.washingtonpost.com/business/2025/03/06/doge-hhs-ssa-data/
-- date: 2025-03-04
-  agency: HHS
-  type: onboarded
-  onboard_type: hired
-  event: Amy Gleason (purported head of DOGE) is formally onboarded at HHS as a Senior Advisor and swears the oath of office
-  named:
-  - Amy Gleason
-  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.65.1_1.pdf
-- date: 2025-03-04
-  agency: HHS
-  type: onboarded
-  onboard_type: hired
-  event: Brad Smith is formally onboarded at HHS as a Senior Advisor and swears the oath of office
-  named:
-  - Brad Smith
-  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.65.3.pdf
-- date: 2025-03-05
-  agency: HHS
-  type: access_granted
-  access_type: read
-  access_systems:
-  - NDNH
-  event: Marko Elez is granted read-only access to National Directory of New Hires (NDNH) database by the Administration for Children and Families (ACF) CTO
-  named:
-  - Marko Elez
-  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-- date: 2025-03-08
-  agency: HHS
-  type: disruption
-  event: Federal staff who objected to DOGE getting access to NDNH are "no longer with the agency"
-  source: https://www.washingtonpost.com/business/2025/03/08/hhs-doge-child-support
-- date: 2025-03-13
-  agency: HHS
-  type: report
-  event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
-  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
-  named:
-  - Edward Coristine
-  - Marko Elez
-  - Luke Farritor
-  - Aram Moghaddassi
-  - Rachel Riley
-- date: 2025-03-14
-  agency: HHS
-  type: onboarded
-  onboard_type: detailed
-  detailed_from: GSA
-  event: Kyle Schutt is detailed to the Administration for Children and Families (ACF) office at HHS from the GSA. He also is detailed to the USDS
-  named:
-  - Kyle Schutt
-  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-- date: 2025-03-21
-  agency: HHS
-  type: access_granted
-  access_type: read
-  access_systems:
-  - Grants.gov
-  event: Luke Farritor is granted admin read-write access to Grants.gov by the Assistant Secretary for Financial Resources (ASFR)
-  named:
-  - Luke Farritor
-  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-- date: 2025-03-21
-  agency: HHS
-  type: access_granted
-  access_type: read
-  access_systems:
-  - UAC
-  event: Kyle Schutt is granted read-only access to the Unaccompanied Alien Children (UAC) Portal
-  named:
-  - Kyle Schutt
-  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-- date: 2025-03-27
-  agency: HHS
-  type: official
-  event: HHS announces a large reorganization reducing HHS from 28 to 15 divisions and elimination 20,000 jobs (or 25% of total). The URL slug of the press release includes "DOGE" in it.
-  source: https://www.hhs.gov/about/news/hhs-restructuring-doge.html
-- date: 2025-03-28
-  agency: [ HHS, CDC, NIH, CMS ]
-  type: report
-  event: During an interview, the head of HHS reports that DOGE created the new organizational chart for the agency ahead of mass firings, says "we're not cutting scientists"
-  named:
-  - Elon Musk
-  source: https://www.newsnationnow.com/cuomo-show/rfk-defends-hhs-job-cuts/
 - date: 2025-03-29
   type: access_revoked
   agency: HHS
@@ -345,6 +558,7 @@
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+
 - date: 2025-03-29
   type: report
   agency: HHS
@@ -356,6 +570,7 @@
   - Luke Farritor
   - Amy Gleason
   - Kyle Schutt
+
 - date: 2025-03-29
   type: report
   agency: HHS
@@ -364,8 +579,19 @@
   named:
   - Conor Fennessy
   - Jeremy Lewin
+
 - date: 2025-04-01
-  agency: [ FDA, CDC, NIH, HHS ]
+  agency: CDC
+  type: disruption
+  event: HHS terminates a large number of staff at CDC in the name of cost savings and realignment, with the HHS director, Robert F. Kennedy Jr., reportedly wanting to focus only on infectious diseases
+  source: https://www.nytimes.com/2025/04/01/us/politics/trump-federal-layoffs-health-food.html
+
+- date: 2025-04-01
+  agency:
+  - FDA
+  - CDC
+  - NIH
+  - HHS
   type: disruption
   event: HHS terminates 10,000 employees across many divisions (FDA, CDC, NIH, HHS) in the name of "bureaucratic realignment." Despite RFK's promises, the layoffs do include many scientists
   source: https://www.npr.org/sections/shots-health-news/2025/04/01/g-s1-57485/hhs-fda-layoffs-doge-cdc-nih/
