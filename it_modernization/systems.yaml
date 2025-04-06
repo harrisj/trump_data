@@ -1,39 +1,405 @@
 # yaml-language-server: $schema=schemas/systems-file.json
+- name: Anti-Fraud Enterprise Solution
+  id: AFES
+  description: System for detecting and preventing fraud in Social Security
+  risk: PII of individuals stored in other systems and copied here for investigation
+  pia: https://www.ssa.gov/privacy/pia/AFES_OPD%20Draft_PIA_04-17-2018.htm
+  sorn: https://www.govinfo.gov/content/pkg/FR-2022-04-28/pdf/2022-09091.pdf
+  agency: SSA
+
 - name: Acquistions and Grants Exchange
-  agency: CMS
   id: AGX
   description: A web-based application that provides the Office of Acquisition and Grants Management with tools for contracting officers
   pia: https://www.hhs.gov/sites/default/files/cms-acquisition-and-grants-exchange.pdf
-- name: CMS Acquisition Lifecycle Management system
   agency: CMS
+
+- name: Acquisition Performance and Execution
+  id: APEX
+  description: FIXME
+  agency: CDC
+
+- name: Automated Standard Access For Payments
+  id: ASAP
+  description: A payment system that allows recipients to draw down funds from an established account for that recipient.
+  agency: Treasury
+
+- name: CMS Acquisition Lifecycle Management system
   id: CALM
   description: System for tracking CMS acquisitions, contracts, milestones and audits.
-- name: Healthcare Integrated General Ledger Accounting System
   agency: CMS
+
+- name: Central Accounting Reporting System
+  id: CARS
+  link: https://fiscal.treasury.gov/cars/
+  description: A system which handles accounting for all federal agencies
+  pia: https://www.fiscal.treasury.gov/files/pia/cars-pclia.pdf
+  agency: Treasury
+
+- name: Central Index System
+  id: CIS
+  description: The CIS contains information about people who use Alien Numbers, or A-Numbers. These can include people who don't have legal authorization to be in the country or who have interacted with Immigration and Customs Enforcement, the person said.
+  agency: USCIS
+
+- name: Common Origination and Disbursement System
+  id: COD
+  description: A system for disbursing grants and loans that are paid to institutions of higher education directly (who then provide to students)
+  risk: PII and bank account information for institutions of higher education
+  pia: https://www.ed.gov/sites/ed/files/notices/pia/fsa-pia-cod.pdf
+  sorn: https://www.federalregister.gov/documents/2023/06/28/2023-13698/privacy-act-of-1974-system-of-record
+  agency: Education
+
+- name: USCIS Data Business Intelligence Services
+  id: DBIS
+  agency: USCIS
+
+- name: Debt Management and Collection System
+  id: DMCS
+  description: A system used for tracking and assisting in collection of federal student loans in default
+  risk: PII and details of debt amounts for individuals who have defaulted on their loans
+  pia: https://www.ed.gov/sites/ed/files/2025-01/PIA_FSA_DMCS_11_22_2024.pdf
+  sorn: https://www.federalregister.gov/documents/2023/07/27/2023-15931/privacy-act-of-1974-system-of-records
+  agency: Education
+
+- name: DRA
+  id: DOL-DRA
+  description: FIXME
+  agency: DOL
+
+- name: DOL-UI
+  id: DOL-UI
+  description: FIXME
+  agency: DOL
+
+- name: EPA Acquisition System
+  id: EAS
+  description: The Office of Acquisition Solutions (OAS) EPA Acquisition System (EAS) Software as a Service (SaaS) is used to initiate, award, modify and track acquisition actions.
+  pia: https://www.epa.gov/system/files/documents/2023-12/eas-saas-pia-final.pdf
+  agency: EPA
+
+- name: Enterprise Human Resources Integration
+  id: EHRI
+  sorn: https://www.federalregister.gov/documents/2023/08/17/2023-17651/privacy-act-of-1974-system-of-records
+  pia: https://www.opm.gov/information-management/privacy-policy/privacy-policy/ehridw.pdf
+  description: Database of all federal employees
+  risk: PII including SSN, date of birth, salary, home address, and job description
+  agency: OPM
+
+- name: Electronic Immigration System
+  id: ELIS
+  description: Part of DBIS; the system that processes legal immigration benefits. ELIS acts as a case management system for USCIS and includes information about green cards and petitions, as well as details related to Temporary Protected Status and DACA applicants
+  agency: USCIS
+
+- name: EPACS
+  id: EPACS
+  description: FIXME
+  agency: DOL
+
+- name: Electronic Wage Reporting System
+  id: EWR
+  description: A system for employers to submit W-2 records every year for their employees
+  risk: Private tax information for every American
+  pia: https://www.ssa.gov/privacy/pia/Final%20PIA%20for%20the%20EWR%20System.htm
+  sorn: https://www.ssa.gov/privacy/sorn/60-0059.pdf
+  agency: SSA
+
+- name: FUTURE Act Systems
+  id: FAS
+  description: Systems for implementing the FUTURE Act, allowing FAFSA to obtain federal tax information for students
+  risk: Sensitive tax information of students and parents
+  pia: https://www.ed.gov/media/document/federal-tax-information-module-107894.pdf
+  sorn: https://www.federalregister.gov/documents/2023/06/29/2023-13980/privacy-act-of-1974-system-of-records
+  agency: Education
+
+- name: Financial Assessment of Public Housing
+  id: FASS-PH
+  link: https://www.hud.gov/program_offices/public_indian_housing/reac/products/fassph
+  description: A database to measure the financial condition of public housing agencies and assess their ability to provide safe and decent housing.
+  agency: HUD
+
+- name: Federal Disbursement Services
+  id: FDS
+  description: The Federal Disbursement Services (FDS) pays out money, helps collect money, handles foreign transactions, and supports Fiscal Service programs.
+  link: https://fiscal.treasury.gov/fds/
+  agency: Treasury
+
+- name: FEMA Grants Outcomes
+  id: FEMA-GO
+  description: A system for managing grant program for communities affected by disasters
+  risk: PII of grant recipients, including names, addresses and bank information
+  link: https://go.fema.gov/
+  pia: https://www.dhs.gov/sites/default/files/publications/privacy-pia-fema013-gmp-appendixupdate-march2020.pdf
+  sorn: https://www.federalregister.gov/documents/2022/07/11/2022-14673/privacy-act-of-1974-system-of-records
+  agency: FEMA
+
+- name: Financial Management System
+  id: FMS
+  description: A system that consolidates grants, loans and work-study funds for students under Title IV of the Higher Education Act
+  risk: PII of students, including names, addresses, SSNs and financial details of payments
+  pia: https://www.ed.gov/sites/ed/files/notices/pia/fsa-financ-manag-syst.pdf
+  sorn: https://www.ed.gov/sites/ed/files/notices/sorn/18-11-17_010208.pdf
+  agency: Education
+
+- name: Federal Personnel Payroll System
+  id: FPPS
+  description: A shared service which processes payrolls for the Justice, Treasury and Homeland Security departments, as well as the Air Force, Nuclear Regulatory Commission and the U.S. Customs and Border Protection, among other federal agencies.
+  risk: PII and payment info for federal staff at several large agencies, including the ability to interfere with pay
+  pia: https://www.doi.gov/sites/doi.gov/files/fpps-pia-revised-04222020_0.pdf
+  agency: DOI
+
+- name: FAFSA Processing System
+  id: FPS
+  description: The system for receiving and evaluating applications for federal student aid and sharing determinations with universities
+  risk: PII of student and parents, include names, address, SSNs, tax information and schools receiving the form
+  pia: https://www.ed.gov/sites/ed/files/notices/pia/pia-fps.pdf
+  sorn: https://www.federalregister.gov/documents/2023/06/15/2023-12831/privacy-act-of-1974-system-of-records
+  agency: Education
+
+- name: Government-Wide Email System
+  id: GWES
+  pia: https://www.opm.gov/media/kfpozkad/gwes-pia.pdf
+  sorn: https://www.federalregister.gov/documents/2017/12/05/2017-26107/privacy-act-of-1974-system-of-records
+  description: A new system developed by DOGE for sending out email to all federal employees and collecting responses. It was most famously used for the Fork in The Road email.
+  risk: There are concerns it is an external system and did not go through a privacy review
+  agency: OPM
+
+- name: NOAA Google enterprise systems
+  id: Google-NOAA
+  description: Not more precisely described, but this seems to be Google Drive and email
+  risk: Access to CUI stored in Google Drive at the NOAA
+  agency: NOAA
+
+- name: Grants.gov
+  id: Grants.gov
+  description: FIXME
+  agency: HHS
+
+- name: HUD Enforcement Management System
+  id: HEMS
+  link: https://www.hud.gov/program_offices/fair_housing_equal_opp/system/hems
+  description: A database for tracking housing discrimination complaints and enforcement actions, including accusations of domestic violence
+  risk: PII and PHI of individuals, including medical records, legal records and case files
+  pia: https://www.hud.gov/sites/dfiles/OCHCO/documents/FHEO-V05-HEMS-PIA.pdf
+  sorn: https://www.federalregister.gov/documents/2023/12/14/2023-27443/privacy-act-of-1974-system-of-records
+  agency: HUD
+
+- name: Health Insurance Data Warehouse
+  id: HI
+  description: System tracking health claims of government employees and their dependents on FEHB health insurance plans
+  risk: PII and PHI of government employees and their dependents
+  pia: https://www.opm.gov/information-management/privacy-policy/privacy-policy/hidw-pia.pdf
+  sorn: https://www.opm.gov/information-management/privacy-policy/sorn/opm-sorn-central-15-health-claims-data-warehouse.pdf
+  agency: OPM
+
+- name: Healthcare Integrated General Ledger Accounting System
   id: HIGLAS
   link: https://www.cms.gov/about-cms/information-systems/higlas/higlas-architecture
   description: A single, integrated dual-entry accounting system that standardizes and centralizes federal financial accounting functions for all of CMS's programs.
-- name: Integrated Data Repository
   agency: CMS
+
+- name: HRConnect
+  id: HRConnect
+  description: HR system for CFPB employees
+  risk: PII of CFPB employees, including SSN, home address, and employment records
+  sorn: https://www.consumerfinance.gov/privacy/system-records-notices/employee-administrative-records/
+  agency: CFPB
+
+- name: Human Resources System
+  id: HRS
+  description: Collection of systems for human resources, timekeeping and payroll for SSA employees
+  risk: PII of SSA employees, including names, SSNs, and payroll information
+  pia: https://www.ssa.gov/privacy/pia/HRS%20PIA.htm
+  agency: SSA
+
+- name: HUD Central Accounting and Processing System
+  id: HUDCAPS
+  description: Integrated management system for Section 8 programs under the jurisdiction of the Office of Public and Indian Housing
+  risk: PII of individuals applying for housing vouchers including medical records and personal narratives
+  pia: https://www.hud.gov/sites/dfiles/OCHCO/documents/OCFO33_A75.pdf
+  sorn: https://www.federalregister.gov/documents/2022/08/17/2022-17709/privacy-act-of-1974-system-of-records
+  agency: HUD
+
+- name: Integrated Contracts Expert
+  id: ICE
+  description: FIXME
+  agency: CDC
+
+- name: Integrated Disbursement and Information System
+  id: IDIS
+  description: A database for tracking all HUD programs nationwide
+  risk: Among other things, it includes hidden locations of domestic violence shelters
+  pia: https://www.hud.gov/sites/dfiles/OCHCO/documents/CPD-1IDISPIA.pdf
+  agency: HUD
+
+- name: Integrated Data Repository
   id: IDR
   description: A data warehouse of all Medicare claims after they have been approved for payment
   sorn: https://www.hhs.gov/foia/privacy/sorns/09700571/index.html
+  agency: CMS
+
+- name: Integrated Data Retrieval System
+  id: IDRS
+  link: https://www.irs.gov/irm/part2/irm_02-009-001r
+  pia: https://www.irs.gov/pub/irs-pia/idrs-pia.pdf
+  sorn: https://www.federalregister.gov/documents/2015/09/08/2015-21980/privacy-act-of-1974-as-amended-system-of-records-notice
+  description: The IDRS contains some of the most sensitive financial information on American taxpayers.
+  risk: Access to PII and financial data of American taxpayers, including names, SSNs, tax returns, bank account numbers, etc.
+  agency: IRS
+
+- name: Line of Credit Control System
+  id: LOCCS
+  link: https://www.hud.gov/sites/dfiles/CFO/documents/eLOCCS_Getting_Started_Guide-Sept_2022.pdf
+  description: Handles disbursement and cash management for the majority of HUD's grant programs
+  risk: Access to PII of grant recipients, including names, addresses and bank information
+  pia: https://www.hud.gov/sites/dfiles/OCHCO/documents/OCFO29_A67.pdf
+  sorn: https://www.govinfo.gov/content/pkg/FR-2022-03-07/pdf/2022-04715.pdf
+  agency: HUD
+
+- name: Master Beneficiary Record
+  id: MBR
+  description: A large record of all individuals elgible to receive social security benefits
+  sorn: https://www.ssa.gov/privacy/sorn/60-0090.pdf
+  agency: SSA
+
+- name: NIH Business System
+  id: NBS
+  description: is the central electronic business system of the NIH including the general ledger, finance, budget, procurement, supply, travel, and property management systems. NBS is aimed at improving data consolidation and financial reporting capabilities.
+  risk: As a payment system, includes names, SSNs, TINs, and other PII of persons/entities receiving payments from NIH
+  sorn: https://www.federalregister.gov/documents/2002/08/22/02-21348/privacy-act-of-1974-proposed-new-system-of-records
+  agency: NIH
 
 - name: National Directory of New Hires
-  agency: HHS
   id: NDNH
   description: A system for tracking wages and new hires that's used for child support location
   link: https://acf.gov/css/training-technical-assistance/overview-federal-parent-locator-service
   risk: Contains wage information and unemployment claims for all Americans
   pia: https://www.hhs.gov/sites/default/files/acf-national-directory-of-new-hires.pdf
   sorn: https://www.federalregister.gov/documents/2021/07/28/2021-16098/privacy-act-of-1974-matching-program
-- name: Grants.gov
   agency: HHS
-  id: Grants.gov
+
+- name: Notice to Airmen
+  id: NOTAM
+  description: System for alerting pilots and airports of events that might affect air travel
+  link: https://www.faa.gov/about/initiatives/notam/what_is_a_notam
+  agency: FAA
+
+- name: National Student Loan Data System (New)
+  id: NSLDS
+  description: A a comprehensive national database for the Federal financial aid history of recipients of student financial assistance and grants authorized under Title IV of the Higher Education Act of 1965
+  risk: PII of students, including names, addresses, SSNs and financial details of student loans
+  pia: https://www.ed.gov/about/ed-overview/required-notices/privacy/privacy-impact-assessments-pia
+  sorn: https://www.federalregister.gov/documents/2024/05/21/2024-11136/privacy-act-of-1974-system-of-records
+  agency: Education
+
+- name: Notify.gov
+  id: Notify.gov
+  description: System for sending text messages to the public
+  risk: Access to PII like phone numbers as well as private information like participation in Medicaid, etc.
+  agency: GSA
+
+- name: OSHA Business Information Systems
+  id: OBIS
+  description: Information gathered as part of whistleblowing and used for enforcement
+  risk: PII of individuals reporting problems as well as confidential whistleblower information
+  pia: https://www.dol.gov/agencies/oasam/centers-offices/ocio/privacy/osha/obis
+  agency: DOL
+
+- name: One CDC Data Platform
+  id: OneCDC
+  description: A system for centralizng health access, public-health data, including hundreds of thousands of daily anonymized lab tests, data from emergency-room visits, and measurements from wastewater disease-reporting sites
+  link: https://www.cdc.gov/public-health-data-strategy/php/about/index.html
+  agency: CDC
+
+- name: Payment Automation Manager
+  id: PAM
+  link: https://fiscal.treasury.gov/pam/
+  description: 'The U.S. government uses the Payment Automation Manager (PAM) to pay all bills, except payments in foreign currency. PAM processed over 1.2 billion payments in FY 2024, valued at over 4.7 trillion dollars. PAM replaced many older systems that Federal Program Agencies used, saving money and increasing efficiency.
+
+    '
+  risk: PII/CUI of entities receiving payments, SSNs, TINs, bank account info
+  pia: https://www.fiscal.treasury.gov/files/pia/pampclia.pdf
+  agency: Treasury
+
+- name: PRISM
+  id: PRISM
+  description: System for tracking procurement and contracting
+  link: https://www.doi.gov/ibc/services/finance/financial-systems/prism
+  risk: PII/CUI of contracting recipients
+  agency: CFPB
+
+- name: Pegasys
+  id: Pegasys
+  description: Pegasys is the GSA core financial management system of records to make payments and record accounting transactions. This includes funds management (budget execution and purchasing), credit cards, accounts payable, disbursements, standard general ledger, and reporting.
+  risk: PII of individuals and companies that receive funds from the GSA
+  pia: https://www.gsa.gov/system/files/Pegasys_PIA.pdf
+  sorn: https://www.federalregister.gov/documents/2006/10/16/E6-17069/privacy-act-of-1974-notice-of-a-new-system-of-records
+  agency: GSA
+
+- name: Secure Payment System
+  id: SPS
+  link: https://www.fiscal.treasury.gov/sps/
+  description: Secure Payment System (SPS) is used by federal government agencies to securely create, certify, and submit payments to the Fiscal Service.
+  risk: Access to CUI/PII of entities submitting/receiving payments. Access to private encryption keys.
+  pia: https://www.fiscal.treasury.gov/files/pia/spspclia.pdf
+  sorn: https://www.federalregister.gov/documents/2020/02/27/2020-03969/privacy-act-of-1974-system-of-records
+  agency: Treasury
+
+- name: Electronic Data Warehouse
+  id: SSA-EDW
   description: FIXME
+  agency: SSA
+
+- name: Social Security Number Establishment and Correction System
+  id: SSNEC
+  description: The system for issuing new SSNs as well as replacement SSN cards. This system also sources the NUMIDENT files
+  risk: PII of individual include SSNs and information submitted on birth certificates
+  pia: https://www.ssa.gov/privacy/pia/Social%20Security%20Number%20Establishment%20and%20Correction%20System.updtdSept%2028.htm
+  sorn: https://www.federalregister.gov/documents/2024/12/31/2024-31131/privacy-act-of-1974-system-of-records
+  agency: SSA
+
+- name: SSR
+  id: SSR
+  description: FIXME
+  agency: SSA
+
 - name: Unaccompanied Alien Children (UAC) Portal
-  agency: HHS
   id: UAC
-  description: The UAC Portal manages all medical (mental and dental health included), educational, and sponsorship information for UC in ORR custody
+  description: The UC Portal manages all medical (mental and dental health included), educational, and sponsorship information for UC in ORR custody
   pia: https://www.hhs.gov/sites/default/files/acf-unaccompanied-children-portal.pdf
   sorn: https://www.federalregister.gov/documents/2022/02/08/2022-02535/privacy-act-of-1974-system-of-records
+  agency: HHS
+
+- name: USAJobs
+  id: USAJobs
+  description: Official hiring site for the federal government
+  sorn: https://www.federalregister.gov/documents/2014/03/26/2014-06593/privacy-act-of-1974-update-and-amend-system-of-records
+  risk: PII of individuals who have applied for federal jobs, including SSN, home address, and employment records
+  agency: OPM
+
+- name: USA Performance
+  id: USAP
+  description: System tracking job performance of federal employees
+  risk: PII and performance reviews of federal employees
+  sorn: https://www.opm.gov/information-management/privacy-policy/sorn/opm-sorn-govt-2-employee-performance-file-system-records.pdf
+  pia: https://www.opm.gov/information-management/privacy-policy/privacy-policy/usap-pia.pdf
+  agency: OPM
+
+- name: USA Staffing
+  id: USAStaffing
+  description: System tracking onboarding of federal employees
+  sorn: https://www.federalregister.gov/documents/2021/12/01/2021-26086/privacy-act-of-1974-system-of-records
+  risk: agency-specific CUI related to onboarding
+  agency: OPM
+
+- name: Web Access Security Subsystem
+  id: WASS
+  description: System for authorizing access and setting permissions to talk to other systems
+  risk: With read-write access, DOGE staff were able to grant and revoke access to other systems without oversight
+  agency: HUD
+
+- name: Electronic Disability System
+  id: eDib
+  description: System for processing disability claims against Social Security
+  risk: PII and PHI of individuals applying for disability benefits, including names, SSNs, and medical information related to their disability
+  pia: https://www.ssa.gov/privacy/pia/eDib%20PIA%20OPD%20Final_Feb%201,%202018.pdf
+  sorn: https://www.govinfo.gov/content/pkg/FR-2020-06-04/pdf/2020-12067.pdf
+  agency: SSA
