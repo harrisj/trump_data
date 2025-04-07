@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=schemas/cases-file.json
+# yaml-language-server: $schema=../schemas/cases-file.json
 - name: New Mexico et al v. Musk (D.D.C.)
   description: Fourteen states sued Elon Musk and the Department of Government Efficiency ("DOGE") alleging that Musk's appointment to his role as head of DOGE violates the Constitution's Appointments Clause
   case_no: 1.25-cv-00429

@@ -40,7 +40,7 @@ class YamlDumper(yaml.SafeDumper):
 # Example usage
 file_path = './modernization.yaml'
 people_data = read_modernization_yaml(file_path)
-output_file = './events.yaml'
+output_file = './data/events.yaml'
 with open(output_file, 'w') as file:
     file.write("# yaml-language-server: $schema=schemas/events-file.json\n")
     file.write(yaml.dump(people_data, Dumper=YamlDumper, indent=2, width=500, sort_keys=False))

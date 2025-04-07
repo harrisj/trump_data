@@ -35,7 +35,7 @@ class YamlDumper(yaml.SafeDumper):
 # Example usage
 file_path = './modernization.yaml'
 case_data = read_modernization_yaml(file_path)
-output_file = './cases.yaml'
+output_file = './data/cases.yaml'
 with open(output_file, 'w') as file:
-    file.write("# yaml-language-server: $schema=schemas/cases-file.json\n")
+    file.write("# yaml-language-server: $schema=schemas/systems-file.json\n")
     file.write(yaml.dump(case_data, Dumper=YamlDumper, indent=2, width=500, sort_keys=False))

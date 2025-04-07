@@ -1,24 +1,12 @@
 import yaml
-from typing import Union, List, Any
-from datetime import date
-
-# Function to read a YAML file
-def read_yaml(file_path:str) -> Any:
-    with open(file_path, 'r') as file:
-        return yaml.safe_load(file)
-    
-def agency_as_array(agency: Union[str, List[str]]) -> List[str]:
-    if isinstance(agency, str):
-        return [agency]
-    else:
-        return agency
+from util import read_yaml, agency_as_array, sorted_by_last_name, MyYamlDumper
 
 def generate_agency_comprehensive_yaml():
-    agencies_yaml = read_yaml('agencies.yaml')
-    events_yaml = read_yaml('events.yaml')
-    systems_yaml = read_yaml('systems.yaml')
-    cases_yaml = read_yaml('cases.yaml')
-    roundup_yaml = read_yaml('roundups.yaml')
+    agencies_yaml = read_yaml('./data/agencies.yaml')
+    events_yaml = read_yaml('./data/events.yaml')
+    systems_yaml = read_yaml('./data/systems.yaml')
+    cases_yaml = read_yaml('./data/cases.yaml')
+    roundup_yaml = read_yaml('./data/roundups.yaml')
 
     out = {}
     associated = {}
@@ -54,22 +42,13 @@ def generate_agency_comprehensive_yaml():
                 associated[agency_id].add(person)
 
     for agency_id in associated:
-        out[agency_id]["associated"] = list(associated[agency_id])
+        out[agency_id]["associated"] = sorted_by_last_name(associated[agency_id])
 
     return out
 
-class YamlDumper(yaml.SafeDumper):
-    # HACK: insert blank lines between top-level objects
-    # inspired by https://stackoverflow.com/a/44284819/3786245
-    def write_line_break(self, data=None):
-        super().write_line_break(data)
-
-        if len(self.indents) == 1:
-            super().write_line_break()
-
 # Example usage
 by_agency_report = generate_agency_comprehensive_yaml()
-output_file = './reports/agency_comprehensive.yaml'
+output_file = './agency_comprehensive.yaml'
 with open(output_file, 'w') as file:
     # file.write("# yaml-language-server: $schema=schemas/by-agency-file.json\n")
-    file.write(yaml.dump(by_agency_report, Dumper=YamlDumper, indent=2, width=500, sort_keys=False))
+    file.write(yaml.dump(by_agency_report, Dumper=MyYamlDumper, indent=2, width=500, sort_keys=False))

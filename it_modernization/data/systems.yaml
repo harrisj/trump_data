@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=schemas/systems-file.json
+# yaml-language-server: $schema=../schemas/systems-file.json
 - name: Anti-Fraud Enterprise Solution
   id: AFES
   description: System for detecting and preventing fraud in Social Security

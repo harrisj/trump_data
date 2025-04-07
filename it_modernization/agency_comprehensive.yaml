@@ -70,8 +70,7 @@ CDC:
     event: HHS terminates a large number of staff at CDC in the name of cost savings and realignment, with the HHS director, Robert F. Kennedy Jr., reportedly wanting to focus only on infectious diseases
     source: https://www.nytimes.com/2025/04/01/us/politics/trump-federal-layoffs-health-food.html
     agency: CDC
-  - &id001
-    date: 2025-04-01
+  - date: 2025-04-01
     type: disruption
     event: HHS terminates 10,000 employees across many divisions (FDA, CDC, NIH, HHS) in the name of "bureaucratic realignment." Despite RFK's promises, the layoffs do include many scientists
     source: https://www.npr.org/sections/shots-health-news/2025/04/01/g-s1-57485/hhs-fda-layoffs-doge-cdc-nih/
@@ -105,10 +104,10 @@ CMS:
   id: CMS
   parent_id: HHS
   associated:
-  - Marko Elez
-  - Amy Gleason
-  - Luke Farritor
   - Edward Coristine
+  - Marko Elez
+  - Luke Farritor
+  - Amy Gleason
   events:
   - date: 2025-01-31
     type: access_granted
@@ -230,7 +229,16 @@ CMS:
     - Edward Coristine
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
     agency: CMS
-  - *id001
+  - date: 2025-04-01
+    type: disruption
+    event: HHS terminates 10,000 employees across many divisions (FDA, CDC, NIH, HHS) in the name of "bureaucratic realignment." Despite RFK's promises, the layoffs do include many scientists
+    source: https://www.npr.org/sections/shots-health-news/2025/04/01/g-s1-57485/hhs-fda-layoffs-doge-cdc-nih/
+    agency:
+    - HHS
+    - FDA
+    - CDC
+    - NIH
+    - CMS
   systems:
     AGX:
       name: Acquistions and Grants Exchange
@@ -312,12 +320,12 @@ CFPB:
   name: Consumer Financial Protection Bureau
   id: CFPB
   associated:
-  - Nikhil Rajpal
-  - Jordan Wick
-  - Jeremy Lewin
-  - Elon Musk
   - Luke Farritor
   - Gavin Kliger
+  - Jeremy Lewin
+  - Elon Musk
+  - Nikhil Rajpal
+  - Jordan Wick
   - Chris Young
   events:
   - date: 2025-02-06
@@ -569,9 +577,9 @@ CISA:
   id: CISA
   parent_id: DHS
   associated:
+  - Edward Coristine
   - Kyle Schutt
   - Chris Young
-  - Edward Coristine
   events:
   - date: 2025-02-19
     type: report
@@ -627,8 +635,8 @@ DOD:
   name: Department of Defense
   id: DOD
   associated:
-  - Elon Musk
   - Justin Fulcher
+  - Elon Musk
   events:
   - date: 2025-01-24
     type: disruption
@@ -681,9 +689,9 @@ DOI:
   name: Department of the Interior
   id: DOI
   associated:
-  - Bryton Shang
   - Tyler Hassen
   - Stephanie Holmes
+  - Bryton Shang
   - Katrine Trampe
   events:
   - date: 2025-01-28
@@ -754,7 +762,7 @@ DOI:
       date_filed: 2025-03-03
       link: https://www.courtlistener.com/docket/69698261/center-for-biological-diversity-v-us-department-of-interior/
       agency: DOI
-    1:25-cv-00643: &id002
+    1:25-cv-00643:
       name: Japanese American Citizens League v. Musk (D.D.C.)
       description: Plaintiffs allege that they are harmed by DOGE's cutting of federal funding and firing of federal employees, including in the work of the National Park Service and historic sites, and they are violating the separation of powers, Appointments Clause and Administrative Procedure Act
       case_no: 1:25-cv-00643
@@ -769,65 +777,65 @@ DOGE:
   id: DOGE
   parent_id: EOP
   associated:
-  - Ethan Shaotran
-  - Amy Gleason
-  - Katie Miller
-  - Michael Kratsios
-  - Kendall Lindemann
-  - Joshua Hanley
-  - Anthony Jancso
-  - Elon Musk
-  - Jordan Wick
-  - Erica Jehling
-  - Jacob Altik
-  - Tom Krause
-  - Gavin Kliger
-  - Nicholas Lahera
-  - Marko Elez
-  - Conor Fennessy
-  - Stephanie Holmes
-  - Scott Kupor
-  - Joe Gebbia
-  - Brooks Morgan
-  - Anthony Armstrong
-  - Adam Ramada
-  - Joanna Wischer
-  - Ashley Boizelle
-  - Mike Russo
-  - Noah Peters
-  - Kyle Schutt
-  - Antonio Gracias
-  - Akash Bobba
-  - Aram Moghaddassi
-  - Scott Langmack
-  - Baris Akis
-  - Keenan Kmiec
-  - Alexandra Beynon
-  - Jeremy Lewin
-  - James Burnham
-  - Derek Geissler
-  - Luke Farritor
-  - Steve Davis
-  - Justin Aimonetti
   - Daniel Abrahamson
-  - Riccardo Biasini
-  - Chris Young
-  - Riley Sennott
-  - Nikhil Rajpal
-  - Jared Birchall
-  - Rachel Riley
-  - Edward Coristine
-  - Shaun Maguire
+  - Justin Aimonetti
+  - Baris Akis
+  - Jacob Altik
   - Marc Andreessen
-  - Cole Killian
-  - Brad Smith
-  - Austin Raynor
+  - Anthony Armstrong
   - Jennifer Balajadia
+  - Alexandra Beynon
+  - Riccardo Biasini
+  - Jared Birchall
+  - Akash Bobba
+  - Ashley Boizelle
   - Emily Bryant
-  - Thomas Shedd
-  - Ryan Wunderly
-  - Christopher Stanley
+  - James Burnham
+  - Edward Coristine
+  - Steve Davis
+  - Marko Elez
+  - Luke Farritor
+  - Conor Fennessy
   - Joshua Fox
+  - Joe Gebbia
+  - Derek Geissler
+  - Amy Gleason
+  - Antonio Gracias
+  - Joshua Hanley
+  - Stephanie Holmes
+  - Anthony Jancso
+  - Erica Jehling
+  - Cole Killian
+  - Gavin Kliger
+  - Keenan Kmiec
+  - Michael Kratsios
+  - Tom Krause
+  - Scott Kupor
+  - Nicholas Lahera
+  - Scott Langmack
+  - Jeremy Lewin
+  - Kendall Lindemann
+  - Shaun Maguire
+  - Katie Miller
+  - Aram Moghaddassi
+  - Brooks Morgan
+  - Elon Musk
+  - Noah Peters
+  - Nikhil Rajpal
+  - Adam Ramada
+  - Austin Raynor
+  - Rachel Riley
+  - Mike Russo
+  - Kyle Schutt
+  - Riley Sennott
+  - Ethan Shaotran
+  - Thomas Shedd
+  - Brad Smith
+  - Christopher Stanley
+  - Jordan Wick
+  - Joanna Wischer
+  - Ryan Wunderly
+  - Chris Young
   events:
   - date: 2024-11-26
     type: report
@@ -1215,8 +1223,16 @@ DOGE:
       case_no: 1:25-cv-00527
       link: https://www.courtlistener.com/docket/69661712/project-on-government-oversight-inc-v-trump/
       agency: DOGE
-    1:25-cv-00643: *id002
-    1:25-cv-00660: &id006
+    1:25-cv-00643:
+      name: Japanese American Citizens League v. Musk (D.D.C.)
+      description: Plaintiffs allege that they are harmed by DOGE's cutting of federal funding and firing of federal employees, including in the work of the National Park Service and historic sites, and they are violating the separation of powers, Appointments Clause and Administrative Procedure Act
+      case_no: 1:25-cv-00643
+      date_filed: 2025-03-05
+      link: https://www.courtlistener.com/docket/69706944/japanese-american-citizens-league-v-musk/
+      agency:
+      - DOGE
+      - DOI
+    1:25-cv-00660:
       name: Brehm v. Marocco (D.D.C.)
       description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal and Marocco's appointment and requesting a temporary block.
       date_filed: 2025-03-06
@@ -1225,7 +1241,7 @@ DOGE:
       agency:
       - DOGE
       - USADF
-    1:25-cv-00804: &id007
+    1:25-cv-00804:
       name: United States Institute of Peace v. Jackson (D.D.C.)
       description: The USIP is suing the DOGE and members of its board for the unlawful seizure and shutdown of the agency following an executive order
       case_no: 1:25-cv-00804
@@ -1253,13 +1269,13 @@ DHS:
   name: Department of Homeland Security
   id: DHS
   associated:
-  - Antoine McCord
-  - Edward Coristine
   - James Burnham
-  - Brad Smith
+  - Edward Coristine
   - Steve Davis
   - Marko Elez
+  - Antoine McCord
   - Kyle Schutt
+  - Brad Smith
   - Chris Young
   events:
   - date: 2025-02-08
@@ -1294,7 +1310,7 @@ DHS:
     agency: DHS
   systems: {}
   cases:
-    1:25-cv-00624: &id004
+    1:25-cv-00624:
       name: Comans v. Department of Homeland Security (D.D.C.)
       description: Fired FEMA CEO Mary Comans Comans filed a complaint alleging that the actions of of the administration violated the Privacy https://www.aol.com/trump-energy-secretary-allowed-23-003504452.html
       date_filed: 2025-03-04
@@ -1334,15 +1350,15 @@ Education:
   name: Department of Education
   id: Education
   associated:
-  - Ethan Shaotran
-  - Alexandra Beynon
-  - Adam Ramada
-  - Edward Coristine
   - Jennifer Balajadia
-  - Luke Farritor
+  - Alexandra Beynon
   - Akash Bobba
+  - Edward Coristine
+  - Luke Farritor
   - Conor Fennessy
   - Brooks Morgan
+  - Adam Ramada
+  - Ethan Shaotran
   events:
   - date: 2025-01-24
     type: disruption
@@ -1503,7 +1519,7 @@ Education:
       date_filed: 2025-03-13
       link: https://www.courtlistener.com/docket/69732750/state-of-new-york-v-mcmahon/
       agency: Education
-    8:25-cv-00430: &id003
+    8:25-cv-00430:
       name: American Federation of Teachers et al v. Bessent et al (D. Md.)
       description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management ("OPM"), and the Department of Education ("DOE"), challenging the agencies' disclosure of sensitive personal information to Department of Government Efficiency ("DOGE") employees.
       case_no: 8:25-cv-00430
@@ -1518,8 +1534,8 @@ DOE:
   name: Department of Energy
   id: DOE
   associated:
-  - Adam Ramada
   - Luke Farritor
+  - Adam Ramada
   - Ryan Riedel
   events:
   - date: 2025-01-24
@@ -1573,17 +1589,17 @@ DOL:
   name: Department of Labor
   id: DOL
   associated:
-  - Adam Ramada
-  - Jordan Wick
-  - Elon Musk
   - Sam Beyda
-  - Cole Killian
-  - Derek Geissler
   - Miles Collins
-  - Keith Sonderling
   - Marko Elez
+  - Derek Geissler
+  - Cole Killian
   - Aram Moghaddassi
+  - Elon Musk
+  - Adam Ramada
   - Thomas Shedd
+  - Keith Sonderling
+  - Jordan Wick
   events:
   - date: 2025-01-24
     type: disruption
@@ -1719,13 +1735,13 @@ Treasury:
   name: Department of the Treasury
   id: Treasury
   associated:
+  - Baris Akis
+  - Sam Corcos
+  - Marko Elez
   - Gavin Kliger
   - Tom Krause
-  - Marko Elez
   - Aram Moghaddassi
-  - Sam Corcos
   - Ryan Wunderly
-  - Baris Akis
   events:
   - date: 2025-01-08
     type: official
@@ -2005,7 +2021,16 @@ Treasury:
       date_filed: 2025-02-07
       link: https://www.courtlistener.com/docket/69623558/state-of-new-york-v-donald-j-trump/
       agency: Treasury
-    8:25-cv-00430: *id003
+    8:25-cv-00430:
+      name: American Federation of Teachers et al v. Bessent et al (D. Md.)
+      description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management ("OPM"), and the Department of Education ("DOE"), challenging the agencies' disclosure of sensitive personal information to Department of Government Efficiency ("DOGE") employees.
+      case_no: 8:25-cv-00430
+      date_filed: 2025-02-10
+      link: https://www.courtlistener.com/docket/69627648/american-federation-of-teachers-v-scott-bessent/
+      agency:
+      - Education
+      - Treasury
+      - OPM
 
 DOT:
   name: Department of Transformation
@@ -2025,9 +2050,9 @@ EPA:
   name: Environmental Protection Agency
   id: EPA
   associated:
-  - Kathryn Armstrong Loving
-  - Cole Killian
   - Erica Jehling
+  - Cole Killian
+  - Kathryn Armstrong Loving
   events:
   - date: 2025-01-24
     type: disruption
@@ -2076,27 +2101,27 @@ EOP:
   name: Executive Office of the President
   id: EOP
   associated:
-  - Amy Gleason
-  - Katie Miller
-  - Jordan Wick
-  - Joshua Hanley
-  - Kendall Lindemann
+  - Justin Aimonetti
   - Jacob Altik
-  - Marko Elez
-  - Stephanie Holmes
-  - Adam Ramada
-  - Ashley Boizelle
-  - Noah Peters
-  - Keenan Kmiec
+  - Jennifer Balajadia
   - Alexandra Beynon
+  - Ashley Boizelle
   - James Burnham
   - Steve Davis
-  - Justin Aimonetti
-  - Chris Young
-  - Jennifer Balajadia
+  - Marko Elez
+  - Amy Gleason
+  - Joshua Hanley
+  - Stephanie Holmes
+  - Keenan Kmiec
+  - Kendall Lindemann
+  - Katie Miller
+  - Noah Peters
+  - Adam Ramada
   - Austin Raynor
   - Brad Smith
   - Christopher Stanley
+  - Jordan Wick
+  - Chris Young
   events: []
   systems: {}
   cases: {}
@@ -2106,10 +2131,10 @@ FAA:
   id: FAA
   parent_id: DOT
   associated:
-  - Thomas Kiernan
-  - Elon Musk
-  - Ted Malaska
   - Brady Glantz
+  - Thomas Kiernan
+  - Ted Malaska
+  - Elon Musk
   - Sam Smeal
   events:
   - date: 2025-02-05
@@ -2169,11 +2194,11 @@ FEMA:
   id: FEMA
   parent_id: DHS
   associated:
-  - Edward Coristine
   - James Burnham
-  - Brad Smith
+  - Edward Coristine
   - Steve Davis
   - Kyle Schutt
+  - Brad Smith
   events:
   - date: 2025-02-05
     type: onboarded
@@ -2209,7 +2234,15 @@ FEMA:
       sorn: https://www.federalregister.gov/documents/2022/07/11/2022-14673/privacy-act-of-1974-system-of-records
       agency: FEMA
   cases:
-    1:25-cv-00624: *id004
+    1:25-cv-00624:
+      name: Comans v. Department of Homeland Security (D.D.C.)
+      description: Fired FEMA CEO Mary Comans Comans filed a complaint alleging that the actions of of the administration violated the Privacy https://www.aol.com/trump-energy-secretary-allowed-23-003504452.html
+      date_filed: 2025-03-04
+      case_no: 1:25-cv-00624
+      link: https://www.courtlistener.com/docket/69702272/comans-v-department-of-homeland-security/
+      agency:
+      - DHS
+      - FEMA
 
 FHFA:
   name: Federal Housing Finance Agency
@@ -2240,9 +2273,9 @@ FCC:
   name: Federal Communications Commission
   id: FCC
   associated:
-  - Jordan Wick
-  - Tarak Makecha
   - Jacob Altik
+  - Tarak Makecha
+  - Jordan Wick
   events:
   - date: 2025-04-04
     type: report
@@ -2295,7 +2328,16 @@ FDA:
     event: HHS terminates a large number of staff at FDA in the name of cost savings and realignment, as the new head of FDA is sworn in
     source: https://www.nytimes.com/2025/04/01/us/politics/trump-federal-layoffs-health-food.html
     agency: FDA
-  - *id001
+  - date: 2025-04-01
+    type: disruption
+    event: HHS terminates 10,000 employees across many divisions (FDA, CDC, NIH, HHS) in the name of "bureaucratic realignment." Despite RFK's promises, the layoffs do include many scientists
+    source: https://www.npr.org/sections/shots-health-news/2025/04/01/g-s1-57485/hhs-fda-layoffs-doge-cdc-nih/
+    agency:
+    - HHS
+    - FDA
+    - CDC
+    - NIH
+    - CMS
   systems: {}
   cases: {}
 
@@ -2303,27 +2345,27 @@ GSA:
   name: General Services Administration
   id: GSA
   associated:
-  - Ethan Shaotran
-  - Frank Schuler
-  - Joshua Hanley
-  - Elon Musk
-  - Nate Cavanaugh
-  - Erica Jehling
-  - Adam Ramada
-  - Ashley Boizelle
-  - Nicole Hollander
-  - Akash Bobba
-  - Stephen Ehikian
-  - Jeremy Lewin
-  - Derek Geissler
-  - Luke Farritor
-  - Steve Davis
   - Justin Aimonetti
-  - Riley Sennott
+  - Akash Bobba
+  - Ashley Boizelle
+  - Nate Cavanaugh
   - Edward Coristine
+  - Steve Davis
+  - Stephen Ehikian
+  - Luke Farritor
+  - Derek Geissler
+  - Joshua Hanley
+  - Nicole Hollander
+  - Erica Jehling
   - Cole Killian
-  - Thomas Shedd
+  - Jeremy Lewin
+  - Elon Musk
+  - Adam Ramada
+  - Frank Schuler
   - Kyle Schutt
+  - Riley Sennott
+  - Ethan Shaotran
+  - Thomas Shedd
   events:
   - date: 2025-01-20
     type: onboarded
@@ -2480,19 +2522,19 @@ HHS:
   name: Health and Human Services
   id: HHS
   associated:
-  - Amy Gleason
-  - Jeremy Lewin
   - Edward Coristine
-  - Rachel Riley
-  - Elon Musk
-  - Clark Minor
-  - Brad Smith
-  - Luke Farritor
   - Marko Elez
-  - Aram Moghaddassi
+  - Luke Farritor
   - Conor Fennessy
   - Mattieu Gamache-Asselin
+  - Amy Gleason
+  - Jeremy Lewin
+  - Clark Minor
+  - Aram Moghaddassi
+  - Elon Musk
+  - Rachel Riley
   - Kyle Schutt
+  - Brad Smith
   events:
   - date: 2025-01-21
     type: onboarded
@@ -2672,7 +2714,16 @@ HHS:
     - Conor Fennessy
     - Jeremy Lewin
     agency: HHS
-  - *id001
+  - date: 2025-04-01
+    type: disruption
+    event: HHS terminates 10,000 employees across many divisions (FDA, CDC, NIH, HHS) in the name of "bureaucratic realignment." Despite RFK's promises, the layoffs do include many scientists
+    source: https://www.npr.org/sections/shots-health-news/2025/04/01/g-s1-57485/hhs-fda-layoffs-doge-cdc-nih/
+    agency:
+    - HHS
+    - FDA
+    - CDC
+    - NIH
+    - CMS
   systems:
     Grants.gov:
       name: Grants.gov
@@ -2701,8 +2752,8 @@ HUD:
   name: Housing and Urban Development
   id: HUD
   associated:
-  - Michael Mirski
   - Scott Langmack
+  - Michael Mirski
   - Ethan Shaotran
   events:
   - date: 2025-01-26
@@ -2837,9 +2888,9 @@ IMLS:
   name: Institute for Museum and Library Services
   id: IMLS
   associated:
-  - Keith Sonderling
   - Nate Cavanaugh
   - Gavin Hamrick
+  - Keith Sonderling
   events:
   - date: 2025-03-14
     type: official
@@ -2886,8 +2937,7 @@ IAF:
   associated:
   - Peter Marocco
   events:
-  - &id005
-    date: 2025-02-19
+  - date: 2025-02-19
     type: official
     event: Trump issues an Executive Order "Commencing the Reduction of the Federal Bureaucracy" targeting the Presidio Trust, the Inter-American Foundation, the United States African Development Foundation and the United States Institute of Peace for reductions.
     source: https://www.whitehouse.gov/presidential-actions/2025/02/commencing-the-reduction-of-the-federal-bureaucracy/
@@ -2941,9 +2991,9 @@ IRS:
   id: IRS
   parent_id: Treasury
   associated:
+  - Baris Akis
   - Sam Corcos
   - Gavin Kliger
-  - Baris Akis
   events:
   - date: 2025-02-13
     type: onboarded
@@ -3047,9 +3097,9 @@ NASA:
   name: National Aeronautics and Space Administration
   id: NASA
   associated:
+  - Scott Coulter
   - Riley Sennott
   - Alexander Simonpour
-  - Scott Coulter
   events:
   - date: 2025-02-14
     type: report
@@ -3135,11 +3185,11 @@ NIH:
   id: NIH
   parent_id: HHS
   associated:
+  - Luke Farritor
   - Joshua Hanley
   - Jeremy Lewin
-  - Rachel Riley
   - Clark Minor
-  - Luke Farritor
+  - Rachel Riley
   events:
   - date: 2025-02-24
     type: report
@@ -3186,7 +3236,16 @@ NIH:
     event: Access to purchase cards are restored at NIH for nonemergency purchases, but scientists face a huge backlog in processing orders for supplies.
     source: https://www.nytimes.com/2025/03/24/health/nih-doge-trump.html
     agency: NIH
-  - *id001
+  - date: 2025-04-01
+    type: disruption
+    event: HHS terminates 10,000 employees across many divisions (FDA, CDC, NIH, HHS) in the name of "bureaucratic realignment." Despite RFK's promises, the layoffs do include many scientists
+    source: https://www.npr.org/sections/shots-health-news/2025/04/01/g-s1-57485/hhs-fda-layoffs-doge-cdc-nih/
+    agency:
+    - HHS
+    - FDA
+    - CDC
+    - NIH
+    - CMS
   - date: 2025-04-01
     type: disruption
     event: HHS terminates a large number of staff at NIH in the name of cost savings and realignment, as the new head of NIH is sworn in
@@ -3246,33 +3305,33 @@ OPM:
   name: Office of Personnel Management
   id: OPM
   associated:
-  - Elon Musk
-  - Jacob Altik
-  - Gavin Kliger
-  - Brian Bjelde
-  - Stephanie Holmes
-  - Amanda Scales
-  - Scott Kupor
-  - Joe Gebbia
-  - Anthony Armstrong
-  - Noah Peters
-  - Charles Ezell
-  - Bryanne-Michelle Mlodzianowski
-  - Akash Bobba
-  - Greg Hogan
   - Baris Akis
-  - Justin Monroe
+  - Jacob Altik
+  - Anthony Armstrong
+  - Riccardo Biasini
+  - Brian Bjelde
+  - Akash Bobba
+  - Edward Coristine
+  - Steve Davis
+  - Stephen Duarte
+  - Charles Ezell
+  - Joe Gebbia
+  - Christina Hanna
+  - Greg Hogan
+  - Stephanie Holmes
+  - Gavin Kliger
+  - Scott Kupor
   - Jeremy Lewin
   - Tarak Makecha
-  - Steve Davis
-  - Riccardo Biasini
-  - Chris Young
+  - Bryanne-Michelle Mlodzianowski
+  - Justin Monroe
+  - Elon Musk
+  - Noah Peters
   - Nikhil Rajpal
-  - Edward Coristine
   - Austin Raynor
-  - Stephen Duarte
-  - Christina Hanna
+  - Amanda Scales
   - Christopher Stanley
+  - Chris Young
   events:
   - date: 2025-01-20
     type: onboarded
@@ -3541,7 +3600,16 @@ OPM:
       case_no: 3:25-cv-01780
       link: https://www.courtlistener.com/docket/69655364/american-federation-of-government-employees-afl-cio-v-united-states/
       agency: OPM
-    8:25-cv-00430: *id003
+    8:25-cv-00430:
+      name: American Federation of Teachers et al v. Bessent et al (D. Md.)
+      description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management ("OPM"), and the Department of Education ("DOE"), challenging the agencies' disclosure of sensitive personal information to Department of Government Efficiency ("DOGE") employees.
+      case_no: 8:25-cv-00430
+      date_filed: 2025-02-10
+      link: https://www.courtlistener.com/docket/69627648/american-federation-of-teachers-v-scott-bessent/
+      agency:
+      - Education
+      - Treasury
+      - OPM
 
 Peace:
   name: Peace Corps
@@ -3606,23 +3674,23 @@ SSA:
   name: Social Security Administration
   id: SSA
   associated:
-  - Ethan Shaotran
-  - Nikhil Rajpal
-  - Mike Russo
-  - Jon Koval
-  - Cole Killian
-  - Elon Musk
-  - Luke Farritor
   - Jacob Altik
-  - Scott Coulter
   - Brian Bjelde
-  - Antonio Gracias
   - Akash Bobba
+  - Scott Coulter
   - Steve Davis
-  - Marko Elez
-  - Payton Rehling
-  - Aram Moghaddassi
   - Leland Dudek
+  - Marko Elez
+  - Luke Farritor
+  - Antonio Gracias
+  - Cole Killian
+  - Jon Koval
+  - Aram Moghaddassi
+  - Elon Musk
+  - Nikhil Rajpal
+  - Payton Rehling
+  - Mike Russo
+  - Ethan Shaotran
   events:
   - date: 2025-01-30
     type: report
@@ -3962,10 +4030,10 @@ State:
   name: State Department
   id: State
   associated:
-  - Luke Farritor
-  - Tarak Makecha
-  - Jeremy Lewin
   - Edward Coristine
+  - Luke Farritor
+  - Jeremy Lewin
+  - Tarak Makecha
   events:
   - date: 2025-02-10
     event: Edward Coristine and Luke Farritor are posted to the State Department's Bureau of Diplomatic Technology
@@ -3982,14 +4050,21 @@ USADF:
   name: U.S. African Development Foundation
   id: USADF
   associated:
-  - Ethan Shaotran
-  - Nate Cavanaugh
-  - Jacob Altik
   - Justin Aimonetti
+  - Jacob Altik
+  - Nate Cavanaugh
   - Peter Marocco
+  - Ethan Shaotran
   - Chris Young
   events:
-  - *id005
+  - date: 2025-02-19
+    type: official
+    event: Trump issues an Executive Order "Commencing the Reduction of the Federal Bureaucracy" targeting the Presidio Trust, the Inter-American Foundation, the United States African Development Foundation and the United States Institute of Peace for reductions.
+    source: https://www.whitehouse.gov/presidential-actions/2025/02/commencing-the-reduction-of-the-federal-bureaucracy/
+    agency:
+    - IAF
+    - USADF
+    - USIP
   - date: 2025-02-19
     type: report
     event: USADF board member Ward Brehm becomes aware that his agency is going to be targeted by DOGE for elimination
@@ -4115,18 +4190,26 @@ USADF:
     agency: USADF
   systems: {}
   cases:
-    1:25-cv-00660: *id006
+    1:25-cv-00660:
+      name: Brehm v. Marocco (D.D.C.)
+      description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal and Marocco's appointment and requesting a temporary block.
+      date_filed: 2025-03-06
+      case_no: 1:25-cv-00660
+      link: https://www.courtlistener.com/docket/69711562/brehm-v-marocco/
+      agency:
+      - DOGE
+      - USADF
 
 USAID:
   name: US Agency for International Development
   id: USAID
   associated:
-  - Jeremy Lewin
   - Edward Coristine
   - Luke Farritor
-  - Gavin Kliger
-  - Peter Marocco
   - Kenneth Jackson
+  - Gavin Kliger
+  - Jeremy Lewin
+  - Peter Marocco
   events:
   - date: 2025-01-27
     type: report
@@ -4272,10 +4355,10 @@ USCIS:
   id: USCIS
   parent_id: DHS
   associated:
+  - Edward Coristine
+  - Aram Moghaddassi
   - Payton Rehling
   - Kyle Schutt
-  - Aram Moghaddassi
-  - Edward Coristine
   events:
   - date: 2025-03-15
     type: access_granted
@@ -4349,14 +4432,21 @@ USIP:
   name: US Institute of Peace
   id: USIP
   associated:
+  - Justin Aimonetti
+  - Jacob Altik
   - James Burnham
   - Nate Cavanaugh
-  - Jacob Altik
-  - Justin Aimonetti
-  - Kenneth Jackson
   - Stephen Ehikian
+  - Kenneth Jackson
   events:
-  - *id005
+  - date: 2025-02-19
+    type: official
+    event: Trump issues an Executive Order "Commencing the Reduction of the Federal Bureaucracy" targeting the Presidio Trust, the Inter-American Foundation, the United States African Development Foundation and the United States Institute of Peace for reductions.
+    source: https://www.whitehouse.gov/presidential-actions/2025/02/commencing-the-reduction-of-the-federal-bureaucracy/
+    agency:
+    - IAF
+    - USADF
+    - USIP
   - date: 2025-02-24
     type: report
     event: USIP leadership meets with DOGE staff to explain history and legal status of the agency
@@ -4506,18 +4596,26 @@ USIP:
     agency: USIP
   systems: {}
   cases:
-    1:25-cv-00804: *id007
+    1:25-cv-00804:
+      name: United States Institute of Peace v. Jackson (D.D.C.)
+      description: The USIP is suing the DOGE and members of its board for the unlawful seizure and shutdown of the agency following an executive order
+      case_no: 1:25-cv-00804
+      link: https://www.courtlistener.com/docket/69754533/united-states-institute-of-peace-v-jackson/
+      date_filed: 2025-03-18
+      agency:
+      - USIP
+      - DOGE
 
 USDS:
   name: US Digital Service
   id: USDS
   parent_id: EOP
   associated:
+  - Edward Coristine
+  - Marko Elez
+  - Luke Farritor
   - Amy Gleason
   - Kendall Lindemann
-  - Edward Coristine
-  - Luke Farritor
-  - Marko Elez
   - Kyle Schutt
   events: []
   systems: {}
@@ -4545,10 +4643,10 @@ VA:
   name: Veterans Administration
   id: VA
   associated:
+  - Justin Fulcher
   - Jon Koval
   - Sahil Lavingia
   - Payton Rehling
-  - Justin Fulcher
   - Christopher Roussos
   - Cary Volpert
   events:

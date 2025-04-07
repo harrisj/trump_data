@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=schemas/roundups-file.json
+# yaml-language-server: $schema=../schemas/roundups-file.json
 - title: The People Carrying Out Musk's Plans at DOGE
   source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
   last_updated: 2025-04-01
