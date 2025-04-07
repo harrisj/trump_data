@@ -1,0 +1,140 @@
+sources:
+- url: nytimes.com
+  name: The New York Times
+  type: media
+
+- url: propublica.org
+  name: ProPublica
+  type: media
+
+- url: fox5atlanta.com
+  name: Fox 5 Atlanta
+  type: media
+
+- url: motherjones.com
+  name: Mother Jones
+  type: media
+
+- url: theatlantic.com
+  name: The Atlantic
+  type: media
+
+- url: wsj.com
+  name: The Wall Street Journal
+  type: media
+
+- url: govexec.com
+  name: GovExec
+  type: media
+
+- url: wired.com
+  name: Wired Magazine
+  type: media
+
+- url: bloomberglaw.com
+  name: Bloomberg Law
+  type: media
+
+- url: courtlistener.com
+  name: Court documents
+  type: legal
+
+- url: forbes.com
+  name: Forbes
+  type: media
+
+- url: theverge.com
+  name: The Verge
+  type: media
+
+- url: nbcnews.com
+  name: NBC News
+  type: media
+
+- url: msn.com
+  name: MSNBC
+  type: media
+
+- url: washingtonpost.com
+  name: The Washington Post
+  type: media
+
+- url: foxnews.com
+  name: FOX News
+  type: media
+
+- url: usatoday.com
+  name: USA Today
+  type: media
+
+- url: cnn.com
+  name: CNN
+  type: media
+
+- url: reuters.com
+  name: Reuters
+  type: media
+
+- url: nextgov.com
+  name: NextGov
+  type: media
+
+- url: whitehouse.gov
+  name: The White House
+  type: official
+
+- url: newsweek.com
+  name: Newsweek
+  type: media
+
+- url: businessinsider.com
+  name: Business Insider
+  type: media
+
+- url: theguardian.com
+  name: The Guardian
+  type: media
+
+- url: fedscoop.com
+  name: FedScoop
+  type: media
+
+- url: emptywheel.net
+  name: Empty Wheel
+  type: media
+
+- url: politico.com
+  name: Politico
+  type: media
+
+- url: bloomberg.com
+  name: Bloomberg
+  type: media
+
+- url: eenews.net
+  name: E&E News
+  type: media
+
+- url: 404media.co
+  name: 404 media
+  type: media
+
+- url: executivegov.com
+  name: ExecutiveGov
+  type: media
+
+- url: artnet.com
+  name: ArtNet
+  type: media
+
+- url: npr.org
+  name: NPR
+  type: media
+
+- url: newrepublic.com
+  name: The New Republic
+  type: media
+
+- url: cbsnews.com
+  name: CBS News
+  type: media
