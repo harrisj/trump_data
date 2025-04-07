@@ -1243,7 +1243,9 @@
 - date: 2025-02-13
   type: onboarded
   event: According to a sworn declaration by a Deputy Commissioner at SSA, an unindentified DOGE staffer (Employee 1) is onboarded for "duties currently relate to improper payments and SSA's Death Master File" and they are also planning to detail him to the Small Business Administration
-  comment: This is likely Edward Coristine, given testimony he was detailed from HHS to SBA
+  named:
+  - Edward Coristine
+  comment: I am guessing this is Edward Coristine, given testimony he was detailed from HHS to SBA
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
   agency: SSA
 
@@ -1513,6 +1515,9 @@
   onboard_type: detailed
   detailed_from: NASA
   event: According to a sworn declaration, SSA "began onboarding and training Employee 2, Senior Advisor (Program Specialist AD-0301-00). He is in the process of being detailed from National Aeronautics and Space Administration (NASA) to SSA."
+  comment: This is likely Scott Coulter based on DOGE staff who have been linked to both NASA and SSA by other reports
+  named:
+  - Scott Coulter
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
   agency: SSA
 
@@ -1582,7 +1587,8 @@
   type: onboarded
   onboard_type: detailed
   detailed_from: GSA
-  event: According to a sworn declaration, "Employee 10, a software engineer, was detailed from the Office of the Administrator at the General Services Administration to SSA" (possibly Ehtan Shaotran)
+  event: According to a sworn declaration, "Employee 10, a software engineer, was detailed from the Office of the Administrator at the General Services Administration to SSA"
+  comment: I am guessing this is Ethan Shaotran based on coming from GSA and earlier identification at the agency
   named:
   - Ethan Shaotran
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
