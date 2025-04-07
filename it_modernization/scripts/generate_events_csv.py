@@ -1,6 +1,6 @@
 import yaml
 import csv
-from util import read_yaml, agency_as_array
+from util import read_yaml, as_list
     
 # Function to read a YAML file
 def generate_events_yaml():
@@ -22,11 +22,11 @@ def generate_events_yaml():
         else:
             named = []
 
-        for agency_id in agency_as_array(event['agency']):
+        for agency_id in as_list(event['agency']):
             out.append({'agency': agencies[agency_id]['name'], 'agency_id': agency_id, 'event': event['event'], 'type': event['type'], 'date': event['date'], 'source': source, 'named': ', '.join(named)})
 
     for case in cases_yaml:
-        for agency_id in agency_as_array(event['agency']):
+        for agency_id in as_list(event['agency']):
             out.append({'agency': agencies[agency_id]['name'], 'agency_id': agency_id, 'event': f'{agency_id} named as defendant in new lawsuit {case["name"]} (Case No {case["case_no"]})', 'type': 'legal', 'date': case['date_filed'], 'named': None, 'source': case['link']})
 
     return sorted(out, key=lambda x: (x['date']))

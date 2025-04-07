@@ -1,7 +1,7 @@
 import yaml
 from typing import Union, List, Any
 from datetime import date
-from util import read_yaml, agency_as_array, MyYamlDumper
+from util import read_yaml, as_list, MyYamlDumper
 
 def generate_people_comprehensive_yaml():
     agencies_yaml = read_yaml('./data/agencies.yaml')
@@ -15,7 +15,7 @@ def generate_people_comprehensive_yaml():
 
     for roundup in roundup_yaml:
         for person, agency_ids in roundup['people'].items():
-            for agency_id in agency_as_array(agency_ids):
+            for agency_id in as_list(agency_ids):
                 if person not in out:
                     out[person] = {"agencies": set(), "events": []}
                 
@@ -27,7 +27,7 @@ def generate_people_comprehensive_yaml():
                 if person not in out:
                     out[person] = {"agencies": set(), "events": []}
 
-                for agency_id in agency_as_array(event['agency']):
+                for agency_id in as_list(event['agency']):
                     out[person]['agencies'].add(agencies[agency_id]["name"])
                     out[person]['events'].append({'name': person, 'agency': agency_id, 'date': event['date'], 'event': event['event'], 'source': event['source']})
 

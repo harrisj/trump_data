@@ -6,11 +6,11 @@ def read_yaml(file_path:str) -> Any:
     with open(file_path, 'r') as file:
         return yaml.safe_load(file)
     
-def agency_as_array(agency: Union[str, List[str]]) -> List[str]:
-    if isinstance(agency, str):
-        return [agency]
+def as_list(l: Union[str, List[str]]) -> List[str]:
+    if isinstance(l, str):
+        return [l]
     else:
-        return agency
+        return l
     
 def sorted_by_last_name(l: Any) -> List:
     out = list(l)
