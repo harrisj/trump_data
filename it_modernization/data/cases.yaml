@@ -1,0 +1,274 @@
+# yaml-language-server: $schema=../schemas/cases-file.json
+- name: New Mexico et al v. Musk (D.D.C.)
+  description: Fourteen states sued Elon Musk and the Department of Government Efficiency ("DOGE") alleging that Musk's appointment to his role as head of DOGE violates the Constitution's Appointments Clause
+  case_no: 1.25-cv-00429
+  date_filed: 2025-02-13
+  link: https://www.courtlistener.com/docket/69638651/new-mexico-state-of-v-musk/
+  agency: DOGE
+
+- name: Public Citizen Inc et al v. Donald J. Trump and Office of Management and Budget (D.D.C.)
+  description: Two advocacy organizations and the American Federation of Government Employees sued that DOGE creation violated the Federal Advisory Committee Act
+  case_no: 1:25-cv-00164
+  date_filed: 2025-01-20
+  link: https://www.courtlistener.com/docket/69559444/public-citizen-inc-v-trump/
+  status: closed
+  agency: DOGE
+
+- name: Center for Biological Diversity v. Office of Management and Budget (D.D.C.)
+  description: The Center for Biological Diversity sued the Office of Management and Budget under the Freedom of Information Act, demanding records related to communications between OMB and DOGE's leadership or those acting on its behalf.
+  case_no: 1:25-cv-00165
+  date_filed: 2025-01-20
+  link: https://www.courtlistener.com/docket/69559509/center-for-biological-diversity-v-office-of-management-and-budget/
+  agency: DOGE
+
+- name: Jane Does 1-2 v. Office of Personnel Management (D.D.C.)
+  description: Two federal employees brought a class action lawsuit against alleging OPM did not do a required Privacy Impact Assessment when installing the Govenrnment-Wide Email System (GWES)
+  case_no: 1:25-cv-00234
+  date_filed: 2025-01-27
+  link: https://www.courtlistener.com/docket/69582338/doe-v-office-of-personnel-management/
+  agency: OPM
+
+- name: Electronic Privacy Information Center v. U.S. Office of Personnel Management (E.D.V.A.)
+  description: The Electronic Privacy Information Center ("EPIC") and a federal employee sued the Office of Personnel Management ("OPM") and the Treasury Department, challenging the agencies' disclosure of sensitive personal information to Department of Government Efficiency ("DOGE") employees. The court denied their request to block DOGE's access because the possible scenarios for harm were too speculative.
+  case_no: 1:25-cv-00255
+  date_filed: 2025-02-10
+  link: https://www.courtlistener.com/docket/69627950/electronic-privacy-information-center-v-us-office-of-personnel/
+  agency: OPM
+
+- name: Alliance for Retired Americans v. Scott Bessent et al (D.D.C.)
+  description: A group of labor unions representing federal employees sued Secretary of the Treasury Scott Bessent and others alleging that individuals affiliated with the Department of Government Efficiency ("DOGE") were granted unauthorized access to sensitive Treasury Department records in violation of the Privacy Act and the IRS Code. Both parties agreed to an order limiting access to Treasury payment records to specific individuals with "read-only" access.
+  case_no: 1:25-cv-00313
+  date_filed: 2025-02-03
+  link: https://www.courtlistener.com/docket/69607077/alliance-for-retired-americans-v-bessent/
+  agency: Treasury
+
+- name: AFL-CIO v. Dep't of Labor (D.D.C.)
+  description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed in particular on the Economy Act claims.
+  case_no: 1:25-cv-00339
+  date_filed: 2025-02-05
+  link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+  agency: DOL
+
+- name: Government Accountability Project v. Office of Personnel Management (D.D.C.)
+  description: Lawsuit alleging that OPM attempt to reclassify status of federal employees illegally bypassed Administrative Procedures Act
+  case_no: 1:25-cv-00347
+  date_filed: 2025-02-06
+  link: https://www.courtlistener.com/docket/69617919/government-accountability-project-v-united-states-office-of-personnel/
+  agency: OPM
+
+- name: American Foreign Service Association v. Trump (D.D.C.)
+  description: Two unions sued the Trump administration, challenging its efforts to dismantle the United States Agency for International Development ("USAID"). The unions argue that the efforts are unconstitutional, violate federal law, and exceed the scope of agency authority.
+  date_filed: 2025-02-06
+  case_no: 1:25-cv-00352
+  link: https://www.courtlistener.com/docket/69619544/american-federation-of-government-employees-v-trump/
+  agency: USAID
+
+- name: University of California Student Assn. v. Carter et al
+  description: The University of California Student Association sued the Department of Education seeking to block the Department of Government Efficiency's ("DOGE's") access to sensitive information systems containing student data on the basis that such access violates the Administrative Procedure Act, the Privacy Act, and the Internal Revenue Code. A federal court denied the request to temporarily block DOGE's access while the case proceeds.
+  case_no: 1:25-cv-00354
+  date_filed: 2025-02-07
+  link: https://www.courtlistener.com/docket/69620025/university-of-california-student-association-v-carter/
+  agency: Education
+
+- name: National Treasury Employees Union v. Russell Vought (D.D.C.)
+  description: The National Treasury Employees Union sued Acting Director of the Consumer Financial Protection Bureau ("CFPB") Russell Vought seeking to block the Department of Government Efficiency's ("DOGE's") access to sensitive information systems with CFPB employee records on the basis that the CFPB's decision to grant DOGE-affiliated individuals access to employee information and non-classified systems violated the Privacy Act and CFPB regulations.
+  case_no: 1:25-cv-00380
+  date_filed: 2025-02-09
+  link: https://www.courtlistener.com/docket/69624412/national-treasury-employees-union-v-vought/
+  agency: CFPB
+
+- name: National Treasury Employees Union v. Russell Vought (D.D.C.)
+  description: National Treasury Employees Union, representing employees across 37 federal agencies and departments including the Consumer Financial Protection Bureau ("CFPB"), challenged the Trump Administration's efforts to shut down the CFPB and requested a temporary restraining order against the CFPB and Acting Director Russell Vought. A federal judge ordered the Administration to stop deleting and removing records, terminating employees without cause, or disbursing funds except for operating expenses, while the case proceeds.
+  case_no: 1:25-cv-00381
+  date_filed: 2025-02-09
+  link: https://www.courtlistener.com/docket/69624423/national-treasury-employees-union-v-vought/
+  agency: CFPB
+
+- name: Nemeth-Greenleaf, et al. v. Office of Personnel Management, et al. (D.D.C.)
+  description: Federal employees have sued the Office of Personnel Management ("OPM") and the Treasury, challenging the agencies' disclosure of personal, health, and financial information to the Department of Government Efficiency's ("DOGE") employees. The plaintiffs argue the disclosure violates federal laws. They have asked the court to stop further disclosure and compensation for harm.
+  date_filed: 2025-02-11
+  case_no: 1:25-cv-00407
+  link: https://www.courtlistener.com/docket/69629660/nemeth-greenleaf-v-united-states-office-of-personnel-management/
+  agency: OPM
+
+- name: American Oversight v. Department of Government Efficiency (D.D.C.)
+  description: The complaint seeks declaratory and injunctive relief compelling DOGE and OMB to comply with FOIA requests pertaining to communications by Elon Musk and other staff concerning the dismissal of Inspectors General
+  date_filed: 2025-02-11
+  case_no: 1:25-cv-00409
+  link: https://www.courtlistener.com/docket/69630062/oversight-v-efficiency/
+  agency: DOGE
+
+- name: Gribbon et al. v. Musk (D.D.C.)
+  description: Six individuals sued Elon Musk, the Office of Personnel Management ("OPM"), and the Treasury for sharing personal information. The plaintiffs argue that by sharing their private information, Musk and the agencies violated federal laws.
+  date_filed: 2025-02-12
+  case_no: 1:25-cv-00422
+  link: https://www.courtlistener.com/docket/69635650/gribbon-v-musk/
+  agency: DOGE
+
+- name: Gribbon et al. v. Musk (D.D.C.)
+  description: Six individuals sued Elon Musk, the Office of Personnel Management ("OPM"), and the Treasury for sharing personal information. The plaintiffs argue that by sharing their private information, Musk and the agencies violated federal laws.
+  date_filed: 2025-02-12
+  case_no: 1:25-cv-00422
+  link: https://www.courtlistener.com/docket/69635650/gribbon-v-musk/
+  agency: Treasury
+
+- name: Gribbon et al. v. Musk (D.D.C.)
+  description: Six individuals sued Elon Musk, the Office of Personnel Management ("OPM"), and the Treasury for sharing personal information. The plaintiffs argue that by sharing their private information, Musk and the agencies violated federal laws.
+  date_filed: 2025-02-12
+  case_no: 1:25-cv-00422
+  link: https://www.courtlistener.com/docket/69635650/gribbon-v-musk/
+  agency: OPM
+
+- name: Center for Taxpayer Rights v. IRS (D.D.C)
+  description: Several organizations, on behalf of taxpayers, sued the Internal Revenue Service ("IRS") and the Treasury, challenging the access to private tax information the agencies gave to the Department of Government Efficiency's ("DOGE")
+  date_filed: 2025-02-17
+  case_no: 1:25-cv-00457
+  link: https://www.courtlistener.com/docket/69646607/center-for-taxpayer-rights-v-internal-revenue-service/
+  agency: IRS
+
+- name: Citizens For Responsibility and Ethics in Washington (CREW) vs. DOGE Service (D.D.C.)
+  description: Plaintiff claims that the United States DOGE Service (USDS) "has provided no meaningful transparency into its operations or assurances that it is maintaining proper records." The complaint alleges that Defendants have refused to comply with FOIA requests for records and demands for records preservation under the Federal Records Act (FRA).
+  case_no: 1:25-cv-00511
+  date_filed: 2025-02-20
+  link: https://www.courtlistener.com/docket/69658871/citizens-for-responsibility-and-ethics-in-washington-v-us-doge-service/
+  agency: DOGE
+
+- name: Project on Government Oversight, Inc. v. Trump (D.D.C)
+  description: Plaintiff alleges that DOGE has "run roughshod over record keeping requirements," including by misclassifying agency records as covered by the Presidential Records Act (rather than the Freedom of Information Act) and requiring partner agencies to notify DOGE of any oversight requests related to DOGE's work.
+  date_filed: 2025-02-21
+  case_no: 1:25-cv-00527
+  link: https://www.courtlistener.com/docket/69661712/project-on-government-oversight-inc-v-trump/
+  agency: DOGE
+
+- name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
+  description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency ("DOGE"), challenging the access to sensitive personal data of millions of Americans which SSA gave to https://www.nytimes.com/2025/02/05/us/politics/elon-musk-doge-faa.html
+  date_filed: 2025-02-21
+  case_no: 1:25-cv-00596
+  link: https://www.courtlistener.com/docket/69664313/american-federation-of-state-county-and-municipal-employees-afl-cio-v/
+  agency: SSA
+
+- name: Center for Biological Diversity v. U.S. Department of Interior (D.D.C.)
+  description: Plaintiffs, a nonprofit organization focused on habitat preservation for endangered species, alleges that DOGE and the Department of Interior have violated the Administrative Procedures Act by failing to follow Federal Advisory Committee Act (FACA) requirements
+  case_no: 1:25-cv-00612
+  date_filed: 2025-03-03
+  link: https://www.courtlistener.com/docket/69698261/center-for-biological-diversity-v-us-department-of-interior/
+  agency: DOI
+
+- name: Comans v. Department of Homeland Security (D.D.C.)
+  description: Fired FEMA CEO Mary Comans Comans filed a complaint alleging that the actions of of the administration violated the Privacy https://www.aol.com/trump-energy-secretary-allowed-23-003504452.html
+  date_filed: 2025-03-04
+  case_no: 1:25-cv-00624
+  link: https://www.courtlistener.com/docket/69702272/comans-v-department-of-homeland-security/
+  agency: [ DHS, FEMA ]
+
+- name: Japanese American Citizens League v. Musk (D.D.C.)
+  description: Plaintiffs allege that they are harmed by DOGE's cutting of federal funding and firing of federal employees, including in the work of the National Park Service and historic sites, and they are violating the separation of powers, Appointments Clause and Administrative Procedure Act
+  case_no: 1:25-cv-00643
+  date_filed: 2025-03-05
+  link: https://www.courtlistener.com/docket/69706944/japanese-american-citizens-league-v-musk/
+  agency: [ DOGE, DOI ]
+
+- name: Brehm v. Marocco (D.D.C.)
+  description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal and Marocco's appointment and requesting a temporary block.
+  date_filed: 2025-03-06
+  case_no: 1:25-cv-00660
+  link: https://www.courtlistener.com/docket/69711562/brehm-v-marocco/
+  agency: [ DOGE, USADF ]
+
+- name: Centro de Trabajadores Unidos v. Bessent (D.D.C)
+  description: Plaintiffs allege Trump administration is illegally looking to share tax information with DHS, ICE, etc.
+  case_no: 1:25-cv-00677
+  date_filed: 2025-03-07
+  link: https://www.courtlistener.com/docket/69714586/centro-de-trabajadores-unidos-v-bessent/
+  agency: Treasury
+
+- name: Democracy Forward Foundation v. U.S. Department of the Treasury (D.D.C.)
+  description: On Jan. 31 and Feb. 6, 2025, Democracy Forward filed several FOIA requests with the Department of the Treasury, Department of Education, and Small Business Administration, seeking documents from Jan. 20, 2025 onwards following allegations that DOGE staffers and DOGE-affiliated staff "were influencing important functions and policy decisions at agencies across the Executive Branch." These agencies acknowledged receipt but sent no further communications. The Plaintiff states these agencies failed to respond within the statutorily mandated time period under FOIA
+  date_filed: 2025-03-07
+  case_no: 1:25-cv-00684
+  link: https://www.courtlistener.com/docket/69715653/democracy-forward-foundation-v-us-department-of-the-treasury/
+  agency: Education
+
+- name: Democracy Forward Foundation v. U.S. Department of the Treasury (D.D.C.)
+  description: On Jan. 31 and Feb. 6, 2025, Democracy Forward filed several FOIA requests with the Department of the Treasury, Department of Education, and Small Business Administration, seeking documents from Jan. 20, 2025 onwards following allegations that DOGE staffers and DOGE-affiliated staff "were influencing important functions and policy decisions at agencies across the Executive Branch." These agencies acknowledged receipt but sent no further communications. The Plaintiff states these agencies failed to respond within the statutorily mandated time period under FOIA
+  date_filed: 2025-03-07
+  case_no: 1:25-cv-00684
+  link: https://www.courtlistener.com/docket/69715653/democracy-forward-foundation-v-us-department-of-the-treasury/
+  agency: Treasury
+
+- name: Democracy Forward Foundation v. U.S. Department of the Treasury (D.D.C.)
+  description: On Jan. 31 and Feb. 6, 2025, Democracy Forward filed several FOIA requests with the Department of the Treasury, Department of Education, and Small Business Administration, seeking documents from Jan. 20, 2025 onwards following allegations that DOGE staffers and DOGE-affiliated staff "were influencing important functions and policy decisions at agencies across the Executive Branch." These agencies acknowledged receipt but sent no further communications. The Plaintiff states these agencies failed to respond within the statutorily mandated time period under FOIA
+  date_filed: 2025-03-07
+  case_no: 1:25-cv-00684
+  link: https://www.courtlistener.com/docket/69715653/democracy-forward-foundation-v-us-department-of-the-treasury/
+  agency: SBA
+
+- name: United States Institute of Peace v. Jackson (D.D.C.)
+  description: The USIP is suing the DOGE and members of its board for the unlawful seizure and shutdown of the agency following an executive order
+  case_no: 1:25-cv-00804
+  link: https://www.courtlistener.com/docket/69754533/united-states-institute-of-peace-v-jackson/
+  date_filed: 2025-03-18
+  agency: [ USIP, DOGE ]
+
+- name: National Treasury Employees Union v. Donald J. Trump
+  description: The union is suing the Donald Trump along with Charles Ezell at the OPM about a recent executive order made by Trump that attempts to dissolve government labor unions at many major agencies like the GSA and FDA by claiming they are intelligence-related.
+  date_filed: 2025-03-31
+  case_no: 1:25-cv-00935
+  link: https://www.courtlistener.com/docket/69821136/national-treasury-employees-union-v-donald-j-trump/
+  agency: OPM
+
+- name: New York et al v. Donald J. Trump (S.D.N.Y.)
+  description: Nineteen state attorneys general sued President Donald Trump and Secretary of the Treasury Scott Bessent alleging that individuals affiliated with the Department of Government Efficiency ("DOGE") were granted unauthorized access to sensitive Treasury Department records in violation of the Administrative Procedure Act, the Privacy Act, and other ethics statutes.
+  case_no: 1:25-cv-01144-JAV
+  date_filed: 2025-02-07
+  link: https://www.courtlistener.com/docket/69623558/state-of-new-york-v-donald-j-trump/
+  agency: Treasury
+
+- name: American Federation of Government Employees, et al. v. Office of Personnel Management et al (S.D.N.Y)
+  description: The American Federation of Government Employees and other plaintiffs sued the Office of Personnel Management ("OPM"), challenging the agencies' alleging unlawful disclosure of sensitive personal information to Department of Government Efficiency (DOGE) employees.
+  case_no: 1:25-cv-01237
+  date_filed: 2025-02-11
+  link: https://www.courtlistener.com/docket/69631573/unknown-case-title/
+  agency: OPM
+
+- name: The Intercept Media, Inc. v. United States Department of Government Efficiency (S.D.N.Y.)
+  description: Plaintiff is suing DOGE to comply with five FOIA requests made during March 2025
+  date_filed: 2025-03-24
+  case_no: 1:25-cv-02404
+  link: https://www.courtlistener.com/docket/69780037/the-intercept-media-inc-v-united-states-department-of-government/
+  agency: DOGE
+
+- name: American Federation of Gov't Employees, AFL-CIO v. Ezell (D. Mass)
+  description: Multiple labor unions sued the Office of Personnel Management ("OPM"), challenging the legality of the "deferred resignation" offer program.
+  date_filed: 2025-02-04
+  case_no: 1:25-cv-10276
+  link: https://www.courtlistener.com/docket/69610323/american-federation-of-government-employees-afl-cio-v-ezell/
+  agency: OPM
+
+- name: State of New York v. McMahon (D.Mass)
+  description: Twenty states and the District of Columbia requested the court to halt the announced Department of Education and the Trump administration's planned Reduction in Force (RIF) of half of the remaining employees and closure of the DOE.
+  case_no: 1:25-cv-10601
+  date_filed: 2025-03-13
+  link: https://www.courtlistener.com/docket/69732750/state-of-new-york-v-mcmahon/
+  agency: Education
+
+- name: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
+  description: A lawsuit by several labor unions challenging the validity of the OPM terminating federal employees en masse and demand updates to the five points email.
+  date_filed: 2025-02-19
+  case_no: 3:25-cv-01780
+  link: https://www.courtlistener.com/docket/69655364/american-federation-of-government-employees-afl-cio-v-united-states/
+  agency: OPM
+
+- name: American Federation of Teachers et al v. Bessent et al (D. Md.)
+  description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management ("OPM"), and the Department of Education ("DOE"), challenging the agencies' disclosure of sensitive personal information to Department of Government Efficiency ("DOGE") employees.
+  case_no: 8:25-cv-00430
+  date_filed: 2025-02-10
+  link: https://www.courtlistener.com/docket/69627648/american-federation-of-teachers-v-scott-bessent/
+  agency: [ Education, Treasury, OPM ]
+
+- name: J. Doe 1-26 v. Musk (D. Md)
+  description: Twenty-six current and former employees of the U.S. Agency for International Development ("USAID") sued Elon Musk and the Department of Government Efficiency ("DOGE") alleging that Musk's appointment to his role as head of DOGE violates the Constitution's Appointments Clause
+  case_no: 8:25-cv-00462-TDC
+  date_filed: 2025-02-13
+  link: https://www.courtlistener.com/docket/69636722/does-1-26-v-musk/
+  agency: DOGE

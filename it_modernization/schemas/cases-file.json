@@ -1,0 +1,7 @@
+{
+    "type": "array",
+    "description": "All cases that might be relevant to various agencies",
+    "items": {
+        "$ref": "case.json"
+    }
+}

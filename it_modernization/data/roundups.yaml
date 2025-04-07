@@ -1,0 +1,279 @@
+# yaml-language-server: $schema=../schemas/roundups-file.json
+- title: The People Carrying Out Musk's Plans at DOGE
+  source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
+  last_updated: 2025-04-01
+  publisher: The New York Times
+  people:
+    Steve Davis: [ OPM, GSA, DHS, FEMA ]
+    Brad Smith: [ DHS, FEMA ]
+    Amy Gleason: [ CMS, HHS, USDS ]
+    Chris Young: [ OPM, CFPB, CISA, DHS ]
+    Amanda Scales: OPM
+    Katie Miller: DOGE
+    Riccardo Biasini: OPM
+    Anthony Armstrong: OPM
+    Jennifer Balajadia: Education
+    Adam Ramada: [ GSA, Education, DOL ]
+    Brooks Morgan: Education
+    Scott Langmack: HUD
+    Jeremy Lewin: [ GSA, State, USAID, CFPB ]
+    Justin Fulcher: VA
+    Michael Mirski: [ HUD, FHFA ]
+    Tyler Hassen: DOI
+    Tarak Makecha: [ OPM, State ]
+    Rachel Riley: HHS
+    Conor Fennessy: Education
+    Tom Krause: Treasury
+    Marko Elez: [ Treasury, SSA, DOL, HHS, USDS, CBP, ICE, DHS ]
+    Ryan Wunderly: Treasury
+    Edward Coristine: [ GSA, USAID, Education, HHS, USDS, DHS ]
+    Luke Farritor: [ GSA, USAID, CDC, CMS, SSA, Energy, Education, HHS, USDS, CFPB ]
+    Christopher Stanley: [ DOJ, OPM ]
+    Ethan Shaotran: [ GSA, SSA, Education ]
+    Alexandra Beynon: Education
+    Gavin Kliger: [ OPM, Treasury, Commerce, USAID, CFPB, IRS, USDA ]
+    Jordan Wick: CFPB
+    Aram Moghaddassi: [ SSA, Treasury ]
+    Cole Killian: [ SSA, EPA ]
+    Greg Hogan: OPM
+    Ryan Riedel: Energy
+    Nate Cavanaugh: GSA
+    Nikhil Rajpal: [ OPM, SSA, NOAA, CFPB ]
+    Akash Bobba: [ OPM, GSA, SSA ]
+    Kyle Schutt: [ GSA, HHS, USDS, DHS, FEMA ]
+    James Burnham: [ DHS, FEMA ]
+    Brian Bjelde: OPM
+    Kendall Lindemann: USDS
+    Stephanie Holmes: [ OPM, DOI ]
+    Christina Hanna: OPM
+    Stephen Duarte: OPM
+    Bryanne-Michelle Mlodzianowski: OPM
+    Jacob Altik: OPM
+    Noah Peters: OPM
+    Austin Raynor: OPM
+    Justin Aimonetti: [ GSA, USADF, USIP ]
+    Joshua Hanley: GSA
+    Antonio Gracias: SSA
+    Jon Koval: SSA
+    Payton Rehling: SSA
+    Scott Coulter: [ SSA, NASA ]
+    Mike Russo: SSA
+    Frank Schuler: GSA
+    Nicole Hollander: GSA
+    Joanna Wischer: DOGE
+    Justin Monroe: [ OPM, FBI ]
+    Joe Gebbia: OPM
+    Sam Corcos: [ Treasury, IRS ]
+    Michael Grimes: Commerce
+    Scott Kupor: OPM
+    Thomas Shedd: [ GSA, DOL ]
+    Leland Dudek: SSA
+    Stephen Ehikian: GSA
+    Baris Akis: [ OPM, Treasury, IRS ]
+
+- title: We Mapped DOGE's Silicon Valley and Corporate Connections
+  publisher: Wired Magazine
+  last_updated: 2025-03-28
+  source: https://www.wired.com/story/elon-musk-doge-silicon-valley-corporate-connections/
+  people:
+    Adam Ramada: [ Energy, GSA, EOP, DOL ]
+    Akash Bobba: [ OPM, GSA, SSA ]
+    Alexander Simonpour: NASA
+    Alexandra Beynon: [ Education, EOP ]
+    Amy Gleason: [ HHS, EOP ]
+    Anthony Armstrong: OPM
+    Antonio Gracias: SSA
+    Aram Moghaddassi: [ Treasury, DOL ]
+    Ashley Boizelle: [ GSA, EOP ]
+    Austin Raynor: [ OPM, EOP ]
+    Baris Akis: [ OPM, Treasury, IRS ]
+    Brad Smith: [ EOP, DHS ]
+    Brady Glantz: FAA
+    Brian Bjelde: OPM
+    Brooks Morgan: Education
+    Bryanne-Michelle Mlodzianowski: OPM
+    Cary Volpert: VA
+    Chris Young: [ OPM, CFPB, EOP ]
+    Christina Hanna: OPM
+    Christopher Stanley: [ OPM, EOP ]
+    Clark Minor: HHS
+    Cole Killian: [ GSA, SSA, EPA, DOL ]
+    Conor Fennessy: [ HHS, Education ]
+    Daniel Abrahamson: DOT
+    Derek Geissler: DOL
+    Edward Coristine: [ OPM, USAID, Education, GSA, SBA ]
+    Erica Jehling: [ GSA, EPA ]
+    Ethan Shaotran: [ Education, HUD, GSA, SSA ]
+    Frank Schuler: GSA
+    Gavin Kliger: [ OPM, USAID, IRS, CFPB ]
+    Greg Hogan: OPM
+    Jacob Altik: [ OPM, SSA ]
+    James Burnham: EOP
+    Jennifer Balajadia: [ Education, EOP ]
+    Jeremy Lewin: [ OPM, USAID, CFPB, State ]
+    Joe Gebbia: OPM
+    Jon Koval: SSA
+    Jordan Wick: [ CFPB, EOP, DOL ]
+    Joshua Hanley: EOP
+    Justin Aimonetti: EOP
+    Justin Fulcher: VA
+    Justin Monroe: [ OPM, FBI ]
+    Kathryn Armstrong Loving: EPA
+    Katie Miller: EOP
+    Keenan Kmiec: EOP
+    Kendall Lindemann: EOP
+    Kyle Schutt: GSA
+    Luke Farritor: [ USAID, HHS, CFPB, Energy, Education, GSA, SSA ]
+    Marko Elez: [ Treasury, EOP, SSA ]
+    Mattieu Gamache-Asselin: HHS
+    Michael Grimes: Commerce
+    Michael Mirski: HUD
+    Mike Russo: SSA
+    Nate Cavanaugh: GSA
+    Nicole Hollander: GSA
+    Nikhil Rajpal: [ OPM, CFPB, SSA, NOAA ]
+    Noah Peters: [ OPM, EOP ]
+    Payton Rehling: SSA
+    Rachel Riley: HHS
+    Riccardo Biasini: OPM
+    Riley Sennott: [ NASA, GSA ]
+    Ryan Riedel: Energy
+    Ryan Wunderly: Treasury
+    Sam Beyda: DOL
+    Sam Corcos: [ Treasury, IRS ]
+    Sam Smeal: FAA
+    Scott Coulter: [ SSA, NASA ]
+    Scott Kupor: OPM
+    Scott Langmack: HUD
+    Stephanie Holmes: [ OPM, EOP ]
+    Stephen Duarte: OPM
+    Stephen Ehikian: GSA
+    Steve Davis: [ OPM, GSA, EOP ]
+    Tarak Makecha: [ OPM, State ]
+    Ted Malaska: FAA
+    Thomas Kiernan: FAA
+    Thomas Shedd: [ GSA, DOL ]
+    Tom Krause: Treasury
+    Tyler Hassen: DOI
+
+# ProPublica
+- title: Elon Musk's Demolition Crew
+  publisher: ProPublica
+  last_updated: 2025-03-14
+  source: https://projects.propublica.org/elon-musk-doge-tracker/
+  people:
+    Daniel Abrahamson: DOT
+    Justin Aimonetti: DOGE
+    Ashley Boizelle: [ DOGE, GSA ]
+    Scott Coulter: [ NASA, SSA ]
+    Conor Fennessy: [ Education, HHS ]
+    Mattieu Gamache-Asselin: HHS
+    Joe Gebbia: OPM
+    Brady Glantz: FAA
+    Amy Gleason: [ DOGE, USDS ]
+    Joshua Hanley: [ DOGE, NIH ]
+    Tyler Hassen: DOI
+    Erica Jehling: [ EPA, GSA ]
+    Thomas Kiernan: FAA
+    Scott Langmack: HUD
+    Ted Malaska: FAA
+    Clark Minor: HHS
+    Michael Mirski: HUD
+    Aram Moghaddassi: [ Treasury, DOL ]
+    Sam Smeal: FAA
+    Ryan Wunderly: Treasury
+    Stephen Duarte: OPM
+    Stephen Ehikian: GSA
+    Justin Fulcher: VA
+    Christina Hanna: OPM
+    Greg Hogan: OPM
+    Jeremy Lewin: [ USAID, CFPB, State ]
+    Kathryn Armstrong Loving: EPA
+    Bryanne-Michelle Mlodzianowski: OPM
+    Brooks Morgan: Education
+    Noah Peters: [ OPM, EOP ]
+    Austin Raynor: [ OPM, EOP ]
+    Chris Young: [ EOP, CFPB ]
+    Jennifer Balajadia: EOP
+    Alexandra Beynon: EOP
+    Nicole Hollander: GSA
+    Kendall Lindemann: EOP
+    Adam Ramada: [ EOP, DOGE, Energy, GSA ]
+    Ryan Riedel: Energy
+    Kyle Schutt: GSA
+    Ethan Shaotran: GSA
+    Jordan Wick: EOP
+    Jacob Altik: EOP
+    James Burnham: EOP
+    Keenan Kmiec: EOP
+    Anthony Armstrong: OPM
+    Riccardo Biasini: OPM
+    Brian Bjelde: OPM
+    Akash Bobba: OPM
+    Nate Cavanaugh: GSA
+    Edward Coristine: [ OPM, SBA ]
+    Steve Davis: EOP
+    Marko Elez: Treasury
+    Luke Farritor: HHS
+    Stephanie Holmes: EOP
+    Cole Killian: EPA
+    Gavin Kliger: [ USAID, OPM ]
+    Tom Krause: Treasury
+    Katie Miller: EOP
+    Justin Monroe: FBI
+    Nikhil Rajpal: [ OPM, NOAA ]
+    Rachel Riley: HHS
+    Mike Russo: SSA
+    Amanda Scales: OPM
+    Thomas Shedd: GSA
+    Brad Smith: EOP
+    Christopher Stanley: EOP
+
+# House Judiciary
+- title: FOIA request to DOGE from the House Judiciary Committee
+  publisher: House Judiciary Committee Democratic members
+  last_updated: 2025-03-17
+  source: https://democrats-judiciary.house.gov/uploadedfiles/2025-03-17_raskin_connolly_foia_request.pdf
+  people:
+    Elon Musk: DOGE
+    Amy Gleason: DOGE
+    Justin Aimonetti: DOGE
+    Jacob Altik: DOGE
+    Anthony Armstrong: DOGE
+    Jennifer Balajadia: DOGE
+    Alexandra Beynon: DOGE
+    Riccardo Biasini: DOGE
+    Akash Bobba: DOGE
+    Ashley Boizelle: DOGE
+    Emily Bryant: DOGE
+    James Burnham: DOGE
+    Edward Coristine: DOGE
+    Steve Davis: DOGE
+    Marko Elez: DOGE
+    Luke Farritor: DOGE
+    Joshua Fox: DOGE
+    Antonio Gracias: DOGE
+    Joshua Hanley: DOGE
+    Stephanie Holmes: DOGE
+    Erica Jehling: DOGE
+    Cole Killian: DOGE
+    Gavin Kliger: DOGE
+    Keenan Kmiec: DOGE
+    Nicholas Lahera: DOGE
+    Scott Langmack: DOGE
+    Jeremy Lewin: DOGE
+    Kendall Lindemann: DOGE
+    Katie Miller: DOGE
+    Noah Peters: DOGE
+    Nikhil Rajpal: DOGE
+    Adam Ramada: DOGE
+    Austin Raynor: DOGE
+    Mike Russo: DOGE
+    Kyle Schutt: DOGE
+    Ethan Shaotran: DOGE
+    Brad Smith: DOGE
+    Christopher Stanley: DOGE
+    Thomas Shedd: DOGE
+    Jordan Wick: DOGE
+    Ryan Wunderly: DOGE
+    Chris Young: DOGE

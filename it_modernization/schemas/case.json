@@ -1,0 +1,55 @@
+{
+    "$id": "schemas/case",
+    "type": "object",
+    "title": "Case",
+    "description": "Information about a specific court case",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "The name of the case"
+        },
+        "description": {
+            "type": "string",
+            "description": "A text description of the case"
+        },
+        "case_no": {
+            "type": "string",
+            "description": "A case-number identifier"
+        },
+        "date_filed": {
+            "type": "string",
+            "description": "An ISO8601 date string for when the case was filed"
+        },
+        "status": {
+            "type": "string",
+            "description": "A description of the case status"
+        },
+        "agency": {
+            "description": "Can be a single agency or an array of agencies affected/involved in the event",
+            "anyOf": [
+                {
+                    "$ref": "valid_names.json#agency_ids"
+                },
+                {
+                    "type": "array",
+                    "items": {
+                        "$ref": "valid_names.json#agency_ids"
+                    }
+                }
+            ]
+        },
+        "link": {
+            "type": "string",
+            "description": "A URL for the case on Court Listener",
+            "format": "uri"
+        }
+    },
+    "required": [
+        "name",
+        "case_no",
+        "agency",
+        "link",
+        "date_filed"
+    ],
+    "additionalProperties": false
+}

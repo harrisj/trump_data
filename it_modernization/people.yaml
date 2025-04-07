@@ -3,32 +3,33 @@ Adam Ramada:
   agencies:
   - Department of Education
   - Department of Energy
+  - Department of Government Efficiency
   - Department of Labor
+  - Executive Office of the President
   - General Services Administration
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-01-23'
+  - agency: DOGE
+    date: 2025-01-23
     event: According to his own testimony, Adam Ramada starts at the USDS
     name: Adam Ramada
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
-  - agency: Department of Education
-    date: '2025-01-28'
-    event: According to his sworn testimony, Adam Ramada is detailed from the USDS to the Department of Education. He says there is one other USDS staffer with him, two other detailees and two DOE staffers.
+  - agency: Education
+    date: 2025-01-28
+    event: According to his sworn testimony, Adam Ramada is detailed from the USDS to the Department of Education. He says there is one other USDS staffer with him, two other detailees and two Education staffers.
     name: Adam Ramada
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
-  - agency: Department of Education
-    date: '2025-02-13'
+  - agency: Education
+    date: 2025-02-13
     event: A story on a proposal to use AI at the Department of Education lists several DOGE staffers identified there within the last few weeks
     name: Adam Ramada
     source: https://www.nytimes.com/2025/02/13/us/doge-ai-education-department-students.html
-  - agency: Department of Labor
-    date: '2025-02-13'
+  - agency: DOL
+    date: 2025-02-13
     event: DOGE is granted authorization to use file transfer software
     name: Adam Ramada
     source: https://www.nbcnews.com/tech/security/doge-software-approval-alarms-labor-department-employees-data-security-rcna191583
-  - agency: Department of Education
-    date: '2025-02-24'
+  - agency: Education
+    date: 2025-02-24
     event: A court ruling names the systems NSLDS, COD, FAS and FMS as being accessed by 6 DOGE staff at Education, but only identifies Adam Ramada
     name: Adam Ramada
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.38.0.pdf
@@ -36,48 +37,48 @@ Adam Ramada:
 Akash Bobba:
   agencies:
   - Department of Education
+  - Department of Government Efficiency
   - General Services Administration
   - Office of Personnel Management
   - Social Security Administration
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: Social Security Administration
-    date: '2025-02-03'
+  - agency: SSA
+    date: 2025-02-03
     event: Mike Russo officially joins the agency as its new CIO, requests Akash Bobba to join the agency (but he has issues with his background check)
     name: Akash Bobba
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-  - agency: Department of Education
-    date: '2025-02-08'
+  - agency: Education
+    date: 2025-02-08
     event: NBC News reports that Akash Bobba and Ethan Shaotran have admin access to email and had also accessed the website backend
     name: Akash Bobba
     source: https://www.nbcnews.com/news/us-news/elon-musk-doge-team-education-department-rcna191244
-  - agency: Social Security Administration
-    date: '2025-02-10'
+  - agency: SSA
+    date: 2025-02-10
     event: Mike Russo, DOGE chief of staff Steve Davis both demand that Akash Bobba be onboarded before midnight.
     name: Akash Bobba
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-  - agency: Social Security Administration
-    date: '2025-02-10'
+  - agency: SSA
+    date: 2025-02-10
     event: Akash Bobba is rapidly trained and is granted access to anonymized and read-only "sandbox" NUMIDENT data from SSNEC for his purported fraud investigations
     name: Akash Bobba
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-  - agency: Social Security Administration
-    date: '2025-02-12'
+  - agency: SSA
+    date: 2025-02-12
     event: An unusual Memorandum of Understanding is signed by Brian Bjelde for OPM and representatives of Social Security and the Department of Education for Akash Bobba to start working at SSA (but he already had been working there, according to Tiffany Flick's testimony)
     name: Akash Bobba
     source: https://www.npr.org/2025/03/26/nx-s1-5339842/doge-data-access-privacy-act-social-security-treasury-opm-lawsuit
-  - agency: Social Security Administration
-    date: '2025-02-15'
+  - agency: SSA
+    date: 2025-02-15
     event: Akash Bobba reports issue with the "sandbox" data. Russo demands he gets immediate full access to Enterprise Data Warehouse (EDW), Master Beneficiary Record (MBR) and Supplemental Security Record (SSR) files as well as source code
     name: Akash Bobba
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-  - agency: Social Security Administration
-    date: '2025-02-15'
+  - agency: SSA
+    date: 2025-02-15
     event: Staff express concern to Acting Commissioner King that Bobba is accessing information remotely and in an insecure location (the OPM)
     name: Akash Bobba
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-  - agency: Social Security Administration
-    date: '2025-03-13'
+  - agency: SSA
+    date: 2025-03-13
     event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     name: Akash Bobba
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
@@ -86,8 +87,8 @@ Alexander Simonpour:
   agencies:
   - National Aeronautics and Space Administration
   events:
-  - agency: National Aeronautics and Space Administration
-    date: '2025-03-14'
+  - agency: NASA
+    date: 2025-03-14
     event: A Business Insider article reports that Alexander Simonpour has shown up at NASA and also has a GSA address. Riley Sennott and Scott Coulter also are listed
     name: Alexander Simonpour
     source: https://www.businessinsider.com/tesla-employee-alexander-simonpour-nasa-doge-team-2025-3
@@ -95,10 +96,11 @@ Alexander Simonpour:
 Alexandra Beynon:
   agencies:
   - Department of Education
-  - US Digital Service/Department of Government Efficiency
+  - Department of Government Efficiency
+  - Executive Office of the President
   events:
-  - agency: Department of Education
-    date: '2025-02-13'
+  - agency: Education
+    date: 2025-02-13
     event: A story on a proposal to use AI at the Department of Education lists several DOGE staffers identified there within the last few weeks
     name: Alexandra Beynon
     source: https://www.nytimes.com/2025/02/13/us/doge-ai-education-department-students.html
@@ -107,18 +109,18 @@ Amanda Scales:
   agencies:
   - Office of Personnel Management
   events:
-  - agency: Office of Personnel Management
-    date: '2025-01-27'
+  - agency: OPM
+    date: 2025-01-27
     event: A member of the OPM union posts a Reddit message reportedly from an OPM employee stating that the email server is a piece of outside equipment and the goal is to generate lists of all govt employees to send massive firing notices later.
     name: Amanda Scales
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.276820/gov.uscourts.dcd.276820.1.0.pdf
-  - agency: Office of Personnel Management
-    date: '2025-01-31'
+  - agency: OPM
+    date: 2025-01-31
     event: Federal employees at OPM are locked out of access to key systems by DOGE and OPM leadership
     name: Amanda Scales
     source: https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/
-  - agency: Office of Personnel Management
-    date: '2025-03-24'
+  - agency: OPM
+    date: 2025-03-24
     event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge Boardman issues a preliminary injunction against access to internal systems at OPM by DOGE staff, but still allows it for OPM leadership including Ezell, Scales and Hogan
     name: Amanda Scales
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.69.0.pdf
@@ -126,67 +128,69 @@ Amanda Scales:
 Amy Gleason:
   agencies:
   - Centers for Medicare and Medicaid Services
+  - Department of Government Efficiency
+  - Executive Office of the President
   - Health and Human Services
-  - US Digital Service/Department of Government Efficiency
+  - US Digital Service
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2024-12-30'
+  - agency: DOGE
+    date: 2024-12-30
     event: Amy Gleason joins the USDS, according to her sworn testimony.
     name: Amy Gleason
     source: https://www.documentcloud.org/documents/25564597-crewvdogereconmot031425/
-  - agency: Centers for Medicare and Medicaid Services
-    date: '2025-02-24'
+  - agency: CMS
+    date: 2025-02-24
     event: Amy Gleason is granted read-only access to the CMS Acquisition Lifecycle Modernization (CALM) system. She is reportedly not granted access to other systems.
     name: Amy Gleason
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-02-26'
+  - agency: DOGE
+    date: 2025-02-26
     event: After days of sustained questioning about who the USDS Administrator is, the White House gives the name of Amy Gleason. It is unclear how long she had been in the role.
     name: Amy Gleason
     source: https://www.npr.org/2025/02/26/nx-s1-5310634/amy-gleason-doge-administrator
-  - agency: Health and Human Services
-    date: '2025-03-04'
+  - agency: HHS
+    date: 2025-03-04
     event: Amy Gleason (purported head of DOGE) is formally onboarded at HHS as a Senior Advisor and swears the oath of office
     name: Amy Gleason
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.65.1_1.pdf
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-19'
+  - agency: DOGE
+    date: 2025-03-19
     event: In another sworn statement, Amy Gleason declares "every member of an agency's DOGE Team is an employee of the agency or a detailee to the agency." She does clarify that some are detailed from USDS but also claims they report to agency heads. She reports thar USDS has approximately 79 directly appointed employees and 10 employees detailed from other agencies.
     name: Amy Gleason
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277646/gov.uscourts.dcd.277646.24.2.pdf
-  - agency: Centers for Medicare and Medicaid Services
-    date: '2025-03-29'
+  - agency: CMS
+    date: 2025-03-29
     event: In a legal filing, the DOJ identifies 4 DOGE staffers - Edward Coristine, Marko Elez, Luke Farritor and Amy Gleason - at CMS
     name: Amy Gleason
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Health and Human Services
-    date: '2025-03-29'
+  - agency: HHS
+    date: 2025-03-29
     event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff who have worked at HHS
     name: Amy Gleason
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
 
 Anthony Armstrong:
   agencies:
+  - Department of Government Efficiency
   - Office of Personnel Management
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-27'
+  - agency: DOGE
+    date: 2025-03-27
     event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government spending. Amy Gleason did not appear.
     name: Anthony Armstrong
     source: https://www.nbcnews.com/politics/doge/elon-musks-doge-tries-put-new-faces-reclusive-federal-office-rcna198491
 
 Anthony Jancso:
   agencies:
-  - US Digital Service/Department of Government Efficiency
+  - Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2024-11-26'
+  - agency: DOGE
+    date: 2024-11-26
     event: A person who is likely Anthony Jancso posted a message in an AI challenge's Discord saying "Helping the Dept. of Government Efficiency team find hardcore engineers. Send your GitHub/LinkedIn to @DOGE on X and your X handle to me in DM if you're interested or know someone who is, could help get them into the pipeline."
     name: Anthony Jancso
     source: https://www.wired.com/story/elon-musk-doge-recruiting-palantir/
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2024-12-05'
+  - agency: DOGE
+    date: 2024-12-05
     event: A person who is likely Anthony Jancso posts recruitment messages for DOGE to a chat group for employees who had worked at Palantir
     name: Anthony Jancso
     source: https://www.wired.com/story/elon-musk-doge-recruiting-palantir/
@@ -195,127 +199,130 @@ Antoine McCord:
   agencies:
   - Department of Homeland Security
   events:
-  - agency: Department of Homeland Security
-    date: '2025-03-11'
+  - agency: DHS
+    date: 2025-03-11
     event: New CIO Antoine McCord arrives at DHS, reportedly with affiliates of DOGE
     name: Antoine McCord
     source: https://www.nextgov.com/people/2025/03/dhs-taps-antoine-mccord-top-tech-post/403727/
 
 Antonio Gracias:
   agencies:
+  - Department of Government Efficiency
   - Social Security Administration
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: Social Security Administration
-    date: '2025-03-13'
+  - agency: SSA
+    date: 2025-03-13
     event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     name: Antonio Gracias
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
-  - agency: Social Security Administration
-    date: '2025-03-30'
+  - agency: SSA
+    date: 2025-03-30
     event: At a town hall event in Wisconsin, Elon Musk and Antonio Gracias claim to have found fraud in the number of immigrants being granted social security numbers
     name: Antonio Gracias
     source: https://www.washingtonpost.com/politics/2025/04/01/elon-musk-social-security-immigrants/
 
 Aram Moghaddassi:
   agencies:
+  - Department of Government Efficiency
   - Department of Labor
   - Department of the Treasury
   - Health and Human Services
+  - Social Security Administration
   - US Citizenship & Immigration Services
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: Department of Labor
-    date: '2025-03-05'
+  - agency: DOL
+    date: 2025-03-05
     event: Business Insider reports Marko Elez, Aram Moghaddassi, and Miles B. Collins are new DOGE arrivals at Department of Labor
     name: Aram Moghaddassi
     source: https://www.businessinsider.com/doge-staffer-fertility-clinic-pronatalist-department-of-labor
-  - agency: Health and Human Services
-    date: '2025-03-13'
+  - agency: HHS
+    date: 2025-03-13
     event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
     name: Aram Moghaddassi
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
-  - agency: US Citizenship & Immigration Services
-    date: '2025-03-17'
+  - agency: USCIS
+    date: 2025-03-17
     event: DHS CIO Antoine McCord requests that access be granted for Aram Moghaddassi to the USCIS Data Business Intelligence Services (aka, the Data Lake)
     name: Aram Moghaddassi
     source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-27'
+  - agency: DOGE
+    date: 2025-03-27
     event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government spending. Amy Gleason did not appear.
     name: Aram Moghaddassi
     source: https://www.nbcnews.com/politics/doge/elon-musks-doge-tries-put-new-faces-reclusive-federal-office-rcna198491
-  - agency: US Citizenship & Immigration Services
-    date: '2025-03-28'
+  - agency: USCIS
+    date: 2025-03-28
     event: USCIS CIO William McElhaney sends a message to DHS Deputy Secretary asking them to review access that was granted to DOGE staff
     name: Aram Moghaddassi
     source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
 
 Ashley Boizelle:
   agencies:
+  - Department of Government Efficiency
+  - Executive Office of the President
   - General Services Administration
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-05'
+  - agency: DOGE
+    date: 2025-03-05
     event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP), including 4 lawyers previously not listed
     name: Ashley Boizelle
     source: https://theintercept.com/2025/03/05/leaked-list-musk-doge-lawyers/
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-26'
+  - agency: DOGE
+    date: 2025-03-26
     event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
     name: Ashley Boizelle
     source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
 
 Austin Raynor:
   agencies:
+  - Department of Government Efficiency
+  - Executive Office of the President
   - Office of Personnel Management
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-26'
+  - agency: DOGE
+    date: 2025-03-26
     event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
     name: Austin Raynor
     source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
 
 Baris Akis:
   agencies:
+  - Department of Government Efficiency
   - Department of the Treasury
   - Internal Revenue Service
   - Office of Personnel Management
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2024-12-06'
+  - agency: DOGE
+    date: 2024-12-06
     event: A report on the tech billionaires steering Trump's transition mentions Musk and other DOGE staff, and how they have been interviewing people at Mar-a-Lago
     name: Baris Akis
     source: https://www.nytimes.com/2024/12/06/us/politics/trump-elon-musk-silicon-valley.html
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-01-24'
-    event: A report from Business Insider names some of the DOGE staff that was involved in transition activities
+  - agency: DOGE
+    date: 2025-01-24
+    event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
     name: Baris Akis
     source: https://www.yahoo.com/news/doge-just-got-hire-224212262.html
 
 Brad Smith:
   agencies:
-  - Centers for Medicare and Medicaid Services
+  - Department of Government Efficiency
   - Department of Homeland Security
+  - Executive Office of the President
   - Federal Emergency Management Agency
   - Health and Human Services
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-01-24'
-    event: A report from Business Insider names some of the DOGE staff that was involved in transition activities
+  - agency: DOGE
+    date: 2025-01-24
+    event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
     name: Brad Smith
     source: https://www.yahoo.com/news/doge-just-got-hire-224212262.html
-  - agency: Health and Human Services
-    date: '2025-03-04'
+  - agency: HHS
+    date: 2025-03-04
     event: Brad Smith is formally onboarded at HHS as a Senior Advisor and swears the oath of office
     name: Brad Smith
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.65.3.pdf
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-27'
+  - agency: DOGE
+    date: 2025-03-27
     event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government spending. Amy Gleason did not appear.
     name: Brad Smith
     source: https://www.nbcnews.com/politics/doge/elon-musks-doge-tries-put-new-faces-reclusive-federal-office-rcna198491
@@ -324,23 +331,19 @@ Brady Glantz:
   agencies:
   - Federal Aviation Administration
   events:
-  - agency: Federal Aviation Administration
-    date: '2025-02-16'
+  - agency: FAA
+    date: 2025-02-16
     event: 4 SpaceX engineers were onboarded into the FAA under the Schedule A hiring authority for people with disabilities
     name: Brady Glantz
     source: https://www.wired.com/story/faa-doge-elon-musk-space-x/
-
-Branden Spikes:
-  agencies:
-  - US Digital Service/Department of Government Efficiency
 
 Brian Bjelde:
   agencies:
   - Office of Personnel Management
   - Social Security Administration
   events:
-  - agency: Social Security Administration
-    date: '2025-02-12'
+  - agency: SSA
+    date: 2025-02-12
     event: An unusual Memorandum of Understanding is signed by Brian Bjelde for OPM and representatives of Social Security and the Department of Education for Akash Bobba to start working at SSA (but he already had been working there, according to Tiffany Flick's testimony)
     name: Brian Bjelde
     source: https://www.npr.org/2025/03/26/nx-s1-5339842/doge-data-access-privacy-act-social-security-treasury-opm-lawsuit
@@ -349,8 +352,8 @@ Bridget Youngs:
   agencies:
   - Peace Corps
   events:
-  - agency: Peace Corps
-    date: '2025-04-04'
+  - agency: Peace
+    date: 2025-04-04
     event: DOGE staff reportedly visit the Peace Corps, planning to work over the weeked to review records and access IT systems
     name: Bridget Youngs
     source: https://www.theguardian.com/us-news/2025/apr/04/elon-musk-doge-peace-corps
@@ -358,15 +361,15 @@ Bridget Youngs:
 Brooks Morgan:
   agencies:
   - Department of Education
-  - US Digital Service/Department of Government Efficiency
+  - Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-01-17'
-    event: The public calendar of Riley Sennott mentions a 30-minute "SGE Ethics Discussion" meeting with 2 GSA addresses and other DOGE staff
+  - agency: DOGE
+    date: 2025-01-17
+    event: The public calendar of Riley Sennott mentions a 30-minute "SGE Ethics Discussion" meeting with 2 GSA addresses and other DOGE staffers
     name: Brooks Morgan
     source: https://www.msn.com/en-us/money/companies/we-found-a-doge-guy-at-nasa-because-his-google-calendar-was-public/ar-AA1At75X
-  - agency: Department of Education
-    date: '2025-02-13'
+  - agency: Education
+    date: 2025-02-13
     event: A story on a proposal to use AI at the Department of Education lists several DOGE staffers identified there within the last few weeks
     name: Brooks Morgan
     source: https://www.nytimes.com/2025/02/13/us/doge-ai-education-department-students.html
@@ -374,23 +377,24 @@ Brooks Morgan:
 Bryanne-Michelle Mlodzianowski:
   agencies:
   - Office of Personnel Management
+  events: []
 
 Bryton Shang:
   agencies:
   - Department of the Interior
   events:
-  - agency: Department of the Interior
-    date: '2025-01-28'
+  - agency: DOI
+    date: 2025-01-28
     event: Two DOGE staffers attempted to force water pumps to be turned on in a large reservoir in California for a photo op
     name: Bryton Shang
     source: https://www.cnn.com/2025/03/07/climate/trump-doge-california-water/index.html
 
 Cary Volpert:
   agencies:
-  - Veterans Affairs
+  - Veterans Administration
   events:
-  - agency: Veterans Affairs
-    date: '2025-03-25'
+  - agency: VA
+    date: 2025-03-25
     event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements for government services are.
     name: Cary Volpert
     source: https://www.wired.com/story/doge-department-of-veterans-affairs-ai/
@@ -399,18 +403,18 @@ Charles Ezell:
   agencies:
   - Office of Personnel Management
   events:
-  - agency: Office of Personnel Management
-    date: '2025-01-20'
+  - agency: OPM
+    date: 2025-01-20
     event: Acting OPM Director Charles Ezell replaces existing CIO Melvin Brown with Greg Hogan
     name: Charles Ezell
     source: https://www.muskwatch.com/p/musk-associates-given-unfettered
-  - agency: Office of Personnel Management
-    date: '2025-01-31'
+  - agency: OPM
+    date: 2025-01-31
     event: Federal employees at OPM are locked out of access to key systems by DOGE and OPM leadership
     name: Charles Ezell
     source: https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/
-  - agency: Office of Personnel Management
-    date: '2025-03-24'
+  - agency: OPM
+    date: 2025-03-24
     event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge Boardman issues a preliminary injunction against access to internal systems at OPM by DOGE staff, but still allows it for OPM leadership including Ezell, Scales and Hogan
     name: Charles Ezell
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.69.0.pdf
@@ -419,23 +423,24 @@ Chris Young:
   agencies:
   - Consumer Financial Protection Bureau
   - Cybersecurity and Infrastructure Security Agency
+  - Department of Government Efficiency
   - Department of Homeland Security
+  - Executive Office of the President
   - Office of Personnel Management
   - U.S. African Development Foundation
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: Consumer Financial Protection Bureau
-    date: '2025-02-06'
+  - agency: CFPB
+    date: 2025-02-06
     event: DOGE staff enter CFPB facilities and are given equipment and onboarded
     name: Chris Young
     source: https://www.wired.com/story/doge-access-consumer-financial-protection-bureau-data/
-  - agency: Consumer Financial Protection Bureau
-    date: '2025-02-12'
+  - agency: CFPB
+    date: 2025-02-12
     event: Adam Martinez, CFPB COO, includes DOGE representatives in emails hiring OPM for consulting on Reduction-in-Force planning for the CFPB
     name: Chris Young
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.67.0_1.pdf
-  - agency: U.S. African Development Foundation
-    date: '2025-02-20'
+  - agency: USADF
+    date: 2025-02-20
     event: Chris Young meets with USADF leadership at their HQ to "introduce DOGE to the agency" and that 2 engineers would be assigned there
     name: Chris Young
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
@@ -443,41 +448,43 @@ Chris Young:
 Christina Hanna:
   agencies:
   - Office of Personnel Management
+  events: []
 
 Christopher Roussos:
   agencies:
-  - Veterans Affairs
+  - Veterans Administration
   events:
-  - agency: Veterans Affairs
-    date: '2025-03-25'
+  - agency: VA
+    date: 2025-03-25
     event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements for government services are.
     name: Christopher Roussos
     source: https://www.wired.com/story/doge-department-of-veterans-affairs-ai/
 
 Christopher Stanley:
   agencies:
+  - Department of Government Efficiency
   - Department of Justice
+  - Executive Office of the President
   - Federal Housing Finance Agency
   - Office of Personnel Management
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-02-18'
+  - agency: DOGE
+    date: 2025-02-18
     event: A custom AI chatbot based on xAI's Grok model was discovered hosted on subdomain on the doge.gov site
     name: Christopher Stanley
     source: https://techcrunch.com/2025/02/18/elon-musk-staffer-created-a-doge-ai-assistant-for-making-government-less-dumb/
-  - agency: Federal Housing Finance Agency
-    date: '2025-03-17'
+  - agency: FHFA
+    date: 2025-03-17
     event: DOGE member Christopher Stanley is named to the board of Fannie Mae/Freddie Mac
     name: Christopher Stanley
     source: https://www.housingwire.com/articles/doge-fannie-mae-board-member-christopher-stanley-resignation/
-  - agency: Federal Housing Finance Agency
-    date: '2025-03-18'
+  - agency: FHFA
+    date: 2025-03-18
     event: DOGE member Christopher Stanley abruptly resigns from Fannie Mae/Freddie Mac board one day after appointment
     name: Christopher Stanley
     source: https://www.housingwire.com/articles/doge-fannie-mae-board-member-christopher-stanley-resignation/
-  - agency: Department of Justice
-    date: '2025-04-01'
+  - agency: DOJ
+    date: 2025-04-01
     event: DOGE member Christopher Stanley is listed as a Senior Advisor in Deputy Attorney General's Office and holds a security clearance
     name: Christopher Stanley
     source: https://www.reuters.com/technology/cybersecurity/doge-official-doj-bragged-about-hacking-distributing-pirated-software-2025-04-02/
@@ -487,57 +494,57 @@ Clark Minor:
   - Health and Human Services
   - National Institute of Health
   events:
-  - agency: Health and Human Services
-    date: '2025-02-14'
+  - agency: HHS
+    date: 2025-02-14
     event: Clark Minor is named as the CIO for HHS
     name: Clark Minor
     source: https://orangeslices.ai/hhs-it-office-recruits-new-chief-from-palantir/
-  - agency: National Institute of Health
-    date: '2025-02-24'
+  - agency: NIH
+    date: 2025-02-24
     event: Four DOGE staffers have email addresses linked to NIH
     name: Clark Minor
     source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
-  - agency: National Institute of Health
-    date: '2025-02-24'
+  - agency: NIH
+    date: 2025-02-24
     event: Three DOGE staffers are placed within the NIH Business System Department for access to NIH's central electronic business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
     name: Clark Minor
     source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
 
 Cole Killian:
   agencies:
+  - Department of Government Efficiency
   - Department of Labor
   - Environmental Protection Agency
   - General Services Administration
   - Social Security Administration
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-01-21'
+  - agency: DOGE
+    date: 2025-01-21
     event: DOGE staff start screening all USDS staff in interviews, asking them their views of DOGE and who were underperformers who should be fired.
     name: Cole Killian
     source: https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/
-  - agency: Environmental Protection Agency
-    date: '2025-02-04'
+  - agency: EPA
+    date: 2025-02-04
     event: Gauiter "Cole" Killian appears in an EPA internal directory as a "Federal Detailee"
     name: Cole Killian
     source: https://www.eenews.net/articles/doge-aide-pops-up-in-epa-staff-directory/
-  - agency: Environmental Protection Agency
-    date: '2025-02-12'
+  - agency: EPA
+    date: 2025-02-12
     event: DOGE staff at the EPA are reportedly granted read-only access to the EPA Acquisition System system for acquisitions
     name: Cole Killian
     source: https://www.eenews.net/articles/doge-lands-at-epa/
-  - agency: Department of Labor
-    date: '2025-02-13'
+  - agency: DOL
+    date: 2025-02-13
     event: DOGE is granted authorization to use file transfer software
     name: Cole Killian
     source: https://www.nbcnews.com/tech/security/doge-software-approval-alarms-labor-department-employees-data-security-rcna191583
-  - agency: Social Security Administration
-    date: '2025-02-20'
+  - agency: SSA
+    date: 2025-02-20
     event: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
     name: Cole Killian
     source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
-  - agency: Social Security Administration
-    date: '2025-03-13'
+  - agency: SSA
+    date: 2025-03-13
     event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     name: Cole Killian
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
@@ -545,49 +552,49 @@ Cole Killian:
 Conor Fennessy:
   agencies:
   - Department of Education
+  - Department of Government Efficiency
   - Health and Human Services
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-01-17'
-    event: The public calendar of Riley Sennott mentions a 30-minute "SGE Ethics Discussion" meeting with 2 GSA addresses and other DOGE staff
+  - agency: DOGE
+    date: 2025-01-17
+    event: The public calendar of Riley Sennott mentions a 30-minute "SGE Ethics Discussion" meeting with 2 GSA addresses and other DOGE staffers
     name: Conor Fennessy
     source: https://www.msn.com/en-us/money/companies/we-found-a-doge-guy-at-nasa-because-his-google-calendar-was-public/ar-AA1At75X
-  - agency: Health and Human Services
-    date: '2025-03-29'
+  - agency: HHS
+    date: 2025-03-29
     event: In a court declaration in AFL-CIO vs. DOL, counsel for the plaintiffs Alexa Milton provides the names of two DOGE staffers at HHS who were not provided in the government's list of staffers there
     name: Conor Fennessy
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.4.pdf
 
 Daniel Abrahamson:
   agencies:
-  - Department of Transportation
-  - US Digital Service/Department of Government Efficiency
+  - Department of Government Efficiency
+  - Department of Transformation
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-26'
+  - agency: DOGE
+    date: 2025-03-26
     event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
     name: Daniel Abrahamson
     source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
 
 Derek Geissler:
   agencies:
+  - Department of Government Efficiency
   - Department of Labor
   - General Services Administration
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-01-17'
-    event: The public calendar of Riley Sennott mentions a 30-minute "SGE Ethics Discussion" meeting with 2 GSA addresses and other DOGE staff
+  - agency: DOGE
+    date: 2025-01-17
+    event: The public calendar of Riley Sennott mentions a 30-minute "SGE Ethics Discussion" meeting with 2 GSA addresses and other DOGE staffers
     name: Derek Geissler
     source: https://www.msn.com/en-us/money/companies/we-found-a-doge-guy-at-nasa-because-his-google-calendar-was-public/ar-AA1At75X
-  - agency: Department of Labor
-    date: '2025-02-13'
+  - agency: DOL
+    date: 2025-02-13
     event: DOGE is granted authorization to use file transfer software
     name: Derek Geissler
     source: https://www.nbcnews.com/tech/security/doge-software-approval-alarms-labor-department-employees-data-security-rcna191583
-  - agency: General Services Administration
-    date: '2025-03-04'
+  - agency: GSA
+    date: 2025-03-04
     event: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid as full-time GSA employees, but other staff are listed as volunteers for that agency
     name: Derek Geissler
     source: https://www.wired.com/story/doge-government-salaries-elon-musk/
@@ -597,114 +604,121 @@ Edward Coristine:
   - Centers for Medicare and Medicaid Services
   - Cybersecurity and Infrastructure Security Agency
   - Department of Education
+  - Department of Government Efficiency
   - Department of Homeland Security
-  - Department of State
   - Federal Emergency Management Agency
   - General Services Administration
   - Health and Human Services
   - Office of Personnel Management
   - Small Business Administration
+  - Social Security Administration
+  - State Department
   - US Agency for International Development
   - US Citizenship & Immigration Services
-  - US Digital Service/Department of Government Efficiency
+  - US Digital Service
   events:
-  - agency: General Services Administration
-    date: '2025-01-31'
+  - agency: GSA
+    date: 2025-01-31
     event: Wired reports that DOGE staff are attempting to get elevated access to GSA systems and making changes to office arrangements
     name: Edward Coristine
     source: https://www.wired.com/story/elon-musk-lackeys-general-services-administration/
-  - agency: Small Business Administration
-    date: '2025-02-03'
+  - agency: SBA
+    date: 2025-02-03
     event: Email to SBA staff announces that Edward Coristine was granted access to all systems including HR, contract, and payment systems.
     name: Edward Coristine
     source: https://xcancel.com/lbarronlopez/status/1886491276729544809
-  - agency: Federal Emergency Management Agency
-    date: '2025-02-05'
+  - agency: FEMA
+    date: 2025-02-05
     event: Edward Coristine is given a FEMA badge and onboarded into the agency
     name: Edward Coristine
     source: https://www.washingtonpost.com/climate-environment/2025/02/07/musk-trump-fema-doge/
-  - agency: Federal Emergency Management Agency
-    date: '2025-02-05'
+  - agency: FEMA
+    date: 2025-02-05
     event: DOGE staff are reportedly given access to review grants on the FEMA GO platform
     name: Edward Coristine
     source: https://www.washingtonpost.com/climate-environment/2025/02/07/musk-trump-fema-doge/
-  - agency: Department of Homeland Security
-    date: '2025-02-10'
+  - agency: DHS
+    date: 2025-02-10
     event: Edward Coristine appears in a DHS directory as a "senior advisor"
     name: Edward Coristine
     source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
-  - agency: Department of State
-    date: '2025-02-10'
+  - agency: State
+    date: 2025-02-10
     event: Edward Coristine and Luke Farritor are posted to the State Department's Bureau of Diplomatic Technology
     name: Edward Coristine
     source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
-  - agency: Cybersecurity and Infrastructure Security Agency
-    date: '2025-02-19'
+  - agency: SSA
+    date: 2025-02-13
+    event: According to a sworn declaration by a Deputy Commissioner at SSA, an unindentified DOGE staffer (Employee 1) is onboarded for "duties currently relate to improper payments and SSA's Death Master File" and they are also planning to detail him to the Small Business Administration
+    name: Edward Coristine
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+  - agency: CISA
+    date: 2025-02-19
     event: Edward Coristine and Kyle Schutt are reportedly given access to CISA systems
     name: Edward Coristine
     source: https://www.wired.com/story/doge-cisa-coristine-cybersecurity/
-  - agency: Cybersecurity and Infrastructure Security Agency
-    date: '2025-02-20'
+  - agency: CISA
+    date: 2025-02-20
     event: Division leaders at the Cybersecurity and Infrastructure Security Agency informed some senior CISA staffers that DOGE has access to internal emails and Microsoft Teams chats of employees.
     name: Edward Coristine
     source: https://www.nbcnews.com/politics/donald-trump/live-blog/trump-france-emmanuel-macron-white-house-ukraine-tariffs-live-updates-rcna193386#rcrd73638
-  - agency: General Services Administration
-    date: '2025-03-04'
+  - agency: GSA
+    date: 2025-03-04
     event: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid as full-time GSA employees, but other staff are listed as volunteers for that agency
     name: Edward Coristine
     source: https://www.wired.com/story/doge-government-salaries-elon-musk/
-  - agency: Centers for Medicare and Medicaid Services
-    date: '2025-03-05'
+  - agency: CMS
+    date: 2025-03-05
     event: Edward Coristine is detailed to HHS from GSA, where he is reported as an employee. He is also detailed to USDS.
     name: Edward Coristine
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Centers for Medicare and Medicaid Services
-    date: '2025-03-05'
+  - agency: CMS
+    date: 2025-03-05
     event: Edward Coristine and Marko Elez are granted read-only access to the CMS Acquisition Lifecycle Modernization (CALM) system.
     name: Edward Coristine
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Centers for Medicare and Medicaid Services
-    date: '2025-03-05'
+  - agency: CMS
+    date: 2025-03-05
     event: Edward Coristine and Marko Elez are granted read-only access to the Healthcare Integrated General Ledger Accounting System (HIGLAS) system by the CIO of the CMS Office of Information Technology
     name: Edward Coristine
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-05'
+  - agency: DOGE
+    date: 2025-03-05
     event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP), including 4 lawyers previously not listed
     name: Edward Coristine
     source: https://theintercept.com/2025/03/05/leaked-list-musk-doge-lawyers/
-  - agency: Centers for Medicare and Medicaid Services
-    date: '2025-03-11'
+  - agency: CMS
+    date: 2025-03-11
     event: Edward Coristine is granted read-only access to the Integrated Data Repository (IDR) system by the CIO of the CMS Office of Information Technology
     name: Edward Coristine
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Health and Human Services
-    date: '2025-03-13'
+  - agency: HHS
+    date: 2025-03-13
     event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
     name: Edward Coristine
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
-  - agency: US Citizenship & Immigration Services
-    date: '2025-03-15'
+  - agency: USCIS
+    date: 2025-03-15
     event: DHS CIO Antoine McCord requests that access be granted for DOGE to the USCIS Data Business Intelligence Services (aka, the Data Lake)
     name: Edward Coristine
     source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
-  - agency: US Citizenship & Immigration Services
-    date: '2025-03-28'
+  - agency: USCIS
+    date: 2025-03-28
     event: USCIS CIO William McElhaney sends a message to DHS Deputy Secretary asking them to review access that was granted to DOGE staff
     name: Edward Coristine
     source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
-  - agency: Centers for Medicare and Medicaid Services
-    date: '2025-03-29'
+  - agency: CMS
+    date: 2025-03-29
     event: In a legal filing, the DOJ identifies 4 DOGE staffers - Edward Coristine, Marko Elez, Luke Farritor and Amy Gleason - at CMS
     name: Edward Coristine
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Centers for Medicare and Medicaid Services
-    date: '2025-03-29'
+  - agency: CMS
+    date: 2025-03-29
     event: In a filing, DOJ asserts that Edward Coristine and Marko Elez no longer have access to HHS systems
     name: Edward Coristine
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Health and Human Services
-    date: '2025-03-29'
+  - agency: HHS
+    date: 2025-03-29
     event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff who have worked at HHS
     name: Edward Coristine
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
@@ -714,6 +728,7 @@ Elon Musk:
   - Central Intelligence Agency
   - Consumer Financial Protection Bureau
   - Department of Defense
+  - Department of Government Efficiency
   - Department of Labor
   - Federal Aviation Administration
   - General Services Administration
@@ -721,104 +736,103 @@ Elon Musk:
   - National Security Agency
   - Office of Personnel Management
   - Social Security Administration
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2024-12-06'
+  - agency: DOGE
+    date: 2024-12-06
     event: A report on the tech billionaires steering Trump's transition mentions Musk and other DOGE staff, and how they have been interviewing people at Mar-a-Lago
     name: Elon Musk
     source: https://www.nytimes.com/2024/12/06/us/politics/trump-elon-musk-silicon-valley.html
-  - agency: General Services Administration
-    date: '2025-01-30'
+  - agency: GSA
+    date: 2025-01-30
     event: Elon Musk reportedly visits GSA to meet with staff, several of whom are identified from appearances in the internal directory
     name: Elon Musk
     source: https://www.nextgov.com/people/2025/01/musk-visits-and-asserts-growing-influence-gsa/402628/
-  - agency: Department of Labor
-    date: '2025-02-04'
+  - agency: DOL
+    date: 2025-02-04
     event: One of AFGE's members who works in the headquarters of the Department received an instruction from Department leadership that Elon Musk and his DOGE team would be accessing Department of Labor headquarters beginning around 4 p.m. on February 5, 2025. This member and other employees were told by Department leadership that when Mr. Musk and his team visit, they are to do whatever they ask, not to push back, not to ask questions. They were told to provide access to any DOL system they requested
       access to and not to worry about any security protocols; just do it.
     name: Elon Musk
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.29.8_1.pdf
-  - agency: Federal Aviation Administration
-    date: '2025-02-05'
+  - agency: FAA
+    date: 2025-02-05
     event: Elon Musk promises that DOGE will make rapid upgrades to airline systems after outage of NOTAM alerting system
     name: Elon Musk
     source: https://www.nytimes.com/2025/02/05/us/politics/elon-musk-doge-faa.html
-  - agency: Consumer Financial Protection Bureau
-    date: '2025-02-07'
+  - agency: CFPB
+    date: 2025-02-07
     event: Elon Musk posts a tweet "CFPB RIP" with a tombstone emoji
     name: Elon Musk
     source: https://news.bloomberglaw.com/banking-law/musks-doge-descends-on-consumer-financial-protection-bureau
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-02-17'
+  - agency: DOGE
+    date: 2025-02-17
     event: In a filing in "State of New Mexico v. Elon Musk," DOJ lawyers declare that Elon Musk is not the USDS Administrator, but just an advisor
     name: Elon Musk
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277463/gov.uscourts.dcd.277463.24.0_1.pdf
-  - agency: Office of Personnel Management
-    date: '2025-02-24'
+  - agency: OPM
+    date: 2025-02-24
     event: After Elon Musk threatens on X that employees must complete a list of 5 accomplishments and send it to OPM or risk termination, OPM sends out an email requesting that list (without the threat) to every government employee. Widespread confusion occurs at many agenices.
     name: Elon Musk
     source: https://fedscoop.com/agencies-take-cautious-approaches-to-opm-email-asking-for-list-of-accomplishments/
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-10'
+  - agency: DOGE
+    date: 2025-03-10
     event: Elon Musk claims there are about 100 DOGE staffers and he has plans to double to 200. He also claims they are in every federal Department.
     name: Elon Musk
     source: https://www.nbcnews.com/politics/doge/musk-says-doge-almost-every-federal-agency-plans-double-staff-rcna195735
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-12'
+  - agency: DOGE
+    date: 2025-03-12
     event: US District Judge Tanya Chutkan issues an order giving DOGE and Elon Musk three weeks to comply with document discovery requests about its staffing and downsizing plans for agencies
     name: Elon Musk
     source: https://www.politico.com/news/2025/03/12/elon-musk-judge-orders-discovery-00227924
-  - agency: National Security Agency
-    date: '2025-03-12'
+  - agency: NSA
+    date: 2025-03-12
     event: Elon Musk visits the NSA to meet with its top administrator, General Timothy Haugh
     name: Elon Musk
     source: https://www.wsj.com/politics/national-security/elon-musk-made-secret-visit-to-u-s-spy-agency-9b0b64e2?mod=hp_lead_pos5
-  - agency: Department of Defense
-    date: '2025-03-21'
+  - agency: DOD
+    date: 2025-03-21
     event: Elon Musk arrives at the Pentagon for a meeting with leadership, reportedly to discuss DOGE
     name: Elon Musk
     source: https://www.nbcnews.com/politics/trump-administration/elon-musk-visit-pentagon-discuss-china-rcna197435
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-27'
+  - agency: DOGE
+    date: 2025-03-27
     event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government spending. Amy Gleason did not appear.
     name: Elon Musk
     source: https://www.nbcnews.com/politics/doge/elon-musks-doge-tries-put-new-faces-reclusive-federal-office-rcna198491
-  - agency: Health and Human Services
-    date: '2025-03-28'
+  - agency: HHS
+    date: 2025-03-28
     event: During an interview, the head of HHS reports that DOGE created the new organizational chart for the agency ahead of mass firings, says "we're not cutting scientists"
     name: Elon Musk
     source: https://www.newsnationnow.com/cuomo-show/rfk-defends-hhs-job-cuts/
-  - agency: Social Security Administration
-    date: '2025-03-30'
+  - agency: SSA
+    date: 2025-03-30
     event: At a town hall event in Wisconsin, Elon Musk and Antonio Gracias claim to have found fraud in the number of immigrants being granted social security numbers
     name: Elon Musk
     source: https://www.washingtonpost.com/politics/2025/04/01/elon-musk-social-security-immigrants/
-  - agency: Central Intelligence Agency
-    date: '2025-03-31'
+  - agency: CIA
+    date: 2025-03-31
     event: Elon Musk visits the CIA at the invitation of its director, John Ratcliffe
     name: Elon Musk
     source: https://www.washingtonpost.com/national-security/2025/03/31/elon-musk-cia-doge/
 
 Emily Bryant:
   agencies:
+  - Department of Government Efficiency
   - Federal Trade Commission
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: Federal Trade Commission
-    date: '2025-04-04'
+  - agency: FTC
+    date: 2025-04-04
     event: Reports that two DOGE staffers have started work in the agency, looking at grants and contracts
     name: Emily Bryant
     source: https://www.axios.com/pro/tech-policy/2025/04/04/doge-staffers-move-into-ftc-office
 
 Erica Jehling:
   agencies:
+  - Department of Government Efficiency
   - Environmental Protection Agency
   - General Services Administration
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: Environmental Protection Agency
-    date: '2025-02-12'
+  - agency: EPA
+    date: 2025-02-12
     event: DOGE staff at the EPA are reportedly granted read-only access to the EPA Acquisition System system for acquisitions
     name: Erica Jehling
     source: https://www.eenews.net/articles/doge-lands-at-epa/
@@ -826,64 +840,64 @@ Erica Jehling:
 Ethan Shaotran:
   agencies:
   - Department of Education
+  - Department of Government Efficiency
   - General Services Administration
   - Housing and Urban Development
   - Social Security Administration
   - U.S. African Development Foundation
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: General Services Administration
-    date: '2025-01-31'
+  - agency: GSA
+    date: 2025-01-31
     event: Wired reports that DOGE staff are attempting to get elevated access to GSA systems and making changes to office arrangements
     name: Ethan Shaotran
     source: https://www.wired.com/story/elon-musk-lackeys-general-services-administration/
-  - agency: Department of Education
-    date: '2025-02-08'
+  - agency: Education
+    date: 2025-02-08
     event: NBC News reports that Akash Bobba and Ethan Shaotran have admin access to email and had also accessed the website backend
     name: Ethan Shaotran
     source: https://www.nbcnews.com/news/us-news/elon-musk-doge-team-education-department-rcna191244
-  - agency: Social Security Administration
-    date: '2025-02-19'
-    event: According to a sworn declaration, "Employee 10, a software engineer, was detailed from the Office of the Administrator at the General Services Administration to SSA" (possibly Ehtan Shaotran)
+  - agency: SSA
+    date: 2025-02-19
+    event: According to a sworn declaration, "Employee 10, a software engineer, was detailed from the Office of the Administrator at the General Services Administration to SSA"
     name: Ethan Shaotran
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
-  - agency: Social Security Administration
-    date: '2025-02-20'
+  - agency: SSA
+    date: 2025-02-20
     event: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
     name: Ethan Shaotran
     source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
-  - agency: U.S. African Development Foundation
-    date: '2025-02-21'
+  - agency: USADF
+    date: 2025-02-21
     event: Ethan Shaotran, Jacob Altik, and Nate Cavanaugh arrive at the agency and demand that a MOU must be signed for their detail assignment
     name: Ethan Shaotran
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
-  - agency: U.S. African Development Foundation
-    date: '2025-02-21'
+  - agency: USADF
+    date: 2025-02-21
     event: The MOU for DOGE's IT Modernization is between USADF and GSA and only covers the activities of Ethan Shaotran
     name: Ethan Shaotran
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.6.pdf
-  - agency: U.S. African Development Foundation
-    date: '2025-02-21'
+  - agency: USADF
+    date: 2025-02-21
     event: Once MOU is signed, DOGE staff reveal their real purpose is to conduct a massive reduction in agency staff and scope and demand to file a RIF plan by 2/24
     name: Ethan Shaotran
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
-  - agency: General Services Administration
-    date: '2025-03-04'
+  - agency: GSA
+    date: 2025-03-04
     event: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid as full-time GSA employees, but other staff are listed as volunteers for that agency
     name: Ethan Shaotran
     source: https://www.wired.com/story/doge-government-salaries-elon-musk/
-  - agency: U.S. African Development Foundation
-    date: '2025-03-05'
+  - agency: USADF
+    date: 2025-03-05
     event: Jacob Altik and Ethan Shaotran are rebuffed by agency leadership when attempting to enter the agency
     name: Ethan Shaotran
     source: https://www.thedailybeast.com/elon-musks-doge-goons-in-tense-standoff-video-unmasked/
-  - agency: U.S. African Development Foundation
-    date: '2025-03-06'
+  - agency: USADF
+    date: 2025-03-06
     event: DOGE staff Jacob Altik and Ethan Shaotran return joined by Nate Cavanaugh with US marshals to force entry to the agency
     name: Ethan Shaotran
     source: https://www.thedailybeast.com/elon-musks-doge-goons-in-tense-standoff-video-unmasked/
-  - agency: Social Security Administration
-    date: '2025-03-13'
+  - agency: SSA
+    date: 2025-03-13
     event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     name: Ethan Shaotran
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
@@ -891,13 +905,14 @@ Ethan Shaotran:
 Frank Schuler:
   agencies:
   - General Services Administration
+  events: []
 
 Gavin Hamrick:
   agencies:
   - Institute for Museum and Library Services
   events:
-  - agency: Institute for Museum and Library Services
-    date: '2025-03-31'
+  - agency: IMLS
+    date: 2025-03-31
     event: DOGE arrives at the agency and notifies the entire staff of IMLS that they are being put on administrative leave effective immediately
     name: Gavin Hamrick
     source: https://bsky.app/profile/marisakabas.bsky.social
@@ -907,186 +922,185 @@ Gavin Kliger:
   - Commerce Department
   - Consumer Financial Protection Bureau
   - Department of Agriculture
+  - Department of Government Efficiency
+  - Department of the Treasury
   - Federal Trade Commission
   - Internal Revenue Service
   - Office of Personnel Management
   - US Agency for International Development
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: US Agency for International Development
-    date: '2025-01-27'
+  - agency: USAID
+    date: 2025-01-27
     event: A DOGE official first arrives at USAID. Later, senior staff are summoned to a meeting with Gavin Kliger and Luke Farritor.
     name: Gavin Kliger
     source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
-  - agency: US Agency for International Development
-    date: '2025-01-30'
+  - agency: USAID
+    date: 2025-01-30
     event: Farritor and Kliger demanded that all senior managers be stripped of their power to authorize payments - and that they alone become the authorizers.
     name: Gavin Kliger
     source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
-  - agency: US Agency for International Development
-    date: '2025-02-03'
+  - agency: USAID
+    date: 2025-02-03
     event: An email informing USAID staff that the building was closed included Gavin Kliger's email address
     name: Gavin Kliger
     source: https://www.npr.org/2025/02/06/nx-s1-5289337/elon-musk-doge-treasury
-  - agency: Consumer Financial Protection Bureau
-    date: '2025-02-06'
+  - agency: CFPB
+    date: 2025-02-06
     event: DOGE staff enter CFPB facilities and are given equipment and onboarded
     name: Gavin Kliger
     source: https://www.wired.com/story/doge-access-consumer-financial-protection-bureau-data/
-  - agency: US Agency for International Development
-    date: '2025-02-09'
+  - agency: USAID
+    date: 2025-02-09
     event: Gavin Kliger and Luke Farritor completely remove all access to the payments system for all other USAID staff
     name: Gavin Kliger
     source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
-  - agency: Internal Revenue Service
-    date: '2025-02-28'
+  - agency: IRS
+    date: 2025-02-28
     event: Gavin Kliger and Sam Corcos, DOGE representatives embedded at the tax agency, on Friday asked IRS lawyers to assist in creating an "omnibus" agreement with other federal agencies that would allow a broad swath of federal officials to cross-reference benefits rolls with taxpayer data
     name: Gavin Kliger
     source: https://www.washingtonpost.com/business/2025/03/01/doge-irs-tax-records-benefits/
-  - agency: Federal Trade Commission
-    date: '2025-04-04'
+  - agency: FTC
+    date: 2025-04-04
     event: Reports that two DOGE staffers have started work in the agency, looking at grants and contracts
     name: Gavin Kliger
     source: https://www.axios.com/pro/tech-policy/2025/04/04/doge-staffers-move-into-ftc-office
-  - agency: Internal Revenue Service
-    date: '2025-04-05'
+  - agency: IRS
+    date: 2025-04-05
     event: DOGE is reportedly planning to state a "hack-a-thon" in cooperation with Palantir to create a "mega API" to access IRS data
     name: Gavin Kliger
     source: https://www.wired.com/story/doge-hackathon-irs-data-palantir/
-
-George Cooper:
-  agencies:
-  - US Digital Service/Department of Government Efficiency
 
 Greg Hogan:
   agencies:
   - Office of Personnel Management
   events:
-  - agency: Office of Personnel Management
-    date: '2025-01-20'
+  - agency: OPM
+    date: 2025-01-20
     event: Acting OPM Director Charles Ezell replaces existing CIO Melvin Brown with Greg Hogan
     name: Greg Hogan
     source: https://www.muskwatch.com/p/musk-associates-given-unfettered
-  - agency: Office of Personnel Management
-    date: '2025-03-24'
+  - agency: OPM
+    date: 2025-03-24
     event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge Boardman issues a preliminary injunction against access to internal systems at OPM by DOGE staff, but still allows it for OPM leadership including Ezell, Scales and Hogan
     name: Greg Hogan
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.69.0.pdf
 
 Jacob Altik:
   agencies:
+  - Department of Government Efficiency
+  - Executive Office of the President
   - Federal Communications Commission
   - Office of Personnel Management
   - Social Security Administration
   - U.S. African Development Foundation
-  - US Digital Service/Department of Government Efficiency
   - US Institute of Peace
   events:
-  - agency: Office of Personnel Management
-    date: '2025-02-06'
+  - agency: OPM
+    date: 2025-02-06
     event: DOGE member and lawyer Jacob Altik joins the case for the defense
     name: Jacob Altik
     source: https://fedscoop.com/doge-lawyer-opm-email-lawsuit-jacob-altik/
-  - agency: U.S. African Development Foundation
-    date: '2025-02-21'
+  - agency: USADF
+    date: 2025-02-21
     event: Ethan Shaotran, Jacob Altik, and Nate Cavanaugh arrive at the agency and demand that a MOU must be signed for their detail assignment
     name: Jacob Altik
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
-  - agency: U.S. African Development Foundation
-    date: '2025-02-21'
+  - agency: USADF
+    date: 2025-02-21
     event: Once MOU is signed, DOGE staff reveal their real purpose is to conduct a massive reduction in agency staff and scope and demand to file a RIF plan by 2/24
     name: Jacob Altik
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
-  - agency: U.S. African Development Foundation
-    date: '2025-02-21'
+  - agency: USADF
+    date: 2025-02-21
     event: Nate Canaugh and Jacob Altik then demanded immediate access to USADF systems including financial records and payment and human resources systems. They were told they had to go through standard clearance process.
     name: Jacob Altik
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
-  - agency: U.S. African Development Foundation
-    date: '2025-02-21'
+  - agency: USADF
+    date: 2025-02-21
     event: Jacob Altik demands waivers to exempt DOGE staff from background checks, threatens to fire USADF board if demands are not materials.
     name: Jacob Altik
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
-  - agency: US Institute of Peace
-    date: '2025-02-24'
+  - agency: USIP
+    date: 2025-02-24
     event: USIP leadership meets with DOGE staff to explain history and legal status of the agency
     name: Jacob Altik
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
-  - agency: US Institute of Peace
-    date: '2025-02-24'
+  - agency: USIP
+    date: 2025-02-24
     event: DOGE counters their belief that minimum statutory size of agency is "a Board of Directors and a president, reports to Congress and the Executive branch, and expenses incident to the Board of Directors" and says they will regroup
     name: Jacob Altik
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
-  - agency: U.S. African Development Foundation
-    date: '2025-03-05'
+  - agency: USADF
+    date: 2025-03-05
     event: Jacob Altik and Ethan Shaotran are rebuffed by agency leadership when attempting to enter the agency
     name: Jacob Altik
     source: https://www.thedailybeast.com/elon-musks-doge-goons-in-tense-standoff-video-unmasked/
-  - agency: U.S. African Development Foundation
-    date: '2025-03-06'
+  - agency: USADF
+    date: 2025-03-06
     event: DOGE staff Jacob Altik and Ethan Shaotran return joined by Nate Cavanaugh with US marshals to force entry to the agency
     name: Jacob Altik
     source: https://www.thedailybeast.com/elon-musks-doge-goons-in-tense-standoff-video-unmasked/
-  - agency: US Institute of Peace
-    date: '2025-03-14'
+  - agency: USIP
+    date: 2025-03-14
     event: DOGE members Kenneth Jackson, Jacob Altik and Nate Cavanaugh show up at USIP building with 2 other people claiming to be FBI agents and are refused entry. They attempted to present a document firing the USIP president.
     name: Jacob Altik
     source: https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/
-  - agency: US Institute of Peace
-    date: '2025-03-17'
+  - agency: USIP
+    date: 2025-03-17
     event: DOGE members Kenneth Jackson, Jacob Altik and Nate Cavanaugh remove staff and president of the USIP with the help of Office of the U.S. Attorney for the District of Columbia, the FBI and D.C. police
     name: Jacob Altik
     source: https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/
-  - agency: Office of Personnel Management
-    date: '2025-03-18'
+  - agency: OPM
+    date: 2025-03-18
     event: A lawyer for the plaintiffs accuses the DOJ of misrepresenting Altik's participation "perhaps to preserve the illusion that OPM's counsel were ignorant of what OPM was doing with the Government-Wide Email System, or perhaps to obscure the role of DOGE and the White House in this case."
     name: Jacob Altik
     source: https://fedscoop.com/doge-lawyer-opm-email-lawsuit-jacob-altik/
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-26'
+  - agency: DOGE
+    date: 2025-03-26
     event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
     name: Jacob Altik
     source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
-  - agency: Federal Communications Commission
-    date: '2025-04-04'
+  - agency: FCC
+    date: 2025-04-04
     event: Three DOGE staffers are listed in the public directory of FCC staff and listed as associated with the Office of the Chairman at the FCC
     name: Jacob Altik
     source: https://www.theverge.com/news/644031/doge-federal-communications-commission-directory
 
 James Burnham:
   agencies:
+  - Department of Government Efficiency
   - Department of Homeland Security
+  - Executive Office of the President
   - Federal Emergency Management Agency
-  - US Digital Service/Department of Government Efficiency
   - US Institute of Peace
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-01-24'
-    event: A report from Business Insider names some of the DOGE staff that was involved in transition activities
+  - agency: DOGE
+    date: 2025-01-24
+    event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
     name: James Burnham
     source: https://www.yahoo.com/news/doge-just-got-hire-224212262.html
-  - agency: US Institute of Peace
-    date: '2025-02-24'
+  - agency: USIP
+    date: 2025-02-24
     event: USIP leadership meets with DOGE staff to explain history and legal status of the agency
     name: James Burnham
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
-  - agency: US Institute of Peace
-    date: '2025-02-24'
+  - agency: USIP
+    date: 2025-02-24
     event: DOGE counters their belief that minimum statutory size of agency is "a Board of Directors and a president, reports to Congress and the Executive branch, and expenses incident to the Board of Directors" and says they will regroup
     name: James Burnham
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-26'
+  - agency: DOGE
+    date: 2025-03-26
     event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
     name: James Burnham
     source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
 
 Jared Birchall:
   agencies:
-  - US Digital Service/Department of Government Efficiency
+  - Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2024-12-06'
+  - agency: DOGE
+    date: 2024-12-06
     event: A report on the tech billionaires steering Trump's transition mentions Musk and other DOGE staff, and how they have been interviewing people at Mar-a-Lago
     name: Jared Birchall
     source: https://www.nytimes.com/2024/12/06/us/politics/trump-elon-musk-silicon-valley.html
@@ -1094,76 +1108,79 @@ Jared Birchall:
 Jennifer Balajadia:
   agencies:
   - Department of Education
-  - US Digital Service/Department of Government Efficiency
+  - Department of Government Efficiency
+  - Executive Office of the President
+  events: []
 
 Jeremy Lewin:
   agencies:
   - Consumer Financial Protection Bureau
-  - Department of State
+  - Department of Government Efficiency
   - General Services Administration
   - Health and Human Services
   - National Institute of Health
+  - Office of Personnel Management
+  - State Department
   - US Agency for International Development
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: US Agency for International Development
-    date: '2025-01-28'
+  - agency: USAID
+    date: 2025-01-28
     event: Jeremy Lewin starts working at USAID as both a Senior Advisor and Director for Strategy & Programs
     name: Jeremy Lewin
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576293/gov.uscourts.mdd.576293.77.2.pdf
-  - agency: National Institute of Health
-    date: '2025-02-24'
+  - agency: NIH
+    date: 2025-02-24
     event: Four DOGE staffers have email addresses linked to NIH
     name: Jeremy Lewin
     source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
-  - agency: US Agency for International Development
-    date: '2025-03-18'
+  - agency: USAID
+    date: 2025-03-18
     event: Jeremy Lewin is appointed to the position of Deputy Administrator (Policy and Programming) and Kenneth Jackson is named Deputy Administrator (Management and Resources). He claims it was unrelated to the ruling by Chuang.
     name: Jeremy Lewin
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576293/gov.uscourts.mdd.576293.77.2.pdf
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-19'
+  - agency: DOGE
+    date: 2025-03-19
     event: In a sworn statement, Jeremy Lewin declares he has never been an employee of USDS or Elon Musk but reports he was the DOGE team lead at USAID for a while
     name: Jeremy Lewin
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576293/gov.uscourts.mdd.576293.77.2.pdf
-  - agency: US Agency for International Development
-    date: '2025-03-19'
+  - agency: USAID
+    date: 2025-03-19
     event: Peter Marocco says that he will be succeeded at the agency by Jeremy Lewin and Kenneth Jackson
     name: Jeremy Lewin
     source: https://www.nytimes.com/2025/03/19/us/politics/usaid-doge-leadership.html
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-26'
+  - agency: DOGE
+    date: 2025-03-26
     event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
     name: Jeremy Lewin
     source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
-  - agency: US Agency for International Development
-    date: '2025-03-28'
+  - agency: USAID
+    date: 2025-03-28
     event: Almost all of the remaining 900 USAID employees are terminated by email from Jeremy Lewin with RIFs that will go into effect either in July or September
     name: Jeremy Lewin
     source: https://www.npr.org/sections/goats-and-soda/2025/03/28/g-s1-56968/usaid-terminates-nearly-all-its-remaining-employees
-  - agency: Health and Human Services
-    date: '2025-03-29'
+  - agency: HHS
+    date: 2025-03-29
     event: In a court declaration in AFL-CIO vs. DOL, counsel for the plaintiffs Alexa Milton provides the names of two DOGE staffers at HHS who were not provided in the government's list of staffers there
     name: Jeremy Lewin
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.4.pdf
 
 Joanna Wischer:
   agencies:
-  - US Digital Service/Department of Government Efficiency
+  - Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-01-24'
-    event: A report from Business Insider names some of the DOGE staff that was involved in transition activities
+  - agency: DOGE
+    date: 2025-01-24
+    event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
     name: Joanna Wischer
     source: https://www.yahoo.com/news/doge-just-got-hire-224212262.html
 
 Joe Gebbia:
   agencies:
+  - Department of Government Efficiency
   - Office of Personnel Management
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-27'
+  - agency: DOGE
+    date: 2025-03-27
     event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government spending. Amy Gleason did not appear.
     name: Joe Gebbia
     source: https://www.nbcnews.com/politics/doge/elon-musks-doge-tries-put-new-faces-reclusive-federal-office-rcna198491
@@ -1171,15 +1188,15 @@ Joe Gebbia:
 Jon Koval:
   agencies:
   - Social Security Administration
-  - Veterans Affairs
+  - Veterans Administration
   events:
-  - agency: Social Security Administration
-    date: '2025-03-13'
+  - agency: SSA
+    date: 2025-03-13
     event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     name: Jon Koval
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
-  - agency: Veterans Affairs
-    date: '2025-03-25'
+  - agency: VA
+    date: 2025-03-25
     event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements for government services are.
     name: Jon Koval
     source: https://www.wired.com/story/doge-department-of-veterans-affairs-ai/
@@ -1187,103 +1204,110 @@ Jon Koval:
 Jordan Wick:
   agencies:
   - Consumer Financial Protection Bureau
+  - Department of Government Efficiency
   - Department of Labor
+  - Executive Office of the President
   - Federal Communications Commission
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: Consumer Financial Protection Bureau
-    date: '2025-02-07'
+  - agency: CFPB
+    date: 2025-02-07
     event: Jordan Wick, Nikhil Rajpal and Luke Farritor are granted read-only access to the Procurement Request Information System Management (PRISM), webTA, Data Insight, USAStaffing, Invoice Processing Platform (IPP), Oracle Business Intelligence (OBI), oneARC, G-Invoicing, and Concur
     name: Jordan Wick
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Consumer Financial Protection Bureau
-    date: '2025-02-07'
+  - agency: CFPB
+    date: 2025-02-07
     event: Jordan Wick, Nikhil Rajpal and Luke Farritor are granted full admin access to the HRConnect system
     name: Jordan Wick
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Consumer Financial Protection Bureau
-    date: '2025-02-09'
+  - agency: CFPB
+    date: 2025-02-09
     event: Jordan Wick is granted full admin access to the Microsoft Entra system
     name: Jordan Wick
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Consumer Financial Protection Bureau
-    date: '2025-02-12'
+  - agency: CFPB
+    date: 2025-02-12
     event: Adam Martinez, CFPB COO, includes DOGE representatives in emails hiring OPM for consulting on Reduction-in-Force planning for the CFPB
     name: Jordan Wick
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.67.0_1.pdf
-  - agency: Consumer Financial Protection Bureau
-    date: '2025-02-13'
+  - agency: CFPB
+    date: 2025-02-13
     event: Jordan Wick demands for mass termination notices to be sent to CFPB employees by February 14
     name: Jordan Wick
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.38.2.pdf
-  - agency: Department of Labor
-    date: '2025-02-13'
+  - agency: DOL
+    date: 2025-02-13
     event: DOGE is granted authorization to use file transfer software
     name: Jordan Wick
     source: https://www.nbcnews.com/tech/security/doge-software-approval-alarms-labor-department-employees-data-security-rcna191583
-  - agency: Consumer Financial Protection Bureau
-    date: '2025-03-05'
+  - agency: CFPB
+    date: 2025-03-05
     event: Jordan Wick's elevated admin access to CFPB systems is revoked
     name: Jordan Wick
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Consumer Financial Protection Bureau
-    date: '2025-03-05'
+  - agency: CFPB
+    date: 2025-03-05
     event: Jordan Wick is formally onboarded as a CFPB employee on March 5 (while remaining an employee of USDS). Prior to that, he was detailed to the CFPB from USDS.
     name: Jordan Wick
     source: hhttps://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Federal Communications Commission
-    date: '2025-04-04'
+  - agency: FCC
+    date: 2025-04-04
     event: Three DOGE staffers are listed in the public directory of FCC staff and listed as associated with the Office of the Chairman at the FCC
     name: Jordan Wick
     source: https://www.theverge.com/news/644031/doge-federal-communications-commission-directory
 
 Joshua Fox:
   agencies:
-  - US Digital Service/Department of Government Efficiency
+  - Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-05'
+  - agency: DOGE
+    date: 2025-03-05
     event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP), including 4 lawyers previously not listed
     name: Joshua Fox
     source: https://theintercept.com/2025/03/05/leaked-list-musk-doge-lawyers/
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-26'
+  - agency: DOGE
+    date: 2025-03-26
     event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
     name: Joshua Fox
     source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
 
 Joshua Hanley:
   agencies:
+  - Department of Government Efficiency
+  - Executive Office of the President
+  - General Services Administration
   - National Institute of Health
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: National Institute of Health
-    date: '2025-03-03'
+  - agency: NIH
+    date: 2025-03-03
     event: Joshua Hanley's name appeared in PDF metadata for grant cancellations sent out by the NIH to two researchers working on LGBTQ+-related scientific work
     name: Joshua Hanley
     source: https://insidemedicine.substack.com/p/new-trump-controlled-nih-begins-targeted
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-05'
+  - agency: DOGE
+    date: 2025-03-05
     event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP), including 4 lawyers previously not listed
     name: Joshua Hanley
     source: https://theintercept.com/2025/03/05/leaked-list-musk-doge-lawyers/
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-26'
+  - agency: DOGE
+    date: 2025-03-26
     event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
     name: Joshua Hanley
     source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
 
 Justin Aimonetti:
   agencies:
-  - US Digital Service/Department of Government Efficiency
+  - Department of Government Efficiency
+  - Executive Office of the President
+  - General Services Administration
+  - U.S. African Development Foundation
+  - US Institute of Peace
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-05'
+  - agency: DOGE
+    date: 2025-03-05
     event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP), including 4 lawyers previously not listed
     name: Justin Aimonetti
     source: https://theintercept.com/2025/03/05/leaked-list-musk-doge-lawyers/
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-26'
+  - agency: DOGE
+    date: 2025-03-26
     event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
     name: Justin Aimonetti
     source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
@@ -1291,20 +1315,20 @@ Justin Aimonetti:
 Justin Fulcher:
   agencies:
   - Department of Defense
-  - Veterans Affairs
+  - Veterans Administration
   events:
-  - agency: Veterans Affairs
-    date: '2025-02-14'
+  - agency: VA
+    date: 2025-02-14
     event: Bloomberg publishes some background information on Justin Fulcher, the DOGE staffer working quietly at the VA
     name: Justin Fulcher
     source: https://www.livemint.com/companies/news/musks-top-doge-staffer-at-va-worked-quietly-before-its-layoffs-11739553094269.html
-  - agency: Department of Defense
-    date: '2025-03-04'
+  - agency: DOD
+    date: 2025-03-04
     event: A Forbes article identifies Justin Fulcher as one of the DOGE staff at the Pentagon and questions details about his background
     name: Justin Fulcher
     source: https://www.forbes.com/sites/davidjeans/2025/03/04/pentagon-doge-official-justin-fulcher/
-  - agency: Veterans Affairs
-    date: '2025-03-25'
+  - agency: VA
+    date: 2025-03-25
     event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements for government services are.
     name: Justin Fulcher
     source: https://www.wired.com/story/doge-department-of-veterans-affairs-ai/
@@ -1313,24 +1337,26 @@ Justin Monroe:
   agencies:
   - Federal Bureau of Investigation
   - Office of Personnel Management
+  events: []
 
 Kathryn Armstrong Loving:
   agencies:
   - Environmental Protection Agency
   events:
-  - agency: Environmental Protection Agency
-    date: '2025-02-12'
+  - agency: EPA
+    date: 2025-02-12
     event: DOGE staff at the EPA are reportedly granted read-only access to the EPA Acquisition System system for acquisitions
     name: Kathryn Armstrong Loving
     source: https://www.eenews.net/articles/doge-lands-at-epa/
 
 Katie Miller:
   agencies:
-  - US Digital Service/Department of Government Efficiency
+  - Department of Government Efficiency
+  - Executive Office of the President
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-01-24'
-    event: A report from Business Insider names some of the DOGE staff that was involved in transition activities
+  - agency: DOGE
+    date: 2025-01-24
+    event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
     name: Katie Miller
     source: https://www.yahoo.com/news/doge-just-got-hire-224212262.html
 
@@ -1338,18 +1364,19 @@ Katrine Trampe:
   agencies:
   - Department of the Interior
   events:
-  - agency: Department of the Interior
-    date: '2025-03-29'
+  - agency: DOI
+    date: 2025-03-29
     event: Two DOGE staffers are granted admin access to the FPPS payroll system at the Department of the Interior
     name: Katrine Trampe
     source: https://www.nytimes.com/2025/03/31/us/politics/doge-musk-federal-payroll.html
 
 Keenan Kmiec:
   agencies:
-  - US Digital Service/Department of Government Efficiency
+  - Department of Government Efficiency
+  - Executive Office of the President
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-26'
+  - agency: DOGE
+    date: 2025-03-26
     event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
     name: Keenan Kmiec
     source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
@@ -1359,23 +1386,25 @@ Keith Sonderling:
   - Department of Labor
   - Institute for Museum and Library Services
   events:
-  - agency: Department of Labor
-    date: '2025-03-18'
+  - agency: DOL
+    date: 2025-03-18
     event: Keith Sonderling is sworn in as the Deputy Secretary of labor
     name: Keith Sonderling
     source: https://news.artnet.com/art-world/doge-imls-institute-museum-library-services-2623286
-  - agency: Institute for Museum and Library Services
-    date: '2025-03-20'
+  - agency: IMLS
+    date: 2025-03-20
     event: DOGE arrives at IMLS HQ, are startled to find staff there, swear in Keith Sonderling as acting director and leave
     name: Keith Sonderling
     source: https://news.artnet.com/art-world/doge-imls-institute-museum-library-services-2623286
 
 Kendall Lindemann:
   agencies:
-  - US Digital Service/Department of Government Efficiency
+  - Department of Government Efficiency
+  - Executive Office of the President
+  - US Digital Service
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-02-14'
+  - agency: DOGE
+    date: 2025-02-14
     event: Kendall Lindemann hired at DOGE from McKinsey and Associates (not a Musk-related company)
     name: Kendall Lindemann
     source: https://www.consulting.us/news/11397/former-mckinsey-business-analyst-hired-to-musks-doge-nerd-army
@@ -1385,28 +1414,28 @@ Kenneth Jackson:
   - US Agency for International Development
   - US Institute of Peace
   events:
-  - agency: US Institute of Peace
-    date: '2025-03-14'
+  - agency: USIP
+    date: 2025-03-14
     event: DOGE members Kenneth Jackson, Jacob Altik and Nate Cavanaugh show up at USIP building with 2 other people claiming to be FBI agents and are refused entry. They attempted to present a document firing the USIP president.
     name: Kenneth Jackson
     source: https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/
-  - agency: US Institute of Peace
-    date: '2025-03-17'
+  - agency: USIP
+    date: 2025-03-17
     event: DOGE members Kenneth Jackson, Jacob Altik and Nate Cavanaugh remove staff and president of the USIP with the help of Office of the U.S. Attorney for the District of Columbia, the FBI and D.C. police
     name: Kenneth Jackson
     source: https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/
-  - agency: US Institute of Peace
-    date: '2025-03-17'
+  - agency: USIP
+    date: 2025-03-17
     event: Kenneth Jackson is named Acting President of the US Institute of Peace
     name: Kenneth Jackson
     source: https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/
-  - agency: US Agency for International Development
-    date: '2025-03-18'
+  - agency: USAID
+    date: 2025-03-18
     event: Jeremy Lewin is appointed to the position of Deputy Administrator (Policy and Programming) and Kenneth Jackson is named Deputy Administrator (Management and Resources). He claims it was unrelated to the ruling by Chuang.
     name: Kenneth Jackson
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576293/gov.uscourts.mdd.576293.77.2.pdf
-  - agency: US Agency for International Development
-    date: '2025-03-19'
+  - agency: USAID
+    date: 2025-03-19
     event: Peter Marocco says that he will be succeeded at the agency by Jeremy Lewin and Kenneth Jackson
     name: Kenneth Jackson
     source: https://www.nytimes.com/2025/03/19/us/politics/usaid-doge-leadership.html
@@ -1414,45 +1443,46 @@ Kenneth Jackson:
 Kyle Schutt:
   agencies:
   - Cybersecurity and Infrastructure Security Agency
+  - Department of Government Efficiency
   - Department of Homeland Security
   - Federal Emergency Management Agency
   - General Services Administration
   - Health and Human Services
   - US Citizenship & Immigration Services
-  - US Digital Service/Department of Government Efficiency
+  - US Digital Service
   events:
-  - agency: Cybersecurity and Infrastructure Security Agency
-    date: '2025-02-19'
+  - agency: CISA
+    date: 2025-02-19
     event: Edward Coristine and Kyle Schutt are reportedly given access to CISA systems
     name: Kyle Schutt
     source: https://www.wired.com/story/doge-cisa-coristine-cybersecurity/
-  - agency: General Services Administration
-    date: '2025-03-04'
+  - agency: GSA
+    date: 2025-03-04
     event: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid as full-time GSA employees, but other staff are listed as volunteers for that agency
     name: Kyle Schutt
     source: https://www.wired.com/story/doge-government-salaries-elon-musk/
-  - agency: Health and Human Services
-    date: '2025-03-14'
+  - agency: HHS
+    date: 2025-03-14
     event: Kyle Schutt is detailed to the Administration for Children and Families (ACF) office at HHS from the GSA. He also is detailed to the USDS
     name: Kyle Schutt
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: US Citizenship & Immigration Services
-    date: '2025-03-15'
+  - agency: USCIS
+    date: 2025-03-15
     event: DHS CIO Antoine McCord requests that access be granted for DOGE to the USCIS Data Business Intelligence Services (aka, the Data Lake)
     name: Kyle Schutt
     source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
-  - agency: Health and Human Services
-    date: '2025-03-21'
+  - agency: HHS
+    date: 2025-03-21
     event: Kyle Schutt is granted read-only access to the Unaccompanied Alien Children (UAC) Portal
     name: Kyle Schutt
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: US Citizenship & Immigration Services
-    date: '2025-03-28'
+  - agency: USCIS
+    date: 2025-03-28
     event: USCIS CIO William McElhaney sends a message to DHS Deputy Secretary asking them to review access that was granted to DOGE staff
     name: Kyle Schutt
     source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
-  - agency: Health and Human Services
-    date: '2025-03-29'
+  - agency: HHS
+    date: 2025-03-29
     event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff who have worked at HHS
     name: Kyle Schutt
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
@@ -1461,48 +1491,48 @@ Leland Dudek:
   agencies:
   - Social Security Administration
   events:
-  - agency: Social Security Administration
-    date: '2025-01-30'
+  - agency: SSA
+    date: 2025-01-30
     event: Leland Dudek reaches out to Tiffany Flick, the Associate Director of Budget, Facilities and Security to inform her two DOGE staff would be onboarding. He was a mid-level employee at the time.
     name: Leland Dudek
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-  - agency: Social Security Administration
-    date: '2025-02-10'
+  - agency: SSA
+    date: 2025-02-10
     event: CIO Mike Russo convenes his own internal informational group in SSA, has conversations with other agencies about data sharing, does not inform acting SSA Director, Michelle King
     name: Leland Dudek
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-  - agency: Social Security Administration
-    date: '2025-02-14'
+  - agency: SSA
+    date: 2025-02-14
     event: Leland Dudek is placed on administrative leave while under investigation that he committed inappropriate actions to help DOGE
     name: Leland Dudek
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-  - agency: Social Security Administration
-    date: '2025-02-16'
+  - agency: SSA
+    date: 2025-02-16
     event: The acting director of the Social Security Administration, Michelle King, receives an email from the White House that Dudek is now the Acting Commissioner.
     name: Leland Dudek
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-  - agency: Social Security Administration
-    date: '2025-02-20'
+  - agency: SSA
+    date: 2025-02-20
     event: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
     name: Leland Dudek
     source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
-  - agency: Social Security Administration
-    date: '2025-03-01'
+  - agency: SSA
+    date: 2025-03-01
     event: In an email to staff, Dudek explains the disruptions by saying "elections have consequences"
     name: Leland Dudek
     source: https://www.propublica.org/article/recording-reveals-leland-dudek-thoughts-trump-doge-social-security
-  - agency: Social Security Administration
-    date: '2025-03-04'
+  - agency: SSA
+    date: 2025-03-04
     event: In a meeting, Dudek stresses again that DOGE will make mistakes and also admits "I am receiving decisions that are made without my input. I have to effectuate those decisions," suggesting DOGE is in charge.
     name: Leland Dudek
     source: https://www.washingtonpost.com/politics/2025/03/06/doge-is-driving-social-security-cuts-will-make-mistakes-acting-head-says-privately/
-  - agency: Social Security Administration
-    date: '2025-03-20'
+  - agency: SSA
+    date: 2025-03-20
     event: Leland Dudek threatens to shut down the entire Social Security Administration instead of complying with the order
     name: Leland Dudek
     source: https://www.washingtonpost.com/politics/2025/03/21/social-security-benefits-trump-doge/
-  - agency: Social Security Administration
-    date: '2025-03-26'
+  - agency: SSA
+    date: 2025-03-26
     event: During his confirmation hearing, Frank Bisignano, the nominee to run the agency, confirms that he had coordinated with Michael Russo but denied a whistleblower report that he had ordered the appointment of DOGE staff there
     name: Leland Dudek
     source: https://thehill.com/homenews/5212751-sen-wyden-questions-bisignano/
@@ -1514,187 +1544,188 @@ Luke Farritor:
   - Consumer Financial Protection Bureau
   - Department of Education
   - Department of Energy
-  - Department of State
+  - Department of Government Efficiency
   - General Services Administration
   - Health and Human Services
   - National Institute of Health
   - Social Security Administration
+  - State Department
   - US Agency for International Development
-  - US Digital Service/Department of Government Efficiency
+  - US Digital Service
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2024-12-05'
+  - agency: DOGE
+    date: 2024-12-05
     event: Luke Farritor posts a recruitment message for DOGE in a Discord server for SpaceX interns looking for volunteers to work at DOGE for 6 months
     name: Luke Farritor
     source: https://www.wired.com/story/elon-musk-doge-recruiting-palantir/
-  - agency: Health and Human Services
-    date: '2025-01-21'
+  - agency: HHS
+    date: 2025-01-21
     event: According to a government declaration, Luke Farritor is detailed from the GSA to Health and Human Services
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Health and Human Services
-    date: '2025-01-22'
+  - agency: HHS
+    date: 2025-01-22
     event: Luke Farritor is granted full admin access to the Payment Management System (PMS)
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Health and Human Services
-    date: '2025-01-27'
+  - agency: HHS
+    date: 2025-01-27
     event: Luke Farritor is granted read-only access to the GrantSolutions by the Director, Security and Data Project Management Office, HHS Office of Grants
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: US Agency for International Development
-    date: '2025-01-27'
+  - agency: USAID
+    date: 2025-01-27
     event: A DOGE official first arrives at USAID. Later, senior staff are summoned to a meeting with Gavin Kliger and Luke Farritor.
     name: Luke Farritor
     source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
-  - agency: Health and Human Services
-    date: '2025-01-29'
+  - agency: HHS
+    date: 2025-01-29
     event: Luke Farritor is granted full-admin access to the HHS Consolidated Acquisition System (HCAS) by the Executive Director, Strategic Programs and Business Systems at the Office of the Assistant Secretary for Financial Resources (ASFR)
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Centers for Disease Control and Prevention
-    date: '2025-01-30'
+  - agency: CDC
+    date: 2025-01-30
     event: Luke Farritor is granted read-only access to the Integrated Contracts Expert (ICE) system at CDC by the Office of the CIO
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: General Services Administration
-    date: '2025-01-30'
+  - agency: GSA
+    date: 2025-01-30
     event: Elon Musk reportedly visits GSA to meet with staff, several of whom are identified from appearances in the internal directory
     name: Luke Farritor
     source: https://www.nextgov.com/people/2025/01/musk-visits-and-asserts-growing-influence-gsa/402628/
-  - agency: US Agency for International Development
-    date: '2025-01-30'
+  - agency: USAID
+    date: 2025-01-30
     event: Farritor and Kliger demanded that all senior managers be stripped of their power to authorize payments - and that they alone become the authorizers.
     name: Luke Farritor
     source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
-  - agency: Centers for Medicare and Medicaid Services
-    date: '2025-01-31'
+  - agency: CMS
+    date: 2025-01-31
     event: Luke Farritor is granted read-only access to the Healthcare Integrated General Ledger Accounting System (HIGLAS) by the CIO, CMS Office of Information Technology
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Department of Energy
-    date: '2025-02-05'
+  - agency: Energy
+    date: 2025-02-05
     event: Luke Farritor was granted access to the Energy Department's IT system on Wednesday by Energy Secretary Chris Wright over objections from agency security staff
     name: Luke Farritor
     source: https://www.cnn.com/2025/02/06/climate/doge-energy-department-trump/index.html
-  - agency: Consumer Financial Protection Bureau
-    date: '2025-02-07'
+  - agency: CFPB
+    date: 2025-02-07
     event: Jordan Wick, Nikhil Rajpal and Luke Farritor are granted read-only access to the Procurement Request Information System Management (PRISM), webTA, Data Insight, USAStaffing, Invoice Processing Platform (IPP), Oracle Business Intelligence (OBI), oneARC, G-Invoicing, and Concur
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Consumer Financial Protection Bureau
-    date: '2025-02-07'
+  - agency: CFPB
+    date: 2025-02-07
     event: Jordan Wick, Nikhil Rajpal and Luke Farritor are granted full admin access to the HRConnect system
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Consumer Financial Protection Bureau
-    date: '2025-02-07'
+  - agency: CFPB
+    date: 2025-02-07
     event: Nikhil Rajpal and Luke Farritor are granted full admin access to the Microsoft Entra system
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: US Agency for International Development
-    date: '2025-02-09'
+  - agency: USAID
+    date: 2025-02-09
     event: Gavin Kliger and Luke Farritor completely remove all access to the payments system for all other USAID staff
     name: Luke Farritor
     source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
-  - agency: Department of State
-    date: '2025-02-10'
+  - agency: State
+    date: 2025-02-10
     event: Edward Coristine and Luke Farritor are posted to the State Department's Bureau of Diplomatic Technology
     name: Luke Farritor
     source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
-  - agency: Centers for Medicare and Medicaid Services
-    date: '2025-02-18'
+  - agency: CMS
+    date: 2025-02-18
     event: Luke Farritor is granted read-only access to Integrated Data Repository (IDR) at CMS on February 18, 2025, by the CIO, CMS Office of Information Technology;
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Centers for Disease Control and Prevention
-    date: '2025-02-24'
+  - agency: CDC
+    date: 2025-02-24
     event: Luke Farritor is granted read-only access to the Acquisition Performance and Execution (APEX) system at CDC by the Office of the CIO
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: National Institute of Health
-    date: '2025-02-24'
+  - agency: NIH
+    date: 2025-02-24
     event: Four DOGE staffers have email addresses linked to NIH
     name: Luke Farritor
     source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
-  - agency: National Institute of Health
-    date: '2025-02-24'
+  - agency: NIH
+    date: 2025-02-24
     event: Three DOGE staffers are placed within the NIH Business System Department for access to NIH's central electronic business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
     name: Luke Farritor
     source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
-  - agency: Health and Human Services
-    date: '2025-02-28'
+  - agency: HHS
+    date: 2025-02-28
     event: Luke Farritor is granted full admin access to the Enterprise Human Capital Management System (EHCM) by the Human Resources Information System Security Officer
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: National Institute of Health
-    date: '2025-02-28'
+  - agency: NIH
+    date: 2025-02-28
     event: Luke Farritor is granted read-only access to NIH Business System EBS and PRISM systems by NIH's office of the CIO
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Consumer Financial Protection Bureau
-    date: '2025-03-04'
+  - agency: CFPB
+    date: 2025-03-04
     event: Luke Farritor has his access revoked to all systems as part of offboarding
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Consumer Financial Protection Bureau
-    date: '2025-03-04'
+  - agency: CFPB
+    date: 2025-03-04
     event: Luke Farritor is no longer detailed to the CFPB and is offboarded
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: General Services Administration
-    date: '2025-03-04'
+  - agency: GSA
+    date: 2025-03-04
     event: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid as full-time GSA employees, but other staff are listed as volunteers for that agency
     name: Luke Farritor
     source: https://www.wired.com/story/doge-government-salaries-elon-musk/
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-05'
+  - agency: DOGE
+    date: 2025-03-05
     event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP), including 4 lawyers previously not listed
     name: Luke Farritor
     source: https://theintercept.com/2025/03/05/leaked-list-musk-doge-lawyers/
-  - agency: Health and Human Services
-    date: '2025-03-13'
+  - agency: HHS
+    date: 2025-03-13
     event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
-  - agency: Social Security Administration
-    date: '2025-03-13'
+  - agency: SSA
+    date: 2025-03-13
     event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     name: Luke Farritor
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
-  - agency: Health and Human Services
-    date: '2025-03-21'
+  - agency: HHS
+    date: 2025-03-21
     event: Luke Farritor is granted admin read-write access to Grants.gov by the Assistant Secretary for Financial Resources (ASFR)
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Centers for Medicare and Medicaid Services
-    date: '2025-03-29'
+  - agency: CMS
+    date: 2025-03-29
     event: In a legal filing, the DOJ identifies 4 DOGE staffers - Edward Coristine, Marko Elez, Luke Farritor and Amy Gleason - at CMS
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Health and Human Services
-    date: '2025-03-29'
+  - agency: HHS
+    date: 2025-03-29
     event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff who have worked at HHS
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
 
 Marc Andreessen:
   agencies:
-  - US Digital Service/Department of Government Efficiency
+  - Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2024-12-06'
+  - agency: DOGE
+    date: 2024-12-06
     event: A report on the tech billionaires steering Trump's transition mentions Musk and other DOGE staff, and how they have been interviewing people at Mar-a-Lago
     name: Marc Andreessen
     source: https://www.nytimes.com/2024/12/06/us/politics/trump-elon-musk-silicon-valley.html
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-01-16'
+  - agency: DOGE
+    date: 2025-01-16
     event: A report on conservative nonprofit groups doing research for DOGE notes that interviews are being conducted by Marc Andreessen and Shaun Maguire
     name: Marc Andreessen
     source: https://www.washingtonexaminer.com/news/investigations/3287555/maga-conservative-non-profits-doge-research/
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-01-24'
-    event: A report from Business Insider names some of the DOGE staff that was involved in transition activities
+  - agency: DOGE
+    date: 2025-01-24
+    event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
     name: Marc Andreessen
     source: https://www.yahoo.com/news/doge-just-got-hire-224212262.html
 
@@ -1702,166 +1733,168 @@ Marko Elez:
   agencies:
   - Centers for Medicare and Medicaid Services
   - Customs and Border Patrol
+  - Department of Government Efficiency
   - Department of Homeland Security
   - Department of Labor
   - Department of the Treasury
+  - Executive Office of the President
   - Health and Human Services
   - Immigration and Customs Enforcement
   - Social Security Administration
-  - US Digital Service/Department of Government Efficiency
+  - US Digital Service
   events:
-  - agency: Department of the Treasury
-    date: '2025-01-21'
+  - agency: Treasury
+    date: 2025-01-21
     event: Marko Elez starts at the Treasury Department. He is not appointed as a Special Government Employee, meaning he is subject to additional ethics requirements.
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.4_3.pdf
-  - agency: Department of the Treasury
-    date: '2025-01-28'
+  - agency: Treasury
+    date: 2025-01-28
     event: Marko Elez is provided with a laptop from Treasury with with copies of the source code for PAM, SPS, and ASAP in a separate, secure coding environment known as a "secure code repository" or "sandbox."
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.3_1.pdf
-  - agency: Department of the Treasury
-    date: '2025-01-29'
+  - agency: Treasury
+    date: 2025-01-29
     event: A ticket for systems access is issued to give Marko Elez read-write access to PAM
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
-  - agency: Department of the Treasury
-    date: '2025-01-30'
+  - agency: Treasury
+    date: 2025-01-30
     event: A ticket for systems access is corrected to note that Marko Elez should only have read-only access to the PAM system
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
-  - agency: Department of the Treasury
-    date: '2025-01-31'
+  - agency: Treasury
+    date: 2025-01-31
     event: A ticket for systems access is corrected to change Marko Elez's access from read-only to read-write for the PAM
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
-  - agency: Department of the Treasury
-    date: '2025-02-01'
+  - agency: Treasury
+    date: 2025-02-01
     event: Another ticket is filed to remove write access from Marko Elez's profile in the PAM system
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
-  - agency: Department of the Treasury
-    date: '2025-02-01'
+  - agency: Treasury
+    date: 2025-02-01
     event: A ticket notes that Marko Elez's account was granted access to a DB2 database via remote SSH access
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
-  - agency: Department of the Treasury
-    date: '2025-02-03'
+  - agency: Treasury
+    date: 2025-02-03
     event: Marko Elez is provided read-only access to the Payment Automation Manager (PAM) Database, Payment Automation Manager (PAM) File System
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.3_1.pdf
-  - agency: Department of the Treasury
-    date: '2025-02-03'
+  - agency: Treasury
+    date: 2025-02-03
     event: A ticket notes that Marko Elez was walked through access to the PAM system and confirms access was read only
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
-  - agency: Department of the Treasury
-    date: '2025-02-05'
+  - agency: Treasury
+    date: 2025-02-05
     event: A ticket notes that Marko Elez was walked through read-only access to the SPS system
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
-  - agency: Department of the Treasury
-    date: '2025-02-06'
+  - agency: Treasury
+    date: 2025-02-06
     event: A ticket is updated to note Marko Elez's account remote access via SSH to a DB2 database has been revoked
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
-  - agency: Department of the Treasury
-    date: '2025-02-06'
+  - agency: Treasury
+    date: 2025-02-06
     event: On the morning of February 6, Treasury discovers that Marko Elez's database access to SPS on February 5 had mistakenly been configured to have read/write permissions instead of read-only
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.3_1.pdfmarko-elez-resigned-the-day-his-write-access-to-payment-systems-was-discovered/
-  - agency: Department of the Treasury
-    date: '2025-02-11'
+  - agency: Treasury
+    date: 2025-02-11
     event: Affadavit states Marko Elez was accidentally given edit access to BFS systems but did not use it
     name: Marko Elez
     source: https://www.washingtonpost.com/business/2025/02/11/doge-treasury-access-marko-elez/
-  - agency: Department of the Treasury
-    date: '2025-02-20'
+  - agency: Treasury
+    date: 2025-02-20
     event: John York, a senior counselor to Bessent, wrote in a sworn statement that Ryan Wunderly would take over Marko Elez's work at the BFS
     name: Marko Elez
     source: https://www.politico.com/news/2025/02/20/treasury-irs-data-white-house-doge-00205391
-  - agency: Social Security Administration
-    date: '2025-02-20'
+  - agency: SSA
+    date: 2025-02-20
     event: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
     name: Marko Elez
     source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
-  - agency: Department of Labor
-    date: '2025-02-25'
+  - agency: DOL
+    date: 2025-02-25
     event: Marko Elez is granted access read-only access to USAccess and DOL Directory Resource Administrator (DRA) systems by Troy Finnegan, Former Assistant Secretary for Administration and Management
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Department of Labor
-    date: '2025-02-25'
+  - agency: DOL
+    date: 2025-02-25
     event: Marko Elez is granted access read-only access to DOL Homeland Security Presidential Directive 12 (HSPD-12) Enterprise Physical Access Control System (EPACS) by Troy Finnegan, Former Assistant Secretary for Administration and Management
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Centers for Medicare and Medicaid Services
-    date: '2025-03-05'
+  - agency: CMS
+    date: 2025-03-05
     event: Marko Elez is detailed to HHS from the Department of Labor, where he is reported as an employee. He is also detailed to USDS
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Centers for Medicare and Medicaid Services
-    date: '2025-03-05'
+  - agency: CMS
+    date: 2025-03-05
     event: Edward Coristine and Marko Elez are granted read-only access to the CMS Acquisition Lifecycle Modernization (CALM) system.
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Centers for Medicare and Medicaid Services
-    date: '2025-03-05'
+  - agency: CMS
+    date: 2025-03-05
     event: Edward Coristine and Marko Elez are granted read-only access to the Healthcare Integrated General Ledger Accounting System (HIGLAS) system by the CIO of the CMS Office of Information Technology
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Centers for Medicare and Medicaid Services
-    date: '2025-03-05'
+  - agency: CMS
+    date: 2025-03-05
     event: Marko Elez is granted read-only access to the Integrated Data Repository (IDR) system by the CIO of the CMS Office of Information Technology
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-05'
+  - agency: DOGE
+    date: 2025-03-05
     event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP), including 4 lawyers previously not listed
     name: Marko Elez
     source: https://theintercept.com/2025/03/05/leaked-list-musk-doge-lawyers/
-  - agency: Department of Labor
-    date: '2025-03-05'
+  - agency: DOL
+    date: 2025-03-05
     event: Business Insider reports Marko Elez, Aram Moghaddassi, and Miles B. Collins are new DOGE arrivals at Department of Labor
     name: Marko Elez
     source: https://www.businessinsider.com/doge-staffer-fertility-clinic-pronatalist-department-of-labor
-  - agency: Health and Human Services
-    date: '2025-03-05'
+  - agency: HHS
+    date: 2025-03-05
     event: Marko Elez is granted read-only access to National Directory of New Hires (NDNH) database by the Administration for Children and Families (ACF) CTO
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Health and Human Services
-    date: '2025-03-13'
+  - agency: HHS
+    date: 2025-03-13
     event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
-  - agency: Social Security Administration
-    date: '2025-03-13'
+  - agency: SSA
+    date: 2025-03-13
     event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     name: Marko Elez
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
-  - agency: Department of Labor
-    date: '2025-03-19'
+  - agency: DOL
+    date: 2025-03-19
     event: Marko Elez affirms he has completed his mandatory privacy training at the Department of Labor
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.3.pdf
-  - agency: Department of Labor
-    date: '2025-03-21'
+  - agency: DOL
+    date: 2025-03-21
     event: Marko Elez is granted access read-only access to Unemployment Insurance Data and Related Records by Thomas Shedd, the new CIO
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Centers for Medicare and Medicaid Services
-    date: '2025-03-29'
+  - agency: CMS
+    date: 2025-03-29
     event: In a legal filing, the DOJ identifies 4 DOGE staffers - Edward Coristine, Marko Elez, Luke Farritor and Amy Gleason - at CMS
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Health and Human Services
-    date: '2025-03-29'
+  - agency: HHS
+    date: 2025-03-29
     event: In a filing, DOJ asserts that Edward Coristine and Marko Elez no longer have access to HHS systems
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Health and Human Services
-    date: '2025-03-29'
+  - agency: HHS
+    date: 2025-03-29
     event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff who have worked at HHS
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
@@ -1869,33 +1902,34 @@ Marko Elez:
 Mattieu Gamache-Asselin:
   agencies:
   - Health and Human Services
+  events: []
 
 Michael Grimes:
   agencies:
   - Commerce Department
   events:
-  - agency: Commerce Department
-    date: '2025-01-29'
+  - agency: Commerce
+    date: 2025-01-29
     event: Michael Grimes reported to be taking a senior role at the Commerce Department
     name: Michael Grimes
     source: https://www.nytimes.com/2025/01/29/us/politics/morgan-stanley-grimes-trump-commerce.html
-  - agency: Commerce Department
-    date: '2025-03-28'
+  - agency: Commerce
+    date: 2025-03-28
     event: Michael Grimes conducts DOGE-style interviews with each member of the staff in the Chips Program Office
     name: Michael Grimes
     source: https://www.ft.com/content/21ad2223-2a7f-44d4-8004-38956597bb9d
 
 Michael Kratsios:
   agencies:
-  - US Digital Service/Department of Government Efficiency
+  - Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2024-12-06'
+  - agency: DOGE
+    date: 2024-12-06
     event: A report on the tech billionaires steering Trump's transition mentions Musk and other DOGE staff, and how they have been interviewing people at Mar-a-Lago
     name: Michael Kratsios
     source: https://www.nytimes.com/2024/12/06/us/politics/trump-elon-musk-silicon-valley.html
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-25'
+  - agency: DOGE
+    date: 2025-03-25
     event: Michael Kratsios is confirmed by the Senate as the new director of the White House Office of Science and Technology Policy (OSTP)
     name: Michael Kratsios
     source: https://fedscoop.com/senate-confirms-michael-kratsios-white-house-ostp-director/
@@ -1905,73 +1939,69 @@ Michael Mirski:
   - Federal Housing Finance Agency
   - Housing and Urban Development
   events:
-  - agency: Housing and Urban Development
-    date: '2025-02-20'
+  - agency: HUD
+    date: 2025-02-20
     event: DOGE staff gains access to the HUD Enforcement Management System (HEMS), which contains information on victims of housing discrimination and domestic violence
     name: Michael Mirski
     source: https://www.propublica.org/article/doge-elon-musk-hud-housing-discrimination-privacy-domestic-violence
-  - agency: Housing and Urban Development
-    date: '2025-02-26'
+  - agency: HUD
+    date: 2025-02-26
     event: Wired reports that two DOGE staffers have read-write access to the LOCCS and HUDCAPS systems
     name: Michael Mirski
     source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
-  - agency: Housing and Urban Development
-    date: '2025-02-26'
+  - agency: HUD
+    date: 2025-02-26
     event: Wired reports that Michael Mirski has read-write access to Web Access Security Subsystem (WASS) at HUD, which would let him grant or revoke access to any other systems
     name: Michael Mirski
     source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
-  - agency: Housing and Urban Development
-    date: '2025-02-26'
+  - agency: HUD
+    date: 2025-02-26
     event: Wired reports that Michael Mirski has read access to the IDIS and FASS-PH systems at HUD
     name: Michael Mirski
     source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
 
-Mike Gonzalez:
-  agencies:
-  - Office of Personnel Management
-
 Mike Russo:
   agencies:
+  - Department of Government Efficiency
   - Social Security Administration
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: Social Security Administration
-    date: '2025-01-30'
+  - agency: SSA
+    date: 2025-01-30
     event: Leland Dudek reaches out to Tiffany Flick, the Associate Director of Budget, Facilities and Security to inform her two DOGE staff would be onboarding. He was a mid-level employee at the time.
     name: Mike Russo
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-  - agency: Social Security Administration
-    date: '2025-01-31'
+  - agency: SSA
+    date: 2025-01-31
     event: Mike Russo begins onboarding as new CIO, introduces himself as a DOGE representative to staff
     name: Mike Russo
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-  - agency: Social Security Administration
-    date: '2025-02-03'
+  - agency: SSA
+    date: 2025-02-03
     event: Mike Russo officially joins the agency as its new CIO, requests Akash Bobba to join the agency (but he has issues with his background check)
     name: Mike Russo
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-  - agency: Social Security Administration
-    date: '2025-02-10'
+  - agency: SSA
+    date: 2025-02-10
     event: Mike Russo, DOGE chief of staff Steve Davis both demand that Akash Bobba be onboarded before midnight.
     name: Mike Russo
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-  - agency: Social Security Administration
-    date: '2025-02-10'
+  - agency: SSA
+    date: 2025-02-10
     event: CIO Mike Russo convenes his own internal informational group in SSA, has conversations with other agencies about data sharing, does not inform acting SSA Director, Michelle King
     name: Mike Russo
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-  - agency: Social Security Administration
-    date: '2025-02-15'
+  - agency: SSA
+    date: 2025-02-15
     event: Akash Bobba reports issue with the "sandbox" data. Russo demands he gets immediate full access to Enterprise Data Warehouse (EDW), Master Beneficiary Record (MBR) and Supplemental Security Record (SSR) files as well as source code
     name: Mike Russo
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-  - agency: Social Security Administration
-    date: '2025-03-25'
+  - agency: SSA
+    date: 2025-03-25
     event: Scott Coulter is named the new CIO at the Social Security Administration and Mike Russo is moved to a Senior Advisor role with a focus on modernizing systems
     name: Mike Russo
     source: https://www.nextgov.com/people/2025/03/ssa-tech-shop-be-led-another-doge-associate/404031/?oref=ng-homepage-river
-  - agency: Social Security Administration
-    date: '2025-03-26'
+  - agency: SSA
+    date: 2025-03-26
     event: During his confirmation hearing, Frank Bisignano, the nominee to run the agency, confirms that he had coordinated with Michael Russo but denied a whistleblower report that he had ordered the appointment of DOGE staff there
     name: Mike Russo
     source: https://thehill.com/homenews/5212751-sen-wyden-questions-bisignano/
@@ -1980,8 +2010,8 @@ Miles Collins:
   agencies:
   - Department of Labor
   events:
-  - agency: Department of Labor
-    date: '2025-03-05'
+  - agency: DOL
+    date: 2025-03-05
     event: Business Insider reports Marko Elez, Aram Moghaddassi, and Miles B. Collins are new DOGE arrivals at Department of Labor
     name: Miles Collins
     source: https://www.businessinsider.com/doge-staffer-fertility-clinic-pronatalist-department-of-labor
@@ -1990,106 +2020,106 @@ Nate Cavanaugh:
   agencies:
   - General Services Administration
   - Institute for Museum and Library Services
-  - Inter-American Foundation
   - U.S. African Development Foundation
   - US Institute of Peace
   events:
-  - agency: U.S. African Development Foundation
-    date: '2025-02-21'
+  - agency: USADF
+    date: 2025-02-21
     event: Ethan Shaotran, Jacob Altik, and Nate Cavanaugh arrive at the agency and demand that a MOU must be signed for their detail assignment
     name: Nate Cavanaugh
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
-  - agency: U.S. African Development Foundation
-    date: '2025-02-21'
+  - agency: USADF
+    date: 2025-02-21
     event: Once MOU is signed, DOGE staff reveal their real purpose is to conduct a massive reduction in agency staff and scope and demand to file a RIF plan by 2/24
     name: Nate Cavanaugh
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
-  - agency: U.S. African Development Foundation
-    date: '2025-02-21'
+  - agency: USADF
+    date: 2025-02-21
     event: Nate Canaugh and Jacob Altik then demanded immediate access to USADF systems including financial records and payment and human resources systems. They were told they had to go through standard clearance process.
     name: Nate Cavanaugh
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
-  - agency: US Institute of Peace
-    date: '2025-02-24'
+  - agency: USIP
+    date: 2025-02-24
     event: USIP leadership meets with DOGE staff to explain history and legal status of the agency
     name: Nate Cavanaugh
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
-  - agency: US Institute of Peace
-    date: '2025-02-24'
+  - agency: USIP
+    date: 2025-02-24
     event: DOGE counters their belief that minimum statutory size of agency is "a Board of Directors and a president, reports to Congress and the Executive branch, and expenses incident to the Board of Directors" and says they will regroup
     name: Nate Cavanaugh
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
-  - agency: General Services Administration
-    date: '2025-03-04'
+  - agency: GSA
+    date: 2025-03-04
     event: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid as full-time GSA employees, but other staff are listed as volunteers for that agency
     name: Nate Cavanaugh
     source: https://www.wired.com/story/doge-government-salaries-elon-musk/
-  - agency: U.S. African Development Foundation
-    date: '2025-03-04'
+  - agency: USADF
+    date: 2025-03-04
     event: USADF CFO Mathieu Zahui receives an email from Nate Cavanaugh informing him that Peter Marocco would be coming to the office the following day as Chairman of the Board
     name: Nate Cavanaugh
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.2.pdf
-  - agency: U.S. African Development Foundation
-    date: '2025-03-05'
+  - agency: USADF
+    date: 2025-03-05
     event: Nate Cavanaugh sends Ward Brehm an email demanding to know by what authority he is the President/CFO of USADF
     name: Nate Cavanaugh
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.2.pdf
-  - agency: U.S. African Development Foundation
-    date: '2025-03-06'
+  - agency: USADF
+    date: 2025-03-06
     event: DOGE staff Jacob Altik and Ethan Shaotran return joined by Nate Cavanaugh with US marshals to force entry to the agency
     name: Nate Cavanaugh
     source: https://www.thedailybeast.com/elon-musks-doge-goons-in-tense-standoff-video-unmasked/
-  - agency: US Institute of Peace
-    date: '2025-03-14'
+  - agency: USIP
+    date: 2025-03-14
     event: DOGE members Kenneth Jackson, Jacob Altik and Nate Cavanaugh show up at USIP building with 2 other people claiming to be FBI agents and are refused entry. They attempted to present a document firing the USIP president.
     name: Nate Cavanaugh
     source: https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/
-  - agency: US Institute of Peace
-    date: '2025-03-17'
+  - agency: USIP
+    date: 2025-03-17
     event: DOGE members Kenneth Jackson, Jacob Altik and Nate Cavanaugh remove staff and president of the USIP with the help of Office of the U.S. Attorney for the District of Columbia, the FBI and D.C. police
     name: Nate Cavanaugh
     source: https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/
-  - agency: US Institute of Peace
-    date: '2025-03-25'
+  - agency: USIP
+    date: 2025-03-25
     event: Nate Cavanaugh is named the new President of USIP by the two remaining members of the board, Marco Rubio and Pete Hegseth, and he is authorized to transfer all assets to the GSA
     name: Nate Cavanaugh
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.14.1.pdf
-  - agency: US Institute of Peace
-    date: '2025-03-25'
+  - agency: USIP
+    date: 2025-03-25
     event: Nate Cavanaugh contacts the administrator of the GSA to propose transferring the USIP building to them, arguing that USIP won't need a building because the statute doesn't mandate it has one or staffing
     name: Nate Cavanaugh
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.15.3.pdf
-  - agency: Institute for Museum and Library Services
-    date: '2025-03-31'
+  - agency: IMLS
+    date: 2025-03-31
     event: DOGE arrives at the agency and notifies the entire staff of IMLS that they are being put on administrative leave effective immediately
     name: Nate Cavanaugh
     source: https://bsky.app/profile/marisakabas.bsky.social
 
 Nicholas Lahera:
   agencies:
-  - US Digital Service/Department of Government Efficiency
+  - Department of Government Efficiency
+  events: []
 
 Nicole Hollander:
   agencies:
   - General Services Administration
   events:
-  - agency: General Services Administration
-    date: '2025-01-29'
+  - agency: GSA
+    date: 2025-01-29
     event: A team of high-ranking GSA employees meets to discuss building special "resting rooms" for DOGE and other A-suite staff
     name: Nicole Hollander
     source: https://www.wired.com/story/elon-musk-lackeys-general-services-administration/
-  - agency: General Services Administration
-    date: '2025-01-30'
+  - agency: GSA
+    date: 2025-01-30
     event: Elon Musk reportedly visits GSA to meet with staff, several of whom are identified from appearances in the internal directory
     name: Nicole Hollander
     source: https://www.nextgov.com/people/2025/01/musk-visits-and-asserts-growing-influence-gsa/402628/
-  - agency: General Services Administration
-    date: '2025-01-31'
+  - agency: GSA
+    date: 2025-01-31
     event: Wired reports that DOGE staff are attempting to get elevated access to GSA systems and making changes to office arrangements
     name: Nicole Hollander
     source: https://www.wired.com/story/elon-musk-lackeys-general-services-administration/
-  - agency: General Services Administration
-    date: '2025-03-04'
+  - agency: GSA
+    date: 2025-03-04
     event: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid as full-time GSA employees, but other staff are listed as volunteers for that agency
     name: Nicole Hollander
     source: https://www.wired.com/story/doge-government-salaries-elon-musk/
@@ -2097,69 +2127,70 @@ Nicole Hollander:
 Nikhil Rajpal:
   agencies:
   - Consumer Financial Protection Bureau
+  - Department of Government Efficiency
   - National Oceanic and Atmospheric Administration
   - Office of Personnel Management
   - Social Security Administration
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-01-21'
+  - agency: DOGE
+    date: 2025-01-21
     event: DOGE staff start screening all USDS staff in interviews, asking them their views of DOGE and who were underperformers who should be fired.
     name: Nikhil Rajpal
     source: https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/
-  - agency: National Oceanic and Atmospheric Administration
-    date: '2025-02-05'
+  - agency: NOAA
+    date: 2025-02-05
     event: NOAA employees were ordered to grant Rajpal editor access to all NOAA Google sites on instructions of the acting commerce secretary, Jeremy Pelter, by the close of business.
     name: Nikhil Rajpal
     source: https://www.wired.com/story/doge-engineer-noaa-data-google-musk-climate-project-2025/
-  - agency: Consumer Financial Protection Bureau
-    date: '2025-02-06'
+  - agency: CFPB
+    date: 2025-02-06
     event: DOGE staff enter CFPB facilities and are given equipment and onboarded
     name: Nikhil Rajpal
     source: https://www.wired.com/story/doge-access-consumer-financial-protection-bureau-data/
-  - agency: Consumer Financial Protection Bureau
-    date: '2025-02-07'
+  - agency: CFPB
+    date: 2025-02-07
     event: Jordan Wick, Nikhil Rajpal and Luke Farritor are granted read-only access to the Procurement Request Information System Management (PRISM), webTA, Data Insight, USAStaffing, Invoice Processing Platform (IPP), Oracle Business Intelligence (OBI), oneARC, G-Invoicing, and Concur
     name: Nikhil Rajpal
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Consumer Financial Protection Bureau
-    date: '2025-02-07'
+  - agency: CFPB
+    date: 2025-02-07
     event: Jordan Wick, Nikhil Rajpal and Luke Farritor are granted full admin access to the HRConnect system
     name: Nikhil Rajpal
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Consumer Financial Protection Bureau
-    date: '2025-02-07'
+  - agency: CFPB
+    date: 2025-02-07
     event: Nikhil Rajpal and Luke Farritor are granted full admin access to the Microsoft Entra system
     name: Nikhil Rajpal
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Social Security Administration
-    date: '2025-02-20'
+  - agency: SSA
+    date: 2025-02-20
     event: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
     name: Nikhil Rajpal
     source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
-  - agency: Social Security Administration
-    date: '2025-03-13'
+  - agency: SSA
+    date: 2025-03-13
     event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     name: Nikhil Rajpal
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
-  - agency: Consumer Financial Protection Bureau
-    date: '2025-03-21'
+  - agency: CFPB
+    date: 2025-03-21
     event: Nikhil Rajpal has his access revoked to all systems as part of offboarding
     name: Nikhil Rajpal
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: Consumer Financial Protection Bureau
-    date: '2025-03-21'
+  - agency: CFPB
+    date: 2025-03-21
     event: Nikhil Rajpal is no longer detailed to the CFPB
     name: Nikhil Rajpal
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
 
 Noah Peters:
   agencies:
+  - Department of Government Efficiency
+  - Executive Office of the President
   - Office of Personnel Management
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-26'
+  - agency: DOGE
+    date: 2025-03-26
     event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
     name: Noah Peters
     source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
@@ -2168,25 +2199,25 @@ Payton Rehling:
   agencies:
   - Social Security Administration
   - US Citizenship & Immigration Services
-  - Veterans Affairs
+  - Veterans Administration
   events:
-  - agency: Social Security Administration
-    date: '2025-03-13'
+  - agency: SSA
+    date: 2025-03-13
     event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     name: Payton Rehling
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
-  - agency: US Citizenship & Immigration Services
-    date: '2025-03-25'
+  - agency: USCIS
+    date: 2025-03-25
     event: Antoine McCord requests that access be granted for Peyton Rehling to the USCIS Data Business Intelligence Services (aka, the Data Lake)
     name: Payton Rehling
     source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
-  - agency: Veterans Affairs
-    date: '2025-03-25'
+  - agency: VA
+    date: 2025-03-25
     event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements for government services are.
     name: Payton Rehling
     source: https://www.wired.com/story/doge-department-of-veterans-affairs-ai/
-  - agency: US Citizenship & Immigration Services
-    date: '2025-03-28'
+  - agency: USCIS
+    date: 2025-03-28
     event: USCIS CIO William McElhaney sends a message to DHS Deputy Secretary asking them to review access that was granted to DOGE staff
     name: Payton Rehling
     source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
@@ -2197,84 +2228,83 @@ Peter Marocco:
   - U.S. African Development Foundation
   - US Agency for International Development
   events:
-  - agency: Inter-American Foundation
-    date: '2025-02-28'
+  - agency: IAF
+    date: 2025-02-28
     event: Peter Marocco arrives at IAF after most staff had left, holds an impromptu board meeting with himself only, declares himself President/CEO of IAF
     name: Peter Marocco
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
-  - agency: U.S. African Development Foundation
-    date: '2025-03-04'
+  - agency: USADF
+    date: 2025-03-04
     event: USADF CFO Mathieu Zahui receives an email from Nate Cavanaugh informing him that Peter Marocco would be coming to the office the following day as Chairman of the Board
     name: Peter Marocco
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.2.pdf
-  - agency: US Agency for International Development
-    date: '2025-03-19'
+  - agency: USAID
+    date: 2025-03-19
     event: Peter Marocco says that he will be succeeded at the agency by Jeremy Lewin and Kenneth Jackson
     name: Peter Marocco
     source: https://www.nytimes.com/2025/03/19/us/politics/usaid-doge-leadership.html
 
 Rachel Riley:
   agencies:
-  - Centers for Medicare and Medicaid Services
+  - Department of Government Efficiency
   - Health and Human Services
   - National Institute of Health
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-01-24'
-    event: A report from Business Insider names some of the DOGE staff that was involved in transition activities
+  - agency: DOGE
+    date: 2025-01-24
+    event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
     name: Rachel Riley
     source: https://www.yahoo.com/news/doge-just-got-hire-224212262.html
-  - agency: National Institute of Health
-    date: '2025-02-24'
+  - agency: NIH
+    date: 2025-02-24
     event: Four DOGE staffers have email addresses linked to NIH
     name: Rachel Riley
     source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
-  - agency: National Institute of Health
-    date: '2025-02-24'
+  - agency: NIH
+    date: 2025-02-24
     event: Three DOGE staffers are placed within the NIH Business System Department for access to NIH's central electronic business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
     name: Rachel Riley
     source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
-  - agency: Health and Human Services
-    date: '2025-03-13'
+  - agency: HHS
+    date: 2025-03-13
     event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
     name: Rachel Riley
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
 
 Riccardo Biasini:
   agencies:
+  - Department of Government Efficiency
   - Office of Personnel Management
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: Office of Personnel Management
-    date: '2025-01-31'
+  - agency: OPM
+    date: 2025-01-31
     event: Federal employees at OPM are locked out of access to key systems by DOGE and OPM leadership
     name: Riccardo Biasini
     source: https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/
-  - agency: Office of Personnel Management
-    date: '2025-02-25'
+  - agency: OPM
+    date: 2025-02-25
     event: DOGE engineer Ricardo Biasini is reported to be working on updating software to automate Reduction-in-Force (RIF) processes
     name: Riccardo Biasini
     source: https://www.wired.com/story/doge-autorif-mass-firing-government-workers/
 
 Riley Sennott:
   agencies:
+  - Department of Government Efficiency
   - General Services Administration
   - National Aeronautics and Space Administration
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-01-06'
+  - agency: DOGE
+    date: 2025-01-06
     event: Riley Sennott's public calendar includes a 15-minute DOGE recruiting meeting
     name: Riley Sennott
     source: https://www.msn.com/en-us/money/companies/we-found-a-doge-guy-at-nasa-because-his-google-calendar-was-public/ar-AA1At75X
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-01-17'
-    event: The public calendar of Riley Sennott mentions a 30-minute "SGE Ethics Discussion" meeting with 2 GSA addresses and other DOGE staff
+  - agency: DOGE
+    date: 2025-01-17
+    event: The public calendar of Riley Sennott mentions a 30-minute "SGE Ethics Discussion" meeting with 2 GSA addresses and other DOGE staffers
     name: Riley Sennott
     source: https://www.msn.com/en-us/money/companies/we-found-a-doge-guy-at-nasa-because-his-google-calendar-was-public/ar-AA1At75X
-  - agency: National Aeronautics and Space Administration
-    date: '2025-03-14'
+  - agency: NASA
+    date: 2025-03-14
     event: A Business Insider article reports that Alexander Simonpour has shown up at NASA and also has a GSA address. Riley Sennott and Scott Coulter also are listed
     name: Riley Sennott
     source: https://www.businessinsider.com/tesla-employee-alexander-simonpour-nasa-doge-team-2025-3
@@ -2283,34 +2313,34 @@ Ryan Riedel:
   agencies:
   - Department of Energy
   events:
-  - agency: Department of Energy
-    date: '2025-02-07'
+  - agency: Energy
+    date: 2025-02-07
     event: Ryan Riedel, a SpaceX network security engineer with 4 years of experience, is named the CIO for the agency
     name: Ryan Riedel
     source: https://www.aol.com/trump-energy-secretary-allowed-23-003504452.html
 
 Ryan Wunderly:
   agencies:
+  - Department of Government Efficiency
   - Department of the Treasury
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: Department of the Treasury
-    date: '2025-02-20'
+  - agency: Treasury
+    date: 2025-02-20
     event: John York, a senior counselor to Bessent, wrote in a sworn statement that Ryan Wunderly would take over Marko Elez's work at the BFS
     name: Ryan Wunderly
     source: https://www.politico.com/news/2025/02/20/treasury-irs-data-white-house-doge-00205391
-  - agency: Department of the Treasury
-    date: '2025-03-24'
+  - agency: Treasury
+    date: 2025-03-24
     event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge Boardman issues a preliminary injunction against DOGE access to internal systems at the Departoment of the Treasury where the justification for access was "the DOGE agenda" (i.e., all of them)
     name: Ryan Wunderly
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.69.0.pdf
 
 Sahil Lavingia:
   agencies:
-  - Veterans Affairs
+  - Veterans Administration
   events:
-  - agency: Veterans Affairs
-    date: '2025-03-25'
+  - agency: VA
+    date: 2025-03-25
     event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements for government services are.
     name: Sahil Lavingia
     source: https://www.wired.com/story/doge-department-of-veterans-affairs-ai/
@@ -2319,8 +2349,8 @@ Sam Beyda:
   agencies:
   - Department of Labor
   events:
-  - agency: Department of Labor
-    date: '2025-02-13'
+  - agency: DOL
+    date: 2025-02-13
     event: DOGE is granted authorization to use file transfer software
     name: Sam Beyda
     source: https://www.nbcnews.com/tech/security/doge-software-approval-alarms-labor-department-employees-data-security-rcna191583
@@ -2330,13 +2360,13 @@ Sam Corcos:
   - Department of the Treasury
   - Internal Revenue Service
   events:
-  - agency: Internal Revenue Service
-    date: '2025-02-28'
+  - agency: IRS
+    date: 2025-02-28
     event: Gavin Kliger and Sam Corcos, DOGE representatives embedded at the tax agency, on Friday asked IRS lawyers to assist in creating an "omnibus" agreement with other federal agencies that would allow a broad swath of federal officials to cross-reference benefits rolls with taxpayer data
     name: Sam Corcos
     source: https://www.washingtonpost.com/business/2025/03/01/doge-irs-tax-records-benefits/
-  - agency: Internal Revenue Service
-    date: '2025-04-05'
+  - agency: IRS
+    date: 2025-04-05
     event: DOGE is reportedly planning to state a "hack-a-thon" in cooperation with Palantir to create a "mega API" to access IRS data
     name: Sam Corcos
     source: https://www.wired.com/story/doge-hackathon-irs-data-palantir/
@@ -2345,8 +2375,8 @@ Sam Smeal:
   agencies:
   - Federal Aviation Administration
   events:
-  - agency: Federal Aviation Administration
-    date: '2025-02-16'
+  - agency: FAA
+    date: 2025-02-16
     event: 4 SpaceX engineers were onboarded into the FAA under the Schedule A hiring authority for people with disabilities
     name: Sam Smeal
     source: https://www.wired.com/story/faa-doge-elon-musk-space-x/
@@ -2356,97 +2386,103 @@ Scott Coulter:
   - National Aeronautics and Space Administration
   - Social Security Administration
   events:
-  - agency: Social Security Administration
-    date: '2025-01-30'
+  - agency: SSA
+    date: 2025-01-30
     event: Leland Dudek reaches out to Tiffany Flick, the Associate Director of Budget, Facilities and Security to inform her two DOGE staff would be onboarding. He was a mid-level employee at the time.
     name: Scott Coulter
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-  - agency: Social Security Administration
-    date: '2025-03-13'
+  - agency: SSA
+    date: 2025-02-18
+    event: According to a sworn declaration, SSA "began onboarding and training Employee 2, Senior Advisor (Program Specialist AD-0301-00). He is in the process of being detailed from National Aeronautics and Space Administration (NASA) to SSA."
+    name: Scott Coulter
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+  - agency: SSA
+    date: 2025-03-13
     event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     name: Scott Coulter
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
-  - agency: National Aeronautics and Space Administration
-    date: '2025-03-14'
+  - agency: NASA
+    date: 2025-03-14
     event: ProPublica reports that Scott Coulter has "wide access to internal databases at NASA"
     name: Scott Coulter
     source: https://projects.propublica.org/elon-musk-doge-tracker/#Scott-Coulter
-  - agency: National Aeronautics and Space Administration
-    date: '2025-03-14'
+  - agency: NASA
+    date: 2025-03-14
     event: A Business Insider article reports that Alexander Simonpour has shown up at NASA and also has a GSA address. Riley Sennott and Scott Coulter also are listed
     name: Scott Coulter
     source: https://www.businessinsider.com/tesla-employee-alexander-simonpour-nasa-doge-team-2025-3
-  - agency: Social Security Administration
-    date: '2025-03-25'
+  - agency: SSA
+    date: 2025-03-25
     event: Scott Coulter is named the new CIO at the Social Security Administration and Mike Russo is moved to a Senior Advisor role with a focus on modernizing systems
     name: Scott Coulter
     source: https://www.nextgov.com/people/2025/03/ssa-tech-shop-be-led-another-doge-associate/404031/?oref=ng-homepage-river
 
 Scott Kupor:
   agencies:
+  - Department of Government Efficiency
   - Office of Personnel Management
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2024-12-06'
+  - agency: DOGE
+    date: 2024-12-06
     event: A report on the tech billionaires steering Trump's transition mentions Musk and other DOGE staff, and how they have been interviewing people at Mar-a-Lago
     name: Scott Kupor
     source: https://www.nytimes.com/2024/12/06/us/politics/trump-elon-musk-silicon-valley.html
-  - agency: Office of Personnel Management
-    date: '2025-04-03'
+  - agency: OPM
+    date: 2025-04-03
     event: Scott Kupor, the nominee to lead OPM, assured senators that he believes strong in data privacy and respecting the humanity and dignity of the workforce
     name: Scott Kupor
     source: https://fedscoop.com/opm-nominee-scott-kupor-data-privacy-doge/
 
 Scott Langmack:
   agencies:
+  - Department of Government Efficiency
   - Housing and Urban Development
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: Housing and Urban Development
-    date: '2025-02-10'
+  - agency: HUD
+    date: 2025-02-10
     event: Employees at HUD receive an email from Scott Langmack asking them to list every contract at HUD and whether it is critical and/or has DEI components
     name: Scott Langmack
     source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
-  - agency: Housing and Urban Development
-    date: '2025-02-26'
+  - agency: HUD
+    date: 2025-02-26
     event: Wired reports that two DOGE staffers have read-write access to the LOCCS and HUDCAPS systems
     name: Scott Langmack
     source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
 
 Shaun Maguire:
   agencies:
-  - US Digital Service/Department of Government Efficiency
+  - Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2024-12-06'
+  - agency: DOGE
+    date: 2024-12-06
     event: A report on the tech billionaires steering Trump's transition mentions Musk and other DOGE staff, and how they have been interviewing people at Mar-a-Lago
     name: Shaun Maguire
     source: https://www.nytimes.com/2024/12/06/us/politics/trump-elon-musk-silicon-valley.html
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-01-16'
+  - agency: DOGE
+    date: 2025-01-16
     event: A report on conservative nonprofit groups doing research for DOGE notes that interviews are being conducted by Marc Andreessen and Shaun Maguire
     name: Shaun Maguire
     source: https://www.washingtonexaminer.com/news/investigations/3287555/maga-conservative-non-profits-doge-research/
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-01-24'
-    event: A report from Business Insider names some of the DOGE staff that was involved in transition activities
+  - agency: DOGE
+    date: 2025-01-24
+    event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
     name: Shaun Maguire
     source: https://www.yahoo.com/news/doge-just-got-hire-224212262.html
 
 Stephanie Holmes:
   agencies:
+  - Department of Government Efficiency
   - Department of the Interior
+  - Executive Office of the President
   - Office of Personnel Management
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: Department of the Interior
-    date: '2025-02-24'
+  - agency: DOI
+    date: 2025-02-24
     event: Stephanie Holmes is detailed to the Department of the Interior as a Special Advisor and acting Chief Human Capital Officer for the entire agency
     name: Stephanie Holmes
     source: https://subscriber.politicopro.com/article/eenews/2025/03/05/heres-the-people-connected-to-doge-at-interior-00213330
-  - agency: Department of the Interior
-    date: '2025-03-29'
+  - agency: DOI
+    date: 2025-03-29
     event: Two DOGE staffers are granted admin access to the FPPS payroll system at the Department of the Interior
     name: Stephanie Holmes
     source: https://www.nytimes.com/2025/03/31/us/politics/doge-musk-federal-payroll.html
@@ -2454,87 +2490,88 @@ Stephanie Holmes:
 Stephen Duarte:
   agencies:
   - Office of Personnel Management
+  events: []
 
 Stephen Ehikian:
   agencies:
   - General Services Administration
-  - Office of Personnel Management
   - US Institute of Peace
   events:
-  - agency: General Services Administration
-    date: '2025-01-20'
+  - agency: GSA
+    date: 2025-01-20
     event: Stephen Ehikian is sworn in as a Deputy Administrator of the real estate division and Acting Administrator of the GSA
     name: Stephen Ehikian
     source: https://www.nextgov.com/people/2025/01/gsa-announces-new-fas-tts-leadership/402485/
-  - agency: General Services Administration
-    date: '2025-01-30'
+  - agency: GSA
+    date: 2025-01-30
     event: Elon Musk reportedly visits GSA to meet with staff, several of whom are identified from appearances in the internal directory
     name: Stephen Ehikian
     source: https://www.nextgov.com/people/2025/01/musk-visits-and-asserts-growing-influence-gsa/402628/
-  - agency: US Institute of Peace
-    date: '2025-03-25'
+  - agency: USIP
+    date: 2025-03-25
     event: Nate Cavanaugh contacts the administrator of the GSA to propose transferring the USIP building to them, arguing that USIP won't need a building because the statute doesn't mandate it has one or staffing
     name: Stephen Ehikian
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.15.3.pdf
 
 Steve Davis:
   agencies:
+  - Department of Government Efficiency
   - Department of Homeland Security
+  - Executive Office of the President
   - Federal Emergency Management Agency
   - General Services Administration
   - Office of Personnel Management
   - Social Security Administration
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2024-12-06'
+  - agency: DOGE
+    date: 2024-12-06
     event: A report on the tech billionaires steering Trump's transition mentions Musk and other DOGE staff, and how they have been interviewing people at Mar-a-Lago
     name: Steve Davis
     source: https://www.nytimes.com/2024/12/06/us/politics/trump-elon-musk-silicon-valley.html
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-01-24'
-    event: A report from Business Insider names some of the DOGE staff that was involved in transition activities
+  - agency: DOGE
+    date: 2025-01-24
+    event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
     name: Steve Davis
     source: https://www.yahoo.com/news/doge-just-got-hire-224212262.html
-  - agency: General Services Administration
-    date: '2025-01-30'
+  - agency: GSA
+    date: 2025-01-30
     event: Elon Musk reportedly visits GSA to meet with staff, several of whom are identified from appearances in the internal directory
     name: Steve Davis
     source: https://www.nextgov.com/people/2025/01/musk-visits-and-asserts-growing-influence-gsa/402628/
-  - agency: General Services Administration
-    date: '2025-01-31'
+  - agency: GSA
+    date: 2025-01-31
     event: Wired reports that DOGE staff are attempting to get elevated access to GSA systems and making changes to office arrangements
     name: Steve Davis
     source: https://www.wired.com/story/elon-musk-lackeys-general-services-administration/
-  - agency: Social Security Administration
-    date: '2025-02-10'
+  - agency: SSA
+    date: 2025-02-10
     event: Mike Russo, DOGE chief of staff Steve Davis both demand that Akash Bobba be onboarded before midnight.
     name: Steve Davis
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-05'
+  - agency: DOGE
+    date: 2025-03-05
     event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP), including 4 lawyers previously not listed
     name: Steve Davis
     source: https://theintercept.com/2025/03/05/leaked-list-musk-doge-lawyers/
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-27'
+  - agency: DOGE
+    date: 2025-03-27
     event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government spending. Amy Gleason did not appear.
     name: Steve Davis
     source: https://www.nbcnews.com/politics/doge/elon-musks-doge-tries-put-new-faces-reclusive-federal-office-rcna198491
-  - agency: Social Security Administration
-    date: '2025-03-28'
+  - agency: SSA
+    date: 2025-03-28
     event: Reports emerge that DOGE is planning to rewrite the entire COBOL codebase for Social Security to Java in months using generative AI
     name: Steve Davis
     source: https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/
 
 Tarak Makecha:
   agencies:
-  - Department of State
   - Federal Communications Commission
   - Office of Personnel Management
+  - State Department
   events:
-  - agency: Federal Communications Commission
-    date: '2025-04-04'
+  - agency: FCC
+    date: 2025-04-04
     event: Three DOGE staffers are listed in the public directory of FCC staff and listed as associated with the Office of the Chairman at the FCC
     name: Tarak Makecha
     source: https://www.theverge.com/news/644031/doge-federal-communications-commission-directory
@@ -2543,8 +2580,8 @@ Ted Malaska:
   agencies:
   - Federal Aviation Administration
   events:
-  - agency: Federal Aviation Administration
-    date: '2025-02-16'
+  - agency: FAA
+    date: 2025-02-16
     event: 4 SpaceX engineers were onboarded into the FAA under the Schedule A hiring authority for people with disabilities
     name: Ted Malaska
     source: https://www.wired.com/story/faa-doge-elon-musk-space-x/
@@ -2553,91 +2590,91 @@ Thomas Kiernan:
   agencies:
   - Federal Aviation Administration
   events:
-  - agency: Federal Aviation Administration
-    date: '2025-02-16'
+  - agency: FAA
+    date: 2025-02-16
     event: 4 SpaceX engineers were onboarded into the FAA under the Schedule A hiring authority for people with disabilities
     name: Thomas Kiernan
     source: https://www.wired.com/story/faa-doge-elon-musk-space-x/
 
 Thomas Shedd:
   agencies:
+  - Department of Government Efficiency
   - Department of Labor
   - General Services Administration
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: General Services Administration
-    date: '2025-01-24'
+  - agency: GSA
+    date: 2025-01-24
     event: Thomas Shedd, a 28-year-old with 8 years of experience working for Tesla, is named the head of GSA's Technology Transformation Service (TTS), the parent of 18F, login.gov and FedRAMP among others.
     name: Thomas Shedd
     source: https://www.nextgov.com/people/2025/01/gsa-announces-new-fas-tts-leadership/402485/
-  - agency: General Services Administration
-    date: '2025-01-30'
+  - agency: GSA
+    date: 2025-01-30
     event: Elon Musk reportedly visits GSA to meet with staff, several of whom are identified from appearances in the internal directory
     name: Thomas Shedd
     source: https://www.nextgov.com/people/2025/01/musk-visits-and-asserts-growing-influence-gsa/402628/
-  - agency: General Services Administration
-    date: '2025-01-31'
+  - agency: GSA
+    date: 2025-01-31
     event: Wired reports that DOGE staff are attempting to get elevated access to GSA systems and making changes to office arrangements
     name: Thomas Shedd
     source: https://www.wired.com/story/elon-musk-lackeys-general-services-administration/
-  - agency: General Services Administration
-    date: '2025-02-10'
+  - agency: GSA
+    date: 2025-02-10
     event: Unnamed DOGE staff using non-government accounts conduct dozens of "touch-base" interviews with dozens of US Digital Corps fellows, under the direction of Thomas Shedd
     name: Thomas Shedd
     source: https://fedscoop.com/doge-sessions-gsa-staff-probationary-terminations/
-  - agency: General Services Administration
-    date: '2025-02-18'
+  - agency: GSA
+    date: 2025-02-18
     event: A GSA employee resigned rather than give unrestricted admin access of Notify.gov to Thomas Shedd
     name: Thomas Shedd
     source: https://www.404media.co/musk-ally-demands-admin-access-to-system-that-lets-government-text-the-public/
-  - agency: General Services Administration
-    date: '2025-02-19'
+  - agency: GSA
+    date: 2025-02-19
     event: Thomas Shedd has allegedly requested admin access to 19 different systems within TTS at GSA
     name: Thomas Shedd
     source: https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/
-  - agency: General Services Administration
-    date: '2025-03-01'
+  - agency: GSA
+    date: 2025-03-01
     event: TTS administrator Thomas Shedd eliminates 90 members of 18F with a 1am firing email and locks them out of their machines
     name: Thomas Shedd
     source: https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/
-  - agency: General Services Administration
-    date: '2025-03-06'
+  - agency: GSA
+    date: 2025-03-06
     event: Thomas Shedd says in a statement that he expects TTS will be 50% smaller within weeks
     name: Thomas Shedd
     source: https://www.theatlantic.com/technology/archive/2025/03/gsa-chat-doge-ai/681987/
-  - agency: Department of Labor
-    date: '2025-03-14'
+  - agency: DOL
+    date: 2025-03-14
     event: Thomas Shedd apparently starts working at the CIO at Department of Labor while also serving as the TTS Commissioner at GSA (experts are unclear if this is legal)
     name: Thomas Shedd
     source: https://www.nextgov.com/people/2025/03/tts-director-tapped-serve-labor-cio/403855/?oref=ng-home-top-story
 
 Tom Krause:
   agencies:
+  - Department of Government Efficiency
   - Department of the Treasury
-  - US Digital Service/Department of Government Efficiency
   events:
-  - agency: Department of the Treasury
-    date: '2025-01-08'
+  - agency: Treasury
+    date: 2025-01-08
     event: The leader of the Trump transition team for the Treasury Department sends an email requesting that Thomas Krause be incuded on the "day 1 team, to lead on Fiscal Services modernization efforts."
     name: Tom Krause
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf#page=13
-  - agency: Department of the Treasury
-    date: '2025-01-23'
+  - agency: Treasury
+    date: 2025-01-23
     event: Thomas Krause starts at the Treasury Department
     name: Tom Krause
     source: https://fedscoop.com/treasury-payments-systems-doge-judge-ruling/
-  - agency: Department of the Treasury
-    date: '2025-02-04'
+  - agency: Treasury
+    date: 2025-02-04
     event: Treasury Secretary Scott Bessent writes a letter to Congress about Scott Krause having read-only access but doesn't mention Marko Elez
     name: Tom Krause
     source: https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/
-  - agency: Department of the Treasury
-    date: '2025-03-24'
+  - agency: Treasury
+    date: 2025-03-24
     event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge Boardman issues a preliminary injunction against DOGE access to internal systems at the Departoment of the Treasury where the justification for access was "the DOGE agenda" (i.e., all of them)
     name: Tom Krause
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.69.0.pdf
-  - agency: US Digital Service/Department of Government Efficiency
-    date: '2025-03-27'
+  - agency: DOGE
+    date: 2025-03-27
     event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government spending. Amy Gleason did not appear.
     name: Tom Krause
     source: https://www.nbcnews.com/politics/doge/elon-musks-doge-tries-put-new-faces-reclusive-federal-office-rcna198491
@@ -2646,22 +2683,18 @@ Tyler Hassen:
   agencies:
   - Department of the Interior
   events:
-  - agency: Department of the Interior
-    date: '2025-01-28'
+  - agency: DOI
+    date: 2025-01-28
     event: Two DOGE staffers attempted to force water pumps to be turned on in a large reservoir in California for a photo op
     name: Tyler Hassen
     source: https://www.cnn.com/2025/03/07/climate/trump-doge-california-water/index.html
-  - agency: Department of the Interior
-    date: '2025-03-07'
+  - agency: DOI
+    date: 2025-03-07
     event: Tyler Hassen is promoted to Acting Assistant Secretary of Policy, Management and Budget
     name: Tyler Hassen
     source: https://www.eenews.net/articles/doge-official-appointed-head-of-policy-at-interior/
-  - agency: Department of the Interior
-    date: '2025-03-28'
+  - agency: DOI
+    date: 2025-03-28
     event: Tyler Hassen places the CIO and CISO on admininstrative leave under investigation for raising alarm about DOGE access
     name: Tyler Hassen
     source: https://www.nytimes.com/2025/03/31/us/politics/doge-musk-federal-payroll.html
-
-Vinay Hiremath:
-  agencies:
-  - US Digital Service/Department of Government Efficiency

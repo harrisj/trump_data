@@ -6,29 +6,35 @@ A manually updated YAML file that tracks the "IT modernization" efforts of the D
 
 The file modernization.yaml will track the "modernization" work of the DOGE crew as they steamroll across various agencies. This work will be using only reported sources, which will be linked from the record. Hopefully, it will present a more comprehensive picture of events. You might begin to notice that none of it seems to involve actual IT modernization...
 
-This file will **not** track contracts being canceled by DOGE, except if that has ramifications for DOGE actions and activities.
+This file will **not** track contracts being canceled by DOGE, except if that has ramifications for DOGE actions and activities. It's not that it's not relevant to the damage DOGE is doing, I just am finding it harder to keep track off and quantify.
 
 ## The Data
 
-A record might look something like this:
+Currently, the source data is stored in several files located within the `data` directory:
+
+- `agencies.yaml`: a list of agencies currently being affected by DOGE activities
+- `cases.yaml`: court cases that either are related to or might provide information about DOGE activities
+- `events.yaml`: specific events related to DOGE's destruction across multiple agencies
+- `roundups.yaml`: information of media roundups ([example](https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html)) that provide high-level overviews of who is where (in some cases, these list people who haven't been associated with specific events)
+- `systems.yaml`: information on government systems that have been accessed by DOGE
+
+Each of these files has associated JSON schemas that can be used to validate the file's contents in an IDE, if you are editing them. But, if you notice an error, the best option is to just file a new Issue to let me know and I'll fix it.
+
+## Reports
+
+This data is then combined and processed by automated scripts to produce more comprehensive files that can be used as input for web interfaces, read by automated programs or just looked at to get details on what is happening where.
+
+For instance, here is a record from the `agency_comprehensive.json` file which provides info on DOGE activities at each agency
 
 ```yaml
-name: Department of the Interior
-  acronym: DOI
-  roundups:
-  - source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
-    organization: The New York Times
-    named:
-    - Tyler Hassen
-  - source: https://projects.propublica.org/elon-musk-doge-tracker/
-    organization: ProPublica
-    named:
-    - Tyler Hassen
-  - source: https://www.wired.com/story/elon-musk-doge-silicon-valley-corporate-connections/
-    organization: Wired Magazine
-    date: 2025-03-28
-    named:
-    - Tyler Hassen
+DOI:
+  name: Department of the Interior
+  id: DOI
+  associated:
+  - Tyler Hassen
+  - Stephanie Holmes
+  - Bryton Shang
+  - Katrine Trampe
   events:
   - date: 2025-01-28
     type: disruption
@@ -37,6 +43,7 @@ name: Department of the Interior
     - Tyler Hassen
     - Bryton Shang
     source: https://www.cnn.com/2025/03/07/climate/trump-doge-california-water/index.html
+    agency: DOI
   - date: 2025-02-24
     type: onboarded
     onboard_type: detailed
@@ -45,27 +52,32 @@ name: Department of the Interior
     named:
     - Stephanie Holmes
     source: https://subscriber.politicopro.com/article/eenews/2025/03/05/heres-the-people-connected-to-doge-at-interior-00213330
+    agency: DOI
   - date: 2025-03-04
     type: disruption
     event: DOGE boasts in a tweet that 27% more water was released in February compared to January (unclear if this adjusts for different lengths of months)
     source: https://xcancel.com/DOGE/status/1896948512975433787
+    agency: DOI
   - date: 2025-03-07
     type: promotion
     event: Tyler Hassen is promoted to Acting Assistant Secretary of Policy, Management and Budget
     named:
     - Tyler Hassen
     source: https://www.eenews.net/articles/doge-official-appointed-head-of-policy-at-interior/
+    agency: DOI
   - date: 2025-03-28
     type: report
     event: Expressing concerns about DOGE requesting access to FPPS, the CIO and CISO of the Department of the Interior present a memo to the Interior Secretary about the risks for him to acknowledge and sign. He doesn't sign it
     source: https://www.nytimes.com/2025/03/31/us/politics/doge-musk-federal-payroll.html
+    agency: DOI
   - date: 2025-03-28
     type: disruption
     event: Tyler Hassen places the CIO and CISO on admininstrative leave under investigation for raising alarm about DOGE access
     named:
     - Tyler Hassen
     source: https://www.nytimes.com/2025/03/31/us/politics/doge-musk-federal-payroll.html
-  - date: 2023-03-29
+    agency: DOI
+  - date: 2025-03-29
     event: Two DOGE staffers are granted admin access to the FPPS payroll system at the Department of the Interior
     type: access_granted
     access_type: admin
@@ -75,18 +87,32 @@ name: Department of the Interior
     - Stephanie Holmes
     - Katrine Trampe
     source: https://www.nytimes.com/2025/03/31/us/politics/doge-musk-federal-payroll.html
+    agency: DOI
   systems:
-  - name: Federal Personnel Payroll System
-    id: FPPS
-    description: A shared service which processes payrolls for the Justice, Treasury and Homeland Security departments, as well as the Air Force, Nuclear Regulatory Commission and the U.S. Customs and Border Protection, among other federal agencies.
-    risk: PII and payment info for federal staff at several large agencies, including the ability to interfere with pay
-    pia: https://www.doi.gov/sites/doi.gov/files/fpps-pia-revised-04222020_0.pdf
+    FPPS:
+      name: Federal Personnel Payroll System
+      id: FPPS
+      description: A shared service which processes payrolls for the Justice, Treasury and Homeland Security departments, as well as the Air Force, Nuclear Regulatory Commission and the U.S. Customs and Border Protection, among other federal agencies.
+      risk: PII and payment info for federal staff at several large agencies, including the ability to interfere with pay
+      pia: https://www.doi.gov/sites/doi.gov/files/fpps-pia-revised-04222020_0.pdf
+      agency: DOI
   cases:
-  - name: Center for Biological Diversity v. U.S. Department of Interior (D.D.C.)
-    description: Plaintiffs, a nonprofit organization focused on habitat preservation for endangered species, alleges that DOGE and the Department of Interior have violated the Administrative Procedures Act by failing to follow Federal Advisory Committee Act (FACA) requirements
-    case_no: 1:25-cv-00612
-    date_filed: 2025-03-03
-    link: https://www.courtlistener.com/docket/69698261/center-for-biological-diversity-v-us-department-of-interior/
+    1:25-cv-00612:
+      name: Center for Biological Diversity v. U.S. Department of Interior (D.D.C.)
+      description: Plaintiffs, a nonprofit organization focused on habitat preservation for endangered species, alleges that DOGE and the Department of Interior have violated the Administrative Procedures Act by failing to follow Federal Advisory Committee Act (FACA) requirements
+      case_no: 1:25-cv-00612
+      date_filed: 2025-03-03
+      link: https://www.courtlistener.com/docket/69698261/center-for-biological-diversity-v-us-department-of-interior/
+      agency: DOI
+    1:25-cv-00643:
+      name: Japanese American Citizens League v. Musk (D.D.C.)
+      description: Plaintiffs allege that they are harmed by DOGE's cutting of federal funding and firing of federal employees, including in the work of the National Park Service and historic sites, and they are violating the separation of powers, Appointments Clause and Administrative Procedure Act
+      case_no: 1:25-cv-00643
+      date_filed: 2025-03-05
+      link: https://www.courtlistener.com/docket/69706944/japanese-american-citizens-league-v-musk/
+      agency:
+      - DOGE
+      - DOI
 ```
 
 With the following fields:
