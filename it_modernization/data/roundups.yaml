@@ -27,7 +27,7 @@
     Marko Elez: [ Treasury, SSA, DOL, HHS, USDS, CBP, ICE, DHS ]
     Ryan Wunderly: Treasury
     Edward Coristine: [ GSA, USAID, Education, HHS, USDS, DHS ]
-    Luke Farritor: [ GSA, USAID, CDC, CMS, SSA, DOE, Education, HHS, USDS, CFPB ]
+    Luke Farritor: [ GSA, USAID, CDC, CMS, SSA, Energy, Education, HHS, USDS, CFPB ]
     Christopher Stanley: [ DOJ, OPM ]
     Ethan Shaotran: [ GSA, SSA, Education ]
     Alexandra Beynon: Education
@@ -36,7 +36,7 @@
     Aram Moghaddassi: [ SSA, Treasury ]
     Cole Killian: [ SSA, EPA ]
     Greg Hogan: OPM
-    Ryan Riedel: DOE
+    Ryan Riedel: Energy
     Nate Cavanaugh: GSA
     Nikhil Rajpal: [ OPM, SSA, NOAA, CFPB ]
     Akash Bobba: [ OPM, GSA, SSA ]
@@ -76,7 +76,7 @@
   last_updated: 2025-03-28
   source: https://www.wired.com/story/elon-musk-doge-silicon-valley-corporate-connections/
   people:
-    Adam Ramada: [ DOE, GSA, EOP, DOL ]
+    Adam Ramada: [ Energy, GSA, EOP, DOL ]
     Akash Bobba: [ OPM, GSA, SSA ]
     Alexander Simonpour: NASA
     Alexandra Beynon: [ Education, EOP ]
@@ -123,7 +123,7 @@
     Keenan Kmiec: EOP
     Kendall Lindemann: EOP
     Kyle Schutt: GSA
-    Luke Farritor: [ USAID, HHS, CFPB, DOE, Education, GSA, SSA ]
+    Luke Farritor: [ USAID, HHS, CFPB, Energy, Education, GSA, SSA ]
     Marko Elez: [ Treasury, EOP, SSA ]
     Mattieu Gamache-Asselin: HHS
     Michael Grimes: Commerce
@@ -137,7 +137,7 @@
     Rachel Riley: HHS
     Riccardo Biasini: OPM
     Riley Sennott: [ NASA, GSA ]
-    Ryan Riedel: DOE
+    Ryan Riedel: Energy
     Ryan Wunderly: Treasury
     Sam Beyda: DOL
     Sam Corcos: [ Treasury, IRS ]
@@ -198,8 +198,8 @@
     Alexandra Beynon: EOP
     Nicole Hollander: GSA
     Kendall Lindemann: EOP
-    Adam Ramada: [ EOP, DOGE, DOE, GSA ]
-    Ryan Riedel: DOE
+    Adam Ramada: [ EOP, DOGE, Energy, GSA ]
+    Ryan Riedel: Energy
     Kyle Schutt: GSA
     Ethan Shaotran: GSA
     Jordan Wick: EOP
