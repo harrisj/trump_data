@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=../schemas/events-file.json
+# yaml-language-server: $schema=schemas/events-file.json
 - date: 2024-11-26
   type: report
   event: A person who is likely Anthony Jancso posted a message in an AI challenge's Discord saying "Helping the Dept. of Government Efficiency team find hardcore engineers. Send your GitHub/LinkedIn to @DOGE on X and your X handle to me in DM if you're interested or know someone who is, could help get them into the pipeline."
@@ -653,7 +653,8 @@
 
 - date: 2025-02-04
   type: report
-  event: One of AFGE's members who works in the headquarters of the Department received an instruction from Department leadership that Elon Musk and his DOGE team would be accessing Department of Labor headquarters beginning around 4 p.m. on February 5, 2025. This member and other employees were told by Department leadership that when Mr. Musk and his team visit, they are to do whatever they ask, not to push back, not to ask questions. They were told to provide access to any DOL system they requested access to and not to worry about any security protocols; just do it.
+  event: One of AFGE's members who works in the headquarters of the Department received an instruction from Department leadership that Elon Musk and his DOGE team would be accessing Department of Labor headquarters beginning around 4 p.m. on February 5, 2025. This member and other employees were told by Department leadership that when Mr. Musk and his team visit, they are to do whatever they ask, not to push back, not to ask questions. They were told to provide access to any DOL system they requested
+    access to and not to worry about any security protocols; just do it.
   named:
   - Elon Musk
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.29.8_1.pdf

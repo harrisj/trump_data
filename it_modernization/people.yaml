@@ -15,7 +15,7 @@ Adam Ramada:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
   - agency: Education
     date: 2025-01-28
-    event: According to his sworn testimony, Adam Ramada is detailed from the USDS to the Department of Education. He says there is one other USDS staffer with him, two other detailees and two Energy staffers.
+    event: According to his sworn testimony, Adam Ramada is detailed from the USDS to the Department of Education. He says there is one other USDS staffer with him, two other detailees and two Education staffers.
     name: Adam Ramada
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
   - agency: Education
@@ -611,6 +611,7 @@ Edward Coristine:
   - Health and Human Services
   - Office of Personnel Management
   - Small Business Administration
+  - Social Security Administration
   - State Department
   - US Agency for International Development
   - US Citizenship & Immigration Services
@@ -646,6 +647,11 @@ Edward Coristine:
     event: Edward Coristine and Luke Farritor are posted to the State Department's Bureau of Diplomatic Technology
     name: Edward Coristine
     source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
+  - agency: SSA
+    date: 2025-02-13
+    event: According to a sworn declaration by a Deputy Commissioner at SSA, an unindentified DOGE staffer (Employee 1) is onboarded for "duties currently relate to improper payments and SSA's Death Master File" and they are also planning to detail him to the Small Business Administration
+    name: Edward Coristine
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
   - agency: CISA
     date: 2025-02-19
     event: Edward Coristine and Kyle Schutt are reportedly given access to CISA systems
@@ -852,7 +858,7 @@ Ethan Shaotran:
     source: https://www.nbcnews.com/news/us-news/elon-musk-doge-team-education-department-rcna191244
   - agency: SSA
     date: 2025-02-19
-    event: According to a sworn declaration, "Employee 10, a software engineer, was detailed from the Office of the Administrator at the General Services Administration to SSA" (possibly Ehtan Shaotran)
+    event: According to a sworn declaration, "Employee 10, a software engineer, was detailed from the Office of the Administrator at the General Services Administration to SSA"
     name: Ethan Shaotran
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
   - agency: SSA
@@ -2385,6 +2391,11 @@ Scott Coulter:
     event: Leland Dudek reaches out to Tiffany Flick, the Associate Director of Budget, Facilities and Security to inform her two DOGE staff would be onboarding. He was a mid-level employee at the time.
     name: Scott Coulter
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
+  - agency: SSA
+    date: 2025-02-18
+    event: According to a sworn declaration, SSA "began onboarding and training Employee 2, Senior Advisor (Program Specialist AD-0301-00). He is in the process of being detailed from National Aeronautics and Space Administration (NASA) to SSA."
+    name: Scott Coulter
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
   - agency: SSA
     date: 2025-03-13
     event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
