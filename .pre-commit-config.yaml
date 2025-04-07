@@ -1,9 +1,9 @@
 repos:
 - repo: local
   hooks:
-  - id: events-csv
-    name: "Events CSV"
+  - id: pre-commit-modernization
+    name: "IT Modernization Pre-Commit"
     types: [ file ]
-    files: modernization.yaml
-    entry: ".hooks/modernization_events.sh"
+    files: it_modernization/data
+    entry: ".hooks/pre-commit-it-modernization"
     language: script

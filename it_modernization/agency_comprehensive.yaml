@@ -897,7 +897,7 @@ DOGE:
     agency: DOGE
   - date: 2025-01-17
     type: report
-    event: The public calendar of Riley Sennott mentions a 30-minute "SGE Ethics Discussion" meeting with 2 GSA addresses and other DOGE staff
+    event: The public calendar of Riley Sennott mentions a 30-minute "SGE Ethics Discussion" meeting with 2 GSA addresses and other DOGE staffers
     named:
     - Riley Sennott
     - Derek Geissler
@@ -938,7 +938,7 @@ DOGE:
     agency: DOGE
   - date: 2025-01-24
     type: report
-    event: A report from Business Insider names some of the DOGE staff that was involved in transition activities
+    event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
     source: https://www.yahoo.com/news/doge-just-got-hire-224212262.html
     named:
     - Katie Miller
@@ -3950,6 +3950,11 @@ SSA:
     - Steve Davis
     source: https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/
     agency: SSA
+  - date: 2025-03-28
+    type: disruption
+    event: The Deputy CIO for Infrastructure/IT at SSA acknowledges network crashes due to a newly-introduced fraud checking system created by DOGE
+    source: https://www.washingtonpost.com/politics/2025/04/07/social-security-website-crashes-musk-trump/
+    agency: SSA
   - date: 2025-03-30
     type: report
     event: At a town hall event in Wisconsin, Elon Musk and Antonio Gracias claim to have found fraud in the number of immigrants being granted social security numbers
@@ -3967,6 +3972,11 @@ SSA:
     type: disruption
     event: DOGE staffers at SSA declare the need for widespread RIFs at the agency, despite a reduction in staffing of 7000 people already and notable degradations in service. Among others, they are looking to cut 800 people from the IT department of 4000.
     source: https://www.washingtonpost.com/politics/2025/04/04/social-security-layoffs-trump-musk/
+    agency: SSA
+  - date: 2025-04-07
+    type: disruption
+    event: The Post confirms with multiple source that Social Security's website has crashed repeatedly in recent weeks, with outages ranging from 20 minutes to an entire day. They speculate this is due to the introduction of an expanded fraud check system created by DOGE that wasn't tested for scalability before being deployed.
+    source: https://www.washingtonpost.com/politics/2025/04/07/social-security-website-crashes-musk-trump/
     agency: SSA
   systems:
     AFES:
