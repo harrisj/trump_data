@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=schemas/events-file.json
+# yaml-language-server: $schema=../schemas/events-file.json
 - date: 2024-11-26
   type: report
   event: A person who is likely Anthony Jancso posted a message in an AI challenge's Discord saying "Helping the Dept. of Government Efficiency team find hardcore engineers. Send your GitHub/LinkedIn to @DOGE on X and your X handle to me in DM if you're interested or know someone who is, could help get them into the pipeline."
@@ -223,7 +223,7 @@
   type: disruption
   event: Trump fires the Inspector General for the Department of Energy in a late-night purge
   source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
-  agency: DOE
+  agency: Energy
 
 - date: 2025-01-24
   type: report
@@ -355,7 +355,7 @@
   type: onboarded
   onboard_type: detailed
   detailed_from: DOGE
-  event: According to his sworn testimony, Adam Ramada is detailed from the USDS to the Department of Education. He says there is one other USDS staffer with him, two other detailees and two DOE staffers.
+  event: According to his sworn testimony, Adam Ramada is detailed from the USDS to the Department of Education. He says there is one other USDS staffer with him, two other detailees and two Education staffers.
   named:
   - Adam Ramada
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
@@ -653,8 +653,7 @@
 
 - date: 2025-02-04
   type: report
-  event: One of AFGE's members who works in the headquarters of the Department received an instruction from Department leadership that Elon Musk and his DOGE team would be accessing Department of Labor headquarters beginning around 4 p.m. on February 5, 2025. This member and other employees were told by Department leadership that when Mr. Musk and his team visit, they are to do whatever they ask, not to push back, not to ask questions. They were told to provide access to any DOL system they requested
-    access to and not to worry about any security protocols; just do it.
+  event: One of AFGE's members who works in the headquarters of the Department received an instruction from Department leadership that Elon Musk and his DOGE team would be accessing Department of Labor headquarters beginning around 4 p.m. on February 5, 2025. This member and other employees were told by Department leadership that when Mr. Musk and his team visit, they are to do whatever they ask, not to push back, not to ask questions. They were told to provide access to any DOL system they requested access to and not to worry about any security protocols; just do it.
   named:
   - Elon Musk
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.29.8_1.pdf
@@ -717,12 +716,12 @@
   type: access_granted
   access_type: admin
   access_systems:
-  - Office-DOE
+  - Office-Energy
   event: Luke Farritor was granted access to the Energy Department's IT system on Wednesday by Energy Secretary Chris Wright over objections from agency security staff
   source: https://www.cnn.com/2025/02/06/climate/doge-energy-department-trump/index.html
   named:
   - Luke Farritor
-  agency: DOE
+  agency: Energy
 
 - date: 2025-02-05
   type: report
@@ -962,13 +961,13 @@
   named:
   - Ryan Riedel
   source: https://www.aol.com/trump-energy-secretary-allowed-23-003504452.html
-  agency: DOE
+  agency: Energy
 
 - date: 2025-02-07
   type: report
   event: Sources indicate that 3 unidentified DOGE personnel are working at the Department of Energy
   source: https://www.reuters.com/world/us/three-doge-members-raise-access-concerns-us-energy-department-sources-say-2025-02-07/
-  agency: DOE
+  agency: Energy
 
 - date: 2025-02-07
   type: disruption
@@ -2441,7 +2440,7 @@
   type: offboarded
   event: Ryan Reiedel resigns from the CIO role and departs from the agency
   source: https://www.nextgov.com/people/2025/03/energy-cio-departs-after-short-tenure/403596/
-  agency: DOE
+  agency: Energy
 
 - date: 2025-03-07
   type: promotion
@@ -2569,7 +2568,7 @@
   onboard_type: appointed
   event: Ross Graeber is named the new CIO of the Department of Energy, after working with DOGE at the Department of State
   source: https://www.nextgov.com/people/2025/03/energy-appoints-twitter-google-alum-new-cio/403717/
-  agency: DOE
+  agency: Energy
 
 - date: 2025-03-13
   type: report
@@ -3443,7 +3442,7 @@
   type: disruption
   event: Employees at the Department of Energy are sent an email offering for them to enroll in a deferred resignation plan
   source: https://www.nytimes.com/2025/04/01/us/politics/federal-layoff-buyout-offers.html
-  agency: DOE
+  agency: Energy
 
 - date: 2025-04-01
   type: report

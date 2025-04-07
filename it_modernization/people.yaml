@@ -15,7 +15,7 @@ Adam Ramada:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
   - agency: Education
     date: 2025-01-28
-    event: According to his sworn testimony, Adam Ramada is detailed from the USDS to the Department of Education. He says there is one other USDS staffer with him, two other detailees and two DOE staffers.
+    event: According to his sworn testimony, Adam Ramada is detailed from the USDS to the Department of Education. He says there is one other USDS staffer with him, two other detailees and two Energy staffers.
     name: Adam Ramada
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
   - agency: Education
@@ -1597,7 +1597,7 @@ Luke Farritor:
     event: Luke Farritor is granted read-only access to the Healthcare Integrated General Ledger Accounting System (HIGLAS) by the CIO, CMS Office of Information Technology
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: DOE
+  - agency: Energy
     date: 2025-02-05
     event: Luke Farritor was granted access to the Energy Department's IT system on Wednesday by Energy Secretary Chris Wright over objections from agency security staff
     name: Luke Farritor
@@ -2307,7 +2307,7 @@ Ryan Riedel:
   agencies:
   - Department of Energy
   events:
-  - agency: DOE
+  - agency: Energy
     date: 2025-02-07
     event: Ryan Riedel, a SpaceX network security engineer with 4 years of experience, is named the CIO for the agency
     name: Ryan Riedel

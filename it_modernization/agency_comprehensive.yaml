@@ -1369,7 +1369,7 @@ Education:
     type: onboarded
     onboard_type: detailed
     detailed_from: DOGE
-    event: According to his sworn testimony, Adam Ramada is detailed from the USDS to the Department of Education. He says there is one other USDS staffer with him, two other detailees and two DOE staffers.
+    event: According to his sworn testimony, Adam Ramada is detailed from the USDS to the Department of Education. He says there is one other USDS staffer with him, two other detailees and two Energy staffers.
     named:
     - Adam Ramada
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
@@ -1514,7 +1514,7 @@ Education:
       agency: Education
     1:25-cv-10601:
       name: State of New York v. McMahon (D.Mass)
-      description: Twenty states and the District of Columbia requested the court to halt the announced Department of Education (DOE) and the Trump administration's planned Reduction in Force (RIF) of half of the remaining employees of the DOE and closure of the DOE.
+      description: Twenty states and the District of Columbia requested the court to halt the announced Department of Education and the Trump administration's planned Reduction in Force (RIF) of half of the remaining employees and closure of the DOE.
       case_no: 1:25-cv-10601
       date_filed: 2025-03-13
       link: https://www.courtlistener.com/docket/69732750/state-of-new-york-v-mcmahon/
@@ -1530,9 +1530,9 @@ Education:
       - Treasury
       - OPM
 
-DOE:
+Energy:
   name: Department of Energy
-  id: DOE
+  id: Energy
   associated:
   - Luke Farritor
   - Adam Ramada
@@ -1542,17 +1542,17 @@ DOE:
     type: disruption
     event: Trump fires the Inspector General for the Department of Energy in a late-night purge
     source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
-    agency: DOE
+    agency: Energy
   - date: 2025-02-05
     type: access_granted
     access_type: admin
     access_systems:
-    - Office-DOE
+    - Office-Energy
     event: Luke Farritor was granted access to the Energy Department's IT system on Wednesday by Energy Secretary Chris Wright over objections from agency security staff
     source: https://www.cnn.com/2025/02/06/climate/doge-energy-department-trump/index.html
     named:
     - Luke Farritor
-    agency: DOE
+    agency: Energy
   - date: 2025-02-07
     type: onboarded
     onboard_type: appointed
@@ -1560,28 +1560,28 @@ DOE:
     named:
     - Ryan Riedel
     source: https://www.aol.com/trump-energy-secretary-allowed-23-003504452.html
-    agency: DOE
+    agency: Energy
   - date: 2025-02-07
     type: report
     event: Sources indicate that 3 unidentified DOGE personnel are working at the Department of Energy
     source: https://www.reuters.com/world/us/three-doge-members-raise-access-concerns-us-energy-department-sources-say-2025-02-07/
-    agency: DOE
+    agency: Energy
   - date: 2025-03-07
     type: offboarded
     event: Ryan Reiedel resigns from the CIO role and departs from the agency
     source: https://www.nextgov.com/people/2025/03/energy-cio-departs-after-short-tenure/403596/
-    agency: DOE
+    agency: Energy
   - date: 2025-03-13
     type: onboarded
     onboard_type: appointed
     event: Ross Graeber is named the new CIO of the Department of Energy, after working with DOGE at the Department of State
     source: https://www.nextgov.com/people/2025/03/energy-appoints-twitter-google-alum-new-cio/403717/
-    agency: DOE
+    agency: Energy
   - date: 2025-04-01
     type: disruption
     event: Employees at the Department of Energy are sent an email offering for them to enroll in a deferred resignation plan
     source: https://www.nytimes.com/2025/04/01/us/politics/federal-layoff-buyout-offers.html
-    agency: DOE
+    agency: Energy
   systems: {}
   cases: {}
 
