@@ -10,12 +10,12 @@ Adam Ramada:
   events:
   - agency: DOGE
     date: 2025-01-23
-    event: According to his own testimony, Adam Ramada starts at the USDS
+    event: Adam Ramada starts working at the USDS
     name: Adam Ramada
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
   - agency: Education
     date: 2025-01-28
-    event: According to his sworn testimony, Adam Ramada is detailed from the USDS to the Department of Education. He says there is one other USDS staffer with him, two other detailees and two Education staffers.
+    event: Adam Ramada is detailed from the USDS to the Department of Education. He says there is one other USDS staffer with him, two other detailees and two Education staffers.
     name: Adam Ramada
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
   - agency: Education
@@ -79,7 +79,7 @@ Akash Bobba:
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
   - agency: SSA
     date: 2025-03-13
-    event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     name: Akash Bobba
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
 
@@ -198,12 +198,18 @@ Anthony Jancso:
 Antoine McCord:
   agencies:
   - Department of Homeland Security
+  - US Citizenship & Immigration Services
   events:
   - agency: DHS
     date: 2025-03-11
     event: New CIO Antoine McCord arrives at DHS, reportedly with affiliates of DOGE
     name: Antoine McCord
     source: https://www.nextgov.com/people/2025/03/dhs-taps-antoine-mccord-top-tech-post/403727/
+  - agency: USCIS
+    date: 2025-03-25
+    event: Antoine McCord requests that access be granted for Peyton Rehling to the USCIS Data Business Intelligence Services (aka, the Data Lake)
+    name: Antoine McCord
+    source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
 
 Antonio Gracias:
   agencies:
@@ -212,7 +218,7 @@ Antonio Gracias:
   events:
   - agency: SSA
     date: 2025-03-13
-    event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     name: Antonio Gracias
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
   - agency: SSA
@@ -520,7 +526,7 @@ Cole Killian:
   events:
   - agency: DOGE
     date: 2025-01-21
-    event: DOGE staff start screening all USDS staff in interviews, asking them their views of DOGE and who were underperformers who should be fired.
+    event: DOGE staff start screening all current USDS staff with short interviews, asking them their views of DOGE and who were underperformers who should be fired.
     name: Cole Killian
     source: https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/
   - agency: EPA
@@ -545,7 +551,7 @@ Cole Killian:
     source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
   - agency: SSA
     date: 2025-03-13
-    event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     name: Cole Killian
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
 
@@ -749,8 +755,7 @@ Elon Musk:
     source: https://www.nextgov.com/people/2025/01/musk-visits-and-asserts-growing-influence-gsa/402628/
   - agency: DOL
     date: 2025-02-04
-    event: One of AFGE's members who works in the headquarters of the Department received an instruction from Department leadership that Elon Musk and his DOGE team would be accessing Department of Labor headquarters beginning around 4 p.m. on February 5, 2025. This member and other employees were told by Department leadership that when Mr. Musk and his team visit, they are to do whatever they ask, not to push back, not to ask questions. They were told to provide access to any DOL system they requested
-      access to and not to worry about any security protocols; just do it.
+    event: One of AFGE's members who works in the headquarters of the Department received an instruction from Department leadership that Elon Musk and his DOGE team would be accessing Department of Labor headquarters beginning around 4 p.m. on February 5, 2025. This member and other employees were told by Department leadership that when Mr. Musk and his team visit, they are to do whatever they ask, not to push back, not to ask questions. They were told to provide access to any DOL system they requested access to and not to worry about any security protocols; just do it.
     name: Elon Musk
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.29.8_1.pdf
   - agency: FAA
@@ -788,6 +793,11 @@ Elon Musk:
     event: Elon Musk visits the NSA to meet with its top administrator, General Timothy Haugh
     name: Elon Musk
     source: https://www.wsj.com/politics/national-security/elon-musk-made-secret-visit-to-u-s-spy-agency-9b0b64e2?mod=hp_lead_pos5
+  - agency: DOGE
+    date: 2025-03-18
+    event: In a ruling in J. Doe 1-26 v. Musk (D. Md), Judge Theodore D. Chuang declares that evidence shows that Elon Musk was effectively running DOGE without being appointed to the role
+    name: Elon Musk
+    source: https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rZttxcbH9cfc/v0
   - agency: DOD
     date: 2025-03-21
     event: Elon Musk arrives at the Pentagon for a meeting with leadership, reportedly to discuss DOGE
@@ -898,7 +908,7 @@ Ethan Shaotran:
     source: https://www.thedailybeast.com/elon-musks-doge-goons-in-tense-standoff-video-unmasked/
   - agency: SSA
     date: 2025-03-13
-    event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     name: Ethan Shaotran
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
 
@@ -936,7 +946,7 @@ Gavin Kliger:
     source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
   - agency: USAID
     date: 2025-01-30
-    event: Farritor and Kliger demanded that all senior managers be stripped of their power to authorize payments - and that they alone become the authorizers.
+    event: Farritor and Kliger demanded that all senior managers at USAID be stripped of their power to authorize payments - and that they alone become the authorizers.
     name: Gavin Kliger
     source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
   - agency: USAID
@@ -1192,7 +1202,7 @@ Jon Koval:
   events:
   - agency: SSA
     date: 2025-03-13
-    event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     name: Jon Koval
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
   - agency: VA
@@ -1396,6 +1406,11 @@ Keith Sonderling:
     event: DOGE arrives at IMLS HQ, are startled to find staff there, swear in Keith Sonderling as acting director and leave
     name: Keith Sonderling
     source: https://news.artnet.com/art-world/doge-imls-institute-museum-library-services-2623286
+  - agency: IMLS
+    date: 2025-03-20
+    event: Keith Sonderling is sworn in as acting director of the IMLS
+    name: Keith Sonderling
+    source: https://news.artnet.com/art-world/doge-imls-institute-museum-library-services-2623286
 
 Kendall Lindemann:
   agencies:
@@ -1411,9 +1426,15 @@ Kendall Lindemann:
 
 Kenneth Jackson:
   agencies:
+  - Inter-American Foundation
   - US Agency for International Development
   - US Institute of Peace
   events:
+  - agency: IAF
+    date: 2025-03-10
+    event: The Trump Administration nominates Kenneth Jackson and Russell Vought to be on the board of the IAF
+    name: Kenneth Jackson
+    source: https://www.senate.gov/legislative/LIS/executive_calendar/xcalv.pdf
   - agency: USIP
     date: 2025-03-14
     event: DOGE members Kenneth Jackson, Jacob Altik and Nate Cavanaugh show up at USIP building with 2 other people claiming to be FBI agents and are refused entry. They attempted to present a document firing the USIP president.
@@ -1560,7 +1581,7 @@ Luke Farritor:
     source: https://www.wired.com/story/elon-musk-doge-recruiting-palantir/
   - agency: HHS
     date: 2025-01-21
-    event: According to a government declaration, Luke Farritor is detailed from the GSA to Health and Human Services
+    event: Luke Farritor is detailed from the GSA to Health and Human Services
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   - agency: HHS
@@ -1595,7 +1616,7 @@ Luke Farritor:
     source: https://www.nextgov.com/people/2025/01/musk-visits-and-asserts-growing-influence-gsa/402628/
   - agency: USAID
     date: 2025-01-30
-    event: Farritor and Kliger demanded that all senior managers be stripped of their power to authorize payments - and that they alone become the authorizers.
+    event: Farritor and Kliger demanded that all senior managers at USAID be stripped of their power to authorize payments - and that they alone become the authorizers.
     name: Luke Farritor
     source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
   - agency: CMS
@@ -1690,7 +1711,7 @@ Luke Farritor:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
   - agency: SSA
     date: 2025-03-13
-    event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     name: Luke Farritor
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
   - agency: HHS
@@ -1828,7 +1849,7 @@ Marko Elez:
     event: Marko Elez is granted access read-only access to DOL Homeland Security Presidential Directive 12 (HSPD-12) Enterprise Physical Access Control System (EPACS) by Troy Finnegan, Former Assistant Secretary for Administration and Management
     name: Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  - agency: CMS
+  - agency: HHS
     date: 2025-03-05
     event: Marko Elez is detailed to HHS from the Department of Labor, where he is reported as an employee. He is also detailed to USDS
     name: Marko Elez
@@ -1870,7 +1891,7 @@ Marko Elez:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
   - agency: SSA
     date: 2025-03-13
-    event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     name: Marko Elez
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
   - agency: DOL
@@ -1957,6 +1978,11 @@ Michael Mirski:
   - agency: HUD
     date: 2025-02-26
     event: Wired reports that Michael Mirski has read access to the IDIS and FASS-PH systems at HUD
+    name: Michael Mirski
+    source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
+  - agency: HUD
+    date: 2025-02-26
+    event: There is reportedly a 6-person DOGE team working at HUD, with 4 of the staff being existing HUD employees and Michael Mirski and Scott Langmack from DOGE
     name: Michael Mirski
     source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
 
@@ -2134,7 +2160,7 @@ Nikhil Rajpal:
   events:
   - agency: DOGE
     date: 2025-01-21
-    event: DOGE staff start screening all USDS staff in interviews, asking them their views of DOGE and who were underperformers who should be fired.
+    event: DOGE staff start screening all current USDS staff with short interviews, asking them their views of DOGE and who were underperformers who should be fired.
     name: Nikhil Rajpal
     source: https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/
   - agency: NOAA
@@ -2169,7 +2195,7 @@ Nikhil Rajpal:
     source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
   - agency: SSA
     date: 2025-03-13
-    event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     name: Nikhil Rajpal
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
   - agency: CFPB
@@ -2203,7 +2229,7 @@ Payton Rehling:
   events:
   - agency: SSA
     date: 2025-03-13
-    event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     name: Payton Rehling
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
   - agency: USCIS
@@ -2318,6 +2344,11 @@ Ryan Riedel:
     event: Ryan Riedel, a SpaceX network security engineer with 4 years of experience, is named the CIO for the agency
     name: Ryan Riedel
     source: https://www.aol.com/trump-energy-secretary-allowed-23-003504452.html
+  - agency: Energy
+    date: 2025-03-07
+    event: Ryan Reiedel resigns from the CIO role and departs from the agency
+    name: Ryan Riedel
+    source: https://www.nextgov.com/people/2025/03/energy-cio-departs-after-short-tenure/403596/
 
 Ryan Wunderly:
   agencies:
@@ -2398,7 +2429,7 @@ Scott Coulter:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
   - agency: SSA
     date: 2025-03-13
-    event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
     name: Scott Coulter
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
   - agency: NASA
@@ -2446,6 +2477,11 @@ Scott Langmack:
   - agency: HUD
     date: 2025-02-26
     event: Wired reports that two DOGE staffers have read-write access to the LOCCS and HUDCAPS systems
+    name: Scott Langmack
+    source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
+  - agency: HUD
+    date: 2025-02-26
+    event: There is reportedly a 6-person DOGE team working at HUD, with 4 of the staff being existing HUD employees and Michael Mirski and Scott Langmack from DOGE
     name: Scott Langmack
     source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
 
@@ -2585,6 +2621,11 @@ Ted Malaska:
     event: 4 SpaceX engineers were onboarded into the FAA under the Schedule A hiring authority for people with disabilities
     name: Ted Malaska
     source: https://www.wired.com/story/faa-doge-elon-musk-space-x/
+  - agency: FAA
+    date: 2025-02-18
+    event: Malaska declares that SpaceX is the only company able to complete a communications network contract already awarded to Verizon, threatens to report anybody blocking his work to Musk
+    name: Ted Malaska
+    source: https://www.bloomberg.com/news/features/2025-03-05/after-elon-musk-lands-at-faa-his-starlink-business-stands-to-gain-business
 
 Thomas Kiernan:
   agencies:
@@ -2644,7 +2685,7 @@ Thomas Shedd:
     source: https://www.theatlantic.com/technology/archive/2025/03/gsa-chat-doge-ai/681987/
   - agency: DOL
     date: 2025-03-14
-    event: Thomas Shedd apparently starts working at the CIO at Department of Labor while also serving as the TTS Commissioner at GSA (experts are unclear if this is legal)
+    event: Thomas Shedd starts working at the CIO at Department of Labor while also serving as the TTS Commissioner at GSA (experts are unclear if this is legal)
     name: Thomas Shedd
     source: https://www.nextgov.com/people/2025/03/tts-director-tapped-serve-labor-cio/403855/?oref=ng-home-top-story
 

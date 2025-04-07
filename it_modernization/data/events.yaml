@@ -128,7 +128,7 @@
 
 - date: 2025-01-21
   type: report
-  event: DOGE staff start screening all USDS staff in interviews, asking them their views of DOGE and who were underperformers who should be fired.
+  event: DOGE staff start screening all current USDS staff with short interviews, asking them their views of DOGE and who were underperformers who should be fired.
   named:
   - Cole Killian
   - Nikhil Rajpal
@@ -148,7 +148,7 @@
   type: onboarded
   onboard_type: detailed
   detailed_from: GSA
-  event: According to a government declaration, Luke Farritor is detailed from the GSA to Health and Human Services
+  event: Luke Farritor is detailed from the GSA to Health and Human Services
   named:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
@@ -168,7 +168,7 @@
 - date: 2025-01-23
   type: onboarded
   onboard_type: hired
-  event: According to his own testimony, Adam Ramada starts at the USDS
+  event: Adam Ramada starts working at the USDS
   named:
   - Adam Ramada
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
@@ -196,36 +196,6 @@
   agency: CDC
 
 - date: 2025-01-24
-  type: disruption
-  event: Commerce Department Inspector General is fired in a late-night purge
-  source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
-  agency: Commerce
-
-- date: 2025-01-24
-  type: disruption
-  event: Trump fires the USDA Inspector General in a late-night purge
-  source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
-  agency: USDA
-
-- date: 2025-01-24
-  type: disruption
-  event: Trump fires the DoD Inspector General in a late-night purge
-  source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
-  agency: DOD
-
-- date: 2025-01-24
-  type: disruption
-  event: Trump fires the Inspector General for the Department of Education in a late-night purge
-  source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
-  agency: Education
-
-- date: 2025-01-24
-  type: disruption
-  event: Trump fires the Inspector General for the Department of Energy in a late-night purge
-  source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
-  agency: Energy
-
-- date: 2025-01-24
   type: report
   event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
   source: https://www.yahoo.com/news/doge-just-got-hire-224212262.html
@@ -242,28 +212,10 @@
   agency: DOGE
 
 - date: 2025-01-24
-  type: disruption
-  event: Trump fires the Inspector General for the Department of Labor in a late-night purge
-  source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
-  agency: DOL
-
-- date: 2025-01-24
   type: official
   event: Treasury Chief of Staff Dan Katz sends an email stating that DOGE staff need to be given access to pause USAID payments
   source: https://www.nytimes.com/2025/02/06/us/politics/trump-musk-usaid.html
   agency: Treasury
-
-- date: 2025-01-24
-  type: disruption
-  event: Trump fires the Inspector General for the Department of the Treasury in a late-night purge
-  source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
-  agency: Treasury
-
-- date: 2025-01-24
-  type: disruption
-  event: Trump fires the EPA Inspector General in a late-night purge
-  source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
-  agency: EPA
 
 - date: 2025-01-24
   type: onboarded
@@ -276,27 +228,21 @@
 
 - date: 2025-01-24
   type: disruption
-  event: Trump fires the HHS Inspector General in a late-night purge
+  event: Trump fires approximately 17 Inspectors General in a late-night purge
   source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
-  agency: HHS
-
-- date: 2025-01-24
-  type: disruption
-  event: Trump fires the OPM Inspector General in a late-night purge
-  source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
-  agency: OPM
-
-- date: 2025-01-24
-  type: disruption
-  event: Trump fires the SBA Inspector General in a late-night purge
-  source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
-  agency: SBA
-
-- date: 2025-01-24
-  type: disruption
-  event: Trump fires the VA Inspector General in a late-night purge
-  source: https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html
-  agency: VA
+  agency:
+  - Commerce
+  - USDA
+  - DOD
+  - Education
+  - Energy
+  - DOL
+  - Treasury
+  - EPA
+  - HHS
+  - OPM
+  - SSA
+  - VA
 
 - date: 2025-01-26
   type: report
@@ -355,7 +301,7 @@
   type: onboarded
   onboard_type: detailed
   detailed_from: DOGE
-  event: According to his sworn testimony, Adam Ramada is detailed from the USDS to the Department of Education. He says there is one other USDS staffer with him, two other detailees and two Education staffers.
+  event: Adam Ramada is detailed from the USDS to the Department of Education. He says there is one other USDS staffer with him, two other detailees and two Education staffers.
   named:
   - Adam Ramada
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
@@ -490,7 +436,7 @@
 
 - date: 2025-01-30
   type: disruption
-  event: Farritor and Kliger demanded that all senior managers be stripped of their power to authorize payments - and that they alone become the authorizers.
+  event: Farritor and Kliger demanded that all senior managers at USAID be stripped of their power to authorize payments - and that they alone become the authorizers.
   named:
   - Luke Farritor
   - Gavin Kliger
@@ -653,8 +599,7 @@
 
 - date: 2025-02-04
   type: report
-  event: One of AFGE's members who works in the headquarters of the Department received an instruction from Department leadership that Elon Musk and his DOGE team would be accessing Department of Labor headquarters beginning around 4 p.m. on February 5, 2025. This member and other employees were told by Department leadership that when Mr. Musk and his team visit, they are to do whatever they ask, not to push back, not to ask questions. They were told to provide access to any DOL system they requested
-    access to and not to worry about any security protocols; just do it.
+  event: One of AFGE's members who works in the headquarters of the Department received an instruction from Department leadership that Elon Musk and his DOGE team would be accessing Department of Labor headquarters beginning around 4 p.m. on February 5, 2025. This member and other employees were told by Department leadership that when Mr. Musk and his team visit, they are to do whatever they ask, not to push back, not to ask questions. They were told to provide access to any DOL system they requested access to and not to worry about any security protocols; just do it.
   named:
   - Elon Musk
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.29.8_1.pdf
@@ -1285,7 +1230,7 @@
 
 - date: 2025-02-14
   type: disruption
-  event: 388 probabtionary employees are fired
+  event: 388 probationary employees are fired at the EPA
   source: https://www.eenews.net/articles/epa-pushes-out-almost-500-probationary-employees/
   agency: EPA
 
@@ -1403,13 +1348,13 @@
 
 - date: 2025-02-17
   type: disruption
-  event: The head of the medical device safety division is fired amid mass layoffs
+  event: The head of the medical device safety division at the FDA is fired amid mass layoffs
   source: https://www.statnews.com/2025/02/18/fda-trump-musk-doge-cuts-ross-segan-memo-medical-device-safety/
   agency: FDA
 
 - date: 2025-02-17
   type: disruption
-  event: The head of the agency's food safety division resigns because of 89 employees being indiscriminately fired
+  event: The head of the FDA's food safety division resigns because of 89 employees being indiscriminately fired
   source: https://thehill.com/policy/healthcare/5152084-fdas-food-safety-head-resigns/
   agency: FDA
 
@@ -1472,6 +1417,8 @@
 - date: 2025-02-18
   type: report
   event: Malaska declares that SpaceX is the only company able to complete a communications network contract already awarded to Verizon, threatens to report anybody blocking his work to Musk
+  named:
+  - Ted Malaska
   source: https://www.bloomberg.com/news/features/2025-03-05/after-elon-musk-lands-at-faa-his-starlink-business-stands-to-gain-business
   agency: FAA
 
@@ -1679,8 +1626,8 @@
   agency: USADF
 
 - date: 2025-02-21
-  type: report
-  event: USDA Secretary Rollins posts a photo of a grant-cancellation session with @DOGE_USDA
+  type: official
+  event: USDA Secretary Rollins posts a photo of a grant-cancellation session on the @DOGE_USDA account
   source: https://xcancel.com/SecRollins/status/1892777526704885880#m
   agency: USDA
 
@@ -2006,6 +1953,9 @@
   type: report
   event: There is reportedly a 6-person DOGE team working at HUD, with 4 of the staff being existing HUD employees and Michael Mirski and Scott Langmack from DOGE
   source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
+  named:
+  - Michael Mirski
+  - Scott Langmack
   agency: HUD
 
 - date: 2025-02-26
@@ -2278,7 +2228,7 @@
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-  agency: CMS
+  agency: HHS
 
 - date: 2025-03-05
   type: access_granted
@@ -2446,6 +2396,8 @@
 - date: 2025-03-07
   type: offboarded
   event: Ryan Reiedel resigns from the CIO role and departs from the agency
+  named:
+  - Ryan Riedel
   source: https://www.nextgov.com/people/2025/03/energy-cio-departs-after-short-tenure/403596/
   agency: Energy
 
@@ -2493,6 +2445,8 @@
 - date: 2025-03-10
   type: report
   event: The Trump Administration nominates Kenneth Jackson and Russell Vought to be on the board of the IAF
+  named:
+  - Kenneth Jackson
   source: https://www.senate.gov/legislative/LIS/executive_calendar/xcalv.pdf
   agency: IAF
 
@@ -2604,7 +2558,7 @@
 - date: 2025-03-13
   source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
   type: report
-  event: Wired reports that 10 DOGE staffer - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+  event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
   named:
   - Akash Bobba
   - Scott Coulter
@@ -2627,7 +2581,7 @@
 - date: 2025-03-14
   type: onboarded
   onboard_type: appointed
-  event: Thomas Shedd apparently starts working at the CIO at Department of Labor while also serving as the TTS Commissioner at GSA (experts are unclear if this is legal)
+  event: Thomas Shedd starts working at the CIO at Department of Labor while also serving as the TTS Commissioner at GSA (experts are unclear if this is legal)
   named:
   - Thomas Shedd
   source: https://www.nextgov.com/people/2025/03/tts-director-tapped-serve-labor-cio/403855/?oref=ng-home-top-story
@@ -2811,6 +2765,8 @@
 - date: 2025-03-18
   type: legal
   event: In a ruling in J. Doe 1-26 v. Musk (D. Md), Judge Theodore D. Chuang declares that evidence shows that Elon Musk was effectively running DOGE without being appointed to the role
+  named:
+  - Elon Musk
   source: https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rZttxcbH9cfc/v0
   case_no: 8:25-cv-00462
   agency: DOGE
@@ -2927,7 +2883,7 @@
 
 - date: 2025-03-20
   type: official
-  event: President Trump issues an executive order demaning that agency heads must share all access to any unclassified datasets "related to the identification and elimination of waste, fraud, and abuse" but also "to the maximum extent consistent with law"
+  event: President Trump issues an executive order demaning that agency heads must share all access to any unclassified datasets "related to the identification and elimination of waste, fraud, and abuse" but also "to the maximum extent consistent with law."
   source: https://www.whitehouse.gov/presidential-actions/2025/03/stopping-waste-fraud-and-abuse-by-eliminating-information-silos/
   agency: DOGE
 
@@ -2949,6 +2905,8 @@
   type: onboarded
   onboard_type: appointed
   event: Keith Sonderling is sworn in as acting director of the IMLS
+  named:
+  - Keith Sonderling
   source: https://news.artnet.com/art-world/doge-imls-institute-museum-library-services-2623286
   agency: IMLS
 
@@ -3171,6 +3129,7 @@
   - CIS
   named:
   - Payton Rehling
+  - Antoine McCord
   source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
   agency: USCIS
 
@@ -3585,3 +3544,13 @@
   event: The Post confirms with multiple source that Social Security's website has crashed repeatedly in recent weeks, with outages ranging from 20 minutes to an entire day. They speculate this is due to the introduction of an expanded fraud check system created by DOGE that wasn't tested for scalability before being deployed.
   source: https://www.washingtonpost.com/politics/2025/04/07/social-security-website-crashes-musk-trump/
   agency: SSA
+
+- date: 2025-04-07
+  type: legal
+  event: In a 2-1 vote, the 4th U.S. Circuit Court of Appeals lifted a stay against DOGE data access at the Treasury, OPM and Department of Education imposed in the case American Federation of Teachers v. Bessent (D. Maryland 2025)
+  source: https://storage.courtlistener.com/recap/gov.uscourts.ca4.178115/gov.uscourts.ca4.178115.17.0.pdf
+  case_no: 8:25-cv-00430
+  agency:
+  - Treasury
+  - OPM
+  - Education

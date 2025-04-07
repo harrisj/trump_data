@@ -43,4 +43,4 @@ people_data = generate_people_comprehensive_yaml()
 output_file = './people.yaml'
 with open(output_file, 'w') as file:
     file.write("# yaml-language-server: $schema=schemas/people_schema.json\n")
-    file.write(yaml.dump(people_data, Dumper=MyYamlDumper, indent=2, width=500, sort_keys=True))
+    file.write(yaml.dump(people_data, Dumper=MyYamlDumper, indent=2, width=1000, sort_keys=True))
