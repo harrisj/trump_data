@@ -95,6 +95,7 @@ Akash Bobba:
 
 Alexander Simonpour:
   agencies:
+  - Department of Government Efficiency
   - National Aeronautics and Space Administration
   events:
   - agency: NASA
@@ -1150,6 +1151,11 @@ Jared Birchall:
     name: Jared Birchall
     source: https://www.nytimes.com/2024/12/06/us/politics/trump-elon-musk-silicon-valley.html
 
+Jared Isaacman:
+  agencies:
+  - National Aeronautics and Space Administration
+  events: []
+
 Jennifer Balajadia:
   agencies:
   - Department of Education
@@ -1232,6 +1238,7 @@ Joe Gebbia:
 
 Jon Koval:
   agencies:
+  - Department of Government Efficiency
   - Social Security Administration
   - Veterans Administration
   events:
@@ -2263,6 +2270,7 @@ Noah Peters:
 
 Payton Rehling:
   agencies:
+  - Department of Government Efficiency
   - Social Security Administration
   - US Citizenship & Immigration Services
   - Veterans Administration

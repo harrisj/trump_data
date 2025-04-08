@@ -47,7 +47,7 @@
   case_no: 1:25-cv-00339
   date_filed: 2025-02-05
   link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
-  agency: DOL
+  agency: [ DOL, CFPB, HHS, DOGE ]
 
 - name: Government Accountability Project v. Office of Personnel Management (D.D.C.)
   description: Lawsuit alleging that OPM attempt to reclassify status of federal employees illegally bypassed Administrative Procedures Act
@@ -89,7 +89,7 @@
   date_filed: 2025-02-11
   case_no: 1:25-cv-00407
   link: https://www.courtlistener.com/docket/69629660/nemeth-greenleaf-v-united-states-office-of-personnel-management/
-  agency: OPM
+  agency: [ OPM, Treasury ]
 
 - name: American Oversight v. Department of Government Efficiency (D.D.C.)
   description: The complaint seeks declaratory and injunctive relief compelling DOGE and OMB to comply with FOIA requests pertaining to communications by Elon Musk and other staff concerning the dismissal of Inspectors General
@@ -103,21 +103,7 @@
   date_filed: 2025-02-12
   case_no: 1:25-cv-00422
   link: https://www.courtlistener.com/docket/69635650/gribbon-v-musk/
-  agency: DOGE
-
-- name: Gribbon et al. v. Musk (D.D.C.)
-  description: Six individuals sued Elon Musk, the Office of Personnel Management ("OPM"), and the Treasury for sharing personal information. The plaintiffs argue that by sharing their private information, Musk and the agencies violated federal laws.
-  date_filed: 2025-02-12
-  case_no: 1:25-cv-00422
-  link: https://www.courtlistener.com/docket/69635650/gribbon-v-musk/
-  agency: Treasury
-
-- name: Gribbon et al. v. Musk (D.D.C.)
-  description: Six individuals sued Elon Musk, the Office of Personnel Management ("OPM"), and the Treasury for sharing personal information. The plaintiffs argue that by sharing their private information, Musk and the agencies violated federal laws.
-  date_filed: 2025-02-12
-  case_no: 1:25-cv-00422
-  link: https://www.courtlistener.com/docket/69635650/gribbon-v-musk/
-  agency: OPM
+  agency: [ DOGE, Treasury, OPM ]
 
 - name: Center for Taxpayer Rights v. IRS (D.D.C)
   description: Several organizations, on behalf of taxpayers, sued the Internal Revenue Service ("IRS") and the Treasury, challenging the access to private tax information the agencies gave to the Department of Government Efficiency's ("DOGE")
@@ -141,11 +127,11 @@
   agency: DOGE
 
 - name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
-  description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency ("DOGE"), challenging the access to sensitive personal data of millions of Americans which SSA gave to https://www.nytimes.com/2025/02/05/us/politics/elon-musk-doge-faa.html
+  description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency ("DOGE"), challenging the access to sensitive personal data of millions of Americans which SSA gave to DOGE
   date_filed: 2025-02-21
   case_no: 1:25-cv-00596
   link: https://www.courtlistener.com/docket/69664313/american-federation-of-state-county-and-municipal-employees-afl-cio-v/
-  agency: SSA
+  agency: [ SSA, DOGE ]
 
 - name: Center for Biological Diversity v. U.S. Department of Interior (D.D.C.)
   description: Plaintiffs, a nonprofit organization focused on habitat preservation for endangered species, alleges that DOGE and the Department of Interior have violated the Administrative Procedures Act by failing to follow Federal Advisory Committee Act (FACA) requirements
