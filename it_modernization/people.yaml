@@ -42,6 +42,16 @@ Akash Bobba:
   - Office of Personnel Management
   - Social Security Administration
   events:
+  - agency: OPM
+    date: 2025-02-02
+    event: Wired Magazine identifies Akash Bobba, Gavin Kliger and Edward Coristine as special advisors reporting to Amanda Scales at OPM
+    name: Akash Bobba
+    source: https://www.wired.com/story/elon-musk-government-young-engineers/
+  - agency: GSA
+    date: 2025-02-02
+    event: Wired Magazine identifies several DOGE staffers with GSA email addresses and A-Suite Level clearances granting them access to all physical spaces and IT systems
+    name: Akash Bobba
+    source: https://www.wired.com/story/elon-musk-government-young-engineers/
   - agency: SSA
     date: 2025-02-03
     event: Mike Russo officially joins the agency as its new CIO, requests Akash Bobba to join the agency (but he has issues with his background check)
@@ -529,6 +539,11 @@ Cole Killian:
     event: DOGE staff start screening all current USDS staff with short interviews, asking them their views of DOGE and who were underperformers who should be fired.
     name: Cole Killian
     source: https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/
+  - agency: DOGE
+    date: 2025-02-02
+    event: Wired Magazine identifies Cole Killian as a volunteer at DOGE
+    name: Cole Killian
+    source: https://www.wired.com/story/elon-musk-government-young-engineers/
   - agency: EPA
     date: 2025-02-04
     event: Gauiter "Cole" Killian appears in an EPA internal directory as a "Federal Detailee"
@@ -628,6 +643,16 @@ Edward Coristine:
     event: Wired reports that DOGE staff are attempting to get elevated access to GSA systems and making changes to office arrangements
     name: Edward Coristine
     source: https://www.wired.com/story/elon-musk-lackeys-general-services-administration/
+  - agency: OPM
+    date: 2025-02-02
+    event: Wired Magazine identifies Akash Bobba, Gavin Kliger and Edward Coristine as special advisors reporting to Amanda Scales at OPM
+    name: Edward Coristine
+    source: https://www.wired.com/story/elon-musk-government-young-engineers/
+  - agency: GSA
+    date: 2025-02-02
+    event: Wired Magazine identifies several DOGE staffers with GSA email addresses and A-Suite Level clearances granting them access to all physical spaces and IT systems
+    name: Edward Coristine
+    source: https://www.wired.com/story/elon-musk-government-young-engineers/
   - agency: SBA
     date: 2025-02-03
     event: Email to SBA staff announces that Edward Coristine was granted access to all systems including HR, contract, and payment systems.
@@ -861,6 +886,11 @@ Ethan Shaotran:
     event: Wired reports that DOGE staff are attempting to get elevated access to GSA systems and making changes to office arrangements
     name: Ethan Shaotran
     source: https://www.wired.com/story/elon-musk-lackeys-general-services-administration/
+  - agency: GSA
+    date: 2025-02-02
+    event: Wired Magazine identifies several DOGE staffers with GSA email addresses and A-Suite Level clearances granting them access to all physical spaces and IT systems
+    name: Ethan Shaotran
+    source: https://www.wired.com/story/elon-musk-government-young-engineers/
   - agency: Education
     date: 2025-02-08
     event: NBC News reports that Akash Bobba and Ethan Shaotran have admin access to email and had also accessed the website backend
@@ -949,6 +979,11 @@ Gavin Kliger:
     event: Farritor and Kliger demanded that all senior managers at USAID be stripped of their power to authorize payments - and that they alone become the authorizers.
     name: Gavin Kliger
     source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
+  - agency: OPM
+    date: 2025-02-02
+    event: Wired Magazine identifies Akash Bobba, Gavin Kliger and Edward Coristine as special advisors reporting to Amanda Scales at OPM
+    name: Gavin Kliger
+    source: https://www.wired.com/story/elon-musk-government-young-engineers/
   - agency: USAID
     date: 2025-02-03
     event: An email informing USAID staff that the building was closed included Gavin Kliger's email address
@@ -1624,6 +1659,11 @@ Luke Farritor:
     event: Luke Farritor is granted read-only access to the Healthcare Integrated General Ledger Accounting System (HIGLAS) by the CIO, CMS Office of Information Technology
     name: Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - agency: GSA
+    date: 2025-02-02
+    event: Wired Magazine identifies several DOGE staffers with GSA email addresses and A-Suite Level clearances granting them access to all physical spaces and IT systems
+    name: Luke Farritor
+    source: https://www.wired.com/story/elon-musk-government-young-engineers/
   - agency: Energy
     date: 2025-02-05
     event: Luke Farritor was granted access to the Energy Department's IT system on Wednesday by Energy Secretary Chris Wright over objections from agency security staff

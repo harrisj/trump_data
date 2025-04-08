@@ -978,6 +978,13 @@ DOGE:
     - Baris Akis
     - James Burnham
     agency: DOGE
+  - date: 2025-02-02
+    type: report
+    event: Wired Magazine identifies Cole Killian as a volunteer at DOGE
+    named:
+    - Cole Killian
+    source: https://www.wired.com/story/elon-musk-government-young-engineers/
+    agency: DOGE
   - date: 2025-02-11
     type: official
     event: Trump issues an executive order giving DOGE teams in every agency final approval on any hiring decisions, sets quota of 1 new hire for 4 departures
@@ -2518,6 +2525,16 @@ GSA:
     - Ethan Shaotran
     source: https://www.wired.com/story/elon-musk-lackeys-general-services-administration/
     agency: GSA
+  - date: 2025-02-02
+    type: report
+    event: Wired Magazine identifies several DOGE staffers with GSA email addresses and A-Suite Level clearances granting them access to all physical spaces and IT systems
+    named:
+    - Akash Bobba
+    - Edward Coristine
+    - Luke Farritor
+    - Ethan Shaotran
+    source: https://www.wired.com/story/elon-musk-government-young-engineers/
+    agency: GSA
   - date: 2025-02-10
     type: report
     event: Unnamed DOGE staff using non-government accounts conduct dozens of "touch-base" interviews with dozens of US Digital Corps fellows, under the direction of Thomas Shedd
@@ -3533,6 +3550,15 @@ OPM:
     - Amanda Scales
     - Riccardo Biasini
     source: https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/
+    agency: OPM
+  - date: 2025-02-02
+    type: report
+    event: Wired Magazine identifies Akash Bobba, Gavin Kliger and Edward Coristine as special advisors reporting to Amanda Scales at OPM
+    named:
+    - Akash Bobba
+    - Edward Coristine
+    - Gavin Kliger
+    source: https://www.wired.com/story/elon-musk-government-young-engineers/
     agency: OPM
   - date: 2025-02-05
     type: legal
