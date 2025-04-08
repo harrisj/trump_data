@@ -3594,6 +3594,17 @@
   - OPM
   - Education
 
+- date: 2025-04-07
+  type: official
+  event: The IRS and DHS executed a Memorandum of Understanding (MOU) for data sharing between both agencies. Although DOGE is not named specifically in this agreement, ICE is allowed to designate authorized individuals to access the shared data. AI usage must also be reviewed first by the IRS.
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278147/gov.uscourts.dcd.278147.30.1_1.pdf
+  case_no: 1:25-cv-00677
+  agency:
+  - Treasury
+  - IRS
+  - DHS
+  - ICE
+
 - date: 2025-04-08
   type: report
   event: Employees at the EPA are reportedly being told by Trump-appointed officials that DOGE was using AI to monitor communication tools (including Microsoft Teams) for anti-Trump or anti-Musk language

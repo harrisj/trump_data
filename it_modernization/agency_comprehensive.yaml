@@ -1381,6 +1381,16 @@ DHS:
     event: Trump administration eliminates the DHS Office for Civil Rights and Civil Liberties and two ombudsman offices responsible for investigating allegations of abuse from immigrants
     source: https://www.nytimes.com/2025/03/21/us/politics/trump-civil-rights-homeland-security-deportations.html
     agency: DHS
+  - date: 2025-04-07
+    type: official
+    event: The IRS and DHS executed a Memorandum of Understanding (MOU) for data sharing between both agencies. Although DOGE is not named specifically in this agreement, ICE is allowed to designate authorized individuals to access the shared data. AI usage must also be reviewed first by the IRS.
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278147/gov.uscourts.dcd.278147.30.1_1.pdf
+    case_no: 1:25-cv-00677
+    agency:
+    - Treasury
+    - IRS
+    - DHS
+    - ICE
   systems: {}
   cases:
     1:25-cv-00624:
@@ -2088,6 +2098,16 @@ Treasury:
     - Treasury
     - OPM
     - Education
+  - date: 2025-04-07
+    type: official
+    event: The IRS and DHS executed a Memorandum of Understanding (MOU) for data sharing between both agencies. Although DOGE is not named specifically in this agreement, ICE is allowed to designate authorized individuals to access the shared data. AI usage must also be reviewed first by the IRS.
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278147/gov.uscourts.dcd.278147.30.1_1.pdf
+    case_no: 1:25-cv-00677
+    agency:
+    - Treasury
+    - IRS
+    - DHS
+    - ICE
   systems:
     ASAP:
       name: Automated Standard Access For Payments
@@ -3094,7 +3114,17 @@ ICE:
   parent_id: DHS
   associated:
   - Marko Elez
-  events: []
+  events:
+  - date: 2025-04-07
+    type: official
+    event: The IRS and DHS executed a Memorandum of Understanding (MOU) for data sharing between both agencies. Although DOGE is not named specifically in this agreement, ICE is allowed to designate authorized individuals to access the shared data. AI usage must also be reviewed first by the IRS.
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278147/gov.uscourts.dcd.278147.30.1_1.pdf
+    case_no: 1:25-cv-00677
+    agency:
+    - Treasury
+    - IRS
+    - DHS
+    - ICE
   systems: {}
   cases: {}
 
@@ -3293,6 +3323,16 @@ IRS:
     - Sam Corcos
     source: https://www.wired.com/story/doge-hackathon-irs-data-palantir/
     agency: IRS
+  - date: 2025-04-07
+    type: official
+    event: The IRS and DHS executed a Memorandum of Understanding (MOU) for data sharing between both agencies. Although DOGE is not named specifically in this agreement, ICE is allowed to designate authorized individuals to access the shared data. AI usage must also be reviewed first by the IRS.
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278147/gov.uscourts.dcd.278147.30.1_1.pdf
+    case_no: 1:25-cv-00677
+    agency:
+    - Treasury
+    - IRS
+    - DHS
+    - ICE
   systems:
     IDRS:
       name: Integrated Data Retrieval System
