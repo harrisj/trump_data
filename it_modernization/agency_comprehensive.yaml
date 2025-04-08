@@ -2063,9 +2063,7 @@ Treasury:
       name: Payment Automation Manager
       id: PAM
       link: https://fiscal.treasury.gov/pam/
-      description: 'The U.S. government uses the Payment Automation Manager (PAM) to pay all bills, except payments in foreign currency. PAM processed over 1.2 billion payments in FY 2024, valued at over 4.7 trillion dollars. PAM replaced many older systems that Federal Program Agencies used, saving money and increasing efficiency.
-
-        '
+      description: The U.S. government uses the Payment Automation Manager (PAM) to pay all bills, except payments in foreign currency. PAM processed over 1.2 billion payments in FY 2024, valued at over 4.7 trillion dollars. PAM replaced many older systems that Federal Program Agencies used, saving money and increasing efficiency.
       risk: PII/CUI of entities receiving payments, SSNs, TINs, bank account info
       pia: https://www.fiscal.treasury.gov/files/pia/pampclia.pdf
       agency: Treasury

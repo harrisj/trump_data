@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=../schemas/roundups-file.json
 - title: The People Carrying Out Musk's Plans at DOGE
   source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
-  last_updated: 2025-04-01
+  last_updated: 2025-04-07
   publisher: The New York Times
   people:
     Steve Davis: [ OPM, GSA, DHS, FEMA ]
@@ -70,6 +70,9 @@
     Leland Dudek: SSA
     Stephen Ehikian: GSA
     Baris Akis: [ OPM, Treasury, IRS ]
+    Cary Volpert: VA
+    Sahil Lavingia: VA
+    Christopher Roussos: VA
 
 - title: We Mapped DOGE's Silicon Valley and Corporate Connections
   publisher: Wired Magazine
