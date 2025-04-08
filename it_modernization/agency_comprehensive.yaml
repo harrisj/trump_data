@@ -4911,8 +4911,18 @@ USDS:
 USPS:
   name: US Postal Service
   id: USPS
-  associated: []
+  associated:
+  - Alexander Simonpour
   events:
+  - date: 2025-03-07
+    type: onboarded
+    onboard_type: detailed
+    detailed_from: GSA
+    event: USPS signs an agreement to detail Alexander Simonpour from the GSA from March 7, 2025 to June 15, 2025
+    agency: USPS
+    named:
+    - Alexander Simonpour
+    source: https://about.usps.com/who/legal/foia/documents/mou-alex-simonpour-executed-redacted.pdf
   - date: 2025-03-13
     type: report
     event: Postmaster General Louis DeJoy sends a letter to Congress informing he has signed an agreement with GSA and DOGE to eliminate 10,000 jobs

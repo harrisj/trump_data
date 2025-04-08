@@ -2444,6 +2444,16 @@
   source: https://www.wired.com/story/gsai-chatbot-1500-federal-workers/
   agency: GSA
 
+- date: 2025-03-07
+  type: onboarded
+  onboard_type: detailed
+  detailed_from: GSA
+  event: USPS signs an agreement to detail Alexander Simonpour from the GSA from March 7, 2025 to June 15, 2025
+  agency: USPS
+  named:
+  - Alexander Simonpour
+  source: https://about.usps.com/who/legal/foia/documents/mou-alex-simonpour-executed-redacted.pdf
+
 - date: 2025-03-08
   type: disruption
   event: Federal staff who objected to DOGE getting access to NDNH are "no longer with the agency"

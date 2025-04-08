@@ -96,8 +96,15 @@ Akash Bobba:
 Alexander Simonpour:
   agencies:
   - Department of Government Efficiency
+  - General Services Administration
   - National Aeronautics and Space Administration
+  - US Postal Service
   events:
+  - agency: USPS
+    date: 2025-03-07
+    event: USPS signs an agreement to detail Alexander Simonpour from the GSA from March 7, 2025 to June 15, 2025
+    name: Alexander Simonpour
+    source: https://about.usps.com/who/legal/foia/documents/mou-alex-simonpour-executed-redacted.pdf
   - agency: NASA
     date: 2025-03-14
     event: A Business Insider article reports that Alexander Simonpour has shown up at NASA and also has a GSA address. Riley Sennott and Scott Coulter also are listed
