@@ -32,7 +32,7 @@ def generate_people_comprehensive_yaml():
 
                 for agency_id in as_list(event['agency']):
                     out[person]['agencies'].add(agencies[agency_id]["name"])
-                    out[person]['events'].append({'name': person, 'agency': agency_id, 'date': event['date'], 'event': event['event'], 'source': event['source']})
+                    out[person]['events'].append(event)
 
     for name_rec in out.values():
         sorted_agencies = sorted(list(name_rec['agencies']))
