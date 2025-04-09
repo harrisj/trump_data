@@ -7,7 +7,7 @@
         "date": {
             "type": "string",
             "description": "A date in format YYYY-MM-DD but following the Extended Date Time Format (https://www.loc.gov/standards/datetime/) which supports notation for approximations",
-            "pattern": "^(2024|2025)-.+$"
+            "pattern": "^/?(2024|2025)-.+$"
         },
         "time": {
             "type": "string",

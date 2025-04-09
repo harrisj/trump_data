@@ -73,6 +73,16 @@
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf#page=13
   agency: Treasury
 
+- date: 2025-01-16~
+  type: report
+  event: Noah Peters recalls discussing the concept of using administrative leave to sideline federal employees with Keenan Kmiec before January 20th
+  fuzz: Date is approximate in deposition
+  named:
+  - Noah Peters
+  - Keenan Kmiec
+  source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
+  agency: OPM
+
 - date: 2025-01-16
   type: report
   event: A report on conservative nonprofit groups doing research for DOGE notes that interviews are being conducted by Marc Andreessen and Shaun Maguire
@@ -82,29 +92,19 @@
   source: https://www.washingtonexaminer.com/news/investigations/3287555/maga-conservative-non-profits-doge-research/
   agency: DOGE
 
-- date: 2025-01-16
+- date: 2025-01-16~
   type: report
   event: Noah Peters receives a job offer to work at the OPM. He describes it as very general and vague.
-  comment: Date is approximate
+  fuzz: Date is approximate in deposition
   named:
   - Noah Peters
   source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
   agency: OPM
 
-- date: 2025-01-16
-  type: report
-  event: Noah Peters recalls discussing the concept of using administrative leave to sideline federal employees with Keenan Kmiec before January 20th
-  comment: Date is approximate
-  named:
-  - Noah Peters
-  - Keenan Kmiec
-  source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
-  agency: OPM
-
-- date: 2025-01-16
+- date: 2025-01-16~
   type: report
   event: Noah Peters starts working on two memos around temporary authorities for Schedule C and another on probationary employees and admininstrative leave. These are to be issued on January 20th.
-  comment: Date is approximate
+  fuzz: Date is approximate in deposition
   named:
   - Noah Peters
   source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf

@@ -3169,26 +3169,26 @@ Noah Peters:
   - Office of Personnel Management
   events:
   - agency: OPM
-    comment: Date is approximate
-    date: 2025-01-16
-    event: Noah Peters receives a job offer to work at the OPM. He describes it as very general and vague.
-    named:
-    - Noah Peters
-    source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
-    type: report
-  - agency: OPM
-    comment: Date is approximate
-    date: 2025-01-16
+    date: 2025-01-16~
     event: Noah Peters recalls discussing the concept of using administrative leave to sideline federal employees with Keenan Kmiec before January 20th
+    fuzz: Date is approximate in deposition
     named:
     - Noah Peters
     - Keenan Kmiec
     source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
     type: report
   - agency: OPM
-    comment: Date is approximate
-    date: 2025-01-16
+    date: 2025-01-16~
+    event: Noah Peters receives a job offer to work at the OPM. He describes it as very general and vague.
+    fuzz: Date is approximate in deposition
+    named:
+    - Noah Peters
+    source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
+    type: report
+  - agency: OPM
+    date: 2025-01-16~
     event: Noah Peters starts working on two memos around temporary authorities for Schedule C and another on probationary employees and admininstrative leave. These are to be issued on January 20th.
+    fuzz: Date is approximate in deposition
     named:
     - Noah Peters
     source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
