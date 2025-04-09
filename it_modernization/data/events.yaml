@@ -72,6 +72,34 @@
   source: https://www.washingtonexaminer.com/news/investigations/3287555/maga-conservative-non-profits-doge-research/
   agency: DOGE
 
+- date: 2025-01-16
+  type: report
+  event: Noah Peters receives a job offer to work at the OPM. He describes it as very general and vague.
+  comment: Date is approximate
+  named:
+  - Noah Peters
+  source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
+  agency: OPM
+
+- date: 2025-01-16
+  type: report
+  event: Noah Peters recalls discussing the concept of using administrative leave to sideline federal employees with Keenan Kmiec before January 20th
+  comment: Date is approximate
+  named:
+  - Noah Peters
+  - Keenan Kmiec
+  source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
+  agency: OPM
+
+- date: 2025-01-16
+  type: report
+  event: Noah Peters starts working on two memos around temporary authorities for Schedule C and another on probationary employees and admininstrative leave. These are to be issued on January 20th.
+  comment: Date is approximate
+  named:
+  - Noah Peters
+  source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
+  agency: OPM
+
 - date: 2025-01-17
   type: report
   event: The public calendar of Riley Sennott mentions a 30-minute "SGE Ethics Discussion" meeting with 2 GSA addresses and other DOGE staffers
@@ -82,6 +110,16 @@
   - Conor Fennessy
   source: https://www.msn.com/en-us/money/companies/we-found-a-doge-guy-at-nasa-because-his-google-calendar-was-public/ar-AA1At75X
   agency: DOGE
+
+- date: 2025-01-17
+  type: report
+  event: Several of the DOGE staff meet to plan for their first day at OPM. They are not federal employees at that time.
+  named:
+  - Noah Peters
+  - Amanda Scales
+  - Brian Bjelde
+  source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
+  agency: OPM
 
 - date: 2025-01-20
   type: official
@@ -124,6 +162,16 @@
   type: report
   event: The DOGE team moves into OPM, installing sofa beds and armed security
   source: https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/
+  agency: OPM
+
+- date: 2025-01-20
+  type: onboarded
+  onboard_type: appointed
+  event: Several DOGE leaders start work at the OPM immediately after the Inauguration
+  source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
+  named:
+  - Noah Peters
+  - Amanda Scales
   agency: OPM
 
 - date: 2025-01-21
@@ -1910,6 +1958,12 @@
   source: https://www.wired.com/story/doge-autorif-mass-firing-government-workers/
   agency: OPM
 
+- date: 2025-02-25
+  type: report
+  event: The Chief Human Capital Office of the Department of Agriculture testifies to Congress that OPM ordered the firing of all probationary federal employees
+  source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
+  agency: USDA
+
 - date: 2025-02-26
   type: official
   event: Trump issues an executive order mandating that DOGE teams will have approval over awarding any contract at any agency and freezes purchase cards for 90 days
@@ -3252,6 +3306,14 @@
   source: https://www.cbsnews.com/news/social-security-benefits-clawback-overpayment-100-percent-march-27-doge/
   agency: SSA
 
+- date: 2025-03-27
+  type: report
+  event: In a sworn declaration, Leland Dudek justifies access to PII in SSA records for Employee 1, Employee 5, Employee 8 and Employee 9 on the DOGE team. This access is through the SSA's Enterprise Data Warehouse (EDW) system. He claims DOGE staff are being granted only the minimum levels of schema access required.
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.62.1.pdf
+  named:
+  - Leland Dudek
+  agency: SSA
+
 - date: 2025-03-28
   type: report
   event: Michael Grimes conducts DOGE-style interviews with each member of the staff in the Chips Program Office
@@ -3605,8 +3667,26 @@
   - DHS
   - ICE
 
+- date: 2025-04-07
+  type: report
+  event: Newly-appointed director of CMS, Dr. Mehmet Oz, suggests replacing front-line healthcare workers with AI avatars for cost savings
+  agency: CMS
+  source: https://www.wired.com/story/dr-oz-ai-health-care-medicare-cms-town-hall/
+
 - date: 2025-04-08
   type: report
   event: Employees at the EPA are reportedly being told by Trump-appointed officials that DOGE was using AI to monitor communication tools (including Microsoft Teams) for anti-Trump or anti-Musk language
   source: https://www.reuters.com/technology/artificial-intelligence/musks-doge-using-ai-snoop-us-federal-workers-sources-say-2025-04-08/
   agency: EPA
+
+- date: 2025-04-08
+  type: report
+  event: Tulsi Gabbard, the Director of National Intelligence, creates a Director's Initiatives Group (DIG) of 10 people outside the agency vetted by the White House. It has a similar mission but is reported to be separate from DOGE
+  agency: ODNI
+  source: https://www.washingtonpost.com/national-security/2025/04/08/tulsi-gabbard-intelligence-doge-cuts-weaponization/
+
+- date: 2025-04-08
+  type: report
+  event: DOGE staff are reportedly examining Navy's enterprise software licenses under the direction of the DOD CIO
+  source: https://defensescoop.com/2025/04/08/doge-reviewing-navy-software-enterprise/
+  agency: DOD
