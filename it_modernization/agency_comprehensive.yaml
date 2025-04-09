@@ -1019,6 +1019,14 @@ DOGE:
     event: Trump issues an executive order giving DOGE teams in every agency final approval on any hiring decisions, sets quota of 1 new hire for 4 departures
     source: https://www.whitehouse.gov/presidential-actions/2025/02/implementing-the-presidents-department-of-government-efficiency-workforce-optimization-initiative/
     agency: DOGE
+  - date: 2025-02-12
+    type: official
+    comment: These names are identified in another exhibit in the source
+    event: The Department of Education signs a Memorandum of Understanding with DOGE stating that it will reimburse DOGE for up to 5 staffers through 2026. It is signed by Steve Davis for DOGE.
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    agency:
+    - Education
+    - DOGE
   - date: 2025-02-13
     type: official
     event: DOGE announces its website is now live with an organizational chart and tweets
@@ -1383,6 +1391,18 @@ DHS:
     event: Republican lawmakers on the U.S. House Committee on Homeland Security unanimously opposed a resolution of inquiry into DOGE activities at DHS
     source: https://www.bankinfosecurity.com/house-committee-blocks-probe-into-doge-access-to-dhs-systems-a-27608
     agency: DHS
+  - date: 2025-03-01
+    type: report
+    comment: Actual start date in March unknown
+    event: The Government Accountability Office (GAO) starts an audit of how DOGE handled data at several agencies
+    source: https://www.wired.com/story/gao-audit-elon-musk-doge-government-agencies/
+    agency:
+    - DOL
+    - Education
+    - DHS
+    - Treasury
+    - SSA
+    - OPM
   - date: 2025-03-11
     type: onboarded
     onboard_type: appointed
@@ -1457,6 +1477,7 @@ Education:
   - Brooks Morgan
   - Adam Ramada
   - Ethan Shaotran
+  - Jordan Wick
   events:
   - date: 2025-01-24
     type: disruption
@@ -1484,10 +1505,77 @@ Education:
     - Adam Ramada
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
     agency: Education
+  - date: 2025-01-31
+    type: onboarded
+    onboard_type: appointed
+    event: An unidentified DOGE staffer is appointed as a Senior Advisor at the Department of Education with a salary of $195,200
+    named:
+    - Conor Fennessy
+    comment: Redacted in hiring letter, but identified later in filing
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    agency: Education
   - date: 2025-02-03
     type: report
     event: Twenty DOGE staff are in the agency and "have gained access to multiple sensitive internal systems, the people said, including a financial aid dataset that contains the personal information for millions of students enrolled in the federal student aid program."
     source: https://www.washingtonpost.com/education/2025/02/03/trump-education-department-dismantling-executive-order-draft/
+    agency: Education
+  - date: 2025-02-03
+    type: onboarded
+    detailed_from: OPM
+    event: Akash Bobba is detailed from OPM to the Department of Education
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    named:
+    - Akash Bobba
+    agency: Education
+  - date: 2025-02-03
+    type: onboarded
+    detailed_from: GSA
+    event: Ethan Shaotran is detailed from GSA to the Department of Education
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    named:
+    - Ethan Shaotran
+    agency: Education
+  - date: 2025-02-04
+    type: access_granted
+    access_type: unknown
+    access_systems:
+    - FMS
+    named:
+    - Adam Ramada
+    event: Sworn testimony from an executive project manager at Education states that Adam Ramada accessed the FMS system only on February 4th and he was the only DOGE person to access systems
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    agency: Education
+  - date: 2025-02-05
+    type: onboarded
+    detailed_from: DOGE
+    event: Alexandra Beynon is detailed from DOGE to the Department of Education
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    named:
+    - Alexandra Beynon
+    agency: Education
+  - date: 2025-02-05
+    type: official
+    event: Thomas Flagg, the CIO of the Dept. of Education, sends a memo to the heads of IT that orders them to give DOGE staff prompt access to all systems
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    agency: Education
+  - date: 2025-02-05
+    type: onboarded
+    onboard_type: consultant
+    comment: Agreement is redacted, but he is identified further down in document
+    event: Brooks Morgan starts at the Department of Education as a part-time consultant
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    named:
+    - Brooks Morgan
+    agency: Education
+  - date: 2025-02-05
+    type: access_revoked
+    access_systems:
+    - FMS
+    named:
+    - Adam Ramada
+    event: Adam Ramada does not access FMS again after February 4th
+    comment: His system access was actually revoked 30 days after February 4th, but he had no other access after that date
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     agency: Education
   - date: 2025-02-06
     type: report
@@ -1510,6 +1598,37 @@ Education:
     case_no: 8:25-cv-00430
     source: https://www.usatoday.com/story/news/politics/2025/02/11/education-dept-doge-musk-court-order/78429043007/
     agency: Education
+  - date: 2025-02-12
+    type: official
+    comment: These names are identified in another exhibit in the source
+    event: The Department of Education signs a Memorandum of Understanding with DOGE stating that it will reimburse DOGE for up to 5 staffers through 2026. It is signed by Steve Davis for DOGE.
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    agency:
+    - Education
+    - DOGE
+  - date: 2025-02-12
+    type: onboarded
+    onboard_type: detailed
+    detailed_from: OPM
+    comment: He is identified in another exhibit in the source
+    named:
+    - Akash Bobba
+    event: The Department of Education executes a Memorandum of Understanding (MOU) with OPM for a single detailee who is represented as not being paid nor needing reimbursement (i.e., a Special Government Employee)
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    agency:
+    - Education
+  - date: 2025-02-12
+    type: official
+    comment: Figure out who this is
+    event: The Department of Education executes a Memorandum of Understanding for a detailee from the Social Security Administration, who will also work for OPM
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    agency: Education
+  - date: 2025-02-12
+    type: official
+    comment: This could either be Edward Coristine or Ethan Shaotran
+    event: An agreement is executed for a single detailee to the Dept. of Education from GSA. They are also identified as being a GSE who is not paid nor will need to be reimbursed.
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    agency: Education
   - date: 2025-02-13
     type: report
     event: A story on a proposal to use AI at the Department of Education lists several DOGE staffers identified there within the last few weeks
@@ -1529,6 +1648,22 @@ Education:
     case_no: 8:25-cv-00430
     event: A federal judge denied an attempt to block DOGE from accessing Department of Education systems related to financial aid
     source: https://www.usatoday.com/story/news/education/2025/02/18/doge-student-data-education-department-judge-approves/79062995007/
+    agency: Education
+  - date: 2025-02-20
+    type: onboarded
+    detailed_from: DOGE
+    event: Jordan Wick is detailed from DOGE to the Department of Education
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    named:
+    - Jordan Wick
+    agency: Education
+  - date: 2025-02-20
+    type: onboarded
+    detailed_from: GSA
+    event: Edward Coristine is detailed from GSA to the Department of Education
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    named:
+    - Edward Coristine
     agency: Education
   - date: 2025-02-24
     type: legal
@@ -1551,6 +1686,18 @@ Education:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.38.0.pdf
     case_no: 8:25-cv-00430
     agency: Education
+  - date: 2025-03-01
+    type: report
+    comment: Actual start date in March unknown
+    event: The Government Accountability Office (GAO) starts an audit of how DOGE handled data at several agencies
+    source: https://www.wired.com/story/gao-audit-elon-musk-doge-government-agencies/
+    agency:
+    - DOL
+    - Education
+    - DHS
+    - Treasury
+    - SSA
+    - OPM
   - date: 2025-03-24
     type: legal
     event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge Boardman issues a preliminary injunction against to internal systems at the Departoment of Education by DOGE staff and the Acting Secretary where the justification for access was "the DOGE agenda" (i.e., all of them)
@@ -1794,6 +1941,18 @@ DOL:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
     agency: DOL
+  - date: 2025-03-01
+    type: report
+    comment: Actual start date in March unknown
+    event: The Government Accountability Office (GAO) starts an audit of how DOGE handled data at several agencies
+    source: https://www.wired.com/story/gao-audit-elon-musk-doge-government-agencies/
+    agency:
+    - DOL
+    - Education
+    - DHS
+    - Treasury
+    - SSA
+    - OPM
   - date: 2025-03-05
     type: report
     source: https://www.businessinsider.com/doge-staffer-fertility-clinic-pronatalist-department-of-labor
@@ -1819,6 +1978,11 @@ DOL:
     - Keith Sonderling
     source: https://news.artnet.com/art-world/doge-imls-institute-museum-library-services-2623286
     agency: DOL
+  - date: 2025-03-18
+    type: report
+    event: Notes from a meeting at DOL about DOGE access state "they do not have write access. They have asked; we've held them at bay. We've tried to get them to tell us what they want & then we do it. They only have read access"
+    agency: DOL
+    source: https://www.wired.com/story/gao-audit-elon-musk-doge-government-agencies/
   - date: 2025-03-19
     type: report
     event: Marko Elez affirms he has completed his mandatory privacy training at the Department of Labor
@@ -2090,6 +2254,18 @@ Treasury:
     - Ryan Wunderly
     source: https://www.politico.com/news/2025/02/20/treasury-irs-data-white-house-doge-00205391
     agency: Treasury
+  - date: 2025-03-01
+    type: report
+    comment: Actual start date in March unknown
+    event: The Government Accountability Office (GAO) starts an audit of how DOGE handled data at several agencies
+    source: https://www.wired.com/story/gao-audit-elon-musk-doge-government-agencies/
+    agency:
+    - DOL
+    - Education
+    - DHS
+    - Treasury
+    - SSA
+    - OPM
   - date: 2025-03-24
     type: legal
     event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge Boardman issues a preliminary injunction against DOGE access to internal systems at the Departoment of the Treasury where the justification for access was "the DOGE agenda" (i.e., all of them)
@@ -3767,6 +3943,14 @@ OPM:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.276820/gov.uscourts.dcd.276820.1.0.pdf
     case_no: 1:25-cv-00234
     agency: OPM
+  - date: 2025-02-12
+    type: official
+    comment: Figure out who this is
+    event: The Office of Personnel Management executes a Memorandum of Understanding for a detailee from the Social Security Administration, who will also work for Department of Education
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    agency:
+    - OPM
+    - SSA
   - date: 2025-02-18
     type: disruption
     event: CNN reporter shares that a FOIA request about DOGE was replied to with "they just fired the whole privacy team"
@@ -3802,6 +3986,18 @@ OPM:
     event: All government employees receive a second email telling them they must list their accomplishments every Monday by 11:59pm
     source: https://www.npr.org/2025/03/01/g-s1-51490/federal-workers-new-email-accomplishments
     agency: OPM
+  - date: 2025-03-01
+    type: report
+    comment: Actual start date in March unknown
+    event: The Government Accountability Office (GAO) starts an audit of how DOGE handled data at several agencies
+    source: https://www.wired.com/story/gao-audit-elon-musk-doge-government-agencies/
+    agency:
+    - DOL
+    - Education
+    - DHS
+    - Treasury
+    - SSA
+    - OPM
   - date: 2025-03-04
     type: report
     event: In response to recent rulings, the OPM quietly revises its initial memo requiring federal agencies to send lists of probationary employees to the agency and downplays suggestions that the lists should be used for deciding staffing levels
@@ -4133,6 +4329,14 @@ SSA:
     - Akash Bobba
     - Brian Bjelde
     agency: SSA
+  - date: 2025-02-12
+    type: official
+    comment: Figure out who this is
+    event: The Office of Personnel Management executes a Memorandum of Understanding for a detailee from the Social Security Administration, who will also work for Department of Education
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    agency:
+    - OPM
+    - SSA
   - date: 2025-02-13
     type: onboarded
     event: According to a sworn declaration by a Deputy Commissioner at SSA, an unindentified DOGE staffer (Employee 1) is onboarded for "duties currently relate to improper payments and SSA's Death Master File" and they are also planning to detail him to the Small Business Administration
@@ -4209,6 +4413,15 @@ SSA:
     - Ethan Shaotran
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     agency: SSA
+  - date: 2025-02-19
+    type: official
+    event: SSA CIO Mike Russo emails Leland Dudek to grant access to EDW for several "members of [his] team"
+    named:
+    - Leland Dudek
+    - Mike Russo
+    case_no: 1:25-cv-00596
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    agency: SSA
   - date: 2025-02-20
     type: report
     source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
@@ -4233,6 +4446,14 @@ SSA:
     event: According to a sworn declaration, "Employees 4, 6, and 9 were each appointed as an expert, special government employee"
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     agency: SSA
+  - date: 2025-02-28
+    type: official
+    event: Via email, "Employee 5" of the DOGE team at SSA requests and receives approval from Leland Dudek to run a program to identify unrealistically old people in the SSA database
+    named:
+    - Leland Dudek
+    case_no: 1:25-cv-00596
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    agency: SSA
   - date: 2025-03-01
     type: report
     event: In an email to staff, Dudek explains the disruptions by saying "elections have consequences"
@@ -4240,6 +4461,18 @@ SSA:
     - Leland Dudek
     source: https://www.propublica.org/article/recording-reveals-leland-dudek-thoughts-trump-doge-social-security
     agency: SSA
+  - date: 2025-03-01
+    type: report
+    comment: Actual start date in March unknown
+    event: The Government Accountability Office (GAO) starts an audit of how DOGE handled data at several agencies
+    source: https://www.wired.com/story/gao-audit-elon-musk-doge-government-agencies/
+    agency:
+    - DOL
+    - Education
+    - DHS
+    - Treasury
+    - SSA
+    - OPM
   - date: 2025-03-04
     type: report
     event: In a meeting, Dudek stresses again that DOGE will make mistakes and also admits "I am receiving decisions that are made without my input. I have to effectuate those decisions," suggesting DOGE is in charge.
@@ -4265,6 +4498,16 @@ SSA:
     event: Multiple SSA employees told ProPublica, their tech systems seem to be crashing nearly every day, leading to more delays in serving beneficiaries.
     source: https://www.propublica.org/article/recording-reveals-leland-dudek-thoughts-trump-doge-social-security
     agency: SSA
+  - date: 2025-03-12
+    type: access_granted
+    access_type: unknown
+    access_systems:
+    - IRON
+    event: Via email, "Employee 5" requests access to the IRON Website to investigate people who could be marked dead
+    comment: Name redacted in court filing
+    case_no: 1:25-cv-00596
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    agency: SSA
   - date: 2025-03-13
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
     type: report
@@ -4280,6 +4523,48 @@ SSA:
     - Nikhil Rajpal
     - Payton Rehling
     - Ethan Shaotran
+    agency: SSA
+  - date: 2025-03-14
+    type: official
+    event: Via email, 'Employee 9' of the DOGE team at SSA requests access to highly-confidential PSSNAP data to review beneficiaries
+    comment: Name redacted in court filing
+    case_no: 1:25-cv-00596
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    agency: SSA
+  - date: 2025-03-17
+    type: access_granted
+    access_systems:
+    - PSSNAP
+    event: Employees "6, 7 and 9" are approved to access systems for claims benefit applications
+    comment: Name redacted in court filing
+    case_no: 1:25-cv-00596
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    agency: SSA
+  - date: 2025-03-17
+    type: official
+    event: SSA executes a Memorandum of Understanding (MOU) for a detailee from Dept. of Labor that they will pay DOL for
+    comment: Name redacted in court filing
+    case_no: 1:25-cv-00596
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    agency: SSA
+  - date: 2025-03-18
+    type: access_granted
+    access_systems:
+    - PSSNAP
+    event: Leland Dudek approves access of "Employee 9" for additional PSSNAP schema to view Title II beneficiaries
+    comment: Name redacted in court filing
+    case_no: 1:25-cv-00596
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    agency: SSA
+  - date: 2025-03-19
+    type: access_granted
+    access_type: unknown
+    access_systems:
+    - PSSNAP
+    event: Leland Dudek approves access of "Employee 9" of the DOGE team at SSA to highly-confidential PSSNAP data to review beneficiaries
+    comment: Name redacted in court filing
+    case_no: 1:25-cv-00596
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
   - date: 2025-03-20
     type: legal
@@ -4418,6 +4703,16 @@ SSA:
       risk: PII and PHI of individuals applying for disability benefits, including names, SSNs, and medical information related to their disability
       pia: https://www.ssa.gov/privacy/pia/eDib%20PIA%20OPD%20Final_Feb%201,%202018.pdf
       sorn: https://www.govinfo.gov/content/pkg/FR-2020-06-04/pdf/2020-12067.pdf
+      agency: SSA
+    PSSNAP:
+      name: PSSNAP
+      id: PSSNAP
+      description: FIXME
+      agency: SSA
+    IRON:
+      name: IRON
+      id: IRON
+      description: FIXME
       agency: SSA
   cases:
     1:25-cv-00596:

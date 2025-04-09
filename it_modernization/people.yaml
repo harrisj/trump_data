@@ -25,6 +25,26 @@ Adam Ramada:
     onboard_type: detailed
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
     type: onboarded
+  - access_systems:
+    - FMS
+    access_type: unknown
+    agency: Education
+    date: 2025-02-04
+    event: Sworn testimony from an executive project manager at Education states that Adam Ramada accessed the FMS system only on February 4th and he was the only DOGE person to access systems
+    named:
+    - Adam Ramada
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    type: access_granted
+  - access_systems:
+    - FMS
+    agency: Education
+    comment: His system access was actually revoked 30 days after February 4th, but he had no other access after that date
+    date: 2025-02-05
+    event: Adam Ramada does not access FMS again after February 4th
+    named:
+    - Adam Ramada
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    type: access_revoked
   - agency: Education
     date: 2025-02-13
     event: A story on a proposal to use AI at the Department of Education lists several DOGE staffers identified there within the last few weeks
@@ -96,6 +116,14 @@ Akash Bobba:
     - Akash Bobba
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
     type: report
+  - agency: Education
+    date: 2025-02-03
+    detailed_from: OPM
+    event: Akash Bobba is detailed from OPM to the Department of Education
+    named:
+    - Akash Bobba
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    type: onboarded
   - access_type: admin
     agency: Education
     comment: FIXME get info on the systems being accessed
@@ -134,6 +162,17 @@ Akash Bobba:
     - Brian Bjelde
     onboard_type: detailed
     source: https://www.npr.org/2025/03/26/nx-s1-5339842/doge-data-access-privacy-act-social-security-treasury-opm-lawsuit
+    type: onboarded
+  - agency:
+    - Education
+    comment: He is identified in another exhibit in the source
+    date: 2025-02-12
+    detailed_from: OPM
+    event: The Department of Education executes a Memorandum of Understanding (MOU) with OPM for a single detailee who is represented as not being paid nor needing reimbursement (i.e., a Special Government Employee)
+    named:
+    - Akash Bobba
+    onboard_type: detailed
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     type: onboarded
   - access_systems:
     - SSA-EDW
@@ -204,6 +243,14 @@ Alexandra Beynon:
   - Department of Government Efficiency
   - Executive Office of the President
   events:
+  - agency: Education
+    date: 2025-02-05
+    detailed_from: DOGE
+    event: Alexandra Beynon is detailed from DOGE to the Department of Education
+    named:
+    - Alexandra Beynon
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    type: onboarded
   - agency: Education
     date: 2025-02-13
     event: A story on a proposal to use AI at the Department of Education lists several DOGE staffers identified there within the last few weeks
@@ -709,6 +756,15 @@ Brooks Morgan:
     source: https://www.msn.com/en-us/money/companies/we-found-a-doge-guy-at-nasa-because-his-google-calendar-was-public/ar-AA1At75X
     type: report
   - agency: Education
+    comment: Agreement is redacted, but he is identified further down in document
+    date: 2025-02-05
+    event: Brooks Morgan starts at the Department of Education as a part-time consultant
+    named:
+    - Brooks Morgan
+    onboard_type: consultant
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    type: onboarded
+  - agency: Education
     date: 2025-02-13
     event: A story on a proposal to use AI at the Department of Education lists several DOGE staffers identified there within the last few weeks
     named:
@@ -1015,6 +1071,15 @@ Conor Fennessy:
     - Conor Fennessy
     source: https://www.msn.com/en-us/money/companies/we-found-a-doge-guy-at-nasa-because-his-google-calendar-was-public/ar-AA1At75X
     type: report
+  - agency: Education
+    comment: Redacted in hiring letter, but identified later in filing
+    date: 2025-01-31
+    event: An unidentified DOGE staffer is appointed as a Senior Advisor at the Department of Education with a salary of $195,200
+    named:
+    - Conor Fennessy
+    onboard_type: appointed
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    type: onboarded
   - agency: HHS
     date: 2025-03-29
     event: In a court declaration in AFL-CIO vs. DOL, counsel for the plaintiffs Alexa Milton provides the names of two DOGE staffers at HHS who were not provided in the government's list of staffers there
@@ -1203,6 +1268,14 @@ Edward Coristine:
     - Edward Coristine
     source: https://www.nbcnews.com/politics/donald-trump/live-blog/trump-france-emmanuel-macron-white-house-ukraine-tariffs-live-updates-rcna193386#rcrd73638
     type: access_granted
+  - agency: Education
+    date: 2025-02-20
+    detailed_from: GSA
+    event: Edward Coristine is detailed from GSA to the Department of Education
+    named:
+    - Edward Coristine
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    type: onboarded
   - agency: GSA
     date: 2025-03-04
     event: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid as full-time GSA employees, but other staff are listed as volunteers for that agency
@@ -1551,6 +1624,14 @@ Ethan Shaotran:
     - Ethan Shaotran
     source: https://www.wired.com/story/elon-musk-government-young-engineers/
     type: report
+  - agency: Education
+    date: 2025-02-03
+    detailed_from: GSA
+    event: Ethan Shaotran is detailed from GSA to the Department of Education
+    named:
+    - Ethan Shaotran
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    type: onboarded
   - access_type: admin
     agency: Education
     comment: FIXME get info on the systems being accessed
@@ -2184,6 +2265,7 @@ Jon Koval:
 Jordan Wick:
   agencies:
   - Consumer Financial Protection Bureau
+  - Department of Education
   - Department of Government Efficiency
   - Department of Labor
   - Executive Office of the President
@@ -2257,6 +2339,14 @@ Jordan Wick:
     - Jordan Wick
     source: https://www.nbcnews.com/tech/security/doge-software-approval-alarms-labor-department-employees-data-security-rcna191583
     type: report
+  - agency: Education
+    date: 2025-02-20
+    detailed_from: DOGE
+    event: Jordan Wick is detailed from DOGE to the Department of Education
+    named:
+    - Jordan Wick
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    type: onboarded
   - access_systems:
     - Entra-CFPB
     - PRISM
@@ -2764,6 +2854,15 @@ Leland Dudek:
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
     type: disruption
   - agency: SSA
+    case_no: 1:25-cv-00596
+    date: 2025-02-19
+    event: SSA CIO Mike Russo emails Leland Dudek to grant access to EDW for several "members of [his] team"
+    named:
+    - Leland Dudek
+    - Mike Russo
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    type: official
+  - agency: SSA
     date: 2025-02-20
     event: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
     named:
@@ -2774,6 +2873,14 @@ Leland Dudek:
     - Marko Elez
     source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
     type: report
+  - agency: SSA
+    case_no: 1:25-cv-00596
+    date: 2025-02-28
+    event: Via email, "Employee 5" of the DOGE team at SSA requests and receives approval from Leland Dudek to run a program to identify unrealistically old people in the SSA database
+    named:
+    - Leland Dudek
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    type: official
   - agency: SSA
     date: 2025-03-01
     event: In an email to staff, Dudek explains the disruptions by saying "elections have consequences"
@@ -3700,6 +3807,15 @@ Mike Russo:
     - Akash Bobba
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
     type: access_granted
+  - agency: SSA
+    case_no: 1:25-cv-00596
+    date: 2025-02-19
+    event: SSA CIO Mike Russo emails Leland Dudek to grant access to EDW for several "members of [his] team"
+    named:
+    - Leland Dudek
+    - Mike Russo
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    type: official
   - agency: SSA
     date: 2025-03-25
     event: Scott Coulter is named the new CIO at the Social Security Administration and Mike Russo is moved to a Senior Advisor role with a focus on modernizing systems

@@ -50,5 +50,4 @@ def generate_agency_comprehensive_yaml():
 by_agency_report = generate_agency_comprehensive_yaml()
 output_file = './agency_comprehensive.yaml'
 with open(output_file, 'w') as file:
-    # file.write("# yaml-language-server: $schema=schemas/by-agency-file.json\n")
     file.write(yaml.dump(by_agency_report, Dumper=MyYamlDumper, indent=2, width=1000, sort_keys=False))
