@@ -1,6 +1,7 @@
 import yaml
 import csv
 from util import read_yaml, as_list
+from edtf import parse_edtf
     
 # Function to read a YAML file
 def generate_events_yaml():
@@ -17,19 +18,24 @@ def generate_events_yaml():
         if 'source' in event:
             source = event['source']
 
+        event_text = event['event']
+
+        if 'fuzz' in event:
+            event_text = "FUZZY DATE " + event_text
+
         if 'named' in event:
             named = event['named']
         else:
             named = []
 
         for agency_id in as_list(event['agency']):
-            out.append({'agency': agencies[agency_id]['name'], 'agency_id': agency_id, 'event': event['event'], 'type': event['type'], 'date': event['date'], 'source': source, 'named': ', '.join(named)})
+            out.append({'agency': agencies[agency_id]['name'], 'agency_id': agency_id, 'event': event_text, 'type': event['type'], 'date': event['date'], 'source': source, 'named': ', '.join(named)})
 
     for case in cases_yaml:
         for agency_id in as_list(event['agency']):
             out.append({'agency': agencies[agency_id]['name'], 'agency_id': agency_id, 'event': f'{agency_id} named as defendant in new lawsuit {case["name"]} (Case No {case["case_no"]})', 'type': 'legal', 'date': case['date_filed'], 'named': None, 'source': case['link']})
 
-    return sorted(out, key=lambda x: (x['date']))
+    return sorted(out, key=lambda x: parse_edtf(str(x['date'])))
 
 
 # Example usage

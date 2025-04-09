@@ -5,11 +5,12 @@ name = "pypi"
 
 [packages]
 requests = "*"
-pydantic = "*"
 dateparser = "*"
 canonicaljson = "*"
 bs4 = "*"
 pyyaml = "*"
+edtf = "*"
+pydantic = "*"
 
 [dev-packages]
 black = "*"

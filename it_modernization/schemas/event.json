@@ -6,8 +6,8 @@
     "properties": {
         "date": {
             "type": "string",
-            "description": "A date in format YYYY-MM-DD",
-            "pattern": "^(2024|2025)-(0[1-9]|10|11|12)-[0-3][0-9]$"
+            "description": "A date in format YYYY-MM-DD but following the Extended Date Time Format (https://www.loc.gov/standards/datetime/) which supports notation for approximations",
+            "pattern": "^(2024|2025)-.+$"
         },
         "time": {
             "type": "string",
@@ -17,6 +17,10 @@
         "event": {
             "type": "string",
             "description": "A description of the DOGE-related event"
+        },
+        "fuzz": {
+            "type": "string",
+            "description": "This field is used to explain if the event has some fuzziness associated it and why"
         },
         "comment": {
             "type": "string",
@@ -103,7 +107,6 @@
         "date",
         "event",
         "agency",
-        "source",
         "type"
     ],
     "additionalProperties": false

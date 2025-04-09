@@ -1,14 +1,12 @@
 '''Reorganizes the events yaml file by ascending date'''
 import yaml
 import os
+from edtf import parse_edtf
 
 def event_sorting_key(event):
-    if 'time' in event:
-        sort_time = event['time']
-    else:
-        sort_time = '00:01'
-    
-    return (event['date'])
+    date_str = str(event['date'])
+    parsed = parse_edtf(date_str)    
+    return (parsed)
 
 # Function to read a YAML file
 def read_events_yaml(file_path):

@@ -2833,6 +2833,26 @@ GSA:
     - Stephen Ehikian
     source: https://www.nextgov.com/people/2025/01/gsa-announces-new-fas-tts-leadership/402485/
     agency: GSA
+  - date: 2025-01-20~
+    type: onboarded
+    onboard_type: hired
+    event: Luke Farritor starts work at the GSA (approximate)
+    fuzz: No details provided for Luke Farritor's start date, but he is detailed from the GSA to HHS on 2025-01-21
+    named:
+    - Luke Farritor
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    agency: GSA
+  - date: 2025-01-20~
+    type: onboarded
+    onboard_type: hired
+    event: Multiple DOGE staff are onboarded at the GSA and given elevated A-suite access
+    fuzz: I don't have specific details, but extrapolating back from other reporting
+    agency: GSA
+    named:
+    - Nicole Hollander
+    - Edward Coristine
+    - Ethan Shaotran
+    source: https://www.wired.com/story/elon-musk-lackeys-general-services-administration/
   - date: 2025-01-24
     type: onboarded
     onboard_type: hired
@@ -5473,10 +5493,10 @@ USCIS:
   - Payton Rehling
   - Kyle Schutt
   events:
-  - date: 2025-03-15
+  - date: 2025-03-14~
     type: access_granted
     event: DHS CIO Antoine McCord requests that access be granted for DOGE to the USCIS Data Business Intelligence Services (aka, the Data Lake)
-    comment: Date is approximate
+    fuzz: Source only specifies access was granted in mid-March
     access_type: unknown
     access_systems:
     - DBIS
