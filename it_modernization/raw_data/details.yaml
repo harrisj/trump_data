@@ -1,11 +1,18 @@
 # yaml-language-server: $schema=../schemas/details-file.json
+- id: 20250121-gsa-hhs-no-record
+  from: GSA
+  to: HHS
+  start_date: 2025-01-21
+  comment: No document. For Luke Farritor and possibly others on or before Jan 21. Details from court filing
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+
 - id: 20250317-dol-ssa-employee-7
   from: DOL
   to: SSA
   signed_date: 2025-03-17
   start_date: 2025-03-05
   end_date: 2025-03-06
-  number: 1
+  max_people: 1
   comment: for "Employee 7"
   reimbursed: true
   reimbursement_amount: "$71,000 per quarter"
@@ -18,7 +25,7 @@
   signed_date: 2025-03-06
   start_date: 2025-02-18
   end_date: 2026-02-18
-  number: 1
+  max_people: 1
   reimbursed: true
   comment: For "Employee 2"
   reimbursement_amount: "Up to $120,579"
@@ -31,7 +38,7 @@
   signed_date: 2025-02-26
   start_date: 2025-02-26
   end_date: 2025-02-26
-  number: 1
+  max_people: 1
   reimbursed: false
   comment: "For a SGE, so no payment needed"
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
@@ -42,7 +49,7 @@
   to: SSA
   signed_date: 2025-02-18
   start_date: 2025-02-18
-  number: 1
+  max_people: 1
   reimbursed: false
   comment: "For a SGE, so no payment needed"
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
@@ -54,7 +61,7 @@
   signed_date: 2025-02-18
   start_date: 2025-02-18
   end_date: 2026-02-18
-  number: 1
+  max_people: 1
   reimbursed: true
   reimbursement_amount: "$71,000 per quarter"
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
@@ -66,7 +73,7 @@
   signed_date: 2025-02-20
   start_date: 2025-02-19
   end_date: 2026-07-04
-  number: 15
+  max_people: 15
   reimbursement_amount: "$4,358,750"
   reimbursed: true
   comment: They took over an existing USDS MOU to make it be more DOGE-specific. Amy Gleason signed this one though
@@ -79,7 +86,7 @@
   signed_date: 2025-02-12
   start_date: 2025-01-20
   end_date: 2026-07-04
-  number: 5
+  max_people: 5
   reimbursed: false
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
   file: 20250212-doge-education-all.pdf
@@ -90,7 +97,7 @@
   signed_date: 2025-02-12
   start_date: 2025-02-03
   end_date: 2026-02-12
-  number: 1
+  max_people: 1
   reimbursed: false
   comment: This is for a SGE position so it is not reimbursed and for a maximum of 135 days from start of SGE term
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
@@ -101,7 +108,7 @@
   to: [ OPM, Education ]
   signed_date: 2025-02-12
   start_date: 2025-02-12
-  number: 1
+  max_people: 1
   reimbursed: false
   comment: An unusual 3-way MOU that lets an undisclosed SSA employee also do work as an SGE for OPM and the Dept. of Education
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
@@ -112,8 +119,43 @@
   to: Education
   signed_date: 2025-02-03
   start_date: 2025-02-12
-  number: 1
+  max_people: 1
   reimbursed: false
   comment: This is for a SGE position so it is not reimbursed and for a maximum of 135 days from start of SGE term
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
   file: 20250212-gsa-education-sge.pdf
+
+- id: 20250305-gsa-hhs-no-record
+  from: GSA
+  to: HHS
+  comment: No document. Detail occurrence was reported in a court filing.
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  start_date: 2025-03-05
+
+- id: 20250305-dol-hhs-no-record
+  from: DOL
+  to: HHS
+  comment: No document. Detail occurrence was reported in a court filing.
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  start_date: 2025-03-05
+
+- id: 20250312-gsa-usps-alex-simonpour
+  from: GSA
+  to: USPS
+  comment: Names Alex Simonpour explicitly (name not redacted)
+  source: https://about.usps.com/who/legal/foia/documents/mou-alex-simonpour-executed-redacted.pdf
+  reimbursed: false
+  start_date: 2025-03-07
+  end_date: 2025-06-15
+  signed_date: 2025-03-12
+  file: 20250312-gsa-usps-alex-simonpour.pdf
+
+- id: 20250206-doge-cfpb-no-record
+  from: DOGE
+  to: CFPB
+  comment: No document. This is for the detail of DOGE staff to CFPB as described in a court filing
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  start_date: 2025-02-06
+
+- id:
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf

@@ -36,8 +36,8 @@
                 {"type": "array", "items": { "$ref": "valid_names.json#agency_ids" }}     
             ]      
         },
-        "number": {
-            "description": "The number of staff being detailed",
+        "max_people": {
+            "description": "The maximum number of staff that are covered in this detail agreement",
             "type": "integer"
         },
         "reimbursed": {
@@ -64,12 +64,10 @@
     },
     "required": [
         "id",
-        "signed_date",
         "start_date",
         "from",
         "to",
-        "source",
-        "file"
+        "source"
     ],
     "additionalProperties": false
 }

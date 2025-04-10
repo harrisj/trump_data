@@ -86,6 +86,9 @@
 - name: Federal Communications Commission
   id: FCC
 
+- name: Federal Deposit Insurance Commission
+  id: FDIC
+
 - name: Federal Trade Commission
   id: FTC
 

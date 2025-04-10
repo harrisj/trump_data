@@ -196,6 +196,7 @@
   type: onboarded
   onboard_type: detailed
   detailed_from: GSA
+  detail_id: 20250121-gsa-hhs-no-record
   event: Luke Farritor is detailed from the GSA to Health and Human Services
   named:
   - Luke Farritor
@@ -1290,11 +1291,11 @@
   type: onboarded
   onboard_type: detailed
   detailed_from: OPM
+  detail_id:
   event: An unusual Memorandum of Understanding is signed by Brian Bjelde for OPM and representatives of Social Security and the Department of Education for Akash Bobba to start working at SSA (but he already had been working there, according to Tiffany Flick's testimony)
-  source: https://www.npr.org/2025/03/26/nx-s1-5339842/doge-data-access-privacy-act-social-security-treasury-opm-lawsuit
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
   named:
   - Akash Bobba
-  - Brian Bjelde
   agency: SSA
 
 - date: 2025-02-12
@@ -1337,6 +1338,7 @@
 
 - date: 2025-02-12
   type: official
+  detail_id: 20250212-gsa-education-sge
   comment: This could either be Edward Coristine or Ethan Shaotran
   event: An agreement is executed for a single detailee to the Dept. of Education from GSA. They are also identified as being a GSE who is not paid nor will need to be reimbursed.
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
@@ -1409,7 +1411,7 @@
   agency: USDA
 
 - date: 2025-02-14
-  type: report
+  type: disruption
   event: After a conservative account complained to Musk on Twitter about gender options on the FAFSA form, it was changed the same day (a change was planned, but multiple contractors were called in to rush it)
   source: https://www.nytimes.com/2025/02/26/us/politics/elon-musk-doge-x-accounts-activists.html
   agency: Education
@@ -1655,6 +1657,7 @@
 - date: 2025-02-18
   type: onboarded
   onboard_type: detailed
+  detail_id: 20250220-usds-ssa-modification
   detailed_from: DOGE
   event: According to a sworn declaration, "SSA began onboarding and training Employee 5, an engineer, detailed from the United States DOGE Service to SSA" with an inter-agency agreement to DOGE.
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
@@ -2489,6 +2492,7 @@
   type: onboarded
   onboard_type: detailed
   detailed_from: GSA
+  detail_id: 20250305-gsa-hhs-no-record
   event: Edward Coristine is detailed to HHS from GSA, where he is reported as an employee. He is also detailed to USDS.
   named:
   - Edward Coristine
@@ -2498,6 +2502,8 @@
 - date: 2025-03-05
   type: onboarded
   onboard_type: detailed
+  detailed_from: DOL
+  detail_id: 20250305-dol-hhs-no-record
   event: Marko Elez is detailed to HHS from the Department of Labor, where he is reported as an employee. He is also detailed to USDS
   named:
   - Marko Elez
@@ -2694,6 +2700,7 @@
   type: onboarded
   onboard_type: detailed
   detailed_from: GSA
+  detail_id: 20250312-gsa-usps-alex-simonpour
   event: USPS signs an agreement to detail Alexander Simonpour from the GSA from March 7, 2025 to June 15, 2025
   agency: USPS
   named:
@@ -2887,6 +2894,7 @@
   type: onboarded
   onboard_type: detailed
   detailed_from: GSA
+  detail_id: 20250305-gsa-hhs-no-record
   event: Kyle Schutt is detailed to the Administration for Children and Families (ACF) office at HHS from the GSA. He also is detailed to the USDS
   named:
   - Kyle Schutt
@@ -3071,6 +3079,7 @@
 
 - date: 2025-03-17
   type: official
+  detail_id: 20250317-dol-ssa-employee-7
   event: SSA executes a Memorandum of Understanding (MOU) for a detailee from Dept. of Labor that they will pay DOL for
   comment: Name redacted in court filing
   case_no: 1:25-cv-00596
@@ -3946,3 +3955,9 @@
   event: DOGE staff are reportedly examining Navy's enterprise software licenses under the direction of the DOD CIO
   source: https://defensescoop.com/2025/04/08/doge-reviewing-navy-software-enterprise/
   agency: DOD
+
+- date: 2025-04-10
+  type: report
+  event: FDIC staff receive an email that DOGE will be in their building tomorrow and will be only granted read-only access to systems
+  source: https://bsky.app/profile/marisakabas.bsky.social/post/3lmi4ssofoc2c
+  agency: FDIC
