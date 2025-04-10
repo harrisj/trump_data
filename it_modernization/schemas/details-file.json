@@ -1,0 +1,10 @@
+{
+    "$id": "schemas/details-file",
+    
+    "title": "DetailsFile",
+    "description": "A list of all detailing arrangements we know about",
+    "type": "array",
+    "items": {
+        "$ref": "detail.json"
+    }
+}

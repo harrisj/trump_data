@@ -1070,6 +1070,17 @@ DOGE:
     event: Trump issues an executive order "Ensuring Lawful Governance and Implementing the President's Department of Government Efficiency Deregulatory Initiative" which requires agency heads to consult with DOGE teams on deregulatory efforts.
     source: https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-lawful-governance-and-implementing-the-presidents-department-of-government-efficiency-regulatory-initiative/
     agency: DOGE
+  - date: 2025-02-20
+    type: official
+    event: Amy Gleason and an SSA representative sign a modification to an existing agreement between USDS and SSA for 15FTEs at $4.5million to change it to be about "increasing efficiency and the modernization of SSA IT infrastructure and systems, and detecting waste, fraud, and abuse."
+    comment: It's unclear how much had already been spent on the prior agreement. Amy Gleason makes an appearance though!
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    detail_id: 20250220-usds-ssa-modification
+    named:
+    - Amy Gleason
+    agency:
+    - DOGE
+    - SSA
   - date: 2025-02-24
     type: report
     event: In a hearing for "Alliance for Retired Americans v. Bessent," Judge Kollar-Kotelly repeatedly grills DOJ lawyers on who the USDS Administrator is
@@ -1500,6 +1511,7 @@ Education:
     type: onboarded
     onboard_type: detailed
     detailed_from: DOGE
+    detail_id: 20250212-doge-education-all
     event: Adam Ramada is detailed from the USDS to the Department of Education. He says there is one other USDS staffer with him, two other detailees and two Education staffers.
     named:
     - Adam Ramada
@@ -1522,6 +1534,7 @@ Education:
   - date: 2025-02-03
     type: onboarded
     detailed_from: OPM
+    detail_id: 20250212-opm-education-gse
     event: Akash Bobba is detailed from OPM to the Department of Education
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     named:
@@ -1530,6 +1543,7 @@ Education:
   - date: 2025-02-03
     type: onboarded
     detailed_from: GSA
+    detail_id: 20250212-gsa-education-sge
     event: Ethan Shaotran is detailed from GSA to the Department of Education
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     named:
@@ -1548,6 +1562,7 @@ Education:
   - date: 2025-02-05
     type: onboarded
     detailed_from: DOGE
+    detail_id: 20250212-doge-education-all
     event: Alexandra Beynon is detailed from DOGE to the Department of Education
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     named:
@@ -1610,6 +1625,7 @@ Education:
     type: onboarded
     onboard_type: detailed
     detailed_from: OPM
+    detail_id: 20250212-opm-education-gse
     comment: He is identified in another exhibit in the source
     named:
     - Akash Bobba
@@ -1652,6 +1668,7 @@ Education:
   - date: 2025-02-20
     type: onboarded
     detailed_from: DOGE
+    detail_id: 20250212-doge-education-all
     event: Jordan Wick is detailed from DOGE to the Department of Education
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     named:
@@ -4240,6 +4257,7 @@ SSA:
   - Leland Dudek
   - Marko Elez
   - Luke Farritor
+  - Amy Gleason
   - Antonio Gracias
   - Cole Killian
   - Jon Koval
@@ -4383,6 +4401,7 @@ SSA:
     type: onboarded
     onboard_type: detailed
     detailed_from: DOL
+    detail_id: 20250218-dol-ssa-employee-3
     event: According to a sworn declaration by a Deputy Commissioner at SSA, "we began onboarding and training Employee 3, a Schedule C Policy Advisor, detailed from the Department of Labor to SSA" with it finalized on February 22. "His duties currently relate to improper payments and SSA's Death Master File."
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     agency: SSA
@@ -4397,6 +4416,7 @@ SSA:
     type: onboarded
     onboard_type: detailed
     detailed_from: NASA
+    detail_id: 20250306-nasa-ssa-employee-2
     event: According to a sworn declaration, SSA "began onboarding and training Employee 2, Senior Advisor (Program Specialist AD-0301-00). He is in the process of being detailed from National Aeronautics and Space Administration (NASA) to SSA."
     comment: This is likely Scott Coulter based on DOGE staff who have been linked to both NASA and SSA by other reports
     named:
@@ -4407,6 +4427,7 @@ SSA:
     type: onboarded
     onboard_type: detailed
     detailed_from: GSA
+    detail_id: 20250218-gsa-ssa-employee-10
     event: According to a sworn declaration, "Employee 10, a software engineer, was detailed from the Office of the Administrator at the General Services Administration to SSA"
     comment: I am guessing this is Ethan Shaotran based on coming from GSA and earlier identification at the agency
     named:
@@ -4433,10 +4454,22 @@ SSA:
     - Cole Killian
     - Marko Elez
     agency: SSA
+  - date: 2025-02-20
+    type: official
+    event: Amy Gleason and an SSA representative sign a modification to an existing agreement between USDS and SSA for 15FTEs at $4.5million to change it to be about "increasing efficiency and the modernization of SSA IT infrastructure and systems, and detecting waste, fraud, and abuse."
+    comment: It's unclear how much had already been spent on the prior agreement. Amy Gleason makes an appearance though!
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    detail_id: 20250220-usds-ssa-modification
+    named:
+    - Amy Gleason
+    agency:
+    - DOGE
+    - SSA
   - date: 2025-02-26
     type: onboarded
     onboard_type: detailed
     detailed_from: OPM
+    detail_id: 20250226-opm-ssa-employee-8
     event: According to a sworn declaration, "employee 8, an engineer, was detailed from Office of Personnel Management to SSA. His duties currently relate to improper payments and death data."
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     agency: SSA
@@ -4484,6 +4517,7 @@ SSA:
     type: onboarded
     onboard_type: detailed
     detailed_from: DOL
+    detail_id: 20250317-dol-ssa-employee-7
     event: According to a sworn declaration, "the agency began onboarding Employee 7, as a detailee from Department of Labor (DOL) to SSA."
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     agency: SSA

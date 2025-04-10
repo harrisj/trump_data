@@ -1,0 +1,75 @@
+{
+    "$id": "schemas/detail",
+
+    "type": "object",
+    "title": "Detail",
+    "description": "Information about a detailing arrangement where federal staff from one agency are assigned to work at another",
+
+    "properties": {
+        "id": {
+            "description": "A unique slug for referring to this detailing agreement",
+            "type": "string"
+        },
+        "signed_date": {
+            "description": "The date the detailing agreement was executed",
+            "type": "string",
+            "format": "date"
+        },
+        "start_date": {
+            "description": "The date the detailing agreement  is effective from",
+            "type": "string",
+            "format": "date"
+        },
+        "end_date": {
+            "description": "The date the detailing agreement is effective to",
+            "type": "string",
+            "format": "date"
+        },
+        "from": {
+            "description": "The agency that the staff is being detailed from",
+            "$ref": "valid_names.json#agency_ids"
+        },
+        "to": {
+            "description": "The agency or agencies that the staff is being detailed to",
+            "oneOf": [
+                {"$ref": "valid_names.json#agency_ids"},
+                {"type": "array", "items": { "$ref": "valid_names.json#agency_ids" }}     
+            ]      
+        },
+        "number": {
+            "description": "The number of staff being detailed",
+            "type": "integer"
+        },
+        "reimbursed": {
+            "description": "Will the agency reimburse the detailing agency for the work?",
+            "type": "boolean"
+        },
+        "reimbursement_amount": {
+            "desciption": "The amount of the reimbursement and duration",
+            "type": "string"
+        },
+        "source": {
+            "description": "A link to where this document was sourced from",
+            "type": "string",
+            "format": "uri"
+        },
+        "file": {
+            "description": "The name of the local file in agreements with the body of the MOU",
+            "type": "string"
+        },
+        "comment": {
+            "description": "For comments and notes",
+            "type": "string"
+        }
+    },
+    "required": [
+        "id",
+        "signed_date",
+        "start_date",
+        "from",
+        "to",
+        "source",
+        "file"
+    ],
+    "additionalProperties": false
+}

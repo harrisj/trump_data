@@ -18,6 +18,7 @@ Adam Ramada:
     type: onboarded
   - agency: Education
     date: 2025-01-28
+    detail_id: 20250212-doge-education-all
     detailed_from: DOGE
     event: Adam Ramada is detailed from the USDS to the Department of Education. He says there is one other USDS staffer with him, two other detailees and two Education staffers.
     named:
@@ -118,6 +119,7 @@ Akash Bobba:
     type: report
   - agency: Education
     date: 2025-02-03
+    detail_id: 20250212-opm-education-gse
     detailed_from: OPM
     event: Akash Bobba is detailed from OPM to the Department of Education
     named:
@@ -167,6 +169,7 @@ Akash Bobba:
     - Education
     comment: He is identified in another exhibit in the source
     date: 2025-02-12
+    detail_id: 20250212-opm-education-gse
     detailed_from: OPM
     event: The Department of Education executes a Memorandum of Understanding (MOU) with OPM for a single detailee who is represented as not being paid nor needing reimbursement (i.e., a Special Government Employee)
     named:
@@ -245,6 +248,7 @@ Alexandra Beynon:
   events:
   - agency: Education
     date: 2025-02-05
+    detail_id: 20250212-doge-education-all
     detailed_from: DOGE
     event: Alexandra Beynon is detailed from DOGE to the Department of Education
     named:
@@ -316,6 +320,7 @@ Amy Gleason:
   - Department of Government Efficiency
   - Executive Office of the President
   - Health and Human Services
+  - Social Security Administration
   - US Digital Service
   events:
   - agency: DOGE
@@ -326,6 +331,28 @@ Amy Gleason:
     onboard_type: hired
     source: https://www.documentcloud.org/documents/25564597-crewvdogereconmot031425/
     type: onboarded
+  - agency:
+    - DOGE
+    - SSA
+    comment: It's unclear how much had already been spent on the prior agreement. Amy Gleason makes an appearance though!
+    date: 2025-02-20
+    detail_id: 20250220-usds-ssa-modification
+    event: Amy Gleason and an SSA representative sign a modification to an existing agreement between USDS and SSA for 15FTEs at $4.5million to change it to be about "increasing efficiency and the modernization of SSA IT infrastructure and systems, and detecting waste, fraud, and abuse."
+    named:
+    - Amy Gleason
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    type: official
+  - agency:
+    - DOGE
+    - SSA
+    comment: It's unclear how much had already been spent on the prior agreement. Amy Gleason makes an appearance though!
+    date: 2025-02-20
+    detail_id: 20250220-usds-ssa-modification
+    event: Amy Gleason and an SSA representative sign a modification to an existing agreement between USDS and SSA for 15FTEs at $4.5million to change it to be about "increasing efficiency and the modernization of SSA IT infrastructure and systems, and detecting waste, fraud, and abuse."
+    named:
+    - Amy Gleason
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    type: official
   - access_systems:
     - CALM
     access_type: read
@@ -1626,6 +1653,7 @@ Ethan Shaotran:
     type: report
   - agency: Education
     date: 2025-02-03
+    detail_id: 20250212-gsa-education-sge
     detailed_from: GSA
     event: Ethan Shaotran is detailed from GSA to the Department of Education
     named:
@@ -1645,6 +1673,7 @@ Ethan Shaotran:
   - agency: SSA
     comment: I am guessing this is Ethan Shaotran based on coming from GSA and earlier identification at the agency
     date: 2025-02-19
+    detail_id: 20250218-gsa-ssa-employee-10
     detailed_from: GSA
     event: According to a sworn declaration, "Employee 10, a software engineer, was detailed from the Office of the Administrator at the General Services Administration to SSA"
     named:
@@ -2341,6 +2370,7 @@ Jordan Wick:
     type: report
   - agency: Education
     date: 2025-02-20
+    detail_id: 20250212-doge-education-all
     detailed_from: DOGE
     event: Jordan Wick is detailed from DOGE to the Department of Education
     named:
@@ -4570,6 +4600,7 @@ Scott Coulter:
   - agency: SSA
     comment: This is likely Scott Coulter based on DOGE staff who have been linked to both NASA and SSA by other reports
     date: 2025-02-18
+    detail_id: 20250306-nasa-ssa-employee-2
     detailed_from: NASA
     event: According to a sworn declaration, SSA "began onboarding and training Employee 2, Senior Advisor (Program Specialist AD-0301-00). He is in the process of being detailed from National Aeronautics and Space Administration (NASA) to SSA."
     named:

@@ -72,6 +72,10 @@
             "description": "The agency the staff in the event were detailed from",
             "$ref": "valid_names.json#agency_ids"
         },
+        "detail_id": {
+            "description": "A link to a specific record in the details.yaml data if we have info on the detail",
+            "type": "string"
+        },
         "case_no": {
             "description": "The relevant case_no for legal events",
             "type": "string"
