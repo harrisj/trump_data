@@ -79,7 +79,18 @@
         "case_no": {
             "description": "The relevant case_no for legal events",
             "type": "string"
+        },
+        "detail_info": {
+            "$comment": "Populated in the generated_events file",
+            "description": "The detail record inlined",
+            "$ref": "detail.json"
+        },
+        "case_info": {
+            "$comment": "Populated in the generated_events file",
+            "description": "The case record inlined",
+            "$ref": "case.json"
         }
+
     },
     "required": [
         "date",

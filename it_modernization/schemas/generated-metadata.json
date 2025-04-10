@@ -1,0 +1,22 @@
+{
+    "$id": "schemas/generated/metadata",
+    "description": "A metadata header for generated JSON/YAML files",
+    "type": "object",
+    "properties": {
+        "title": {
+            "description": "A title for the file",
+            "type": "string"
+        },
+        "version": {
+            "description": "A Semvar version for the file format/fields",
+            "type": "string",
+            "format": "\\d+\\.\\d+\\.\\d+"
+        },
+        "generated": {
+            "desciption": "When this file was generated",
+            "type": "string",
+            "format": "datetime"
+        }
+    },
+    "required": ["title", "version", "generated"]
+}

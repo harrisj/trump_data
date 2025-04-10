@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=../schemas/cases-file.json
 - name: New Mexico et al v. Musk (D.D.C.)
   description: Fourteen states sued Elon Musk and the Department of Government Efficiency ("DOGE") alleging that Musk's appointment to his role as head of DOGE violates the Constitution's Appointments Clause
-  case_no: 1.25-cv-00429
+  case_no: 1:25-cv-00429
   date_filed: 2025-02-13
   link: https://www.courtlistener.com/docket/69638651/new-mexico-state-of-v-musk/
   agency: DOGE
@@ -254,7 +254,7 @@
 
 - name: J. Doe 1-26 v. Musk (D. Md)
   description: Twenty-six current and former employees of the U.S. Agency for International Development ("USAID") sued Elon Musk and the Department of Government Efficiency ("DOGE") alleging that Musk's appointment to his role as head of DOGE violates the Constitution's Appointments Clause
-  case_no: 8:25-cv-00462-TDC
+  case_no: 8:25-cv-00462
   date_filed: 2025-02-13
   link: https://www.courtlistener.com/docket/69636722/does-1-26-v-musk/
   agency: DOGE

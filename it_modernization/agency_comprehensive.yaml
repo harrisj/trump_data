@@ -1257,10 +1257,10 @@ DOGE:
     agency: DOGE
   systems: {}
   cases:
-    1.25-cv-00429:
+    1:25-cv-00429:
       name: New Mexico et al v. Musk (D.D.C.)
       description: Fourteen states sued Elon Musk and the Department of Government Efficiency ("DOGE") alleging that Musk's appointment to his role as head of DOGE violates the Constitution's Appointments Clause
-      case_no: 1.25-cv-00429
+      case_no: 1:25-cv-00429
       date_filed: 2025-02-13
       link: https://www.courtlistener.com/docket/69638651/new-mexico-state-of-v-musk/
       agency: DOGE
@@ -1364,10 +1364,10 @@ DOGE:
       case_no: 1:25-cv-02404
       link: https://www.courtlistener.com/docket/69780037/the-intercept-media-inc-v-united-states-department-of-government/
       agency: DOGE
-    8:25-cv-00462-TDC:
+    8:25-cv-00462:
       name: J. Doe 1-26 v. Musk (D. Md)
       description: Twenty-six current and former employees of the U.S. Agency for International Development ("USAID") sued Elon Musk and the Department of Government Efficiency ("DOGE") alleging that Musk's appointment to his role as head of DOGE violates the Constitution's Appointments Clause
-      case_no: 8:25-cv-00462-TDC
+      case_no: 8:25-cv-00462
       date_filed: 2025-02-13
       link: https://www.courtlistener.com/docket/69636722/does-1-26-v-musk/
       agency: DOGE
