@@ -4,9 +4,9 @@ from datetime import date
 from util import read_yaml, as_list, MyYamlDumper
 
 def generate_people_comprehensive_yaml():
-    agencies_yaml = read_yaml('./data/agencies.yaml')
-    events_yaml = read_yaml('./data/events.yaml')
-    roundup_yaml = read_yaml('./data/roundups.yaml')    
+    agencies_yaml = read_yaml('./raw_data/agencies.yaml')
+    events_yaml = read_yaml('./raw_data/events.yaml')
+    roundup_yaml = read_yaml('./raw_data/roundups.yaml')    
 
     out = {}
     agencies = {}

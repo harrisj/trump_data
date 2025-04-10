@@ -29,9 +29,9 @@ class YamlDumper(yaml.SafeDumper):
             super().write_line_break()
 
 # Example usage
-file_path = './data/events.yaml'
+file_path = './raw_data/events.yaml'
 people_data = read_events_yaml(file_path)
-output_file = './data/events_sorted.yaml'
+output_file = './raw_data/events_sorted.yaml'
 with open(output_file, 'w') as file:
     file.write("# yaml-language-server: $schema=../schemas/events-file.json\n")
     file.write(yaml.dump(people_data, Dumper=YamlDumper, indent=2, width=1000, sort_keys=False))

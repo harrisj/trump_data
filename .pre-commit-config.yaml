@@ -5,5 +5,5 @@ repos:
     name: "IT Modernization Pre-Commit"
     types: [ file ]
     files: it_modernization/data
-    entry: ".hooks/pre-commit-it-modernization"
+    entry: "it_modernization/scripts/publish"
     language: script

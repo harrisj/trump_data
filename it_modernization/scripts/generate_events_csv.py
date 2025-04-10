@@ -4,9 +4,9 @@ from util import read_yaml, as_list
     
 # Function to read a YAML file
 def generate_events_yaml():
-    agencies_yaml = read_yaml('./data/agencies.yaml')
-    events_yaml = read_yaml('./data/events.yaml')
-    cases_yaml = read_yaml('./data/cases.yaml')
+    agencies_yaml = read_yaml('./raw_data/agencies.yaml')
+    events_yaml = read_yaml('./raw_data/events.yaml')
+    cases_yaml = read_yaml('./raw_data/cases.yaml')
     
     agencies = {}
     for agency in agencies_yaml:

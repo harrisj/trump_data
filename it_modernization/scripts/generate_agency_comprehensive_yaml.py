@@ -2,11 +2,11 @@ import yaml
 from util import read_yaml, as_list, sorted_by_last_name, MyYamlDumper
 
 def generate_agency_comprehensive_yaml():
-    agencies_yaml = read_yaml('./data/agencies.yaml')
-    events_yaml = read_yaml('./data/events.yaml')
-    systems_yaml = read_yaml('./data/systems.yaml')
-    cases_yaml = read_yaml('./data/cases.yaml')
-    roundup_yaml = read_yaml('./data/roundups.yaml')
+    agencies_yaml = read_yaml('./raw_data/agencies.yaml')
+    events_yaml = read_yaml('./raw_data/events.yaml')
+    systems_yaml = read_yaml('./raw_data/systems.yaml')
+    cases_yaml = read_yaml('./raw_data/cases.yaml')
+    roundup_yaml = read_yaml('./raw_data/roundups.yaml')
 
     out = {}
     associated = {}
