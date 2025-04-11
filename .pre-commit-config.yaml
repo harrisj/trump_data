@@ -4,6 +4,6 @@ repos:
   - id: pre-commit-modernization
     name: "IT Modernization Pre-Commit"
     types: [ file ]
-    files: it_modernization/data
+    files: it_modernization
     entry: "it_modernization/scripts/publish"
     language: script

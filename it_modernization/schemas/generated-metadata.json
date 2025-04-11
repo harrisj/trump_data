@@ -15,7 +15,7 @@
         "generated": {
             "desciption": "When this file was generated",
             "type": "string",
-            "format": "datetime"
+            "format": "date"
         }
     },
     "required": ["title", "version", "generated"]

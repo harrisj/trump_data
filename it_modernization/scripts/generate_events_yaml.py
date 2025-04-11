@@ -1,5 +1,5 @@
 import yaml
-import datetime
+from datetime import date
 from util import read_raw_events, read_raw_cases_dict, read_raw_details_dict, read_raw_aliases_dict, dump_generated_file
 
 
@@ -38,7 +38,7 @@ def generate_events():
 meta = {
     "title": "Events",
     "version": FILE_VERSION,
-    "generated": datetime.datetime.now()
+    "generated": date.today()
 }
 
 events = generate_events()

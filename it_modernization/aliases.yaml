@@ -2,7 +2,7 @@
 meta:
   title: Events
   version: 1.0.0
-  generated: 2025-04-10 22:56:35.145817
+  generated: 2025-04-11
 
 aliases:
 
@@ -61,13 +61,13 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     file: 20250212-ssa-opm-education-sge.pdf
   candidates:
-  - Steve Davis
-  - Akash Bobba
-  - Nikhil Rajpal
   - Jacob Altik
-  - Ethan Shaotran
+  - Akash Bobba
+  - Steve Davis
   - Luke Farritor
   - Elon Musk
+  - Nikhil Rajpal
+  - Ethan Shaotran
 
 - id: OPM-4
   agency: OPM
@@ -203,9 +203,9 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     file: 20250212-gsa-education-ed-3.pdf
   candidates:
-  - Ethan Shaotran
-  - Luke Farritor
   - Akash Bobba
+  - Luke Farritor
+  - Ethan Shaotran
 
 - id: ED-4
   agency: Education
@@ -363,10 +363,10 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: 20250218-dol-ssa-employee-3.pdf
   candidates:
-  - Aram Moghaddassi
-  - Cole Killian
-  - Elon Musk
   - Marko Elez
+  - Cole Killian
+  - Aram Moghaddassi
+  - Elon Musk
 
 - id: SSA-4
   agency: SSA
@@ -566,10 +566,10 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: 20250317-dol-ssa-employee-7.pdf
   candidates:
-  - Aram Moghaddassi
-  - Cole Killian
-  - Elon Musk
   - Marko Elez
+  - Cole Killian
+  - Aram Moghaddassi
+  - Elon Musk
 
 - id: SSA-8
   agency: SSA
@@ -618,11 +618,11 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: 20250226-opm-ssa-employee-8.pdf
   candidates:
-  - Steve Davis
-  - Akash Bobba
-  - Nikhil Rajpal
   - Jacob Altik
+  - Akash Bobba
+  - Steve Davis
   - Elon Musk
+  - Nikhil Rajpal
 
 - id: SSA-9
   agency: SSA
@@ -759,9 +759,9 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: 20250218-gsa-ssa-employee-10.pdf
   candidates:
-  - Steve Davis
-  - Cole Killian
   - Akash Bobba
-  - Ethan Shaotran
+  - Steve Davis
   - Luke Farritor
+  - Cole Killian
   - Elon Musk
+  - Ethan Shaotran

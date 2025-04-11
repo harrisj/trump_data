@@ -1,6 +1,6 @@
 import yaml
-import datetime
-from util import read_raw_events, read_raw_details, read_raw_aliases_dict, read_raw_roundups, dump_generated_file, as_list
+from datetime import date
+from util import read_raw_events, read_raw_details, read_raw_aliases_dict, read_raw_roundups, dump_generated_file, as_list, sorted_by_last_name
 
 
 FILE_VERSION = "1.0.0"
@@ -51,7 +51,7 @@ def generate_aliases():
                 for to_agency in to_agencies:
                     candidates = candidates | (names_per_agency[from_agency] & names_per_agency[to_agency])
 
-                aliases_dict[alias]["candidates"] = list(candidates)
+                aliases_dict[alias]["candidates"] = sorted_by_last_name(list(candidates))
 
     return {"aliases": list(aliases_dict.values()) }
 
@@ -60,7 +60,7 @@ def generate_aliases():
 meta = {
     "title": "Events",
     "version": FILE_VERSION,
-    "generated": datetime.datetime.now()
+    "generated": date.today()
 }
 
 aliases = generate_aliases()
