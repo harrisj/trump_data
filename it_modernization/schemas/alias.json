@@ -1,0 +1,47 @@
+{
+    "$id": "schemas/alias",
+
+    "type": "object",
+    "title": "Alias",
+    "description": "Information about an unidentified alias like ED-2 that would be used in court filings",
+
+    "properties": {
+        "agency": {
+            "description": "The agency where this alias applies to",
+            "$ref": "valid_names.json#agency_ids"
+        },
+        "name": {
+            "description": "If it becomes known this is a specific person, their name goes here",
+            "$ref": "valid_names.json#people"
+        },
+        "candidates": {
+            "description": "If I am reasonably sure it's only a few possibilities, their names would go here",
+            "type": "array",
+            "items": {
+                "$ref": "valid_names.json#people"
+            }
+        },
+        "evidence": {
+            "description": "For listing out evidence",
+            "type": "array",
+            "items": { "type": "string" }
+        },
+        "events": {
+            "$comment": "This is added in the generated_aliases file",
+            "description": "An array of events where the alias is named",
+            "type": "array",
+            "items": {
+                "$ref": "event.json"
+            }
+        },
+        "details": {
+            "$comment": "This is added in the generated_aliases file",
+            "description": "An array of details where the alias is named",
+            "type": "array",
+            "items": {
+                "$ref": "event.json"
+            }
+        }
+    },
+    "required": ["agency"]
+}

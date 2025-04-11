@@ -1,0 +1,7 @@
+{
+    "type": "array",
+    "description": "A list of known aliases mapped to real people where possible",
+    "items": {
+        "$ref": "alias.json"
+    }
+}

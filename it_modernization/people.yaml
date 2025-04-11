@@ -6,6 +6,7 @@ Adam Ramada:
   - Department of Government Efficiency
   - Department of Labor
   - Executive Office of the President
+  - Federal Deposit Insurance Commission
   - General Services Administration
   events:
   - agency: DOGE
@@ -81,6 +82,15 @@ Adam Ramada:
     - Adam Ramada
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.38.0.pdf
     type: access_granted
+  - agency: FDIC
+    date: 2025-04-10
+    event: Three DOGE staffers visit the FDIC headquarters. Their arrival is later confirmed for staff with an email stating they have not been granted access to any sensitive bank information.
+    named:
+    - Brooks Morgan
+    - Adam Ramada
+    - Anthony Armstrong
+    source: https://www.thehandbasket.co/p/doge-fdic
+    type: report
 
 Akash Bobba:
   agencies:
@@ -117,15 +127,6 @@ Akash Bobba:
     - Akash Bobba
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
     type: report
-  - agency: Education
-    date: 2025-02-03
-    detail_id: 20250212-opm-education-gse
-    detailed_from: OPM
-    event: Akash Bobba is detailed from OPM to the Department of Education
-    named:
-    - Akash Bobba
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
-    type: onboarded
   - access_type: admin
     agency: Education
     comment: FIXME get info on the systems being accessed
@@ -161,21 +162,8 @@ Akash Bobba:
     event: An unusual Memorandum of Understanding is signed by Brian Bjelde for OPM and representatives of Social Security and the Department of Education for Akash Bobba to start working at SSA (but he already had been working there, according to Tiffany Flick's testimony)
     named:
     - Akash Bobba
-    - Brian Bjelde
     onboard_type: detailed
-    source: https://www.npr.org/2025/03/26/nx-s1-5339842/doge-data-access-privacy-act-social-security-treasury-opm-lawsuit
-    type: onboarded
-  - agency:
-    - Education
-    comment: He is identified in another exhibit in the source
-    date: 2025-02-12
-    detail_id: 20250212-opm-education-gse
-    detailed_from: OPM
-    event: The Department of Education executes a Memorandum of Understanding (MOU) with OPM for a single detailee who is represented as not being paid nor needing reimbursement (i.e., a Special Government Employee)
-    named:
-    - Akash Bobba
-    onboard_type: detailed
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
     type: onboarded
   - access_systems:
     - SSA-EDW
@@ -223,6 +211,7 @@ Alexander Simonpour:
   events:
   - agency: USPS
     date: 2025-03-07
+    detail_id: 20250312-gsa-usps-alex-simonpour
     detailed_from: GSA
     event: USPS signs an agreement to detail Alexander Simonpour from the GSA from March 7, 2025 to June 15, 2025
     named:
@@ -411,6 +400,7 @@ Amy Gleason:
 Anthony Armstrong:
   agencies:
   - Department of Government Efficiency
+  - Federal Deposit Insurance Commission
   - Office of Personnel Management
   events:
   - agency: DOGE
@@ -425,6 +415,15 @@ Anthony Armstrong:
     - Aram Moghaddassi
     - Brad Smith
     source: https://www.nbcnews.com/politics/doge/elon-musks-doge-tries-put-new-faces-reclusive-federal-office-rcna198491
+    type: report
+  - agency: FDIC
+    date: 2025-04-10
+    event: Three DOGE staffers visit the FDIC headquarters. Their arrival is later confirmed for staff with an email stating they have not been granted access to any sensitive bank information.
+    named:
+    - Brooks Morgan
+    - Adam Ramada
+    - Anthony Armstrong
+    source: https://www.thehandbasket.co/p/doge-fdic
     type: report
 
 Anthony Jancso:
@@ -568,6 +567,20 @@ Aram Moghaddassi:
     - Aram Moghaddassi
     - Payton Rehling
     source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
+    type: report
+  - agency: SSA
+    date: 2025-03-28
+    event: As part of an interview on Fox News, Aram Moghaddassi spreads the debunked statistic that 40% of call to SSA are from fraudsters
+    named:
+    - Aram Moghaddassi
+    source: https://www.washingtonpost.com/politics/2025/04/08/vance-social-security-fraud-false/
+    type: report
+  - agency: SSA
+    date: 2025-04-08
+    event: Aram Moghaddassi adds 6300 names of suspected immigrants to the "death master file" as a way of forcing them to "self-deport" by making it impossible to use financial products. It included 7 minors.
+    named:
+    - Aram Moghaddassi
+    source: https://www.nytimes.com/2025/04/10/us/politics/migrants-deport-social-security-doge.html
     type: report
 
 Ashley Boizelle:
@@ -733,7 +746,6 @@ Brady Glantz:
 Brian Bjelde:
   agencies:
   - Office of Personnel Management
-  - Social Security Administration
   events:
   - agency: OPM
     date: 2025-01-17
@@ -744,16 +756,6 @@ Brian Bjelde:
     - Brian Bjelde
     source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
     type: report
-  - agency: SSA
-    date: 2025-02-12
-    detailed_from: OPM
-    event: An unusual Memorandum of Understanding is signed by Brian Bjelde for OPM and representatives of Social Security and the Department of Education for Akash Bobba to start working at SSA (but he already had been working there, according to Tiffany Flick's testimony)
-    named:
-    - Akash Bobba
-    - Brian Bjelde
-    onboard_type: detailed
-    source: https://www.npr.org/2025/03/26/nx-s1-5339842/doge-data-access-privacy-act-social-security-treasury-opm-lawsuit
-    type: onboarded
 
 Bridget Youngs:
   agencies:
@@ -771,6 +773,7 @@ Brooks Morgan:
   agencies:
   - Department of Education
   - Department of Government Efficiency
+  - Federal Deposit Insurance Commission
   events:
   - agency: DOGE
     date: 2025-01-17
@@ -783,15 +786,6 @@ Brooks Morgan:
     source: https://www.msn.com/en-us/money/companies/we-found-a-doge-guy-at-nasa-because-his-google-calendar-was-public/ar-AA1At75X
     type: report
   - agency: Education
-    comment: Agreement is redacted, but he is identified further down in document
-    date: 2025-02-05
-    event: Brooks Morgan starts at the Department of Education as a part-time consultant
-    named:
-    - Brooks Morgan
-    onboard_type: consultant
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
-    type: onboarded
-  - agency: Education
     date: 2025-02-13
     event: A story on a proposal to use AI at the Department of Education lists several DOGE staffers identified there within the last few weeks
     named:
@@ -799,6 +793,15 @@ Brooks Morgan:
     - Alexandra Beynon
     - Adam Ramada
     source: https://www.nytimes.com/2025/02/13/us/doge-ai-education-department-students.html
+    type: report
+  - agency: FDIC
+    date: 2025-04-10
+    event: Three DOGE staffers visit the FDIC headquarters. Their arrival is later confirmed for staff with an email stating they have not been granted access to any sensitive bank information.
+    named:
+    - Brooks Morgan
+    - Adam Ramada
+    - Anthony Armstrong
+    source: https://www.thehandbasket.co/p/doge-fdic
     type: report
 
 Bryanne-Michelle Mlodzianowski:
@@ -842,13 +845,12 @@ Charles Ezell:
   events:
   - agency: OPM
     date: 2025-01-20
-    event: Acting OPM Director Charles Ezell replaces existing CIO Melvin Brown with Greg Hogan
+    event: Acting OPM Director Charles Ezell replaces existing CIO Melvin Brown with Greg Hogan in an acting capacity
     named:
     - Charles Ezell
     - Greg Hogan
-    onboard_type: appointed
     source: https://www.muskwatch.com/p/musk-associates-given-unfettered
-    type: onboarded
+    type: report
   - agency: OPM
     date: 2025-01-31
     event: Federal employees at OPM are locked out of access to key systems by DOGE and OPM leadership
@@ -1098,15 +1100,6 @@ Conor Fennessy:
     - Conor Fennessy
     source: https://www.msn.com/en-us/money/companies/we-found-a-doge-guy-at-nasa-because-his-google-calendar-was-public/ar-AA1At75X
     type: report
-  - agency: Education
-    comment: Redacted in hiring letter, but identified later in filing
-    date: 2025-01-31
-    event: An unidentified DOGE staffer is appointed as a Senior Advisor at the Department of Education with a salary of $195,200
-    named:
-    - Conor Fennessy
-    onboard_type: appointed
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
-    type: onboarded
   - agency: HHS
     date: 2025-03-29
     event: In a court declaration in AFL-CIO vs. DOL, counsel for the plaintiffs Alexa Milton provides the names of two DOGE staffers at HHS who were not provided in the government's list of staffers there
@@ -1192,7 +1185,6 @@ Edward Coristine:
   - Health and Human Services
   - Office of Personnel Management
   - Small Business Administration
-  - Social Security Administration
   - State Department
   - US Agency for International Development
   - US Citizenship & Immigration Services
@@ -1269,14 +1261,6 @@ Edward Coristine:
     - Luke Farritor
     source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
     type: report
-  - agency: SSA
-    comment: I am guessing this is Edward Coristine, given testimony he was detailed from HHS to SBA
-    date: 2025-02-13
-    event: According to a sworn declaration by a Deputy Commissioner at SSA, an unindentified DOGE staffer (Employee 1) is onboarded for "duties currently relate to improper payments and SSA's Death Master File" and they are also planning to detail him to the Small Business Administration
-    named:
-    - Edward Coristine
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
-    type: onboarded
   - agency: CISA
     date: 2025-02-19
     event: Edward Coristine and Kyle Schutt are reportedly given access to CISA systems
@@ -1318,6 +1302,7 @@ Edward Coristine:
     type: report
   - agency: CMS
     date: 2025-03-05
+    detail_id: 20250305-gsa-hhs-no-record
     detailed_from: GSA
     event: Edward Coristine is detailed to HHS from GSA, where he is reported as an employee. He is also detailed to USDS.
     named:
@@ -1651,15 +1636,6 @@ Ethan Shaotran:
     - Ethan Shaotran
     source: https://www.wired.com/story/elon-musk-government-young-engineers/
     type: report
-  - agency: Education
-    date: 2025-02-03
-    detail_id: 20250212-gsa-education-sge
-    detailed_from: GSA
-    event: Ethan Shaotran is detailed from GSA to the Department of Education
-    named:
-    - Ethan Shaotran
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
-    type: onboarded
   - access_type: admin
     agency: Education
     comment: FIXME get info on the systems being accessed
@@ -1678,6 +1654,8 @@ Ethan Shaotran:
     event: According to a sworn declaration, "Employee 10, a software engineer, was detailed from the Office of the Administrator at the General Services Administration to SSA"
     named:
     - Ethan Shaotran
+    named_aliases:
+    - SSA-10
     onboard_type: detailed
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     type: onboarded
@@ -1877,14 +1855,30 @@ Greg Hogan:
   - Office of Personnel Management
   events:
   - agency: OPM
+    comment: SES Noncareer Appt with salary of $195,200
     date: 2025-01-20
-    event: Acting OPM Director Charles Ezell replaces existing CIO Melvin Brown with Greg Hogan
+    event: Greg Hogan is onboarded at OPM as Senior Advisor to the Director for Technology and Delivery
+    named:
+    - Greg Hogan
+    onboard_type: appointed
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+    type: onboarded
+  - agency: OPM
+    date: 2025-01-20
+    event: Acting OPM Director Charles Ezell replaces existing CIO Melvin Brown with Greg Hogan in an acting capacity
     named:
     - Charles Ezell
     - Greg Hogan
-    onboard_type: appointed
     source: https://www.muskwatch.com/p/musk-associates-given-unfettered
-    type: onboarded
+    type: report
+  - agency: OPM
+    comment: Just using effective date of SF-50. Salary remains same at $195,200
+    date: 2025-02-11
+    event: Greg Hogan is formally named the CIO of OPM
+    named:
+    - Greg Hogan
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+    type: promotion
   - agency: OPM
     case_no: 8:25-cv-00430
     date: 2025-03-24
@@ -2795,6 +2789,7 @@ Kyle Schutt:
     type: report
   - agency: HHS
     date: 2025-03-14
+    detail_id: 20250305-gsa-hhs-no-record
     detailed_from: GSA
     event: Kyle Schutt is detailed to the Administration for Children and Families (ACF) office at HHS from the GSA. He also is detailed to the USDS
     named:
@@ -2909,6 +2904,8 @@ Leland Dudek:
     event: Via email, "Employee 5" of the DOGE team at SSA requests and receives approval from Leland Dudek to run a program to identify unrealistically old people in the SSA database
     named:
     - Leland Dudek
+    named_aliases:
+    - SSA-5
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     type: official
   - agency: SSA
@@ -2945,6 +2942,11 @@ Leland Dudek:
     event: In a sworn declaration, Leland Dudek justifies access to PII in SSA records for Employee 1, Employee 5, Employee 8 and Employee 9 on the DOGE team. This access is through the SSA's Enterprise Data Warehouse (EDW) system. He claims DOGE staff are being granted only the minimum levels of schema access required.
     named:
     - Leland Dudek
+    named_aliases:
+    - SSA-1
+    - SSA-5
+    - SSA-8
+    - SSA-9
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.62.1.pdf
     type: report
 
@@ -2973,6 +2975,7 @@ Luke Farritor:
     type: report
   - agency: HHS
     date: 2025-01-21
+    detail_id: 20250121-gsa-hhs-no-record
     detailed_from: GSA
     event: Luke Farritor is detailed from the GSA to Health and Human Services
     named:
@@ -3523,6 +3526,8 @@ Marko Elez:
     type: access_granted
   - agency: HHS
     date: 2025-03-05
+    detail_id: 20250305-dol-hhs-no-record
+    detailed_from: DOL
     event: Marko Elez is detailed to HHS from the Department of Labor, where he is reported as an employee. He is also detailed to USDS
     named:
     - Marko Elez
@@ -4605,6 +4610,8 @@ Scott Coulter:
     event: According to a sworn declaration, SSA "began onboarding and training Employee 2, Senior Advisor (Program Specialist AD-0301-00). He is in the process of being detailed from National Aeronautics and Space Administration (NASA) to SSA."
     named:
     - Scott Coulter
+    named_aliases:
+    - SSA-2
     onboard_type: detailed
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     type: onboarded

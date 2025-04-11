@@ -2,7 +2,7 @@
 meta:
   title: Events
   version: 1.0.0
-  generated: 2025-04-10 10:48:11.160425
+  generated: 2025-04-10 22:52:07.278068
 
 events:
 
@@ -158,7 +158,26 @@ events:
 - date: 2025-01-20
   type: onboarded
   onboard_type: appointed
-  event: Acting OPM Director Charles Ezell replaces existing CIO Melvin Brown with Greg Hogan
+  event: Greg Hogan is onboarded at OPM as Senior Advisor to the Director for Technology and Delivery
+  comment: SES Noncareer Appt with salary of $195,200
+  named:
+  - Greg Hogan
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+  agency: OPM
+
+- date: 2025-01-20
+  type: onboarded
+  onboard_type: appointed
+  event: Redacted employee OPM-2, OPM-3 are hired as a Special Government Employee (SGE) volunteers with terms not to exceed past 2025-07-18
+  named_aliases:
+  - OPM-2
+  - OPM-3
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+  agency: OPM
+
+- date: 2025-01-20
+  type: report
+  event: Acting OPM Director Charles Ezell replaces existing CIO Melvin Brown with Greg Hogan in an acting capacity
   named:
   - Charles Ezell
   - Greg Hogan
@@ -179,6 +198,15 @@ events:
   named:
   - Noah Peters
   - Amanda Scales
+  agency: OPM
+
+- date: 2025-01-20
+  type: onboarded
+  onboard_type: appointed
+  event: Unidentified employee OPM-5 is provisionally appointed as a Senior Advisor to the Director for Information Technology (GS15-10) with a salary of $195,200 and a term not to exceed 2025-05-20
+  named_aliases:
+  - OPM-5
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
   agency: OPM
 
 - date: 2025-01-21
@@ -203,11 +231,19 @@ events:
   type: onboarded
   onboard_type: detailed
   detailed_from: GSA
+  detail_id: 20250121-gsa-hhs-no-record
   event: Luke Farritor is detailed from the GSA to Health and Human Services
   named:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: HHS
+  detail_info:
+    id: 20250121-gsa-hhs-no-record
+    from: GSA
+    to: HHS
+    start_date: 2025-01-21
+    comment: No document. For Luke Farritor and possibly others on or before Jan 21. Details from court filing
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
 
 - date: 2025-01-22
   type: access_granted
@@ -249,6 +285,23 @@ events:
   type: disruption
   source: https://www.economist.com/united-states/2025/03/10/how-doge-is-driving-americas-public-health-guardians-mad
   agency: CDC
+
+- date: 2025-01-24
+  type: onboarded
+  onboard_type: consultant
+  event: Unidentified employee OPM-4 signs an agreement to work as an unpaid expert/consultant to the OPM
+  named_aliases:
+  - OPM-4
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+  agency: OPM
+
+- date: 2025-01-24
+  type: onboarded
+  event: Unidentified employee OPM-6 is onboarded as a volunteer SGE with a term not to exceed 2025-07-22
+  named_aliases:
+  - OPM-6
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+  agency: OPM
 
 - date: 2025-01-24
   type: report
@@ -376,7 +429,7 @@ events:
     signed_date: 2025-02-12
     start_date: 2025-01-20
     end_date: 2026-07-04
-    number: 5
+    max_people: 5
     reimbursed: false
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     file: 20250212-doge-education-all.pdf
@@ -574,8 +627,8 @@ events:
   type: onboarded
   onboard_type: appointed
   event: An unidentified DOGE staffer is appointed as a Senior Advisor at the Department of Education with a salary of $195,200
-  named:
-  - Conor Fennessy
+  named_aliases:
+  - ED-2
   comment: Redacted in hiring letter, but identified later in filing
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
   agency: Education
@@ -713,45 +766,49 @@ events:
 - date: 2025-02-03
   type: onboarded
   detailed_from: OPM
-  detail_id: 20250212-opm-education-gse
-  event: Akash Bobba is detailed from OPM to the Department of Education
+  detail_id: 20250212-opm-education-ed-1
+  event: Unidentified employee ED-1 is detailed from OPM to the Department of Education
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
-  named:
-  - Akash Bobba
+  named_aliases:
+  - ED-1
   agency: Education
   detail_info:
-    id: 20250212-opm-education-gse
+    id: 20250212-opm-education-ed-1
     from: OPM
     to: Education
     signed_date: 2025-02-12
     start_date: 2025-02-03
     end_date: 2026-02-12
-    number: 1
+    max_people: 1
     reimbursed: false
+    named_aliases:
+    - ED-1
     comment: This is for a SGE position so it is not reimbursed and for a maximum of 135 days from start of SGE term
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
-    file: 20250212-opm-education-gse.pdf
+    file: 20250212-opm-education-ed-1.pdf
 
 - date: 2025-02-03
   type: onboarded
   detailed_from: GSA
-  detail_id: 20250212-gsa-education-sge
-  event: Ethan Shaotran is detailed from GSA to the Department of Education
+  detail_id: 20250212-gsa-education-ed-3
+  event: ED-3 is detailed from GSA to the Department of Education
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
-  named:
-  - Ethan Shaotran
+  named_aliases:
+  - ED-3
   agency: Education
   detail_info:
-    id: 20250212-gsa-education-sge
+    id: 20250212-gsa-education-ed-3
     from: SSA
     to: Education
     signed_date: 2025-02-03
     start_date: 2025-02-12
-    number: 1
+    max_people: 1
     reimbursed: false
+    named_aliases:
+    - ED-3
     comment: This is for a SGE position so it is not reimbursed and for a maximum of 135 days from start of SGE term
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
-    file: 20250212-gsa-education-sge.pdf
+    file: 20250212-gsa-education-ed-3.pdf
 
 - date: 2025-02-04
   type: report
@@ -804,6 +861,15 @@ events:
   named:
   - Adam Ramada
   event: Sworn testimony from an executive project manager at Education states that Adam Ramada accessed the FMS system only on February 4th and he was the only DOGE person to access systems
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+  agency: Education
+
+- date: 2025-02-04
+  type: onboarded
+  onboard_type: consultant
+  event: Unidentified DOGE member is onboarded as a part-time unpaid consultant
+  named_aliases:
+  - ED-4
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
   agency: Education
 
@@ -931,7 +997,7 @@ events:
     signed_date: 2025-02-12
     start_date: 2025-01-20
     end_date: 2026-07-04
-    number: 5
+    max_people: 5
     reimbursed: false
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     file: 20250212-doge-education-all.pdf
@@ -940,16 +1006,6 @@ events:
   type: official
   event: Thomas Flagg, the CIO of the Dept. of Education, sends a memo to the heads of IT that orders them to give DOGE staff prompt access to all systems
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
-  agency: Education
-
-- date: 2025-02-05
-  type: onboarded
-  onboard_type: consultant
-  comment: Agreement is redacted, but he is identified further down in document
-  event: Brooks Morgan starts at the Department of Education as a part-time consultant
-  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
-  named:
-  - Brooks Morgan
   agency: Education
 
 - date: 2025-02-05
@@ -1295,6 +1351,15 @@ events:
   agency: VA
 
 - date: 2025-02-11
+  type: promotion
+  event: Greg Hogan is formally named the CIO of OPM
+  comment: Just using effective date of SF-50. Salary remains same at $195,200
+  named:
+  - Greg Hogan
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+  agency: OPM
+
+- date: 2025-02-11
   type: disruption
   event: CFPB Contracting Officers (COs) are ordered to terminate the vast majority of CFPB's contracts during that weekend
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.38.4.pdf
@@ -1388,10 +1453,9 @@ events:
   onboard_type: detailed
   detailed_from: OPM
   event: An unusual Memorandum of Understanding is signed by Brian Bjelde for OPM and representatives of Social Security and the Department of Education for Akash Bobba to start working at SSA (but he already had been working there, according to Tiffany Flick's testimony)
-  source: https://www.npr.org/2025/03/26/nx-s1-5339842/doge-data-access-privacy-act-social-security-treasury-opm-lawsuit
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
   named:
   - Akash Bobba
-  - Brian Bjelde
   agency: SSA
 
 - date: 2025-02-12
@@ -1407,37 +1471,33 @@ events:
   type: onboarded
   onboard_type: detailed
   detailed_from: OPM
-  detail_id: 20250212-opm-education-gse
+  detail_id: 20250212-opm-education-ed-1
   comment: He is identified in another exhibit in the source
-  named:
-  - Akash Bobba
+  named_aliases:
+  - ED-1
   event: The Department of Education executes a Memorandum of Understanding (MOU) with OPM for a single detailee who is represented as not being paid nor needing reimbursement (i.e., a Special Government Employee)
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
   agency:
   - Education
   detail_info:
-    id: 20250212-opm-education-gse
+    id: 20250212-opm-education-ed-1
     from: OPM
     to: Education
     signed_date: 2025-02-12
     start_date: 2025-02-03
     end_date: 2026-02-12
-    number: 1
+    max_people: 1
     reimbursed: false
+    named_aliases:
+    - ED-1
     comment: This is for a SGE position so it is not reimbursed and for a maximum of 135 days from start of SGE term
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
-    file: 20250212-opm-education-gse.pdf
+    file: 20250212-opm-education-ed-1.pdf
 
 - date: 2025-02-12
   type: official
-  comment: Figure out who this is
-  event: The Department of Education executes a Memorandum of Understanding for a detailee from the Social Security Administration, who will also work for OPM
-  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
-  agency: Education
-
-- date: 2025-02-12
-  type: official
-  comment: Figure out who this is
+  named_aliases:
+  - OPM-3
   event: The Office of Personnel Management executes a Memorandum of Understanding for a detailee from the Social Security Administration, who will also work for Department of Education
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
   agency:
@@ -1446,10 +1506,25 @@ events:
 
 - date: 2025-02-12
   type: official
-  comment: This could either be Edward Coristine or Ethan Shaotran
+  detail_id: 20250212-gsa-education-ed-3
+  named_aliases:
+  - ED-3
   event: An agreement is executed for a single detailee to the Dept. of Education from GSA. They are also identified as being a GSE who is not paid nor will need to be reimbursed.
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
   agency: Education
+  detail_info:
+    id: 20250212-gsa-education-ed-3
+    from: SSA
+    to: Education
+    signed_date: 2025-02-03
+    start_date: 2025-02-12
+    max_people: 1
+    reimbursed: false
+    named_aliases:
+    - ED-3
+    comment: This is for a SGE position so it is not reimbursed and for a maximum of 135 days from start of SGE term
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    file: 20250212-gsa-education-ed-3.pdf
 
 - date: 2025-02-13
   type: disruption
@@ -1499,9 +1574,9 @@ events:
 - date: 2025-02-13
   type: onboarded
   event: According to a sworn declaration by a Deputy Commissioner at SSA, an unindentified DOGE staffer (Employee 1) is onboarded for "duties currently relate to improper payments and SSA's Death Master File" and they are also planning to detail him to the Small Business Administration
-  named:
-  - Edward Coristine
   comment: I am guessing this is Edward Coristine, given testimony he was detailed from HHS to SBA
+  named_aliases:
+  - SSA-1
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
   agency: SSA
 
@@ -1518,7 +1593,7 @@ events:
   agency: USDA
 
 - date: 2025-02-14
-  type: report
+  type: disruption
   event: After a conservative account complained to Musk on Twitter about gender options on the FAFSA form, it was changed the same day (a change was planned, but multiple contractors were called in to rush it)
   source: https://www.nytimes.com/2025/02/26/us/politics/elon-musk-doge-x-accounts-activists.html
   agency: Education
@@ -1688,6 +1763,14 @@ events:
   agency: USAID
 
 - date: 2025-02-18
+  type: promotion
+  event: Unidentified employee OPM-5's appointment is changed to not being provisional
+  named_aliases:
+  - OPM-5
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+  agency: OPM
+
+- date: 2025-02-18
   type: access_granted
   access_type: read
   access_systems:
@@ -1774,6 +1857,8 @@ events:
   onboard_type: detailed
   detailed_from: DOL
   detail_id: 20250218-dol-ssa-employee-3
+  named_aliases:
+  - SSA-3
   event: According to a sworn declaration by a Deputy Commissioner at SSA, "we began onboarding and training Employee 3, a Schedule C Policy Advisor, detailed from the Department of Labor to SSA" with it finalized on February 22. "His duties currently relate to improper payments and SSA's Death Master File."
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
   agency: SSA
@@ -1784,8 +1869,10 @@ events:
     signed_date: 2025-02-18
     start_date: 2025-02-18
     end_date: 2026-02-18
-    number: 1
+    max_people: 1
     reimbursed: true
+    named_aliases:
+    - SSA-3
     reimbursement_amount: $71,000 per quarter
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: 20250218-dol-ssa-employee-3.pdf
@@ -1793,16 +1880,34 @@ events:
 - date: 2025-02-18
   type: onboarded
   onboard_type: detailed
+  detail_id: 20250220-usds-ssa-modification
   detailed_from: DOGE
+  named_aliases:
+  - SSA-5
   event: According to a sworn declaration, "SSA began onboarding and training Employee 5, an engineer, detailed from the United States DOGE Service to SSA" with an inter-agency agreement to DOGE.
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
   agency: SSA
+  detail_info:
+    id: 20250220-usds-ssa-modification
+    from: DOGE
+    to: SSA
+    signed_date: 2025-02-20
+    start_date: 2025-02-19
+    end_date: 2026-07-04
+    max_people: 15
+    reimbursement_amount: $4,358,750
+    reimbursed: true
+    comment: They took over an existing USDS MOU to make it be more DOGE-specific. Amy Gleason signed this one though
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    file: 20250220-usds-ssa-modification.pdf
 
 - date: 2025-02-18
   type: onboarded
   onboard_type: detailed
   detailed_from: NASA
   detail_id: 20250306-nasa-ssa-employee-2
+  named_aliases:
+  - SSA-2
   event: According to a sworn declaration, SSA "began onboarding and training Employee 2, Senior Advisor (Program Specialist AD-0301-00). He is in the process of being detailed from National Aeronautics and Space Administration (NASA) to SSA."
   comment: This is likely Scott Coulter based on DOGE staff who have been linked to both NASA and SSA by other reports
   named:
@@ -1816,9 +1921,10 @@ events:
     signed_date: 2025-03-06
     start_date: 2025-02-18
     end_date: 2026-02-18
-    number: 1
+    max_people: 1
     reimbursed: true
-    comment: For "Employee 2"
+    named_aliases:
+    - SSA-2
     reimbursement_amount: Up to $120,579
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: 20250306-nasa-ssa-employee-2.pdf
@@ -1892,6 +1998,8 @@ events:
   detail_id: 20250218-gsa-ssa-employee-10
   event: According to a sworn declaration, "Employee 10, a software engineer, was detailed from the Office of the Administrator at the General Services Administration to SSA"
   comment: I am guessing this is Ethan Shaotran based on coming from GSA and earlier identification at the agency
+  named_aliases:
+  - SSA-10
   named:
   - Ethan Shaotran
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
@@ -1902,8 +2010,10 @@ events:
     to: SSA
     signed_date: 2025-02-18
     start_date: 2025-02-18
-    number: 1
+    max_people: 1
     reimbursed: false
+    named_aliases:
+    - SSA-10
     comment: For a SGE, so no payment needed
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: 20250218-gsa-ssa-employee-10.pdf
@@ -2044,7 +2154,7 @@ events:
     signed_date: 2025-02-12
     start_date: 2025-01-20
     end_date: 2026-07-04
-    number: 5
+    max_people: 5
     reimbursed: false
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     file: 20250212-doge-education-all.pdf
@@ -2076,7 +2186,7 @@ events:
     signed_date: 2025-02-20
     start_date: 2025-02-19
     end_date: 2026-07-04
-    number: 15
+    max_people: 15
     reimbursement_amount: $4,358,750
     reimbursed: true
     comment: They took over an existing USDS MOU to make it be more DOGE-specific. Amy Gleason signed this one though
@@ -2520,8 +2630,10 @@ events:
     signed_date: 2025-02-26
     start_date: 2025-02-26
     end_date: 2025-02-26
-    number: 1
+    max_people: 1
     reimbursed: false
+    named_aliases:
+    - SSA-8
     comment: For a SGE, so no payment needed
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: 20250226-opm-ssa-employee-8.pdf
@@ -2547,6 +2659,10 @@ events:
 - date: 2025-02-27
   type: onboarded
   onboard_type: hired
+  named_aliases:
+  - SSA-4
+  - SSA-6
+  - SSA-9
   event: According to a sworn declaration, "Employees 4, 6, and 9 were each appointed as an expert, special government employee"
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
   agency: SSA
@@ -2639,6 +2755,8 @@ events:
   event: Via email, "Employee 5" of the DOGE team at SSA requests and receives approval from Leland Dudek to run a program to identify unrealistically old people in the SSA database
   named:
   - Leland Dudek
+  named_aliases:
+  - SSA-5
   case_no: 1:25-cv-00596
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
   agency: SSA
@@ -2851,20 +2969,37 @@ events:
   type: onboarded
   onboard_type: detailed
   detailed_from: GSA
+  detail_id: 20250305-gsa-hhs-no-record
   event: Edward Coristine is detailed to HHS from GSA, where he is reported as an employee. He is also detailed to USDS.
   named:
   - Edward Coristine
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CMS
+  detail_info:
+    id: 20250305-gsa-hhs-no-record
+    from: GSA
+    to: HHS
+    comment: No document. Detail occurrence was reported in a court filing.
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    start_date: 2025-03-05
 
 - date: 2025-03-05
   type: onboarded
   onboard_type: detailed
+  detailed_from: DOL
+  detail_id: 20250305-dol-hhs-no-record
   event: Marko Elez is detailed to HHS from the Department of Labor, where he is reported as an employee. He is also detailed to USDS
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: HHS
+  detail_info:
+    id: 20250305-dol-hhs-no-record
+    from: DOL
+    to: HHS
+    comment: No document. Detail occurrence was reported in a court filing.
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    start_date: 2025-03-05
 
 - date: 2025-03-05
   type: access_granted
@@ -2988,6 +3123,8 @@ events:
   onboard_type: detailed
   detailed_from: DOL
   detail_id: 20250317-dol-ssa-employee-7
+  named_aliases:
+  - SSA-7
   event: According to a sworn declaration, "the agency began onboarding Employee 7, as a detailee from Department of Labor (DOL) to SSA."
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
   agency: SSA
@@ -2998,8 +3135,9 @@ events:
     signed_date: 2025-03-17
     start_date: 2025-03-05
     end_date: 2025-03-06
-    number: 1
-    comment: for "Employee 7"
+    max_people: 1
+    named_aliases:
+    - SSA-7
     reimbursed: true
     reimbursement_amount: $71,000 per quarter
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
@@ -3098,11 +3236,24 @@ events:
   type: onboarded
   onboard_type: detailed
   detailed_from: GSA
+  detail_id: 20250312-gsa-usps-alex-simonpour
   event: USPS signs an agreement to detail Alexander Simonpour from the GSA from March 7, 2025 to June 15, 2025
   agency: USPS
   named:
   - Alexander Simonpour
   source: https://about.usps.com/who/legal/foia/documents/mou-alex-simonpour-executed-redacted.pdf
+  detail_info:
+    id: 20250312-gsa-usps-alex-simonpour
+    from: GSA
+    to: USPS
+    named:
+    - Alexander Simonpour
+    source: https://about.usps.com/who/legal/foia/documents/mou-alex-simonpour-executed-redacted.pdf
+    reimbursed: false
+    start_date: 2025-03-07
+    end_date: 2025-06-15
+    signed_date: 2025-03-12
+    file: 20250312-gsa-usps-alex-simonpour.pdf
 
 - date: 2025-03-08
   type: disruption
@@ -3217,6 +3368,17 @@ events:
 - date: 2025-03-12
   type: legal
   event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees: four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies and offices (Employees 2, 3, 5, 7, 8, and 10)"'
+  named_aliases:
+  - SSA-1
+  - SSA-2
+  - SSA-3
+  - SSA-4
+  - SSA-5
+  - SSA-6
+  - SSA-7
+  - SSA-8
+  - SSA-9
+  - SSA-10
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
   case_no: 1:25-cv-00339
   agency: SSA
@@ -3243,6 +3405,8 @@ events:
   access_type: unknown
   access_systems:
   - IRON
+  named_aliases:
+  - SSA-5
   event: Via email, "Employee 5" requests access to the IRON Website to investigate people who could be marked dead
   comment: Name redacted in court filing
   case_no: 1:25-cv-00596
@@ -3325,11 +3489,19 @@ events:
   type: onboarded
   onboard_type: detailed
   detailed_from: GSA
+  detail_id: 20250305-gsa-hhs-no-record
   event: Kyle Schutt is detailed to the Administration for Children and Families (ACF) office at HHS from the GSA. He also is detailed to the USDS
   named:
   - Kyle Schutt
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: HHS
+  detail_info:
+    id: 20250305-gsa-hhs-no-record
+    from: GSA
+    to: HHS
+    comment: No document. Detail occurrence was reported in a court filing.
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    start_date: 2025-03-05
 
 - date: 2025-03-14
   type: official
@@ -3375,6 +3547,8 @@ events:
 - date: 2025-03-14
   type: official
   event: Via email, 'Employee 9' of the DOGE team at SSA requests access to highly-confidential PSSNAP data to review beneficiaries
+  named_aliases:
+  - SSA-9
   comment: Name redacted in court filing
   case_no: 1:25-cv-00596
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
@@ -3511,6 +3685,10 @@ events:
   access_systems:
   - PSSNAP
   event: Employees "6, 7 and 9" are approved to access systems for claims benefit applications
+  named_aliases:
+  - SSA-6
+  - SSA-7
+  - SSA-9
   comment: Name redacted in court filing
   case_no: 1:25-cv-00596
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
@@ -3527,6 +3705,7 @@ events:
 
 - date: 2025-03-17
   type: official
+  detail_id: 20250317-dol-ssa-employee-7
   event: SSA executes a Memorandum of Understanding (MOU) for a detailee from Dept. of Labor that they will pay DOL for
   comment: Name redacted in court filing
   case_no: 1:25-cv-00596
@@ -3541,6 +3720,20 @@ events:
     agency:
     - SSA
     - DOGE
+  detail_info:
+    id: 20250317-dol-ssa-employee-7
+    from: DOL
+    to: SSA
+    signed_date: 2025-03-17
+    start_date: 2025-03-05
+    end_date: 2025-03-06
+    max_people: 1
+    named_aliases:
+    - SSA-7
+    reimbursed: true
+    reimbursement_amount: $71,000 per quarter
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    file: 20250317-dol-ssa-employee-7.pdf
 
 - date: 2025-03-18
   type: official
@@ -3633,6 +3826,8 @@ events:
   access_systems:
   - PSSNAP
   event: Leland Dudek approves access of "Employee 9" for additional PSSNAP schema to view Title II beneficiaries
+  named_aliases:
+  - SSA-9
   comment: Name redacted in court filing
   case_no: 1:25-cv-00596
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
@@ -3743,6 +3938,8 @@ events:
   access_systems:
   - PSSNAP
   event: Leland Dudek approves access of "Employee 9" of the DOGE team at SSA to highly-confidential PSSNAP data to review beneficiaries
+  named_aliases:
+  - SSA-9
   comment: Name redacted in court filing
   case_no: 1:25-cv-00596
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
@@ -4177,6 +4374,11 @@ events:
 - date: 2025-03-27
   type: report
   event: In a sworn declaration, Leland Dudek justifies access to PII in SSA records for Employee 1, Employee 5, Employee 8 and Employee 9 on the DOGE team. This access is through the SSA's Enterprise Data Warehouse (EDW) system. He claims DOGE staff are being granted only the minimum levels of schema access required.
+  named_aliases:
+  - SSA-1
+  - SSA-5
+  - SSA-8
+  - SSA-9
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.62.1.pdf
   named:
   - Leland Dudek
@@ -4262,6 +4464,14 @@ events:
   - Payton Rehling
   source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
   agency: USCIS
+
+- date: 2025-03-28
+  type: report
+  event: As part of an interview on Fox News, Aram Moghaddassi spreads the debunked statistic that 40% of call to SSA are from fraudsters
+  named:
+  - Aram Moghaddassi
+  source: https://www.washingtonpost.com/politics/2025/04/08/vance-social-security-fraud-false/
+  agency: SSA
 
 - date: 2025-03-29
   type: report
@@ -4575,3 +4785,21 @@ events:
   event: DOGE staff are reportedly examining Navy's enterprise software licenses under the direction of the DOD CIO
   source: https://defensescoop.com/2025/04/08/doge-reviewing-navy-software-enterprise/
   agency: DOD
+
+- date: 2025-04-08
+  type: report
+  event: Aram Moghaddassi adds 6300 names of suspected immigrants to the "death master file" as a way of forcing them to "self-deport" by making it impossible to use financial products. It included 7 minors.
+  named:
+  - Aram Moghaddassi
+  source: https://www.nytimes.com/2025/04/10/us/politics/migrants-deport-social-security-doge.html
+  agency: SSA
+
+- date: 2025-04-10
+  type: report
+  event: Three DOGE staffers visit the FDIC headquarters. Their arrival is later confirmed for staff with an email stating they have not been granted access to any sensitive bank information.
+  named:
+  - Brooks Morgan
+  - Adam Ramada
+  - Anthony Armstrong
+  source: https://www.thehandbasket.co/p/doge-fdic
+  agency: FDIC

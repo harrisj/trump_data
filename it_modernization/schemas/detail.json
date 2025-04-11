@@ -60,6 +60,20 @@
         "comment": {
             "description": "For comments and notes",
             "type": "string"
+        },
+        "named": {
+            "type": "array",
+            "description": "A list of names associated with the detail",
+            "items": {
+                "$ref": "valid_names.json#people"
+            }
+        },
+        "named_aliases": {
+            "type": "array",
+            "description": "A list of aliased names associated with the detail (common in redacted court filings / FOIAs)",
+            "items": {
+                "type": "string"
+            }
         }
     },
     "required": [

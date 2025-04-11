@@ -44,6 +44,13 @@
                 "$ref": "valid_names.json#people"
             }
         },
+        "named_aliases": {
+            "type": "array",
+            "description": "A list of aliased names associated with the name (common in redacted court filings / FOIAs)",
+            "items": {
+                "type": "string"
+            }
+        },
         "source": {
             "type": "string",
             "description": "A URL of the source for the information in the event",

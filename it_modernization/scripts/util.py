@@ -66,8 +66,17 @@ def read_raw_events(path = './raw_data/events.yaml'):
 def read_raw_cases_dict(path = './raw_data/cases.yaml'):
     return read_yaml_as_dict(path, "case_no")
 
-def read_raw_details_dict(path = './raw_data/details.yaml'):
+def read_raw_aliases_dict(path = './raw_data/aliases.yaml'):
     return read_yaml_as_dict(path, "id")
+
+def read_raw_details(path = './raw_data/details.yaml'):
+    return read_yaml(path)
+
+def read_raw_details_dict(path = './raw_data/details.yaml'):
+    return read_yaml_as_dict(path, 'id')
+
+def read_raw_roundups(path = './raw_data/roundups.yaml'):
+    return read_yaml(path)
 
 def dump_generated_file(meta, data, path, schema=None):
     with open(path, 'w') as file:

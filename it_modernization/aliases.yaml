@@ -1,0 +1,767 @@
+# yaml-language-server: $schema=schemas/generated-aliases-file.json
+meta:
+  title: Events
+  version: 1.0.0
+  generated: 2025-04-10 22:52:06.641629
+
+aliases:
+
+- id: OPM-1
+  agency: OPM
+
+- id: OPM-2
+  agency: OPM
+  events:
+  - date: 2025-01-20
+    type: onboarded
+    onboard_type: appointed
+    event: Redacted employee OPM-2, OPM-3 are hired as a Special Government Employee (SGE) volunteers with terms not to exceed past 2025-07-18
+    named_aliases:
+    - OPM-2
+    - OPM-3
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+    agency: OPM
+
+- id: OPM-3
+  agency: OPM
+  evidence:
+  - This is the same person as ED-1 because there is a detail document that appears with two diff redacted names
+  events:
+  - date: 2025-01-20
+    type: onboarded
+    onboard_type: appointed
+    event: Redacted employee OPM-2, OPM-3 are hired as a Special Government Employee (SGE) volunteers with terms not to exceed past 2025-07-18
+    named_aliases:
+    - OPM-2
+    - OPM-3
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+    agency: OPM
+  - date: 2025-02-12
+    type: official
+    named_aliases:
+    - OPM-3
+    event: The Office of Personnel Management executes a Memorandum of Understanding for a detailee from the Social Security Administration, who will also work for Department of Education
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    agency:
+    - OPM
+    - SSA
+  details:
+  - id: 20250212-ssa-opm-education-sge
+    from: SSA
+    to:
+    - OPM
+    - Education
+    signed_date: 2025-02-12
+    start_date: 2025-02-12
+    max_people: 1
+    reimbursed: false
+    named_aliases:
+    - OPM-3
+    comment: An unusual 3-way MOU that lets an undisclosed SSA employee also do work as an SGE for OPM and the Dept. of Education
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    file: 20250212-ssa-opm-education-sge.pdf
+  candidates:
+  - Jacob Altik
+  - Elon Musk
+  - Akash Bobba
+  - Steve Davis
+  - Luke Farritor
+  - Ethan Shaotran
+  - Nikhil Rajpal
+
+- id: OPM-4
+  agency: OPM
+  events:
+  - date: 2025-01-24
+    type: onboarded
+    onboard_type: consultant
+    event: Unidentified employee OPM-4 signs an agreement to work as an unpaid expert/consultant to the OPM
+    named_aliases:
+    - OPM-4
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+    agency: OPM
+
+- id: OPM-5
+  agency: OPM
+  events:
+  - date: 2025-01-20
+    type: onboarded
+    onboard_type: appointed
+    event: Unidentified employee OPM-5 is provisionally appointed as a Senior Advisor to the Director for Information Technology (GS15-10) with a salary of $195,200 and a term not to exceed 2025-05-20
+    named_aliases:
+    - OPM-5
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+    agency: OPM
+  - date: 2025-02-18
+    type: promotion
+    event: Unidentified employee OPM-5's appointment is changed to not being provisional
+    named_aliases:
+    - OPM-5
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+    agency: OPM
+
+- id: OPM-6
+  agency: OPM
+  events:
+  - date: 2025-01-24
+    type: onboarded
+    event: Unidentified employee OPM-6 is onboarded as a volunteer SGE with a term not to exceed 2025-07-22
+    named_aliases:
+    - OPM-6
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+    agency: OPM
+
+- id: ED-1
+  agency: Education
+  evidence:
+  - This person appears in a detail from OPM to SSA, but also a detail from SSA back to OPM and Education
+  - This is the same person as ED-1 because there is a detail document that appears with two diff redacted names
+  events:
+  - date: 2025-02-03
+    type: onboarded
+    detailed_from: OPM
+    detail_id: 20250212-opm-education-ed-1
+    event: Unidentified employee ED-1 is detailed from OPM to the Department of Education
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    named_aliases:
+    - ED-1
+    agency: Education
+  - date: 2025-02-12
+    type: onboarded
+    onboard_type: detailed
+    detailed_from: OPM
+    detail_id: 20250212-opm-education-ed-1
+    comment: He is identified in another exhibit in the source
+    named_aliases:
+    - ED-1
+    event: The Department of Education executes a Memorandum of Understanding (MOU) with OPM for a single detailee who is represented as not being paid nor needing reimbursement (i.e., a Special Government Employee)
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    agency:
+    - Education
+  details:
+  - id: 20250212-opm-education-ed-1
+    from: OPM
+    to: Education
+    signed_date: 2025-02-12
+    start_date: 2025-02-03
+    end_date: 2026-02-12
+    max_people: 1
+    reimbursed: false
+    named_aliases:
+    - ED-1
+    comment: This is for a SGE position so it is not reimbursed and for a maximum of 135 days from start of SGE term
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    file: 20250212-opm-education-ed-1.pdf
+  candidates:
+  - Akash Bobba
+  - Edward Coristine
+
+- id: ED-2
+  agency: Education
+  events:
+  - date: 2025-01-31
+    type: onboarded
+    onboard_type: appointed
+    event: An unidentified DOGE staffer is appointed as a Senior Advisor at the Department of Education with a salary of $195,200
+    named_aliases:
+    - ED-2
+    comment: Redacted in hiring letter, but identified later in filing
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    agency: Education
+
+- id: ED-3
+  agency: Education
+  events:
+  - date: 2025-02-03
+    type: onboarded
+    detailed_from: GSA
+    detail_id: 20250212-gsa-education-ed-3
+    event: ED-3 is detailed from GSA to the Department of Education
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    named_aliases:
+    - ED-3
+    agency: Education
+  - date: 2025-02-12
+    type: official
+    detail_id: 20250212-gsa-education-ed-3
+    named_aliases:
+    - ED-3
+    event: An agreement is executed for a single detailee to the Dept. of Education from GSA. They are also identified as being a GSE who is not paid nor will need to be reimbursed.
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    agency: Education
+  details:
+  - id: 20250212-gsa-education-ed-3
+    from: SSA
+    to: Education
+    signed_date: 2025-02-03
+    start_date: 2025-02-12
+    max_people: 1
+    reimbursed: false
+    named_aliases:
+    - ED-3
+    comment: This is for a SGE position so it is not reimbursed and for a maximum of 135 days from start of SGE term
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    file: 20250212-gsa-education-ed-3.pdf
+  candidates:
+  - Ethan Shaotran
+  - Akash Bobba
+  - Luke Farritor
+
+- id: ED-4
+  agency: Education
+  name: Brooks Morgan
+  evidence:
+  - This is the only consultant in https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+  - Further in doc a table lists one consultant starting on the same date unredacted and it's Brooks Morgan
+  events:
+  - date: 2025-02-04
+    type: onboarded
+    onboard_type: consultant
+    event: Unidentified DOGE member is onboarded as a part-time unpaid consultant
+    named_aliases:
+    - ED-4
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    agency: Education
+
+- id: SSA-1
+  agency: SSA
+  events:
+  - date: 2025-02-13
+    type: onboarded
+    event: According to a sworn declaration by a Deputy Commissioner at SSA, an unindentified DOGE staffer (Employee 1) is onboarded for "duties currently relate to improper payments and SSA's Death Master File" and they are also planning to detail him to the Small Business Administration
+    comment: I am guessing this is Edward Coristine, given testimony he was detailed from HHS to SBA
+    named_aliases:
+    - SSA-1
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    agency: SSA
+  - date: 2025-03-12
+    type: legal
+    event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees: four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies and offices (Employees 2, 3, 5, 7, 8, and 10)"'
+    named_aliases:
+    - SSA-1
+    - SSA-2
+    - SSA-3
+    - SSA-4
+    - SSA-5
+    - SSA-6
+    - SSA-7
+    - SSA-8
+    - SSA-9
+    - SSA-10
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
+    agency: SSA
+  - date: 2025-03-27
+    type: report
+    event: In a sworn declaration, Leland Dudek justifies access to PII in SSA records for Employee 1, Employee 5, Employee 8 and Employee 9 on the DOGE team. This access is through the SSA's Enterprise Data Warehouse (EDW) system. He claims DOGE staff are being granted only the minimum levels of schema access required.
+    named_aliases:
+    - SSA-1
+    - SSA-5
+    - SSA-8
+    - SSA-9
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.62.1.pdf
+    named:
+    - Leland Dudek
+    agency: SSA
+
+- id: SSA-2
+  agency: SSA
+  name: Scott Coulter
+  evidence:
+  - Scott Coulter is identified at NASA on 2025-03-14
+  - Scott Coulter is identified at SSA on 2025-03-13
+  events:
+  - date: 2025-02-18
+    type: onboarded
+    onboard_type: detailed
+    detailed_from: NASA
+    detail_id: 20250306-nasa-ssa-employee-2
+    named_aliases:
+    - SSA-2
+    event: According to a sworn declaration, SSA "began onboarding and training Employee 2, Senior Advisor (Program Specialist AD-0301-00). He is in the process of being detailed from National Aeronautics and Space Administration (NASA) to SSA."
+    comment: This is likely Scott Coulter based on DOGE staff who have been linked to both NASA and SSA by other reports
+    named:
+    - Scott Coulter
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    agency: SSA
+  - date: 2025-03-12
+    type: legal
+    event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees: four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies and offices (Employees 2, 3, 5, 7, 8, and 10)"'
+    named_aliases:
+    - SSA-1
+    - SSA-2
+    - SSA-3
+    - SSA-4
+    - SSA-5
+    - SSA-6
+    - SSA-7
+    - SSA-8
+    - SSA-9
+    - SSA-10
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
+    agency: SSA
+  details:
+  - id: 20250306-nasa-ssa-employee-2
+    from: NASA
+    to: SSA
+    signed_date: 2025-03-06
+    start_date: 2025-02-18
+    end_date: 2026-02-18
+    max_people: 1
+    reimbursed: true
+    named_aliases:
+    - SSA-2
+    reimbursement_amount: Up to $120,579
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    file: 20250306-nasa-ssa-employee-2.pdf
+  candidates:
+  - Scott Coulter
+
+- id: SSA-3
+  agency: SSA
+  events:
+  - date: 2025-02-18
+    type: onboarded
+    onboard_type: detailed
+    detailed_from: DOL
+    detail_id: 20250218-dol-ssa-employee-3
+    named_aliases:
+    - SSA-3
+    event: According to a sworn declaration by a Deputy Commissioner at SSA, "we began onboarding and training Employee 3, a Schedule C Policy Advisor, detailed from the Department of Labor to SSA" with it finalized on February 22. "His duties currently relate to improper payments and SSA's Death Master File."
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    agency: SSA
+  - date: 2025-03-12
+    type: legal
+    event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees: four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies and offices (Employees 2, 3, 5, 7, 8, and 10)"'
+    named_aliases:
+    - SSA-1
+    - SSA-2
+    - SSA-3
+    - SSA-4
+    - SSA-5
+    - SSA-6
+    - SSA-7
+    - SSA-8
+    - SSA-9
+    - SSA-10
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
+    agency: SSA
+  details:
+  - id: 20250218-dol-ssa-employee-3
+    from: DOL
+    to: SSA
+    signed_date: 2025-02-18
+    start_date: 2025-02-18
+    end_date: 2026-02-18
+    max_people: 1
+    reimbursed: true
+    named_aliases:
+    - SSA-3
+    reimbursement_amount: $71,000 per quarter
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    file: 20250218-dol-ssa-employee-3.pdf
+  candidates:
+  - Marko Elez
+  - Elon Musk
+  - Cole Killian
+  - Aram Moghaddassi
+
+- id: SSA-4
+  agency: SSA
+  events:
+  - date: 2025-02-27
+    type: onboarded
+    onboard_type: hired
+    named_aliases:
+    - SSA-4
+    - SSA-6
+    - SSA-9
+    event: According to a sworn declaration, "Employees 4, 6, and 9 were each appointed as an expert, special government employee"
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    agency: SSA
+  - date: 2025-03-12
+    type: legal
+    event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees: four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies and offices (Employees 2, 3, 5, 7, 8, and 10)"'
+    named_aliases:
+    - SSA-1
+    - SSA-2
+    - SSA-3
+    - SSA-4
+    - SSA-5
+    - SSA-6
+    - SSA-7
+    - SSA-8
+    - SSA-9
+    - SSA-10
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
+    agency: SSA
+
+- id: SSA-5
+  agency: SSA
+  events:
+  - date: 2025-02-18
+    type: onboarded
+    onboard_type: detailed
+    detail_id: 20250220-usds-ssa-modification
+    detailed_from: DOGE
+    named_aliases:
+    - SSA-5
+    event: According to a sworn declaration, "SSA began onboarding and training Employee 5, an engineer, detailed from the United States DOGE Service to SSA" with an inter-agency agreement to DOGE.
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    agency: SSA
+  - date: 2025-02-28
+    type: official
+    event: Via email, "Employee 5" of the DOGE team at SSA requests and receives approval from Leland Dudek to run a program to identify unrealistically old people in the SSA database
+    named:
+    - Leland Dudek
+    named_aliases:
+    - SSA-5
+    case_no: 1:25-cv-00596
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    agency: SSA
+  - date: 2025-03-12
+    type: legal
+    event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees: four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies and offices (Employees 2, 3, 5, 7, 8, and 10)"'
+    named_aliases:
+    - SSA-1
+    - SSA-2
+    - SSA-3
+    - SSA-4
+    - SSA-5
+    - SSA-6
+    - SSA-7
+    - SSA-8
+    - SSA-9
+    - SSA-10
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
+    agency: SSA
+  - date: 2025-03-12
+    type: access_granted
+    access_type: unknown
+    access_systems:
+    - IRON
+    named_aliases:
+    - SSA-5
+    event: Via email, "Employee 5" requests access to the IRON Website to investigate people who could be marked dead
+    comment: Name redacted in court filing
+    case_no: 1:25-cv-00596
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    agency: SSA
+  - date: 2025-03-27
+    type: report
+    event: In a sworn declaration, Leland Dudek justifies access to PII in SSA records for Employee 1, Employee 5, Employee 8 and Employee 9 on the DOGE team. This access is through the SSA's Enterprise Data Warehouse (EDW) system. He claims DOGE staff are being granted only the minimum levels of schema access required.
+    named_aliases:
+    - SSA-1
+    - SSA-5
+    - SSA-8
+    - SSA-9
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.62.1.pdf
+    named:
+    - Leland Dudek
+    agency: SSA
+
+- id: SSA-6
+  agency: SSA
+  events:
+  - date: 2025-02-27
+    type: onboarded
+    onboard_type: hired
+    named_aliases:
+    - SSA-4
+    - SSA-6
+    - SSA-9
+    event: According to a sworn declaration, "Employees 4, 6, and 9 were each appointed as an expert, special government employee"
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    agency: SSA
+  - date: 2025-03-12
+    type: legal
+    event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees: four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies and offices (Employees 2, 3, 5, 7, 8, and 10)"'
+    named_aliases:
+    - SSA-1
+    - SSA-2
+    - SSA-3
+    - SSA-4
+    - SSA-5
+    - SSA-6
+    - SSA-7
+    - SSA-8
+    - SSA-9
+    - SSA-10
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
+    agency: SSA
+  - date: 2025-03-17
+    type: access_granted
+    access_systems:
+    - PSSNAP
+    event: Employees "6, 7 and 9" are approved to access systems for claims benefit applications
+    named_aliases:
+    - SSA-6
+    - SSA-7
+    - SSA-9
+    comment: Name redacted in court filing
+    case_no: 1:25-cv-00596
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    agency: SSA
+
+- id: SSA-7
+  agency: SSA
+  events:
+  - date: 2025-03-05
+    type: onboarded
+    onboard_type: detailed
+    detailed_from: DOL
+    detail_id: 20250317-dol-ssa-employee-7
+    named_aliases:
+    - SSA-7
+    event: According to a sworn declaration, "the agency began onboarding Employee 7, as a detailee from Department of Labor (DOL) to SSA."
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    agency: SSA
+  - date: 2025-03-12
+    type: legal
+    event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees: four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies and offices (Employees 2, 3, 5, 7, 8, and 10)"'
+    named_aliases:
+    - SSA-1
+    - SSA-2
+    - SSA-3
+    - SSA-4
+    - SSA-5
+    - SSA-6
+    - SSA-7
+    - SSA-8
+    - SSA-9
+    - SSA-10
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
+    agency: SSA
+  - date: 2025-03-17
+    type: access_granted
+    access_systems:
+    - PSSNAP
+    event: Employees "6, 7 and 9" are approved to access systems for claims benefit applications
+    named_aliases:
+    - SSA-6
+    - SSA-7
+    - SSA-9
+    comment: Name redacted in court filing
+    case_no: 1:25-cv-00596
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    agency: SSA
+  details:
+  - id: 20250317-dol-ssa-employee-7
+    from: DOL
+    to: SSA
+    signed_date: 2025-03-17
+    start_date: 2025-03-05
+    end_date: 2025-03-06
+    max_people: 1
+    named_aliases:
+    - SSA-7
+    reimbursed: true
+    reimbursement_amount: $71,000 per quarter
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    file: 20250317-dol-ssa-employee-7.pdf
+  candidates:
+  - Marko Elez
+  - Elon Musk
+  - Cole Killian
+  - Aram Moghaddassi
+
+- id: SSA-8
+  agency: SSA
+  events:
+  - date: 2025-03-12
+    type: legal
+    event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees: four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies and offices (Employees 2, 3, 5, 7, 8, and 10)"'
+    named_aliases:
+    - SSA-1
+    - SSA-2
+    - SSA-3
+    - SSA-4
+    - SSA-5
+    - SSA-6
+    - SSA-7
+    - SSA-8
+    - SSA-9
+    - SSA-10
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
+    agency: SSA
+  - date: 2025-03-27
+    type: report
+    event: In a sworn declaration, Leland Dudek justifies access to PII in SSA records for Employee 1, Employee 5, Employee 8 and Employee 9 on the DOGE team. This access is through the SSA's Enterprise Data Warehouse (EDW) system. He claims DOGE staff are being granted only the minimum levels of schema access required.
+    named_aliases:
+    - SSA-1
+    - SSA-5
+    - SSA-8
+    - SSA-9
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.62.1.pdf
+    named:
+    - Leland Dudek
+    agency: SSA
+  details:
+  - id: 20250226-opm-ssa-employee-8
+    from: OPM
+    to: SSA
+    signed_date: 2025-02-26
+    start_date: 2025-02-26
+    end_date: 2025-02-26
+    max_people: 1
+    reimbursed: false
+    named_aliases:
+    - SSA-8
+    comment: For a SGE, so no payment needed
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    file: 20250226-opm-ssa-employee-8.pdf
+  candidates:
+  - Jacob Altik
+  - Elon Musk
+  - Akash Bobba
+  - Steve Davis
+  - Nikhil Rajpal
+
+- id: SSA-9
+  agency: SSA
+  events:
+  - date: 2025-02-27
+    type: onboarded
+    onboard_type: hired
+    named_aliases:
+    - SSA-4
+    - SSA-6
+    - SSA-9
+    event: According to a sworn declaration, "Employees 4, 6, and 9 were each appointed as an expert, special government employee"
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    agency: SSA
+  - date: 2025-03-12
+    type: legal
+    event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees: four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies and offices (Employees 2, 3, 5, 7, 8, and 10)"'
+    named_aliases:
+    - SSA-1
+    - SSA-2
+    - SSA-3
+    - SSA-4
+    - SSA-5
+    - SSA-6
+    - SSA-7
+    - SSA-8
+    - SSA-9
+    - SSA-10
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
+    agency: SSA
+  - date: 2025-03-14
+    type: official
+    event: Via email, 'Employee 9' of the DOGE team at SSA requests access to highly-confidential PSSNAP data to review beneficiaries
+    named_aliases:
+    - SSA-9
+    comment: Name redacted in court filing
+    case_no: 1:25-cv-00596
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    agency: SSA
+  - date: 2025-03-17
+    type: access_granted
+    access_systems:
+    - PSSNAP
+    event: Employees "6, 7 and 9" are approved to access systems for claims benefit applications
+    named_aliases:
+    - SSA-6
+    - SSA-7
+    - SSA-9
+    comment: Name redacted in court filing
+    case_no: 1:25-cv-00596
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    agency: SSA
+  - date: 2025-03-18
+    type: access_granted
+    access_systems:
+    - PSSNAP
+    event: Leland Dudek approves access of "Employee 9" for additional PSSNAP schema to view Title II beneficiaries
+    named_aliases:
+    - SSA-9
+    comment: Name redacted in court filing
+    case_no: 1:25-cv-00596
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    agency: SSA
+  - date: 2025-03-19
+    type: access_granted
+    access_type: unknown
+    access_systems:
+    - PSSNAP
+    event: Leland Dudek approves access of "Employee 9" of the DOGE team at SSA to highly-confidential PSSNAP data to review beneficiaries
+    named_aliases:
+    - SSA-9
+    comment: Name redacted in court filing
+    case_no: 1:25-cv-00596
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    agency: SSA
+  - date: 2025-03-27
+    type: report
+    event: In a sworn declaration, Leland Dudek justifies access to PII in SSA records for Employee 1, Employee 5, Employee 8 and Employee 9 on the DOGE team. This access is through the SSA's Enterprise Data Warehouse (EDW) system. He claims DOGE staff are being granted only the minimum levels of schema access required.
+    named_aliases:
+    - SSA-1
+    - SSA-5
+    - SSA-8
+    - SSA-9
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.62.1.pdf
+    named:
+    - Leland Dudek
+    agency: SSA
+
+- id: SSA-10
+  agency: SSA
+  events:
+  - date: 2025-02-19
+    type: onboarded
+    onboard_type: detailed
+    detailed_from: GSA
+    detail_id: 20250218-gsa-ssa-employee-10
+    event: According to a sworn declaration, "Employee 10, a software engineer, was detailed from the Office of the Administrator at the General Services Administration to SSA"
+    comment: I am guessing this is Ethan Shaotran based on coming from GSA and earlier identification at the agency
+    named_aliases:
+    - SSA-10
+    named:
+    - Ethan Shaotran
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    agency: SSA
+  - date: 2025-03-12
+    type: legal
+    event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees: four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies and offices (Employees 2, 3, 5, 7, 8, and 10)"'
+    named_aliases:
+    - SSA-1
+    - SSA-2
+    - SSA-3
+    - SSA-4
+    - SSA-5
+    - SSA-6
+    - SSA-7
+    - SSA-8
+    - SSA-9
+    - SSA-10
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
+    agency: SSA
+  details:
+  - id: 20250218-gsa-ssa-employee-10
+    from: GSA
+    to: SSA
+    signed_date: 2025-02-18
+    start_date: 2025-02-18
+    max_people: 1
+    reimbursed: false
+    named_aliases:
+    - SSA-10
+    comment: For a SGE, so no payment needed
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    file: 20250218-gsa-ssa-employee-10.pdf
+  candidates:
+  - Elon Musk
+  - Cole Killian
+  - Akash Bobba
+  - Steve Davis
+  - Luke Farritor
+  - Ethan Shaotran

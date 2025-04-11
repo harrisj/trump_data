@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schemas/aliases-file.json
+- id: OPM-1
+  agency: OPM
+
+- id: OPM-2
+  agency: OPM
+
+- id: OPM-3
+  agency: OPM
+  evidence:
+  - This is the same person as ED-1 because there is a detail document that appears with two diff redacted names
+
+- id: OPM-4
+  agency: OPM
+
+- id: OPM-5
+  agency: OPM
+
+- id: OPM-6
+  agency: OPM
+
+- id: ED-1
+  agency: Education
+  evidence:
+  - This person appears in a detail from OPM to SSA, but also a detail from SSA back to OPM and Education
+  - This is the same person as ED-1 because there is a detail document that appears with two diff redacted names
+
+- id: ED-2
+  agency: Education
+
+- id: ED-3
+  agency: Education
+
+- id: ED-4
+  agency: Education
+  name: Brooks Morgan
+  evidence:
+  - This is the only consultant in https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+  - Further in doc a table lists one consultant starting on the same date unredacted and it's Brooks Morgan
+
+- id: SSA-1
+  agency: SSA
+
+- id: SSA-2
+  agency: SSA
+  name: Scott Coulter
+  evidence:
+  - Scott Coulter is identified at NASA on 2025-03-14
+  - Scott Coulter is identified at SSA on 2025-03-13
+
+- id: SSA-3
+  agency: SSA
+
+- id: SSA-4
+  agency: SSA
+
+- id: SSA-5
+  agency: SSA
+
+- id: SSA-6
+  agency: SSA
+
+- id: SSA-7
+  agency: SSA
+
+- id: SSA-8
+  agency: SSA
+
+- id: SSA-9
+  agency: SSA
+
+- id: SSA-10
+  agency: SSA
