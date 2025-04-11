@@ -1,0 +1,108 @@
+- id: onboard-ssa-employee-1
+  named_alias: SSA-1
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  case_no: 1:25-cv-00596
+  file: onboard-ssa-employee-1.pdf
+  agency: SSA
+
+- id: onboard-ssa-employee-2
+  named_alias: SSA-2
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  case_no: 1:25-cv-00596
+  file: onboard-ssa-employee-2.pdf
+  agency: SSA
+
+- id: onboard-ssa-employee-3
+  named_alias: SSA-3
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  case_no: 1:25-cv-00596
+  file: onboard-ssa-employee-3.pdf
+  agency: SSA
+
+- id: onboard-ssa-employee-4
+  named_alias: SSA-4
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  case_no: 1:25-cv-00596
+  file: onboard-ssa-employee-4.pdf
+  agency: SSA
+
+- id: onboard-ssa-employee-5
+  named_alias: SSA-5
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  case_no: 1:25-cv-00596
+  file: onboard-ssa-employee-5.pdf
+  agency: SSA
+
+- id: onboard-ssa-employee-6
+  named_alias: SSA-6
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  case_no: 1:25-cv-00596
+  file: onboard-ssa-employee-6.pdf
+  agency: SSA
+
+- id: onboard-ssa-employee-7
+  named_alias: SSA-7
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  case_no: 1:25-cv-00596
+  file: onboard-ssa-employee-7.pdf
+  agency: SSA
+
+- id: onboard-ssa-employee-8
+  named_alias: SSA-8
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  case_no: 1:25-cv-00596
+  file: onboard-ssa-employee-8.pdf
+  agency: SSA
+
+- id: onboard-ssa-employee-9
+  named_alias: SSA-9
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  case_no: 1:25-cv-00596
+  file: onboard-ssa-employee-9.pdf
+  agency: SSA
+
+- id: onboard-ssa-employee-10
+  named_alias: SSA-10
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  case_no: 1:25-cv-00596
+  file: onboard-ssa-employee-10.pdf
+  agency: SSA
+
+- id: onboard-ssa-employee-11
+  named_alias: SSA-11
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  case_no: 1:25-cv-00596
+  file: onboard-ssa-employee-11.pdf
+  agency: SSA
+
+- id: onboard-treasury-marko-elez
+  name: Marko Elez
+  type: sge
+  excepted: true
+  start_date: 2025-01-21
+  end_date: 2025-05-25
+  title: Special Advisor (IT&M)
+  agency: Treasury
+  salary: $84601
+  file: onboard-treasury-marko-elez
+
+- id: onboard-education-employee-4
+  name: Brooks Morgan
+  type: consultant
+  comment: Part-time
+  excepted: true
+  start_date: 2025-02-04
+  end_date: 2025-08-04
+  agency: Education
+  salary: $0
+  file: onboard-education-employee-4.pdf
+
+- id: onboard-treasury-thomas-krause
+  name: Thomas Krause
+  type: consultant
+  comment: Part-time
+  start_date: 2025-02-09
+  end_date: 2025-04-10
+  agency: Treasury
+  salary: $0
+  file: onboard-treasury-thomas-krause.pdf

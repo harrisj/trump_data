@@ -268,6 +268,7 @@ aliases:
   agency: SSA
   name: Scott Coulter
   evidence:
+  - Employees is detailed from NASA to SSA
   - Scott Coulter is identified at NASA on 2025-03-14
   - Scott Coulter is identified at SSA on 2025-03-13
   events:
@@ -320,6 +321,12 @@ aliases:
 
 - id: SSA-3
   agency: SSA
+  name: Aram Moghaddassi
+  evidence:
+  - Employee is detailed from DOL to SSA on a reimbursed basis (ie, not a volunteer SGE) on 2025-02-22
+  - Marko Elez and Aram Moghaddassi are both DOL-based and paid?
+  - Marko Elez was already identified as SSA-7
+  - Cole Killian another possibility, but he appears to be a volunteer SGE
   events:
   - date: 2025-02-18
     type: onboarded
@@ -370,6 +377,9 @@ aliases:
 
 - id: SSA-4
   agency: SSA
+  name: Antonio Gracias
+  evidence:
+  - NPR has done analysis on docs to identify (source https://www.npr.org/2025/04/11/nx-s1-5352470/doge-musk-social-security-voting)
   events:
   - date: 2025-02-27
     type: onboarded
@@ -466,6 +476,9 @@ aliases:
 
 - id: SSA-6
   agency: SSA
+  name: Jon Koval
+  evidence:
+  - NPR has done analysis on docs to identify (source https://www.npr.org/2025/04/11/nx-s1-5352470/doge-musk-social-security-voting)
   events:
   - date: 2025-02-27
     type: onboarded
@@ -510,6 +523,9 @@ aliases:
 
 - id: SSA-7
   agency: SSA
+  name: Marko Elez
+  evidence:
+  - NPR has done analysis on docs to identify (source https://www.npr.org/2025/04/11/nx-s1-5352470/doge-musk-social-security-voting)
   events:
   - date: 2025-03-05
     type: onboarded
@@ -626,6 +642,9 @@ aliases:
 
 - id: SSA-9
   agency: SSA
+  name: Payton Rehling
+  evidence:
+  - NPR has done analysis on docs to identify (source https://www.npr.org/2025/04/11/nx-s1-5352470/doge-musk-social-security-voting)
   events:
   - date: 2025-02-27
     type: onboarded
@@ -721,11 +740,8 @@ aliases:
     detailed_from: GSA
     detail_id: 20250218-gsa-ssa-employee-10
     event: According to a sworn declaration, "Employee 10, a software engineer, was detailed from the Office of the Administrator at the General Services Administration to SSA"
-    comment: I am guessing this is Ethan Shaotran based on coming from GSA and earlier identification at the agency
     named_aliases:
     - SSA-10
-    named:
-    - Ethan Shaotran
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     agency: SSA
   - date: 2025-03-12

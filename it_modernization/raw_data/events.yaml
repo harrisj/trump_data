@@ -1804,11 +1804,8 @@
   detailed_from: GSA
   detail_id: 20250218-gsa-ssa-employee-10
   event: According to a sworn declaration, "Employee 10, a software engineer, was detailed from the Office of the Administrator at the General Services Administration to SSA"
-  comment: I am guessing this is Ethan Shaotran based on coming from GSA and earlier identification at the agency
   named_aliases:
   - SSA-10
-  named:
-  - Ethan Shaotran
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
   agency: SSA
 
@@ -3949,6 +3946,14 @@
   event: The head and deputy leader of the NSA are both relieved of their command
   source: https://www.nytimes.com/2025/04/03/us/politics/nsa-cyber-command-chief-fired.html
   agency: NSA
+
+- date: 2025-04-02
+  type: report
+  event: In an interview on Fox, Antonio Gracias makes misleading claims that DOGE had discovered widespread voting fraud through joining social security data and state voter rolls
+  named:
+  - Antonio Gracias
+  agency: SSA
+  source: https://www.npr.org/2025/04/11/nx-s1-5352470/doge-musk-social-security-voting
 
 - date: 2025-04-03
   type: disruption

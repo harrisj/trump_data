@@ -45,29 +45,48 @@
   agency: SSA
   name: Scott Coulter
   evidence:
+  - Employees is detailed from NASA to SSA
   - Scott Coulter is identified at NASA on 2025-03-14
   - Scott Coulter is identified at SSA on 2025-03-13
 
 - id: SSA-3
   agency: SSA
+  name: Aram Moghaddassi
+  evidence:
+  - Employee is detailed from DOL to SSA on a reimbursed basis (ie, not a volunteer SGE) on 2025-02-22
+  - Marko Elez and Aram Moghaddassi are both DOL-based and paid?
+  - Marko Elez was already identified as SSA-7
+  - Cole Killian another possibility, but he appears to be a volunteer SGE
 
 - id: SSA-4
   agency: SSA
+  name: Antonio Gracias
+  evidence:
+  - NPR has done analysis on docs to identify (source https://www.npr.org/2025/04/11/nx-s1-5352470/doge-musk-social-security-voting)
 
 - id: SSA-5
   agency: SSA
 
 - id: SSA-6
   agency: SSA
+  name: Jon Koval
+  evidence:
+  - NPR has done analysis on docs to identify (source https://www.npr.org/2025/04/11/nx-s1-5352470/doge-musk-social-security-voting)
 
 - id: SSA-7
   agency: SSA
+  name: Marko Elez
+  evidence:
+  - NPR has done analysis on docs to identify (source https://www.npr.org/2025/04/11/nx-s1-5352470/doge-musk-social-security-voting)
 
 - id: SSA-8
   agency: SSA
 
 - id: SSA-9
   agency: SSA
+  name: Payton Rehling
+  evidence:
+  - NPR has done analysis on docs to identify (source https://www.npr.org/2025/04/11/nx-s1-5352470/doge-musk-social-security-voting)
 
 - id: SSA-10
   agency: SSA

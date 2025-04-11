@@ -1,17 +1,18 @@
 import yaml
 from typing import Union, List, Any
 from datetime import date
-from util import read_yaml, as_list, MyYamlDumper
+from util import read_processed_events, read_raw_agencies_dict, read_raw_roundups, sorted_by_last_name, as_list, dump_generated_file
+
+FILE_VERSION = "1.0.0"
+SCHEMA_PATH = "schemas/generated-people-file.json"
+
 
 def generate_people_comprehensive_yaml():
-    agencies_yaml = read_yaml('./raw_data/agencies.yaml')
-    events_yaml = read_yaml('./raw_data/events.yaml')
-    roundup_yaml = read_yaml('./raw_data/roundups.yaml')    
+    agencies = read_raw_agencies_dict()
+    events_yaml = read_processed_events()
+    roundup_yaml = read_raw_roundups()  
 
     out = {}
-    agencies = {}
-    for agency in agencies_yaml:
-        agencies[agency["id"]] = agency
 
     for roundup in roundup_yaml:
         for person, agency_ids in roundup['people'].items():
@@ -32,18 +33,24 @@ def generate_people_comprehensive_yaml():
 
                 for agency_id in as_list(event['agency']):
                     out[person]['agencies'].add(agencies[agency_id]["name"])
-                    out[person]['events'].append(event)
+
+                    simplified_event = {k: event[k] for k in ('date', 'agency', 'type', 'event')}
+                    out[person]['events'].append(simplified_event)
 
     for name_rec in out.values():
         sorted_agencies = sorted(list(name_rec['agencies']))
         name_rec['agencies'] = sorted_agencies
 
-    return out
+    return { "people": out }
 
 # Example usage
 
-people_data = generate_people_comprehensive_yaml()
-output_file = './people.yaml'
-with open(output_file, 'w') as file:
-    file.write("# yaml-language-server: $schema=schemas/people_schema.json\n")
-    file.write(yaml.dump(people_data, Dumper=MyYamlDumper, indent=2, width=1000, sort_keys=True))
+
+meta = {
+    "title": "People",
+    "version": FILE_VERSION,
+    "generated": date.today()
+}
+
+people = generate_people_comprehensive_yaml()
+dump_generated_file(meta, people, 'people.yaml', SCHEMA_PATH)
