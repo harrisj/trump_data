@@ -2,7 +2,7 @@
 meta:
   title: Events
   version: 1.0.0
-  generated: 2025-04-10 22:52:06.641629
+  generated: 2025-04-10 22:56:35.145817
 
 aliases:
 
@@ -61,13 +61,13 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     file: 20250212-ssa-opm-education-sge.pdf
   candidates:
-  - Jacob Altik
-  - Elon Musk
-  - Akash Bobba
   - Steve Davis
-  - Luke Farritor
-  - Ethan Shaotran
+  - Akash Bobba
   - Nikhil Rajpal
+  - Jacob Altik
+  - Ethan Shaotran
+  - Luke Farritor
+  - Elon Musk
 
 - id: OPM-4
   agency: OPM
@@ -115,7 +115,7 @@ aliases:
   agency: Education
   evidence:
   - This person appears in a detail from OPM to SSA, but also a detail from SSA back to OPM and Education
-  - This is the same person as ED-1 because there is a detail document that appears with two diff redacted names
+  - This is the same person as OPM-3 because there is a detail document that appears with two diff redacted names
   events:
   - date: 2025-02-03
     type: onboarded
@@ -204,8 +204,8 @@ aliases:
     file: 20250212-gsa-education-ed-3.pdf
   candidates:
   - Ethan Shaotran
-  - Akash Bobba
   - Luke Farritor
+  - Akash Bobba
 
 - id: ED-4
   agency: Education
@@ -363,10 +363,10 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: 20250218-dol-ssa-employee-3.pdf
   candidates:
-  - Marko Elez
-  - Elon Musk
-  - Cole Killian
   - Aram Moghaddassi
+  - Cole Killian
+  - Elon Musk
+  - Marko Elez
 
 - id: SSA-4
   agency: SSA
@@ -566,10 +566,10 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: 20250317-dol-ssa-employee-7.pdf
   candidates:
-  - Marko Elez
-  - Elon Musk
-  - Cole Killian
   - Aram Moghaddassi
+  - Cole Killian
+  - Elon Musk
+  - Marko Elez
 
 - id: SSA-8
   agency: SSA
@@ -618,11 +618,11 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: 20250226-opm-ssa-employee-8.pdf
   candidates:
+  - Steve Davis
+  - Akash Bobba
+  - Nikhil Rajpal
   - Jacob Altik
   - Elon Musk
-  - Akash Bobba
-  - Steve Davis
-  - Nikhil Rajpal
 
 - id: SSA-9
   agency: SSA
@@ -759,9 +759,9 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: 20250218-gsa-ssa-employee-10.pdf
   candidates:
-  - Elon Musk
+  - Steve Davis
   - Cole Killian
   - Akash Bobba
-  - Steve Davis
-  - Luke Farritor
   - Ethan Shaotran
+  - Luke Farritor
+  - Elon Musk
