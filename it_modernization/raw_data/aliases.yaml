@@ -40,6 +40,11 @@
 
 - id: SSA-1
   agency: SSA
+  evidence:
+  - Appointed to position as "Expert" on 2025-02-10
+  - Appointment is as Expert with a salary of $90K
+  - Doing analysis of SSA payment data as focus
+  - Software engineer with 5 years of experience and some leadership experience
 
 - id: SSA-2
   agency: SSA
@@ -48,6 +53,7 @@
   - Employees is detailed from NASA to SSA
   - Scott Coulter is identified at NASA on 2025-03-14
   - Scott Coulter is identified at SSA on 2025-03-13
+  - Signed SF-61 as CIO on 2025-03-24
 
 - id: SSA-3
   agency: SSA
@@ -57,6 +63,8 @@
   - Marko Elez and Aram Moghaddassi are both DOL-based and paid?
   - Marko Elez was already identified as SSA-7
   - Cole Killian another possibility, but he appears to be a volunteer SGE
+  - Flick testimony - we began onboarding and training Employee 3, a Schedule C Policy Advisor, detailed from the Department of Labor to SSA" with it finalized on February 22. "His duties currently relate to improper payments and SSA's Death Master File.
+  - Aram was linked to changed to the Death Master File on the week of 2025-04-08
 
 - id: SSA-4
   agency: SSA
@@ -66,6 +74,9 @@
 
 - id: SSA-5
   agency: SSA
+  evidence:
+  - Onboarded as a volunteer on 2025-02-18 as a detail from the DOGE service
+  - Flick testimony - SSA began onboarding and training Employee 5, an engineer, detailed from the United States DOGE Service to SSA" with an inter-agency agreement to DOGE.
 
 - id: SSA-6
   agency: SSA
@@ -87,6 +98,15 @@
   name: Payton Rehling
   evidence:
   - NPR has done analysis on docs to identify (source https://www.npr.org/2025/04/11/nx-s1-5352470/doge-musk-social-security-voting)
+  - In their qualifications, thety list being a Senior Associate, Data Engineer with a backgroun in AI, Airflow and Genetic Algorithms. Also built a Manufacturing Execution System (MES) for home battery deployments
 
 - id: SSA-10
   agency: SSA
+  evidence:
+  - Onboarded as a volunteer on 2025-02-18 as a detail from the GSA
+  - Flick testimony - Employee 10, a software engineer, was detailed from the Office of the Administrator at the General Services Administration to SSA"
+
+- id: SSA-11
+  agency: SSA
+  evidence:
+  - Started as a paid staffer at SSA on 2025-03-16

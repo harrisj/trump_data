@@ -37,6 +37,17 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
     agency: OPM
   - date: 2025-02-12
+    type: onboarded
+    onboard_type: detailed
+    detailed_from: OPM
+    comment: This one shows up for both OPM-3 and ED-1 in different releases
+    event: An unusual Memorandum of Understanding is signed by Brian Bjelde for OPM and representatives of Social Security and the Department of Education for Akash Bobba to start working at SSA (but he already had been working there, according to Tiffany Flick's testimony)
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+    named_aliases:
+    - OPM-3
+    - ED-1
+    agency: SSA
+  - date: 2025-02-12
     type: official
     named_aliases:
     - OPM-3
@@ -126,6 +137,17 @@ aliases:
     named_aliases:
     - ED-1
     agency: Education
+  - date: 2025-02-12
+    type: onboarded
+    onboard_type: detailed
+    detailed_from: OPM
+    comment: This one shows up for both OPM-3 and ED-1 in different releases
+    event: An unusual Memorandum of Understanding is signed by Brian Bjelde for OPM and representatives of Social Security and the Department of Education for Akash Bobba to start working at SSA (but he already had been working there, according to Tiffany Flick's testimony)
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+    named_aliases:
+    - OPM-3
+    - ED-1
+    agency: SSA
   - date: 2025-02-12
     type: onboarded
     onboard_type: detailed
@@ -225,7 +247,27 @@ aliases:
 
 - id: SSA-1
   agency: SSA
+  evidence:
+  - Appointed to position as "Expert" on 2025-02-10
+  - Appointment is as Expert with a salary of $90K
+  - Doing analysis of SSA payment data as focus
+  - Software engineer with 5 years of experience and some leadership experience
   events:
+  - date: 2025-02-10
+    type: onboarded
+    onboard_type: appointed
+    event: Unidentified "Employee 1" is appointed as an Expert with a salary of $90,025 and a term not to exceed 2026-02-08
+    named_aliases:
+    - SSA-1
+    agency: SSA
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  - date: 2025-02-10
+    type: official
+    event: Unidentified "Employee 2" signs the SSA Rules of Behavior for access to SSA networks and systems
+    named_aliases:
+    - SSA-1
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    agency: SSA
   - date: 2025-02-13
     type: onboarded
     event: According to a sworn declaration by a Deputy Commissioner at SSA, an unindentified DOGE staffer (Employee 1) is onboarded for "duties currently relate to improper payments and SSA's Death Master File" and they are also planning to detail him to the Small Business Administration
@@ -271,6 +313,7 @@ aliases:
   - Employees is detailed from NASA to SSA
   - Scott Coulter is identified at NASA on 2025-03-14
   - Scott Coulter is identified at SSA on 2025-03-13
+  - Signed SF-61 as CIO on 2025-03-24
   events:
   - date: 2025-02-18
     type: onboarded
@@ -284,6 +327,15 @@ aliases:
     named:
     - Scott Coulter
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    agency: SSA
+  - date: 2025-02-18
+    type: onboarded
+    onboard_type: detailed
+    event: Unidentified "Employee 2" signs the SSA Rules of Behavior for access to SSA networks and systems
+    detail_id: 20250306-nasa-ssa-employee-2
+    named_aliases:
+    - SSA-2
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
     agency: SSA
   - date: 2025-03-12
     type: legal
@@ -301,6 +353,13 @@ aliases:
     - SSA-10
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     case_no: 1:25-cv-00339
+    agency: SSA
+  - date: 2025-03-25
+    type: promotion
+    named_aliases:
+    - SSA-2
+    event: Unidentified "Employee 2" at SSA submits a signed appointment affadavit for the position of Chief Information Officer
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
     agency: SSA
   details:
   - id: 20250306-nasa-ssa-employee-2
@@ -327,16 +386,27 @@ aliases:
   - Marko Elez and Aram Moghaddassi are both DOL-based and paid?
   - Marko Elez was already identified as SSA-7
   - Cole Killian another possibility, but he appears to be a volunteer SGE
+  - Flick testimony - we began onboarding and training Employee 3, a Schedule C Policy Advisor, detailed from the Department of Labor to SSA" with it finalized on February 22. "His duties currently relate to improper payments and SSA's Death Master File.
+  - Aram was linked to changed to the Death Master File on the week of 2025-04-08
   events:
   - date: 2025-02-18
     type: onboarded
     onboard_type: detailed
     detailed_from: DOL
-    detail_id: 20250218-dol-ssa-employee-3
+    detail_id: 20250222-dol-ssa-employee-3
     named_aliases:
     - SSA-3
     event: According to a sworn declaration by a Deputy Commissioner at SSA, "we began onboarding and training Employee 3, a Schedule C Policy Advisor, detailed from the Department of Labor to SSA" with it finalized on February 22. "His duties currently relate to improper payments and SSA's Death Master File."
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    agency: SSA
+  - date: 2025-02-18
+    type: onboarded
+    onboard_type: detailed
+    event: Unidentified "Employee 3" signs the SSA Rules of Behavior for access to SSA networks and systems
+    detail_id: 20250222-dol-ssa-employee-3
+    named_aliases:
+    - SSA-3
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
     agency: SSA
   - date: 2025-03-12
     type: legal
@@ -356,7 +426,7 @@ aliases:
     case_no: 1:25-cv-00339
     agency: SSA
   details:
-  - id: 20250218-dol-ssa-employee-3
+  - id: 20250222-dol-ssa-employee-3
     from: DOL
     to: SSA
     signed_date: 2025-02-18
@@ -368,7 +438,7 @@ aliases:
     - SSA-3
     reimbursement_amount: $71,000 per quarter
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
-    file: 20250218-dol-ssa-employee-3.pdf
+    file: 20250222-dol-ssa-employee-3.pdf
   candidates:
   - Marko Elez
   - Cole Killian
@@ -381,6 +451,15 @@ aliases:
   evidence:
   - NPR has done analysis on docs to identify (source https://www.npr.org/2025/04/11/nx-s1-5352470/doge-musk-social-security-voting)
   events:
+  - date: 2024-02-24
+    type: onboarded
+    onboard_type: appointed
+    event: Unidentified "Employee 4" is appointed as an unpaid volunteer "Expert" at SSA with a term not to exceed 2026-02-22
+    comment: Reports to be a founder, CEO and Chief Investment Officer and to have 25 years of experience in private equity
+    named_aliases:
+    - SSA-4
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    agency: SSA
   - date: 2025-02-27
     type: onboarded
     onboard_type: hired
@@ -411,6 +490,9 @@ aliases:
 
 - id: SSA-5
   agency: SSA
+  evidence:
+  - Onboarded as a volunteer on 2025-02-18 as a detail from the DOGE service
+  - Flick testimony - SSA began onboarding and training Employee 5, an engineer, detailed from the United States DOGE Service to SSA" with an inter-agency agreement to DOGE.
   events:
   - date: 2025-02-18
     type: onboarded
@@ -480,6 +562,15 @@ aliases:
   evidence:
   - NPR has done analysis on docs to identify (source https://www.npr.org/2025/04/11/nx-s1-5352470/doge-musk-social-security-voting)
   events:
+  - date: 2025-02-24
+    type: onboarded
+    onboard_type: appointed
+    event: Unidentified "Employee 6" is onboarded as an unpaid appointed Expert to the CIO with a term not to exceed 2026-02-22
+    comment: Lists background as a Growth Equity Vice President
+    named_aliases:
+    - SSA-6
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    agency: SSA
   - date: 2025-02-27
     type: onboarded
     onboard_type: hired
@@ -537,6 +628,24 @@ aliases:
     event: According to a sworn declaration, "the agency began onboarding Employee 7, as a detailee from Department of Labor (DOL) to SSA."
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     agency: SSA
+  - date: 2025-03-05
+    type: onboarded
+    onboard_type: detailed
+    event: Unidentified "Employee 7" signs the SSA Rules of Behavior for access to SSA networks and systems
+    detail_id: 20250317-dol-ssa-employee-7
+    named_aliases:
+    - SSA-7
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    agency: SSA
+  - date: 2025-03-05
+    type: onboarded
+    onboard_type: detailed
+    event: Unidentified "Employee 7" signs the SSA Rules of Behavior for access to SSA networks and systems
+    detail_id: 20250317-dol-ssa-employee-7
+    named_aliases:
+    - SSA-7
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    agency: SSA
   - date: 2025-03-12
     type: legal
     event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees: four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies and offices (Employees 2, 3, 5, 7, 8, and 10)"'
@@ -590,6 +699,15 @@ aliases:
 - id: SSA-8
   agency: SSA
   events:
+  - date: 2025-02-18
+    type: onboarded
+    onboard_type: detailed
+    event: Unidentified "Employee 8" and "Employee 10" sign the SSA Rules of Behavior for access to SSA networks and systems
+    named_aliases:
+    - SSA-8
+    - SSA-10
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    agency: SSA
   - date: 2025-03-12
     type: legal
     event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees: four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies and offices (Employees 2, 3, 5, 7, 8, and 10)"'
@@ -645,7 +763,17 @@ aliases:
   name: Payton Rehling
   evidence:
   - NPR has done analysis on docs to identify (source https://www.npr.org/2025/04/11/nx-s1-5352470/doge-musk-social-security-voting)
+  - In their qualifications, thety list being a Senior Associate, Data Engineer with a backgroun in AI, Airflow and Genetic Algorithms. Also built a Manufacturing Execution System (MES) for home battery deployments
   events:
+  - date: 2025-02-23
+    type: onboarded
+    onboard_type: appointed
+    event: Unidentified "Employee 9" is appointed as an volunteer Expert a term not to exceed 2026-02-26
+    comment: In their qualifications, thety list being a Senior Associate, Data Engineer with a backgroun in AI, Airflow and Genetic Algorithms. Also built a Manufacturing Execution System (MES) for home battery deployments
+    named_aliases:
+    - SSA-9
+    agency: SSA
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   - date: 2025-02-27
     type: onboarded
     onboard_type: hired
@@ -733,7 +861,19 @@ aliases:
 
 - id: SSA-10
   agency: SSA
+  evidence:
+  - Onboarded as a volunteer on 2025-02-18 as a detail from the GSA
+  - Flick testimony - Employee 10, a software engineer, was detailed from the Office of the Administrator at the General Services Administration to SSA"
   events:
+  - date: 2025-02-18
+    type: onboarded
+    onboard_type: detailed
+    event: Unidentified "Employee 8" and "Employee 10" sign the SSA Rules of Behavior for access to SSA networks and systems
+    named_aliases:
+    - SSA-8
+    - SSA-10
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    agency: SSA
   - date: 2025-02-19
     type: onboarded
     onboard_type: detailed
@@ -781,3 +921,18 @@ aliases:
   - Cole Killian
   - Elon Musk
   - Ethan Shaotran
+
+- id: SSA-11
+  agency: SSA
+  evidence:
+  - Started as a paid staffer at SSA on 2025-03-16
+  events:
+  - date: 2025-03-16
+    type: onboarded
+    onboard_type: appointed
+    event: Unidentified "Employee 11" starts at SSA as an appointed Expert with a salary of $162,672 and a term not to exceed 2026-03-15
+    comment: Describes self as a Senior Software Engineer with over 10 years of experience in geospatial analysis
+    named_aliases:
+    - SSA-11
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    agency: SSA
