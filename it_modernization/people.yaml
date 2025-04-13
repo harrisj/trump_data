@@ -648,6 +648,10 @@ people:
     - US Citizenship & Immigration Services
     - US Digital Service
     events:
+    - date: 2025-01-20~
+      agency: GSA
+      type: onboarded
+      event: Multiple DOGE staff are onboarded at the GSA and given elevated A-suite access
     - date: 2025-01-31
       agency: GSA
       type: report
@@ -720,7 +724,7 @@ people:
       agency: HHS
       type: report
       event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
-    - date: 2025-03-15
+    - date: 2025-03-14~
       agency: USCIS
       type: access_granted
       event: DHS CIO Antoine McCord requests that access be granted for DOGE to the USCIS Data Business Intelligence Services (aka, the Data Lake)
@@ -740,267 +744,6 @@ people:
       agency: HHS
       type: report
       event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff who have worked at HHS
-Edward Coristine:
-  agencies:
-  - Centers for Medicare and Medicaid Services
-  - Cybersecurity and Infrastructure Security Agency
-  - Department of Education
-  - Department of Government Efficiency
-  - Department of Homeland Security
-  - Federal Emergency Management Agency
-  - General Services Administration
-  - Health and Human Services
-  - Office of Personnel Management
-  - Small Business Administration
-  - Social Security Administration
-  - State Department
-  - US Agency for International Development
-  - US Citizenship & Immigration Services
-  - US Digital Service
-  events:
-  - agency: GSA
-    date: 2025-01-20~
-    event: Multiple DOGE staff are onboarded at the GSA and given elevated A-suite access
-    fuzz: I don't have specific details, but extrapolating back from other reporting
-    named:
-    - Nicole Hollander
-    - Edward Coristine
-    - Ethan Shaotran
-    onboard_type: hired
-    source: https://www.wired.com/story/elon-musk-lackeys-general-services-administration/
-    type: onboarded
-  - agency: GSA
-    date: 2025-01-31
-    event: Wired reports that DOGE staff are attempting to get elevated access to GSA systems and making changes to office arrangements
-    named:
-    - Nicole Hollander
-    - Steve Davis
-    - Thomas Shedd
-    - Edward Coristine
-    - Ethan Shaotran
-    source: https://www.wired.com/story/elon-musk-lackeys-general-services-administration/
-    type: report
-  - agency: OPM
-    date: 2025-02-02
-    event: Wired Magazine identifies Akash Bobba, Gavin Kliger and Edward Coristine as special advisors reporting to Amanda Scales at OPM
-    named:
-    - Akash Bobba
-    - Edward Coristine
-    - Gavin Kliger
-    source: https://www.wired.com/story/elon-musk-government-young-engineers/
-    type: report
-  - agency: GSA
-    date: 2025-02-02
-    event: Wired Magazine identifies several DOGE staffers with GSA email addresses and A-Suite Level clearances granting them access to all physical spaces and IT systems
-    named:
-    - Akash Bobba
-    - Edward Coristine
-    - Luke Farritor
-    - Ethan Shaotran
-    source: https://www.wired.com/story/elon-musk-government-young-engineers/
-    type: report
-  - access_type: admin
-    agency: SBA
-    date: 2025-02-03
-    event: Email to SBA staff announces that Edward Coristine was granted access to all systems including HR, contract, and payment systems.
-    named:
-    - Edward Coristine
-    source: https://xcancel.com/lbarronlopez/status/1886491276729544809
-    type: access_granted
-  - agency: FEMA
-    date: 2025-02-05
-    event: Edward Coristine is given a FEMA badge and onboarded into the agency
-    named:
-    - Edward Coristine
-    onboard_type: unknown
-    source: https://www.washingtonpost.com/climate-environment/2025/02/07/musk-trump-fema-doge/
-    type: onboarded
-  - access_systems:
-    - FEMA-GO
-    access_type: unknown
-    agency: FEMA
-    date: 2025-02-05
-    event: DOGE staff are reportedly given access to review grants on the FEMA GO platform
-    named:
-    - Edward Coristine
-    source: https://www.washingtonpost.com/climate-environment/2025/02/07/musk-trump-fema-doge/
-    type: access_granted
-  - agency: DHS
-    date: 2025-02-10
-    event: Edward Coristine appears in a DHS directory as a "senior advisor"
-    named:
-    - Edward Coristine
-    source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
-    type: report
-  - agency: State
-    date: 2025-02-10
-    event: Edward Coristine and Luke Farritor are posted to the State Department's Bureau of Diplomatic Technology
-    named:
-    - Edward Coristine
-    - Luke Farritor
-    source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
-    type: report
-  - agency: SSA
-    comment: I am guessing this is Edward Coristine, given testimony he was detailed from HHS to SBA
-    date: 2025-02-13
-    event: According to a sworn declaration by a Deputy Commissioner at SSA, an unindentified DOGE staffer (Employee 1) is onboarded for "duties currently relate to improper payments and SSA's Death Master File" and they are also planning to detail him to the Small Business Administration
-    named:
-    - Edward Coristine
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
-    type: onboarded
-  - agency: CISA
-    date: 2025-02-19
-    event: Edward Coristine and Kyle Schutt are reportedly given access to CISA systems
-    named:
-    - Edward Coristine
-    - Kyle Schutt
-    source: https://www.wired.com/story/doge-cisa-coristine-cybersecurity/
-    type: report
-  - access_systems:
-    - Office-CISA
-    access_type: admin
-    agency: CISA
-    date: 2025-02-20
-    event: Division leaders at the Cybersecurity and Infrastructure Security Agency informed some senior CISA staffers that DOGE has access to internal emails and Microsoft Teams chats of employees.
-    named:
-    - Edward Coristine
-    source: https://www.nbcnews.com/politics/donald-trump/live-blog/trump-france-emmanuel-macron-white-house-ukraine-tariffs-live-updates-rcna193386#rcrd73638
-    type: access_granted
-  - agency: GSA
-    date: 2025-03-04
-    event: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid as full-time GSA employees, but other staff are listed as volunteers for that agency
-    named:
-    - Kyle Schutt
-    - Nate Cavanaugh
-    - Edward Coristine
-    - Ethan Shaotran
-    - Luke Farritor
-    - Derek Geissler
-    - Nicole Hollander
-    source: https://www.wired.com/story/doge-government-salaries-elon-musk/
-    type: report
-  - agency: CMS
-    date: 2025-03-05
-    detailed_from: GSA
-    event: Edward Coristine is detailed to HHS from GSA, where he is reported as an employee. He is also detailed to USDS.
-    named:
-    - Edward Coristine
-    onboard_type: detailed
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: onboarded
-  - access_systems:
-    - CALM
-    access_type: read
-    agency: CMS
-    date: 2025-03-05
-    event: Edward Coristine and Marko Elez are granted read-only access to the CMS Acquisition Lifecycle Modernization (CALM) system.
-    named:
-    - Edward Coristine
-    - Marko Elez
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: access_granted
-  - access_systems:
-    - HIGLAS
-    access_type: read
-    agency: CMS
-    date: 2025-03-05
-    event: Edward Coristine and Marko Elez are granted read-only access to the Healthcare Integrated General Ledger Accounting System (HIGLAS) system by the CIO of the CMS Office of Information Technology
-    named:
-    - Edward Coristine
-    - Marko Elez
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: access_granted
-  - agency: DOGE
-    date: 2025-03-05
-    event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP), including 4 lawyers previously not listed
-    named:
-    - Steve Davis
-    - Marko Elez
-    - Luke Farritor
-    - Edward Coristine
-    - Justin Aimonetti
-    - Ashley Boizelle
-    - Joshua Fox
-    - Joshua Hanley
-    source: https://theintercept.com/2025/03/05/leaked-list-musk-doge-lawyers/
-    type: report
-  - access_systems:
-    - IDR
-    access_type: read
-    agency: CMS
-    date: 2025-03-11
-    event: Edward Coristine is granted read-only access to the Integrated Data Repository (IDR) system by the CIO of the CMS Office of Information Technology
-    named:
-    - Edward Coristine
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: access_granted
-  - agency: HHS
-    date: 2025-03-13
-    event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
-    named:
-    - Edward Coristine
-    - Marko Elez
-    - Luke Farritor
-    - Aram Moghaddassi
-    - Rachel Riley
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
-    type: report
-  - access_systems:
-    - DBIS
-    - ELIS
-    - CIS
-    access_type: unknown
-    agency: USCIS
-    date: 2025-03-14~
-    event: DHS CIO Antoine McCord requests that access be granted for DOGE to the USCIS Data Business Intelligence Services (aka, the Data Lake)
-    fuzz: Source only specifies access was granted in mid-March
-    named:
-    - Kyle Schutt
-    - Edward Coristine
-    source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
-    type: access_granted
-  - agency: USCIS
-    date: 2025-03-28
-    event: USCIS CIO William McElhaney sends a message to DHS Deputy Secretary asking them to review access that was granted to DOGE staff
-    named:
-    - Kyle Schutt
-    - Edward Coristine
-    - Aram Moghaddassi
-    - Payton Rehling
-    source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
-    type: report
-  - agency: CMS
-    date: 2025-03-29
-    event: In a legal filing, the DOJ identifies 4 DOGE staffers - Edward Coristine, Marko Elez, Luke Farritor and Amy Gleason - at CMS
-    named:
-    - Edward Coristine
-    - Marko Elez
-    - Luke Farritor
-    - Amy Gleason
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: report
-  - access_systems:
-    - HIGLAS
-    - IDR
-    - CALM
-    agency: CMS
-    date: 2025-03-29
-    event: In a filing, DOJ asserts that Edward Coristine and Marko Elez no longer have access to HHS systems
-    named:
-    - Edward Coristine
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: access_revoked
-  - agency: HHS
-    date: 2025-03-29
-    event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff who have worked at HHS
-    named:
-    - Edward Coristine
-    - Marko Elez
-    - Luke Farritor
-    - Amy Gleason
-    - Kyle Schutt
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: report
 
   Luke Farritor:
     agencies:
@@ -1024,6 +767,10 @@ Edward Coristine:
       agency: DOGE
       type: report
       event: Luke Farritor posts a recruitment message for DOGE in a Discord server for SpaceX interns looking for volunteers to work at DOGE for 6 months
+    - date: 2025-01-20~
+      agency: GSA
+      type: onboarded
+      event: Luke Farritor starts work at the GSA (approximate)
     - date: 2025-01-21
       agency: HHS
       type: onboarded
@@ -1210,171 +957,78 @@ Edward Coristine:
       type: report
       event: DOGE member Christopher Stanley is listed as a Senior Advisor in Deputy Attorney General's Office and holds a security clearance
 
-Ethan Shaotran:
-  agencies:
-  - Department of Education
-  - Department of Government Efficiency
-  - General Services Administration
-  - Housing and Urban Development
-  - Social Security Administration
-  - U.S. African Development Foundation
-  events:
-  - agency: GSA
-    date: 2025-01-20~
-    event: Multiple DOGE staff are onboarded at the GSA and given elevated A-suite access
-    fuzz: I don't have specific details, but extrapolating back from other reporting
-    named:
-    - Nicole Hollander
-    - Edward Coristine
-    - Ethan Shaotran
-    onboard_type: hired
-    source: https://www.wired.com/story/elon-musk-lackeys-general-services-administration/
-    type: onboarded
-  - agency: GSA
-    date: 2025-01-31
-    event: Wired reports that DOGE staff are attempting to get elevated access to GSA systems and making changes to office arrangements
-    named:
-    - Nicole Hollander
-    - Steve Davis
-    - Thomas Shedd
-    - Edward Coristine
-    - Ethan Shaotran
-    source: https://www.wired.com/story/elon-musk-lackeys-general-services-administration/
-    type: report
-  - agency: GSA
-    date: 2025-02-02
-    event: Wired Magazine identifies several DOGE staffers with GSA email addresses and A-Suite Level clearances granting them access to all physical spaces and IT systems
-    named:
-    - Akash Bobba
-    - Edward Coristine
-    - Luke Farritor
-    - Ethan Shaotran
-    source: https://www.wired.com/story/elon-musk-government-young-engineers/
-    type: report
-  - access_type: admin
-    agency: Education
-    comment: FIXME get info on the systems being accessed
-    date: 2025-02-08
-    event: NBC News reports that Akash Bobba and Ethan Shaotran have admin access to email and had also accessed the website backend
-    named:
-    - Akash Bobba
-    - Ethan Shaotran
-    source: https://www.nbcnews.com/news/us-news/elon-musk-doge-team-education-department-rcna191244
-    type: access_granted
-  - agency: SSA
-    comment: I am guessing this is Ethan Shaotran based on coming from GSA and earlier identification at the agency
-    date: 2025-02-19
-    detailed_from: GSA
-    event: According to a sworn declaration, "Employee 10, a software engineer, was detailed from the Office of the Administrator at the General Services Administration to SSA"
-    named:
-    - Ethan Shaotran
-    onboard_type: detailed
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
-    type: onboarded
-  - agency: SSA
-    date: 2025-02-20
-    event: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
-    named:
-    - Leland Dudek
-    - Ethan Shaotran
-    - Nikhil Rajpal
-    - Cole Killian
-    - Marko Elez
-    source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
-    type: report
-  - agency: USADF
-    case_no: 1:25-cv-00660
-    date: 2025-02-21
-    event: Ethan Shaotran, Jacob Altik, and Nate Cavanaugh arrive at the agency and demand that a MOU must be signed for their detail assignment
-    named:
-    - Ethan Shaotran
-    - Jacob Altik
-    - Nate Cavanaugh
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
-    type: report
-  - agency: USADF
-    case_no: 1:25-cv-00660
-    date: 2025-02-21
-    event: The MOU for DOGE's IT Modernization is between USADF and GSA and only covers the activities of Ethan Shaotran
-    named:
-    - Ethan Shaotran
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.6.pdf
-    type: legal
-  - agency: USADF
-    case_no: 1:25-cv-00660
-    date: 2025-02-21
-    event: Once MOU is signed, DOGE staff reveal their real purpose is to conduct a massive reduction in agency staff and scope and demand to file a RIF plan by 2/24
-    named:
-    - Ethan Shaotran
-    - Jacob Altik
-    - Nate Cavanaugh
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
-    type: report
-  - agency: GSA
-    date: 2025-03-04
-    event: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid as full-time GSA employees, but other staff are listed as volunteers for that agency
-    named:
-    - Kyle Schutt
-    - Nate Cavanaugh
-    - Edward Coristine
-    - Ethan Shaotran
-    - Luke Farritor
-    - Derek Geissler
-    - Nicole Hollander
-    source: https://www.wired.com/story/doge-government-salaries-elon-musk/
-    type: report
-  - agency: USADF
-    case_no: 1:25-cv-00660
-    date: 2025-03-05
-    event: Jacob Altik and Ethan Shaotran are rebuffed by agency leadership when attempting to enter the agency
-    named:
-    - Jacob Altik
-    - Ethan Shaotran
-    source: https://www.thedailybeast.com/elon-musks-doge-goons-in-tense-standoff-video-unmasked/
-    type: report
-  - agency: USADF
-    date: 2025-03-06
-    event: DOGE staff Jacob Altik and Ethan Shaotran return joined by Nate Cavanaugh with US marshals to force entry to the agency
-    named:
-    - Jacob Altik
-    - Ethan Shaotran
-    - Nate Cavanaugh
-    source: https://www.thedailybeast.com/elon-musks-doge-goons-in-tense-standoff-video-unmasked/
-    type: report
-  - agency: SSA
-    date: 2025-03-13
-    event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
-    named:
-    - Akash Bobba
-    - Scott Coulter
-    - Marko Elez
-    - Luke Farritor
-    - Antonio Gracias
-    - Cole Killian
-    - Jon Koval
-    - Nikhil Rajpal
-    - Payton Rehling
-    - Ethan Shaotran
-    source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
-    type: report
+  Ethan Shaotran:
+    agencies:
+    - Department of Education
+    - Department of Government Efficiency
+    - General Services Administration
+    - Housing and Urban Development
+    - Social Security Administration
+    - U.S. African Development Foundation
+    events:
+    - date: 2025-01-20~
+      agency: GSA
+      type: onboarded
+      event: Multiple DOGE staff are onboarded at the GSA and given elevated A-suite access
+    - date: 2025-01-31
+      agency: GSA
+      type: report
+      event: Wired reports that DOGE staff are attempting to get elevated access to GSA systems and making changes to office arrangements
+    - date: 2025-02-02
+      agency: GSA
+      type: report
+      event: Wired Magazine identifies several DOGE staffers with GSA email addresses and A-Suite Level clearances granting them access to all physical spaces and IT systems
+    - date: 2025-02-08
+      agency: Education
+      type: access_granted
+      event: NBC News reports that Akash Bobba and Ethan Shaotran have admin access to email and had also accessed the website backend
+    - date: 2025-02-20
+      agency: SSA
+      type: report
+      event: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
+    - date: 2025-02-21
+      agency: USADF
+      type: report
+      event: Ethan Shaotran, Jacob Altik, and Nate Cavanaugh arrive at the agency and demand that a MOU must be signed for their detail assignment
+    - date: 2025-02-21
+      agency: USADF
+      type: legal
+      event: The MOU for DOGE's IT Modernization is between USADF and GSA and only covers the activities of Ethan Shaotran
+    - date: 2025-02-21
+      agency: USADF
+      type: report
+      event: Once MOU is signed, DOGE staff reveal their real purpose is to conduct a massive reduction in agency staff and scope and demand to file a RIF plan by 2/24
+    - date: 2025-03-04
+      agency: GSA
+      type: report
+      event: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid as full-time GSA employees, but other staff are listed as volunteers for that agency
+    - date: 2025-03-05
+      agency: USADF
+      type: report
+      event: Jacob Altik and Ethan Shaotran are rebuffed by agency leadership when attempting to enter the agency
+    - date: 2025-03-06
+      agency: USADF
+      type: report
+      event: DOGE staff Jacob Altik and Ethan Shaotran return joined by Nate Cavanaugh with US marshals to force entry to the agency
+    - date: 2025-03-13
+      agency: SSA
+      type: report
+      event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
 
-Frank Schuler:
-  agencies:
-  - General Services Administration
-  events: []
-
-Gavin Hamrick:
-  agencies:
-  - Institute for Museum and Library Services
-  events:
-  - agency: IMLS
-    date: 2025-03-31
-    event: DOGE arrives at the agency and notifies the entire staff of IMLS that they are being put on administrative leave effective immediately
-    named:
-    - Nate Cavanaugh
-    - Gavin Hamrick
-    source: https://bsky.app/profile/marisakabas.bsky.social
-    type: disruption
+  Alexandra Beynon:
+    agencies:
+    - Department of Education
+    - Department of Government Efficiency
+    - Executive Office of the President
+    events:
+    - date: 2025-02-05
+      agency: Education
+      type: onboarded
+      event: Alexandra Beynon is detailed from DOGE to the Department of Education
+    - date: 2025-02-13
+      agency: Education
+      type: report
+      event: A story on a proposal to use AI at the Department of Education lists several DOGE staffers identified there within the last few weeks
 
   Gavin Kliger:
     agencies:
@@ -1765,7 +1419,7 @@ Gavin Hamrick:
       agency: HHS
       type: onboarded
       event: Kyle Schutt is detailed to the Administration for Children and Families (ACF) office at HHS from the GSA. He also is detailed to the USDS
-    - date: 2025-03-15
+    - date: 2025-03-14~
       agency: USCIS
       type: access_granted
       event: DHS CIO Antoine McCord requests that access be granted for DOGE to the USCIS Data Business Intelligence Services (aka, the Data Lake)
@@ -1931,15 +1585,15 @@ Gavin Hamrick:
     - Executive Office of the President
     - Office of Personnel Management
     events:
-    - date: 2025-01-16
-      agency: OPM
-      type: report
-      event: Noah Peters receives a job offer to work at the OPM. He describes it as very general and vague.
-    - date: 2025-01-16
+    - date: 2025-01-16~
       agency: OPM
       type: report
       event: Noah Peters recalls discussing the concept of using administrative leave to sideline federal employees with Keenan Kmiec before January 20th
-    - date: 2025-01-16
+    - date: 2025-01-16~
+      agency: OPM
+      type: report
+      event: Noah Peters receives a job offer to work at the OPM. He describes it as very general and vague.
+    - date: 2025-01-16~
       agency: OPM
       type: report
       event: Noah Peters starts working on two memos around temporary authorities for Schedule C and another on probationary employees and admininstrative leave. These are to be issued on January 20th.
@@ -1984,589 +1638,82 @@ Gavin Hamrick:
       type: report
       event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
 
-Kyle Schutt:
-  agencies:
-  - Cybersecurity and Infrastructure Security Agency
-  - Department of Government Efficiency
-  - Department of Homeland Security
-  - Federal Emergency Management Agency
-  - General Services Administration
-  - Health and Human Services
-  - US Citizenship & Immigration Services
-  - US Digital Service
-  events:
-  - agency: CISA
-    date: 2025-02-19
-    event: Edward Coristine and Kyle Schutt are reportedly given access to CISA systems
-    named:
-    - Edward Coristine
-    - Kyle Schutt
-    source: https://www.wired.com/story/doge-cisa-coristine-cybersecurity/
-    type: report
-  - agency: GSA
-    date: 2025-03-04
-    event: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid as full-time GSA employees, but other staff are listed as volunteers for that agency
-    named:
-    - Kyle Schutt
-    - Nate Cavanaugh
-    - Edward Coristine
-    - Ethan Shaotran
-    - Luke Farritor
-    - Derek Geissler
-    - Nicole Hollander
-    source: https://www.wired.com/story/doge-government-salaries-elon-musk/
-    type: report
-  - agency: HHS
-    date: 2025-03-14
-    detailed_from: GSA
-    event: Kyle Schutt is detailed to the Administration for Children and Families (ACF) office at HHS from the GSA. He also is detailed to the USDS
-    named:
-    - Kyle Schutt
-    onboard_type: detailed
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: onboarded
-  - access_systems:
-    - DBIS
-    - ELIS
-    - CIS
-    access_type: unknown
-    agency: USCIS
-    date: 2025-03-14~
-    event: DHS CIO Antoine McCord requests that access be granted for DOGE to the USCIS Data Business Intelligence Services (aka, the Data Lake)
-    fuzz: Source only specifies access was granted in mid-March
-    named:
-    - Kyle Schutt
-    - Edward Coristine
-    source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
-    type: access_granted
-  - access_systems:
-    - UAC
-    access_type: read
-    agency: HHS
-    date: 2025-03-21
-    event: Kyle Schutt is granted read-only access to the Unaccompanied Alien Children (UAC) Portal
-    named:
-    - Kyle Schutt
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: access_granted
-  - agency: USCIS
-    date: 2025-03-28
-    event: USCIS CIO William McElhaney sends a message to DHS Deputy Secretary asking them to review access that was granted to DOGE staff
-    named:
-    - Kyle Schutt
-    - Edward Coristine
-    - Aram Moghaddassi
-    - Payton Rehling
-    source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
-    type: report
-  - agency: HHS
-    date: 2025-03-29
-    event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff who have worked at HHS
-    named:
-    - Edward Coristine
-    - Marko Elez
-    - Luke Farritor
-    - Amy Gleason
-    - Kyle Schutt
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: report
+  Joshua Hanley:
+    agencies:
+    - Department of Government Efficiency
+    - Executive Office of the President
+    - General Services Administration
+    - National Institute of Health
+    events:
+    - date: 2025-03-03
+      agency: NIH
+      type: report
+      event: Joshua Hanley's name appeared in PDF metadata for grant cancellations sent out by the NIH to two researchers working on LGBTQ+-related scientific work
+    - date: 2025-03-05
+      agency: DOGE
+      type: report
+      event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP), including 4 lawyers previously not listed
+    - date: 2025-03-26
+      agency: DOGE
+      type: report
+      event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
 
-Leland Dudek:
-  agencies:
-  - Social Security Administration
-  events:
-  - agency: SSA
-    date: 2025-01-30
-    event: Leland Dudek reaches out to Tiffany Flick, the Associate Director of Budget, Facilities and Security to inform her two DOGE staff would be onboarding. He was a mid-level employee at the time.
-    named:
-    - Leland Dudek
-    - Mike Russo
-    - Scott Coulter
-    source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-    type: report
-  - agency: SSA
-    date: 2025-02-10
-    event: CIO Mike Russo convenes his own internal informational group in SSA, has conversations with other agencies about data sharing, does not inform acting SSA Director, Michelle King
-    named:
-    - Leland Dudek
-    - Mike Russo
-    source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-    type: report
-  - agency: SSA
-    date: 2025-02-14
-    event: Leland Dudek is placed on administrative leave while under investigation that he committed inappropriate actions to help DOGE
-    named:
-    - Leland Dudek
-    source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-    type: report
-  - agency: SSA
-    date: 2025-02-16
-    event: The acting director of the Social Security Administration, Michelle King, receives an email from the White House that Dudek is now the Acting Commissioner.
-    named:
-    - Leland Dudek
-    source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-    type: disruption
-  - agency: SSA
-    date: 2025-02-20
-    event: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
-    named:
-    - Leland Dudek
-    - Ethan Shaotran
-    - Nikhil Rajpal
-    - Cole Killian
-    - Marko Elez
-    source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
-    type: report
-  - agency: SSA
-    date: 2025-03-01
-    event: In an email to staff, Dudek explains the disruptions by saying "elections have consequences"
-    named:
-    - Leland Dudek
-    source: https://www.propublica.org/article/recording-reveals-leland-dudek-thoughts-trump-doge-social-security
-    type: report
-  - agency: SSA
-    date: 2025-03-04
-    event: In a meeting, Dudek stresses again that DOGE will make mistakes and also admits "I am receiving decisions that are made without my input. I have to effectuate those decisions," suggesting DOGE is in charge.
-    named:
-    - Leland Dudek
-    source: https://www.washingtonpost.com/politics/2025/03/06/doge-is-driving-social-security-cuts-will-make-mistakes-acting-head-says-privately/
-    type: report
-  - agency: SSA
-    date: 2025-03-20
-    event: Leland Dudek threatens to shut down the entire Social Security Administration instead of complying with the order
-    named:
-    - Leland Dudek
-    source: https://www.washingtonpost.com/politics/2025/03/21/social-security-benefits-trump-doge/
-    type: report
-  - agency: SSA
-    date: 2025-03-26
-    event: During his confirmation hearing, Frank Bisignano, the nominee to run the agency, confirms that he had coordinated with Michael Russo but denied a whistleblower report that he had ordered the appointment of DOGE staff there
-    named:
-    - Leland Dudek
-    - Mike Russo
-    source: https://thehill.com/homenews/5212751-sen-wyden-questions-bisignano/
-    type: report
-  - agency: SSA
-    date: 2025-03-27
-    event: In a sworn declaration, Leland Dudek justifies access to PII in SSA records for Employee 1, Employee 5, Employee 8 and Employee 9 on the DOGE team. This access is through the SSA's Enterprise Data Warehouse (EDW) system. He claims DOGE staff are being granted only the minimum levels of schema access required.
-    named:
-    - Leland Dudek
-    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.62.1.pdf
-    type: report
+  Antonio Gracias:
+    agencies:
+    - Department of Government Efficiency
+    - Social Security Administration
+    events:
+    - date: 2025-03-13
+      agency: SSA
+      type: report
+      event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    - date: 2025-03-30
+      agency: SSA
+      type: report
+      event: At a town hall event in Wisconsin, Elon Musk and Antonio Gracias claim to have found fraud in the number of immigrants being granted social security numbers
+    - date: 2025-04-02
+      agency: SSA
+      type: report
+      event: In an interview on Fox, Antonio Gracias makes misleading claims that DOGE had discovered widespread voting fraud through joining social security data and state voter rolls
 
-Luke Farritor:
-  agencies:
-  - Centers for Disease Control and Prevention
-  - Centers for Medicare and Medicaid Services
-  - Consumer Financial Protection Bureau
-  - Department of Education
-  - Department of Energy
-  - Department of Government Efficiency
-  - General Services Administration
-  - Health and Human Services
-  - National Institute of Health
-  - Social Security Administration
-  - State Department
-  - US Agency for International Development
-  - US Digital Service
-  events:
-  - agency: DOGE
-    date: 2024-12-05
-    event: Luke Farritor posts a recruitment message for DOGE in a Discord server for SpaceX interns looking for volunteers to work at DOGE for 6 months
-    named:
-    - Luke Farritor
-    source: https://www.wired.com/story/elon-musk-doge-recruiting-palantir/
-    type: report
-  - agency: GSA
-    date: 2025-01-20~
-    event: Luke Farritor starts work at the GSA (approximate)
-    fuzz: No details provided for Luke Farritor's start date, but he is detailed from the GSA to HHS on 2025-01-21
-    named:
-    - Luke Farritor
-    onboard_type: hired
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: onboarded
-  - agency: HHS
-    date: 2025-01-21
-    detailed_from: GSA
-    event: Luke Farritor is detailed from the GSA to Health and Human Services
-    named:
-    - Luke Farritor
-    onboard_type: detailed
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: onboarded
-  - access_systems:
-    - PMS
-    access_type: admin
-    agency: HHS
-    date: 2025-01-22
-    event: Luke Farritor is granted full admin access to the Payment Management System (PMS)
-    named:
-    - Luke Farritor
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: access_granted
-  - access_systems:
-    - GrantSolutions
-    access_type: read
-    agency: HHS
-    date: 2025-01-27
-    event: Luke Farritor is granted read-only access to the GrantSolutions by the Director, Security and Data Project Management Office, HHS Office of Grants
-    named:
-    - Luke Farritor
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: access_granted
-  - agency: USAID
-    date: 2025-01-27
-    event: A DOGE official first arrives at USAID. Later, senior staff are summoned to a meeting with Gavin Kliger and Luke Farritor.
-    named:
-    - Gavin Kliger
-    - Luke Farritor
-    source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
-    type: report
-  - access_systems:
-    - HCAS
-    access_type: admin
-    agency: HHS
-    date: 2025-01-29
-    event: Luke Farritor is granted full-admin access to the HHS Consolidated Acquisition System (HCAS) by the Executive Director, Strategic Programs and Business Systems at the Office of the Assistant Secretary for Financial Resources (ASFR)
-    named:
-    - Luke Farritor
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: access_granted
-  - access_systems:
-    - ICE
-    access_type: read
-    agency: CDC
-    date: 2025-01-30
-    event: Luke Farritor is granted read-only access to the Integrated Contracts Expert (ICE) system at CDC by the Office of the CIO
-    named:
-    - Luke Farritor
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: access_granted
-  - agency: GSA
-    date: 2025-01-30
-    event: Elon Musk reportedly visits GSA to meet with staff, several of whom are identified from appearances in the internal directory
-    named:
-    - Elon Musk
-    - Steve Davis
-    - Nicole Hollander
-    - Thomas Shedd
-    - Stephen Ehikian
-    - Luke Farritor
-    source: https://www.nextgov.com/people/2025/01/musk-visits-and-asserts-growing-influence-gsa/402628/
-    type: report
-  - agency: USAID
-    date: 2025-01-30
-    event: Farritor and Kliger demanded that all senior managers at USAID be stripped of their power to authorize payments - and that they alone become the authorizers.
-    named:
-    - Luke Farritor
-    - Gavin Kliger
-    source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
-    type: disruption
-  - access_systems:
-    - HIGLAS
-    access_type: read
-    agency: CMS
-    date: 2025-01-31
-    event: Luke Farritor is granted read-only access to the Healthcare Integrated General Ledger Accounting System (HIGLAS) by the CIO, CMS Office of Information Technology
-    named:
-    - Luke Farritor
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: access_granted
-  - agency: GSA
-    date: 2025-02-02
-    event: Wired Magazine identifies several DOGE staffers with GSA email addresses and A-Suite Level clearances granting them access to all physical spaces and IT systems
-    named:
-    - Akash Bobba
-    - Edward Coristine
-    - Luke Farritor
-    - Ethan Shaotran
-    source: https://www.wired.com/story/elon-musk-government-young-engineers/
-    type: report
-  - access_systems:
-    - Office-Energy
-    access_type: admin
-    agency: Energy
-    date: 2025-02-05
-    event: Luke Farritor was granted access to the Energy Department's IT system on Wednesday by Energy Secretary Chris Wright over objections from agency security staff
-    named:
-    - Luke Farritor
-    source: https://www.cnn.com/2025/02/06/climate/doge-energy-department-trump/index.html
-    type: access_granted
-  - access_systems:
-    - PRISM
-    - webTA
-    - DataInsight
-    - USAStaffing
-    - IPP
-    - OBI
-    - oneArc
-    - G-Invoicing
-    - Concur
-    access_type: read
-    agency: CFPB
-    date: 2025-02-07
-    event: Jordan Wick, Nikhil Rajpal and Luke Farritor are granted read-only access to the Procurement Request Information System Management (PRISM), webTA, Data Insight, USAStaffing, Invoice Processing Platform (IPP), Oracle Business Intelligence (OBI), oneARC, G-Invoicing, and Concur
-    named:
-    - Jordan Wick
-    - Nikhil Rajpal
-    - Luke Farritor
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: access_granted
-  - access_systems:
-    - HRConnect
-    access_type: admin
-    agency: CFPB
-    date: 2025-02-07
-    event: Jordan Wick, Nikhil Rajpal and Luke Farritor are granted full admin access to the HRConnect system
-    named:
-    - Jordan Wick
-    - Nikhil Rajpal
-    - Luke Farritor
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: access_granted
-  - access_systems:
-    - Entra-CFPB
-    access_type: admin
-    agency: CFPB
-    date: 2025-02-07
-    event: Nikhil Rajpal and Luke Farritor are granted full admin access to the Microsoft Entra system
-    named:
-    - Nikhil Rajpal
-    - Luke Farritor
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: access_granted
-  - agency: USAID
-    date: 2025-02-09
-    event: Gavin Kliger and Luke Farritor completely remove all access to the payments system for all other USAID staff
-    named:
-    - Gavin Kliger
-    - Luke Farritor
-    source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
-    type: disruption
-  - agency: State
-    date: 2025-02-10
-    event: Edward Coristine and Luke Farritor are posted to the State Department's Bureau of Diplomatic Technology
-    named:
-    - Edward Coristine
-    - Luke Farritor
-    source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
-    type: report
-  - access_systems:
-    - IDR
-    access_type: read
-    agency: CMS
-    date: 2025-02-18
-    event: Luke Farritor is granted read-only access to Integrated Data Repository (IDR) at CMS on February 18, 2025, by the CIO, CMS Office of Information Technology;
-    named:
-    - Luke Farritor
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: access_granted
-  - access_systems:
-    - APEX
-    access_type: read
-    agency: CDC
-    date: 2025-02-24
-    event: Luke Farritor is granted read-only access to the Acquisition Performance and Execution (APEX) system at CDC by the Office of the CIO
-    named:
-    - Luke Farritor
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: access_granted
-  - agency: NIH
-    date: 2025-02-24
-    event: Four DOGE staffers have email addresses linked to NIH
-    named:
-    - Luke Farritor
-    - Rachel Riley
-    - Jeremy Lewin
-    - Clark Minor
-    source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
-    type: report
-  - access_systems:
-    - NBS
-    access_type: admin
-    agency: NIH
-    date: 2025-02-24
-    event: Three DOGE staffers are placed within the NIH Business System Department for access to NIH's central electronic business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
-    named:
-    - Luke Farritor
-    - Rachel Riley
-    - Clark Minor
-    source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
-    type: access_granted
-  - access_systems:
-    - EHCM
-    access_type: admin
-    agency: HHS
-    date: 2025-02-28
-    event: Luke Farritor is granted full admin access to the Enterprise Human Capital Management System (EHCM) by the Human Resources Information System Security Officer
-    named:
-    - Luke Farritor
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: access_granted
-  - access_systems:
-    - NBS
-    - PRISM
-    access_type: read
-    agency: NIH
-    date: 2025-02-28
-    event: Luke Farritor is granted read-only access to NIH Business System EBS and PRISM systems by NIH's office of the CIO
-    named:
-    - Luke Farritor
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: access_granted
-  - access_systems:
-    - Entra-CFPB
-    - PRISM
-    - webTA
-    - DataInsight
-    - USAStaffing
-    - IPP
-    - OBI
-    - oneArc
-    - G-Invoicing
-    - Concur
-    agency: CFPB
-    date: 2025-03-04
-    event: Luke Farritor has his access revoked to all systems as part of offboarding
-    named:
-    - Luke Farritor
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: access_revoked
-  - agency: CFPB
-    date: 2025-03-04
-    event: Luke Farritor is no longer detailed to the CFPB and is offboarded
-    named:
-    - Luke Farritor
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: offboarded
-  - agency: GSA
-    date: 2025-03-04
-    event: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid as full-time GSA employees, but other staff are listed as volunteers for that agency
-    named:
-    - Kyle Schutt
-    - Nate Cavanaugh
-    - Edward Coristine
-    - Ethan Shaotran
-    - Luke Farritor
-    - Derek Geissler
-    - Nicole Hollander
-    source: https://www.wired.com/story/doge-government-salaries-elon-musk/
-    type: report
-  - agency: DOGE
-    date: 2025-03-05
-    event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP), including 4 lawyers previously not listed
-    named:
-    - Steve Davis
-    - Marko Elez
-    - Luke Farritor
-    - Edward Coristine
-    - Justin Aimonetti
-    - Ashley Boizelle
-    - Joshua Fox
-    - Joshua Hanley
-    source: https://theintercept.com/2025/03/05/leaked-list-musk-doge-lawyers/
-    type: report
-  - agency: HHS
-    date: 2025-03-13
-    event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
-    named:
-    - Edward Coristine
-    - Marko Elez
-    - Luke Farritor
-    - Aram Moghaddassi
-    - Rachel Riley
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
-    type: report
-  - agency: SSA
-    date: 2025-03-13
-    event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
-    named:
-    - Akash Bobba
-    - Scott Coulter
-    - Marko Elez
-    - Luke Farritor
-    - Antonio Gracias
-    - Cole Killian
-    - Jon Koval
-    - Nikhil Rajpal
-    - Payton Rehling
-    - Ethan Shaotran
-    source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
-    type: report
-  - access_systems:
-    - Grants.gov
-    access_type: read
-    agency: HHS
-    date: 2025-03-21
-    event: Luke Farritor is granted admin read-write access to Grants.gov by the Assistant Secretary for Financial Resources (ASFR)
-    named:
-    - Luke Farritor
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: access_granted
-  - agency: CMS
-    date: 2025-03-29
-    event: In a legal filing, the DOJ identifies 4 DOGE staffers - Edward Coristine, Marko Elez, Luke Farritor and Amy Gleason - at CMS
-    named:
-    - Edward Coristine
-    - Marko Elez
-    - Luke Farritor
-    - Amy Gleason
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: report
-  - agency: HHS
-    date: 2025-03-29
-    event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff who have worked at HHS
-    named:
-    - Edward Coristine
-    - Marko Elez
-    - Luke Farritor
-    - Amy Gleason
-    - Kyle Schutt
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: report
+  Jon Koval:
+    agencies:
+    - Department of Government Efficiency
+    - Social Security Administration
+    - Veterans Administration
+    events:
+    - date: 2025-03-13
+      agency: SSA
+      type: report
+      event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    - date: 2025-03-25
+      agency: VA
+      type: report
+      event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements for government services are.
 
-Marc Andreessen:
-  agencies:
-  - Department of Government Efficiency
-  events:
-  - agency: DOGE
-    date: 2024-12-06
-    event: A report on the tech billionaires steering Trump's transition mentions Musk and other DOGE staff, and how they have been interviewing people at Mar-a-Lago
-    named:
-    - Elon Musk
-    - Marc Andreessen
-    - Jared Birchall
-    - Shaun Maguire
-    - Scott Kupor
-    - Michael Kratsios
-    - Steve Davis
-    - Baris Akis
-    source: https://www.nytimes.com/2024/12/06/us/politics/trump-elon-musk-silicon-valley.html
-    type: report
-  - agency: DOGE
-    date: 2025-01-16
-    event: A report on conservative nonprofit groups doing research for DOGE notes that interviews are being conducted by Marc Andreessen and Shaun Maguire
-    named:
-    - Marc Andreessen
-    - Shaun Maguire
-    source: https://www.washingtonexaminer.com/news/investigations/3287555/maga-conservative-non-profits-doge-research/
-    type: report
-  - agency: DOGE
-    date: 2025-01-24
-    event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
-    named:
-    - Katie Miller
-    - Brad Smith
-    - Steve Davis
-    - Marc Andreessen
-    - Shaun Maguire
-    - Rachel Riley
-    - Joanna Wischer
-    - Baris Akis
-    - James Burnham
-    source: https://www.yahoo.com/news/doge-just-got-hire-224212262.html
-    type: report
+  Payton Rehling:
+    agencies:
+    - Department of Government Efficiency
+    - Social Security Administration
+    - US Citizenship & Immigration Services
+    - Veterans Administration
+    events:
+    - date: 2025-03-13
+      agency: SSA
+      type: report
+      event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
+    - date: 2025-03-25
+      agency: USCIS
+      type: access_granted
+      event: Antoine McCord requests that access be granted for Peyton Rehling to the USCIS Data Business Intelligence Services (aka, the Data Lake)
+    - date: 2025-03-25
+      agency: VA
+      type: report
+      event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements for government services are.
+    - date: 2025-03-28
+      agency: USCIS
+      type: report
+      event: USCIS CIO William McElhaney sends a message to DHS Deputy Secretary asking them to review access that was granted to DOGE staff
 
   Scott Coulter:
     agencies:
@@ -2661,6 +1808,10 @@ Marc Andreessen:
     agencies:
     - General Services Administration
     events:
+    - date: 2025-01-20~
+      agency: GSA
+      type: onboarded
+      event: Multiple DOGE staff are onboarded at the GSA and given elevated A-suite access
     - date: 2025-01-29
       agency: GSA
       type: report
@@ -2738,496 +1889,216 @@ Marc Andreessen:
       type: report
       event: Michael Grimes conducts DOGE-style interviews with each member of the staff in the Chips Program Office
 
-Mike Russo:
-  agencies:
-  - Department of Government Efficiency
-  - Social Security Administration
-  events:
-  - agency: SSA
-    date: 2025-01-30
-    event: Leland Dudek reaches out to Tiffany Flick, the Associate Director of Budget, Facilities and Security to inform her two DOGE staff would be onboarding. He was a mid-level employee at the time.
-    named:
-    - Leland Dudek
-    - Mike Russo
-    - Scott Coulter
-    source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-    type: report
-  - agency: SSA
-    date: 2025-01-31
-    event: Mike Russo begins onboarding as new CIO, introduces himself as a DOGE representative to staff
-    named:
-    - Mike Russo
-    onboard_type: appointed
-    source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-    type: onboarded
-  - agency: SSA
-    date: 2025-02-03
-    event: Mike Russo officially joins the agency as its new CIO, requests Akash Bobba to join the agency (but he has issues with his background check)
-    named:
-    - Mike Russo
-    - Akash Bobba
-    source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-    type: report
-  - agency: SSA
-    date: 2025-02-10
-    event: Mike Russo, DOGE chief of staff Steve Davis both demand that Akash Bobba be onboarded before midnight.
-    named:
-    - Mike Russo
-    - Steve Davis
-    - Akash Bobba
-    source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-    type: report
-  - agency: SSA
-    date: 2025-02-10
-    event: CIO Mike Russo convenes his own internal informational group in SSA, has conversations with other agencies about data sharing, does not inform acting SSA Director, Michelle King
-    named:
-    - Leland Dudek
-    - Mike Russo
-    source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-    type: report
-  - access_systems:
-    - SSA-EDW
-    - MBR
-    - SSR
-    access_type: admin
-    agency: SSA
-    date: 2025-02-15
-    event: Akash Bobba reports issue with the "sandbox" data. Russo demands he gets immediate full access to Enterprise Data Warehouse (EDW), Master Beneficiary Record (MBR) and Supplemental Security Record (SSR) files as well as source code
-    named:
-    - Mike Russo
-    - Akash Bobba
-    source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
-    type: access_granted
-  - agency: SSA
-    date: 2025-03-25
-    event: Scott Coulter is named the new CIO at the Social Security Administration and Mike Russo is moved to a Senior Advisor role with a focus on modernizing systems
-    named:
-    - Scott Coulter
-    - Mike Russo
-    onboard_type: appointed
-    source: https://www.nextgov.com/people/2025/03/ssa-tech-shop-be-led-another-doge-associate/404031/?oref=ng-homepage-river
-    type: onboarded
-  - agency: SSA
-    date: 2025-03-26
-    event: During his confirmation hearing, Frank Bisignano, the nominee to run the agency, confirms that he had coordinated with Michael Russo but denied a whistleblower report that he had ordered the appointment of DOGE staff there
-    named:
-    - Leland Dudek
-    - Mike Russo
-    source: https://thehill.com/homenews/5212751-sen-wyden-questions-bisignano/
-    type: report
+  Scott Kupor:
+    agencies:
+    - Department of Government Efficiency
+    - Office of Personnel Management
+    events:
+    - date: 2024-12-06
+      agency: DOGE
+      type: report
+      event: A report on the tech billionaires steering Trump's transition mentions Musk and other DOGE staff, and how they have been interviewing people at Mar-a-Lago
+    - date: 2025-04-03
+      agency: OPM
+      type: report
+      event: Scott Kupor, the nominee to lead OPM, assured senators that he believes strong in data privacy and respecting the humanity and dignity of the workforce
 
-Miles Collins:
-  agencies:
-  - Department of Labor
-  events:
-  - agency: DOL
-    date: 2025-03-05
-    event: Business Insider reports Marko Elez, Aram Moghaddassi, and Miles B. Collins are new DOGE arrivals at Department of Labor
-    named:
-    - Marko Elez
-    - Aram Moghaddassi
-    - Miles Collins
-    source: https://www.businessinsider.com/doge-staffer-fertility-clinic-pronatalist-department-of-labor
-    type: report
+  Thomas Shedd:
+    agencies:
+    - Department of Government Efficiency
+    - Department of Labor
+    - General Services Administration
+    events:
+    - date: 2025-01-24
+      agency: GSA
+      type: onboarded
+      event: Thomas Shedd, a 28-year-old with 8 years of experience working for Tesla, is named the head of GSA's Technology Transformation Service (TTS), the parent of 18F, login.gov and FedRAMP among others.
+    - date: 2025-01-30
+      agency: GSA
+      type: report
+      event: Elon Musk reportedly visits GSA to meet with staff, several of whom are identified from appearances in the internal directory
+    - date: 2025-01-31
+      agency: GSA
+      type: report
+      event: Wired reports that DOGE staff are attempting to get elevated access to GSA systems and making changes to office arrangements
+    - date: 2025-02-10
+      agency: GSA
+      type: report
+      event: Unnamed DOGE staff using non-government accounts conduct dozens of "touch-base" interviews with dozens of US Digital Corps fellows, under the direction of Thomas Shedd
+    - date: 2025-02-18
+      agency: GSA
+      type: disruption
+      event: A GSA employee resigned rather than give unrestricted admin access of Notify.gov to Thomas Shedd
+    - date: 2025-02-19
+      agency: GSA
+      type: report
+      event: Thomas Shedd has allegedly requested admin access to 19 different systems within TTS at GSA
+    - date: 2025-03-01
+      agency: GSA
+      type: disruption
+      event: TTS administrator Thomas Shedd eliminates 90 members of 18F with a 1am firing email and locks them out of their machines
+    - date: 2025-03-06
+      agency: GSA
+      type: report
+      event: Thomas Shedd says in a statement that he expects TTS will be 50% smaller within weeks
+    - date: 2025-03-14
+      agency: DOL
+      type: onboarded
+      event: Thomas Shedd starts working at the CIO at Department of Labor while also serving as the TTS Commissioner at GSA (experts are unclear if this is legal)
 
-Nate Cavanaugh:
-  agencies:
-  - General Services Administration
-  - Institute for Museum and Library Services
-  - U.S. African Development Foundation
-  - US Institute of Peace
-  events:
-  - agency: USADF
-    case_no: 1:25-cv-00660
-    date: 2025-02-21
-    event: Ethan Shaotran, Jacob Altik, and Nate Cavanaugh arrive at the agency and demand that a MOU must be signed for their detail assignment
-    named:
-    - Ethan Shaotran
-    - Jacob Altik
-    - Nate Cavanaugh
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
-    type: report
-  - agency: USADF
-    case_no: 1:25-cv-00660
-    date: 2025-02-21
-    event: Once MOU is signed, DOGE staff reveal their real purpose is to conduct a massive reduction in agency staff and scope and demand to file a RIF plan by 2/24
-    named:
-    - Ethan Shaotran
-    - Jacob Altik
-    - Nate Cavanaugh
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
-    type: report
-  - agency: USADF
-    case_no: 1:25-cv-00660
-    date: 2025-02-21
-    event: Nate Canaugh and Jacob Altik then demanded immediate access to USADF systems including financial records and payment and human resources systems. They were told they had to go through standard clearance process.
-    named:
-    - Jacob Altik
-    - Nate Cavanaugh
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
-    type: report
-  - agency: USIP
-    date: 2025-02-24
-    event: USIP leadership meets with DOGE staff to explain history and legal status of the agency
-    named:
-    - James Burnham
-    - Jacob Altik
-    - Nate Cavanaugh
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
-    type: report
-  - agency: USIP
-    date: 2025-02-24
-    event: DOGE counters their belief that minimum statutory size of agency is "a Board of Directors and a president, reports to Congress and the Executive branch, and expenses incident to the Board of Directors" and says they will regroup
-    named:
-    - James Burnham
-    - Jacob Altik
-    - Nate Cavanaugh
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
-    type: report
-  - agency: GSA
-    date: 2025-03-04
-    event: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid as full-time GSA employees, but other staff are listed as volunteers for that agency
-    named:
-    - Kyle Schutt
-    - Nate Cavanaugh
-    - Edward Coristine
-    - Ethan Shaotran
-    - Luke Farritor
-    - Derek Geissler
-    - Nicole Hollander
-    source: https://www.wired.com/story/doge-government-salaries-elon-musk/
-    type: report
-  - agency: USADF
-    case_no: 1:25-cv-00660
-    date: 2025-03-04
-    event: USADF CFO Mathieu Zahui receives an email from Nate Cavanaugh informing him that Peter Marocco would be coming to the office the following day as Chairman of the Board
-    named:
-    - Nate Cavanaugh
-    - Peter Marocco
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.2.pdf
-    type: report
-  - agency: USADF
-    case_no: 1:25-cv-00660
-    date: 2025-03-05
-    event: Nate Cavanaugh sends Ward Brehm an email demanding to know by what authority he is the President/CFO of USADF
-    named:
-    - Nate Cavanaugh
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.2.pdf
-    type: report
-  - agency: USADF
-    date: 2025-03-06
-    event: DOGE staff Jacob Altik and Ethan Shaotran return joined by Nate Cavanaugh with US marshals to force entry to the agency
-    named:
-    - Jacob Altik
-    - Ethan Shaotran
-    - Nate Cavanaugh
-    source: https://www.thedailybeast.com/elon-musks-doge-goons-in-tense-standoff-video-unmasked/
-    type: report
-  - agency: USIP
-    date: 2025-03-14
-    event: DOGE members Kenneth Jackson, Jacob Altik and Nate Cavanaugh show up at USIP building with 2 other people claiming to be FBI agents and are refused entry. They attempted to present a document firing the USIP president.
-    named:
-    - Kenneth Jackson
-    - Jacob Altik
-    - Nate Cavanaugh
-    source: https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/
-    type: disruption
-  - agency: USIP
-    date: 2025-03-17
-    event: DOGE members Kenneth Jackson, Jacob Altik and Nate Cavanaugh remove staff and president of the USIP with the help of Office of the U.S. Attorney for the District of Columbia, the FBI and D.C. police
-    named:
-    - Kenneth Jackson
-    - Jacob Altik
-    - Nate Cavanaugh
-    source: https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/
-    type: disruption
-  - agency: USIP
-    case_no: 1:25-cv-00804
-    date: 2025-03-25
-    event: Nate Cavanaugh is named the new President of USIP by the two remaining members of the board, Marco Rubio and Pete Hegseth, and he is authorized to transfer all assets to the GSA
-    named:
-    - Nate Cavanaugh
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.14.1.pdf
-    type: promotion
-  - agency: USIP
-    case_no: 1:25-cv-00804
-    date: 2025-03-25
-    event: Nate Cavanaugh contacts the administrator of the GSA to propose transferring the USIP building to them, arguing that USIP won't need a building because the statute doesn't mandate it has one or staffing
-    named:
-    - Nate Cavanaugh
-    - Stephen Ehikian
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.15.3.pdf
-    type: report
-  - agency: IMLS
-    date: 2025-03-31
-    event: DOGE arrives at the agency and notifies the entire staff of IMLS that they are being put on administrative leave effective immediately
-    named:
-    - Nate Cavanaugh
-    - Gavin Hamrick
-    source: https://bsky.app/profile/marisakabas.bsky.social
-    type: disruption
+  Leland Dudek:
+    agencies:
+    - Department of Homeland Security
+    - Immigration and Customs Enforcement
+    - Internal Revenue Service
+    - Social Security Administration
+    events:
+    - date: 2025-01-30
+      agency: SSA
+      type: report
+      event: Leland Dudek reaches out to Tiffany Flick, the Associate Director of Budget, Facilities and Security to inform her two DOGE staff would be onboarding. He was a mid-level employee at the time.
+    - date: 2025-02-10
+      agency: SSA
+      type: report
+      event: CIO Mike Russo convenes his own internal informational group in SSA, has conversations with other agencies about data sharing, does not inform acting SSA Director, Michelle King
+    - date: 2025-02-14
+      agency: SSA
+      type: report
+      event: Leland Dudek is placed on administrative leave while under investigation that he committed inappropriate actions to help DOGE
+    - date: 2025-02-16
+      agency: SSA
+      type: disruption
+      event: The acting director of the Social Security Administration, Michelle King, receives an email from the White House that Dudek is now the Acting Commissioner.
+    - date: 2025-02-19
+      agency: SSA
+      type: official
+      event: SSA CIO Mike Russo emails Leland Dudek to grant access to EDW for several "members of [his] team"
+    - date: 2025-02-20
+      agency: SSA
+      type: report
+      event: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
+    - date: 2025-02-28
+      agency: SSA
+      type: official
+      event: Via email, "Employee 5" of the DOGE team at SSA requests and receives approval from Leland Dudek to run a program to identify unrealistically old people in the SSA database
+    - date: 2025-03-01
+      agency: SSA
+      type: report
+      event: In an email to staff, Dudek explains the disruptions by saying "elections have consequences"
+    - date: 2025-03-04
+      agency: SSA
+      type: report
+      event: In a meeting, Dudek stresses again that DOGE will make mistakes and also admits "I am receiving decisions that are made without my input. I have to effectuate those decisions," suggesting DOGE is in charge.
+    - date: 2025-03-20
+      agency: SSA
+      type: report
+      event: Leland Dudek threatens to shut down the entire Social Security Administration instead of complying with the order
+    - date: 2025-03-26
+      agency: SSA
+      type: report
+      event: During his confirmation hearing, Frank Bisignano, the nominee to run the agency, confirms that he had coordinated with Michael Russo but denied a whistleblower report that he had ordered the appointment of DOGE staff there
+    - date: 2025-03-27
+      agency: SSA
+      type: report
+      event: In a sworn declaration, Leland Dudek justifies access to PII in SSA records for Employee 1, Employee 5, Employee 8 and Employee 9 on the DOGE team. This access is through the SSA's Enterprise Data Warehouse (EDW) system. He claims DOGE staff are being granted only the minimum levels of schema access required.
+    - date: 2025-04-07
+      agency:
+      - IRS
+      - DHS
+      - ICE
+      type: report
+      event: After some qualms about its legality, Leland Dudek signs two memos authorizing sharing data that would allow DHS and ICE to locate immigrants
+    - date: 2025-04-07
+      agency:
+      - IRS
+      - DHS
+      - ICE
+      type: report
+      event: After some qualms about its legality, Leland Dudek signs two memos authorizing sharing data that would allow DHS and ICE to locate immigrants
+    - date: 2025-04-07
+      agency:
+      - IRS
+      - DHS
+      - ICE
+      type: report
+      event: After some qualms about its legality, Leland Dudek signs two memos authorizing sharing data that would allow DHS and ICE to locate immigrants
 
-Nicholas Lahera:
-  agencies:
-  - Department of Government Efficiency
-  events: []
+  Stephen Ehikian:
+    agencies:
+    - General Services Administration
+    - US Institute of Peace
+    events:
+    - date: 2025-01-20
+      agency: GSA
+      type: onboarded
+      event: Stephen Ehikian is sworn in as a Deputy Administrator of the real estate division and Acting Administrator of the GSA
+    - date: 2025-01-30
+      agency: GSA
+      type: report
+      event: Elon Musk reportedly visits GSA to meet with staff, several of whom are identified from appearances in the internal directory
+    - date: 2025-03-25
+      agency: USIP
+      type: report
+      event: Nate Cavanaugh contacts the administrator of the GSA to propose transferring the USIP building to them, arguing that USIP won't need a building because the statute doesn't mandate it has one or staffing
 
-Nicole Hollander:
-  agencies:
-  - General Services Administration
-  events:
-  - agency: GSA
-    date: 2025-01-20~
-    event: Multiple DOGE staff are onboarded at the GSA and given elevated A-suite access
-    fuzz: I don't have specific details, but extrapolating back from other reporting
-    named:
-    - Nicole Hollander
-    - Edward Coristine
-    - Ethan Shaotran
-    onboard_type: hired
-    source: https://www.wired.com/story/elon-musk-lackeys-general-services-administration/
-    type: onboarded
-  - agency: GSA
-    date: 2025-01-29
-    event: A team of high-ranking GSA employees meets to discuss building special "resting rooms" for DOGE and other A-suite staff
-    named:
-    - Nicole Hollander
-    source: https://www.wired.com/story/elon-musk-lackeys-general-services-administration/
-    type: report
-  - agency: GSA
-    date: 2025-01-30
-    event: Elon Musk reportedly visits GSA to meet with staff, several of whom are identified from appearances in the internal directory
-    named:
-    - Elon Musk
-    - Steve Davis
-    - Nicole Hollander
-    - Thomas Shedd
-    - Stephen Ehikian
-    - Luke Farritor
-    source: https://www.nextgov.com/people/2025/01/musk-visits-and-asserts-growing-influence-gsa/402628/
-    type: report
-  - agency: GSA
-    date: 2025-01-31
-    event: Wired reports that DOGE staff are attempting to get elevated access to GSA systems and making changes to office arrangements
-    named:
-    - Nicole Hollander
-    - Steve Davis
-    - Thomas Shedd
-    - Edward Coristine
-    - Ethan Shaotran
-    source: https://www.wired.com/story/elon-musk-lackeys-general-services-administration/
-    type: report
-  - agency: GSA
-    date: 2025-03-04
-    event: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid as full-time GSA employees, but other staff are listed as volunteers for that agency
-    named:
-    - Kyle Schutt
-    - Nate Cavanaugh
-    - Edward Coristine
-    - Ethan Shaotran
-    - Luke Farritor
-    - Derek Geissler
-    - Nicole Hollander
-    source: https://www.wired.com/story/doge-government-salaries-elon-musk/
-    type: report
+  Baris Akis:
+    agencies:
+    - Department of Government Efficiency
+    - Department of the Treasury
+    - Internal Revenue Service
+    - Office of Personnel Management
+    events:
+    - date: 2024-12-06
+      agency: DOGE
+      type: report
+      event: A report on the tech billionaires steering Trump's transition mentions Musk and other DOGE staff, and how they have been interviewing people at Mar-a-Lago
+    - date: 2025-01-24
+      agency: DOGE
+      type: report
+      event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
 
-Nikhil Rajpal:
-  agencies:
-  - Consumer Financial Protection Bureau
-  - Department of Government Efficiency
-  - National Oceanic and Atmospheric Administration
-  - Office of Personnel Management
-  - Social Security Administration
-  events:
-  - agency: DOGE
-    date: 2025-01-21
-    event: DOGE staff start screening all current USDS staff with short interviews, asking them their views of DOGE and who were underperformers who should be fired.
-    named:
-    - Cole Killian
-    - Nikhil Rajpal
-    source: https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/
-    type: report
-  - access_systems:
-    - Google-NOAA
-    access_type: read-write
-    agency: NOAA
-    date: 2025-02-05
-    event: NOAA employees were ordered to grant Rajpal editor access to all NOAA Google sites on instructions of the acting commerce secretary, Jeremy Pelter, by the close of business.
-    named:
-    - Nikhil Rajpal
-    source: https://www.wired.com/story/doge-engineer-noaa-data-google-musk-climate-project-2025/
-    type: access_granted
-  - agency: CFPB
-    date: 2025-02-06
-    event: DOGE staff enter CFPB facilities and are given equipment and onboarded
-    named:
-    - Nikhil Rajpal
-    - Gavin Kliger
-    - Chris Young
-    source: https://www.wired.com/story/doge-access-consumer-financial-protection-bureau-data/
-    type: report
-  - access_systems:
-    - PRISM
-    - webTA
-    - DataInsight
-    - USAStaffing
-    - IPP
-    - OBI
-    - oneArc
-    - G-Invoicing
-    - Concur
-    access_type: read
-    agency: CFPB
-    date: 2025-02-07
-    event: Jordan Wick, Nikhil Rajpal and Luke Farritor are granted read-only access to the Procurement Request Information System Management (PRISM), webTA, Data Insight, USAStaffing, Invoice Processing Platform (IPP), Oracle Business Intelligence (OBI), oneARC, G-Invoicing, and Concur
-    named:
-    - Jordan Wick
-    - Nikhil Rajpal
-    - Luke Farritor
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: access_granted
-  - access_systems:
-    - HRConnect
-    access_type: admin
-    agency: CFPB
-    date: 2025-02-07
-    event: Jordan Wick, Nikhil Rajpal and Luke Farritor are granted full admin access to the HRConnect system
-    named:
-    - Jordan Wick
-    - Nikhil Rajpal
-    - Luke Farritor
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: access_granted
-  - access_systems:
-    - Entra-CFPB
-    access_type: admin
-    agency: CFPB
-    date: 2025-02-07
-    event: Nikhil Rajpal and Luke Farritor are granted full admin access to the Microsoft Entra system
-    named:
-    - Nikhil Rajpal
-    - Luke Farritor
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: access_granted
-  - agency: SSA
-    date: 2025-02-20
-    event: Several DOGE staffers at the agency are identified by Social Security Works (a nonprofit advocacy group) as also working at SSA
-    named:
-    - Leland Dudek
-    - Ethan Shaotran
-    - Nikhil Rajpal
-    - Cole Killian
-    - Marko Elez
-    source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
-    type: report
-  - agency: SSA
-    date: 2025-03-13
-    event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias, Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft Teams directory at SSA
-    named:
-    - Akash Bobba
-    - Scott Coulter
-    - Marko Elez
-    - Luke Farritor
-    - Antonio Gracias
-    - Cole Killian
-    - Jon Koval
-    - Nikhil Rajpal
-    - Payton Rehling
-    - Ethan Shaotran
-    source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
-    type: report
-  - access_systems:
-    - Entra-CFPB
-    - PRISM
-    - webTA
-    - DataInsight
-    - USAStaffing
-    - IPP
-    - OBI
-    - oneArc
-    - G-Invoicing
-    - Concur
-    agency: CFPB
-    date: 2025-03-21
-    event: Nikhil Rajpal has his access revoked to all systems as part of offboarding
-    named:
-    - Nikhil Rajpal
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: access_revoked
-  - agency: CFPB
-    date: 2025-03-21
-    event: Nikhil Rajpal is no longer detailed to the CFPB
-    named:
-    - Nikhil Rajpal
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
-    type: offboarded
+  Cary Volpert:
+    agencies:
+    - Veterans Administration
+    events:
+    - date: 2025-03-25
+      agency: VA
+      type: report
+      event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements for government services are.
 
-Noah Peters:
-  agencies:
-  - Department of Government Efficiency
-  - Executive Office of the President
-  - Office of Personnel Management
-  events:
-  - agency: OPM
-    date: 2025-01-16~
-    event: Noah Peters recalls discussing the concept of using administrative leave to sideline federal employees with Keenan Kmiec before January 20th
-    fuzz: Date is approximate in deposition
-    named:
-    - Noah Peters
-    - Keenan Kmiec
-    source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
-    type: report
-  - agency: OPM
-    date: 2025-01-16~
-    event: Noah Peters receives a job offer to work at the OPM. He describes it as very general and vague.
-    fuzz: Date is approximate in deposition
-    named:
-    - Noah Peters
-    source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
-    type: report
-  - agency: OPM
-    date: 2025-01-16~
-    event: Noah Peters starts working on two memos around temporary authorities for Schedule C and another on probationary employees and admininstrative leave. These are to be issued on January 20th.
-    fuzz: Date is approximate in deposition
-    named:
-    - Noah Peters
-    source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
-    type: report
-  - agency: OPM
-    date: 2025-01-17
-    event: Several of the DOGE staff meet to plan for their first day at OPM. They are not federal employees at that time.
-    named:
-    - Noah Peters
-    - Amanda Scales
-    - Brian Bjelde
-    source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
-    type: report
-  - agency: OPM
-    date: 2025-01-20
-    event: Several DOGE leaders start work at the OPM immediately after the Inauguration
-    named:
-    - Noah Peters
-    - Amanda Scales
-    onboard_type: appointed
-    source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
-    type: onboarded
-  - agency: DOGE
-    date: 2025-03-26
-    event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
-    named:
-    - James Burnham
-    - Noah Peters
-    - Jacob Altik
-    - Justin Aimonetti
-    - Daniel Abrahamson
-    - Jeremy Lewin
-    - Ashley Boizelle
-    - Joshua Fox
-    - Joshua Hanley
-    - Keenan Kmiec
-    - Austin Raynor
-    source: https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2025/03/26/doge-assembles-a-legal-army-00251903
-    type: report
+  Sahil Lavingia:
+    agencies:
+    - Veterans Administration
+    events:
+    - date: 2025-03-25
+      agency: VA
+      type: report
+      event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements for government services are.
+
+  Christopher Roussos:
+    agencies:
+    - Veterans Administration
+    events:
+    - date: 2025-03-25
+      agency: VA
+      type: report
+      event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements for government services are.
+
+  Alexander Simonpour:
+    agencies:
+    - Department of Government Efficiency
+    - General Services Administration
+    - National Aeronautics and Space Administration
+    - US Postal Service
+    events:
+    - date: 2025-03-07
+      agency: USPS
+      type: onboarded
+      event: USPS signs an agreement to detail Alexander Simonpour from the GSA from March 7, 2025 to June 15, 2025
+    - date: 2025-03-14
+      agency: NASA
+      type: report
+      event: A Business Insider article reports that Alexander Simonpour has shown up at NASA and also has a GSA address. Riley Sennott and Scott Coulter also are listed
 
   Ashley Boizelle:
     agencies:
@@ -3326,7 +2197,7 @@ Noah Peters:
     - Executive Office of the President
     - Office of Personnel Management
     events:
-    - date: 2025-01-16
+    - date: 2025-01-16~
       agency: OPM
       type: report
       event: Noah Peters recalls discussing the concept of using administrative leave to sideline federal employees with Keenan Kmiec before January 20th

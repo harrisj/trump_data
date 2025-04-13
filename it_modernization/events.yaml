@@ -80,6 +80,16 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf#page=13
   agency: Treasury
 
+- date: 2025-01-16~
+  type: report
+  event: Noah Peters recalls discussing the concept of using administrative leave to sideline federal employees with Keenan Kmiec before January 20th
+  fuzz: Date is approximate in deposition
+  named:
+  - Noah Peters
+  - Keenan Kmiec
+  source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
+  agency: OPM
+
 - date: 2025-01-16
   type: report
   event: A report on conservative nonprofit groups doing research for DOGE notes that interviews are being conducted by Marc Andreessen and Shaun Maguire
@@ -89,29 +99,19 @@ events:
   source: https://www.washingtonexaminer.com/news/investigations/3287555/maga-conservative-non-profits-doge-research/
   agency: DOGE
 
-- date: 2025-01-16
+- date: 2025-01-16~
   type: report
   event: Noah Peters receives a job offer to work at the OPM. He describes it as very general and vague.
-  comment: Date is approximate
+  fuzz: Date is approximate in deposition
   named:
   - Noah Peters
   source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
   agency: OPM
 
-- date: 2025-01-16
-  type: report
-  event: Noah Peters recalls discussing the concept of using administrative leave to sideline federal employees with Keenan Kmiec before January 20th
-  comment: Date is approximate
-  named:
-  - Noah Peters
-  - Keenan Kmiec
-  source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
-  agency: OPM
-
-- date: 2025-01-16
+- date: 2025-01-16~
   type: report
   event: Noah Peters starts working on two memos around temporary authorities for Schedule C and another on probationary employees and admininstrative leave. These are to be issued on January 20th.
-  comment: Date is approximate
+  fuzz: Date is approximate in deposition
   named:
   - Noah Peters
   source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
@@ -199,6 +199,28 @@ events:
   event: The DOGE team moves into OPM, installing sofa beds and armed security
   source: https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/
   agency: OPM
+
+- date: 2025-01-20~
+  type: onboarded
+  onboard_type: hired
+  event: Luke Farritor starts work at the GSA (approximate)
+  fuzz: No details provided for Luke Farritor's start date, but he is detailed from the GSA to HHS on 2025-01-21
+  named:
+  - Luke Farritor
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  agency: GSA
+
+- date: 2025-01-20~
+  type: onboarded
+  onboard_type: hired
+  event: Multiple DOGE staff are onboarded at the GSA and given elevated A-suite access
+  fuzz: I don't have specific details, but extrapolating back from other reporting
+  agency: GSA
+  named:
+  - Nicole Hollander
+  - Edward Coristine
+  - Ethan Shaotran
+  source: https://www.wired.com/story/elon-musk-lackeys-general-services-administration/
 
 - date: 2025-01-20
   type: onboarded
@@ -3768,10 +3790,10 @@ events:
     - SSA
     - DOGE
 
-- date: 2025-03-15
+- date: 2025-03-14~
   type: access_granted
   event: DHS CIO Antoine McCord requests that access be granted for DOGE to the USCIS Data Business Intelligence Services (aka, the Data Lake)
-  comment: Date is approximate
+  fuzz: Source only specifies access was granted in mid-March
   access_type: unknown
   access_systems:
   - DBIS
