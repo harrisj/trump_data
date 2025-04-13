@@ -1,0 +1,15 @@
+{
+    "type": "object",
+    "properties": {
+        "meta": {
+            "$ref": "generated-metadata.json"
+        },
+        "events": {
+            "type": "array",
+            "items": {
+                "$ref": "alias.json"
+            }
+        }
+    },
+    "required": ["aliases", "meta"]
+}

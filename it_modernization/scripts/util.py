@@ -90,6 +90,6 @@ def dump_generated_file(meta, data, path, schema=None):
         if schema is not None:
             file.write(f"# yaml-language-server: $schema={schema}\n")
 
-        file.write(yaml.dump({"meta": meta}, indent=2, width=1000, sort_keys=False))
+        file.write(yaml.dump({"meta": meta}, indent=2, width=120, sort_keys=False))
         file.write("\n")
-        file.write(yaml.dump(data, Dumper=create_dumper(2), indent=2, width=1000, sort_keys=False))            
+        file.write(yaml.dump(data, Dumper=create_dumper(2), indent=2, width=120, sort_keys=False))            
