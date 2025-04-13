@@ -18,7 +18,7 @@
   reimbursed: true
   reimbursement_amount: "$71,000 per quarter"
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
-  file: 20250317-dol-ssa-employee-7.pdf
+  file: mou-20250317-dol-ssa-employee-7.pdf
 
 - id: 20250306-nasa-ssa-employee-2
   from: NASA
@@ -32,7 +32,7 @@
   - SSA-2
   reimbursement_amount: "Up to $120,579"
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
-  file: 20250306-nasa-ssa-employee-2.pdf
+  file: mou-20250306-nasa-ssa-employee-2.pdf
 
 - id: 20250226-opm-ssa-employee-8
   from: OPM
@@ -46,7 +46,7 @@
   - SSA-8
   comment: "For a SGE, so no payment needed"
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
-  file: 20250226-opm-ssa-employee-8.pdf
+  file: mou-20250226-opm-ssa-employee-8.pdf
 
 - id: 20250218-gsa-ssa-employee-10
   from: GSA
@@ -59,7 +59,7 @@
   - SSA-10
   comment: "For a SGE, so no payment needed"
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
-  file: 20250218-gsa-ssa-employee-10.pdf
+  file: mou-20250218-gsa-ssa-employee-10.pdf
 
 - id: 20250222-dol-ssa-employee-3
   from: DOL
@@ -73,7 +73,7 @@
   - SSA-3
   reimbursement_amount: "$71,000 per quarter"
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
-  file: 20250222-dol-ssa-employee-3.pdf
+  file: mou-20250222-dol-ssa-employee-3.pdf
 
 - id: 20250220-usds-ssa-modification
   from: DOGE
@@ -86,7 +86,7 @@
   reimbursed: true
   comment: They took over an existing USDS MOU to make it be more DOGE-specific. Amy Gleason signed this one though
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
-  file: 20250220-usds-ssa-modification.pdf
+  file: mou-20250220-usds-ssa-modification.pdf
 
 - id: 20250212-doge-education-all
   from: DOGE
@@ -97,7 +97,7 @@
   max_people: 5
   reimbursed: false
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
-  file: 20250212-doge-education-all.pdf
+  file: mou-20250212-doge-education-all.pdf
 
 - id: 20250212-opm-education-ed-1
   from: OPM
@@ -111,7 +111,7 @@
   - ED-1
   comment: This is for a SGE position so it is not reimbursed and for a maximum of 135 days from start of SGE term
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
-  file: 20250212-opm-education-ed-1.pdf
+  file: mou-20250212-opm-education-ed-1.pdf
 
 - id: 20250212-ssa-opm-education-sge
   from: SSA
@@ -124,7 +124,7 @@
   - OPM-3
   comment: An unusual 3-way MOU that lets an undisclosed SSA employee also do work as an SGE for OPM and the Dept. of Education
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
-  file: 20250212-ssa-opm-education-sge.pdf
+  file: mou-20250212-ssa-opm-education-sge.pdf
 
 - id: 20250212-gsa-education-ed-3
   from: SSA
@@ -137,7 +137,7 @@
   - ED-3
   comment: This is for a SGE position so it is not reimbursed and for a maximum of 135 days from start of SGE term
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
-  file: 20250212-gsa-education-ed-3.pdf
+  file: mou-20250212-gsa-education-ed-3.pdf
 
 - id: 20250305-gsa-hhs-no-record
   from: GSA
@@ -163,7 +163,7 @@
   start_date: 2025-03-07
   end_date: 2025-06-15
   signed_date: 2025-03-12
-  file: 20250312-gsa-usps-alex-simonpour.pdf
+  file: mou-20250312-gsa-usps-alex-simonpour.pdf
 
 - id: 20250206-doge-cfpb-no-record
   from: DOGE
@@ -171,3 +171,15 @@
   comment: No document. This is for the detail of DOGE staff to CFPB as described in a court filing
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   start_date: 2025-02-06
+
+- id: 20250220-gsa-usadf-ethan-shaotran
+  from: GSA
+  to: USADF
+  named:
+  - Ethan Shaotran
+  reimbursed: false
+  start_date: 2025-02-20
+  end_date: 2026-07-04
+  signed_date: 2025-02-21
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.20.7.pdf
+  file: mou-20250220-gsa-usadf-ethan-shaotran.pdf

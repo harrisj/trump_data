@@ -2,7 +2,7 @@
 meta:
   title: Events
   version: 1.0.0
-  generated: 2025-04-11
+  generated: 2025-04-12
 
 aliases:
 
@@ -24,8 +24,11 @@ aliases:
 
 - id: OPM-3
   agency: OPM
+  name: Akash Bobba
   evidence:
   - This is the same person as ED-1 because there is a detail document that appears with two diff redacted names
+  - Detail to SSA is signed on 2025-02-12
+  - See evidence that ED-1 is Akash Bobba
   events:
   - date: 2025-01-20
     type: onboarded
@@ -70,7 +73,7 @@ aliases:
     - OPM-3
     comment: An unusual 3-way MOU that lets an undisclosed SSA employee also do work as an SGE for OPM and the Dept. of Education
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
-    file: 20250212-ssa-opm-education-sge.pdf
+    file: mou-20250212-ssa-opm-education-sge.pdf
   candidates:
   - Jacob Altik
   - Akash Bobba
@@ -124,9 +127,12 @@ aliases:
 
 - id: ED-1
   agency: Education
+  name: Akash Bobba
   evidence:
+  - Detail agreement from OPM is signed on 2025-02-12
   - This person appears in a detail from OPM to SSA, but also a detail from SSA back to OPM and Education
   - This is the same person as OPM-3 because there is a detail document that appears with two diff redacted names
+  - In a separate document in filing from OPM, Akash Bobba is listed as the only person from OPM and with a start date of 2025-02-03
   events:
   - date: 2025-02-03
     type: onboarded
@@ -173,13 +179,17 @@ aliases:
     - ED-1
     comment: This is for a SGE position so it is not reimbursed and for a maximum of 135 days from start of SGE term
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
-    file: 20250212-opm-education-ed-1.pdf
+    file: mou-20250212-opm-education-ed-1.pdf
   candidates:
   - Akash Bobba
   - Edward Coristine
 
 - id: ED-2
   agency: Education
+  name: Conor Fennessy
+  evidence:
+  - Onboarded by appointment as a Senior Advisor on 2025-01-31 with a salary of $195K
+  - They included a list of DOGE staff at the agency and Conor Fennessy is listed as the only Senior Advisor on staff
   events:
   - date: 2025-01-31
     type: onboarded
@@ -193,6 +203,12 @@ aliases:
 
 - id: ED-3
   agency: Education
+  name: Ethan Shaotran
+  evidence:
+  - Detail from GSA was signed on 2025-02-12 for a for a SGE position so it is not reimbursed and for a maximum of 135 days from start of SGE term
+  - Position at GSA is listed as Software Engineer (Consultant)
+  - In a separate document in the release, Ethan Shaotran is listed as being from GSA on 2025-02-03 and Edward Coristine on 2025-02-20
+  - IN the case of ED-1, the detail agreement seems to have been signed after the start date; very likely here as well
   events:
   - date: 2025-02-03
     type: onboarded
@@ -223,7 +239,7 @@ aliases:
     - ED-3
     comment: This is for a SGE position so it is not reimbursed and for a maximum of 135 days from start of SGE term
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
-    file: 20250212-gsa-education-ed-3.pdf
+    file: mou-20250212-gsa-education-ed-3.pdf
   candidates:
   - Akash Bobba
   - Luke Farritor
@@ -252,6 +268,8 @@ aliases:
   - Appointment is as Expert with a salary of $90K
   - Doing analysis of SSA payment data as focus
   - Software engineer with 5 years of experience and some leadership experience
+  - Most of the DOGE SGEs mapped to SSA are too young for this (Ed Coristine, Akash Bobba, Ethan Shaotran), but Cole Killian possibly
+  - It also would match Gavin Kliger, but he hasn't been linked to SSA
   events:
   - date: 2025-02-10
     type: onboarded
@@ -374,7 +392,7 @@ aliases:
     - SSA-2
     reimbursement_amount: Up to $120,579
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
-    file: 20250306-nasa-ssa-employee-2.pdf
+    file: mou-20250306-nasa-ssa-employee-2.pdf
   candidates:
   - Scott Coulter
 
@@ -438,7 +456,7 @@ aliases:
     - SSA-3
     reimbursement_amount: $71,000 per quarter
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
-    file: 20250222-dol-ssa-employee-3.pdf
+    file: mou-20250222-dol-ssa-employee-3.pdf
   candidates:
   - Marko Elez
   - Cole Killian
@@ -689,7 +707,7 @@ aliases:
     reimbursed: true
     reimbursement_amount: $71,000 per quarter
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
-    file: 20250317-dol-ssa-employee-7.pdf
+    file: mou-20250317-dol-ssa-employee-7.pdf
   candidates:
   - Marko Elez
   - Cole Killian
@@ -698,6 +716,8 @@ aliases:
 
 - id: SSA-8
   agency: SSA
+  evidence:
+  - All I have tor this one is a signed SF-61. They are an employee of SSA
   events:
   - date: 2025-02-18
     type: onboarded
@@ -750,7 +770,7 @@ aliases:
     - SSA-8
     comment: For a SGE, so no payment needed
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
-    file: 20250226-opm-ssa-employee-8.pdf
+    file: mou-20250226-opm-ssa-employee-8.pdf
   candidates:
   - Jacob Altik
   - Akash Bobba
@@ -861,9 +881,12 @@ aliases:
 
 - id: SSA-10
   agency: SSA
+  name: Ethan Shaotran
   evidence:
   - Onboarded as a volunteer on 2025-02-18 as a detail from the GSA
   - Flick testimony - Employee 10, a software engineer, was detailed from the Office of the Administrator at the General Services Administration to SSA"
+  - Ethan Shaotran was also detailed from GSA to USADF as an unpaid GSE o 2025-02-21
+  - Ethan Shaotran is identified for the first time at SSA on 2025-02-20
   events:
   - date: 2025-02-18
     type: onboarded
@@ -913,7 +936,7 @@ aliases:
     - SSA-10
     comment: For a SGE, so no payment needed
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
-    file: 20250218-gsa-ssa-employee-10.pdf
+    file: mou-20250218-gsa-ssa-employee-10.pdf
   candidates:
   - Akash Bobba
   - Steve Davis
@@ -926,6 +949,8 @@ aliases:
   agency: SSA
   evidence:
   - Started as a paid staffer at SSA on 2025-03-16
+  - Has 10 years of software development experience in geospatial software
+  - Unclear if this matches the DOGE people we know
   events:
   - date: 2025-03-16
     type: onboarded

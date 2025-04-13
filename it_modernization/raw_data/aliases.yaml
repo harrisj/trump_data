@@ -7,8 +7,11 @@
 
 - id: OPM-3
   agency: OPM
+  name: Akash Bobba
   evidence:
   - This is the same person as ED-1 because there is a detail document that appears with two diff redacted names
+  - Detail to SSA is signed on 2025-02-12
+  - See evidence that ED-1 is Akash Bobba
 
 - id: OPM-4
   agency: OPM
@@ -21,15 +24,28 @@
 
 - id: ED-1
   agency: Education
+  name: Akash Bobba
   evidence:
+  - Detail agreement from OPM is signed on 2025-02-12
   - This person appears in a detail from OPM to SSA, but also a detail from SSA back to OPM and Education
   - This is the same person as OPM-3 because there is a detail document that appears with two diff redacted names
+  - In a separate document in filing from OPM, Akash Bobba is listed as the only person from OPM and with a start date of 2025-02-03
 
 - id: ED-2
   agency: Education
+  name: Conor Fennessy
+  evidence:
+  - Onboarded by appointment as a Senior Advisor on 2025-01-31 with a salary of $195K
+  - They included a list of DOGE staff at the agency and Conor Fennessy is listed as the only Senior Advisor on staff
 
 - id: ED-3
   agency: Education
+  name: Ethan Shaotran
+  evidence:
+  - Detail from GSA was signed on 2025-02-12 for a for a SGE position so it is not reimbursed and for a maximum of 135 days from start of SGE term
+  - Position at GSA is listed as Software Engineer (Consultant)
+  - In a separate document in the release, Ethan Shaotran is listed as being from GSA on 2025-02-03 and Edward Coristine on 2025-02-20
+  - IN the case of ED-1, the detail agreement seems to have been signed after the start date; very likely here as well
 
 - id: ED-4
   agency: Education
@@ -45,6 +61,8 @@
   - Appointment is as Expert with a salary of $90K
   - Doing analysis of SSA payment data as focus
   - Software engineer with 5 years of experience and some leadership experience
+  - Most of the DOGE SGEs mapped to SSA are too young for this (Ed Coristine, Akash Bobba, Ethan Shaotran), but Cole Killian possibly
+  - It also would match Gavin Kliger, but he hasn't been linked to SSA
 
 - id: SSA-2
   agency: SSA
@@ -92,6 +110,8 @@
 
 - id: SSA-8
   agency: SSA
+  evidence:
+  - All I have tor this one is a signed SF-61. They are an employee of SSA
 
 - id: SSA-9
   agency: SSA
@@ -102,11 +122,16 @@
 
 - id: SSA-10
   agency: SSA
+  name: Ethan Shaotran
   evidence:
   - Onboarded as a volunteer on 2025-02-18 as a detail from the GSA
   - Flick testimony - Employee 10, a software engineer, was detailed from the Office of the Administrator at the General Services Administration to SSA"
+  - Ethan Shaotran was also detailed from GSA to USADF as an unpaid GSE o 2025-02-21
+  - Ethan Shaotran is identified for the first time at SSA on 2025-02-20
 
 - id: SSA-11
   agency: SSA
   evidence:
   - Started as a paid staffer at SSA on 2025-03-16
+  - Has 10 years of software development experience in geospatial software
+  - Unclear if this matches the DOGE people we know

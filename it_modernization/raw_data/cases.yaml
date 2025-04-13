@@ -205,7 +205,7 @@
 
 - name: New York et al v. Donald J. Trump (S.D.N.Y.)
   description: Nineteen state attorneys general sued President Donald Trump and Secretary of the Treasury Scott Bessent alleging that individuals affiliated with the Department of Government Efficiency ("DOGE") were granted unauthorized access to sensitive Treasury Department records in violation of the Administrative Procedure Act, the Privacy Act, and other ethics statutes.
-  case_no: 1:25-cv-01144-JAV
+  case_no: 1:25-cv-01144
   date_filed: 2025-02-07
   link: https://www.courtlistener.com/docket/69623558/state-of-new-york-v-donald-j-trump/
   agency: Treasury

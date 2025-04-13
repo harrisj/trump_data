@@ -2,7 +2,7 @@
 meta:
   title: People
   version: 1.0.0
-  generated: 2025-04-11
+  generated: 2025-04-12
 
 people:
 
@@ -626,6 +626,10 @@ people:
       agency: Treasury
       type: legal
       event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge Boardman issues a preliminary injunction against DOGE access to internal systems at the Departoment of the Treasury where the justification for access was "the DOGE agenda" (i.e., all of them)
+    - date: 2025-04-12
+      agency: Treasury
+      type: legal
+      event: Judge Vargas rules in New York et al vs. Donald Trump that Ryan Wunderly should be granted access to Treasury systems
 
   Edward Coristine:
     agencies:
@@ -742,9 +746,11 @@ people:
     - Centers for Disease Control and Prevention
     - Centers for Medicare and Medicaid Services
     - Consumer Financial Protection Bureau
+    - Department of Defense
     - Department of Education
     - Department of Energy
     - Department of Government Efficiency
+    - Department of the Interior
     - General Services Administration
     - Health and Human Services
     - National Institute of Health
@@ -872,7 +878,11 @@ people:
     - date: 2025-03-21
       agency: HHS
       type: access_granted
-      event: Luke Farritor is granted admin read-write access to Grants.gov by the Assistant Secretary for Financial Resources (ASFR)
+      event: Luke Farritor is granted read-write access to Grants.gov by the Assistant Secretary for Financial Resources (ASFR)
+    - date: 2025-03-29
+      agency: HHS
+      type: access_changed
+      event: Luke Farritor is granted admin access to Grants.gov by the Assistant Secretary for Financial Resources (ASFR)
     - date: 2025-03-29
       agency: CMS
       type: report
@@ -881,6 +891,38 @@ people:
       agency: HHS
       type: report
       event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff who have worked at HHS
+    - date: 2025-04-12
+      agency:
+      - HHS
+      - DOI
+      - DOD
+      - NIH
+      type: disruption
+      event: A DOGE engineer has apparently removed the ability of government agencies to post new grants to grants.gov and requiring them to all be sent to a new email address created this week for reviews
+    - date: 2025-04-12
+      agency:
+      - HHS
+      - DOI
+      - DOD
+      - NIH
+      type: disruption
+      event: A DOGE engineer has apparently removed the ability of government agencies to post new grants to grants.gov and requiring them to all be sent to a new email address created this week for reviews
+    - date: 2025-04-12
+      agency:
+      - HHS
+      - DOI
+      - DOD
+      - NIH
+      type: disruption
+      event: A DOGE engineer has apparently removed the ability of government agencies to post new grants to grants.gov and requiring them to all be sent to a new email address created this week for reviews
+    - date: 2025-04-12
+      agency:
+      - HHS
+      - DOI
+      - DOD
+      - NIH
+      type: disruption
+      event: A DOGE engineer has apparently removed the ability of government agencies to post new grants to grants.gov and requiring them to all be sent to a new email address created this week for reviews
 
   Christopher Stanley:
     agencies:
@@ -1690,6 +1732,18 @@ people:
       agency: SSA
       type: onboarded
       event: Scott Coulter is named the new CIO at the Social Security Administration and Mike Russo is moved to a Senior Advisor role with a focus on modernizing systems
+    - date: 2025-04-08
+      agency: SSA
+      type: report
+      event: Aram Moghaddassi adds 6300 names of suspected immigrants to the "death master file" as a way of forcing them to "self-deport" by making it impossible to use financial products. It included 7 minors.
+    - date: 2025-04-10
+      agency: SSA
+      type: disruption
+      event: Greg Pearre, a senior career executive overseeing technologists at the SSA, is forced out of his office by security guards after clashing with CIO Scott Coulter and calling his plan to declare immigrants dead illegal and cruel
+    - date: 2025-04-10
+      agency: SSA
+      type: report
+      event: 102 more names of living people are added to the Master Death File at SSA to destroy their ability to participate in socierty
 
   Mike Russo:
     agencies:
@@ -1797,6 +1851,14 @@ people:
       agency: IRS
       type: report
       event: DOGE is reportedly planning to state a "hack-a-thon" in cooperation with Palantir to create a "mega API" to access IRS data
+    - date: 2025-04-08
+      agency: IRS
+      type: report
+      event: A hackathon at IRS of DOGE engineers and some senior IRS developers kicks off to create a "Mega API." Reportedly, the company Palantir is also involved
+    - date: 2025-04-10
+      agency: IRS
+      type: report
+      event: The hackathon to create a "Mega API" at the IRS concludes. DOGE engineers are reportedly confidenct they will be able to deploy it in 30 days.
 
   Michael Grimes:
     agencies:
@@ -1870,6 +1932,9 @@ people:
 
   Leland Dudek:
     agencies:
+    - Department of Homeland Security
+    - Immigration and Customs Enforcement
+    - Internal Revenue Service
     - Social Security Administration
     events:
     - date: 2025-01-30
@@ -1920,6 +1985,27 @@ people:
       agency: SSA
       type: report
       event: In a sworn declaration, Leland Dudek justifies access to PII in SSA records for Employee 1, Employee 5, Employee 8 and Employee 9 on the DOGE team. This access is through the SSA's Enterprise Data Warehouse (EDW) system. He claims DOGE staff are being granted only the minimum levels of schema access required.
+    - date: 2025-04-07
+      agency:
+      - IRS
+      - DHS
+      - ICE
+      type: report
+      event: After some qualms about its legality, Leland Dudek signs two memos authorizing sharing data that would allow DHS and ICE to locate immigrants
+    - date: 2025-04-07
+      agency:
+      - IRS
+      - DHS
+      - ICE
+      type: report
+      event: After some qualms about its legality, Leland Dudek signs two memos authorizing sharing data that would allow DHS and ICE to locate immigrants
+    - date: 2025-04-07
+      agency:
+      - IRS
+      - DHS
+      - ICE
+      type: report
+      event: After some qualms about its legality, Leland Dudek signs two memos authorizing sharing data that would allow DHS and ICE to locate immigrants
 
   Stephen Ehikian:
     agencies:

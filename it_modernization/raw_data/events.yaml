@@ -1975,6 +1975,7 @@
   type: onboarded
   detailed_from: GSA
   event: Edward Coristine is detailed from GSA to the Department of Education
+  comment: I don't know if I have a record of this detail
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
   named:
   - Edward Coristine
@@ -2017,6 +2018,7 @@
   - Ethan Shaotran
   - Jacob Altik
   - Nate Cavanaugh
+  detail_id: 20250220-gsa-usadf-ethan-shaotran
   case_no: 1:25-cv-00660
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
   agency: USADF
@@ -2026,6 +2028,7 @@
   event: The MOU for DOGE's IT Modernization is between USADF and GSA and only covers the activities of Ethan Shaotran
   named:
   - Ethan Shaotran
+  detail_id: 20250220-gsa-usadf-ethan-shaotran
   case_no: 1:25-cv-00660
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.6.pdf
   agency: USADF
@@ -2037,6 +2040,7 @@
   - Ethan Shaotran
   - Jacob Altik
   - Nate Cavanaugh
+  detail_id: 20250220-gsa-usadf-ethan-shaotran
   case_no: 1:25-cv-00660
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
   agency: USADF
@@ -2063,6 +2067,7 @@
 - date: 2025-02-21
   type: report
   event: USADF general cousel revokes their participation in the MOU based on it being under false pretenses
+  detail_id: 20250220-gsa-usadf-ethan-shaotran
   case_no: 1:25-cv-00660
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
   agency: USADF
@@ -2715,7 +2720,7 @@
   event: Jordan Wick is formally onboarded as a CFPB employee on March 5 (while remaining an employee of USDS). Prior to that, he was detailed to the CFPB from USDS.
   named:
   - Jordan Wick
-  source: hhttps://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CFPB
 
 - date: 2025-03-05
@@ -3564,7 +3569,7 @@
   access_type: read
   access_systems:
   - Grants.gov
-  event: Luke Farritor is granted admin read-write access to Grants.gov by the Assistant Secretary for Financial Resources (ASFR)
+  event: Luke Farritor is granted read-write access to Grants.gov by the Assistant Secretary for Financial Resources (ASFR)
   named:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
@@ -3882,6 +3887,17 @@
   agency: SSA
 
 - date: 2025-03-29
+  type: access_changed
+  access_type: admin
+  access_systems:
+  - Grants.gov
+  event: Luke Farritor is granted admin access to Grants.gov by the Assistant Secretary for Financial Resources (ASFR)
+  named:
+  - Luke Farritor
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  agency: HHS
+
+- date: 2025-03-29
   type: report
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   event: In a legal filing, the DOJ identifies 4 DOGE staffers - Edward Coristine, Marko Elez, Luke Farritor and Amy Gleason - at CMS
@@ -4167,6 +4183,17 @@
   agency: CMS
   source: https://www.wired.com/story/dr-oz-ai-health-care-medicare-cms-town-hall/
 
+- date: 2025-04-07
+  type: report
+  event: After some qualms about its legality, Leland Dudek signs two memos authorizing sharing data that would allow DHS and ICE to locate immigrants
+  source: https://www.washingtonpost.com/politics/2025/04/12/trump-immigrants-dead-social-security/
+  named:
+  - Leland Dudek
+  agency:
+  - IRS
+  - DHS
+  - ICE
+
 - date: 2025-04-08
   type: report
   event: Employees at the EPA are reportedly being told by Trump-appointed officials that DOGE was using AI to monitor communication tools (including Microsoft Teams) for anti-Trump or anti-Musk language
@@ -4190,8 +4217,17 @@
   event: Aram Moghaddassi adds 6300 names of suspected immigrants to the "death master file" as a way of forcing them to "self-deport" by making it impossible to use financial products. It included 7 minors.
   named:
   - Aram Moghaddassi
+  - Scott Coulter
   source: https://www.nytimes.com/2025/04/10/us/politics/migrants-deport-social-security-doge.html
   agency: SSA
+
+- date: 2025-04-08
+  type: report
+  event: A hackathon at IRS of DOGE engineers and some senior IRS developers kicks off to create a "Mega API." Reportedly, the company Palantir is also involved
+  source: https://www.wired.com/story/palantir-doge-irs-mega-api-data/
+  named:
+  - Sam Corcos
+  agency: IRS
 
 - date: 2025-04-10
   type: report
@@ -4202,3 +4238,54 @@
   - Anthony Armstrong
   source: https://www.thehandbasket.co/p/doge-fdic
   agency: FDIC
+
+- date: 2025-04-10
+  type: report
+  event: The hackathon to create a "Mega API" at the IRS concludes. DOGE engineers are reportedly confidenct they will be able to deploy it in 30 days.
+  source: https://www.wired.com/story/palantir-doge-irs-mega-api-data/
+  named:
+  - Sam Corcos
+  agency: IRS
+
+- date: 2025-04-10
+  type: disruption
+  event: Greg Pearre, a senior career executive overseeing technologists at the SSA, is forced out of his office by security guards after clashing with CIO Scott Coulter and calling his plan to declare immigrants dead illegal and cruel
+  named:
+  - Scott Coulter
+  source: https://www.washingtonpost.com/politics/2025/04/12/trump-immigrants-dead-social-security/
+  agency: SSA
+
+- date: 2025-04-10
+  type: report
+  event: 102 more names of living people are added to the Master Death File at SSA to destroy their ability to participate in socierty
+  named:
+  - Scott Coulter
+  source: https://www.washingtonpost.com/politics/2025/04/12/trump-immigrants-dead-social-security/
+  agency: SSA
+
+- date: 2025-04-11
+  type: disruption
+  event: The Social Security Agency is reportedly shifting all its official communications exclusively to X
+  source: https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/
+  agency: SSA
+
+- date: 2025-04-12
+  type: disruption
+  event: A DOGE engineer has apparently removed the ability of government agencies to post new grants to grants.gov and requiring them to all be sent to a new email address created this week for reviews
+  named:
+  - Luke Farritor
+  source: https://www.washingtonpost.com/politics/2025/04/11/doge-controls-federal-grant-postings/
+  agency:
+  - HHS
+  - DOI
+  - DOD
+  - NIH
+
+- date: 2025-04-12
+  type: legal
+  event: Judge Vargas rules in New York et al vs. Donald Trump that Ryan Wunderly should be granted access to Treasury systems
+  named:
+  - Ryan Wunderly
+  case_no: 1:25-cv-01144
+  source: https://storage.courtlistener.com/recap/gov.uscourts.nysd.636609/gov.uscourts.nysd.636609.139.0.pdf
+  agency: Treasury
