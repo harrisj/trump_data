@@ -4,6 +4,8 @@
 
 - id: OPM-2
   agency: OPM
+  evidence:
+  - Onboarded on 2025-01-20 as a volunteer SGE
 
 - id: OPM-3
   agency: OPM
@@ -15,12 +17,21 @@
 
 - id: OPM-4
   agency: OPM
+  evidence:
+  - Onboarded on 2025-01-24 as a volunteer SGE with the title Expert
 
 - id: OPM-5
   agency: OPM
+  evidence:
+  - Onboarded on 2025-01-20 as a provisional appt not to exceed 2025-05-20
+  - Senior Advisor to the Director for IT
+  - GS-15/10 with pay of $195,200
+  - Converted to an excepted appointment on 2025-02-18
 
 - id: OPM-6
   agency: OPM
+  evidence:
+  - Onboarded on 2025-01-24 as a vounteer SGE with a term not to exceed 2025-07-22
 
 - id: ED-1
   agency: Education
