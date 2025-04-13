@@ -1,0 +1,62 @@
+{
+    "type": "object",
+    "properties": {
+        "meta": {
+            "$ref": "generated-metadata.json"
+        },
+        "people": {
+            "type": "object",
+            "propertySchema": {
+                "type": "object",
+                "description": "The record for an individual",
+                "properties": {
+                    "agencies": {
+                        "description": "An array of agencies the person has been positively identified at",
+                        "type": "array",
+                        "items": {
+                            "type": "string",
+                            "description": "The name of the agency"
+                        }
+                    },
+                    "events": {
+                        "description": "Specific events where that person has been positively identified",
+                        "type": "array",
+                        "items": {
+                            "properties": {
+                                "agency": {
+                                    "type": "string",
+                                    "description": "The agency name associated with this event"
+                                },
+                                "date": {
+                                    "type": "string",
+                                    "description": "The description of the event"
+                                },
+                                "type": {
+                                    "$ref": "valid_names.json#event_type",
+                                    "description": "The type of the event"
+                                },
+                                "event": {
+                                    "type": "string",
+                                    "description": "What happened during the event"
+                                }
+                            },
+                            "required": [
+                                "agency",
+                                "name",
+                                "date",
+                                "event"
+                            ],
+                            "additionalProperties": false
+                        }
+                    }
+                },
+                "required": [
+                    "agencies",
+                    "events"
+                ],
+                "additionalProperties": false
+            }
+        }
+    },
+    "required": ["meta", "people"]
+}
