@@ -63,8 +63,15 @@ class MyYamlDumper(yaml.SafeDumper):
 def read_raw_events(path = './raw_data/events.yaml'):
     return read_yaml(path)
 
+def read_processed_events():
+    yaml = read_yaml("./events.yaml")
+    return yaml["events"]
+
 def read_raw_cases_dict(path = './raw_data/cases.yaml'):
     return read_yaml_as_dict(path, "case_no")
+
+def read_raw_agencies_dict(path = './raw_data/agencies.yaml'):
+    return read_yaml_as_dict(path, "id")
 
 def read_raw_aliases_dict(path = './raw_data/aliases.yaml'):
     return read_yaml_as_dict(path, "id")
