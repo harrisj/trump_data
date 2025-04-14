@@ -832,6 +832,22 @@
                             "complaint_link_text": "Complaint",
                             "date_filed": "2025-03-25",
                             "last_update": "2025-04-01"
+                        },
+                        {
+                            "case_link": {
+                                "title": "Mahdawi v. Trump",
+                                "url": "https://www.courtlistener.com/docket/69888582/mahdawi-v-trump/"
+                            },
+                            "case_name": "Mahdawi v. Trump (D. Vt) Case No. 2:25-cv-00389",
+                            "case_summary": "[Coming soon]",
+                            "case_summary_html": "[Coming soon]",
+                            "complaint_link": {
+                                "title": "Complaint",
+                                "url": "https://www.justsecurity.org/wp-content/uploads/2025/04/mahdawi-habeas-petition-april-14-2025.pdf"
+                            },
+                            "complaint_link_text": "Complaint",
+                            "date_filed": "2025-04-14",
+                            "last_update": "2025-04-14"
                         }
                     ],
                     "links": [
@@ -3740,5 +3756,5 @@
             "title": "Trade Law"
         }
     ],
-    "last_updated": "2025-04-13"
+    "last_updated": "2025-04-14"
 }
