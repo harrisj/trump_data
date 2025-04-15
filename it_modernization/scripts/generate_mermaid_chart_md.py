@@ -1,6 +1,11 @@
 from datetime import date
 from util import read_processed_events, sorted_by_last_name, as_list
 
+NAMES_OF_INTEREST = ['Akash Bobba', 'Edward Coristine', 'Riccardo Biasini', 'Adam Ramada', 'Scott Langmack', 'Jeremy Lewin', 'Justin Fulcher', 'Michael Mirski', 'Conor Fennessy', 
+                     'Marko Elez', 'Ryan Wunderly', 'Christopher Stanley', 'Gavin Kliger', 'Ethan Shaotran', 'Jordan Wick', 'Aram Moghaddassi', 'Cole Killian',
+                     'Ryan Riedel', 'Nate Cavanaugh', 'Nikhil Rajpal', 'Kyle Schutt', 'Antonio Gracias', 'Payton Rehling', 'Scott Coulter', 'Sam Corcos',
+                     'Christopher Roussos', 'Sahil Lavingia', 'Alexander Simonpour', 'Riley Sennott']
+
 def generate_mermaid_chart():
     events = read_processed_events()
 
@@ -8,6 +13,9 @@ def generate_mermaid_chart():
     for event in events:
         if 'named' in event:
             for name in event['named']:
+                if name not in NAMES_OF_INTEREST:
+                    continue
+                
                 agency = event['agency']
                 if not isinstance(agency, str) or agency == 'DOGE':
                     continue
