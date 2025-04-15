@@ -1,6 +1,7 @@
 ```mermaid
 gantt
     title DOGE staffing
+    todayMarker off
     dateFormat YYYY-MM-DD
     section Riccardo Biasini
         OPM : 2025-01-31, 2025-04-15

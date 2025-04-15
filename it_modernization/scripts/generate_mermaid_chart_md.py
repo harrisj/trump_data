@@ -39,6 +39,7 @@ def generate_mermaid_chart():
     out = '''```mermaid
 gantt
     title DOGE staffing
+    todayMarker off
     dateFormat YYYY-MM-DD
 '''
 
