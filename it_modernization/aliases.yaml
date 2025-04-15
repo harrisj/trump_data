@@ -1033,7 +1033,15 @@ aliases:
     - SSA-11
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
     agency: SSA
-  - date: 2025-03-16
+  - date: 2025-04-07
+    type: access_granted
+    event: Unidentified "Employee 11" is accidentally granted access to SSA systems that DOGE was banned from by the court
+      order
+    named_aliases:
+    - SSA-11
+    source: https://www.washingtonpost.com/politics/2025/04/15/doge-social-security-data-judge/
+    agency: SSA
+  - date: 2025-04-08~
     type: access_granted
     event: Unidentified "Employee 11" is accidentally granted access to SSA systems that DOGE was banned from by the court
       order

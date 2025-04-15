@@ -619,6 +619,20 @@ CISA:
     - Edward Coristine
     source: https://www.nbcnews.com/politics/donald-trump/live-blog/trump-france-emmanuel-macron-white-house-ukraine-tariffs-live-updates-rcna193386#rcrd73638
     agency: CISA
+  - date: 2025-03-24~
+    type: disruption
+    event: NLRB networking staff make a formal report of the suspicious activity to US-CERT at CISA
+    source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
+    agency:
+    - NLRB
+    - CISA
+  - date: 2025-04-04
+    type: disruption
+    event: CISA informs NLRB networking staff that they should drop any investigation and not move forward on any reporting
+    source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
+    agency:
+    - NLRB
+    - CISA
   systems: {}
   cases: {}
 
@@ -3766,13 +3780,102 @@ NLRB:
   associated:
   - Jordan Wick
   events:
-  - date: 2025-02-28
+  - date: 2025-01-27
+    type: disruption
+    event: President Trump illegally fires NLRB Chair Gwynne Wilcox and NLRB General Counsel Jennifer Abruzzo. This leaves the agency without quorum to act.
+    source: https://thefulcrum.us/business-democracy/department-of-labor-doge
+    agency: NLRB
+  - date: 2025-02-20
+    type: disruption
+    event: Employees at the NLRB are alarmed to see that DOGE has claiming it has cancelled the lease for their office in Buffalo, NY
+    source: https://www.huffpost.com/entry/nlrb-office-lease-doge-wall-of-receipts_n_67b76046e4b05145b9c4ca05
+    agency: NLRB
+  - date: 2025-02-24~
     type: report
-    event: After a journalist posts a link to Jordan Wick's public Github repo, a staffer at the NLRB notices code that is named as a backdoor to the NxGen system
+    event: Staffers at the NLRB are told that DOGE will be arriving at the agency the following week and that they have questions about the agency's network architecture
+    source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
+    agency: NLRB
+  - date: 2025-02-28
+    type: disruption
+    event: After a journalist posts info that Jordan Wick's github profile is public, a staffer an NLRB notices a project named NxGenBdoorExtract which seemed to indicate a tool for exfiltrating data from NxGen via a back door
     named:
     - Jordan Wick
-    source: https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security
+    source: https://www.wrvo.org/2025-04-15/a-whistleblowers-disclosure-details-how-doge-may-have-taken-sensitive-labor-data
     agency: NLRB
+  - date: 2025-03-03
+    type: report
+    event: A black SUV and police escort bring DOGE staff to the agency. They weren't introduced and didn't interact with IT
+    source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
+    agency: NLRB
+  - date: 2025-03-03
+    type: report
+    event: The NLRB Assistant CIO conveys instructions that there are to be no logs or records made of account creation for DOGE staff and they are to be given "tenant"-level accounts with read/write/admin for all systems. These exceed existing permissions that would normally be used by auditors.
+    source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
+    agency: NLRB
+  - date: 2025-03-04
+    type: disruption
+    event: NLRB network staff notice the existence of an anomalous container on their network and expired storage tokens to deter analysis of what resources were accessed
+    source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
+    agency: NLRB
+  - date: 2025-03-05
+    type: disruption
+    event: NLRB network staff discover that a network watcher within their cloud environment was in the off state and not logging the creation of new network nodes
+    source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
+    agency: NLRB
+  - date: 2025-03-05
+    type: disruption
+    event: NLRB network staff see a large spike in outgoing network traffic from their network with no corresponding incoming traffic (as might be the case for web traffic). He also sees a surge in DNS requests which might be used to hide tunnels for stealing data.
+    source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
+    agency: NLRB
+  - date: 2025-03-06
+    type: disruption
+    event: NLRB network staff discover a recently created and deleted account with a DOGE-specific name DogeSA_2d5c3e0446f9@nlrb.microsoft.com that has seemingly been configured to support automated scripts accessing NLRB's cloud
+    source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
+    agency: NLRB
+  - date: 2025-03-06
+    type: disruption
+    event: After various users reported login problems to the service desk, networking staff at NLRB discover that certain conditional access policies had been updated. This was confirmed to not be any scheduled work.
+    source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
+    agency: NLRB
+  - date: 2025-03-07
+    type: disruption
+    event: Networking staff at NLRB discovered that 3 Github libraries were downloaded in the prior 30 days that could be used for scraping high volumes of data and obscuring the source requests
+    source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
+    agency: NLRB
+  - date: 2025-03-07
+    type: disruption
+    event: Networking staff at NLRB determines that 10GB of data was exfiltrated from the NxGen case management system and then from NLRB. It's possible this is the compressed size and represents many more records
+    source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
+    agency: NLRB
+  - date: 2025-03-11
+    type: disruption
+    event: There is further increase system utilization of the NxGen system and multiple attempts to connect to the system from an IP address in Russia using an account seemingly created only 15 minutes prior by DOGE engineers
+    source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
+    agency: NLRB
+  - date: 2025-03-13
+    type: disruption
+    event: NLRB networking staff detect another transfer of data to an external endpoint
+    source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
+    agency: NLRB
+  - date: 2025-03-19
+    type: disruption
+    event: NLRB networking observes a spike in billing records related to nonexistent systems, likely indicating resources that were short-lived or deleted to cover up tracks
+    source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
+    agency: NLRB
+  - date: 2025-03-24~
+    type: disruption
+    event: NLRB networking staff make a formal report of the suspicious activity to US-CERT at CISA
+    source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
+    agency:
+    - NLRB
+    - CISA
+  - date: 2025-04-04
+    type: disruption
+    event: CISA informs NLRB networking staff that they should drop any investigation and not move forward on any reporting
+    source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
+    agency:
+    - NLRB
+    - CISA
   systems:
     NxGen:
       name: NxGen
@@ -4591,6 +4694,13 @@ SSA:
     - SSA-1
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
     agency: SSA
+  - date: 2025-02-10
+    type: report
+    event: Incoming SSA head directs for Mark Steffensen to beonboarded to SSA as an attorney, according to the testimony of a whistleblower
+    named:
+    - Mark Steffensen
+    source: https://www.finance.senate.gov/imo/media/doc/ssa_whistleblower_statement.pdf
+    agency: SSA
   - date: 2025-02-12
     type: onboarded
     onboard_type: detailed
@@ -4772,6 +4882,14 @@ SSA:
     - SSA-6
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
     agency: SSA
+  - date: 2025-02-25
+    type: onboarded
+    onboard_type: appointed
+    event: Mark Steffensen is onboarded as a Senior Advisor in Office of the Commissioner at the Social Security Administration
+    named:
+    - Mark Steffensen
+    source: https://bsky.app/profile/chrisgeidner.bsky.social/post/3lipqblfluc2h
+    agency: SSA
   - date: 2025-02-26
     type: onboarded
     onboard_type: detailed
@@ -4790,6 +4908,13 @@ SSA:
     event: According to a sworn declaration, "Employees 4, 6, and 9 were each appointed as an expert, special government employee"
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     agency: SSA
+  - date: 2025-02-27
+    type: promotion
+    event: Mark Steffensen is named the Acting General Counsel of SSA, consolidating more power in his role
+    named:
+    - Mark Steffensen
+    source: https://web-cdn.bsky.app/profile/chrisgeidner.bsky.social/post/3ljb6rufur22e
+    agency: SSA
   - date: 2025-02-28
     type: official
     event: Via email, "Employee 5" of the DOGE team at SSA requests and receives approval from Leland Dudek to run a program to identify unrealistically old people in the SSA database
@@ -4799,6 +4924,13 @@ SSA:
     - SSA-5
     case_no: 1:25-cv-00596
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    agency: SSA
+  - date: 2025-02-28
+    type: promotion
+    event: Leland Dudek merges several SSA offices into a new Office of Legal and Policy and names Mark Steffensen the Deputy Commissioner
+    named:
+    - Mark Steffensen
+    source: https://web-cdn.bsky.app/profile/chrisgeidner.bsky.social/post/3ljb6rufur22e
     agency: SSA
   - date: 2025-03-01
     type: report
@@ -4922,13 +5054,6 @@ SSA:
     - SSA-11
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
     agency: SSA
-  - date: 2025-03-16
-    type: access_granted
-    event: Unidentified "Employee 11" is accidentally granted access to SSA systems that DOGE was banned from by the court order
-    named_aliases:
-    - SSA-11
-    source: https://www.washingtonpost.com/politics/2025/04/15/doge-social-security-data-judge/
-    agency: SSA
   - date: 2025-03-17
     type: access_granted
     access_systems:
@@ -4990,14 +5115,6 @@ SSA:
     type: access_revoked
     event: In a status update, SSA leadership confirms "SSA has revoked all SSA DOGE Team members' access to SSA systems of records, including but not limited to the Enterprise Data Warehouse, Numident, Master Beneficiary Record, and Supplemental Security Record"
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.56.0.pdf
-    agency: SSA
-  - date: 2025-03-24
-    type: onboarded
-    onboard_type: appointed
-    event: Mark Steffensen is named a Senior Advisor at the recommendation of the nominee for SSA director
-    named:
-    - Mark Steffensen
-    source: https://www.washingtonpost.com/politics/2025/04/15/doge-social-security-data-judge/
     agency: SSA
   - date: 2025-03-24
     type: disruption
@@ -5092,9 +5209,23 @@ SSA:
     source: https://www.washingtonpost.com/politics/2025/04/04/social-security-layoffs-trump-musk/
     agency: SSA
   - date: 2025-04-07
+    type: access_granted
+    event: Unidentified "Employee 11" is accidentally granted access to SSA systems that DOGE was banned from by the court order
+    named_aliases:
+    - SSA-11
+    source: https://www.washingtonpost.com/politics/2025/04/15/doge-social-security-data-judge/
+    agency: SSA
+  - date: 2025-04-07
     type: disruption
     event: The Post confirms with multiple source that Social Security's website has crashed repeatedly in recent weeks, with outages ranging from 20 minutes to an entire day. They speculate this is due to the introduction of an expanded fraud check system created by DOGE that wasn't tested for scalability before being deployed.
     source: https://www.washingtonpost.com/politics/2025/04/07/social-security-website-crashes-musk-trump/
+    agency: SSA
+  - date: 2025-04-08~
+    type: access_granted
+    event: Unidentified "Employee 11" is accidentally granted access to SSA systems that DOGE was banned from by the court order
+    named_aliases:
+    - SSA-11
+    source: https://www.washingtonpost.com/politics/2025/04/15/doge-social-security-data-judge/
     agency: SSA
   - date: 2025-04-08
     type: report
