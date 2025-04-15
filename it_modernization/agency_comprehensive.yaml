@@ -3760,6 +3760,27 @@ NEH:
   systems: {}
   cases: {}
 
+NLRB:
+  name: National Labor Relations Board
+  id: NLRB
+  associated:
+  - Jordan Wick
+  events:
+  - date: 2025-02-28
+    type: report
+    event: After a journalist posts a link to Jordan Wick's public Github repo, a staffer at the NLRB notices code that is named as a backdoor to the NxGen system
+    named:
+    - Jordan Wick
+    source: https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security
+    agency: NLRB
+  systems:
+    NxGen:
+      name: NxGen
+      id: NxGen
+      description: FIXME
+      agency: NLRB
+  cases: {}
+
 NOAA:
   name: National Oceanic and Atmospheric Administration
   id: NOAA
@@ -4475,6 +4496,7 @@ SSA:
   - Payton Rehling
   - Mike Russo
   - Ethan Shaotran
+  - Mark Steffensen
   events:
   - date: 2024-02-24
     type: onboarded
@@ -4900,6 +4922,13 @@ SSA:
     - SSA-11
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
     agency: SSA
+  - date: 2025-03-16
+    type: access_granted
+    event: Unidentified "Employee 11" is accidentally granted access to SSA systems that DOGE was banned from by the court order
+    named_aliases:
+    - SSA-11
+    source: https://www.washingtonpost.com/politics/2025/04/15/doge-social-security-data-judge/
+    agency: SSA
   - date: 2025-03-17
     type: access_granted
     access_systems:
@@ -4961,6 +4990,21 @@ SSA:
     type: access_revoked
     event: In a status update, SSA leadership confirms "SSA has revoked all SSA DOGE Team members' access to SSA systems of records, including but not limited to the Enterprise Data Warehouse, Numident, Master Beneficiary Record, and Supplemental Security Record"
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.56.0.pdf
+    agency: SSA
+  - date: 2025-03-24
+    type: onboarded
+    onboard_type: appointed
+    event: Mark Steffensen is named a Senior Advisor at the recommendation of the nominee for SSA director
+    named:
+    - Mark Steffensen
+    source: https://www.washingtonpost.com/politics/2025/04/15/doge-social-security-data-judge/
+    agency: SSA
+  - date: 2025-03-24
+    type: disruption
+    event: Mike Russo is reportedly removed from his CIO position by the Trump administration for complying quickly with the judicial ruling to remove DOGE access
+    named:
+    - Mike Russo
+    source: https://www.washingtonpost.com/politics/2025/04/15/doge-social-security-data-judge/
     agency: SSA
   - date: 2025-03-25
     type: promotion
@@ -5078,6 +5122,12 @@ SSA:
     type: disruption
     event: The Social Security Agency is reportedly shifting all its official communications exclusively to X
     source: https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/
+    agency: SSA
+  - date: 2025-04-14
+    type: legal
+    case_no: 1:25-cv-00596
+    event: The Trump Administration files a formal motion to protect the identities of DOGE staff at the agency in filings
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.134.0.pdf
     agency: SSA
   systems:
     AFES:

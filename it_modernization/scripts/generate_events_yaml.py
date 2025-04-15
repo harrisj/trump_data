@@ -19,14 +19,18 @@ def generate_events():
 
         if 'named_aliases' in event:
             for alias in event['named_aliases']:
-                if 'name' in alias:
-                    alias_name = alias['name']
+                found_alias = aliases_dict[alias]
+                if 'name' in found_alias:
+                    alias_name = found_alias['name']
 
                     if 'named' not in event:
-                        event['named'] = [alias_name]
-                    else:
-                        if alias_name not in event['named']:
-                            event['named'].append(alias_name)
+                        event['named'] = []
+                    if 'mapped_aliases' not in event:
+                        event['mapped_aliases'] = {}
+
+                    event['mapped_aliases'][alias] = alias_name
+                    if alias_name not in event['named']:
+                        event['named'].append(alias_name)
 
         if 'detail_id' in event:
             event["detail_info"] = details_dict[event["detail_id"]]

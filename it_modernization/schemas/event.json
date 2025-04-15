@@ -55,6 +55,17 @@
                 "type": "string"
             }
         },
+        "mapped_aliases": {
+            "type": "object",
+            "description": "A mapping of aliases to name we have confidently identified",
+            "propertyNames": {
+                "type": "string",
+                "description": "The alias"
+            },
+            "additionalProperties": {
+                "$ref": "valid_names.json#people"
+            }
+        },
         "source": {
             "type": "string",
             "description": "A URL of the source for the information in the event",

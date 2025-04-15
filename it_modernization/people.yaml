@@ -2,7 +2,7 @@
 meta:
   title: People
   version: 1.0.0
-  generated: 2025-04-14
+  generated: 2025-04-15
 
 people:
 
@@ -307,6 +307,10 @@ people:
       type: report
       event: The public calendar of Riley Sennott mentions a 30-minute "SGE Ethics Discussion" meeting with 2 GSA addresses
         and other DOGE staffers
+    - date: 2025-02-04
+      agency: Education
+      type: onboarded
+      event: Unidentified DOGE member is onboarded as a part-time unpaid consultant
     - date: 2025-02-13
       agency: Education
       type: report
@@ -503,6 +507,11 @@ people:
       type: report
       event: The public calendar of Riley Sennott mentions a 30-minute "SGE Ethics Discussion" meeting with 2 GSA addresses
         and other DOGE staffers
+    - date: 2025-01-31
+      agency: Education
+      type: onboarded
+      event: An unidentified DOGE staffer is appointed as a Senior Advisor at the Department of Education with a salary of
+        $195,200
     - date: 2025-03-29
       agency: HHS
       type: report
@@ -673,6 +682,25 @@ people:
       type: access_granted
       event: Marko Elez is granted read-only access to National Directory of New Hires (NDNH) database by the Administration
         for Children and Families (ACF) CTO
+    - date: 2025-03-05
+      agency: SSA
+      type: onboarded
+      event: According to a sworn declaration, "the agency began onboarding Employee 7, as a detailee from Department of Labor
+        (DOL) to SSA."
+    - date: 2025-03-05
+      agency: SSA
+      type: onboarded
+      event: Unidentified "Employee 7" signs the SSA Rules of Behavior for access to SSA networks and systems
+    - date: 2025-03-05
+      agency: SSA
+      type: onboarded
+      event: Unidentified "Employee 7" signs the SSA Rules of Behavior for access to SSA networks and systems
+    - date: 2025-03-12
+      agency: SSA
+      type: legal
+      event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
+        four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies
+        and offices (Employees 2, 3, 5, 7, 8, and 10)"'
     - date: 2025-03-13
       agency: HHS
       type: report
@@ -684,6 +712,10 @@ people:
       event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias,
         Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft
         Teams directory at SSA
+    - date: 2025-03-17
+      agency: SSA
+      type: access_granted
+      event: Employees "6, 7 and 9" are approved to access systems for claims benefit applications
     - date: 2025-03-19
       agency: DOL
       type: report
@@ -1124,11 +1156,29 @@ people:
       type: report
       event: Wired Magazine identifies several DOGE staffers with GSA email addresses and A-Suite Level clearances granting
         them access to all physical spaces and IT systems
+    - date: 2025-02-03
+      agency: Education
+      type: onboarded
+      event: ED-3 is detailed from GSA to the Department of Education
     - date: 2025-02-08
       agency: Education
       type: access_granted
       event: NBC News reports that Akash Bobba and Ethan Shaotran have admin access to email and had also accessed the website
         backend
+    - date: 2025-02-12
+      agency: Education
+      type: official
+      event: An agreement is executed for a single detailee to the Dept. of Education from GSA. They are also identified as
+        being a GSE who is not paid nor will need to be reimbursed.
+    - date: 2025-02-18
+      agency: SSA
+      type: onboarded
+      event: Unidentified "Employee 8" and "Employee 10" sign the SSA Rules of Behavior for access to SSA networks and systems
+    - date: 2025-02-19
+      agency: SSA
+      type: onboarded
+      event: According to a sworn declaration, "Employee 10, a software engineer, was detailed from the Office of the Administrator
+        at the General Services Administration to SSA"
     - date: 2025-02-20
       agency: SSA
       type: report
@@ -1162,6 +1212,12 @@ people:
       type: report
       event: DOGE staff Jacob Altik and Ethan Shaotran return joined by Nate Cavanaugh with US marshals to force entry to
         the agency
+    - date: 2025-03-12
+      agency: SSA
+      type: legal
+      event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
+        four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies
+        and offices (Employees 2, 3, 5, 7, 8, and 10)"'
     - date: 2025-03-13
       agency: SSA
       type: report
@@ -1248,6 +1304,7 @@ people:
     - Department of Labor
     - Executive Office of the President
     - Federal Communications Commission
+    - National Labor Relations Board
     events:
     - date: 2025-02-07
       agency: CFPB
@@ -1280,6 +1337,11 @@ people:
       agency: Education
       type: onboarded
       event: Jordan Wick is detailed from DOGE to the Department of Education
+    - date: 2025-02-28
+      agency: NLRB
+      type: report
+      event: After a journalist posts a link to Jordan Wick's public Github repo, a staffer at the NLRB notices code that
+        is named as a backdoor to the NxGen system
     - date: 2025-03-05
       agency: CFPB
       type: access_revoked
@@ -1304,11 +1366,27 @@ people:
     - Social Security Administration
     - US Citizenship & Immigration Services
     events:
+    - date: 2025-02-18
+      agency: SSA
+      type: onboarded
+      event: According to a sworn declaration by a Deputy Commissioner at SSA, "we began onboarding and training Employee
+        3, a Schedule C Policy Advisor, detailed from the Department of Labor to SSA" with it finalized on February 22. "His
+        duties currently relate to improper payments and SSA's Death Master File."
+    - date: 2025-02-18
+      agency: SSA
+      type: onboarded
+      event: Unidentified "Employee 3" signs the SSA Rules of Behavior for access to SSA networks and systems
     - date: 2025-03-05
       agency: DOL
       type: report
       event: Business Insider reports Marko Elez, Aram Moghaddassi, and Miles B. Collins are new DOGE arrivals at Department
         of Labor
+    - date: 2025-03-12
+      agency: SSA
+      type: legal
+      event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
+        four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies
+        and offices (Employees 2, 3, 5, 7, 8, and 10)"'
     - date: 2025-03-13
       agency: HHS
       type: report
@@ -1559,6 +1637,11 @@ people:
     - Office of Personnel Management
     - Social Security Administration
     events:
+    - date: 2025-01-20
+      agency: OPM
+      type: onboarded
+      event: Redacted employee OPM-2, OPM-3 are hired as a Special Government Employee (SGE) volunteers with terms not to
+        exceed past 2025-07-18
     - date: 2025-02-02
       agency: OPM
       type: report
@@ -1574,6 +1657,10 @@ people:
       type: report
       event: Mike Russo officially joins the agency as its new CIO, requests Akash Bobba to join the agency (but he has issues
         with his background check)
+    - date: 2025-02-03
+      agency: Education
+      type: onboarded
+      event: Unidentified employee ED-1 is detailed from OPM to the Department of Education
     - date: 2025-02-08
       agency: Education
       type: access_granted
@@ -1588,6 +1675,32 @@ people:
       type: access_granted
       event: Akash Bobba is rapidly trained and is granted access to anonymized and read-only "sandbox" NUMIDENT data from
         SSNEC for his purported fraud investigations
+    - date: 2025-02-12
+      agency: SSA
+      type: onboarded
+      event: An unusual Memorandum of Understanding is signed by Brian Bjelde for OPM and representatives of Social Security
+        and the Department of Education for Akash Bobba to start working at SSA (but he already had been working there, according
+        to Tiffany Flick's testimony)
+    - date: 2025-02-12
+      agency:
+      - Education
+      type: onboarded
+      event: The Department of Education executes a Memorandum of Understanding (MOU) with OPM for a single detailee who is
+        represented as not being paid nor needing reimbursement (i.e., a Special Government Employee)
+    - date: 2025-02-12
+      agency:
+      - OPM
+      - SSA
+      type: official
+      event: The Office of Personnel Management executes a Memorandum of Understanding for a detailee from the Social Security
+        Administration, who will also work for Department of Education
+    - date: 2025-02-12
+      agency:
+      - OPM
+      - SSA
+      type: official
+      event: The Office of Personnel Management executes a Memorandum of Understanding for a detailee from the Social Security
+        Administration, who will also work for Department of Education
     - date: 2025-02-15
       agency: SSA
       type: access_granted
@@ -1896,6 +2009,21 @@ people:
     - Department of Government Efficiency
     - Social Security Administration
     events:
+    - date: 2024-02-24
+      agency: SSA
+      type: onboarded
+      event: Unidentified "Employee 4" is appointed as an unpaid volunteer "Expert" at SSA with a term not to exceed 2026-02-22
+    - date: 2025-02-27
+      agency: SSA
+      type: onboarded
+      event: According to a sworn declaration, "Employees 4, 6, and 9 were each appointed as an expert, special government
+        employee"
+    - date: 2025-03-12
+      agency: SSA
+      type: legal
+      event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
+        four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies
+        and offices (Employees 2, 3, 5, 7, 8, and 10)"'
     - date: 2025-03-13
       agency: SSA
       type: report
@@ -1919,12 +2047,31 @@ people:
     - Social Security Administration
     - Veterans Administration
     events:
+    - date: 2025-02-24
+      agency: SSA
+      type: onboarded
+      event: Unidentified "Employee 6" is onboarded as an unpaid appointed Expert to the CIO with a term not to exceed 2026-02-22
+    - date: 2025-02-27
+      agency: SSA
+      type: onboarded
+      event: According to a sworn declaration, "Employees 4, 6, and 9 were each appointed as an expert, special government
+        employee"
+    - date: 2025-03-12
+      agency: SSA
+      type: legal
+      event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
+        four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies
+        and offices (Employees 2, 3, 5, 7, 8, and 10)"'
     - date: 2025-03-13
       agency: SSA
       type: report
       event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias,
         Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft
         Teams directory at SSA
+    - date: 2025-03-17
+      agency: SSA
+      type: access_granted
+      event: Employees "6, 7 and 9" are approved to access systems for claims benefit applications
     - date: 2025-03-25
       agency: VA
       type: report
@@ -1939,12 +2086,45 @@ people:
     - US Citizenship & Immigration Services
     - Veterans Administration
     events:
+    - date: 2025-02-23
+      agency: SSA
+      type: onboarded
+      event: Unidentified "Employee 9" is appointed as an volunteer Expert a term not to exceed 2026-02-26
+    - date: 2025-02-27
+      agency: SSA
+      type: onboarded
+      event: According to a sworn declaration, "Employees 4, 6, and 9 were each appointed as an expert, special government
+        employee"
+    - date: 2025-03-12
+      agency: SSA
+      type: legal
+      event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
+        four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies
+        and offices (Employees 2, 3, 5, 7, 8, and 10)"'
     - date: 2025-03-13
       agency: SSA
       type: report
       event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias,
         Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft
         Teams directory at SSA
+    - date: 2025-03-14
+      agency: SSA
+      type: official
+      event: Via email, 'Employee 9' of the DOGE team at SSA requests access to highly-confidential PSSNAP data to review
+        beneficiaries
+    - date: 2025-03-17
+      agency: SSA
+      type: access_granted
+      event: Employees "6, 7 and 9" are approved to access systems for claims benefit applications
+    - date: 2025-03-18
+      agency: SSA
+      type: access_granted
+      event: Leland Dudek approves access of "Employee 9" for additional PSSNAP schema to view Title II beneficiaries
+    - date: 2025-03-19
+      agency: SSA
+      type: access_granted
+      event: Leland Dudek approves access of "Employee 9" of the DOGE team at SSA to highly-confidential PSSNAP data to review
+        beneficiaries
     - date: 2025-03-25
       agency: USCIS
       type: access_granted
@@ -1956,6 +2136,12 @@ people:
       event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github
         instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements
         for government services are.
+    - date: 2025-03-27
+      agency: SSA
+      type: report
+      event: In a sworn declaration, Leland Dudek justifies access to PII in SSA records for Employee 1, Employee 5, Employee
+        8 and Employee 9 on the DOGE team. This access is through the SSA's Enterprise Data Warehouse (EDW) system. He claims
+        DOGE staff are being granted only the minimum levels of schema access required.
     - date: 2025-03-28
       agency: USCIS
       type: report
@@ -1977,6 +2163,16 @@ people:
       type: onboarded
       event: According to a sworn declaration, SSA "began onboarding and training Employee 2, Senior Advisor (Program Specialist
         AD-0301-00). He is in the process of being detailed from National Aeronautics and Space Administration (NASA) to SSA."
+    - date: 2025-02-18
+      agency: SSA
+      type: onboarded
+      event: Unidentified "Employee 2" signs the SSA Rules of Behavior for access to SSA networks and systems
+    - date: 2025-03-12
+      agency: SSA
+      type: legal
+      event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
+        four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies
+        and offices (Employees 2, 3, 5, 7, 8, and 10)"'
     - date: 2025-03-13
       agency: SSA
       type: report
@@ -1992,6 +2188,11 @@ people:
       type: report
       event: A Business Insider article reports that Alexander Simonpour has shown up at NASA and also has a GSA address.
         Riley Sennott and Scott Coulter also are listed
+    - date: 2025-03-25
+      agency: SSA
+      type: promotion
+      event: Unidentified "Employee 2" at SSA submits a signed appointment affadavit for the position of Chief Information
+        Officer
     - date: 2025-03-25
       agency: SSA
       type: onboarded
@@ -2051,6 +2252,11 @@ people:
       agency: SSA
       type: official
       event: SSA CIO Mike Russo emails Leland Dudek to grant access to EDW for several "members of [his] team"
+    - date: 2025-03-24
+      agency: SSA
+      type: disruption
+      event: Mike Russo is reportedly removed from his CIO position by the Trump administration for complying quickly with
+        the judicial ruling to remove DOGE access
     - date: 2025-03-25
       agency: SSA
       type: onboarded
@@ -2925,6 +3131,15 @@ people:
       agency: IMLS
       type: onboarded
       event: Keith Sonderling is sworn in as acting director of the IMLS
+
+  Mark Steffensen:
+    agencies:
+    - Social Security Administration
+    events:
+    - date: 2025-03-24
+      agency: SSA
+      type: onboarded
+      event: Mark Steffensen is named a Senior Advisor at the recommendation of the nominee for SSA director
 
   Katrine Trampe:
     agencies:

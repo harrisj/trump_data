@@ -412,3 +412,8 @@
   id: IRON
   description: FIXME
   agency: SSA
+
+- name: NxGen
+  id: NxGen
+  description: FIXME
+  agency: NLRB

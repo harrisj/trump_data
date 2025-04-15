@@ -2,7 +2,7 @@
 meta:
   title: Events
   version: 1.0.0
-  generated: 2025-04-14
+  generated: 2025-04-15
 
 events:
 
@@ -15,6 +15,10 @@ events:
   - SSA-4
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   agency: SSA
+  named:
+  - Antonio Gracias
+  mapped_aliases:
+    SSA-4: Antonio Gracias
 
 - date: 2024-11-26
   type: report
@@ -199,6 +203,10 @@ events:
   - OPM-3
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
   agency: OPM
+  named:
+  - Akash Bobba
+  mapped_aliases:
+    OPM-3: Akash Bobba
 
 - date: 2025-01-20
   type: report
@@ -700,6 +708,10 @@ events:
   comment: Redacted in hiring letter, but identified later in filing
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
   agency: Education
+  named:
+  - Conor Fennessy
+  mapped_aliases:
+    ED-2: Conor Fennessy
 
 - date: 2025-02-01
   type: access_changed
@@ -849,6 +861,10 @@ events:
   named_aliases:
   - ED-1
   agency: Education
+  named:
+  - Akash Bobba
+  mapped_aliases:
+    ED-1: Akash Bobba
   detail_info:
     id: 20250212-opm-education-ed-1
     from: OPM
@@ -873,6 +889,10 @@ events:
   named_aliases:
   - ED-3
   agency: Education
+  named:
+  - Ethan Shaotran
+  mapped_aliases:
+    ED-3: Ethan Shaotran
   detail_info:
     id: 20250212-gsa-education-ed-3
     from: SSA
@@ -956,6 +976,10 @@ events:
   - ED-4
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
   agency: Education
+  named:
+  - Brooks Morgan
+  mapped_aliases:
+    ED-4: Brooks Morgan
 
 - date: 2025-02-05
   type: report
@@ -1595,6 +1619,11 @@ events:
   - OPM-3
   - ED-1
   agency: SSA
+  named:
+  - Akash Bobba
+  mapped_aliases:
+    OPM-3: Akash Bobba
+    ED-1: Akash Bobba
 
 - date: 2025-02-12
   type: official
@@ -1619,6 +1648,10 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
   agency:
   - Education
+  named:
+  - Akash Bobba
+  mapped_aliases:
+    ED-1: Akash Bobba
   detail_info:
     id: 20250212-opm-education-ed-1
     from: OPM
@@ -1644,6 +1677,10 @@ events:
   agency:
   - OPM
   - SSA
+  named:
+  - Akash Bobba
+  mapped_aliases:
+    OPM-3: Akash Bobba
 
 - date: 2025-02-12
   type: official
@@ -1654,6 +1691,10 @@ events:
     a GSE who is not paid nor will need to be reimbursed.
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
   agency: Education
+  named:
+  - Ethan Shaotran
+  mapped_aliases:
+    ED-3: Ethan Shaotran
   detail_info:
     id: 20250212-gsa-education-ed-3
     from: SSA
@@ -2025,6 +2066,10 @@ events:
     currently relate to improper payments and SSA's Death Master File."
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
   agency: SSA
+  named:
+  - Aram Moghaddassi
+  mapped_aliases:
+    SSA-3: Aram Moghaddassi
   detail_info:
     id: 20250222-dol-ssa-employee-3
     from: DOL
@@ -2079,6 +2124,8 @@ events:
   - Scott Coulter
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
   agency: SSA
+  mapped_aliases:
+    SSA-2: Scott Coulter
   detail_info:
     id: 20250306-nasa-ssa-employee-2
     from: NASA
@@ -2109,6 +2156,10 @@ events:
   - SSA-3
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   agency: SSA
+  named:
+  - Aram Moghaddassi
+  mapped_aliases:
+    SSA-3: Aram Moghaddassi
   detail_info:
     id: 20250222-dol-ssa-employee-3
     from: DOL
@@ -2133,6 +2184,10 @@ events:
   - SSA-2
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   agency: SSA
+  named:
+  - Scott Coulter
+  mapped_aliases:
+    SSA-2: Scott Coulter
   detail_info:
     id: 20250306-nasa-ssa-employee-2
     from: NASA
@@ -2157,6 +2212,10 @@ events:
   - SSA-10
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   agency: SSA
+  named:
+  - Ethan Shaotran
+  mapped_aliases:
+    SSA-10: Ethan Shaotran
 
 - date: 2025-02-19
   type: report
@@ -2231,6 +2290,10 @@ events:
   - SSA-10
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
   agency: SSA
+  named:
+  - Ethan Shaotran
+  mapped_aliases:
+    SSA-10: Ethan Shaotran
   detail_info:
     id: 20250218-gsa-ssa-employee-10
     from: GSA
@@ -2641,6 +2704,10 @@ events:
   - SSA-9
   agency: SSA
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  named:
+  - Payton Rehling
+  mapped_aliases:
+    SSA-9: Payton Rehling
 
 - date: 2025-02-24
   type: onboarded
@@ -2651,6 +2718,10 @@ events:
   - SSA-6
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   agency: SSA
+  named:
+  - Jon Koval
+  mapped_aliases:
+    SSA-6: Jon Koval
 
 - date: 2025-02-24
   type: access_granted
@@ -3025,6 +3096,14 @@ events:
   event: According to a sworn declaration, "Employees 4, 6, and 9 were each appointed as an expert, special government employee"
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
   agency: SSA
+  named:
+  - Antonio Gracias
+  - Jon Koval
+  - Payton Rehling
+  mapped_aliases:
+    SSA-4: Antonio Gracias
+    SSA-6: Jon Koval
+    SSA-9: Payton Rehling
 
 - date: 2025-02-28
   type: disruption
@@ -3139,6 +3218,15 @@ events:
     agency:
     - SSA
     - DOGE
+
+- date: 2025-02-28
+  type: report
+  event: After a journalist posts a link to Jordan Wick's public Github repo, a staffer at the NLRB notices code that is named
+    as a backdoor to the NxGen system
+  named:
+  - Jordan Wick
+  source: https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security
+  agency: NLRB
 
 - date: 2025-03-01
   type: disruption
@@ -3526,6 +3614,10 @@ events:
     (DOL) to SSA."
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
   agency: SSA
+  named:
+  - Marko Elez
+  mapped_aliases:
+    SSA-7: Marko Elez
   detail_info:
     id: 20250317-dol-ssa-employee-7
     from: DOL
@@ -3596,6 +3688,10 @@ events:
   - SSA-7
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   agency: SSA
+  named:
+  - Marko Elez
+  mapped_aliases:
+    SSA-7: Marko Elez
   detail_info:
     id: 20250317-dol-ssa-employee-7
     from: DOL
@@ -3620,6 +3716,10 @@ events:
   - SSA-7
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   agency: SSA
+  named:
+  - Marko Elez
+  mapped_aliases:
+    SSA-7: Marko Elez
   detail_info:
     id: 20250317-dol-ssa-employee-7
     from: DOL
@@ -3859,6 +3959,22 @@ events:
     - CFPB
     - HHS
     - DOGE
+  named:
+  - Scott Coulter
+  - Aram Moghaddassi
+  - Antonio Gracias
+  - Jon Koval
+  - Marko Elez
+  - Payton Rehling
+  - Ethan Shaotran
+  mapped_aliases:
+    SSA-2: Scott Coulter
+    SSA-3: Aram Moghaddassi
+    SSA-4: Antonio Gracias
+    SSA-6: Jon Koval
+    SSA-7: Marko Elez
+    SSA-9: Payton Rehling
+    SSA-10: Ethan Shaotran
 
 - date: 2025-03-12
   type: report
@@ -4042,6 +4158,10 @@ events:
     agency:
     - SSA
     - DOGE
+  named:
+  - Payton Rehling
+  mapped_aliases:
+    SSA-9: Payton Rehling
 
 - date: 2025-03-14~
   type: access_granted
@@ -4097,6 +4217,14 @@ events:
   named_aliases:
   - SSA-11
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  agency: SSA
+
+- date: 2025-03-16
+  type: access_granted
+  event: Unidentified "Employee 11" is accidentally granted access to SSA systems that DOGE was banned from by the court order
+  named_aliases:
+  - SSA-11
+  source: https://www.washingtonpost.com/politics/2025/04/15/doge-social-security-data-judge/
   agency: SSA
 
 - date: 2025-03-17
@@ -4206,6 +4334,14 @@ events:
     agency:
     - SSA
     - DOGE
+  named:
+  - Jon Koval
+  - Marko Elez
+  - Payton Rehling
+  mapped_aliases:
+    SSA-6: Jon Koval
+    SSA-7: Marko Elez
+    SSA-9: Payton Rehling
 
 - date: 2025-03-17
   type: official
@@ -4358,6 +4494,10 @@ events:
     agency:
     - SSA
     - DOGE
+  named:
+  - Payton Rehling
+  mapped_aliases:
+    SSA-9: Payton Rehling
 
 - date: 2025-03-18
   type: report
@@ -4483,6 +4623,10 @@ events:
     agency:
     - SSA
     - DOGE
+  named:
+  - Payton Rehling
+  mapped_aliases:
+    SSA-9: Payton Rehling
 
 - date: 2025-03-20
   type: legal
@@ -4742,6 +4886,24 @@ events:
   agency: SSA
 
 - date: 2025-03-24
+  type: onboarded
+  onboard_type: appointed
+  event: Mark Steffensen is named a Senior Advisor at the recommendation of the nominee for SSA director
+  named:
+  - Mark Steffensen
+  source: https://www.washingtonpost.com/politics/2025/04/15/doge-social-security-data-judge/
+  agency: SSA
+
+- date: 2025-03-24
+  type: disruption
+  event: Mike Russo is reportedly removed from his CIO position by the Trump administration for complying quickly with the
+    judicial ruling to remove DOGE access
+  named:
+  - Mike Russo
+  source: https://www.washingtonpost.com/politics/2025/04/15/doge-social-security-data-judge/
+  agency: SSA
+
+- date: 2025-03-24
   type: report
   event: Postmaster General DeJoy resigns
   source: https://www.usatoday.com/story/news/nation/2025/03/30/postal-service-changes-doge-musk/82696231007/
@@ -4754,6 +4916,10 @@ events:
   event: Unidentified "Employee 2" at SSA submits a signed appointment affadavit for the position of Chief Information Officer
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   agency: SSA
+  named:
+  - Scott Coulter
+  mapped_aliases:
+    SSA-2: Scott Coulter
 
 - date: 2025-03-25
   type: disruption
@@ -4970,7 +5136,10 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.62.1.pdf
   named:
   - Leland Dudek
+  - Payton Rehling
   agency: SSA
+  mapped_aliases:
+    SSA-9: Payton Rehling
 
 - date: 2025-03-28
   type: report
@@ -5547,3 +5716,20 @@ events:
     date_filed: 2025-02-07
     link: https://www.courtlistener.com/docket/69623558/state-of-new-york-v-donald-j-trump/
     agency: Treasury
+
+- date: 2025-04-14
+  type: legal
+  case_no: 1:25-cv-00596
+  event: The Trump Administration files a formal motion to protect the identities of DOGE staff at the agency in filings
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.134.0.pdf
+  agency: SSA
+  case_info:
+    name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
+    description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency
+      ("DOGE"), challenging the access to sensitive personal data of millions of Americans which SSA gave to DOGE
+    date_filed: 2025-02-21
+    case_no: 1:25-cv-00596
+    link: https://www.courtlistener.com/docket/69664313/american-federation-of-state-county-and-municipal-employees-afl-cio-v/
+    agency:
+    - SSA
+    - DOGE
