@@ -15,7 +15,7 @@ def generate_mermaid_chart():
             for name in event['named']:
                 if name not in NAMES_OF_INTEREST:
                     continue
-                
+
                 agency = event['agency']
                 if not isinstance(agency, str) or agency == 'DOGE':
                     continue
@@ -24,8 +24,7 @@ def generate_mermaid_chart():
                     people[name] = {}
 
                 if event['type'] == 'offboarded':
-                    if agency in people[name]:
-                        people[name][agency]['end'] = str(event['date'])
+                    people[name][agency]['end'] = str(event['date'])
                 elif agency not in people[name]:
                     sdate = str(event['date']).strip('~')
                     if sdate < '2025-01-20':

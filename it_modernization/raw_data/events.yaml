@@ -1022,6 +1022,8 @@
 
 - date: 2025-02-06
   type: offboarded
+  named:
+  - Marko Elez
   event: Marko Elez resigns allegedly after past racist tweets are revealed (but also same day as being discovered with write access)
   source: https://www.npr.org/2025/02/06/nx-s1-5289337/elon-musk-doge-treasury
   agency: Treasury

@@ -609,6 +609,11 @@ people:
       type: report
       event: On the morning of February 6, Treasury discovers that Marko Elez's database access to SPS on February 5 had mistakenly
         been configured to have read/write permissions instead of read-only
+    - date: 2025-02-06
+      agency: Treasury
+      type: offboarded
+      event: Marko Elez resigns allegedly after past racist tweets are revealed (but also same day as being discovered with
+        write access)
     - date: 2025-02-11
       agency: Treasury
       type: report
