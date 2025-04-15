@@ -7,4 +7,4 @@ pipenv run python scripts/generate_events_yaml.py
 pipenv run python scripts/generate_events_csv.py
 pipenv run python scripts/generate_people_yaml.py
 pipenv run python scripts/generate_agency_comprehensive_yaml.py
-
+pipenv run python scripts/generate_mermaid_chart_md.py
