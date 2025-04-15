@@ -389,6 +389,11 @@ people:
       type: report
       event: In a court declaration in AFL-CIO vs. DOL, counsel for the plaintiffs Alexa Milton provides the names of two
         DOGE staffers at HHS who were not provided in the government's list of staffers there
+    - date: 2025-04-15
+      agency: State
+      type: promotion
+      event: Jeremy Lewin is named the new acting head of foreign assistance at the State Department after the departure of
+        Peter Marocco
 
   Justin Fulcher:
     agencies:
@@ -439,6 +444,11 @@ people:
       type: report
       event: There is reportedly a 6-person DOGE team working at HUD, with 4 of the staff being existing HUD employees and
         Michael Mirski and Scott Langmack from DOGE
+    - date: 2025-04-15
+      agency: HUD
+      type: report
+      event: Mike Mirski is reportedly leading a DOGE effort at HUD to identify and target households that include undocumented
+        immigrants.
 
   Tyler Hassen:
     agencies:

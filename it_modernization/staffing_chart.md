@@ -64,6 +64,7 @@ gantt
         USAID : 2025-01-28, 2025-04-15
         NIH : 2025-02-24, 2025-04-15
         HHS : 2025-03-29, 2025-04-15
+        State : 2025-04-15, 2025-04-15
     section Michael Mirski
         HUD : 2025-02-20, 2025-04-15
     section Aram Moghaddassi

@@ -4198,6 +4198,12 @@ events:
   source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
   agency: NLRB
 
+- date: 2025-03-13
+  type: report
+  event: 46 former GSA executives write an open letter decrying the damage that DOGE has done to the agency
+  source: https://federalnewsnetwork.com/commentary/2025/03/letter-to-the-editor-46-former-gsa-executives-say-cuts-to-cause-irreversible-damage/?readmore=1
+  agency: GSA
+
 - date: 2025-03-14
   type: onboarded
   onboard_type: appointed
@@ -5888,3 +5894,28 @@ events:
     agency:
     - SSA
     - DOGE
+
+- date: 2025-04-15
+  type: promotion
+  event: Jeremy Lewin is named the new acting head of foreign assistance at the State Department after the departure of Peter
+    Marocco
+  source: https://apnews.com/article/trump-foreign-aid-musk-doge-lewin-373442292067b2070243daf8041e1668
+  named:
+  - Jeremy Lewin
+  agency: State
+
+- date: 2025-04-15
+  type: report
+  event: Mike Mirski is reportedly leading a DOGE effort at HUD to identify and target households that include undocumented
+    immigrants.
+  source: https://www.msn.com/en-us/politics/government/doge-is-collecting-federal-data-to-remove-immigrants-from-housing-jobs/ar-AA1CWQ57
+  named:
+  - Michael Mirski
+  agency: HUD
+
+- date: 2025-04-15
+  type: disruption
+  event: All 14 current members of the Pentagon's pre-existing Defense Digital Service team announce a mass resignation after
+    being sidelined and frustrated with DOGE efforts at the agency
+  source: https://www.politico.com/news/2025/04/15/pentagons-digital-resignations-00290930
+  agency: DOD
