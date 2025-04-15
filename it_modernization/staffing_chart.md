@@ -55,9 +55,6 @@ gantt
         SSA : 2025-02-10, 2025-04-14
     section Leland Dudek
         SSA : 2025-01-30, 2025-04-14
-        IRS : 2025-04-07, 2025-04-14
-        DHS : 2025-04-07, 2025-04-14
-        ICE : 2025-04-07, 2025-04-14
     section Stephen Ehikian
         GSA : 2025-01-20, 2025-04-14
         USIP : 2025-03-25, 2025-04-14
@@ -80,8 +77,6 @@ gantt
         State : 2025-02-10, 2025-04-14
         NIH : 2025-02-24, 2025-04-14
         SSA : 2025-03-13, 2025-04-14
-        DOI : 2025-04-12, 2025-04-14
-        DOD : 2025-04-12, 2025-04-14
     section Conor Fennessy
         HHS : 2025-03-29, 2025-04-14
     section Justin Fulcher
@@ -93,7 +88,6 @@ gantt
     section Brady Glantz
         FAA : 2025-02-16, 2025-04-14
     section Amy Gleason
-        SSA : 2025-02-20, 2025-04-14
         CMS : 2025-02-24, 2025-04-14
         HHS : 2025-03-04, 2025-04-14
     section Antonio Gracias
