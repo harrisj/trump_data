@@ -2,7 +2,7 @@
 meta:
   title: People
   version: 1.0.0
-  generated: 2025-04-12
+  generated: 2025-04-14
 
 people:
 
@@ -2821,6 +2821,7 @@ people:
   Peter Marocco:
     agencies:
     - Inter-American Foundation
+    - State Department
     - U.S. African Development Foundation
     - US Agency for International Development
     events:
@@ -2838,6 +2839,10 @@ people:
       agency: USAID
       type: report
       event: Peter Marocco says that he will be succeeded at the agency by Jeremy Lewin and Kenneth Jackson
+    - date: 2025-04-11~
+      agency: State
+      type: offboarded
+      event: Pete Marocco is reportedly fired from the State Department
 
   Miles Collins:
     agencies:

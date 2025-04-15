@@ -5162,6 +5162,7 @@ State:
   - Luke Farritor
   - Jeremy Lewin
   - Tarak Makecha
+  - Peter Marocco
   events:
   - date: 2025-02-10
     event: Edward Coristine and Luke Farritor are posted to the State Department's Bureau of Diplomatic Technology
@@ -5170,6 +5171,13 @@ State:
     - Edward Coristine
     - Luke Farritor
     source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
+    agency: State
+  - date: 2025-04-11~
+    type: offboarded
+    event: Pete Marocco is reportedly fired from the State Department
+    named:
+    - Peter Marocco
+    source: https://www.wsj.com/politics/policy/trump-official-who-oversaw-closure-of-usaid-has-left-state-department-5760da3d?st=59hf4K
     agency: State
   systems: {}
   cases: {}

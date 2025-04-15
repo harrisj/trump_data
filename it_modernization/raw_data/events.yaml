@@ -4291,6 +4291,14 @@
   source: https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/
   agency: SSA
 
+- date: 2025-04-11~
+  type: offboarded
+  event: Pete Marocco is reportedly fired from the State Department
+  named:
+  - Peter Marocco
+  source: https://www.wsj.com/politics/policy/trump-official-who-oversaw-closure-of-usaid-has-left-state-department-5760da3d?st=59hf4K
+  agency: State
+
 - date: 2025-04-12
   type: disruption
   event: A DOGE engineer has apparently removed the ability of government agencies to post new grants to grants.gov and requiring them to all be sent to a new email address created this week for reviews

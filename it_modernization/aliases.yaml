@@ -2,7 +2,7 @@
 meta:
   title: Events
   version: 1.0.0
-  generated: 2025-04-12
+  generated: 2025-04-14
 
 aliases:
 
@@ -13,6 +13,7 @@ aliases:
   agency: OPM
   evidence:
   - Onboarded on 2025-01-20 as a volunteer SGE
+  - This is likely one of the other young DOGE crew like Jordan Wick or Luke Farritor, etc.
   events:
   - date: 2025-01-20
     type: onboarded
@@ -133,6 +134,7 @@ aliases:
   agency: OPM
   evidence:
   - Onboarded on 2025-01-24 as a vounteer SGE with a term not to exceed 2025-07-22
+  - This is likely one of the other young DOGE crew like Jordan Wick or Luke Farritor, etc.
   events:
   - date: 2025-01-24
     type: onboarded
@@ -292,7 +294,7 @@ aliases:
   - Appointment is as Expert with a salary of $90K
   - Doing analysis of SSA payment data as focus
   - Software engineer with 5 years of experience and some leadership experience
-  - Most of the DOGE SGEs mapped to SSA are too young for this (Ed Coristine, Akash Bobba, Ethan Shaotran), but Cole Killian
+  - Most of the DOGE SGEs mapped to SSA are too young for this (Ed Coristine, Akash Bobba , Ethan Shaotran), but Cole Killian
     possibly
   - It also would match Gavin Kliger, but he hasn't been linked to SSA
   events:
