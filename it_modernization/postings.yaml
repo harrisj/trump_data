@@ -1312,18 +1312,6 @@ postings:
   last_date: 2025-02-03
 
 - agency_id: SSA
-  name: Antonio Gracias
-  first_date: 2024-02-24
-  all_dates:
-  - 2024-02-24
-  - 2025-02-27
-  - 2025-03-13
-  - 2025-03-30
-  - 2025-04-02
-  last_date: 2025-04-02
-  onboard_date: 2025-02-27
-
-- agency_id: SSA
   name: Leland Dudek
   first_date: 2025-01-30
   all_dates:
@@ -1469,6 +1457,18 @@ postings:
   - 2025-03-19
   - 2025-03-27
   last_date: 2025-03-27
+  onboard_date: 2025-02-27
+
+- agency_id: SSA
+  name: Antonio Gracias
+  first_date: 2025-02-24
+  all_dates:
+  - 2025-02-24
+  - 2025-02-27
+  - 2025-03-13
+  - 2025-03-30
+  - 2025-04-02
+  last_date: 2025-04-02
   onboard_date: 2025-02-27
 
 - agency_id: SSA

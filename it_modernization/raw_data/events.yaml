@@ -1,14 +1,4 @@
 # yaml-language-server: $schema=../schemas/events-file.json
-- date: 2024-02-24
-  type: onboarded
-  onboard_type: appointed
-  event: Unidentified "Employee 4" is appointed as an unpaid volunteer "Expert" at SSA with a term not to exceed 2026-02-22
-  comment: Reports to be a founder, CEO and Chief Investment Officer and to have 25 years of experience in private equity
-  named_aliases:
-  - SSA-4
-  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
-  agency: SSA
-
 - date: 2024-11-26
   type: report
   event: A person who is likely Anthony Jancso posted a message in an AI challenge's Discord saying "Helping the Dept. of Government Efficiency team find hardcore engineers. Send your GitHub/LinkedIn to @DOGE on X and your X handle to me in DM if you're interested or know someone who is, could help get them into the pipeline."
@@ -2125,6 +2115,16 @@
   - SSA-9
   agency: SSA
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+
+- date: 2025-02-24
+  type: onboarded
+  onboard_type: appointed
+  event: Unidentified "Employee 4" is appointed as an unpaid volunteer "Expert" at SSA with a term not to exceed 2026-02-22
+  comment: Reports to be a founder, CEO and Chief Investment Officer and to have 25 years of experience in private equity
+  named_aliases:
+  - SSA-4
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  agency: SSA
 
 - date: 2025-02-24
   type: onboarded

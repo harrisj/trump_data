@@ -4605,15 +4605,6 @@ SSA:
   - Ethan Shaotran
   - Mark Steffensen
   events:
-  - date: 2024-02-24
-    type: onboarded
-    onboard_type: appointed
-    event: Unidentified "Employee 4" is appointed as an unpaid volunteer "Expert" at SSA with a term not to exceed 2026-02-22
-    comment: Reports to be a founder, CEO and Chief Investment Officer and to have 25 years of experience in private equity
-    named_aliases:
-    - SSA-4
-    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
-    agency: SSA
   - date: 2025-01-24
     type: disruption
     event: Trump fires approximately 17 Inspectors General in a late-night purge
@@ -4877,6 +4868,15 @@ SSA:
     - SSA-9
     agency: SSA
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  - date: 2025-02-24
+    type: onboarded
+    onboard_type: appointed
+    event: Unidentified "Employee 4" is appointed as an unpaid volunteer "Expert" at SSA with a term not to exceed 2026-02-22
+    comment: Reports to be a founder, CEO and Chief Investment Officer and to have 25 years of experience in private equity
+    named_aliases:
+    - SSA-4
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    agency: SSA
   - date: 2025-02-24
     type: onboarded
     onboard_type: appointed

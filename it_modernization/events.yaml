@@ -6,20 +6,6 @@ meta:
 
 events:
 
-- date: 2024-02-24
-  type: onboarded
-  onboard_type: appointed
-  event: Unidentified "Employee 4" is appointed as an unpaid volunteer "Expert" at SSA with a term not to exceed 2026-02-22
-  comment: Reports to be a founder, CEO and Chief Investment Officer and to have 25 years of experience in private equity
-  named_aliases:
-  - SSA-4
-  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
-  agency: SSA
-  named:
-  - Antonio Gracias
-  mapped_aliases:
-    SSA-4: Antonio Gracias
-
 - date: 2024-11-26
   type: report
   event: A person who is likely Anthony Jancso posted a message in an AI challenge's Discord saying "Helping the Dept. of
@@ -2725,6 +2711,20 @@ events:
   - Payton Rehling
   mapped_aliases:
     SSA-9: Payton Rehling
+
+- date: 2025-02-24
+  type: onboarded
+  onboard_type: appointed
+  event: Unidentified "Employee 4" is appointed as an unpaid volunteer "Expert" at SSA with a term not to exceed 2026-02-22
+  comment: Reports to be a founder, CEO and Chief Investment Officer and to have 25 years of experience in private equity
+  named_aliases:
+  - SSA-4
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  agency: SSA
+  named:
+  - Antonio Gracias
+  mapped_aliases:
+    SSA-4: Antonio Gracias
 
 - date: 2025-02-24
   type: onboarded
