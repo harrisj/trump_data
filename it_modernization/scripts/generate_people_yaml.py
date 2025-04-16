@@ -53,4 +53,4 @@ meta = {
 }
 
 people = generate_people_comprehensive_yaml()
-dump_generated_file(meta, people, 'people.yaml', SCHEMA_PATH)
+dump_generated_file(meta, people, 'people.yaml', SCHEMA_PATH, line_break_indent=2)

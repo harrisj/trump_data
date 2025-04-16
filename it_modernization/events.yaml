@@ -5,6 +5,7 @@ meta:
   generated: 2025-04-16
 
 events:
+
 - date: 2024-02-24
   type: onboarded
   onboard_type: appointed
@@ -18,6 +19,7 @@ events:
   - Antonio Gracias
   mapped_aliases:
     SSA-4: Antonio Gracias
+
 - date: 2024-11-26
   type: report
   event: A person who is likely Anthony Jancso posted a message in an AI challenge's Discord saying "Helping the Dept. of
@@ -27,6 +29,7 @@ events:
   - Anthony Jancso
   source: https://www.wired.com/story/elon-musk-doge-recruiting-palantir/
   agency: DOGE
+
 - date: 2024-12-05
   type: report
   event: A person who is likely Anthony Jancso posts recruitment messages for DOGE to a chat group for employees who had worked
@@ -35,6 +38,7 @@ events:
   - Anthony Jancso
   source: https://www.wired.com/story/elon-musk-doge-recruiting-palantir/
   agency: DOGE
+
 - date: 2024-12-05
   type: report
   event: Luke Farritor posts a recruitment message for DOGE in a Discord server for SpaceX interns looking for volunteers
@@ -43,6 +47,7 @@ events:
   - Luke Farritor
   source: https://www.wired.com/story/elon-musk-doge-recruiting-palantir/
   agency: DOGE
+
 - date: 2024-12-06
   type: report
   event: A report on the tech billionaires steering Trump's transition mentions Musk and other DOGE staff, and how they have
@@ -58,6 +63,7 @@ events:
   - Steve Davis
   - Baris Akis
   agency: DOGE
+
 - date: 2024-12-30
   type: onboarded
   onboard_type: hired
@@ -66,6 +72,7 @@ events:
   - Amy Gleason
   source: https://www.documentcloud.org/documents/25564597-crewvdogereconmot031425/
   agency: DOGE
+
 - date: 2025-01-06
   type: report
   event: Riley Sennott's public calendar includes a 15-minute DOGE recruiting meeting
@@ -73,6 +80,7 @@ events:
   - Riley Sennott
   source: https://www.msn.com/en-us/money/companies/we-found-a-doge-guy-at-nasa-because-his-google-calendar-was-public/ar-AA1At75X
   agency: DOGE
+
 - date: 2025-01-08
   type: official
   event: The leader of the Trump transition team for the Treasury Department sends an email requesting that Thomas Krause
@@ -81,6 +89,7 @@ events:
   - Tom Krause
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf#page=13
   agency: Treasury
+
 - date: 2025-01-16~
   type: report
   event: Noah Peters recalls discussing the concept of using administrative leave to sideline federal employees with Keenan
@@ -91,6 +100,7 @@ events:
   - Keenan Kmiec
   source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
   agency: OPM
+
 - date: 2025-01-16
   type: report
   event: A report on conservative nonprofit groups doing research for DOGE notes that interviews are being conducted by Marc
@@ -100,6 +110,7 @@ events:
   - Shaun Maguire
   source: https://www.washingtonexaminer.com/news/investigations/3287555/maga-conservative-non-profits-doge-research/
   agency: DOGE
+
 - date: 2025-01-16~
   type: report
   event: Noah Peters receives a job offer to work at the OPM. He describes it as very general and vague.
@@ -108,6 +119,7 @@ events:
   - Noah Peters
   source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
   agency: OPM
+
 - date: 2025-01-16~
   type: report
   event: Noah Peters starts working on two memos around temporary authorities for Schedule C and another on probationary employees
@@ -117,6 +129,7 @@ events:
   - Noah Peters
   source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
   agency: OPM
+
 - date: 2025-01-17
   type: report
   event: The public calendar of Riley Sennott mentions a 30-minute "SGE Ethics Discussion" meeting with 2 GSA addresses and
@@ -128,6 +141,7 @@ events:
   - Conor Fennessy
   source: https://www.msn.com/en-us/money/companies/we-found-a-doge-guy-at-nasa-because-his-google-calendar-was-public/ar-AA1At75X
   agency: DOGE
+
 - date: 2025-01-17
   type: report
   event: Several of the DOGE staff meet to plan for their first day at OPM. They are not federal employees at that time.
@@ -137,24 +151,28 @@ events:
   - Brian Bjelde
   source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
   agency: OPM
+
 - date: 2025-01-20
   type: official
   event: An Inauguration Day executive order renames the US Digital Services and establishes the DOGE Temporary Organization
     within it, staffed with 4-person teams in agencies for "implementing the president's DOGE agenda"
   source: https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/
   agency: DOGE
+
 - date: 2025-01-20
   type: official
   event: In another executive order, Trump declares a hiring freeze and that DOGE will work with OMB and OPM to submit a plan
     to reduce the size of the government within 90 days
   source: https://www.whitehouse.gov/presidential-actions/2025/01/hiring-freeze/
   agency: DOGE
+
 - date: 2025-01-20
   type: official
   event: USDS is transferred out of the Office of Management and Budget (OMB) and established a standalone office in the Executive
     Office of the President
   source: https://www.documentcloud.org/documents/25564597-crewvdogereconmot031425/
   agency: DOGE
+
 - date: 2025-01-20
   type: onboarded
   onboard_type: appointed
@@ -164,6 +182,7 @@ events:
   - Stephen Ehikian
   source: https://www.nextgov.com/people/2025/01/gsa-announces-new-fas-tts-leadership/402485/
   agency: GSA
+
 - date: 2025-01-20
   type: onboarded
   onboard_type: appointed
@@ -173,6 +192,7 @@ events:
   - Greg Hogan
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
   agency: OPM
+
 - date: 2025-01-20
   type: onboarded
   onboard_type: appointed
@@ -187,6 +207,7 @@ events:
   - Akash Bobba
   mapped_aliases:
     OPM-3: Akash Bobba
+
 - date: 2025-01-20
   type: report
   event: Acting OPM Director Charles Ezell replaces existing CIO Melvin Brown with Greg Hogan in an acting capacity
@@ -195,11 +216,13 @@ events:
   - Greg Hogan
   source: https://www.muskwatch.com/p/musk-associates-given-unfettered
   agency: OPM
+
 - date: 2025-01-20
   type: report
   event: The DOGE team moves into OPM, installing sofa beds and armed security
   source: https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/
   agency: OPM
+
 - date: 2025-01-20~
   type: onboarded
   onboard_type: hired
@@ -209,6 +232,7 @@ events:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: GSA
+
 - date: 2025-01-20~
   type: onboarded
   onboard_type: hired
@@ -220,6 +244,7 @@ events:
   - Edward Coristine
   - Ethan Shaotran
   source: https://www.wired.com/story/elon-musk-lackeys-general-services-administration/
+
 - date: 2025-01-20
   type: onboarded
   onboard_type: appointed
@@ -229,6 +254,7 @@ events:
   - Noah Peters
   - Amanda Scales
   agency: OPM
+
 - date: 2025-01-20
   type: onboarded
   onboard_type: appointed
@@ -238,6 +264,7 @@ events:
   - OPM-5
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
   agency: OPM
+
 - date: 2025-01-21
   type: report
   event: DOGE staff start screening all current USDS staff with short interviews, asking them their views of DOGE and who
@@ -247,6 +274,7 @@ events:
   - Nikhil Rajpal
   source: https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/
   agency: DOGE
+
 - date: 2025-01-21
   type: onboarded
   onboard_type: appointed
@@ -256,6 +284,7 @@ events:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.4_3.pdf
   agency: Treasury
+
 - date: 2025-01-21
   type: onboarded
   onboard_type: detailed
@@ -273,6 +302,7 @@ events:
     start_date: 2025-01-21
     comment: No document. For Luke Farritor and possibly others on or before Jan 21. Details from court filing
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+
 - date: 2025-01-22
   type: access_granted
   access_type: admin
@@ -283,6 +313,7 @@ events:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: HHS
+
 - date: 2025-01-23
   type: onboarded
   onboard_type: hired
@@ -291,6 +322,7 @@ events:
   - Adam Ramada
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
   agency: DOGE
+
 - date: 2025-01-23
   type: onboarded
   onboard_type: appointed
@@ -299,16 +331,19 @@ events:
   - Tom Krause
   source: https://fedscoop.com/treasury-payments-systems-doge-judge-ruling/
   agency: Treasury
+
 - date: 2025-01-23
   type: report
   event: OPM sends out a first test email from its new government-wide email system
   source: https://www.cbsnews.com/news/trump-administration-confuses-government-workers-email-test-message/
   agency: OPM
+
 - date: 2025-01-24
   event: The Trump administration names Susan Monarez, an outsider to the agency, as acting director of the CDC
   type: disruption
   source: https://www.economist.com/united-states/2025/03/10/how-doge-is-driving-americas-public-health-guardians-mad
   agency: CDC
+
 - date: 2025-01-24
   type: onboarded
   onboard_type: consultant
@@ -317,6 +352,7 @@ events:
   - OPM-4
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
   agency: OPM
+
 - date: 2025-01-24
   type: onboarded
   event: Unidentified employee OPM-6 is onboarded as a volunteer SGE with a term not to exceed 2025-07-22
@@ -324,6 +360,7 @@ events:
   - OPM-6
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
   agency: OPM
+
 - date: 2025-01-24
   type: report
   event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
@@ -339,11 +376,13 @@ events:
   - Baris Akis
   - James Burnham
   agency: DOGE
+
 - date: 2025-01-24
   type: official
   event: Treasury Chief of Staff Dan Katz sends an email stating that DOGE staff need to be given access to pause USAID payments
   source: https://www.nytimes.com/2025/02/06/us/politics/trump-musk-usaid.html
   agency: Treasury
+
 - date: 2025-01-24
   type: onboarded
   onboard_type: hired
@@ -353,6 +392,7 @@ events:
   - Thomas Shedd
   source: https://www.nextgov.com/people/2025/01/gsa-announces-new-fas-tts-leadership/402485/
   agency: GSA
+
 - date: 2025-01-24
   type: disruption
   event: Trump fires approximately 17 Inspectors General in a late-night purge
@@ -370,17 +410,20 @@ events:
   - OPM
   - SSA
   - VA
+
 - date: 2025-01-26
   type: report
   event: Spurred by rumors there would be a funding freeze, HUD grantees drew their funds early at 5x normal rate or $1.5
     billion
   source: https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/
   agency: HUD
+
 - date: 2025-01-26
   type: report
   event: OPM sends a second test email from its new government-wide email system to all government employees
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.276820/gov.uscourts.dcd.276820.1.0.pdf
   agency: OPM
+
 - date: 2025-01-27
   type: access_granted
   access_type: read
@@ -392,6 +435,7 @@ events:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: HHS
+
 - date: 2025-01-27
   type: report
   event: A member of the OPM union posts a Reddit message reportedly from an OPM employee stating that the email server is
@@ -400,6 +444,7 @@ events:
   - Amanda Scales
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.276820/gov.uscourts.dcd.276820.1.0.pdf
   agency: OPM
+
 - date: 2025-01-27
   type: legal
   event: Two anonymous federal employees file a class action lawsuit against OPM for launching the new email system without
@@ -415,6 +460,7 @@ events:
     date_filed: 2025-01-27
     link: https://www.courtlistener.com/docket/69582338/doe-v-office-of-personnel-management/
     agency: OPM
+
 - date: 2025-01-27
   type: report
   event: A DOGE official first arrives at USAID. Later, senior staff are summoned to a meeting with Gavin Kliger and Luke
@@ -424,12 +470,14 @@ events:
   - Luke Farritor
   source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
   agency: USAID
+
 - date: 2025-01-27
   type: disruption
   event: President Trump illegally fires NLRB Chair Gwynne Wilcox and NLRB General Counsel Jennifer Abruzzo. This leaves the
     agency without quorum to act.
   source: https://thefulcrum.us/business-democracy/department-of-labor-doge
   agency: NLRB
+
 - date: 2025-01-28
   event: CDC managers receive a directive from OPM to rank probationary hires as "mission critical", working on "strategic
     priorities" or neither. When one of the CDC's ten centres responded that all their staff were "mission critical", higher-ups
@@ -437,6 +485,7 @@ events:
   type: report
   source: https://www.economist.com/united-states/2025/03/10/how-doge-is-driving-americas-public-health-guardians-mad
   agency: CDC
+
 - date: 2025-01-28
   type: onboarded
   onboard_type: detailed
@@ -459,6 +508,7 @@ events:
     reimbursed: false
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     file: mou-20250212-doge-education-all.pdf
+
 - date: 2025-01-28
   type: disruption
   event: Two DOGE staffers attempted to force water pumps to be turned on in a large reservoir in California for a photo op
@@ -467,6 +517,7 @@ events:
   - Bryton Shang
   source: https://www.cnn.com/2025/03/07/climate/trump-doge-california-water/index.html
   agency: DOI
+
 - date: 2025-01-28
   type: access_granted
   access_type: read
@@ -480,11 +531,13 @@ events:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.3_1.pdf
   agency: Treasury
+
 - date: 2025-01-28
   type: report
   event: OPM sends out the "Fork in the Road" email to all federal employees offering them a chance to resign
   source: https://www.wired.com/story/doge-hr-elon-musk-resignation-fork-road-leaked-staff-meeting/
   agency: OPM
+
 - date: 2025-01-28
   type: onboarded
   onboard_type: appointed
@@ -493,6 +546,7 @@ events:
   - Jeremy Lewin
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576293/gov.uscourts.mdd.576293.77.2.pdf
   agency: USAID
+
 - date: 2025-01-29
   type: onboarded
   onboard_type: appointed
@@ -501,6 +555,7 @@ events:
   - Michael Grimes
   source: https://www.nytimes.com/2025/01/29/us/politics/morgan-stanley-grimes-trump-commerce.html
   agency: Commerce
+
 - date: 2025-01-29
   type: access_changed
   access_type: read-write
@@ -511,6 +566,7 @@ events:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
   agency: Treasury
+
 - date: 2025-01-29
   type: report
   event: A team of high-ranking GSA employees meets to discuss building special "resting rooms" for DOGE and other A-suite
@@ -519,6 +575,7 @@ events:
   named:
   - Nicole Hollander
   agency: GSA
+
 - date: 2025-01-29
   type: access_granted
   access_type: admin
@@ -530,6 +587,7 @@ events:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: HHS
+
 - date: 2025-01-30
   type: access_granted
   access_type: read
@@ -541,6 +599,7 @@ events:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CDC
+
 - date: 2025-01-30
   type: access_changed
   access_type: read
@@ -551,6 +610,7 @@ events:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
   agency: Treasury
+
 - date: 2025-01-30
   type: report
   event: Elon Musk reportedly visits GSA to meet with staff, several of whom are identified from appearances in the internal
@@ -564,6 +624,7 @@ events:
   - Stephen Ehikian
   - Luke Farritor
   agency: GSA
+
 - date: 2025-01-30
   type: report
   event: Leland Dudek reaches out to Tiffany Flick, the Associate Director of Budget, Facilities and Security to inform her
@@ -574,11 +635,13 @@ events:
   - Scott Coulter
   source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
   agency: SSA
+
 - date: 2025-01-30
   type: report
   event: DOGE discovers that some USAID grants had been paid automatically through HHS despite a declared freeze
   source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
   agency: USAID
+
 - date: 2025-01-30
   type: disruption
   event: Farritor and Kliger demanded that all senior managers at USAID be stripped of their power to authorize payments -
@@ -588,6 +651,7 @@ events:
   - Gavin Kliger
   source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
   agency: USAID
+
 - date: 2025-01-31
   type: access_granted
   access_type: read
@@ -599,6 +663,7 @@ events:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CMS
+
 - date: 2025-01-31
   type: access_changed
   access_type: read-write
@@ -609,6 +674,7 @@ events:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
   agency: Treasury
+
 - date: 2025-01-31
   type: report
   event: Wired reports that DOGE staff are attempting to get elevated access to GSA systems and making changes to office arrangements
@@ -620,6 +686,7 @@ events:
   - Ethan Shaotran
   source: https://www.wired.com/story/elon-musk-lackeys-general-services-administration/
   agency: GSA
+
 - date: 2025-01-31
   type: disruption
   event: Federal employees at OPM are locked out of access to key systems by DOGE and OPM leadership
@@ -629,6 +696,7 @@ events:
   - Riccardo Biasini
   source: https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/
   agency: OPM
+
 - date: 2025-01-31
   type: onboarded
   onboard_type: appointed
@@ -637,6 +705,7 @@ events:
   - Mike Russo
   source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
   agency: SSA
+
 - date: 2025-01-31
   type: onboarded
   onboard_type: appointed
@@ -650,6 +719,7 @@ events:
   - Conor Fennessy
   mapped_aliases:
     ED-2: Conor Fennessy
+
 - date: 2025-02-01
   type: access_changed
   access_type: read
@@ -660,6 +730,7 @@ events:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
   agency: Treasury
+
 - date: 2025-02-01
   type: report
   comment: FIXME with system access ticket
@@ -668,22 +739,26 @@ events:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
   agency: Treasury
+
 - date: 2025-02-01
   type: disruption
   event: USAID Director of Security and deputy placed on administrative leave for trying to prevent DOGE from accessing personnel
     files and classified data
   source: https://www.nbcnews.com/politics/national-security/usaid-security-leaders-removed-refusing-elon-musks-doge-employees-acce-rcna190357
   agency: USAID
+
 - date: 2025-02-01
   type: disruption
   event: USAID website and 6 other related websites are taken offline by DOGE
   source: https://www.wired.com/story/us-government-websites-are-disappearing-in-real-time/
   agency: USAID
+
 - date: 2025-02-01
   type: disruption
   event: Approximately 2000 USAID email accounts are deactivated
   source: https://fedscoop.com/usaid-website-goes-dark-staff-emails-deactivated-amid-doge-takeover-source-says/
   agency: USAID
+
 - date: 2025-02-02
   type: report
   event: Wired Magazine identifies Akash Bobba, Gavin Kliger and Edward Coristine as special advisors reporting to Amanda
@@ -694,6 +769,7 @@ events:
   - Gavin Kliger
   source: https://www.wired.com/story/elon-musk-government-young-engineers/
   agency: OPM
+
 - date: 2025-02-02
   type: report
   event: Wired Magazine identifies several DOGE staffers with GSA email addresses and A-Suite Level clearances granting them
@@ -705,6 +781,7 @@ events:
   - Ethan Shaotran
   source: https://www.wired.com/story/elon-musk-government-young-engineers/
   agency: GSA
+
 - date: 2025-02-02
   type: report
   event: Wired Magazine identifies Cole Killian as a volunteer at DOGE
@@ -712,11 +789,13 @@ events:
   - Cole Killian
   source: https://www.wired.com/story/elon-musk-government-young-engineers/
   agency: DOGE
+
 - date: 2025-02-02
   type: disruption
   event: Elon Musk posts a series of tweets calling USAID evil and saying it is "time for it to die"
   source: https://www.nbcnews.com/politics/doge/elon-musk-boosted-false-usaid-conspiracy-theories-global-aid-rcna190646
   agency: USAID
+
 - date: 2025-02-03
   type: report
   event: Twenty DOGE staff are in the agency and "have gained access to multiple sensitive internal systems, the people said,
@@ -724,6 +803,7 @@ events:
     student aid program."
   source: https://www.washingtonpost.com/education/2025/02/03/trump-education-department-dismantling-executive-order-draft/
   agency: Education
+
 - date: 2025-02-03
   type: access_granted
   access_type: read
@@ -735,6 +815,7 @@ events:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.3_1.pdf
   agency: Treasury
+
 - date: 2025-02-03
   type: report
   event: A ticket notes that Marko Elez was walked through access to the PAM system and confirms access was read only
@@ -742,6 +823,7 @@ events:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
   agency: Treasury
+
 - date: 2025-02-03
   type: access_granted
   access_type: admin
@@ -751,6 +833,7 @@ events:
     payment systems.
   source: https://xcancel.com/lbarronlopez/status/1886491276729544809
   agency: SBA
+
 - date: 2025-02-03
   type: report
   event: Mike Russo officially joins the agency as its new CIO, requests Akash Bobba to join the agency (but he has issues
@@ -760,6 +843,7 @@ events:
   - Akash Bobba
   source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
   agency: SSA
+
 - date: 2025-02-03
   type: report
   event: An email informing USAID staff that the building was closed included Gavin Kliger's email address
@@ -767,12 +851,14 @@ events:
   - Gavin Kliger
   source: https://www.npr.org/2025/02/06/nx-s1-5289337/elon-musk-doge-treasury
   agency: USAID
+
 - date: 2025-02-03
   type: disruption
   event: Elon Musk tweets that he and President Trump are shutting down USAID, bragging he had fed the agency "into the wood
     chipper"
   source: https://www.nbcnews.com/politics/politics-news/elon-musk-says-trump-are-shutting-usaid-rcna190388
   agency: USAID
+
 - date: 2025-02-03
   type: onboarded
   detailed_from: OPM
@@ -800,6 +886,7 @@ events:
     comment: This is for a SGE position so it is not reimbursed and for a maximum of 135 days from start of SGE term
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     file: mou-20250212-opm-education-ed-1.pdf
+
 - date: 2025-02-03
   type: onboarded
   detailed_from: GSA
@@ -826,6 +913,7 @@ events:
     comment: This is for a SGE position so it is not reimbursed and for a maximum of 135 days from start of SGE term
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     file: mou-20250212-gsa-education-ed-3.pdf
+
 - date: 2025-02-04
   type: report
   event: One of AFGE's members who works in the headquarters of the Department received an instruction from Department leadership
@@ -837,6 +925,7 @@ events:
   - Elon Musk
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.29.8_1.pdf
   agency: DOL
+
 - date: 2025-02-04
   type: official
   event: Treasury Secretary Scott Bessent writes a letter to Congress about Scott Krause having read-only access but doesn't
@@ -845,6 +934,7 @@ events:
   - Tom Krause
   source: https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/
   agency: Treasury
+
 - date: 2025-02-04
   type: report
   event: Gauiter "Cole" Killian appears in an EPA internal directory as a "Federal Detailee"
@@ -852,16 +942,19 @@ events:
   - Cole Killian
   source: https://www.eenews.net/articles/doge-aide-pops-up-in-epa-staff-directory/
   agency: EPA
+
 - date: 2025-02-04
   type: report
   event: DOGE staff enter NOAA facilities
   source: https://www.axios.com/2025/02/04/trump-nominates-noaa-head-neil-jacobs
   agency: NOAA
+
 - date: 2025-02-04
   type: disruption
   event: All USAID staff are informed by email they will soon be placed on indefinite administrative leave
   source: https://oig.usaid.gov/sites/default/files/2025-02/USAID%20OIG%20-%20Oversight%20of%20USAID-Funded%20Humanitarian%20Assistance%20Programming%20021025.pdf
   agency: USAID
+
 - date: 2025-02-04
   type: report
   event: A representative from DOGE was given access to contracting systems as well as information on VA operations and information
@@ -869,6 +962,7 @@ events:
   comment: likely Justin Fulcher
   source: https://www.military.com/daily-news/2025/02/05/elon-musk-aide-now-working-va-and-accessing-its-computer-systems.html
   agency: VA
+
 - date: 2025-02-04
   type: access_granted
   access_type: unknown
@@ -880,6 +974,7 @@ events:
     on February 4th and he was the only DOGE person to access systems
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
   agency: Education
+
 - date: 2025-02-04
   type: onboarded
   onboard_type: consultant
@@ -892,22 +987,26 @@ events:
   - Brooks Morgan
   mapped_aliases:
     ED-4: Brooks Morgan
+
 - date: 2025-02-05
   type: report
   event: DOGE staff reported with agency buildings with access to certain systems like CALM, but sources deny they have access
     to HIGLAS
   source: https://www.wsj.com/politics/elon-musk-doge-medicare-medicaid-fraud-e697b162
   agency: CMS
+
 - date: 2025-02-05
   type: official
   event: CMS releases a press release stating that two agency veterans have been assigned to work with DOGE
   source: https://www.cms.gov/newsroom/press-releases/cms-statement-collaboration-doge
   agency: CMS
+
 - date: 2025-02-05
   type: report
   event: DOGE staff enters the Commerce Department
   source: https://www.govexec.com/management/2025/02/doge-enters-noaa-accesses-it-systems-and-removes-top-hr-official/402776/
   agency: Commerce
+
 - date: 2025-02-05
   type: access_granted
   access_type: admin
@@ -919,11 +1018,13 @@ events:
   named:
   - Luke Farritor
   agency: Energy
+
 - date: 2025-02-05
   type: report
   event: DOGE staff are given access to the Department of Labor IT systems
   source: https://www.theguardian.com/us-news/2025/feb/05/elon-musk-doge-labor-department-protest
   agency: DOL
+
 - date: 2025-02-05
   type: report
   event: A ticket notes that Marko Elez was walked through read-only access to the SPS system
@@ -931,17 +1032,20 @@ events:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
   agency: Treasury
+
 - date: 2025-02-05
   type: report
   event: Marko Elez is sent an email requesting that he sign the rules of behavior document for the Bureau of the Fiscal Service;
     it should've been signed when he received his laptop
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.44.1.pdf#page=36
   agency: Treasury
+
 - date: 2025-02-05
   type: report
   event: Elon Musk promises that DOGE will make rapid upgrades to airline systems after outage of NOTAM alerting system
   source: https://www.nytimes.com/2025/02/05/us/politics/elon-musk-doge-faa.html
   agency: FAA
+
 - date: 2025-02-05
   type: onboarded
   onboard_type: unknown
@@ -950,6 +1054,7 @@ events:
   - Edward Coristine
   source: https://www.washingtonpost.com/climate-environment/2025/02/07/musk-trump-fema-doge/
   agency: FEMA
+
 - date: 2025-02-05
   type: access_granted
   access_type: unknown
@@ -960,6 +1065,7 @@ events:
   - Edward Coristine
   source: https://www.washingtonpost.com/climate-environment/2025/02/07/musk-trump-fema-doge/
   agency: FEMA
+
 - date: 2025-02-05
   type: access_granted
   access_type: read-write
@@ -971,6 +1077,7 @@ events:
     commerce secretary, Jeremy Pelter, by the close of business.
   source: https://www.wired.com/story/doge-engineer-noaa-data-google-musk-climate-project-2025/
   agency: NOAA
+
 - date: 2025-02-05
   type: legal
   event: OPM attests the government-wide email system runs on agency systems
@@ -985,12 +1092,14 @@ events:
     date_filed: 2025-01-27
     link: https://www.courtlistener.com/docket/69582338/doe-v-office-of-personnel-management/
     agency: OPM
+
 - date: 2025-02-05
   type: official
   event: OPM issues a Privacy Impact Assessment for its Government-Wide Email System (GWES) that states responses are voluntary,
     brief and do not include identifying information
   source: https://fedscoop.com/wp-content/uploads/sites/5/2025/03/2025-02-05_-_11-1_-_D_-_Ex._A_-_PIA.pdf
   agency: OPM
+
 - date: 2025-02-05
   type: onboarded
   detailed_from: DOGE
@@ -1011,12 +1120,14 @@ events:
     reimbursed: false
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     file: mou-20250212-doge-education-all.pdf
+
 - date: 2025-02-05
   type: official
   event: Thomas Flagg, the CIO of the Dept. of Education, sends a memo to the heads of IT that orders them to give DOGE staff
     prompt access to all systems
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
   agency: Education
+
 - date: 2025-02-05
   type: access_revoked
   access_systems:
@@ -1027,11 +1138,13 @@ events:
   comment: His system access was actually revoked 30 days after February 4th, but he had no other access after that date
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
   agency: Education
+
 - date: 2025-02-06
   type: report
   event: DOGE staff arrive at CDC HQ in Atlanta
   source: https://www.fox5atlanta.com/news/elon-musks-doge-team-visits-cdc-atlanta-reports-say
   agency: CDC
+
 - date: 2025-02-06
   type: report
   event: DOGE staff enter CFPB facilities and are given equipment and onboarded
@@ -1041,12 +1154,14 @@ events:
   - Gavin Kliger
   - Chris Young
   agency: CFPB
+
 - date: 2025-02-06
   type: report
   event: The Washington Post reports that DOGE is feeding Department of Education data into an AI system hosted in Microsoft
     Azure
   source: https://www.washingtonpost.com/nation/2025/02/06/elon-musk-doge-ai-department-education/
   agency: Education
+
 - date: 2025-02-06
   type: legal
   event: Judge Colleen Kollar-Kotelly rules that DOGE should only be granted read access to government systems
@@ -1063,6 +1178,7 @@ events:
     date_filed: 2025-02-03
     link: https://www.courtlistener.com/docket/69607077/alliance-for-retired-americans-v-bessent/
     agency: Treasury
+
 - date: 2025-02-06
   type: report
   comment: FIXME
@@ -1071,6 +1187,7 @@ events:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
   agency: Treasury
+
 - date: 2025-02-06
   type: report
   event: On the morning of February 6, Treasury discovers that Marko Elez's database access to SPS on February 5 had mistakenly
@@ -1079,6 +1196,7 @@ events:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.3_1.pdfmarko-elez-resigned-the-day-his-write-access-to-payment-systems-was-discovered/
   agency: Treasury
+
 - date: 2025-02-06
   type: offboarded
   named:
@@ -1087,6 +1205,7 @@ events:
     access)
   source: https://www.npr.org/2025/02/06/nx-s1-5289337/elon-musk-doge-treasury
   agency: Treasury
+
 - date: 2025-02-06
   type: access_revoked
   access_systems:
@@ -1096,6 +1215,7 @@ events:
   event: Marko Elez has his access to Treasury systems revoked due to his resignation
   source: https://www.npr.org/2025/02/06/nx-s1-5289337/elon-musk-doge-treasury
   agency: Treasury
+
 - date: 2025-02-06
   type: legal
   event: DOGE member and lawyer Jacob Altik joins the case for the defense
@@ -1112,6 +1232,7 @@ events:
     date_filed: 2025-01-27
     link: https://www.courtlistener.com/docket/69582338/doe-v-office-of-personnel-management/
     agency: OPM
+
 - date: 2025-02-06
   type: legal
   event: The court dismisses the motion for a temporary restraining order against the OPM email system since there is now
@@ -1127,22 +1248,26 @@ events:
     date_filed: 2025-01-27
     link: https://www.courtlistener.com/docket/69582338/doe-v-office-of-personnel-management/
     agency: OPM
+
 - date: 2025-02-06
   type: report
   event: DOGE staff attempt to use access to Treasury systems to stop payment to USAID programs
   source: https://apnews.com/article/treasury-doge-musk-read-only-access-489231c6db1a9f07fc68f9f08803f815
   agency: USAID
+
 - date: 2025-02-07
   type: disruption
   event: Elon Musk posts a tweet "CFPB RIP" with a tombstone emoji
   source: https://news.bloomberglaw.com/banking-law/musks-doge-descends-on-consumer-financial-protection-bureau
   agency: CFPB
+
 - date: 2025-02-07
   type: report
   event: DOGE staff are given full privileged access to CFPB systems without completing training or agreeing to CFPB's acceptable
     use policy for IT systems
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.38.5.pdf
   agency: CFPB
+
 - date: 2025-02-07
   type: access_granted
   access_type: read
@@ -1165,6 +1290,7 @@ events:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CFPB
+
 - date: 2025-02-07
   type: access_granted
   access_type: admin
@@ -1177,6 +1303,7 @@ events:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CFPB
+
 - date: 2025-02-07
   type: access_granted
   access_type: admin
@@ -1188,6 +1315,7 @@ events:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CFPB
+
 - date: 2025-02-07
   type: access_granted
   access_type: admin
@@ -1197,11 +1325,13 @@ events:
     the CFPB's website
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CFPB
+
 - date: 2025-02-07
   type: disruption
   event: The CFPB homepage is deleted and returns a 404 error
   source: https://www.forbes.com/sites/eriksherman/2025/02/09/consumer-financial-protection-bureau-adds-error-message-to-home-page/
   agency: CFPB
+
 - date: 2025-02-07
   type: onboarded
   onboard_type: appointed
@@ -1210,26 +1340,31 @@ events:
   - Ryan Riedel
   source: https://www.aol.com/trump-energy-secretary-allowed-23-003504452.html
   agency: Energy
+
 - date: 2025-02-07
   type: report
   event: Sources indicate that 3 unidentified DOGE personnel are working at the Department of Energy
   source: https://www.reuters.com/world/us/three-doge-members-raise-access-concerns-us-energy-department-sources-say-2025-02-07/
   agency: Energy
+
 - date: 2025-02-07
   type: disruption
   event: 168 employees who worked on environmental justice are placed on indefinite administrative leave
   source: https://subscriber.politicopro.com/article/eenews/2025/02/07/epas-environmental-justice-office-in-tatters-00203091
   agency: EPA
+
 - date: 2025-02-07
   type: disruption
   event: DOGE posts a tweet boasting about the removal of signage for USAID
   source: https://xcancel.com/DOGE/status/1887959408555995416#m
   agency: USAID
+
 - date: 2025-02-07
   type: disruption
   event: All USAID staff are placed on indefinite administrative leave
   source: https://www.nbcnews.com/politics/politics-news/usaid-reduce-foreign-service-officers-trump-cuts-federal-government-rcna191122
   agency: USAID
+
 - date: 2025-02-08
   type: access_granted
   access_type: admin
@@ -1241,11 +1376,13 @@ events:
   - Ethan Shaotran
   source: https://www.nbcnews.com/news/us-news/elon-musk-doge-team-education-department-rcna191244
   agency: Education
+
 - date: 2025-02-08
   type: disruption
   event: DOGE social media account on X boasts about deleting a DHS page of LGBTQI+ resources
   source: https://www.newsweek.com/doge-account-calls-attention-removing-lgbtq-web-page-2028440
   agency: DHS
+
 - date: 2025-02-09
   type: access_granted
   access_type: admin
@@ -1256,6 +1393,7 @@ events:
   - Jordan Wick
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CFPB
+
 - date: 2025-02-09
   type: disruption
   event: Gavin Kliger and Luke Farritor completely remove all access to the payments system for all other USAID staff
@@ -1264,6 +1402,7 @@ events:
   - Luke Farritor
   source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
   agency: USAID
+
 - date: 2025-02-10
   type: report
   named:
@@ -1271,16 +1410,19 @@ events:
   event: Edward Coristine appears in a DHS directory as a "senior advisor"
   source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
   agency: DHS
+
 - date: 2025-02-10
   type: report
   event: Affadavit states a BFS payment was presented to State Department to not process after review by DOGE
   source: https://www.washingtonpost.com/business/2025/02/11/doge-treasury-access-marko-elez/
   agency: Treasury
+
 - date: 2025-02-10
   type: official
   event: NOTAM has its name changed from Notice to Air Missions back to its original name of Notice to Airmen
   source: https://www.faa.gov/about/initiatives/notam/what_is_a_notam
   agency: FAA
+
 - date: 2025-02-10
   type: report
   event: Unnamed DOGE staff using non-government accounts conduct dozens of "touch-base" interviews with dozens of US Digital
@@ -1289,6 +1431,7 @@ events:
   - Thomas Shedd
   source: https://fedscoop.com/doge-sessions-gsa-staff-probationary-terminations/
   agency: GSA
+
 - date: 2025-02-10
   type: report
   event: Employees at HUD receive an email from Scott Langmack asking them to list every contract at HUD and whether it is
@@ -1297,6 +1440,7 @@ events:
   - Scott Langmack
   source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
   agency: HUD
+
 - date: 2025-02-10
   event: Edward Coristine and Luke Farritor are posted to the State Department's Bureau of Diplomatic Technology
   type: report
@@ -1305,6 +1449,7 @@ events:
   - Luke Farritor
   source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
   agency: State
+
 - date: 2025-02-10
   type: report
   event: Mike Russo, DOGE chief of staff Steve Davis both demand that Akash Bobba be onboarded before midnight.
@@ -1314,6 +1459,7 @@ events:
   - Akash Bobba
   source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
   agency: SSA
+
 - date: 2025-02-10
   type: report
   event: CIO Mike Russo convenes his own internal informational group in SSA, has conversations with other agencies about
@@ -1323,6 +1469,7 @@ events:
   - Leland Dudek
   - Mike Russo
   agency: SSA
+
 - date: 2025-02-10
   type: access_granted
   access_type: read
@@ -1334,12 +1481,14 @@ events:
   named:
   - Akash Bobba
   agency: SSA
+
 - date: 2025-02-10
   type: disruption
   event: A day after a conservative activist flagged it on X, DOGE posts it has removed gender identity options from a VA
     form
   source: https://www.nytimes.com/2025/02/26/us/politics/elon-musk-doge-x-accounts-activists.html
   agency: VA
+
 - date: 2025-02-10
   type: onboarded
   onboard_type: appointed
@@ -1348,6 +1497,7 @@ events:
   - SSA-1
   agency: SSA
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+
 - date: 2025-02-10
   type: official
   event: Unidentified "Employee 2" signs the SSA Rules of Behavior for access to SSA networks and systems
@@ -1355,6 +1505,7 @@ events:
   - SSA-1
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   agency: SSA
+
 - date: 2025-02-10
   type: report
   event: Incoming SSA head directs for Mark Steffensen to beonboarded to SSA as an attorney, according to the testimony of
@@ -1363,6 +1514,7 @@ events:
   - Mark Steffensen
   source: https://www.finance.senate.gov/imo/media/doc/ssa_whistleblower_statement.pdf
   agency: SSA
+
 - date: 2025-02-11
   type: promotion
   event: Greg Hogan is formally named the CIO of OPM
@@ -1371,11 +1523,13 @@ events:
   - Greg Hogan
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
   agency: OPM
+
 - date: 2025-02-11
   type: disruption
   event: CFPB Contracting Officers (COs) are ordered to terminate the vast majority of CFPB's contracts during that weekend
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.38.4.pdf
   agency: CFPB
+
 - date: 2025-02-11
   type: legal
   event: Department of Education agreed to block DOGE from access to financial aid systems
@@ -1394,12 +1548,14 @@ events:
     - Education
     - Treasury
     - OPM
+
 - date: 2025-02-11
   type: official
   event: Trump issues an executive order giving DOGE teams in every agency final approval on any hiring decisions, sets quota
     of 1 new hire for 4 departures
   source: https://www.whitehouse.gov/presidential-actions/2025/02/implementing-the-presidents-department-of-government-efficiency-workforce-optimization-initiative/
   agency: DOGE
+
 - date: 2025-02-11
   type: report
   event: Affadavit states Marko Elez was accidentally given edit access to BFS systems but did not use it
@@ -1407,16 +1563,19 @@ events:
   - Marko Elez
   source: https://www.washingtonpost.com/business/2025/02/11/doge-treasury-access-marko-elez/
   agency: Treasury
+
 - date: 2025-02-11
   type: disruption
   event: The CFO of FEMA, Mary Comans, was fired and her departure was announced in a press release
   source: https://lawandcrime.com/high-profile/publicly-and-falsely-condemned-fired-fema-official-sues-trump-admin-for-unlawful-termination-and-prompting-smear-campaign-to-make-her-look-like-a-criminal/
   agency: FEMA
+
 - date: 2025-02-11
   type: disruption
   event: USAID Inspector General is illegally fired after releasing a report critical of DOGE's actions
   source: https://www.cnn.com/2025/02/11/politics/usaid-inspector-general-fired-trump/index.html
   agency: USAID
+
 - date: 2025-02-12
   type: disruption
   event: Adam Martinez, CFPB COO, includes DOGE representatives in emails hiring OPM for consulting on Reduction-in-Force
@@ -1426,11 +1585,13 @@ events:
   - Chris Young
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.67.0_1.pdf
   agency: CFPB
+
 - date: 2025-02-12
   type: report
   event: DOGE staff will reportedly be hired directly to the Department of Defense and not be detailed from elsewhere
   source: https://www.forbes.com/sites/davidjeans/2025/03/04/pentagon-doge-official-justin-fulcher/
   agency: DOD
+
 - date: 2025-02-12
   type: access_granted
   access_type: read
@@ -1443,17 +1604,20 @@ events:
   - Kathryn Armstrong Loving
   source: https://www.eenews.net/articles/doge-lands-at-epa/
   agency: EPA
+
 - date: 2025-02-12
   type: report
   event: GSA staff describe being subjected to 15-minute interviews where they felt they were asked to justify their jobs
   source: https://www.politico.com/news/2025/02/12/government-workers-doge-interviews-016214
   agency: GSA
+
 - date: 2025-02-12
   type: disruption
   event: Dozens of probationary workers within the Technology Transformation Service (TTS) are fired, with many of the cuts
     focused on the US Digital Corps and Presidential Innovation Fellows programs
   source: https://www.nextgov.com/people/2025/02/gsa-cut-least-100-employees-feds-inside-agency-say/402975/
   agency: GSA
+
 - date: 2025-02-12
   type: onboarded
   onboard_type: detailed
@@ -1472,6 +1636,7 @@ events:
   mapped_aliases:
     OPM-3: Akash Bobba
     ED-1: Akash Bobba
+
 - date: 2025-02-12
   type: official
   comment: These names are identified in another exhibit in the source
@@ -1481,6 +1646,7 @@ events:
   agency:
   - Education
   - DOGE
+
 - date: 2025-02-12
   type: onboarded
   onboard_type: detailed
@@ -1512,6 +1678,7 @@ events:
     comment: This is for a SGE position so it is not reimbursed and for a maximum of 135 days from start of SGE term
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     file: mou-20250212-opm-education-ed-1.pdf
+
 - date: 2025-02-12
   type: official
   named_aliases:
@@ -1526,6 +1693,7 @@ events:
   - Akash Bobba
   mapped_aliases:
     OPM-3: Akash Bobba
+
 - date: 2025-02-12
   type: official
   detail_id: 20250212-gsa-education-ed-3
@@ -1552,6 +1720,7 @@ events:
     comment: This is for a SGE position so it is not reimbursed and for a maximum of 135 days from start of SGE term
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     file: mou-20250212-gsa-education-ed-3.pdf
+
 - date: 2025-02-13
   type: disruption
   event: Jordan Wick demands for mass termination notices to be sent to CFPB employees by February 14
@@ -1559,6 +1728,7 @@ events:
   named:
   - Jordan Wick
   agency: CFPB
+
 - date: 2025-02-13
   type: report
   event: A story on a proposal to use AI at the Department of Education lists several DOGE staffers identified there within
@@ -1569,11 +1739,13 @@ events:
   - Adam Ramada
   source: https://www.nytimes.com/2025/02/13/us/doge-ai-education-department-students.html
   agency: Education
+
 - date: 2025-02-13
   type: official
   event: DOGE announces its website is now live with an organizational chart and tweets
   source: https://xcancel.com/DOGE/status/1889897384122982604#m
   agency: DOGE
+
 - date: 2025-02-13
   type: report
   event: DOGE is granted authorization to use file transfer software
@@ -1585,6 +1757,7 @@ events:
   - Jordan Wick
   source: https://www.nbcnews.com/tech/security/doge-software-approval-alarms-labor-department-employees-data-security-rcna191583
   agency: DOL
+
 - date: 2025-02-13
   type: onboarded
   onboard_type: detailed
@@ -1593,6 +1766,7 @@ events:
   event: Gavin Kliger arrives at the IRS to begin onboarding as a staffer there
   source: https://www.wsj.com/politics/policy/doge-internal-revenue-service-9697cb99
   agency: IRS
+
 - date: 2025-02-13
   type: onboarded
   event: According to a sworn declaration by a Deputy Commissioner at SSA, an unindentified DOGE staffer (Employee 1) is onboarded
@@ -1603,28 +1777,33 @@ events:
   - SSA-1
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
   agency: SSA
+
 - date: 2025-02-14
   type: disruption
   event: The CFPB's social media accounts are deleted and videos are removed from its YouTube channel
   source: https://www.theverge.com/news/613567/trump-youtube-videos-cfpb
   agency: CFPB
+
 - date: 2025-02-14
   type: report
   event: In a speech, Secretary of Agriculture says DOGE has been at the agency for "a few weeks"
   source: https://www.usda.gov/about-usda/news/press-releases/2025/02/14/secretary-rollins-delivers-opening-remarks-usda-headquarters
   agency: USDA
+
 - date: 2025-02-14
   type: disruption
   event: After a conservative account complained to Musk on Twitter about gender options on the FAFSA form, it was changed
     the same day (a change was planned, but multiple contractors were called in to rush it)
   source: https://www.nytimes.com/2025/02/26/us/politics/elon-musk-doge-x-accounts-activists.html
   agency: Education
+
 - date: 2025-02-14
   type: disruption
   event: Approximately 50 USDS staff are fired, with most of terminations focused on project managers and designers (removing
     approximately 1/3 of the USDS staff that predated DOGE)
   source: https://www.wired.com/story/doge-major-government-tech-projects-efficiency/
   agency: DOGE
+
 - date: 2025-02-14
   type: onboarded
   onboard_type: hired
@@ -1633,11 +1812,13 @@ events:
   - Kendall Lindemann
   source: https://www.consulting.us/news/11397/former-mckinsey-business-analyst-hired-to-musks-doge-nerd-army
   agency: DOGE
+
 - date: 2025-02-14
   type: disruption
   event: 388 probationary employees are fired at the EPA
   source: https://www.eenews.net/articles/epa-pushes-out-almost-500-probationary-employees/
   agency: EPA
+
 - date: 2025-02-14
   type: onboarded
   source: https://orangeslices.ai/hhs-it-office-recruits-new-chief-from-palantir/
@@ -1646,16 +1827,19 @@ events:
   named:
   - Clark Minor
   agency: HHS
+
 - date: 2025-02-14
   type: report
   event: NASA administrator emails all staff to report that "DOGE has arrived"
   source: https://mynews13.com/fl/orlando/space/2025/02/18/doge-is-at-nasa
   agency: NASA
+
 - date: 2025-02-14
   type: report
   event: NIST workers witness a handful people that they suspect of being DOGE at NIST IT facilities in Gaithersburg, MD
   source: https://www.wired.com/story/the-national-institute-of-standards-and-technology-braces-for-mass-firings/
   agency: NIST
+
 - date: 2025-02-14
   type: report
   event: Leland Dudek is placed on administrative leave while under investigation that he committed inappropriate actions
@@ -1664,6 +1848,7 @@ events:
   - Leland Dudek
   source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
   agency: SSA
+
 - date: 2025-02-14
   type: report
   named:
@@ -1671,11 +1856,13 @@ events:
   event: Bloomberg publishes some background information on Justin Fulcher, the DOGE staffer working quietly at the VA
   source: https://www.livemint.com/companies/news/musks-top-doge-staffer-at-va-worked-quietly-before-its-layoffs-11739553094269.html
   agency: VA
+
 - date: 2025-02-15
   type: disruption
   event: Roughly 750 probationary workers receive termination notices from the OPM
   source: https://www.economist.com/united-states/2025/03/10/how-doge-is-driving-americas-public-health-guardians-mad
   agency: CDC
+
 - date: 2025-02-15
   type: access_granted
   access_type: admin
@@ -1690,6 +1877,7 @@ events:
   - Mike Russo
   - Akash Bobba
   agency: SSA
+
 - date: 2025-02-15
   type: report
   event: Staff express concern to Acting Commissioner King that Bobba is accessing information remotely and in an insecure
@@ -1698,6 +1886,7 @@ events:
   named:
   - Akash Bobba
   agency: SSA
+
 - date: 2025-02-16
   type: onboarded
   onboard_type: hired
@@ -1709,11 +1898,13 @@ events:
   - Brady Glantz
   source: https://www.wired.com/story/faa-doge-elon-musk-space-x/
   agency: FAA
+
 - date: 2025-02-16
   type: report
   event: White House pressures the IRS to sign a MOU granting DOGE expanded access to internal systems
   source: https://www.washingtonpost.com/business/2025/02/16/doge-irs-access-taxpayer-data/
   agency: IRS
+
 - date: 2025-02-16
   type: disruption
   event: The acting director of the Social Security Administration, Michelle King, receives an email from the White House
@@ -1722,12 +1913,14 @@ events:
   named:
   - Leland Dudek
   agency: SSA
+
 - date: 2025-02-17
   type: report
   event: A senior manager at CDC comes back from a meeting to find two men in Tesla shirts leaving her office who said they
     "fixed" her computer
   source: https://www.economist.com/united-states/2025/03/10/how-doge-is-driving-americas-public-health-guardians-mad
   agency: CDC
+
 - date: 2025-02-17
   type: legal
   event: In a filing in "State of New Mexico v. Elon Musk," DOJ lawyers declare that Elon Musk is not the USDS Administrator,
@@ -1743,33 +1936,39 @@ events:
     date_filed: 2025-02-13
     link: https://www.courtlistener.com/docket/69638651/new-mexico-state-of-v-musk/
     agency: DOGE
+
 - date: 2025-02-17
   type: report
   event: The SpaceX engineers are granted ethics waivers and designated as Special Government Employees, but must recuse from
     decisions affecting SpaceX
   source: https://www.bloomberg.com/news/features/2025-03-05/after-elon-musk-lands-at-faa-his-starlink-business-stands-to-gain-business
   agency: FAA
+
 - date: 2025-02-17
   type: disruption
   event: The head of the medical device safety division at the FDA is fired amid mass layoffs
   source: https://www.statnews.com/2025/02/18/fda-trump-musk-doge-cuts-ross-segan-memo-medical-device-safety/
   agency: FDA
+
 - date: 2025-02-17
   type: disruption
   event: The head of the FDA's food safety division resigns because of 89 employees being indiscriminately fired
   source: https://thehill.com/policy/healthcare/5152084-fdas-food-safety-head-resigns/
   agency: FDA
+
 - date: 2025-02-17
   type: report
   event: White House official confirms one DOGE staffer will be working with an IRS employee to access IRS systems
   source: https://www.politico.com/news/2025/02/17/elon-musk-doge-irs-00204579
   agency: IRS
+
 - date: 2025-02-17
   type: disruption
   event: A USAID official under Trump testifies that "changes in the process by which payments can be made and approved by
     the Agency over the past weeks." in the payment system were causing certain allowance statements to be delayed
   source: https://abcnews.go.com/US/usaid-official-system-delayed-payments-staffers/story?id=118759911
   agency: USAID
+
 - date: 2025-02-18
   type: promotion
   event: Unidentified employee OPM-5's appointment is changed to not being provisional
@@ -1777,6 +1976,7 @@ events:
   - OPM-5
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
   agency: OPM
+
 - date: 2025-02-18
   type: access_granted
   access_type: read
@@ -1788,21 +1988,25 @@ events:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CMS
+
 - date: 2025-02-18
   type: disruption
   event: An employee requests to repair the CFPB homepage deleted by DOGE, but that action is refused by order of Vought
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.38.6.pdf
   agency: CFPB
+
 - date: 2025-02-18
   type: report
   event: Unidentified DOGE team has a kickoff meeting with DoD staff at the Pentagon
   source: https://www.msn.com/en-us/money/companies/doge-meets-with-pentagon-officials-to-plan-cuts-at-the-biggest-u-s-department/ar-AA1zjgby
   agency: DOD
+
 - date: 2025-02-18
   type: report
   event: DoD agencies are ordered to provide lists of probationary employees to DOGE
   source: https://www.washingtonpost.com/national-security/2025/02/18/pentagon-layoffs-musk-doge-trump/
   agency: DOD
+
 - date: 2025-02-18
   type: legal
   case_no: 8:25-cv-00430
@@ -1822,6 +2026,7 @@ events:
     - Education
     - Treasury
     - OPM
+
 - date: 2025-02-18
   type: report
   event: A custom AI chatbot based on xAI's Grok model was discovered hosted on subdomain on the doge.gov site
@@ -1829,6 +2034,7 @@ events:
   - Christopher Stanley
   source: https://techcrunch.com/2025/02/18/elon-musk-staffer-created-a-doge-ai-assistant-for-making-government-less-dumb/
   agency: DOGE
+
 - date: 2025-02-18
   type: report
   event: Malaska declares that SpaceX is the only company able to complete a communications network contract already awarded
@@ -1837,6 +2043,7 @@ events:
   - Ted Malaska
   source: https://www.bloomberg.com/news/features/2025-03-05/after-elon-musk-lands-at-faa-his-starlink-business-stands-to-gain-business
   agency: FAA
+
 - date: 2025-02-18
   type: disruption
   event: A GSA employee resigned rather than give unrestricted admin access of Notify.gov to Thomas Shedd
@@ -1844,16 +2051,19 @@ events:
   - Thomas Shedd
   source: https://www.404media.co/musk-ally-demands-admin-access-to-system-that-lets-government-text-the-public/
   agency: GSA
+
 - date: 2025-02-18
   type: legal
   event: Privacy advocates sue to stop DOGE acess to IRS systems
   source: https://www.npr.org/2025/02/18/nx-s1-5300826/doge-irs-lawsuit-taxpayers-data
   agency: IRS
+
 - date: 2025-02-18
   type: disruption
   event: CNN reporter shares that a FOIA request about DOGE was replied to with "they just fired the whole privacy team"
   source: https://www.commondreams.org/news/cnn-foia-office-of-personnel-management
   agency: OPM
+
 - date: 2025-02-18
   type: onboarded
   onboard_type: detailed
@@ -1884,6 +2094,7 @@ events:
     reimbursement_amount: $71,000 per quarter
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: mou-20250222-dol-ssa-employee-3.pdf
+
 - date: 2025-02-18
   type: onboarded
   onboard_type: detailed
@@ -1908,6 +2119,7 @@ events:
     comment: They took over an existing USDS MOU to make it be more DOGE-specific. Amy Gleason signed this one though
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: mou-20250220-usds-ssa-modification.pdf
+
 - date: 2025-02-18
   type: onboarded
   onboard_type: detailed
@@ -1938,11 +2150,13 @@ events:
     reimbursement_amount: Up to $120,579
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: mou-20250306-nasa-ssa-employee-2.pdf
+
 - date: 2025-02-18
   type: report
   event: Senate Democrats send letter to VA Secretary demanding information about DOGE's activities there
   source: https://fedscoop.com/veterans-affairs-data-doge-elon-musk/
   agency: VA
+
 - date: 2025-02-18
   type: onboarded
   onboard_type: detailed
@@ -1970,6 +2184,7 @@ events:
     reimbursement_amount: $71,000 per quarter
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: mou-20250222-dol-ssa-employee-3.pdf
+
 - date: 2025-02-18
   type: onboarded
   onboard_type: detailed
@@ -1997,6 +2212,7 @@ events:
     reimbursement_amount: Up to $120,579
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: mou-20250306-nasa-ssa-employee-2.pdf
+
 - date: 2025-02-18
   type: onboarded
   onboard_type: detailed
@@ -2010,11 +2226,13 @@ events:
   - Ethan Shaotran
   mapped_aliases:
     SSA-10: Ethan Shaotran
+
 - date: 2025-02-19
   type: report
   event: Staff at the CDC CIO's office report not being contacted by DOGE yet
   source: https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/
   agency: CDC
+
 - date: 2025-02-19
   type: report
   event: Edward Coristine and Kyle Schutt are reportedly given access to CISA systems
@@ -2023,24 +2241,28 @@ events:
   - Kyle Schutt
   source: https://www.wired.com/story/doge-cisa-coristine-cybersecurity/
   agency: CISA
+
 - date: 2025-02-19
   type: official
   event: Trump issues an executive order "Ending Taxpayer Subsidization of Open Borders" that instructs USDS to work with
     agencies to identify federal funding for immigrants and build up eligibility verification systems
   source: https://www.whitehouse.gov/presidential-actions/2025/02/ending-taxpayer-subsidization-of-open-borders/
   agency: DOGE
+
 - date: 2025-02-19
   type: official
   event: Trump issues an executive order "Ensuring Lawful Governance and Implementing the President's Department of Government
     Efficiency Deregulatory Initiative" which requires agency heads to consult with DOGE teams on deregulatory efforts.
   source: https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-lawful-governance-and-implementing-the-presidents-department-of-government-efficiency-regulatory-initiative/
   agency: DOGE
+
 - date: 2025-02-19
   type: report
   event: Treasury Secretary Scott Bessent says only one person from DOGE is "looking at an outdated IT system, that's all
     they're doing."
   source: https://www.bloomberg.com/news/articles/2025-02-19/bessent-says-doge-effort-has-saved-estimated-50-billion-so-far
   agency: Treasury
+
 - date: 2025-02-19
   type: report
   event: Thomas Shedd has allegedly requested admin access to 19 different systems within TTS at GSA
@@ -2048,6 +2270,7 @@ events:
   - Thomas Shedd
   source: https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/
   agency: GSA
+
 - date: 2025-02-19
   type: official
   event: Trump issues an Executive Order "Commencing the Reduction of the Federal Bureaucracy" targeting the Presidio Trust,
@@ -2058,12 +2281,14 @@ events:
   - IAF
   - USADF
   - USIP
+
 - date: 2025-02-19
   type: report
   event: According to one agency employee, DOGE workers already have access to contracts, partnerships, performance reviews,
     classified national-security information, and satellite data, among other materials.
   source: https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/
   agency: NASA
+
 - date: 2025-02-19
   type: onboarded
   onboard_type: detailed
@@ -2092,6 +2317,7 @@ events:
     comment: For a SGE, so no payment needed
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: mou-20250218-gsa-ssa-employee-10.pdf
+
 - date: 2025-02-19
   type: report
   event: USADF board member Ward Brehm becomes aware that his agency is going to be targeted by DOGE for elimination
@@ -2108,6 +2334,7 @@ events:
     agency:
     - DOGE
     - USADF
+
 - date: 2025-02-19
   type: official
   event: SSA CIO Mike Russo emails Leland Dudek to grant access to EDW for several "members of [his] team"
@@ -2127,6 +2354,7 @@ events:
     agency:
     - SSA
     - DOGE
+
 - date: 2025-02-20
   type: access_granted
   access_type: admin
@@ -2138,12 +2366,14 @@ events:
   - Edward Coristine
   source: https://www.nbcnews.com/politics/donald-trump/live-blog/trump-france-emmanuel-macron-white-house-ukraine-tariffs-live-updates-rcna193386#rcrd73638
   agency: CISA
+
 - date: 2025-02-20
   type: report
   event: Defense Secretary Hegseth releases a video stating that he met with DOGE about cuts to the agency and many of them
     are veterans
   source: https://www.foxnews.com/politics/defense-sec-hegseth-working-doge-cut-bs
   agency: DOD
+
 - date: 2025-02-20
   type: report
   event: John York, a senior counselor to Bessent, wrote in a sworn statement that Ryan Wunderly would take over Marko Elez's
@@ -2153,6 +2383,7 @@ events:
   - Ryan Wunderly
   source: https://www.politico.com/news/2025/02/20/treasury-irs-data-white-house-doge-00205391
   agency: Treasury
+
 - date: 2025-02-20
   type: access_granted
   access_type: read
@@ -2164,22 +2395,26 @@ events:
     housing discrimination and domestic violence
   source: https://www.propublica.org/article/doge-elon-musk-hud-housing-discrimination-privacy-domestic-violence
   agency: HUD
+
 - date: 2025-02-20
   type: report
   event: DOGE staff arrived at IAF HQ and were granted access to IT systems, as reported by IAF CEO Sara Aviel the following
     day
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
   agency: IAF
+
 - date: 2025-02-20
   type: report
   event: The White House and Treasury Department come to an agreement about how DOGE access to IRS systems will be structured
   source: https://www.politico.com/news/2025/02/20/treasury-irs-data-white-house-doge-00205391
   agency: IRS
+
 - date: 2025-02-20
   type: legal
   event: In a court filing, Treasury says it is adding two more DOGE staffers focused on the IRS
   source: https://www.politico.com/news/2025/02/20/treasury-irs-data-white-house-doge-00205391
   agency: IRS
+
 - date: 2025-02-20
   type: report
   source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
@@ -2192,6 +2427,7 @@ events:
   - Cole Killian
   - Marko Elez
   agency: SSA
+
 - date: 2025-02-20
   type: report
   event: Chris Young meets with USADF leadership at their HQ to "introduce DOGE to the agency" and that 2 engineers would
@@ -2211,6 +2447,7 @@ events:
     agency:
     - DOGE
     - USADF
+
 - date: 2025-02-20
   type: onboarded
   detailed_from: DOGE
@@ -2231,6 +2468,7 @@ events:
     reimbursed: false
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     file: mou-20250212-doge-education-all.pdf
+
 - date: 2025-02-20
   type: onboarded
   detailed_from: GSA
@@ -2240,6 +2478,7 @@ events:
   named:
   - Edward Coristine
   agency: Education
+
 - date: 2025-02-20
   type: official
   event: Amy Gleason and an SSA representative sign a modification to an existing agreement between USDS and SSA for 15FTEs
@@ -2266,28 +2505,33 @@ events:
     comment: They took over an existing USDS MOU to make it be more DOGE-specific. Amy Gleason signed this one though
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: mou-20250220-usds-ssa-modification.pdf
+
 - date: 2025-02-20
   type: disruption
   event: Employees at the NLRB are alarmed to see that DOGE has claiming it has cancelled the lease for their office in Buffalo,
     NY
   source: https://www.huffpost.com/entry/nlrb-office-lease-doge-wall-of-receipts_n_67b76046e4b05145b9c4ca05
   agency: NLRB
+
 - date: 2025-02-21
   type: official
   event: USDA Secretary Rollins posts a photo of a grant-cancellation session on the @DOGE_USDA account
   source: https://xcancel.com/SecRollins/status/1892777526704885880#m
   agency: USDA
+
 - date: 2025-02-21
   type: disruption
   event: IAF CEO Sara Aviel confirms to a friend at USADF that DOGE plans to dismantle the agency
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
   agency: IAF
+
 - date: 2025-02-21
   type: report
   event: The Memorandum of Understanding (MOU) between the IRS and DOGE is signed, will not let DOGE access individual tax
     returns
   source: https://www.nytimes.com/2025/02/21/us/politics/irs-doge-gavin-kliger.html
   agency: IRS
+
 - date: 2025-02-21
   type: report
   event: Ethan Shaotran, Jacob Altik, and Nate Cavanaugh arrive at the agency and demand that a MOU must be signed for their
@@ -2322,6 +2566,7 @@ events:
     signed_date: 2025-02-21
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.20.7.pdf
     file: mou-20250220-gsa-usadf-ethan-shaotran.pdf
+
 - date: 2025-02-21
   type: legal
   event: The MOU for DOGE's IT Modernization is between USADF and GSA and only covers the activities of Ethan Shaotran
@@ -2353,6 +2598,7 @@ events:
     signed_date: 2025-02-21
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.20.7.pdf
     file: mou-20250220-gsa-usadf-ethan-shaotran.pdf
+
 - date: 2025-02-21
   type: report
   event: Once MOU is signed, DOGE staff reveal their real purpose is to conduct a massive reduction in agency staff and scope
@@ -2387,6 +2633,7 @@ events:
     signed_date: 2025-02-21
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.20.7.pdf
     file: mou-20250220-gsa-usadf-ethan-shaotran.pdf
+
 - date: 2025-02-21
   type: report
   event: Nate Canaugh and Jacob Altik then demanded immediate access to USADF systems including financial records and payment
@@ -2407,6 +2654,7 @@ events:
     agency:
     - DOGE
     - USADF
+
 - date: 2025-02-21
   type: report
   event: Jacob Altik demands waivers to exempt DOGE staff from background checks, threatens to fire USADF board if demands
@@ -2426,6 +2674,7 @@ events:
     agency:
     - DOGE
     - USADF
+
 - date: 2025-02-21
   type: report
   event: USADF general cousel revokes their participation in the MOU based on it being under false pretenses
@@ -2455,11 +2704,13 @@ events:
     signed_date: 2025-02-21
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.20.7.pdf
     file: mou-20250220-gsa-usadf-ethan-shaotran.pdf
+
 - date: 2025-02-23
   type: disruption
   event: Sara Aviel is dismissed as the CEO of the IAF
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
   agency: IAF
+
 - date: 2025-02-23
   type: onboarded
   onboard_type: appointed
@@ -2474,6 +2725,7 @@ events:
   - Payton Rehling
   mapped_aliases:
     SSA-9: Payton Rehling
+
 - date: 2025-02-24
   type: onboarded
   onboard_type: appointed
@@ -2487,6 +2739,7 @@ events:
   - Jon Koval
   mapped_aliases:
     SSA-6: Jon Koval
+
 - date: 2025-02-24
   type: access_granted
   access_type: read
@@ -2498,6 +2751,7 @@ events:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CDC
+
 - date: 2025-02-24
   type: access_granted
   access_type: read
@@ -2509,6 +2763,7 @@ events:
   - Amy Gleason
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CMS
+
 - date: 2025-02-24
   type: legal
   case_no: 8:25-cv-00430
@@ -2529,6 +2784,7 @@ events:
     - Education
     - Treasury
     - OPM
+
 - date: 2025-02-24
   type: access_granted
   access_type: unknown
@@ -2557,12 +2813,14 @@ events:
     - Education
     - Treasury
     - OPM
+
 - date: 2025-02-24
   type: report
   event: In a hearing for "Alliance for Retired Americans v. Bessent," Judge Kollar-Kotelly repeatedly grills DOJ lawyers
     on who the USDS Administrator is
   source: https://www.lawfaremedia.org/article/who-is-running-the-u.s.-doge-service
   agency: DOGE
+
 - date: 2025-02-24
   type: onboarded
   onboard_type: detailed
@@ -2573,6 +2831,7 @@ events:
   - Stephanie Holmes
   source: https://subscriber.politicopro.com/article/eenews/2025/03/05/heres-the-people-connected-to-doge-at-interior-00213330
   agency: DOI
+
 - date: 2025-02-24
   type: report
   event: Four DOGE staffers have email addresses linked to NIH
@@ -2583,6 +2842,7 @@ events:
   - Clark Minor
   source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
   agency: NIH
+
 - date: 2025-02-24
   type: access_granted
   access_type: admin
@@ -2596,6 +2856,7 @@ events:
   - Clark Minor
   source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
   agency: NIH
+
 - date: 2025-02-24
   type: report
   event: After Elon Musk threatens on X that employees must complete a list of 5 accomplishments and send it to OPM or risk
@@ -2603,6 +2864,7 @@ events:
     confusion occurs at many agenices.
   source: https://fedscoop.com/agencies-take-cautious-approaches-to-opm-email-asking-for-list-of-accomplishments/
   agency: OPM
+
 - date: 2025-02-24
   type: report
   event: USADF president/CEO Ward Brehm receives an email from Trent Morse in the White House Personnel Office notifying him
@@ -2620,6 +2882,7 @@ events:
     agency:
     - DOGE
     - USADF
+
 - date: 2025-02-24
   type: report
   event: USIP leadership meets with DOGE staff to explain history and legal status of the agency
@@ -2629,6 +2892,7 @@ events:
   - Nate Cavanaugh
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
   agency: USIP
+
 - date: 2025-02-24
   type: report
   event: DOGE counters their belief that minimum statutory size of agency is "a Board of Directors and a president, reports
@@ -2639,23 +2903,27 @@ events:
   - Nate Cavanaugh
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
   agency: USIP
+
 - date: 2025-02-24~
   type: report
   event: Staffers at the NLRB are told that DOGE will be arriving at the agency the following week and that they have questions
     about the agency's network architecture
   source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
   agency: NLRB
+
 - date: 2025-02-25
   type: disruption
   event: 21 remaining USDS staff publicly resign in protest of DOGE's actions
   source: https://apnews.com/article/doge-elon-musk-federal-government-resignations-usds-6b7e9b7022e6d89d69305e9510f2a43c
   agency: DOGE
+
 - date: 2025-02-25
   type: official
   event: DOGE announces they have launched the feature on their website showing contract cancellations (many of these savings
     are later shown to be wildly erroneous)
   source: https://xcancel.com/DOGE/status/1896948512975433787
   agency: DOGE
+
 - date: 2025-02-25
   type: access_granted
   access_type: read
@@ -2668,6 +2936,7 @@ events:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: DOL
+
 - date: 2025-02-25
   type: access_granted
   access_type: read
@@ -2679,16 +2948,19 @@ events:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: DOL
+
 - date: 2025-02-25
   type: report
   event: GSA reportedly spending $25,000 to install a washer and dryer near a makeshift sleeping area occupied by DOGE
   source: https://timesofindia.indiatimes.com/world/us/doges-controversial-office-culture-ikea-beds-and-secret-sleeping-spaces-among-federal-staff/articleshow/118782925.cms
   agency: GSA
+
 - date: 2025-02-25
   type: report
   event: The Post reports that DOGE is being granted access to only anonymized data from IDRS
   source: https://www.washingtonpost.com/business/2025/02/25/elon-musk-doge-data-privacy-security/
   agency: IRS
+
 - date: 2025-02-25
   type: report
   event: DOGE engineer Ricardo Biasini is reported to be working on updating software to automate Reduction-in-Force (RIF)
@@ -2697,12 +2969,14 @@ events:
   - Riccardo Biasini
   source: https://www.wired.com/story/doge-autorif-mass-firing-government-workers/
   agency: OPM
+
 - date: 2025-02-25
   type: report
   event: The Chief Human Capital Office of the Department of Agriculture testifies to Congress that OPM ordered the firing
     of all probationary federal employees
   source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
   agency: USDA
+
 - date: 2025-02-25
   type: onboarded
   onboard_type: appointed
@@ -2711,12 +2985,14 @@ events:
   - Mark Steffensen
   source: https://bsky.app/profile/chrisgeidner.bsky.social/post/3lipqblfluc2h
   agency: SSA
+
 - date: 2025-02-26
   type: official
   event: Trump issues an executive order mandating that DOGE teams will have approval over awarding any contract at any agency
     and freezes purchase cards for 90 days
   source: https://www.whitehouse.gov/presidential-actions/2025/02/implementing-the-presidents-department-of-government-efficiency-cost-efficiency-initiative/
   agency: DOGE
+
 - date: 2025-02-26
   type: report
   event: After days of sustained questioning about who the USDS Administrator is, the White House gives the name of Amy Gleason.
@@ -2725,12 +3001,14 @@ events:
   - Amy Gleason
   source: https://www.npr.org/2025/02/26/nx-s1-5310634/amy-gleason-doge-administrator
   agency: DOGE
+
 - date: 2025-02-26
   type: report
   event: Republican lawmakers on the U.S. House Committee on Homeland Security unanimously opposed a resolution of inquiry
     into DOGE activities at DHS
   source: https://www.bankinfosecurity.com/house-committee-blocks-probe-into-doge-access-to-dhs-systems-a-27608
   agency: DHS
+
 - date: 2025-02-26
   type: disruption
   event: Without any warning, GSA puts a $1 spending limit on all government purchase cards following an executive order by
@@ -2738,12 +3016,14 @@ events:
     by law.
   source: https://www.washingtonpost.com/politics/2025/03/09/doge-government-credit-card-limits
   agency: GSA
+
 - date: 2025-02-26
   type: report
   event: Wired reports that DOGE staff were given read-only access to some systems and read-write access to payment systems
     within HUD as well as the centralized authorization system that grants access to other systems (date unknown)
   source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
   agency: HUD
+
 - date: 2025-02-26
   type: access_granted
   access_type: read-write
@@ -2756,6 +3036,7 @@ events:
   - Scott Langmack
   source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
   agency: HUD
+
 - date: 2025-02-26
   type: access_granted
   access_type: read-write
@@ -2767,6 +3048,7 @@ events:
   - Michael Mirski
   source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
   agency: HUD
+
 - date: 2025-02-26
   type: access_granted
   access_type: read
@@ -2778,6 +3060,7 @@ events:
   - Michael Mirski
   source: https://www.wired.com/story/doge-hud-systems-access-ai-proptech-real-estate-mobile-home/
   agency: HUD
+
 - date: 2025-02-26
   type: report
   event: There is reportedly a 6-person DOGE team working at HUD, with 4 of the staff being existing HUD employees and Michael
@@ -2787,6 +3070,7 @@ events:
   - Michael Mirski
   - Scott Langmack
   agency: HUD
+
 - date: 2025-02-26
   type: onboarded
   onboard_type: detailed
@@ -2810,6 +3094,7 @@ events:
     comment: For a SGE, so no payment needed
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: mou-20250226-opm-ssa-employee-8.pdf
+
 - date: 2025-02-27
   type: legal
   event: U.S. District Judge John Bates orders that some DOGE officials should be required to testify under oath
@@ -2831,6 +3116,7 @@ events:
     - CFPB
     - HHS
     - DOGE
+
 - date: 2025-02-27
   type: onboarded
   onboard_type: hired
@@ -2849,6 +3135,7 @@ events:
     SSA-4: Antonio Gracias
     SSA-6: Jon Koval
     SSA-9: Payton Rehling
+
 - date: 2025-02-27
   type: promotion
   event: Mark Steffensen is named the Acting General Counsel of SSA, consolidating more power in his role
@@ -2856,11 +3143,13 @@ events:
   - Mark Steffensen
   source: https://web-cdn.bsky.app/profile/chrisgeidner.bsky.social/post/3ljb6rufur22e
   agency: SSA
+
 - date: 2025-02-28
   type: disruption
   event: After a federal judge overrules the mass firing of probationary workers, 180 workers (out of 750) return to work
   source: https://www.economist.com/united-states/2025/03/10/how-doge-is-driving-americas-public-health-guardians-mad
   agency: CDC
+
 - date: 2025-02-28
   type: access_granted
   access_type: admin
@@ -2872,6 +3161,7 @@ events:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: HHS
+
 - date: 2025-02-28
   type: onboarded
   onboard_type: appointed
@@ -2881,6 +3171,7 @@ events:
   - Peter Marocco
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
   agency: IAF
+
 - date: 2025-02-28
   type: official
   named:
@@ -2891,6 +3182,7 @@ events:
     cross-reference benefits rolls with taxpayer data
   source: https://www.washingtonpost.com/business/2025/03/01/doge-irs-tax-records-benefits/
   agency: IRS
+
 - date: 2025-02-28
   type: access_granted
   access_type: read
@@ -2902,12 +3194,14 @@ events:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: NIH
+
 - date: 2025-02-28
   type: official
   event: OPM amends the Privacy Impact Assessment for its Government-Wide Email System (GWES) to remove declarations that
     responses are voluntary.
   source: https://fedscoop.com/opm-email-privacy-assessment-swap-ongoing-litigation/
   agency: OPM
+
 - date: 2025-02-28
   type: legal
   event: Judge Alsup ruling in AFL-CIO vs. OPM (N.D. Cal.), issues a temporary restraining order that termination of probationary
@@ -2923,6 +3217,7 @@ events:
     case_no: 3:25-cv-01780
     link: https://www.courtlistener.com/docket/69655364/american-federation-of-government-employees-afl-cio-v-united-states/
     agency: OPM
+
 - date: 2025-02-28
   type: report
   event: USADF Managing Director of Finance Mathieu Zahui receives an email from Trent Morse informing him the USADF is "boardless"
@@ -2940,6 +3235,7 @@ events:
     agency:
     - DOGE
     - USADF
+
 - date: 2025-02-28
   type: official
   event: Via email, "Employee 5" of the DOGE team at SSA requests and receives approval from Leland Dudek to run a program
@@ -2961,6 +3257,7 @@ events:
     agency:
     - SSA
     - DOGE
+
 - date: 2025-02-28
   type: promotion
   event: Leland Dudek merges several SSA offices into a new Office of Legal and Policy and names Mark Steffensen the Deputy
@@ -2969,6 +3266,7 @@ events:
   - Mark Steffensen
   source: https://web-cdn.bsky.app/profile/chrisgeidner.bsky.social/post/3ljb6rufur22e
   agency: SSA
+
 - date: 2025-02-28
   type: disruption
   event: After a journalist posts info that Jordan Wick's github profile is public, a staffer an NLRB notices a project named
@@ -2977,6 +3275,7 @@ events:
   - Jordan Wick
   source: https://www.wrvo.org/2025-04-15/a-whistleblowers-disclosure-details-how-doge-may-have-taken-sensitive-labor-data
   agency: NLRB
+
 - date: 2025-03-01
   type: disruption
   event: TTS administrator Thomas Shedd eliminates 90 members of 18F with a 1am firing email and locks them out of their machines
@@ -2984,17 +3283,20 @@ events:
   - Thomas Shedd
   source: https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/
   agency: GSA
+
 - date: 2025-03-01
   type: disruption
   event: Hours after the staff is hit with the RIF email, the DNS entry for 18F.gsa.gov is removed
   source: https://18f.gsa.gov/
   agency: GSA
+
 - date: 2025-03-01
   type: report
   event: All government employees receive a second email telling them they must list their accomplishments every Monday by
     11:59pm
   source: https://www.npr.org/2025/03/01/g-s1-51490/federal-workers-new-email-accomplishments
   agency: OPM
+
 - date: 2025-03-01
   type: report
   event: In an email to staff, Dudek explains the disruptions by saying "elections have consequences"
@@ -3002,6 +3304,7 @@ events:
   - Leland Dudek
   source: https://www.propublica.org/article/recording-reveals-leland-dudek-thoughts-trump-doge-social-security
   agency: SSA
+
 - date: 2025-03-01
   type: report
   comment: Actual start date in March unknown
@@ -3014,18 +3317,21 @@ events:
   - Treasury
   - SSA
   - OPM
+
 - date: 2025-03-03
   type: report
   event: DOGE staff attempt to access "a system within a broader government database created to help enforce child support
     payments, which pulls a vast trove of information, including income data linked to nearly all workers"
   source: https://www.washingtonpost.com/business/2025/03/06/doge-hhs-ssa-data/
   agency: HHS
+
 - date: 2025-03-03
   type: disruption
   event: The head of HR, Traci DiMartini, is placed on administrative leave for refusing to bring in employees over the weekend
     to onboard Sam Corcos
   source: https://newrepublic.com/post/192478/irs-chief-revenge-fired-doge
   agency: IRS
+
 - date: 2025-03-03
   type: report
   source: https://insidemedicine.substack.com/p/new-trump-controlled-nih-begins-targeted
@@ -3034,6 +3340,7 @@ events:
   named:
   - Joshua Hanley
   agency: NIH
+
 - date: 2025-03-03
   type: report
   event: USADF board member Ward Brehm is elected by the board as President/CEO of USADF
@@ -3050,11 +3357,13 @@ events:
     agency:
     - DOGE
     - USADF
+
 - date: 2025-03-03
   type: report
   event: A black SUV and police escort bring DOGE staff to the agency. They weren't introduced and didn't interact with IT
   source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
   agency: NLRB
+
 - date: 2025-03-03
   type: report
   event: The NLRB Assistant CIO conveys instructions that there are to be no logs or records made of account creation for
@@ -3062,6 +3371,7 @@ events:
     permissions that would normally be used by auditors.
   source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
   agency: NLRB
+
 - date: 2025-03-04
   type: access_revoked
   access_systems:
@@ -3080,6 +3390,7 @@ events:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CFPB
+
 - date: 2025-03-04
   type: offboarded
   event: Luke Farritor is no longer detailed to the CFPB and is offboarded
@@ -3087,6 +3398,7 @@ events:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CFPB
+
 - date: 2025-03-04
   type: report
   event: A Forbes article identifies Justin Fulcher as one of the DOGE staff at the Pentagon and questions details about his
@@ -3095,12 +3407,14 @@ events:
   - Justin Fulcher
   source: https://www.forbes.com/sites/davidjeans/2025/03/04/pentagon-doge-official-justin-fulcher/
   agency: DOD
+
 - date: 2025-03-04
   type: disruption
   event: DOGE boasts in a tweet that 27% more water was released in February compared to January (unclear if this adjusts
     for different lengths of months)
   source: https://xcancel.com/DOGE/status/1896948512975433787
   agency: DOI
+
 - date: 2025-03-04
   type: report
   source: https://www.wired.com/story/doge-government-salaries-elon-musk/
@@ -3115,6 +3429,7 @@ events:
   - Derek Geissler
   - Nicole Hollander
   agency: GSA
+
 - date: 2025-03-04
   type: onboarded
   onboard_type: hired
@@ -3123,6 +3438,7 @@ events:
   - Amy Gleason
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.65.1_1.pdf
   agency: HHS
+
 - date: 2025-03-04
   type: onboarded
   onboard_type: hired
@@ -3131,17 +3447,20 @@ events:
   - Brad Smith
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.65.3.pdf
   agency: HHS
+
 - date: 2025-03-04
   type: disruption
   event: Peter Marocco announces himself to staff as President/CEO, begins dismantling all contracts, places all staff on
     administrative leave for 30 days
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
   agency: IAF
+
 - date: 2025-03-04
   type: disruption
   event: DOGE brags on its X account that the IAF has been reduced to a single employee
   source: https://xcancel.com/DOGE/status/1897023739960680843
   agency: IAF
+
 - date: 2025-03-04
   type: report
   event: In response to recent rulings, the OPM quietly revises its initial memo requiring federal agencies to send lists
@@ -3149,6 +3468,7 @@ events:
     levels
   source: https://www.fiercehealthcare.com/regulatory/mass-layoffs-hhs-cdc-cuts-1300-probationary-workers-reports-say
   agency: OPM
+
 - date: 2025-03-04
   type: report
   event: In a meeting, Dudek stresses again that DOGE will make mistakes and also admits "I am receiving decisions that are
@@ -3157,6 +3477,7 @@ events:
   named:
   - Leland Dudek
   agency: SSA
+
 - date: 2025-03-04
   type: report
   event: USADF CFO Mathieu Zahui receives an email from Nate Cavanaugh informing him that Peter Marocco would be coming to
@@ -3177,12 +3498,14 @@ events:
     agency:
     - DOGE
     - USADF
+
 - date: 2025-03-04
   type: disruption
   event: NLRB network staff notice the existence of an anomalous container on their network and expired storage tokens to
     deter analysis of what resources were accessed
   source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
   agency: NLRB
+
 - date: 2025-03-05
   type: onboarded
   onboard_type: detailed
@@ -3200,6 +3523,7 @@ events:
     comment: No document. Detail occurrence was reported in a court filing.
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
     start_date: 2025-03-05
+
 - date: 2025-03-05
   type: onboarded
   onboard_type: detailed
@@ -3218,6 +3542,7 @@ events:
     comment: No document. Detail occurrence was reported in a court filing.
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
     start_date: 2025-03-05
+
 - date: 2025-03-05
   type: access_granted
   access_type: read
@@ -3230,6 +3555,7 @@ events:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CMS
+
 - date: 2025-03-05
   type: access_granted
   access_type: read
@@ -3242,6 +3568,7 @@ events:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CMS
+
 - date: 2025-03-05
   type: access_granted
   access_type: read
@@ -3253,6 +3580,7 @@ events:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CMS
+
 - date: 2025-03-05
   type: access_revoked
   access_systems:
@@ -3271,6 +3599,7 @@ events:
   - Jordan Wick
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CFPB
+
 - date: 2025-03-05
   type: onboarded
   onboard_type: hired
@@ -3280,6 +3609,7 @@ events:
   - Jordan Wick
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CFPB
+
 - date: 2025-03-05
   type: report
   event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP), including
@@ -3295,6 +3625,7 @@ events:
   - Joshua Fox
   - Joshua Hanley
   agency: DOGE
+
 - date: 2025-03-05
   type: legal
   event: From this date, detailing arrangements for DOGE staff are between the target agency and other agencies hiring DOGE
@@ -3317,6 +3648,7 @@ events:
     - CFPB
     - HHS
     - DOGE
+
 - date: 2025-03-05
   type: report
   source: https://www.businessinsider.com/doge-staffer-fertility-clinic-pronatalist-department-of-labor
@@ -3327,6 +3659,7 @@ events:
   - Aram Moghaddassi
   - Miles Collins
   agency: DOL
+
 - date: 2025-03-05
   type: access_granted
   access_type: read
@@ -3338,6 +3671,7 @@ events:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: HHS
+
 - date: 2025-03-05
   type: onboarded
   onboard_type: detailed
@@ -3367,6 +3701,7 @@ events:
     reimbursement_amount: $71,000 per quarter
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: mou-20250317-dol-ssa-employee-7.pdf
+
 - date: 2025-03-05
   type: report
   event: Nate Cavanaugh sends Ward Brehm an email demanding to know by what authority he is the President/CFO of USADF
@@ -3385,6 +3720,7 @@ events:
     agency:
     - DOGE
     - USADF
+
 - date: 2025-03-05
   type: report
   event: Jacob Altik and Ethan Shaotran are rebuffed by agency leadership when attempting to enter the agency
@@ -3404,12 +3740,14 @@ events:
     agency:
     - DOGE
     - USADF
+
 - date: 2025-03-05
   type: report
   event: Complying with the Executive Order from 2/19, USIP submits a letter to OMB asserting that USIP is an independent
     nonprofit organization, not a federal agency
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
   agency: USIP
+
 - date: 2025-03-05
   type: onboarded
   onboard_type: detailed
@@ -3437,6 +3775,7 @@ events:
     reimbursement_amount: $71,000 per quarter
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: mou-20250317-dol-ssa-employee-7.pdf
+
 - date: 2025-03-05
   type: onboarded
   onboard_type: detailed
@@ -3464,12 +3803,14 @@ events:
     reimbursement_amount: $71,000 per quarter
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: mou-20250317-dol-ssa-employee-7.pdf
+
 - date: 2025-03-05
   type: disruption
   event: NLRB network staff discover that a network watcher within their cloud environment was in the off state and not logging
     the creation of new network nodes
   source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
   agency: NLRB
+
 - date: 2025-03-05
   type: disruption
   event: NLRB network staff see a large spike in outgoing network traffic from their network with no corresponding incoming
@@ -3477,11 +3818,13 @@ events:
     for stealing data.
   source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
   agency: NLRB
+
 - date: 2025-03-06
   type: disruption
   event: The Engineering Director of USDS publicly resigns in protest, stating "this is not the mission I joined"
   source: https://cloudbrain.in/engineering-director-of-usds-steps-down-this-is-not-the-mission-i-joined/
   agency: DOGE
+
 - date: 2025-03-06
   type: report
   event: Thomas Shedd says in a statement that he expects TTS will be 50% smaller within weeks
@@ -3489,6 +3832,7 @@ events:
   - Thomas Shedd
   source: https://www.theatlantic.com/technology/archive/2025/03/gsa-chat-doge-ai/681987/
   agency: GSA
+
 - date: 2025-03-06
   type: report
   event: DOGE staff Jacob Altik and Ethan Shaotran return joined by Nate Cavanaugh with US marshals to force entry to the
@@ -3499,18 +3843,21 @@ events:
   - Nate Cavanaugh
   source: https://www.thedailybeast.com/elon-musks-doge-goons-in-tense-standoff-video-unmasked/
   agency: USADF
+
 - date: 2025-03-06
   type: disruption
   event: NLRB network staff discover a recently created and deleted account with a DOGE-specific name DogeSA_2d5c3e0446f9@nlrb.microsoft.com
     that has seemingly been configured to support automated scripts accessing NLRB's cloud
   source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
   agency: NLRB
+
 - date: 2025-03-06
   type: disruption
   event: After various users reported login problems to the service desk, networking staff at NLRB discover that certain conditional
     access policies had been updated. This was confirmed to not be any scheduled work.
   source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
   agency: NLRB
+
 - date: 2025-03-07
   type: offboarded
   event: Ryan Reiedel resigns from the CIO role and departs from the agency
@@ -3518,6 +3865,7 @@ events:
   - Ryan Riedel
   source: https://www.nextgov.com/people/2025/03/energy-cio-departs-after-short-tenure/403596/
   agency: Energy
+
 - date: 2025-03-07
   type: promotion
   event: Tyler Hassen is promoted to Acting Assistant Secretary of Policy, Management and Budget
@@ -3525,11 +3873,13 @@ events:
   - Tyler Hassen
   source: https://www.eenews.net/articles/doge-official-appointed-head-of-policy-at-interior/
   agency: DOI
+
 - date: 2025-03-07
   type: report
   event: DOGE rolls out a custom GSAi custom chatbot to 1500 workers
   source: https://www.wired.com/story/gsai-chatbot-1500-federal-workers/
   agency: GSA
+
 - date: 2025-03-07
   type: onboarded
   onboard_type: detailed
@@ -3552,29 +3902,34 @@ events:
     end_date: 2025-06-15
     signed_date: 2025-03-12
     file: mou-20250312-gsa-usps-alex-simonpour.pdf
+
 - date: 2025-03-07
   type: disruption
   event: Networking staff at NLRB discovered that 3 Github libraries were downloaded in the prior 30 days that could be used
     for scraping high volumes of data and obscuring the source requests
   source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
   agency: NLRB
+
 - date: 2025-03-07
   type: disruption
   event: Networking staff at NLRB determines that 10GB of data was exfiltrated from the NxGen case management system and then
     from NLRB. It's possible this is the compressed size and represents many more records
   source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
   agency: NLRB
+
 - date: 2025-03-08
   type: disruption
   event: Federal staff who objected to DOGE getting access to NDNH are "no longer with the agency"
   source: https://www.washingtonpost.com/business/2025/03/08/hhs-doge-child-support
   agency: HHS
+
 - date: 2025-03-08
   type: report
   event: USIP President George Moose becomes aware that DOGE is conducting some sort of reconnaisance with respect to USIP's
     security operations and contractor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
   agency: USIP
+
 - date: 2025-03-10
   type: legal
   event: U.S. District Judge Christopher Cooper demands a rolling production of DOGE to produce documents in discovery within
@@ -3591,12 +3946,14 @@ events:
     date_filed: 2025-02-20
     link: https://www.courtlistener.com/docket/69658871/citizens-for-responsibility-and-ethics-in-washington-v-us-doge-service/
     agency: DOGE
+
 - date: 2025-03-10
   type: report
   event: Elon Musk claims there are about 100 DOGE staffers and he has plans to double to 200. He also claims they are in
     every federal Department.
   source: https://www.nbcnews.com/politics/doge/musk-says-doge-almost-every-federal-agency-plans-double-staff-rcna195735
   agency: DOGE
+
 - date: 2025-03-10
   type: report
   event: The Trump Administration nominates Kenneth Jackson and Russell Vought to be on the board of the IAF
@@ -3604,17 +3961,20 @@ events:
   - Kenneth Jackson
   source: https://www.senate.gov/legislative/LIS/executive_calendar/xcalv.pdf
   agency: IAF
+
 - date: 2025-03-10
   type: report
   event: The OPM Inspector General responds to questions from Democrats in Congress by stating his office will start investigating
     DOGE's servers and practices
   source: https://fedscoop.com/opm-inspector-general-doge-access-it-systems/
   agency: OPM
+
 - date: 2025-03-10
   type: report
   event: Trump admin nominates Laken Rapier and Russell Vought to be on the board of the USADF
   source: https://www.senate.gov/legislative/LIS/executive_calendar/xcalv.pdf
   agency: USADF
+
 - date: 2025-03-11
   type: access_granted
   access_type: read
@@ -3626,6 +3986,7 @@ events:
   - Edward Coristine
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CMS
+
 - date: 2025-03-11
   type: onboarded
   onboard_type: appointed
@@ -3634,17 +3995,20 @@ events:
   - Antoine McCord
   source: https://www.nextgov.com/people/2025/03/dhs-taps-antoine-mccord-top-tech-post/403727/
   agency: DHS
+
 - date: 2025-03-11
   type: disruption
   event: There is further increase system utilization of the NxGen system and multiple attempts to connect to the system from
     an IP address in Russia using an account seemingly created only 15 minutes prior by DOGE engineers
   source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
   agency: NLRB
+
 - date: 2025-03-12
   type: report
   event: Several DOGE representatives are reportedly seen at DOJ
   source: https://abcnews.go.com/US/ag-pam-bondi-forms-internal-team-work-doge/story?id=119751049
   agency: DOJ
+
 - date: 2025-03-12
   type: legal
   event: US District Judge Tanya Chutkan issues an order giving DOGE and Elon Musk three weeks to comply with document discovery
@@ -3660,12 +4024,14 @@ events:
     date_filed: 2025-02-13
     link: https://www.courtlistener.com/docket/69638651/new-mexico-state-of-v-musk/
     agency: DOGE
+
 - date: 2025-03-12
   type: disruption
   event: Shelly C. Lowe, the chair of the National Endowment for the Humanities, is forced out of her position by President
     Trump
   source: https://www.nytimes.com/2025/03/12/arts/national-endowment-humanities-trump-shelly-lowe.html
   agency: NEH
+
 - date: 2025-03-12
   type: report
   event: Elon Musk visits the NSA to meet with its top administrator, General Timothy Haugh
@@ -3673,6 +4039,7 @@ events:
   - Elon Musk
   source: https://www.wsj.com/politics/national-security/elon-musk-made-secret-visit-to-u-s-spy-agency-9b0b64e2?mod=hp_lead_pos5
   agency: NSA
+
 - date: 2025-03-12
   type: legal
   event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
@@ -3723,12 +4090,14 @@ events:
     SSA-7: Marko Elez
     SSA-9: Payton Rehling
     SSA-10: Ethan Shaotran
+
 - date: 2025-03-12
   type: report
   event: Multiple SSA employees told ProPublica, their tech systems seem to be crashing nearly every day, leading to more
     delays in serving beneficiaries.
   source: https://www.propublica.org/article/recording-reveals-leland-dudek-thoughts-trump-doge-social-security
   agency: SSA
+
 - date: 2025-03-12
   type: access_granted
   access_type: unknown
@@ -3751,17 +4120,20 @@ events:
     agency:
     - SSA
     - DOGE
+
 - date: 2025-03-13
   type: onboarded
   onboard_type: appointed
   event: Ross Graeber is named the new CIO of the Department of Energy, after working with DOGE at the Department of State
   source: https://www.nextgov.com/people/2025/03/energy-appoints-twitter-google-alum-new-cio/403717/
   agency: Energy
+
 - date: 2025-03-13
   type: report
   event: Attorney General Pam Bondi announces she is forming a "JUST DOGE" team to look at restructuring
   source: https://abcnews.go.com/US/ag-pam-bondi-forms-internal-team-work-doge/story?id=119751049
   agency: DOJ
+
 - date: 2025-03-13
   type: report
   event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE
@@ -3774,12 +4146,14 @@ events:
   - Aram Moghaddassi
   - Rachel Riley
   agency: HHS
+
 - date: 2025-03-13
   type: disruption
   event: The acting chief counsel of the IRS, William Paul, is removed from his role and replaced by Andrew De Mello, who
     is seen as more supportive of DOGE's work at the agency
   source: https://www.cbsnews.com/news/andrew-de-mello-irs-william-paul-doge-trump/
   agency: IRS
+
 - date: 2025-03-13
   source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
   type: report
@@ -3798,22 +4172,26 @@ events:
   - Payton Rehling
   - Ethan Shaotran
   agency: SSA
+
 - date: 2025-03-13
   type: report
   event: Postmaster General Louis DeJoy sends a letter to Congress informing he has signed an agreement with GSA and DOGE
     to eliminate 10,000 jobs
   source: https://apnews.com/article/us-postal-service-doge-agreement-daf3bf54fa0718908791fcb368b4d9d8
   agency: USPS
+
 - date: 2025-03-13
   type: disruption
   event: NLRB networking staff detect another transfer of data to an external endpoint
   source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
   agency: NLRB
+
 - date: 2025-03-13
   type: report
   event: 46 former GSA executives write an open letter decrying the damage that DOGE has done to the agency
   source: https://federalnewsnetwork.com/commentary/2025/03/letter-to-the-editor-46-former-gsa-executives-say-cuts-to-cause-irreversible-damage/?readmore=1
   agency: GSA
+
 - date: 2025-03-14
   type: onboarded
   onboard_type: appointed
@@ -3823,6 +4201,7 @@ events:
   - Thomas Shedd
   source: https://www.nextgov.com/people/2025/03/tts-director-tapped-serve-labor-cio/403855/?oref=ng-home-top-story
   agency: DOL
+
 - date: 2025-03-14
   type: onboarded
   onboard_type: detailed
@@ -3841,12 +4220,14 @@ events:
     comment: No document. Detail occurrence was reported in a court filing.
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
     start_date: 2025-03-05
+
 - date: 2025-03-14
   type: official
   event: Trump issues a new executive order proclaiming that the IMLS among other agencies must be reduced to statutory functions
     only
   source: https://www.whitehouse.gov/presidential-actions/2025/03/continuing-the-reduction-of-the-federal-bureaucracy/
   agency: IMLS
+
 - date: 2025-03-14
   type: access_granted
   access_type: unknown
@@ -3855,6 +4236,7 @@ events:
   - Scott Coulter
   source: https://projects.propublica.org/elon-musk-doge-tracker/#Scott-Coulter
   agency: NASA
+
 - date: 2025-03-14
   type: report
   event: A Business Insider article reports that Alexander Simonpour has shown up at NASA and also has a GSA address. Riley
@@ -3865,12 +4247,14 @@ events:
   - Scott Coulter
   source: https://www.businessinsider.com/tesla-employee-alexander-simonpour-nasa-doge-team-2025-3
   agency: NASA
+
 - date: 2025-03-14
   type: disruption
   event: Various members of the USIP board report receiving emails from the White House saying they are terminated from their
     positions.
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
   agency: USIP
+
 - date: 2025-03-14
   type: disruption
   event: DOGE members Kenneth Jackson, Jacob Altik and Nate Cavanaugh show up at USIP building with 2 other people claiming
@@ -3881,6 +4265,7 @@ events:
   - Nate Cavanaugh
   source: https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/
   agency: USIP
+
 - date: 2025-03-14
   type: official
   event: Via email, 'Employee 9' of the DOGE team at SSA requests access to highly-confidential PSSNAP data to review beneficiaries
@@ -3904,6 +4289,7 @@ events:
   - Payton Rehling
   mapped_aliases:
     SSA-9: Payton Rehling
+
 - date: 2025-03-14~
   type: access_granted
   event: DHS CIO Antoine McCord requests that access be granted for DOGE to the USCIS Data Business Intelligence Services
@@ -3919,12 +4305,14 @@ events:
   - Edward Coristine
   source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
   agency: USCIS
+
 - date: 2025-03-16
   type: disruption
   event: Two FBI agents visited a senior USIP security official at his home unannounced to ask about gaining entry to the
     building, possibly through pressuring the the Institute's security contractor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
   agency: USIP
+
 - date: 2025-03-16
   type: disruption
   event: Chief of the Criminal Division of the U.S. Attorney's Office for the District of Columbia, Johnathan Hornok, and
@@ -3932,18 +4320,21 @@ events:
     at USIP,
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
   agency: USIP
+
 - date: 2025-03-16
   type: disruption
   event: Concerned they might be coerced by DOGE, the Chief Security Officer suspends the contract for building security contractor
     Inter-Con after being contacted by FBI agents interested in questioning him
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.2.2.pdf
   agency: USIP
+
 - date: 2025-03-16
   type: disruption
   event: At 6pm, all Inter-Con staff are removed from the building, all keycard access is revoked and all physical keys accounted
     for except for one held by the Inter-Con account manager for USIP
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.2.2.pdf
   agency: USIP
+
 - date: 2025-03-16
   type: onboarded
   onboard_type: appointed
@@ -3954,6 +4345,7 @@ events:
   - SSA-11
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   agency: SSA
+
 - date: 2025-03-17
   type: onboarded
   onboard_type: appointed
@@ -3962,35 +4354,41 @@ events:
   event: DOGE member Christopher Stanley is named to the board of Fannie Mae/Freddie Mac
   source: https://www.housingwire.com/articles/doge-fannie-mae-board-member-christopher-stanley-resignation/
   agency: FHFA
+
 - date: 2025-03-17
   type: disruption
   event: At 2:30pm, the Inter-Con account manager and employees attempt to enter the building with key cards and are denied.
     They use the physical key to enter once the account manager arrives with it.
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.2.2.pdf
   agency: USIP
+
 - date: 2025-03-17
   type: disruption
   event: At 2:59pm, USIP Security Chief calls DC police and institutes a high-level lockdown for the building. He observes
     with the security cameras that DOGE staff attempting entry on various doors.
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.2.2.pdf
   agency: USIP
+
 - date: 2025-03-17
   type: disruption
   event: Asked why they are attempting to gain control of the building, the Vice President of Inter-Con reports that DOGE
     threatened to cancel every single one of their federal contracts if they didn't comply
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.2.2.pdf
   agency: USIP
+
 - date: 2025-03-17
   type: disruption
   event: USIP President George Moose reports being present when four Inter-Con employees entered the USIP building without
     permission
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
   agency: USIP
+
 - date: 2025-03-17
   type: disruption
   event: USIP President George Moose is escorted out of the building by DC police who entered with DOGE at 5:30pm
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
   agency: USIP
+
 - date: 2025-03-17
   type: disruption
   event: DOGE members Kenneth Jackson, Jacob Altik and Nate Cavanaugh remove staff and president of the USIP with the help
@@ -4001,6 +4399,7 @@ events:
   - Nate Cavanaugh
   source: https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/
   agency: USIP
+
 - date: 2025-03-17
   type: onboarded
   onboard_type: appointed
@@ -4009,11 +4408,13 @@ events:
   - Kenneth Jackson
   source: https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/
   agency: USIP
+
 - date: 2025-03-17
   type: report
   event: Various USIP staff report receiving messages from DOGE staff asking for employee lists and access to computer systems
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
   agency: USIP
+
 - date: 2025-03-17
   type: access_granted
   event: DHS CIO Antoine McCord requests that access be granted for Aram Moghaddassi to the USCIS Data Business Intelligence
@@ -4028,6 +4429,7 @@ events:
   - Aram Moghaddassi
   source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
   agency: USCIS
+
 - date: 2025-03-17
   type: access_granted
   access_systems:
@@ -4059,6 +4461,7 @@ events:
     SSA-6: Jon Koval
     SSA-7: Marko Elez
     SSA-9: Payton Rehling
+
 - date: 2025-03-17
   type: official
   detail_id: 20250317-dol-ssa-employee-7
@@ -4091,6 +4494,7 @@ events:
     reimbursement_amount: $71,000 per quarter
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     file: mou-20250317-dol-ssa-employee-7.pdf
+
 - date: 2025-03-18
   type: official
   event: In an unsigned email response to the Intercept Media, DOGE claims it is within the Executive Office of the President
@@ -4105,6 +4509,7 @@ events:
     case_no: 1:25-cv-02404
     link: https://www.courtlistener.com/docket/69780037/the-intercept-media-inc-v-united-states-department-of-government/
     agency: DOGE
+
 - date: 2025-03-18
   type: legal
   event: In a ruling in J. Doe 1-26 v. Musk (D. Md), Judge Theodore D. Chuang declares that evidence shows that Elon Musk
@@ -4121,6 +4526,7 @@ events:
     date_filed: 2025-02-13
     link: https://www.courtlistener.com/docket/69636722/does-1-26-v-musk/
     agency: DOGE
+
 - date: 2025-03-18
   type: onboarded
   onboard_type: appointed
@@ -4129,6 +4535,7 @@ events:
   - Keith Sonderling
   source: https://news.artnet.com/art-world/doge-imls-institute-museum-library-services-2623286
   agency: DOL
+
 - date: 2025-03-18
   type: offboarded
   named:
@@ -4136,6 +4543,7 @@ events:
   event: DOGE member Christopher Stanley abruptly resigns from Fannie Mae/Freddie Mac board one day after appointment
   source: https://www.housingwire.com/articles/doge-fannie-mae-board-member-christopher-stanley-resignation/
   agency: FHFA
+
 - date: 2025-03-18
   type: legal
   event: A lawyer for the plaintiffs accuses the DOJ of misrepresenting Altik's participation "perhaps to preserve the illusion
@@ -4154,6 +4562,7 @@ events:
     date_filed: 2025-01-27
     link: https://www.courtlistener.com/docket/69582338/doe-v-office-of-personnel-management/
     agency: OPM
+
 - date: 2025-03-18
   type: legal
   case_no: 8:25-cv-00462
@@ -4170,6 +4579,7 @@ events:
     date_filed: 2025-02-13
     link: https://www.courtlistener.com/docket/69636722/does-1-26-v-musk/
     agency: DOGE
+
 - date: 2025-03-18
   type: promotion
   event: Jeremy Lewin is appointed to the position of Deputy Administrator (Policy and Programming) and Kenneth Jackson is
@@ -4179,6 +4589,7 @@ events:
   - Kenneth Jackson
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576293/gov.uscourts.mdd.576293.77.2.pdf
   agency: USAID
+
 - date: 2025-03-18
   type: access_granted
   access_systems:
@@ -4204,12 +4615,14 @@ events:
   - Payton Rehling
   mapped_aliases:
     SSA-9: Payton Rehling
+
 - date: 2025-03-18
   type: report
   event: Notes from a meeting at DOL about DOGE access state "they do not have write access. They have asked; we've held them
     at bay. We've tried to get them to tell us what they want & then we do it. They only have read access"
   agency: DOL
   source: https://www.wired.com/story/gao-audit-elon-musk-doge-government-agencies/
+
 - date: 2025-03-19
   type: report
   event: In another sworn statement, Amy Gleason declares "every member of an agency's DOGE Team is an employee of the agency
@@ -4229,6 +4642,7 @@ events:
     date_filed: 2025-02-20
     link: https://www.courtlistener.com/docket/69658871/citizens-for-responsibility-and-ethics-in-washington-v-us-doge-service/
     agency: DOGE
+
 - date: 2025-03-19
   type: report
   case_no: 8:25-cv-00462
@@ -4247,6 +4661,7 @@ events:
     date_filed: 2025-02-13
     link: https://www.courtlistener.com/docket/69636722/does-1-26-v-musk/
     agency: DOGE
+
 - date: 2025-03-19
   type: report
   event: Marko Elez affirms he has completed his mandatory privacy training at the Department of Labor
@@ -4254,17 +4669,20 @@ events:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.3.pdf
   agency: DOL
+
 - date: 2025-03-19
   type: report
   event: GSA hosts a deep-background media briefing to demo its GSAi tool with invitations sent to reporters from Bloomberg,
     The Atlantic, and Fox among others.
   source: https://www.wired.com/story/gsa-staff-all-hands-meeting-ai/
   agency: GSA
+
 - date: 2025-03-19
   type: report
   event: IMLS staff learn that DOGE is planning to visit the following day; most make plans to attend
   source: https://news.artnet.com/art-world/doge-imls-institute-museum-library-services-2623286
   agency: IMLS
+
 - date: 2025-03-19
   type: report
   event: Peter Marocco says that he will be succeeded at the agency by Jeremy Lewin and Kenneth Jackson
@@ -4274,11 +4692,13 @@ events:
   - Kenneth Jackson
   source: https://www.nytimes.com/2025/03/19/us/politics/usaid-doge-leadership.html
   agency: USAID
+
 - date: 2025-03-19
   type: disruption
   event: DOGE-affiliated staff start removing interior signage from the USIP building
   source: https://bsky.app/profile/marisakabas.bsky.social/post/3lkqia7po5c2a
   agency: USIP
+
 - date: 2025-03-19
   type: legal
   event: Judge Beryl Howell presides over an emergency hearing on granting USIP's request for a temporary restraining order
@@ -4296,6 +4716,7 @@ events:
     agency:
     - USIP
     - DOGE
+
 - date: 2025-03-19
   type: access_granted
   access_type: unknown
@@ -4323,12 +4744,14 @@ events:
   - Payton Rehling
   mapped_aliases:
     SSA-9: Payton Rehling
+
 - date: 2025-03-19
   type: disruption
   event: NLRB networking observes a spike in billing records related to nonexistent systems, likely indicating resources that
     were short-lived or deleted to cover up tracks
   source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
   agency: NLRB
+
 - date: 2025-03-20
   type: legal
   case_no: 1:25-cv-00511
@@ -4345,6 +4768,7 @@ events:
     date_filed: 2025-02-20
     link: https://www.courtlistener.com/docket/69658871/citizens-for-responsibility-and-ethics-in-washington-v-us-doge-service/
     agency: DOGE
+
 - date: 2025-03-20
   type: official
   event: President Trump issues an executive order demaning that agency heads must share all access to any unclassified datasets
@@ -4352,6 +4776,7 @@ events:
     with law."
   source: https://www.whitehouse.gov/presidential-actions/2025/03/stopping-waste-fraud-and-abuse-by-eliminating-information-silos/
   agency: DOGE
+
 - date: 2025-03-20
   type: official
   event: Trump issues an executive order which explicitly includes an instruction that "the Secretary of Labor and the Secretary's
@@ -4360,6 +4785,7 @@ events:
     General."
   source: https://www.whitehouse.gov/presidential-actions/2025/03/stopping-waste-fraud-and-abuse-by-eliminating-information-silos/
   agency: DOL
+
 - date: 2025-03-20
   type: report
   event: DOGE arrives at IMLS HQ, are startled to find staff there, swear in Keith Sonderling as acting director and leave
@@ -4367,6 +4793,7 @@ events:
   - Keith Sonderling
   source: https://news.artnet.com/art-world/doge-imls-institute-museum-library-services-2623286
   agency: IMLS
+
 - date: 2025-03-20
   type: onboarded
   onboard_type: appointed
@@ -4375,18 +4802,21 @@ events:
   - Keith Sonderling
   source: https://news.artnet.com/art-world/doge-imls-institute-museum-library-services-2623286
   agency: IMLS
+
 - date: 2025-03-20
   type: disruption
   event: Access to purchase cards are restored at NIH for nonemergency purchases, but scientists face a huge backlog in processing
     orders for supplies.
   source: https://www.nytimes.com/2025/03/24/health/nih-doge-trump.html
   agency: NIH
+
 - date: 2025-03-20
   type: official
   event: President Trump issues an executive order that requests OPM to redefine regulations to give them more power to terminate
     employees at other agencies
   source: https://www.whitehouse.gov/presidential-actions/2025/03/strengthening-the-suitability-and-fitness-of-the-federal-workforce/
   agency: OPM
+
 - date: 2025-03-20
   type: legal
   event: In a ruling for AFL-CIO vs. SSA, Judge Hollander grants a temporary restraining order enjoining DOGE from having
@@ -4404,6 +4834,7 @@ events:
     agency:
     - SSA
     - DOGE
+
 - date: 2025-03-20
   type: report
   event: Leland Dudek threatens to shut down the entire Social Security Administration instead of complying with the order
@@ -4411,11 +4842,13 @@ events:
   - Leland Dudek
   source: https://www.washingtonpost.com/politics/2025/03/21/social-security-benefits-trump-doge/
   agency: SSA
+
 - date: 2025-03-20
   type: disruption
   event: USIP website is taken offline
   source: https://bsky.app/profile/marisakabas.bsky.social/post/3lkskjyhqkk2p
   agency: USIP
+
 - date: 2025-03-21
   type: access_revoked
   access_systems:
@@ -4434,6 +4867,7 @@ events:
   - Nikhil Rajpal
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CFPB
+
 - date: 2025-03-21
   type: offboarded
   event: Nikhil Rajpal is no longer detailed to the CFPB
@@ -4441,6 +4875,7 @@ events:
   - Nikhil Rajpal
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CFPB
+
 - date: 2025-03-21
   type: report
   event: Elon Musk arrives at the Pentagon for a meeting with leadership, reportedly to discuss DOGE
@@ -4448,12 +4883,14 @@ events:
   - Elon Musk
   source: https://www.nbcnews.com/politics/trump-administration/elon-musk-visit-pentagon-discuss-china-rcna197435
   agency: DOD
+
 - date: 2025-03-21
   type: disruption
   event: Trump administration eliminates the DHS Office for Civil Rights and Civil Liberties and two ombudsman offices responsible
     for investigating allegations of abuse from immigrants
   source: https://www.nytimes.com/2025/03/21/us/politics/trump-civil-rights-homeland-security-deportations.html
   agency: DHS
+
 - date: 2025-03-21
   type: access_granted
   access_type: read
@@ -4465,11 +4902,13 @@ events:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: DOL
+
 - date: 2025-03-21
   type: report
   event: DOGE expands the GSAi chatbot rollout to more than 13,000 GSA employees
   source: https://www.wired.com/story/gsa-staff-all-hands-meeting-ai/
   agency: GSA
+
 - date: 2025-03-21
   type: access_granted
   access_type: read
@@ -4480,6 +4919,7 @@ events:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: HHS
+
 - date: 2025-03-21
   type: access_granted
   access_type: read
@@ -4490,6 +4930,7 @@ events:
   - Kyle Schutt
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: HHS
+
 - date: 2025-03-24
   type: legal
   event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge Boardman issues a preliminary injunction
@@ -4510,6 +4951,7 @@ events:
     - Education
     - Treasury
     - OPM
+
 - date: 2025-03-24
   type: legal
   event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge Boardman issues a preliminary injunction
@@ -4533,6 +4975,7 @@ events:
     - Education
     - Treasury
     - OPM
+
 - date: 2025-03-24
   type: legal
   case_no: 8:25-cv-00430
@@ -4557,6 +5000,7 @@ events:
     - Education
     - Treasury
     - OPM
+
 - date: 2025-03-24
   type: access_revoked
   event: In a status update, SSA leadership confirms "SSA has revoked all SSA DOGE Team members' access to SSA systems of
@@ -4564,6 +5008,7 @@ events:
     Security Record"
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.56.0.pdf
   agency: SSA
+
 - date: 2025-03-24
   type: disruption
   event: Mike Russo is reportedly removed from his CIO position by the Trump administration for complying quickly with the
@@ -4572,11 +5017,13 @@ events:
   - Mike Russo
   source: https://www.washingtonpost.com/politics/2025/04/15/doge-social-security-data-judge/
   agency: SSA
+
 - date: 2025-03-24
   type: report
   event: Postmaster General DeJoy resigns
   source: https://www.usatoday.com/story/news/nation/2025/03/30/postal-service-changes-doge-musk/82696231007/
   agency: USPS
+
 - date: 2025-03-24~
   type: disruption
   event: NLRB networking staff make a formal report of the suspicious activity to US-CERT at CISA
@@ -4584,6 +5031,7 @@ events:
   agency:
   - NLRB
   - CISA
+
 - date: 2025-03-25
   type: promotion
   named_aliases:
@@ -4595,17 +5043,20 @@ events:
   - Scott Coulter
   mapped_aliases:
     SSA-2: Scott Coulter
+
 - date: 2025-03-25
   type: disruption
   event: CDC claws back $11.4 billion in funds allocated to various state and community health departments for COVID response
   source: https://www.nbcnews.com/health/health-news/cdc-pulling-back-11b-covid-funding-sent-health-departments-us-rcna198006
   agency: CDC
+
 - date: 2025-03-25
   type: official
   event: Within a large executive order about voting, Trump orders DOGE "to review each State's publicly available voter registration
     list and available records concerning voter list maintenance activities."
   source: https://www.businessinsider.com/trump-doge-voter-rolls-executive-order-2025-3
   agency: DOGE
+
 - date: 2025-03-25
   type: offboarded
   event: Michael Kratsios is confirmed by the Senate as the new director of the White House Office of Science and Technology
@@ -4614,12 +5065,14 @@ events:
   - Michael Kratsios
   source: https://fedscoop.com/senate-confirms-michael-kratsios-white-house-ostp-director/
   agency: DOGE
+
 - date: 2025-03-25
   type: official
   event: President Trump issues an executive order mandating that all payments flow through Treasury that agencies must modify
     SORNs to share data with Treasury as "routine use"
   source: https://www.whitehouse.gov/presidential-actions/2025/03/protecting-americas-bank-account-against-fraud-waste-and-abuse/
   agency: Treasury
+
 - date: 2025-03-25
   type: onboarded
   onboard_type: appointed
@@ -4630,6 +5083,7 @@ events:
   - Mike Russo
   source: https://www.nextgov.com/people/2025/03/ssa-tech-shop-be-led-another-doge-associate/404031/?oref=ng-homepage-river
   agency: SSA
+
 - date: 2025-03-25
   type: promotion
   named:
@@ -4649,6 +5103,7 @@ events:
     agency:
     - USIP
     - DOGE
+
 - date: 2025-03-25
   type: report
   named:
@@ -4669,6 +5124,7 @@ events:
     agency:
     - USIP
     - DOGE
+
 - date: 2025-03-25
   type: access_granted
   event: Antoine McCord requests that access be granted for Peyton Rehling to the USCIS Data Business Intelligence Services
@@ -4684,6 +5140,7 @@ events:
   - Antoine McCord
   source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
   agency: USCIS
+
 - date: 2025-03-25
   source: https://www.wired.com/story/doge-department-of-veterans-affairs-ai/
   type: report
@@ -4698,6 +5155,7 @@ events:
   - Payton Rehling
   - Jon Koval
   agency: VA
+
 - date: 2025-03-26
   type: report
   event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
@@ -4715,6 +5173,7 @@ events:
   - Keenan Kmiec
   - Austin Raynor
   agency: DOGE
+
 - date: 2025-03-26
   type: report
   event: During his confirmation hearing, Frank Bisignano, the nominee to run the agency, confirms that he had coordinated
@@ -4724,6 +5183,7 @@ events:
   - Mike Russo
   source: https://thehill.com/homenews/5212751-sen-wyden-questions-bisignano/
   agency: SSA
+
 - date: 2025-03-27
   event: In response to litigation about records keeping, DOGE submits a new records retention policy
   type: legal
@@ -4738,6 +5198,7 @@ events:
     case_no: 1:25-cv-00409
     link: https://www.courtlistener.com/docket/69630062/oversight-v-efficiency/
     agency: DOGE
+
 - date: 2025-03-27
   type: legal
   event: DOGE provides an updated estimate of documents that would be subject to CREW's FOIA requests as 58,000
@@ -4753,6 +5214,7 @@ events:
     date_filed: 2025-02-20
     link: https://www.courtlistener.com/docket/69658871/citizens-for-responsibility-and-ethics-in-washington-v-us-doge-service/
     agency: DOGE
+
 - date: 2025-03-27
   type: report
   event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among other
@@ -4769,18 +5231,21 @@ events:
   - Brad Smith
   source: https://www.nbcnews.com/politics/doge/elon-musks-doge-tries-put-new-faces-reclusive-federal-office-rcna198491
   agency: DOGE
+
 - date: 2025-03-27
   type: official
   event: HHS announces a large reorganization reducing HHS from 28 to 15 divisions and elimination 20,000 jobs (or 25% of
     total). The URL slug of the press release includes "DOGE" in it.
   source: https://www.hhs.gov/about/news/hhs-restructuring-doge.html
   agency: HHS
+
 - date: 2025-03-27
   type: report
   event: The Social Security Administration ends a Biden-era rule that limited clawbacks for overpayments to 10% per check
     (to prior policy of taking entire checks)
   source: https://www.cbsnews.com/news/social-security-benefits-clawback-overpayment-100-percent-march-27-doge/
   agency: SSA
+
 - date: 2025-03-27
   type: report
   event: In a sworn declaration, Leland Dudek justifies access to PII in SSA records for Employee 1, Employee 5, Employee
@@ -4798,6 +5263,7 @@ events:
   agency: SSA
   mapped_aliases:
     SSA-9: Payton Rehling
+
 - date: 2025-03-28
   type: report
   event: Michael Grimes conducts DOGE-style interviews with each member of the staff in the Chips Program Office
@@ -4805,12 +5271,14 @@ events:
   - Michael Grimes
   source: https://www.ft.com/content/21ad2223-2a7f-44d4-8004-38956597bb9d
   agency: Commerce
+
 - date: 2025-03-28
   type: report
   event: Expressing concerns about DOGE requesting access to FPPS, the CIO and CISO of the Department of the Interior present
     a memo to the Interior Secretary about the risks for him to acknowledge and sign. He doesn't sign it
   source: https://www.nytimes.com/2025/03/31/us/politics/doge-musk-federal-payroll.html
   agency: DOI
+
 - date: 2025-03-28
   type: disruption
   event: Tyler Hassen places the CIO and CISO on admininstrative leave under investigation for raising alarm about DOGE access
@@ -4818,22 +5286,26 @@ events:
   - Tyler Hassen
   source: https://www.nytimes.com/2025/03/31/us/politics/doge-musk-federal-payroll.html
   agency: DOI
+
 - date: 2025-03-28
   type: report
   event: During an interview, the head of HHS reports that DOGE created the new organizational chart for the agency ahead
     of mass firings, says "we're not cutting scientists"
   source: https://www.newsnationnow.com/cuomo-show/rfk-defends-hhs-job-cuts/
   agency: HHS
+
 - date: 2025-03-28
   type: disruption
   event: DOGE abruptly places 50 technologists at the IRS on administrative leave
   source: https://www.wired.com/story/doge-hackathon-irs-data-palantir/
   agency: IRS
+
 - date: 2025-03-28
   type: report
   event: SEC employees receive an email that the agency is beginning to onboard DOGE staff
   source: https://www.reuters.com/world/us/us-securities-exchange-commission-beginning-onboard-doge-staff-email-says-2025-03-28/
   agency: SEC
+
 - date: 2025-03-28
   type: report
   event: Reports emerge that DOGE is planning to rewrite the entire COBOL codebase for Social Security to Java in months using
@@ -4842,12 +5314,14 @@ events:
   - Steve Davis
   source: https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/
   agency: SSA
+
 - date: 2025-03-28
   type: disruption
   event: The Deputy CIO for Infrastructure/IT at SSA acknowledges network crashes due to a newly-introduced fraud checking
     system created by DOGE
   source: https://www.washingtonpost.com/politics/2025/04/07/social-security-website-crashes-musk-trump/
   agency: SSA
+
 - date: 2025-03-28
   type: disruption
   event: Almost all of the remaining 900 USAID employees are terminated by email from Jeremy Lewin with RIFs that will go
@@ -4856,11 +5330,13 @@ events:
   - Jeremy Lewin
   source: https://www.npr.org/sections/goats-and-soda/2025/03/28/g-s1-56968/usaid-terminates-nearly-all-its-remaining-employees
   agency: USAID
+
 - date: 2025-03-28
   type: disruption
   event: Almost all USIP HQ staff (200-300 people) receive termination notices late on a Friday night
   source: https://www.washingtonpost.com/national-security/2025/03/29/doge-usip-peace-institute-fired/
   agency: USIP
+
 - date: 2025-03-28
   type: report
   event: USCIS CIO William McElhaney sends a message to DHS Deputy Secretary asking them to review access that was granted
@@ -4872,6 +5348,7 @@ events:
   - Payton Rehling
   source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
   agency: USCIS
+
 - date: 2025-03-28
   type: report
   event: As part of an interview on Fox News, Aram Moghaddassi spreads the debunked statistic that 40% of call to SSA are
@@ -4880,6 +5357,7 @@ events:
   - Aram Moghaddassi
   source: https://www.washingtonpost.com/politics/2025/04/08/vance-social-security-fraud-false/
   agency: SSA
+
 - date: 2025-03-29
   type: access_changed
   access_type: admin
@@ -4890,6 +5368,7 @@ events:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: HHS
+
 - date: 2025-03-29
   type: report
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
@@ -4901,6 +5380,7 @@ events:
   - Luke Farritor
   - Amy Gleason
   agency: CMS
+
 - date: 2025-03-29
   type: access_revoked
   access_systems:
@@ -4912,12 +5392,14 @@ events:
   - Edward Coristine
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CMS
+
 - date: 2025-03-29
   type: disruption
   event: Federal staff at the DOD are sent an email offering them another chance for a deferred resignation if they enroll
     within the next week or so
   source: https://www.defense.gov/News/News-Stories/Article/Article/4138965/hegseth-orders-civilian-workforce-realignment-in-dod-reopens-drp/
   agency: DOD
+
 - date: 2025-03-29
   event: Two DOGE staffers are granted admin access to the FPPS payroll system at the Department of the Interior
   type: access_granted
@@ -4929,6 +5411,7 @@ events:
   - Katrine Trampe
   source: https://www.nytimes.com/2025/03/31/us/politics/doge-musk-federal-payroll.html
   agency: DOI
+
 - date: 2025-03-29
   type: access_revoked
   access_systems:
@@ -4938,6 +5421,7 @@ events:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: HHS
+
 - date: 2025-03-29
   type: report
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
@@ -4950,6 +5434,7 @@ events:
   - Amy Gleason
   - Kyle Schutt
   agency: HHS
+
 - date: 2025-03-29
   type: report
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.4.pdf
@@ -4959,6 +5444,7 @@ events:
   - Conor Fennessy
   - Jeremy Lewin
   agency: HHS
+
 - date: 2025-03-30
   type: report
   event: At a town hall event in Wisconsin, Elon Musk and Antonio Gracias claim to have found fraud in the number of immigrants
@@ -4967,6 +5453,7 @@ events:
   - Antonio Gracias
   source: https://www.washingtonpost.com/politics/2025/04/01/elon-musk-social-security-immigrants/
   agency: SSA
+
 - date: 2025-03-31
   type: report
   event: Elon Musk visits the CIA at the invitation of its director, John Ratcliffe
@@ -4974,6 +5461,7 @@ events:
   - Elon Musk
   source: https://www.washingtonpost.com/national-security/2025/03/31/elon-musk-cia-doge/
   agency: CIA
+
 - date: 2025-03-31
   type: disruption
   event: DOGE arrives at the agency and notifies the entire staff of IMLS that they are being put on administrative leave
@@ -4983,28 +5471,33 @@ events:
   - Gavin Hamrick
   source: https://bsky.app/profile/marisakabas.bsky.social
   agency: IMLS
+
 - date: 2025-03-31
   type: disruption
   event: DOGE starts cancelling all 900 open awards from IMLS to museums across the country
   source: https://news.artnet.com/art-world/doge-decimates-institute-museum-library-services-imls-2626543
   agency: IMLS
+
 - date: 2025-04-01
   type: disruption
   event: HHS terminates a large number of staff at CDC in the name of cost savings and realignment, with the HHS director,
     Robert F. Kennedy Jr., reportedly wanting to focus only on infectious diseases
   source: https://www.nytimes.com/2025/04/01/us/politics/trump-federal-layoffs-health-food.html
   agency: CDC
+
 - date: 2025-04-01
   type: disruption
   event: Federal staff at the USDA are sent an email offering them another chance to do a deferred resignation if they enroll
     within the next week or so
   source: https://www.nytimes.com/2025/04/01/us/politics/federal-layoff-buyout-offers.html
   agency: USDA
+
 - date: 2025-04-01
   type: disruption
   event: Employees at the Department of Energy are sent an email offering for them to enroll in a deferred resignation plan
   source: https://www.nytimes.com/2025/04/01/us/politics/federal-layoff-buyout-offers.html
   agency: Energy
+
 - date: 2025-04-01
   type: report
   event: DOGE member Christopher Stanley is listed as a Senior Advisor in Deputy Attorney General's Office and holds a security
@@ -5013,18 +5506,21 @@ events:
   - Christopher Stanley
   source: https://www.reuters.com/technology/cybersecurity/doge-official-doj-bragged-about-hacking-distributing-pirated-software-2025-04-02/
   agency: DOJ
+
 - date: 2025-04-01
   event: Workers at the Department of Transportation are sent an offer from DOT HR to enroll in a deferred resignation program
     by April 7
   type: disruption
   source: https://www.nytimes.com/live/2025/04/01/us/trump-news-updates#trump-buyouts-us-transportation-department
   agency: DOT
+
 - date: 2025-04-01
   type: disruption
   event: HHS terminates a large number of staff at FDA in the name of cost savings and realignment, as the new head of FDA
     is sworn in
   source: https://www.nytimes.com/2025/04/01/us/politics/trump-federal-layoffs-health-food.html
   agency: FDA
+
 - date: 2025-04-01
   type: disruption
   event: HHS terminates 10,000 employees across many divisions (FDA, CDC, NIH, HHS) in the name of "bureaucratic realignment."
@@ -5036,34 +5532,40 @@ events:
   - CDC
   - NIH
   - CMS
+
 - date: 2025-04-01
   type: report
   event: HUD staff receive an email from HUD HR offering a new "Fork in the Road" offer for deferred resignation, open until
     April 11
   source: https://bsky.app/profile/davelevitan.bsky.social/post/3llqvwtc5lq2v
   agency: HUD
+
 - date: 2025-04-01
   type: disruption
   event: DOGE pushes for a reduction of 80% of staff and a cancellation of all grants that haven't been paid out
   source: https://www.nytimes.com/2025/04/01/arts/trump-doge-federal-cuts-humanities.html
   agency: NEH
+
 - date: 2025-04-01
   type: disruption
   event: HHS terminates a large number of staff at NIH in the name of cost savings and realignment, as the new head of NIH
     is sworn in
   source: https://www.nytimes.com/2025/04/01/us/politics/trump-federal-layoffs-health-food.html
   agency: NIH
+
 - date: 2025-04-02
   type: official
   event: A group of 22 house members send a letter to Commerce Secretary Lutnick expressing concern about the firing of 70
     staffers at NIST
   source: https://mcclaindelaney.house.gov/sites/evo-subsites/mcclaindelaney.house.gov/files/evo-media-document/amd-letter-to-sec-lutnik-re-nist-probationary-and-rif-plans-v.f.pdf
   agency: NIST
+
 - date: 2025-04-02
   type: disruption
   event: The head and deputy leader of the NSA are both relieved of their command
   source: https://www.nytimes.com/2025/04/03/us/politics/nsa-cyber-command-chief-fired.html
   agency: NSA
+
 - date: 2025-04-02
   type: report
   event: In an interview on Fox, Antonio Gracias makes misleading claims that DOGE had discovered widespread voting fraud
@@ -5072,12 +5574,14 @@ events:
   - Antonio Gracias
   agency: SSA
   source: https://www.npr.org/2025/04/11/nx-s1-5352470/doge-musk-social-security-voting
+
 - date: 2025-04-03
   type: disruption
   event: Senior technological positions are terminated including director of cybersecurity architecture and implementation,
     deputy chief information security officer, and acting director of security risk management. Only the CTO was spared.
   source: https://www.wired.com/story/doge-hackathon-irs-data-palantir/
   agency: IRS
+
 - date: 2025-04-03
   type: report
   event: Scott Kupor, the nominee to lead OPM, assured senators that he believes strong in data privacy and respecting the
@@ -5086,12 +5590,14 @@ events:
   - Scott Kupor
   source: https://fedscoop.com/opm-nominee-scott-kupor-data-privacy-doge/
   agency: OPM
+
 - date: 2025-04-03
   type: report
   event: Social Security employees received an offer from the human resources department for voluntary reassignments to "mission-critical"
     front-line roles in call services and hearing offices to replace staff that were eliminated.
   source: https://www.washingtonpost.com/politics/2025/04/04/social-security-layoffs-trump-musk/
   agency: SSA
+
 - date: 2025-04-04
   type: report
   event: Three DOGE staffers are listed in the public directory of FCC staff and listed as associated with the Office of the
@@ -5102,6 +5608,7 @@ events:
   - Jacob Altik
   source: https://www.theverge.com/news/644031/doge-federal-communications-commission-directory
   agency: FCC
+
 - date: 2025-04-04
   type: report
   event: Reports that two DOGE staffers have started work in the agency, looking at grants and contracts
@@ -5110,6 +5617,7 @@ events:
   - Emily Bryant
   source: https://www.axios.com/pro/tech-policy/2025/04/04/doge-staffers-move-into-ftc-office
   agency: FTC
+
 - date: 2025-04-04
   type: report
   event: DOGE staff reportedly visit the Peace Corps, planning to work over the weeked to review records and access IT systems
@@ -5117,6 +5625,7 @@ events:
   - Bridget Youngs
   source: https://www.theguardian.com/us-news/2025/apr/04/elon-musk-doge-peace-corps
   agency: Peace
+
 - date: 2025-04-04
   type: disruption
   event: DOGE staffers at SSA declare the need for widespread RIFs at the agency, despite a reduction in staffing of 7000
@@ -5124,6 +5633,7 @@ events:
     of 4000.
   source: https://www.washingtonpost.com/politics/2025/04/04/social-security-layoffs-trump-musk/
   agency: SSA
+
 - date: 2025-04-04
   type: disruption
   event: CISA informs NLRB networking staff that they should drop any investigation and not move forward on any reporting
@@ -5131,6 +5641,7 @@ events:
   agency:
   - NLRB
   - CISA
+
 - date: 2025-04-05
   type: report
   event: DOGE is reportedly planning to state a "hack-a-thon" in cooperation with Palantir to create a "mega API" to access
@@ -5140,6 +5651,7 @@ events:
   - Sam Corcos
   source: https://www.wired.com/story/doge-hackathon-irs-data-palantir/
   agency: IRS
+
 - date: 2025-04-07
   type: access_granted
   event: Unidentified "Employee 11" is accidentally granted access to SSA systems that DOGE was banned from by the court order
@@ -5147,6 +5659,7 @@ events:
   - SSA-11
   source: https://www.washingtonpost.com/politics/2025/04/15/doge-social-security-data-judge/
   agency: SSA
+
 - date: 2025-04-07
   type: disruption
   event: The Post confirms with multiple source that Social Security's website has crashed repeatedly in recent weeks, with
@@ -5154,6 +5667,7 @@ events:
     check system created by DOGE that wasn't tested for scalability before being deployed.
   source: https://www.washingtonpost.com/politics/2025/04/07/social-security-website-crashes-musk-trump/
   agency: SSA
+
 - date: 2025-04-07
   type: legal
   event: In a 2-1 vote, the 4th U.S. Circuit Court of Appeals lifted a stay against DOGE data access at the Treasury, OPM
@@ -5176,6 +5690,7 @@ events:
     - Education
     - Treasury
     - OPM
+
 - date: 2025-04-07
   type: official
   event: The IRS and DHS executed a Memorandum of Understanding (MOU) for data sharing between both agencies. Although DOGE
@@ -5195,12 +5710,14 @@ events:
     date_filed: 2025-03-07
     link: https://www.courtlistener.com/docket/69714586/centro-de-trabajadores-unidos-v-bessent/
     agency: Treasury
+
 - date: 2025-04-07
   type: report
   event: Newly-appointed director of CMS, Dr. Mehmet Oz, suggests replacing front-line healthcare workers with AI avatars
     for cost savings
   agency: CMS
   source: https://www.wired.com/story/dr-oz-ai-health-care-medicare-cms-town-hall/
+
 - date: 2025-04-07
   type: report
   event: After some qualms about its legality, Leland Dudek signs two memos authorizing sharing data that would allow DHS
@@ -5212,6 +5729,7 @@ events:
   - IRS
   - DHS
   - ICE
+
 - date: 2025-04-08~
   type: access_granted
   event: Unidentified "Employee 11" is accidentally granted access to SSA systems that DOGE was banned from by the court order
@@ -5219,23 +5737,27 @@ events:
   - SSA-11
   source: https://www.washingtonpost.com/politics/2025/04/15/doge-social-security-data-judge/
   agency: SSA
+
 - date: 2025-04-08
   type: report
   event: Employees at the EPA are reportedly being told by Trump-appointed officials that DOGE was using AI to monitor communication
     tools (including Microsoft Teams) for anti-Trump or anti-Musk language
   source: https://www.reuters.com/technology/artificial-intelligence/musks-doge-using-ai-snoop-us-federal-workers-sources-say-2025-04-08/
   agency: EPA
+
 - date: 2025-04-08
   type: report
   event: Tulsi Gabbard, the Director of National Intelligence, creates a Director's Initiatives Group (DIG) of 10 people outside
     the agency vetted by the White House. It has a similar mission but is reported to be separate from DOGE
   agency: ODNI
   source: https://www.washingtonpost.com/national-security/2025/04/08/tulsi-gabbard-intelligence-doge-cuts-weaponization/
+
 - date: 2025-04-08
   type: report
   event: DOGE staff are reportedly examining Navy's enterprise software licenses under the direction of the DOD CIO
   source: https://defensescoop.com/2025/04/08/doge-reviewing-navy-software-enterprise/
   agency: DOD
+
 - date: 2025-04-08
   type: report
   event: Aram Moghaddassi adds 6300 names of suspected immigrants to the "death master file" as a way of forcing them to "self-deport"
@@ -5245,6 +5767,7 @@ events:
   - Scott Coulter
   source: https://www.nytimes.com/2025/04/10/us/politics/migrants-deport-social-security-doge.html
   agency: SSA
+
 - date: 2025-04-08
   type: report
   event: A hackathon at IRS of DOGE engineers and some senior IRS developers kicks off to create a "Mega API." Reportedly,
@@ -5253,6 +5776,7 @@ events:
   named:
   - Sam Corcos
   agency: IRS
+
 - date: 2025-04-10
   type: report
   event: Three DOGE staffers visit the FDIC headquarters. Their arrival is later confirmed for staff with an email stating
@@ -5263,6 +5787,7 @@ events:
   - Anthony Armstrong
   source: https://www.thehandbasket.co/p/doge-fdic
   agency: FDIC
+
 - date: 2025-04-10
   type: report
   event: The hackathon to create a "Mega API" at the IRS concludes. DOGE engineers are reportedly confidenct they will be
@@ -5271,6 +5796,7 @@ events:
   named:
   - Sam Corcos
   agency: IRS
+
 - date: 2025-04-10
   type: disruption
   event: Greg Pearre, a senior career executive overseeing technologists at the SSA, is forced out of his office by security
@@ -5279,6 +5805,7 @@ events:
   - Scott Coulter
   source: https://www.washingtonpost.com/politics/2025/04/12/trump-immigrants-dead-social-security/
   agency: SSA
+
 - date: 2025-04-10
   type: report
   event: 102 more names of living people are added to the Master Death File at SSA to destroy their ability to participate
@@ -5287,11 +5814,13 @@ events:
   - Scott Coulter
   source: https://www.washingtonpost.com/politics/2025/04/12/trump-immigrants-dead-social-security/
   agency: SSA
+
 - date: 2025-04-11
   type: disruption
   event: The Social Security Agency is reportedly shifting all its official communications exclusively to X
   source: https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/
   agency: SSA
+
 - date: 2025-04-11~
   type: offboarded
   event: Pete Marocco is reportedly fired from the State Department
@@ -5299,6 +5828,7 @@ events:
   - Peter Marocco
   source: https://www.wsj.com/politics/policy/trump-official-who-oversaw-closure-of-usaid-has-left-state-department-5760da3d?st=59hf4K
   agency: State
+
 - date: 2025-04-11
   type: legal
   event: The plaintiffs in AFGE, AFL-CIO, et. al vs. OPM file a motion asking for the testimony of Noah Peters to be thrown
@@ -5316,6 +5846,7 @@ events:
     case_no: 3:25-cv-01780
     link: https://www.courtlistener.com/docket/69655364/american-federation-of-government-employees-afl-cio-v-united-states/
     agency: OPM
+
 - date: 2025-04-12
   type: disruption
   event: A DOGE engineer has apparently removed the ability of government agencies to post new grants to grants.gov and requiring
@@ -5328,6 +5859,7 @@ events:
   - DOI
   - DOD
   - NIH
+
 - date: 2025-04-12
   type: legal
   event: Judge Vargas rules in New York et al vs. Donald Trump that Ryan Wunderly should be granted access to Treasury systems
@@ -5346,6 +5878,7 @@ events:
     date_filed: 2025-02-07
     link: https://www.courtlistener.com/docket/69623558/state-of-new-york-v-donald-j-trump/
     agency: Treasury
+
 - date: 2025-04-14
   type: legal
   case_no: 1:25-cv-00596
@@ -5362,6 +5895,7 @@ events:
     agency:
     - SSA
     - DOGE
+
 - date: 2025-04-15
   type: promotion
   event: Jeremy Lewin is named the new acting head of foreign assistance at the State Department after the departure of Peter
@@ -5370,6 +5904,7 @@ events:
   named:
   - Jeremy Lewin
   agency: State
+
 - date: 2025-04-15
   type: report
   event: Mike Mirski is reportedly leading a DOGE effort at HUD to identify and target households that include undocumented
@@ -5378,6 +5913,7 @@ events:
   named:
   - Michael Mirski
   agency: HUD
+
 - date: 2025-04-15
   type: disruption
   event: All 14 current members of the Pentagon's pre-existing Defense Digital Service team announce a mass resignation after

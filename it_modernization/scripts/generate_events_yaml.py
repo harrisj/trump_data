@@ -45,4 +45,4 @@ meta = {
 }
 
 events = generate_events()
-dump_generated_file(meta, events, 'events.yaml', SCHEMA_PATH)
+dump_generated_file(meta, events, 'events.yaml', SCHEMA_PATH, line_break_indent=2)
