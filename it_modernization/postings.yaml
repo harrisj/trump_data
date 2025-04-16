@@ -1,0 +1,1774 @@
+# yaml-language-server: $schema=schemas/postings-file.json
+meta:
+  title: Postings
+  version: 1.0.0
+  generated: 2025-04-16
+
+postings:
+
+- agency_id: CDC
+  name: Luke Farritor
+  first_date: 2025-01-30
+  all_dates:
+  - 2025-01-30
+  - 2025-02-24
+  last_date: 2025-02-24
+
+- agency_id: CFPB
+  name: Nikhil Rajpal
+  first_date: 2025-02-06
+  all_dates:
+  - 2025-02-06
+  - 2025-02-07
+  - 2025-03-21
+  last_date: 2025-03-21
+  offboard_date: 2025-03-21
+
+- agency_id: CFPB
+  name: Gavin Kliger
+  first_date: 2025-02-06
+  all_dates:
+  - 2025-02-06
+  last_date: 2025-02-06
+
+- agency_id: CFPB
+  name: Chris Young
+  first_date: 2025-02-06
+  all_dates:
+  - 2025-02-06
+  - 2025-02-12
+  last_date: 2025-02-12
+
+- agency_id: CFPB
+  name: Jordan Wick
+  first_date: 2025-02-07
+  all_dates:
+  - 2025-02-07
+  - 2025-02-09
+  - 2025-02-12
+  - 2025-02-13
+  - 2025-03-05
+  last_date: 2025-03-05
+  onboard_date: 2025-03-05
+
+- agency_id: CFPB
+  name: Luke Farritor
+  first_date: 2025-02-07
+  all_dates:
+  - 2025-02-07
+  - 2025-03-04
+  last_date: 2025-03-04
+  offboard_date: 2025-03-04
+
+- agency_id: CIA
+  name: Elon Musk
+  first_date: 2025-03-31
+  all_dates:
+  - 2025-03-31
+  last_date: 2025-03-31
+
+- agency_id: CISA
+  name: Edward Coristine
+  first_date: 2025-02-19
+  all_dates:
+  - 2025-02-19
+  - 2025-02-20
+  last_date: 2025-02-20
+
+- agency_id: CISA
+  name: Kyle Schutt
+  first_date: 2025-02-19
+  all_dates:
+  - 2025-02-19
+  last_date: 2025-02-19
+
+- agency_id: CMS
+  name: Luke Farritor
+  first_date: 2025-01-31
+  all_dates:
+  - 2025-01-31
+  - 2025-02-18
+  - 2025-03-29
+  last_date: 2025-03-29
+
+- agency_id: CMS
+  name: Amy Gleason
+  first_date: 2025-02-24
+  all_dates:
+  - 2025-02-24
+  - 2025-03-29
+  last_date: 2025-03-29
+
+- agency_id: CMS
+  name: Edward Coristine
+  first_date: 2025-03-05
+  all_dates:
+  - 2025-03-05
+  - 2025-03-11
+  - 2025-03-29
+  last_date: 2025-03-29
+  onboard_date: 2025-03-05
+
+- agency_id: CMS
+  name: Marko Elez
+  first_date: 2025-03-05
+  all_dates:
+  - 2025-03-05
+  - 2025-03-29
+  last_date: 2025-03-29
+
+- agency_id: Commerce
+  name: Michael Grimes
+  first_date: 2025-01-29
+  all_dates:
+  - 2025-01-29
+  - 2025-03-28
+  last_date: 2025-03-28
+  onboard_date: 2025-01-29
+
+- agency_id: DHS
+  name: Edward Coristine
+  first_date: 2025-02-10
+  all_dates:
+  - 2025-02-10
+  last_date: 2025-02-10
+
+- agency_id: DHS
+  name: Antoine McCord
+  first_date: 2025-03-11
+  all_dates:
+  - 2025-03-11
+  last_date: 2025-03-11
+  onboard_date: 2025-03-11
+
+- agency_id: DHS
+  name: Leland Dudek
+  first_date: 2025-04-07
+  all_dates:
+  - 2025-04-07
+  last_date: 2025-04-07
+
+- agency_id: DOD
+  name: Justin Fulcher
+  first_date: 2025-03-04
+  all_dates:
+  - 2025-03-04
+  last_date: 2025-03-04
+
+- agency_id: DOD
+  name: Elon Musk
+  first_date: 2025-03-21
+  all_dates:
+  - 2025-03-21
+  last_date: 2025-03-21
+
+- agency_id: DOD
+  name: Luke Farritor
+  first_date: 2025-04-12
+  all_dates:
+  - 2025-04-12
+  last_date: 2025-04-12
+
+- agency_id: DOGE
+  name: Anthony Jancso
+  first_date: 2024-11-26
+  all_dates:
+  - 2024-11-26
+  - 2024-12-05
+  last_date: 2024-12-05
+
+- agency_id: DOGE
+  name: Luke Farritor
+  first_date: 2024-12-05
+  all_dates:
+  - 2024-12-05
+  - 2025-03-05
+  last_date: 2025-03-05
+
+- agency_id: DOGE
+  name: Elon Musk
+  first_date: 2024-12-06
+  all_dates:
+  - 2024-12-06
+  - 2025-03-27
+  last_date: 2025-03-27
+
+- agency_id: DOGE
+  name: Marc Andreessen
+  first_date: 2024-12-06
+  all_dates:
+  - 2024-12-06
+  - 2025-01-16
+  - 2025-01-24
+  last_date: 2025-01-24
+
+- agency_id: DOGE
+  name: Jared Birchall
+  first_date: 2024-12-06
+  all_dates:
+  - 2024-12-06
+  last_date: 2024-12-06
+
+- agency_id: DOGE
+  name: Shaun Maguire
+  first_date: 2024-12-06
+  all_dates:
+  - 2024-12-06
+  - 2025-01-16
+  - 2025-01-24
+  last_date: 2025-01-24
+
+- agency_id: DOGE
+  name: Scott Kupor
+  first_date: 2024-12-06
+  all_dates:
+  - 2024-12-06
+  last_date: 2024-12-06
+
+- agency_id: DOGE
+  name: Michael Kratsios
+  first_date: 2024-12-06
+  all_dates:
+  - 2024-12-06
+  - 2025-03-25
+  last_date: 2025-03-25
+  offboard_date: 2025-03-25
+
+- agency_id: DOGE
+  name: Steve Davis
+  first_date: 2024-12-06
+  all_dates:
+  - 2024-12-06
+  - 2025-01-24
+  - 2025-03-05
+  - 2025-03-27
+  last_date: 2025-03-27
+
+- agency_id: DOGE
+  name: Baris Akis
+  first_date: 2024-12-06
+  all_dates:
+  - 2024-12-06
+  - 2025-01-24
+  last_date: 2025-01-24
+
+- agency_id: DOGE
+  name: Amy Gleason
+  first_date: 2024-12-30
+  all_dates:
+  - 2024-12-30
+  - 2025-02-20
+  - 2025-02-26
+  - 2025-03-19
+  last_date: 2025-03-19
+  onboard_date: 2024-12-30
+
+- agency_id: DOGE
+  name: Riley Sennott
+  first_date: 2025-01-06
+  all_dates:
+  - 2025-01-06
+  - 2025-01-17
+  last_date: 2025-01-17
+
+- agency_id: DOGE
+  name: Derek Geissler
+  first_date: 2025-01-17
+  all_dates:
+  - 2025-01-17
+  last_date: 2025-01-17
+
+- agency_id: DOGE
+  name: Brooks Morgan
+  first_date: 2025-01-17
+  all_dates:
+  - 2025-01-17
+  last_date: 2025-01-17
+
+- agency_id: DOGE
+  name: Conor Fennessy
+  first_date: 2025-01-17
+  all_dates:
+  - 2025-01-17
+  last_date: 2025-01-17
+
+- agency_id: DOGE
+  name: Cole Killian
+  first_date: 2025-01-21
+  all_dates:
+  - 2025-01-21
+  - 2025-02-02
+  last_date: 2025-02-02
+
+- agency_id: DOGE
+  name: Nikhil Rajpal
+  first_date: 2025-01-21
+  all_dates:
+  - 2025-01-21
+  last_date: 2025-01-21
+
+- agency_id: DOGE
+  name: Adam Ramada
+  first_date: 2025-01-23
+  all_dates:
+  - 2025-01-23
+  last_date: 2025-01-23
+  onboard_date: 2025-01-23
+
+- agency_id: DOGE
+  name: Katie Miller
+  first_date: 2025-01-24
+  all_dates:
+  - 2025-01-24
+  last_date: 2025-01-24
+
+- agency_id: DOGE
+  name: Brad Smith
+  first_date: 2025-01-24
+  all_dates:
+  - 2025-01-24
+  - 2025-03-27
+  last_date: 2025-03-27
+
+- agency_id: DOGE
+  name: Rachel Riley
+  first_date: 2025-01-24
+  all_dates:
+  - 2025-01-24
+  last_date: 2025-01-24
+
+- agency_id: DOGE
+  name: Joanna Wischer
+  first_date: 2025-01-24
+  all_dates:
+  - 2025-01-24
+  last_date: 2025-01-24
+
+- agency_id: DOGE
+  name: James Burnham
+  first_date: 2025-01-24
+  all_dates:
+  - 2025-01-24
+  - 2025-03-26
+  last_date: 2025-03-26
+
+- agency_id: DOGE
+  name: Kendall Lindemann
+  first_date: 2025-02-14
+  all_dates:
+  - 2025-02-14
+  last_date: 2025-02-14
+  onboard_date: 2025-02-14
+
+- agency_id: DOGE
+  name: Christopher Stanley
+  first_date: 2025-02-18
+  all_dates:
+  - 2025-02-18
+  last_date: 2025-02-18
+
+- agency_id: DOGE
+  name: Marko Elez
+  first_date: 2025-03-05
+  all_dates:
+  - 2025-03-05
+  last_date: 2025-03-05
+
+- agency_id: DOGE
+  name: Edward Coristine
+  first_date: 2025-03-05
+  all_dates:
+  - 2025-03-05
+  last_date: 2025-03-05
+
+- agency_id: DOGE
+  name: Justin Aimonetti
+  first_date: 2025-03-05
+  all_dates:
+  - 2025-03-05
+  - 2025-03-26
+  last_date: 2025-03-26
+
+- agency_id: DOGE
+  name: Ashley Boizelle
+  first_date: 2025-03-05
+  all_dates:
+  - 2025-03-05
+  - 2025-03-26
+  last_date: 2025-03-26
+
+- agency_id: DOGE
+  name: Joshua Fox
+  first_date: 2025-03-05
+  all_dates:
+  - 2025-03-05
+  - 2025-03-26
+  last_date: 2025-03-26
+
+- agency_id: DOGE
+  name: Joshua Hanley
+  first_date: 2025-03-05
+  all_dates:
+  - 2025-03-05
+  - 2025-03-26
+  last_date: 2025-03-26
+
+- agency_id: DOGE
+  name: Jeremy Lewin
+  first_date: 2025-03-19
+  all_dates:
+  - 2025-03-19
+  - 2025-03-26
+  last_date: 2025-03-26
+
+- agency_id: DOGE
+  name: Noah Peters
+  first_date: 2025-03-26
+  all_dates:
+  - 2025-03-26
+  last_date: 2025-03-26
+
+- agency_id: DOGE
+  name: Jacob Altik
+  first_date: 2025-03-26
+  all_dates:
+  - 2025-03-26
+  last_date: 2025-03-26
+
+- agency_id: DOGE
+  name: Daniel Abrahamson
+  first_date: 2025-03-26
+  all_dates:
+  - 2025-03-26
+  last_date: 2025-03-26
+
+- agency_id: DOGE
+  name: Keenan Kmiec
+  first_date: 2025-03-26
+  all_dates:
+  - 2025-03-26
+  last_date: 2025-03-26
+
+- agency_id: DOGE
+  name: Austin Raynor
+  first_date: 2025-03-26
+  all_dates:
+  - 2025-03-26
+  last_date: 2025-03-26
+
+- agency_id: DOGE
+  name: Joe Gebbia
+  first_date: 2025-03-27
+  all_dates:
+  - 2025-03-27
+  last_date: 2025-03-27
+
+- agency_id: DOGE
+  name: Tom Krause
+  first_date: 2025-03-27
+  all_dates:
+  - 2025-03-27
+  last_date: 2025-03-27
+
+- agency_id: DOGE
+  name: Anthony Armstrong
+  first_date: 2025-03-27
+  all_dates:
+  - 2025-03-27
+  last_date: 2025-03-27
+
+- agency_id: DOGE
+  name: Aram Moghaddassi
+  first_date: 2025-03-27
+  all_dates:
+  - 2025-03-27
+  last_date: 2025-03-27
+
+- agency_id: DOI
+  name: Tyler Hassen
+  first_date: 2025-01-28
+  all_dates:
+  - 2025-01-28
+  - 2025-03-07
+  - 2025-03-28
+  last_date: 2025-03-28
+
+- agency_id: DOI
+  name: Bryton Shang
+  first_date: 2025-01-28
+  all_dates:
+  - 2025-01-28
+  last_date: 2025-01-28
+
+- agency_id: DOI
+  name: Stephanie Holmes
+  first_date: 2025-02-24
+  all_dates:
+  - 2025-02-24
+  - 2025-03-29
+  last_date: 2025-03-29
+  onboard_date: 2025-02-24
+
+- agency_id: DOI
+  name: Katrine Trampe
+  first_date: 2025-03-29
+  all_dates:
+  - 2025-03-29
+  last_date: 2025-03-29
+
+- agency_id: DOI
+  name: Luke Farritor
+  first_date: 2025-04-12
+  all_dates:
+  - 2025-04-12
+  last_date: 2025-04-12
+
+- agency_id: DOJ
+  name: Christopher Stanley
+  first_date: 2025-04-01
+  all_dates:
+  - 2025-04-01
+  last_date: 2025-04-01
+
+- agency_id: DOL
+  name: Elon Musk
+  first_date: 2025-02-04
+  all_dates:
+  - 2025-02-04
+  last_date: 2025-02-04
+
+- agency_id: DOL
+  name: Sam Beyda
+  first_date: 2025-02-13
+  all_dates:
+  - 2025-02-13
+  last_date: 2025-02-13
+
+- agency_id: DOL
+  name: Derek Geissler
+  first_date: 2025-02-13
+  all_dates:
+  - 2025-02-13
+  last_date: 2025-02-13
+
+- agency_id: DOL
+  name: Cole Killian
+  first_date: 2025-02-13
+  all_dates:
+  - 2025-02-13
+  last_date: 2025-02-13
+
+- agency_id: DOL
+  name: Adam Ramada
+  first_date: 2025-02-13
+  all_dates:
+  - 2025-02-13
+  last_date: 2025-02-13
+
+- agency_id: DOL
+  name: Jordan Wick
+  first_date: 2025-02-13
+  all_dates:
+  - 2025-02-13
+  last_date: 2025-02-13
+
+- agency_id: DOL
+  name: Marko Elez
+  first_date: 2025-02-25
+  all_dates:
+  - 2025-02-25
+  - 2025-03-05
+  - 2025-03-19
+  - 2025-03-21
+  last_date: 2025-03-21
+
+- agency_id: DOL
+  name: Aram Moghaddassi
+  first_date: 2025-03-05
+  all_dates:
+  - 2025-03-05
+  last_date: 2025-03-05
+
+- agency_id: DOL
+  name: Miles Collins
+  first_date: 2025-03-05
+  all_dates:
+  - 2025-03-05
+  last_date: 2025-03-05
+
+- agency_id: DOL
+  name: Thomas Shedd
+  first_date: 2025-03-14
+  all_dates:
+  - 2025-03-14
+  last_date: 2025-03-14
+  onboard_date: 2025-03-14
+
+- agency_id: DOL
+  name: Keith Sonderling
+  first_date: 2025-03-18
+  all_dates:
+  - 2025-03-18
+  last_date: 2025-03-18
+  onboard_date: 2025-03-18
+
+- agency_id: EPA
+  name: Cole Killian
+  first_date: 2025-02-04
+  all_dates:
+  - 2025-02-04
+  - 2025-02-12
+  last_date: 2025-02-12
+
+- agency_id: EPA
+  name: Erica Jehling
+  first_date: 2025-02-12
+  all_dates:
+  - 2025-02-12
+  last_date: 2025-02-12
+
+- agency_id: EPA
+  name: Kathryn Armstrong Loving
+  first_date: 2025-02-12
+  all_dates:
+  - 2025-02-12
+  last_date: 2025-02-12
+
+- agency_id: Education
+  name: Adam Ramada
+  first_date: 2025-01-28
+  all_dates:
+  - 2025-01-28
+  - 2025-02-04
+  - 2025-02-05
+  - 2025-02-13
+  - 2025-02-24
+  last_date: 2025-02-24
+  onboard_date: 2025-01-28
+
+- agency_id: Education
+  name: Conor Fennessy
+  first_date: 2025-01-31
+  all_dates:
+  - 2025-01-31
+  last_date: 2025-01-31
+  onboard_date: 2025-01-31
+
+- agency_id: Education
+  name: Akash Bobba
+  first_date: 2025-02-03
+  all_dates:
+  - 2025-02-03
+  - 2025-02-08
+  - 2025-02-12
+  last_date: 2025-02-12
+  onboard_date: 2025-02-12
+
+- agency_id: Education
+  name: Ethan Shaotran
+  first_date: 2025-02-03
+  all_dates:
+  - 2025-02-03
+  - 2025-02-08
+  - 2025-02-12
+  last_date: 2025-02-12
+  onboard_date: 2025-02-03
+
+- agency_id: Education
+  name: Brooks Morgan
+  first_date: 2025-02-04
+  all_dates:
+  - 2025-02-04
+  - 2025-02-13
+  last_date: 2025-02-13
+  onboard_date: 2025-02-04
+
+- agency_id: Education
+  name: Alexandra Beynon
+  first_date: 2025-02-05
+  all_dates:
+  - 2025-02-05
+  - 2025-02-13
+  last_date: 2025-02-13
+  onboard_date: 2025-02-05
+
+- agency_id: Education
+  name: Jordan Wick
+  first_date: 2025-02-20
+  all_dates:
+  - 2025-02-20
+  last_date: 2025-02-20
+  onboard_date: 2025-02-20
+
+- agency_id: Education
+  name: Edward Coristine
+  first_date: 2025-02-20
+  all_dates:
+  - 2025-02-20
+  last_date: 2025-02-20
+  onboard_date: 2025-02-20
+
+- agency_id: Energy
+  name: Luke Farritor
+  first_date: 2025-02-05
+  all_dates:
+  - 2025-02-05
+  last_date: 2025-02-05
+
+- agency_id: Energy
+  name: Ryan Riedel
+  first_date: 2025-02-07
+  all_dates:
+  - 2025-02-07
+  - 2025-03-07
+  last_date: 2025-03-07
+  onboard_date: 2025-02-07
+  offboard_date: 2025-03-07
+
+- agency_id: FAA
+  name: Ted Malaska
+  first_date: 2025-02-16
+  all_dates:
+  - 2025-02-16
+  - 2025-02-18
+  last_date: 2025-02-18
+  onboard_date: 2025-02-16
+
+- agency_id: FAA
+  name: Thomas Kiernan
+  first_date: 2025-02-16
+  all_dates:
+  - 2025-02-16
+  last_date: 2025-02-16
+  onboard_date: 2025-02-16
+
+- agency_id: FAA
+  name: Sam Smeal
+  first_date: 2025-02-16
+  all_dates:
+  - 2025-02-16
+  last_date: 2025-02-16
+  onboard_date: 2025-02-16
+
+- agency_id: FAA
+  name: Brady Glantz
+  first_date: 2025-02-16
+  all_dates:
+  - 2025-02-16
+  last_date: 2025-02-16
+  onboard_date: 2025-02-16
+
+- agency_id: FCC
+  name: Tarak Makecha
+  first_date: 2025-04-04
+  all_dates:
+  - 2025-04-04
+  last_date: 2025-04-04
+
+- agency_id: FCC
+  name: Jordan Wick
+  first_date: 2025-04-04
+  all_dates:
+  - 2025-04-04
+  last_date: 2025-04-04
+
+- agency_id: FCC
+  name: Jacob Altik
+  first_date: 2025-04-04
+  all_dates:
+  - 2025-04-04
+  last_date: 2025-04-04
+
+- agency_id: FDIC
+  name: Brooks Morgan
+  first_date: 2025-04-10
+  all_dates:
+  - 2025-04-10
+  last_date: 2025-04-10
+
+- agency_id: FDIC
+  name: Adam Ramada
+  first_date: 2025-04-10
+  all_dates:
+  - 2025-04-10
+  last_date: 2025-04-10
+
+- agency_id: FDIC
+  name: Anthony Armstrong
+  first_date: 2025-04-10
+  all_dates:
+  - 2025-04-10
+  last_date: 2025-04-10
+
+- agency_id: FEMA
+  name: Edward Coristine
+  first_date: 2025-02-05
+  all_dates:
+  - 2025-02-05
+  last_date: 2025-02-05
+  onboard_date: 2025-02-05
+
+- agency_id: FHFA
+  name: Christopher Stanley
+  first_date: 2025-03-17
+  all_dates:
+  - 2025-03-17
+  - 2025-03-18
+  last_date: 2025-03-18
+  onboard_date: 2025-03-17
+  offboard_date: 2025-03-18
+
+- agency_id: FTC
+  name: Gavin Kliger
+  first_date: 2025-04-04
+  all_dates:
+  - 2025-04-04
+  last_date: 2025-04-04
+
+- agency_id: FTC
+  name: Emily Bryant
+  first_date: 2025-04-04
+  all_dates:
+  - 2025-04-04
+  last_date: 2025-04-04
+
+- agency_id: GSA
+  name: Stephen Ehikian
+  first_date: 2025-01-20
+  all_dates:
+  - 2025-01-20
+  - 2025-01-30
+  last_date: 2025-01-30
+  onboard_date: 2025-01-20
+
+- agency_id: GSA
+  name: Luke Farritor
+  first_date: 2025-01-20~
+  all_dates:
+  - 2025-01-20~
+  - 2025-01-30
+  - 2025-02-02
+  - 2025-03-04
+  last_date: 2025-03-04
+  onboard_date: 2025-01-20~
+
+- agency_id: GSA
+  name: Nicole Hollander
+  first_date: 2025-01-20~
+  all_dates:
+  - 2025-01-20~
+  - 2025-01-29
+  - 2025-01-30
+  - 2025-01-31
+  - 2025-03-04
+  last_date: 2025-03-04
+  onboard_date: 2025-01-20~
+
+- agency_id: GSA
+  name: Edward Coristine
+  first_date: 2025-01-20~
+  all_dates:
+  - 2025-01-20~
+  - 2025-01-31
+  - 2025-02-02
+  - 2025-03-04
+  last_date: 2025-03-04
+  onboard_date: 2025-01-20~
+
+- agency_id: GSA
+  name: Ethan Shaotran
+  first_date: 2025-01-20~
+  all_dates:
+  - 2025-01-20~
+  - 2025-01-31
+  - 2025-02-02
+  - 2025-03-04
+  last_date: 2025-03-04
+  onboard_date: 2025-01-20~
+
+- agency_id: GSA
+  name: Thomas Shedd
+  first_date: 2025-01-24
+  all_dates:
+  - 2025-01-24
+  - 2025-01-30
+  - 2025-01-31
+  - 2025-02-10
+  - 2025-02-18
+  - 2025-02-19
+  - 2025-03-01
+  - 2025-03-06
+  last_date: 2025-03-06
+  onboard_date: 2025-01-24
+
+- agency_id: GSA
+  name: Elon Musk
+  first_date: 2025-01-30
+  all_dates:
+  - 2025-01-30
+  last_date: 2025-01-30
+
+- agency_id: GSA
+  name: Steve Davis
+  first_date: 2025-01-30
+  all_dates:
+  - 2025-01-30
+  - 2025-01-31
+  last_date: 2025-01-31
+
+- agency_id: GSA
+  name: Akash Bobba
+  first_date: 2025-02-02
+  all_dates:
+  - 2025-02-02
+  last_date: 2025-02-02
+
+- agency_id: GSA
+  name: Kyle Schutt
+  first_date: 2025-03-04
+  all_dates:
+  - 2025-03-04
+  last_date: 2025-03-04
+
+- agency_id: GSA
+  name: Nate Cavanaugh
+  first_date: 2025-03-04
+  all_dates:
+  - 2025-03-04
+  last_date: 2025-03-04
+
+- agency_id: GSA
+  name: Derek Geissler
+  first_date: 2025-03-04
+  all_dates:
+  - 2025-03-04
+  last_date: 2025-03-04
+
+- agency_id: HHS
+  name: Luke Farritor
+  first_date: 2025-01-21
+  all_dates:
+  - 2025-01-21
+  - 2025-01-22
+  - 2025-01-27
+  - 2025-01-29
+  - 2025-02-28
+  - 2025-03-13
+  - 2025-03-21
+  - 2025-03-29
+  - 2025-04-12
+  last_date: 2025-04-12
+  onboard_date: 2025-01-21
+
+- agency_id: HHS
+  name: Clark Minor
+  first_date: 2025-02-14
+  all_dates:
+  - 2025-02-14
+  last_date: 2025-02-14
+  onboard_date: 2025-02-14
+
+- agency_id: HHS
+  name: Amy Gleason
+  first_date: 2025-03-04
+  all_dates:
+  - 2025-03-04
+  - 2025-03-29
+  last_date: 2025-03-29
+  onboard_date: 2025-03-04
+
+- agency_id: HHS
+  name: Brad Smith
+  first_date: 2025-03-04
+  all_dates:
+  - 2025-03-04
+  last_date: 2025-03-04
+  onboard_date: 2025-03-04
+
+- agency_id: HHS
+  name: Marko Elez
+  first_date: 2025-03-05
+  all_dates:
+  - 2025-03-05
+  - 2025-03-13
+  - 2025-03-29
+  last_date: 2025-03-29
+  onboard_date: 2025-03-05
+
+- agency_id: HHS
+  name: Edward Coristine
+  first_date: 2025-03-13
+  all_dates:
+  - 2025-03-13
+  - 2025-03-29
+  last_date: 2025-03-29
+
+- agency_id: HHS
+  name: Aram Moghaddassi
+  first_date: 2025-03-13
+  all_dates:
+  - 2025-03-13
+  last_date: 2025-03-13
+
+- agency_id: HHS
+  name: Rachel Riley
+  first_date: 2025-03-13
+  all_dates:
+  - 2025-03-13
+  last_date: 2025-03-13
+
+- agency_id: HHS
+  name: Kyle Schutt
+  first_date: 2025-03-14
+  all_dates:
+  - 2025-03-14
+  - 2025-03-21
+  - 2025-03-29
+  last_date: 2025-03-29
+  onboard_date: 2025-03-14
+
+- agency_id: HHS
+  name: Conor Fennessy
+  first_date: 2025-03-29
+  all_dates:
+  - 2025-03-29
+  last_date: 2025-03-29
+
+- agency_id: HHS
+  name: Jeremy Lewin
+  first_date: 2025-03-29
+  all_dates:
+  - 2025-03-29
+  last_date: 2025-03-29
+
+- agency_id: HUD
+  name: Scott Langmack
+  first_date: 2025-02-10
+  all_dates:
+  - 2025-02-10
+  - 2025-02-26
+  last_date: 2025-02-26
+
+- agency_id: HUD
+  name: Michael Mirski
+  first_date: 2025-02-20
+  all_dates:
+  - 2025-02-20
+  - 2025-02-26
+  - 2025-04-15
+  last_date: 2025-04-15
+
+- agency_id: IAF
+  name: Peter Marocco
+  first_date: 2025-02-28
+  all_dates:
+  - 2025-02-28
+  last_date: 2025-02-28
+  onboard_date: 2025-02-28
+
+- agency_id: IAF
+  name: Kenneth Jackson
+  first_date: 2025-03-10
+  all_dates:
+  - 2025-03-10
+  last_date: 2025-03-10
+
+- agency_id: ICE
+  name: Leland Dudek
+  first_date: 2025-04-07
+  all_dates:
+  - 2025-04-07
+  last_date: 2025-04-07
+
+- agency_id: IMLS
+  name: Keith Sonderling
+  first_date: 2025-03-20
+  all_dates:
+  - 2025-03-20
+  last_date: 2025-03-20
+  onboard_date: 2025-03-20
+
+- agency_id: IMLS
+  name: Nate Cavanaugh
+  first_date: 2025-03-31
+  all_dates:
+  - 2025-03-31
+  last_date: 2025-03-31
+
+- agency_id: IMLS
+  name: Gavin Hamrick
+  first_date: 2025-03-31
+  all_dates:
+  - 2025-03-31
+  last_date: 2025-03-31
+
+- agency_id: IRS
+  name: Gavin Kliger
+  first_date: 2025-02-28
+  all_dates:
+  - 2025-02-28
+  - 2025-04-05
+  last_date: 2025-04-05
+
+- agency_id: IRS
+  name: Sam Corcos
+  first_date: 2025-02-28
+  all_dates:
+  - 2025-02-28
+  - 2025-04-05
+  - 2025-04-08
+  - 2025-04-10
+  last_date: 2025-04-10
+
+- agency_id: IRS
+  name: Leland Dudek
+  first_date: 2025-04-07
+  all_dates:
+  - 2025-04-07
+  last_date: 2025-04-07
+
+- agency_id: NASA
+  name: Scott Coulter
+  first_date: 2025-03-14
+  all_dates:
+  - 2025-03-14
+  last_date: 2025-03-14
+
+- agency_id: NASA
+  name: Alexander Simonpour
+  first_date: 2025-03-14
+  all_dates:
+  - 2025-03-14
+  last_date: 2025-03-14
+
+- agency_id: NASA
+  name: Riley Sennott
+  first_date: 2025-03-14
+  all_dates:
+  - 2025-03-14
+  last_date: 2025-03-14
+
+- agency_id: NIH
+  name: Luke Farritor
+  first_date: 2025-02-24
+  all_dates:
+  - 2025-02-24
+  - 2025-02-28
+  - 2025-04-12
+  last_date: 2025-04-12
+
+- agency_id: NIH
+  name: Rachel Riley
+  first_date: 2025-02-24
+  all_dates:
+  - 2025-02-24
+  last_date: 2025-02-24
+
+- agency_id: NIH
+  name: Jeremy Lewin
+  first_date: 2025-02-24
+  all_dates:
+  - 2025-02-24
+  last_date: 2025-02-24
+
+- agency_id: NIH
+  name: Clark Minor
+  first_date: 2025-02-24
+  all_dates:
+  - 2025-02-24
+  last_date: 2025-02-24
+
+- agency_id: NIH
+  name: Joshua Hanley
+  first_date: 2025-03-03
+  all_dates:
+  - 2025-03-03
+  last_date: 2025-03-03
+
+- agency_id: NLRB
+  name: Jordan Wick
+  first_date: 2025-02-28
+  all_dates:
+  - 2025-02-28
+  last_date: 2025-02-28
+
+- agency_id: NOAA
+  name: Nikhil Rajpal
+  first_date: 2025-02-05
+  all_dates:
+  - 2025-02-05
+  last_date: 2025-02-05
+
+- agency_id: NSA
+  name: Elon Musk
+  first_date: 2025-03-12
+  all_dates:
+  - 2025-03-12
+  last_date: 2025-03-12
+
+- agency_id: OPM
+  name: Noah Peters
+  first_date: 2025-01-16~
+  all_dates:
+  - 2025-01-16~
+  - 2025-01-17
+  - 2025-01-20
+  last_date: 2025-01-20
+  onboard_date: 2025-01-20
+
+- agency_id: OPM
+  name: Keenan Kmiec
+  first_date: 2025-01-16~
+  all_dates:
+  - 2025-01-16~
+  last_date: 2025-01-16~
+
+- agency_id: OPM
+  name: Amanda Scales
+  first_date: 2025-01-17
+  all_dates:
+  - 2025-01-17
+  - 2025-01-20
+  - 2025-01-27
+  - 2025-01-31
+  last_date: 2025-01-31
+  onboard_date: 2025-01-20
+
+- agency_id: OPM
+  name: Brian Bjelde
+  first_date: 2025-01-17
+  all_dates:
+  - 2025-01-17
+  last_date: 2025-01-17
+
+- agency_id: OPM
+  name: Greg Hogan
+  first_date: 2025-01-20
+  all_dates:
+  - 2025-01-20
+  - 2025-02-11
+  last_date: 2025-02-11
+  onboard_date: 2025-01-20
+
+- agency_id: OPM
+  name: Akash Bobba
+  first_date: 2025-01-20
+  all_dates:
+  - 2025-01-20
+  - 2025-02-02
+  - 2025-02-12
+  last_date: 2025-02-12
+  onboard_date: 2025-01-20
+
+- agency_id: OPM
+  name: Charles Ezell
+  first_date: 2025-01-20
+  all_dates:
+  - 2025-01-20
+  - 2025-01-31
+  last_date: 2025-01-31
+
+- agency_id: OPM
+  name: Riccardo Biasini
+  first_date: 2025-01-31
+  all_dates:
+  - 2025-01-31
+  - 2025-02-25
+  last_date: 2025-02-25
+
+- agency_id: OPM
+  name: Edward Coristine
+  first_date: 2025-02-02
+  all_dates:
+  - 2025-02-02
+  last_date: 2025-02-02
+
+- agency_id: OPM
+  name: Gavin Kliger
+  first_date: 2025-02-02
+  all_dates:
+  - 2025-02-02
+  last_date: 2025-02-02
+
+- agency_id: OPM
+  name: Scott Kupor
+  first_date: 2025-04-03
+  all_dates:
+  - 2025-04-03
+  last_date: 2025-04-03
+
+- agency_id: Peace
+  name: Bridget Youngs
+  first_date: 2025-04-04
+  all_dates:
+  - 2025-04-04
+  last_date: 2025-04-04
+
+- agency_id: SBA
+  name: Edward Coristine
+  first_date: 2025-02-03
+  all_dates:
+  - 2025-02-03
+  last_date: 2025-02-03
+
+- agency_id: SSA
+  name: Antonio Gracias
+  first_date: 2024-02-24
+  all_dates:
+  - 2024-02-24
+  - 2025-02-27
+  - 2025-03-13
+  - 2025-03-30
+  - 2025-04-02
+  last_date: 2025-04-02
+  onboard_date: 2025-02-27
+
+- agency_id: SSA
+  name: Leland Dudek
+  first_date: 2025-01-30
+  all_dates:
+  - 2025-01-30
+  - 2025-02-10
+  - 2025-02-14
+  - 2025-02-16
+  - 2025-02-19
+  - 2025-02-20
+  - 2025-02-28
+  - 2025-03-01
+  - 2025-03-04
+  - 2025-03-20
+  - 2025-03-26
+  - 2025-03-27
+  last_date: 2025-03-27
+
+- agency_id: SSA
+  name: Mike Russo
+  first_date: 2025-01-30
+  all_dates:
+  - 2025-01-30
+  - 2025-01-31
+  - 2025-02-03
+  - 2025-02-10
+  - 2025-02-15
+  - 2025-02-19
+  - 2025-03-24
+  - 2025-03-25
+  - 2025-03-26
+  last_date: 2025-03-26
+  onboard_date: 2025-03-25
+
+- agency_id: SSA
+  name: Scott Coulter
+  first_date: 2025-01-30
+  all_dates:
+  - 2025-01-30
+  - 2025-02-18
+  - 2025-03-13
+  - 2025-03-25
+  - 2025-04-08
+  - 2025-04-10
+  last_date: 2025-04-10
+  onboard_date: 2025-03-25
+
+- agency_id: SSA
+  name: Akash Bobba
+  first_date: 2025-02-03
+  all_dates:
+  - 2025-02-03
+  - 2025-02-10
+  - 2025-02-12
+  - 2025-02-15
+  - 2025-03-13
+  last_date: 2025-03-13
+  onboard_date: 2025-02-12
+
+- agency_id: SSA
+  name: Steve Davis
+  first_date: 2025-02-10
+  all_dates:
+  - 2025-02-10
+  - 2025-03-28
+  last_date: 2025-03-28
+
+- agency_id: SSA
+  name: Mark Steffensen
+  first_date: 2025-02-10
+  all_dates:
+  - 2025-02-10
+  - 2025-02-25
+  - 2025-02-27
+  - 2025-02-28
+  last_date: 2025-02-28
+  onboard_date: 2025-02-25
+
+- agency_id: SSA
+  name: Aram Moghaddassi
+  first_date: 2025-02-18
+  all_dates:
+  - 2025-02-18
+  - 2025-03-28
+  - 2025-04-08
+  last_date: 2025-04-08
+  onboard_date: 2025-02-18
+
+- agency_id: SSA
+  name: Ethan Shaotran
+  first_date: 2025-02-18
+  all_dates:
+  - 2025-02-18
+  - 2025-02-19
+  - 2025-02-20
+  - 2025-03-13
+  last_date: 2025-03-13
+  onboard_date: 2025-02-19
+
+- agency_id: SSA
+  name: Nikhil Rajpal
+  first_date: 2025-02-20
+  all_dates:
+  - 2025-02-20
+  - 2025-03-13
+  last_date: 2025-03-13
+
+- agency_id: SSA
+  name: Cole Killian
+  first_date: 2025-02-20
+  all_dates:
+  - 2025-02-20
+  - 2025-03-13
+  last_date: 2025-03-13
+
+- agency_id: SSA
+  name: Marko Elez
+  first_date: 2025-02-20
+  all_dates:
+  - 2025-02-20
+  - 2025-03-05
+  - 2025-03-13
+  - 2025-03-17
+  last_date: 2025-03-17
+  onboard_date: 2025-03-05
+
+- agency_id: SSA
+  name: Amy Gleason
+  first_date: 2025-02-20
+  all_dates:
+  - 2025-02-20
+  last_date: 2025-02-20
+
+- agency_id: SSA
+  name: Payton Rehling
+  first_date: 2025-02-23
+  all_dates:
+  - 2025-02-23
+  - 2025-02-27
+  - 2025-03-13
+  - 2025-03-14
+  - 2025-03-17
+  - 2025-03-18
+  - 2025-03-19
+  - 2025-03-27
+  last_date: 2025-03-27
+  onboard_date: 2025-02-27
+
+- agency_id: SSA
+  name: Jon Koval
+  first_date: 2025-02-24
+  all_dates:
+  - 2025-02-24
+  - 2025-02-27
+  - 2025-03-13
+  - 2025-03-17
+  last_date: 2025-03-17
+  onboard_date: 2025-02-27
+
+- agency_id: SSA
+  name: Luke Farritor
+  first_date: 2025-03-13
+  all_dates:
+  - 2025-03-13
+  last_date: 2025-03-13
+
+- agency_id: State
+  name: Edward Coristine
+  first_date: 2025-02-10
+  all_dates:
+  - 2025-02-10
+  last_date: 2025-02-10
+
+- agency_id: State
+  name: Luke Farritor
+  first_date: 2025-02-10
+  all_dates:
+  - 2025-02-10
+  last_date: 2025-02-10
+
+- agency_id: State
+  name: Peter Marocco
+  first_date: 2025-04-11~
+  all_dates:
+  - 2025-04-11~
+  last_date: 2025-04-11~
+  offboard_date: 2025-04-11~
+
+- agency_id: State
+  name: Jeremy Lewin
+  first_date: 2025-04-15
+  all_dates:
+  - 2025-04-15
+  last_date: 2025-04-15
+
+- agency_id: Treasury
+  name: Tom Krause
+  first_date: 2025-01-08
+  all_dates:
+  - 2025-01-08
+  - 2025-01-23
+  - 2025-02-04
+  last_date: 2025-02-04
+  onboard_date: 2025-01-23
+
+- agency_id: Treasury
+  name: Marko Elez
+  first_date: 2025-01-21
+  all_dates:
+  - 2025-01-21
+  - 2025-01-28
+  - 2025-01-29
+  - 2025-01-30
+  - 2025-01-31
+  - 2025-02-01
+  - 2025-02-03
+  - 2025-02-05
+  - 2025-02-06
+  - 2025-02-11
+  - 2025-02-20
+  last_date: 2025-02-20
+  onboard_date: 2025-01-21
+  offboard_date: 2025-02-06
+
+- agency_id: Treasury
+  name: Ryan Wunderly
+  first_date: 2025-02-20
+  all_dates:
+  - 2025-02-20
+  last_date: 2025-02-20
+
+- agency_id: USADF
+  name: Chris Young
+  first_date: 2025-02-20
+  all_dates:
+  - 2025-02-20
+  last_date: 2025-02-20
+
+- agency_id: USADF
+  name: Ethan Shaotran
+  first_date: 2025-02-21
+  all_dates:
+  - 2025-02-21
+  - 2025-03-05
+  - 2025-03-06
+  last_date: 2025-03-06
+
+- agency_id: USADF
+  name: Jacob Altik
+  first_date: 2025-02-21
+  all_dates:
+  - 2025-02-21
+  - 2025-03-05
+  - 2025-03-06
+  last_date: 2025-03-06
+
+- agency_id: USADF
+  name: Nate Cavanaugh
+  first_date: 2025-02-21
+  all_dates:
+  - 2025-02-21
+  - 2025-03-04
+  - 2025-03-05
+  - 2025-03-06
+  last_date: 2025-03-06
+
+- agency_id: USADF
+  name: Peter Marocco
+  first_date: 2025-03-04
+  all_dates:
+  - 2025-03-04
+  last_date: 2025-03-04
+
+- agency_id: USAID
+  name: Gavin Kliger
+  first_date: 2025-01-27
+  all_dates:
+  - 2025-01-27
+  - 2025-01-30
+  - 2025-02-03
+  - 2025-02-09
+  last_date: 2025-02-09
+
+- agency_id: USAID
+  name: Luke Farritor
+  first_date: 2025-01-27
+  all_dates:
+  - 2025-01-27
+  - 2025-01-30
+  - 2025-02-09
+  last_date: 2025-02-09
+
+- agency_id: USAID
+  name: Jeremy Lewin
+  first_date: 2025-01-28
+  all_dates:
+  - 2025-01-28
+  - 2025-03-18
+  - 2025-03-19
+  - 2025-03-28
+  last_date: 2025-03-28
+  onboard_date: 2025-01-28
+
+- agency_id: USAID
+  name: Kenneth Jackson
+  first_date: 2025-03-18
+  all_dates:
+  - 2025-03-18
+  - 2025-03-19
+  last_date: 2025-03-19
+
+- agency_id: USAID
+  name: Peter Marocco
+  first_date: 2025-03-19
+  all_dates:
+  - 2025-03-19
+  last_date: 2025-03-19
+
+- agency_id: USCIS
+  name: Kyle Schutt
+  first_date: 2025-03-14~
+  all_dates:
+  - 2025-03-14~
+  - 2025-03-28
+  last_date: 2025-03-28
+
+- agency_id: USCIS
+  name: Edward Coristine
+  first_date: 2025-03-14~
+  all_dates:
+  - 2025-03-14~
+  - 2025-03-28
+  last_date: 2025-03-28
+
+- agency_id: USCIS
+  name: Aram Moghaddassi
+  first_date: 2025-03-17
+  all_dates:
+  - 2025-03-17
+  - 2025-03-28
+  last_date: 2025-03-28
+
+- agency_id: USCIS
+  name: Payton Rehling
+  first_date: 2025-03-25
+  all_dates:
+  - 2025-03-25
+  - 2025-03-28
+  last_date: 2025-03-28
+
+- agency_id: USCIS
+  name: Antoine McCord
+  first_date: 2025-03-25
+  all_dates:
+  - 2025-03-25
+  last_date: 2025-03-25
+
+- agency_id: USIP
+  name: James Burnham
+  first_date: 2025-02-24
+  all_dates:
+  - 2025-02-24
+  last_date: 2025-02-24
+
+- agency_id: USIP
+  name: Jacob Altik
+  first_date: 2025-02-24
+  all_dates:
+  - 2025-02-24
+  - 2025-03-14
+  - 2025-03-17
+  last_date: 2025-03-17
+
+- agency_id: USIP
+  name: Nate Cavanaugh
+  first_date: 2025-02-24
+  all_dates:
+  - 2025-02-24
+  - 2025-03-14
+  - 2025-03-17
+  - 2025-03-25
+  last_date: 2025-03-25
+
+- agency_id: USIP
+  name: Kenneth Jackson
+  first_date: 2025-03-14
+  all_dates:
+  - 2025-03-14
+  - 2025-03-17
+  last_date: 2025-03-17
+  onboard_date: 2025-03-17
+
+- agency_id: USIP
+  name: Stephen Ehikian
+  first_date: 2025-03-25
+  all_dates:
+  - 2025-03-25
+  last_date: 2025-03-25
+
+- agency_id: USPS
+  name: Alexander Simonpour
+  first_date: 2025-03-07
+  all_dates:
+  - 2025-03-07
+  last_date: 2025-03-07
+  onboard_date: 2025-03-07
+
+- agency_id: VA
+  name: Justin Fulcher
+  first_date: 2025-02-14
+  all_dates:
+  - 2025-02-14
+  - 2025-03-25
+  last_date: 2025-03-25
+
+- agency_id: VA
+  name: Sahil Lavingia
+  first_date: 2025-03-25
+  all_dates:
+  - 2025-03-25
+  last_date: 2025-03-25
+
+- agency_id: VA
+  name: Cary Volpert
+  first_date: 2025-03-25
+  all_dates:
+  - 2025-03-25
+  last_date: 2025-03-25
+
+- agency_id: VA
+  name: Christopher Roussos
+  first_date: 2025-03-25
+  all_dates:
+  - 2025-03-25
+  last_date: 2025-03-25
+
+- agency_id: VA
+  name: Payton Rehling
+  first_date: 2025-03-25
+  all_dates:
+  - 2025-03-25
+  last_date: 2025-03-25
+
+- agency_id: VA
+  name: Jon Koval
+  first_date: 2025-03-25
+  all_dates:
+  - 2025-03-25
+  last_date: 2025-03-25

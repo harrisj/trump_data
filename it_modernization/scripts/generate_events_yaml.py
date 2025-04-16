@@ -2,7 +2,6 @@ import yaml
 from datetime import date
 from util import read_raw_events, read_raw_cases_dict, read_raw_details_dict, read_raw_aliases_dict, dump_generated_file
 
-
 FILE_VERSION = "1.0.0"
 SCHEMA_PATH = "schemas/generated-events-file.json"
 

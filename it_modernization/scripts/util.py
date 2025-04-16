@@ -1,11 +1,27 @@
 '''Utility methods'''
+import re
 import yaml
 from typing import Any, List, Union, Dict
+from edtf import parse_edtf
+from edtf.parser.parser_classes import EDTFObject, UncertainOrApproximate
+
+def edtf_representer(dumper, data):
+    return dumper.represent_scalar(u'!edtf', u'%s' % data)
+
+yaml.add_representer(UncertainOrApproximate, edtf_representer)
+
+def edtf_constructor(loader, node):
+    value = loader.construct_scalar(node)
+    return parse_edtf(str(value))
+
+yaml.add_constructor(u'!edtf', edtf_constructor)
+
+pattern = re.compile(r'^(2024|2025)-\d{2}-\d{2}(~?)$')
+yaml.add_implicit_resolver(u'!edtf', pattern)
 
 def read_yaml(file_path:str) -> Any:
     with open(file_path, 'r') as file:
-        return yaml.safe_load(file)
-
+        return yaml.full_load(file)
 
 def read_yaml_as_dict(file_path:str, key_field: str) -> Dict[str, Any]:
     raw_yaml = read_yaml(file_path)
@@ -33,7 +49,7 @@ def sorted_by_last_name(l: Any) -> List:
 
 # Probably a smarter way to do this, but I don't care
 def create_dumper(line_break_indent: int) -> yaml.SafeDumper:
-    class MyYamlDumper(yaml.SafeDumper):
+    class MyYamlDumper(yaml.Dumper):
         def ignore_aliases(self, data):
             return True
 
@@ -47,7 +63,7 @@ def create_dumper(line_break_indent: int) -> yaml.SafeDumper:
     
     return MyYamlDumper
 
-class MyYamlDumper(yaml.SafeDumper):
+class MyYamlDumper(yaml.Dumper):
     def ignore_aliases(self, data):
         return True
 
@@ -88,11 +104,11 @@ def read_raw_details_dict(path = './raw_data/details.yaml'):
 def read_raw_roundups(path = './raw_data/roundups.yaml'):
     return read_yaml(path)
 
-def dump_generated_file(meta, data, path, schema=None):
+def dump_generated_file(meta, data, path, schema=None, line_break_indent=100):
     with open(path, 'w') as file:
         if schema is not None:
             file.write(f"# yaml-language-server: $schema={schema}\n")
 
         file.write(yaml.dump({"meta": meta}, indent=2, width=120, sort_keys=False))
         file.write("\n")
-        file.write(yaml.dump(data, Dumper=create_dumper(2), indent=2, width=120, sort_keys=False))            
+        file.write(yaml.dump(data, Dumper=create_dumper(line_break_indent), indent=2, width=120, sort_keys=False, default_flow_style=False))            

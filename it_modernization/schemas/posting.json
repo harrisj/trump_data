@@ -1,0 +1,47 @@
+{
+    "$id": "schemas/posting",
+    "type": "object",
+    "title": "Posting",
+    "description": "Information about a specific DOGE person at an agency",
+    "properties": {
+        "agency_id": {
+            "description": "The agency ID for the posting",
+            "$ref": "valid_names.json#agency_ids"
+        },
+        "name": {
+            "description": "The person who this is a posting for",
+            "$ref": "valid_names.json#people"
+        },
+        "first_date": {
+            "description": "The first date this person was spotted at an agency",
+            "$ref": "valid_names.json#fuzzy_date"
+        },
+        "onboarded": {
+            "description": "If there was an exact date the person onboarded at the agency",
+            "type": "string",
+            "format": "date"
+        },
+        "last_date": {
+            "description": "The first date this person was spotted at an agency",
+            "$ref": "valid_names.json#fuzzy_date"
+        },
+        "offboarded": {
+            "description": "If there was an exact date the person offboarded from the agency",
+            "type": "string",
+            "format": "date"
+        },
+        "all_dates": {
+            "description": "All dates the person has been spotted at the agency",
+            "type": "array",
+            "items": {
+                "$ref": "valid_names.json#fuzzy_date"
+            }
+        }
+    },
+    "required": [
+        "agency_id",
+        "name",
+        "first_date",
+        "last_date"
+    ]
+}

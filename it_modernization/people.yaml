@@ -2,10 +2,9 @@
 meta:
   title: People
   version: 1.0.0
-  generated: 2025-04-15
+  generated: 2025-04-16
 
 people:
-
   Steve Davis:
     agencies:
     - Department of Government Efficiency
@@ -56,7 +55,6 @@ people:
       type: report
       event: Reports emerge that DOGE is planning to rewrite the entire COBOL codebase for Social Security to Java in months
         using generative AI
-
   Brad Smith:
     agencies:
     - Department of Government Efficiency
@@ -80,7 +78,6 @@ people:
         other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal
         judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government
         spending. Amy Gleason did not appear.
-
   Amy Gleason:
     agencies:
     - Centers for Medicare and Medicaid Services
@@ -142,7 +139,6 @@ people:
       type: report
       event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff
         who have worked at HHS
-
   Chris Young:
     agencies:
     - Consumer Financial Protection Bureau
@@ -167,7 +163,6 @@ people:
       type: report
       event: Chris Young meets with USADF leadership at their HQ to "introduce DOGE to the agency" and that 2 engineers would
         be assigned there
-
   Amanda Scales:
     agencies:
     - Office of Personnel Management
@@ -196,7 +191,6 @@ people:
       event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge Boardman issues a preliminary injunction
         against access to internal systems at OPM by DOGE staff, but still allows it for OPM leadership including Ezell, Scales
         and Hogan
-
   Katie Miller:
     agencies:
     - Department of Government Efficiency
@@ -206,7 +200,6 @@ people:
       agency: DOGE
       type: report
       event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
-
   Riccardo Biasini:
     agencies:
     - Department of Government Efficiency
@@ -221,7 +214,6 @@ people:
       type: report
       event: DOGE engineer Ricardo Biasini is reported to be working on updating software to automate Reduction-in-Force (RIF)
         processes
-
   Anthony Armstrong:
     agencies:
     - Department of Government Efficiency
@@ -240,14 +232,12 @@ people:
       type: report
       event: Three DOGE staffers visit the FDIC headquarters. Their arrival is later confirmed for staff with an email stating
         they have not been granted access to any sensitive bank information.
-
   Jennifer Balajadia:
     agencies:
     - Department of Education
     - Department of Government Efficiency
     - Executive Office of the President
     events: []
-
   Adam Ramada:
     agencies:
     - Department of Education
@@ -295,7 +285,6 @@ people:
       type: report
       event: Three DOGE staffers visit the FDIC headquarters. Their arrival is later confirmed for staff with an email stating
         they have not been granted access to any sensitive bank information.
-
   Brooks Morgan:
     agencies:
     - Department of Education
@@ -321,7 +310,6 @@ people:
       type: report
       event: Three DOGE staffers visit the FDIC headquarters. Their arrival is later confirmed for staff with an email stating
         they have not been granted access to any sensitive bank information.
-
   Scott Langmack:
     agencies:
     - Department of Government Efficiency
@@ -341,7 +329,6 @@ people:
       type: report
       event: There is reportedly a 6-person DOGE team working at HUD, with 4 of the staff being existing HUD employees and
         Michael Mirski and Scott Langmack from DOGE
-
   Jeremy Lewin:
     agencies:
     - Consumer Financial Protection Bureau
@@ -394,7 +381,6 @@ people:
       type: promotion
       event: Jeremy Lewin is named the new acting head of foreign assistance at the State Department after the departure of
         Peter Marocco
-
   Justin Fulcher:
     agencies:
     - Department of Defense
@@ -415,7 +401,6 @@ people:
       event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github
         instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements
         for government services are.
-
   Michael Mirski:
     agencies:
     - Federal Housing Finance Agency
@@ -449,7 +434,6 @@ people:
       type: report
       event: Mike Mirski is reportedly leading a DOGE effort at HUD to identify and target households that include undocumented
         immigrants.
-
   Tyler Hassen:
     agencies:
     - Department of the Interior
@@ -468,7 +452,6 @@ people:
       type: disruption
       event: Tyler Hassen places the CIO and CISO on admininstrative leave under investigation for raising alarm about DOGE
         access
-
   Tarak Makecha:
     agencies:
     - Federal Communications Commission
@@ -480,7 +463,6 @@ people:
       type: report
       event: Three DOGE staffers are listed in the public directory of FCC staff and listed as associated with the Office
         of the Chairman at the FCC
-
   Rachel Riley:
     agencies:
     - Department of Government Efficiency
@@ -505,7 +487,6 @@ people:
       type: report
       event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds
         DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
-
   Conor Fennessy:
     agencies:
     - Department of Education
@@ -527,7 +508,6 @@ people:
       type: report
       event: In a court declaration in AFL-CIO vs. DOL, counsel for the plaintiffs Alexa Milton provides the names of two
         DOGE staffers at HHS who were not provided in the government's list of staffers there
-
   Tom Krause:
     agencies:
     - Department of Government Efficiency
@@ -560,7 +540,6 @@ people:
         other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal
         judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government
         spending. Amy Gleason did not appear.
-
   Marko Elez:
     agencies:
     - Centers for Medicare and Medicaid Services
@@ -749,7 +728,6 @@ people:
       type: report
       event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff
         who have worked at HHS
-
   Ryan Wunderly:
     agencies:
     - Department of Government Efficiency
@@ -771,7 +749,6 @@ people:
       type: legal
       event: Judge Vargas rules in New York et al vs. Donald Trump that Ryan Wunderly should be granted access to Treasury
         systems
-
   Edward Coristine:
     agencies:
     - Centers for Medicare and Medicaid Services
@@ -900,7 +877,6 @@ people:
       type: report
       event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff
         who have worked at HHS
-
   Luke Farritor:
     agencies:
     - Centers for Disease Control and Prevention
@@ -1116,7 +1092,6 @@ people:
       type: disruption
       event: A DOGE engineer has apparently removed the ability of government agencies to post new grants to grants.gov and
         requiring them to all be sent to a new email address created this week for reviews
-
   Christopher Stanley:
     agencies:
     - Department of Government Efficiency
@@ -1142,7 +1117,6 @@ people:
       type: report
       event: DOGE member Christopher Stanley is listed as a Senior Advisor in Deputy Attorney General's Office and holds a
         security clearance
-
   Ethan Shaotran:
     agencies:
     - Department of Education
@@ -1234,7 +1208,6 @@ people:
       event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias,
         Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft
         Teams directory at SSA
-
   Alexandra Beynon:
     agencies:
     - Department of Education
@@ -1250,7 +1223,6 @@ people:
       type: report
       event: A story on a proposal to use AI at the Department of Education lists several DOGE staffers identified there within
         the last few weeks
-
   Gavin Kliger:
     agencies:
     - Commerce Department
@@ -1305,7 +1277,6 @@ people:
       type: report
       event: DOGE is reportedly planning to state a "hack-a-thon" in cooperation with Palantir to create a "mega API" to access
         IRS data
-
   Jordan Wick:
     agencies:
     - Consumer Financial Protection Bureau
@@ -1366,7 +1337,6 @@ people:
       type: report
       event: Three DOGE staffers are listed in the public directory of FCC staff and listed as associated with the Office
         of the Chairman at the FCC
-
   Aram Moghaddassi:
     agencies:
     - Department of Government Efficiency
@@ -1429,7 +1399,6 @@ people:
       type: report
       event: Aram Moghaddassi adds 6300 names of suspected immigrants to the "death master file" as a way of forcing them
         to "self-deport" by making it impossible to use financial products. It included 7 minors.
-
   Cole Killian:
     agencies:
     - Department of Government Efficiency
@@ -1470,7 +1439,6 @@ people:
       event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias,
         Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft
         Teams directory at SSA
-
   Greg Hogan:
     agencies:
     - Office of Personnel Management
@@ -1493,7 +1461,6 @@ people:
       event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge Boardman issues a preliminary injunction
         against access to internal systems at OPM by DOGE staff, but still allows it for OPM leadership including Ezell, Scales
         and Hogan
-
   Ryan Riedel:
     agencies:
     - Department of Energy
@@ -1506,7 +1473,6 @@ people:
       agency: Energy
       type: offboarded
       event: Ryan Reiedel resigns from the CIO role and departs from the agency
-
   Nate Cavanaugh:
     agencies:
     - General Services Administration
@@ -1582,7 +1548,6 @@ people:
       type: disruption
       event: DOGE arrives at the agency and notifies the entire staff of IMLS that they are being put on administrative leave
         effective immediately
-
   Nikhil Rajpal:
     agencies:
     - Consumer Financial Protection Bureau
@@ -1638,7 +1603,6 @@ people:
       agency: CFPB
       type: offboarded
       event: Nikhil Rajpal is no longer detailed to the CFPB
-
   Akash Bobba:
     agencies:
     - Department of Education
@@ -1728,7 +1692,6 @@ people:
       event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias,
         Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft
         Teams directory at SSA
-
   Kyle Schutt:
     agencies:
     - Cybersecurity and Infrastructure Security Agency
@@ -1773,7 +1736,6 @@ people:
       type: report
       event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff
         who have worked at HHS
-
   James Burnham:
     agencies:
     - Department of Government Efficiency
@@ -1799,7 +1761,6 @@ people:
       agency: DOGE
       type: report
       event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
-
   Brian Bjelde:
     agencies:
     - Office of Personnel Management
@@ -1808,7 +1769,6 @@ people:
       agency: OPM
       type: report
       event: Several of the DOGE staff meet to plan for their first day at OPM. They are not federal employees at that time.
-
   Kendall Lindemann:
     agencies:
     - Department of Government Efficiency
@@ -1819,7 +1779,6 @@ people:
       agency: DOGE
       type: onboarded
       event: Kendall Lindemann hired at DOGE from McKinsey and Associates (not a Musk-related company)
-
   Stephanie Holmes:
     agencies:
     - Department of Government Efficiency
@@ -1836,22 +1795,18 @@ people:
       agency: DOI
       type: access_granted
       event: Two DOGE staffers are granted admin access to the FPPS payroll system at the Department of the Interior
-
   Christina Hanna:
     agencies:
     - Office of Personnel Management
     events: []
-
   Stephen Duarte:
     agencies:
     - Office of Personnel Management
     events: []
-
   Bryanne-Michelle Mlodzianowski:
     agencies:
     - Office of Personnel Management
     events: []
-
   Jacob Altik:
     agencies:
     - Department of Government Efficiency
@@ -1929,7 +1884,6 @@ people:
       type: report
       event: Three DOGE staffers are listed in the public directory of FCC staff and listed as associated with the Office
         of the Chairman at the FCC
-
   Noah Peters:
     agencies:
     - Department of Government Efficiency
@@ -1962,7 +1916,11 @@ people:
       agency: DOGE
       type: report
       event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
-
+    - date: 2025-04-11
+      agency: OPM
+      type: legal
+      event: The plaintiffs in AFGE, AFL-CIO, et. al vs. OPM file a motion asking for the testimony of Noah Peters to be thrown
+        out because they argue it is misleading and possibly a fabrication in parts
   Austin Raynor:
     agencies:
     - Department of Government Efficiency
@@ -1973,7 +1931,6 @@ people:
       agency: DOGE
       type: report
       event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
-
   Justin Aimonetti:
     agencies:
     - Department of Government Efficiency
@@ -1991,7 +1948,6 @@ people:
       agency: DOGE
       type: report
       event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
-
   Joshua Hanley:
     agencies:
     - Department of Government Efficiency
@@ -2013,7 +1969,6 @@ people:
       agency: DOGE
       type: report
       event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
-
   Antonio Gracias:
     agencies:
     - Department of Government Efficiency
@@ -2050,7 +2005,6 @@ people:
       type: report
       event: In an interview on Fox, Antonio Gracias makes misleading claims that DOGE had discovered widespread voting fraud
         through joining social security data and state voter rolls
-
   Jon Koval:
     agencies:
     - Department of Government Efficiency
@@ -2088,7 +2042,6 @@ people:
       event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github
         instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements
         for government services are.
-
   Payton Rehling:
     agencies:
     - Department of Government Efficiency
@@ -2157,7 +2110,6 @@ people:
       type: report
       event: USCIS CIO William McElhaney sends a message to DHS Deputy Secretary asking them to review access that was granted
         to DOGE staff
-
   Scott Coulter:
     agencies:
     - National Aeronautics and Space Administration
@@ -2223,7 +2175,6 @@ people:
       type: report
       event: 102 more names of living people are added to the Master Death File at SSA to destroy their ability to participate
         in socierty
-
   Mike Russo:
     agencies:
     - Department of Government Efficiency
@@ -2277,12 +2228,10 @@ people:
       type: report
       event: During his confirmation hearing, Frank Bisignano, the nominee to run the agency, confirms that he had coordinated
         with Michael Russo but denied a whistleblower report that he had ordered the appointment of DOGE staff there
-
   Frank Schuler:
     agencies:
     - General Services Administration
     events: []
-
   Nicole Hollander:
     agencies:
     - General Services Administration
@@ -2311,7 +2260,6 @@ people:
       type: report
       event: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid as full-time GSA employees, but
         other staff are listed as volunteers for that agency
-
   Joanna Wischer:
     agencies:
     - Department of Government Efficiency
@@ -2320,13 +2268,11 @@ people:
       agency: DOGE
       type: report
       event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
-
   Justin Monroe:
     agencies:
     - Federal Bureau of Investigation
     - Office of Personnel Management
     events: []
-
   Joe Gebbia:
     agencies:
     - Department of Government Efficiency
@@ -2339,7 +2285,6 @@ people:
         other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal
         judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government
         spending. Amy Gleason did not appear.
-
   Sam Corcos:
     agencies:
     - Department of the Treasury
@@ -2366,7 +2311,6 @@ people:
       type: report
       event: The hackathon to create a "Mega API" at the IRS concludes. DOGE engineers are reportedly confidenct they will
         be able to deploy it in 30 days.
-
   Michael Grimes:
     agencies:
     - Commerce Department
@@ -2379,7 +2323,6 @@ people:
       agency: Commerce
       type: report
       event: Michael Grimes conducts DOGE-style interviews with each member of the staff in the Chips Program Office
-
   Scott Kupor:
     agencies:
     - Department of Government Efficiency
@@ -2395,7 +2338,6 @@ people:
       type: report
       event: Scott Kupor, the nominee to lead OPM, assured senators that he believes strong in data privacy and respecting
         the humanity and dignity of the workforce
-
   Thomas Shedd:
     agencies:
     - Department of Government Efficiency
@@ -2444,7 +2386,6 @@ people:
       type: onboarded
       event: Thomas Shedd starts working at the CIO at Department of Labor while also serving as the TTS Commissioner at GSA
         (experts are unclear if this is legal)
-
   Leland Dudek:
     agencies:
     - Department of Homeland Security
@@ -2534,7 +2475,6 @@ people:
       type: report
       event: After some qualms about its legality, Leland Dudek signs two memos authorizing sharing data that would allow
         DHS and ICE to locate immigrants
-
   Stephen Ehikian:
     agencies:
     - General Services Administration
@@ -2555,7 +2495,6 @@ people:
       type: report
       event: Nate Cavanaugh contacts the administrator of the GSA to propose transferring the USIP building to them, arguing
         that USIP won't need a building because the statute doesn't mandate it has one or staffing
-
   Baris Akis:
     agencies:
     - Department of Government Efficiency
@@ -2572,7 +2511,6 @@ people:
       agency: DOGE
       type: report
       event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
-
   Cary Volpert:
     agencies:
     - Veterans Administration
@@ -2583,7 +2521,6 @@ people:
       event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github
         instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements
         for government services are.
-
   Sahil Lavingia:
     agencies:
     - Veterans Administration
@@ -2594,7 +2531,6 @@ people:
       event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github
         instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements
         for government services are.
-
   Christopher Roussos:
     agencies:
     - Veterans Administration
@@ -2605,7 +2541,6 @@ people:
       event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github
         instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements
         for government services are.
-
   Alexander Simonpour:
     agencies:
     - Department of Government Efficiency
@@ -2622,7 +2557,6 @@ people:
       type: report
       event: A Business Insider article reports that Alexander Simonpour has shown up at NASA and also has a GSA address.
         Riley Sennott and Scott Coulter also are listed
-
   Ashley Boizelle:
     agencies:
     - Department of Government Efficiency
@@ -2638,7 +2572,6 @@ people:
       agency: DOGE
       type: report
       event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
-
   Brady Glantz:
     agencies:
     - Federal Aviation Administration
@@ -2647,7 +2580,6 @@ people:
       agency: FAA
       type: onboarded
       event: 4 SpaceX engineers were onboarded into the FAA under the Schedule A hiring authority for people with disabilities
-
   Clark Minor:
     agencies:
     - Health and Human Services
@@ -2666,7 +2598,6 @@ people:
       type: access_granted
       event: Three DOGE staffers are placed within the NIH Business System Department for access to NIH's central electronic
         business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
-
   Daniel Abrahamson:
     agencies:
     - Department of Government Efficiency
@@ -2676,7 +2607,6 @@ people:
       agency: DOGE
       type: report
       event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
-
   Derek Geissler:
     agencies:
     - Department of Government Efficiency
@@ -2697,7 +2627,6 @@ people:
       type: report
       event: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid as full-time GSA employees, but
         other staff are listed as volunteers for that agency
-
   Erica Jehling:
     agencies:
     - Department of Government Efficiency
@@ -2708,7 +2637,6 @@ people:
       agency: EPA
       type: access_granted
       event: DOGE staff at the EPA are reportedly granted read-only access to the EPA Acquisition System system for acquisitions
-
   Kathryn Armstrong Loving:
     agencies:
     - Environmental Protection Agency
@@ -2717,7 +2645,6 @@ people:
       agency: EPA
       type: access_granted
       event: DOGE staff at the EPA are reportedly granted read-only access to the EPA Acquisition System system for acquisitions
-
   Keenan Kmiec:
     agencies:
     - Department of Government Efficiency
@@ -2733,12 +2660,10 @@ people:
       agency: DOGE
       type: report
       event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
-
   Mattieu Gamache-Asselin:
     agencies:
     - Health and Human Services
     events: []
-
   Riley Sennott:
     agencies:
     - Department of Government Efficiency
@@ -2759,7 +2684,6 @@ people:
       type: report
       event: A Business Insider article reports that Alexander Simonpour has shown up at NASA and also has a GSA address.
         Riley Sennott and Scott Coulter also are listed
-
   Sam Beyda:
     agencies:
     - Department of Labor
@@ -2768,7 +2692,6 @@ people:
       agency: DOL
       type: report
       event: DOGE is granted authorization to use file transfer software
-
   Sam Smeal:
     agencies:
     - Federal Aviation Administration
@@ -2777,7 +2700,6 @@ people:
       agency: FAA
       type: onboarded
       event: 4 SpaceX engineers were onboarded into the FAA under the Schedule A hiring authority for people with disabilities
-
   Ted Malaska:
     agencies:
     - Federal Aviation Administration
@@ -2791,7 +2713,6 @@ people:
       type: report
       event: Malaska declares that SpaceX is the only company able to complete a communications network contract already awarded
         to Verizon, threatens to report anybody blocking his work to Musk
-
   Thomas Kiernan:
     agencies:
     - Federal Aviation Administration
@@ -2800,20 +2721,14 @@ people:
       agency: FAA
       type: onboarded
       event: 4 SpaceX engineers were onboarded into the FAA under the Schedule A hiring authority for people with disabilities
-
   Elon Musk:
     agencies:
     - Central Intelligence Agency
-    - Consumer Financial Protection Bureau
     - Department of Defense
     - Department of Government Efficiency
     - Department of Labor
-    - Federal Aviation Administration
     - General Services Administration
-    - Health and Human Services
     - National Security Agency
-    - Office of Personnel Management
-    - Social Security Administration
     events:
     - date: 2024-12-06
       agency: DOGE
@@ -2833,44 +2748,10 @@ people:
         p.m. on February 5, 2025. This member and other employees were told by Department leadership that when Mr. Musk and
         his team visit, they are to do whatever they ask, not to push back, not to ask questions. They were told to provide
         access to any DOL system they requested access to and not to worry about any security protocols; just do it.
-    - date: 2025-02-05
-      agency: FAA
-      type: report
-      event: Elon Musk promises that DOGE will make rapid upgrades to airline systems after outage of NOTAM alerting system
-    - date: 2025-02-07
-      agency: CFPB
-      type: disruption
-      event: Elon Musk posts a tweet "CFPB RIP" with a tombstone emoji
-    - date: 2025-02-17
-      agency: DOGE
-      type: legal
-      event: In a filing in "State of New Mexico v. Elon Musk," DOJ lawyers declare that Elon Musk is not the USDS Administrator,
-        but just an advisor
-    - date: 2025-02-24
-      agency: OPM
-      type: report
-      event: After Elon Musk threatens on X that employees must complete a list of 5 accomplishments and send it to OPM or
-        risk termination, OPM sends out an email requesting that list (without the threat) to every government employee. Widespread
-        confusion occurs at many agenices.
-    - date: 2025-03-10
-      agency: DOGE
-      type: report
-      event: Elon Musk claims there are about 100 DOGE staffers and he has plans to double to 200. He also claims they are
-        in every federal Department.
-    - date: 2025-03-12
-      agency: DOGE
-      type: legal
-      event: US District Judge Tanya Chutkan issues an order giving DOGE and Elon Musk three weeks to comply with document
-        discovery requests about its staffing and downsizing plans for agencies
     - date: 2025-03-12
       agency: NSA
       type: report
       event: Elon Musk visits the NSA to meet with its top administrator, General Timothy Haugh
-    - date: 2025-03-18
-      agency: DOGE
-      type: legal
-      event: In a ruling in J. Doe 1-26 v. Musk (D. Md), Judge Theodore D. Chuang declares that evidence shows that Elon Musk
-        was effectively running DOGE without being appointed to the role
     - date: 2025-03-21
       agency: DOD
       type: report
@@ -2882,21 +2763,10 @@ people:
         other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal
         judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government
         spending. Amy Gleason did not appear.
-    - date: 2025-03-28
-      agency: HHS
-      type: report
-      event: During an interview, the head of HHS reports that DOGE created the new organizational chart for the agency ahead
-        of mass firings, says "we're not cutting scientists"
-    - date: 2025-03-30
-      agency: SSA
-      type: report
-      event: At a town hall event in Wisconsin, Elon Musk and Antonio Gracias claim to have found fraud in the number of immigrants
-        being granted social security numbers
     - date: 2025-03-31
       agency: CIA
       type: report
       event: Elon Musk visits the CIA at the invitation of its director, John Ratcliffe
-
   Emily Bryant:
     agencies:
     - Department of Government Efficiency
@@ -2906,7 +2776,6 @@ people:
       agency: FTC
       type: report
       event: Reports that two DOGE staffers have started work in the agency, looking at grants and contracts
-
   Joshua Fox:
     agencies:
     - Department of Government Efficiency
@@ -2920,17 +2789,14 @@ people:
       agency: DOGE
       type: report
       event: Under increasing pressure from litigation, DOGE expands its own legal team to 10 lawyers
-
   Nicholas Lahera:
     agencies:
     - Department of Government Efficiency
     events: []
-
   Jared Isaacman:
     agencies:
     - National Aeronautics and Space Administration
     events: []
-
   Anthony Jancso:
     agencies:
     - Department of Government Efficiency
@@ -2946,7 +2812,6 @@ people:
       type: report
       event: A person who is likely Anthony Jancso posts recruitment messages for DOGE to a chat group for employees who had
         worked at Palantir
-
   Marc Andreessen:
     agencies:
     - Department of Government Efficiency
@@ -2965,7 +2830,6 @@ people:
       agency: DOGE
       type: report
       event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
-
   Jared Birchall:
     agencies:
     - Department of Government Efficiency
@@ -2975,7 +2839,6 @@ people:
       type: report
       event: A report on the tech billionaires steering Trump's transition mentions Musk and other DOGE staff, and how they
         have been interviewing people at Mar-a-Lago
-
   Shaun Maguire:
     agencies:
     - Department of Government Efficiency
@@ -2994,7 +2857,6 @@ people:
       agency: DOGE
       type: report
       event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
-
   Michael Kratsios:
     agencies:
     - Department of Government Efficiency
@@ -3009,7 +2871,6 @@ people:
       type: offboarded
       event: Michael Kratsios is confirmed by the Senate as the new director of the White House Office of Science and Technology
         Policy (OSTP)
-
   Charles Ezell:
     agencies:
     - Office of Personnel Management
@@ -3028,7 +2889,6 @@ people:
       event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge Boardman issues a preliminary injunction
         against access to internal systems at OPM by DOGE staff, but still allows it for OPM leadership including Ezell, Scales
         and Hogan
-
   Bryton Shang:
     agencies:
     - Department of the Interior
@@ -3038,7 +2898,6 @@ people:
       type: disruption
       event: Two DOGE staffers attempted to force water pumps to be turned on in a large reservoir in California for a photo
         op
-
   Mark Steffensen:
     agencies:
     - Social Security Administration
@@ -3061,7 +2920,6 @@ people:
       type: promotion
       event: Leland Dudek merges several SSA offices into a new Office of Legal and Policy and names Mark Steffensen the Deputy
         Commissioner
-
   Peter Marocco:
     agencies:
     - Inter-American Foundation
@@ -3087,7 +2945,6 @@ people:
       agency: State
       type: offboarded
       event: Pete Marocco is reportedly fired from the State Department
-
   Miles Collins:
     agencies:
     - Department of Labor
@@ -3097,7 +2954,6 @@ people:
       type: report
       event: Business Insider reports Marko Elez, Aram Moghaddassi, and Miles B. Collins are new DOGE arrivals at Department
         of Labor
-
   Kenneth Jackson:
     agencies:
     - Inter-American Foundation
@@ -3131,7 +2987,6 @@ people:
       agency: USAID
       type: report
       event: Peter Marocco says that he will be succeeded at the agency by Jeremy Lewin and Kenneth Jackson
-
   Antoine McCord:
     agencies:
     - Department of Homeland Security
@@ -3146,7 +3001,6 @@ people:
       type: access_granted
       event: Antoine McCord requests that access be granted for Peyton Rehling to the USCIS Data Business Intelligence Services
         (aka, the Data Lake)
-
   Keith Sonderling:
     agencies:
     - Department of Labor
@@ -3164,7 +3018,6 @@ people:
       agency: IMLS
       type: onboarded
       event: Keith Sonderling is sworn in as acting director of the IMLS
-
   Katrine Trampe:
     agencies:
     - Department of the Interior
@@ -3173,7 +3026,6 @@ people:
       agency: DOI
       type: access_granted
       event: Two DOGE staffers are granted admin access to the FPPS payroll system at the Department of the Interior
-
   Gavin Hamrick:
     agencies:
     - Institute for Museum and Library Services
@@ -3183,7 +3035,6 @@ people:
       type: disruption
       event: DOGE arrives at the agency and notifies the entire staff of IMLS that they are being put on administrative leave
         effective immediately
-
   Bridget Youngs:
     agencies:
     - Peace Corps

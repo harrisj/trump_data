@@ -333,7 +333,6 @@ CFPB:
   - Luke Farritor
   - Gavin Kliger
   - Jeremy Lewin
-  - Elon Musk
   - Nikhil Rajpal
   - Jordan Wick
   - Chris Young
@@ -350,8 +349,6 @@ CFPB:
   - date: 2025-02-07
     type: disruption
     event: Elon Musk posts a tweet "CFPB RIP" with a tombstone emoji
-    named:
-    - Elon Musk
     source: https://news.bloomberglaw.com/banking-law/musks-doge-descends-on-consumer-financial-protection-bureau
     agency: CFPB
   - date: 2025-02-07
@@ -1092,8 +1089,6 @@ DOGE:
   - date: 2025-02-17
     type: legal
     event: In a filing in "State of New Mexico v. Elon Musk," DOJ lawyers declare that Elon Musk is not the USDS Administrator, but just an advisor
-    named:
-    - Elon Musk
     case_no: 1:25-cv-00429
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277463/gov.uscourts.dcd.277463.24.0_1.pdf
     agency: DOGE
@@ -1192,8 +1187,6 @@ DOGE:
   - date: 2025-03-10
     type: report
     event: Elon Musk claims there are about 100 DOGE staffers and he has plans to double to 200. He also claims they are in every federal Department.
-    named:
-    - Elon Musk
     source: https://www.nbcnews.com/politics/doge/musk-says-doge-almost-every-federal-agency-plans-double-staff-rcna195735
     agency: DOGE
   - date: 2025-03-12
@@ -1201,8 +1194,6 @@ DOGE:
     event: US District Judge Tanya Chutkan issues an order giving DOGE and Elon Musk three weeks to comply with document discovery requests about its staffing and downsizing plans for agencies
     source: https://www.politico.com/news/2025/03/12/elon-musk-judge-orders-discovery-00227924
     case_no: 1:25-cv-00429
-    named:
-    - Elon Musk
     agency: DOGE
   - date: 2025-03-18
     type: official
@@ -1213,8 +1204,6 @@ DOGE:
   - date: 2025-03-18
     type: legal
     event: In a ruling in J. Doe 1-26 v. Musk (D. Md), Judge Theodore D. Chuang declares that evidence shows that Elon Musk was effectively running DOGE without being appointed to the role
-    named:
-    - Elon Musk
     source: https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rZttxcbH9cfc/v0
     case_no: 8:25-cv-00462
     agency: DOGE
@@ -2591,14 +2580,11 @@ FAA:
   - Brady Glantz
   - Thomas Kiernan
   - Ted Malaska
-  - Elon Musk
   - Sam Smeal
   events:
   - date: 2025-02-05
     type: report
     event: Elon Musk promises that DOGE will make rapid upgrades to airline systems after outage of NOTAM alerting system
-    named:
-    - Elon Musk
     source: https://www.nytimes.com/2025/02/05/us/politics/elon-musk-doge-faa.html
     agency: FAA
   - date: 2025-02-10
@@ -3045,7 +3031,6 @@ HHS:
   - Jeremy Lewin
   - Clark Minor
   - Aram Moghaddassi
-  - Elon Musk
   - Rachel Riley
   - Kyle Schutt
   - Brad Smith
@@ -3220,8 +3205,6 @@ HHS:
   - date: 2025-03-28
     type: report
     event: During an interview, the head of HHS reports that DOGE created the new organizational chart for the agency ahead of mass firings, says "we're not cutting scientists"
-    named:
-    - Elon Musk
     source: https://www.newsnationnow.com/cuomo-show/rfk-defends-hhs-job-cuts/
     agency: HHS
   - date: 2025-03-29
@@ -4102,7 +4085,6 @@ OPM:
   - Tarak Makecha
   - Bryanne-Michelle Mlodzianowski
   - Justin Monroe
-  - Elon Musk
   - Noah Peters
   - Nikhil Rajpal
   - Austin Raynor
@@ -4327,8 +4309,6 @@ OPM:
   - date: 2025-02-24
     type: report
     event: After Elon Musk threatens on X that employees must complete a list of 5 accomplishments and send it to OPM or risk termination, OPM sends out an email requesting that list (without the threat) to every government employee. Widespread confusion occurs at many agenices.
-    named:
-    - Elon Musk
     source: https://fedscoop.com/agencies-take-cautious-approaches-to-opm-email-asking-for-list-of-accomplishments/
     agency: OPM
   - date: 2025-02-25
@@ -4415,6 +4395,14 @@ OPM:
     - Treasury
     - OPM
     - Education
+  - date: 2025-04-11
+    type: legal
+    event: The plaintiffs in AFGE, AFL-CIO, et. al vs. OPM file a motion asking for the testimony of Noah Peters to be thrown out because they argue it is misleading and possibly a fabrication in parts
+    case_no: 3:25-cv-01780
+    source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.197.0.pdf
+    named:
+    - Noah Peters
+    agency: OPM
   systems:
     EHRI:
       name: Enterprise Human Resources Integration
@@ -4611,7 +4599,6 @@ SSA:
   - Cole Killian
   - Jon Koval
   - Aram Moghaddassi
-  - Elon Musk
   - Nikhil Rajpal
   - Payton Rehling
   - Mike Russo
@@ -5204,7 +5191,6 @@ SSA:
     type: report
     event: At a town hall event in Wisconsin, Elon Musk and Antonio Gracias claim to have found fraud in the number of immigrants being granted social security numbers
     named:
-    - Elon Musk
     - Antonio Gracias
     source: https://www.washingtonpost.com/politics/2025/04/01/elon-musk-social-security-immigrants/
     agency: SSA

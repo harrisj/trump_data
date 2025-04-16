@@ -1,7 +1,6 @@
 import yaml
 import csv
 from util import as_list, read_processed_events, read_raw_agencies_dict, read_raw_cases
-from edtf import parse_edtf
     
 # Function to read a YAML file
 def generate_events_yaml():
@@ -31,7 +30,7 @@ def generate_events_yaml():
         for agency_id in as_list(case['agency']):
             out.append({'agency': agencies_dict[agency_id]['name'], 'agency_id': agency_id, 'event': f'{agency_id} named as defendant in new lawsuit {case["name"]} (Case No {case["case_no"]})', 'type': 'legal', 'date': case['date_filed'], 'named': None, 'source': case['link']})
 
-    return sorted(out, key=lambda x: parse_edtf(str(x['date'])))
+    return sorted(out, key=lambda x: x['date'])
 
 
 # Example usage

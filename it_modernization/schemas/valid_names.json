@@ -1,4 +1,10 @@
 {
+    "fuzzy_date": {
+        "description": "A date following the ISO 8601 standard for specific or imprecise dates",
+        "$comment": "https://www.datafix.com.au/BASHing/2020-02-12.html",
+        "type": "string",
+        "format": "(2024|2025)-.+"
+    },
     "people": {
         "description": "An enumerated list of people in DOGE (useful for error correction)",
         "enum": [
