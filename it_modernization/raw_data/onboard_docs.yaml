@@ -1,8 +1,75 @@
+- id: onboard-opm-employee-2
+  named_alias: OPM-2
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+  case_no: 8:25-cv-00430
+  file: onboard-opm-employee-2
+  title: Expert
+  office: Office of the Director
+  start_date: 2025-01-20
+  nte_date: 2025-07-18
+  salary: $0
+  agency: OPM
+
+- id: onboard-opm-employee-3
+  named_alias: OPM-3
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+  case_no: 8:25-cv-00430
+  file: onboard-opm-employee-3
+  title: Expert
+  office: Office of the Director
+  start_date: 2025-01-20
+  nte_date: 2025-07-18
+  salary: $0
+  agency: OPM
+
+- id: onboard-opm-employee-4
+  named_alias: OPM-4
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+  case_no: 8:25-cv-00430
+  file: onboard-opm-employee-4
+  title: Expert
+  office: Office of the Director
+  start_date: 2025-01-24
+  comment: No SF-50 provided
+  salary: $0
+  agency: OPM
+
+- id: onboard-opm-employee-5
+  named_alias: OPM-5
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+  case_no: 8:25-cv-00430
+  file: onboard-opm-employee-5
+  title: Senior Advisor to Director of Information Technology
+  office: Office of the Director
+  start_date: 2025-02-18
+  grade: GS-15/10
+  salary: $195,200
+  agency: OPM
+
+- id: onboard-opm-employee-6
+  named_alias: OPM-6
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+  case_no: 8:25-cv-00430
+  file: onboard-opm-employee-6
+  title: Expert
+  office: Office of the Director
+  start_date: 2025-01-24
+  nte_date: 2025-07-22
+  salary: $0
+  agency: OPM
+
 - id: onboard-ssa-employee-1
   named_alias: SSA-1
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   case_no: 1:25-cv-00596
   file: onboard-ssa-employee-1.pdf
+  title: Expert
+  office: Office of the Chief Information Officer
+  start_date: 2025-02-09
+  nte_date: 2026-02-08
+  salary: $90025
+  qualifications: >
+    Hands-on software engineer that is an expert in modern computer programming languages, cloud and other infrastructure, AI, etc. 5 years of experience using numerous computer code languages, leadership of teams in technical, software design, and infrastructure areas.
   agency: SSA
 
 - id: onboard-ssa-employee-2
@@ -10,12 +77,16 @@
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   case_no: 1:25-cv-00596
   file: onboard-ssa-employee-2.pdf
+  start_date: 2025-03-24
+  comment: Detail, so no SF-50
   agency: SSA
 
 - id: onboard-ssa-employee-3
   named_alias: SSA-3
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   case_no: 1:25-cv-00596
+  start_date: 2025-02-18
+  comment: Detail, so no SF-50
   file: onboard-ssa-employee-3.pdf
   agency: SSA
 
@@ -23,6 +94,12 @@
   named_alias: SSA-4
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   case_no: 1:25-cv-00596
+  start_date: 2025-02-23
+  nte_date: 2026-02-22
+  title: Expert
+  office: Office of the Chief Information Officer
+  qualifications: Founder, CEO and Chief Investment Officer of [REDACTED]. Over 25 years of experience in private equity investing.
+  comment: SF-50 is a correction
   file: onboard-ssa-employee-4.pdf
   agency: SSA
 
@@ -31,6 +108,8 @@
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   case_no: 1:25-cv-00596
   file: onboard-ssa-employee-5.pdf
+  start_date: 2025-02-18
+  comment: Detail, so no SF-50
   agency: SSA
 
 - id: onboard-ssa-employee-6
@@ -45,6 +124,8 @@
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   case_no: 1:25-cv-00596
   file: onboard-ssa-employee-7.pdf
+  start_date: 2025-03-05
+  comment: Detail so no SF-50
   agency: SSA
 
 - id: onboard-ssa-employee-8
@@ -52,6 +133,8 @@
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   case_no: 1:25-cv-00596
   file: onboard-ssa-employee-8.pdf
+  comment: Detail, so no SF-50
+  start_date: 2025-02-18
   agency: SSA
 
 - id: onboard-ssa-employee-9
@@ -59,6 +142,11 @@
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   case_no: 1:25-cv-00596
   file: onboard-ssa-employee-9.pdf
+  start_date: 2025-02-23
+  nte_date: 2026-02-22
+  title: Expert
+  office: Office of the Chief Information Officer
+  salary: $0
   agency: SSA
 
 - id: onboard-ssa-employee-10
@@ -66,6 +154,8 @@
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   case_no: 1:25-cv-00596
   file: onboard-ssa-employee-10.pdf
+  start_date: 2025-02-18
+  comment: Detail, so no SF-50
   agency: SSA
 
 - id: onboard-ssa-employee-11
@@ -73,6 +163,13 @@
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   case_no: 1:25-cv-00596
   file: onboard-ssa-employee-11.pdf
+  start_date: 2025-03-16
+  nte_date: 2026-03-15
+  title: Expert
+  office: Office of the Chief Information Officer
+  salary: $162672
+  qualifications: >
+    is a Senior Software Engineer with over ten years of experience building cloud-native geospatial  solutions. Adept at architecting geospatial infrastructures, implementing geospatial algorithms, and leading full- stack development. Experienced in collaborating with cross-functional teams to deliver mission-critical capabilities  and driving technical decisions and best practices.
   agency: SSA
 
 - id: onboard-treasury-marko-elez
@@ -80,19 +177,23 @@
   type: sge
   excepted: true
   start_date: 2025-01-21
-  end_date: 2025-05-25
+  nte_date: 2025-05-25
   title: Special Advisor (IT&M)
+  office: Office of the Chief of Staff
   agency: Treasury
+  grade: GS-11/01
   salary: $84601
   file: onboard-treasury-marko-elez
 
 - id: onboard-education-employee-2
   type: appointment
   named_alias: ED-2
-  grade: GS15/6
   start_date: 2025-01-31
   agency: Education
   salary: $195200
+  title: Senior Advisor
+  office: Office of the Secretary
+  grade: GS-15/6
   file: onboard-education-employee-2
 
 - id: onboard-education-employee-4
@@ -101,7 +202,7 @@
   comment: Part-time
   excepted: true
   start_date: 2025-02-04
-  end_date: 2025-08-04
+  nte_date: 2025-08-04
   agency: Education
   salary: $0
   file: onboard-education-employee-4.pdf
@@ -111,7 +212,7 @@
   type: consultant
   comment: Part-time
   start_date: 2025-02-09
-  end_date: 2025-04-10
+  nte_date: 2025-04-10
   agency: Treasury
   salary: $0
   file: onboard-treasury-thomas-krause.pdf

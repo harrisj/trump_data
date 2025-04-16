@@ -194,7 +194,7 @@ aliases:
     to: Education
     signed_date: 2025-02-12
     start_date: 2025-02-03
-    end_date: 2026-02-12
+    nte_date: 2026-02-12
     max_people: 1
     reimbursed: false
     named_aliases:
@@ -420,7 +420,7 @@ aliases:
     to: SSA
     signed_date: 2025-03-06
     start_date: 2025-02-18
-    end_date: 2026-02-18
+    nte_date: 2026-02-18
     max_people: 1
     reimbursed: true
     named_aliases:
@@ -490,7 +490,7 @@ aliases:
     to: SSA
     signed_date: 2025-02-18
     start_date: 2025-02-18
-    end_date: 2026-02-18
+    nte_date: 2026-02-18
     max_people: 1
     reimbursed: true
     named_aliases:
@@ -754,7 +754,7 @@ aliases:
     to: SSA
     signed_date: 2025-03-17
     start_date: 2025-03-05
-    end_date: 2025-03-06
+    nte_date: 2025-03-06
     max_people: 1
     named_aliases:
     - SSA-7
@@ -820,7 +820,7 @@ aliases:
     to: SSA
     signed_date: 2025-02-26
     start_date: 2025-02-26
-    end_date: 2025-02-26
+    nte_date: 2025-02-26
     max_people: 1
     reimbursed: false
     named_aliases:

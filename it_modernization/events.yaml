@@ -503,7 +503,7 @@ events:
     to: Education
     signed_date: 2025-02-12
     start_date: 2025-01-20
-    end_date: 2026-07-04
+    nte_date: 2026-07-04
     max_people: 5
     reimbursed: false
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
@@ -878,7 +878,7 @@ events:
     to: Education
     signed_date: 2025-02-12
     start_date: 2025-02-03
-    end_date: 2026-02-12
+    nte_date: 2026-02-12
     max_people: 1
     reimbursed: false
     named_aliases:
@@ -1115,7 +1115,7 @@ events:
     to: Education
     signed_date: 2025-02-12
     start_date: 2025-01-20
-    end_date: 2026-07-04
+    nte_date: 2026-07-04
     max_people: 5
     reimbursed: false
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
@@ -1670,7 +1670,7 @@ events:
     to: Education
     signed_date: 2025-02-12
     start_date: 2025-02-03
-    end_date: 2026-02-12
+    nte_date: 2026-02-12
     max_people: 1
     reimbursed: false
     named_aliases:
@@ -2086,7 +2086,7 @@ events:
     to: SSA
     signed_date: 2025-02-18
     start_date: 2025-02-18
-    end_date: 2026-02-18
+    nte_date: 2026-02-18
     max_people: 1
     reimbursed: true
     named_aliases:
@@ -2112,7 +2112,7 @@ events:
     to: SSA
     signed_date: 2025-02-20
     start_date: 2025-02-19
-    end_date: 2026-07-04
+    nte_date: 2026-07-04
     max_people: 15
     reimbursement_amount: $4,358,750
     reimbursed: true
@@ -2142,7 +2142,7 @@ events:
     to: SSA
     signed_date: 2025-03-06
     start_date: 2025-02-18
-    end_date: 2026-02-18
+    nte_date: 2026-02-18
     max_people: 1
     reimbursed: true
     named_aliases:
@@ -2176,7 +2176,7 @@ events:
     to: SSA
     signed_date: 2025-02-18
     start_date: 2025-02-18
-    end_date: 2026-02-18
+    nte_date: 2026-02-18
     max_people: 1
     reimbursed: true
     named_aliases:
@@ -2204,7 +2204,7 @@ events:
     to: SSA
     signed_date: 2025-03-06
     start_date: 2025-02-18
-    end_date: 2026-02-18
+    nte_date: 2026-02-18
     max_people: 1
     reimbursed: true
     named_aliases:
@@ -2463,7 +2463,7 @@ events:
     to: Education
     signed_date: 2025-02-12
     start_date: 2025-01-20
-    end_date: 2026-07-04
+    nte_date: 2026-07-04
     max_people: 5
     reimbursed: false
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
@@ -2498,7 +2498,7 @@ events:
     to: SSA
     signed_date: 2025-02-20
     start_date: 2025-02-19
-    end_date: 2026-07-04
+    nte_date: 2026-07-04
     max_people: 15
     reimbursement_amount: $4,358,750
     reimbursed: true
@@ -2562,7 +2562,7 @@ events:
     - Ethan Shaotran
     reimbursed: false
     start_date: 2025-02-20
-    end_date: 2026-07-04
+    nte_date: 2026-07-04
     signed_date: 2025-02-21
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.20.7.pdf
     file: mou-20250220-gsa-usadf-ethan-shaotran.pdf
@@ -2594,7 +2594,7 @@ events:
     - Ethan Shaotran
     reimbursed: false
     start_date: 2025-02-20
-    end_date: 2026-07-04
+    nte_date: 2026-07-04
     signed_date: 2025-02-21
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.20.7.pdf
     file: mou-20250220-gsa-usadf-ethan-shaotran.pdf
@@ -2629,7 +2629,7 @@ events:
     - Ethan Shaotran
     reimbursed: false
     start_date: 2025-02-20
-    end_date: 2026-07-04
+    nte_date: 2026-07-04
     signed_date: 2025-02-21
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.20.7.pdf
     file: mou-20250220-gsa-usadf-ethan-shaotran.pdf
@@ -2700,7 +2700,7 @@ events:
     - Ethan Shaotran
     reimbursed: false
     start_date: 2025-02-20
-    end_date: 2026-07-04
+    nte_date: 2026-07-04
     signed_date: 2025-02-21
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.20.7.pdf
     file: mou-20250220-gsa-usadf-ethan-shaotran.pdf
@@ -3086,7 +3086,7 @@ events:
     to: SSA
     signed_date: 2025-02-26
     start_date: 2025-02-26
-    end_date: 2025-02-26
+    nte_date: 2025-02-26
     max_people: 1
     reimbursed: false
     named_aliases:
@@ -3693,7 +3693,7 @@ events:
     to: SSA
     signed_date: 2025-03-17
     start_date: 2025-03-05
-    end_date: 2025-03-06
+    nte_date: 2025-03-06
     max_people: 1
     named_aliases:
     - SSA-7
@@ -3767,7 +3767,7 @@ events:
     to: SSA
     signed_date: 2025-03-17
     start_date: 2025-03-05
-    end_date: 2025-03-06
+    nte_date: 2025-03-06
     max_people: 1
     named_aliases:
     - SSA-7
@@ -3795,7 +3795,7 @@ events:
     to: SSA
     signed_date: 2025-03-17
     start_date: 2025-03-05
-    end_date: 2025-03-06
+    nte_date: 2025-03-06
     max_people: 1
     named_aliases:
     - SSA-7
@@ -3899,7 +3899,7 @@ events:
     source: https://about.usps.com/who/legal/foia/documents/mou-alex-simonpour-executed-redacted.pdf
     reimbursed: false
     start_date: 2025-03-07
-    end_date: 2025-06-15
+    nte_date: 2025-06-15
     signed_date: 2025-03-12
     file: mou-20250312-gsa-usps-alex-simonpour.pdf
 
@@ -4486,7 +4486,7 @@ events:
     to: SSA
     signed_date: 2025-03-17
     start_date: 2025-03-05
-    end_date: 2025-03-06
+    nte_date: 2025-03-06
     max_people: 1
     named_aliases:
     - SSA-7

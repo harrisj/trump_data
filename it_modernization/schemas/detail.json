@@ -20,8 +20,8 @@
             "type": "string",
             "format": "date"
         },
-        "end_date": {
-            "description": "The date the detailing agreement is effective to",
+        "nte_date": {
+            "description": "The date the detailing agreement is effective to (not to exceed)",
             "type": "string",
             "format": "date"
         },
