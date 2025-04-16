@@ -64,4 +64,4 @@ meta = {
 }
 
 aliases = generate_aliases()
-dump_generated_file(meta, aliases, 'aliases.yaml', SCHEMA_PATH)
+dump_generated_file(meta, aliases, 'aliases.yaml', SCHEMA_PATH, line_break_indent=2)
