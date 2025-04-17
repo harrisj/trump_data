@@ -4034,6 +4034,19 @@ NIST:
   systems: {}
   cases: {}
 
+NSF:
+  name: National Science Foundation
+  id: NSF
+  associated: []
+  events:
+  - date: 2025-04-14
+    type: report
+    event: Three unidentified DOGE staffers show up at NSF headquarters, forcing all approved grants to go through a "secondary review"
+    source: https://www.science.org/content/article/nsf-halts-grant-awards-while-staff-do-second-review
+    agency: NSF
+  systems: {}
+  cases: {}
+
 NSA:
   name: National Security Agency
   id: NSA

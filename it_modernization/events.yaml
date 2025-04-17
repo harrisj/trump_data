@@ -2,7 +2,7 @@
 meta:
   title: Events
   version: 1.0.0
-  generated: 2025-04-16
+  generated: 2025-04-17
 
 events:
 
@@ -5895,6 +5895,13 @@ events:
     agency:
     - SSA
     - DOGE
+
+- date: 2025-04-14
+  type: report
+  event: Three unidentified DOGE staffers show up at NSF headquarters, forcing all approved grants to go through a "secondary
+    review"
+  source: https://www.science.org/content/article/nsf-halts-grant-awards-while-staff-do-second-review
+  agency: NSF
 
 - date: 2025-04-15
   type: promotion
