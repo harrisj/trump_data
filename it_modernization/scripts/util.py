@@ -89,6 +89,9 @@ def read_raw_cases(path = './raw_data/cases.yaml'):
 def read_raw_cases_dict(path = './raw_data/cases.yaml'):
     return read_yaml_as_dict(path, "case_no")
 
+def read_raw_agencies(path = './raw_data/agencies.yaml'):
+    return read_yaml(path)
+
 def read_raw_agencies_dict(path = './raw_data/agencies.yaml'):
     return read_yaml_as_dict(path, "id")
 
@@ -103,6 +106,10 @@ def read_raw_details_dict(path = './raw_data/details.yaml'):
 
 def read_raw_roundups(path = './raw_data/roundups.yaml'):
     return read_yaml(path)
+
+def read_postings(path = './postings.yaml'):
+    out = read_yaml(path)
+    return out['postings']
 
 def dump_generated_file(meta, data, path, schema=None, line_break_indent=100):
     with open(path, 'w') as file:

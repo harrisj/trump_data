@@ -5920,3 +5920,14 @@ events:
     being sidelined and frustrated with DOGE efforts at the agency
   source: https://www.politico.com/news/2025/04/15/pentagons-digital-resignations-00290930
   agency: DOD
+
+- date: 2025-04-16
+  type: report
+  event: Three DOGE staffers are reported to work with staff from DHS, the State Department and USCIS on implementing an application
+    process for a $5 Million "Gold Card" visa
+  source: https://www.nytimes.com/2025/04/16/us/politics/gold-card-visa-trump-musk.html
+  named:
+  - Marko Elez
+  - Edward Coristine
+  - Joe Gebbia
+  agency: DOGE

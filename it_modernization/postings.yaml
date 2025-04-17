@@ -372,14 +372,16 @@ postings:
   first_date: 2025-03-05
   all_dates:
   - 2025-03-05
-  last_date: 2025-03-05
+  - 2025-04-16
+  last_date: 2025-04-16
 
 - agency_id: DOGE
   name: Edward Coristine
   first_date: 2025-03-05
   all_dates:
   - 2025-03-05
-  last_date: 2025-03-05
+  - 2025-04-16
+  last_date: 2025-04-16
 
 - agency_id: DOGE
   name: Justin Aimonetti
@@ -461,7 +463,8 @@ postings:
   first_date: 2025-03-27
   all_dates:
   - 2025-03-27
-  last_date: 2025-03-27
+  - 2025-04-16
+  last_date: 2025-04-16
 
 - agency_id: DOGE
   name: Tom Krause
