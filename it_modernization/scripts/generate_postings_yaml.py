@@ -14,7 +14,7 @@ def generate_postings_yaml():
 
     postings = {}
     for event in events_yaml:
-        if event['type'] == 'legal':
+        if event['type'] == 'legal' or event['type'] == 'interagency':
             continue  # DOGE staff may be named, but months after presence at agency
 
         for name in event.get('named', []):

@@ -141,13 +141,6 @@ postings:
   last_date: 2025-03-11
   onboard_date: 2025-03-11
 
-- agency_id: DHS
-  name: Leland Dudek
-  first_date: 2025-04-07
-  all_dates:
-  - 2025-04-07
-  last_date: 2025-04-07
-
 - agency_id: DOD
   name: Justin Fulcher
   first_date: 2025-03-04
@@ -1076,13 +1069,6 @@ postings:
   - 2025-03-10
   last_date: 2025-03-10
 
-- agency_id: ICE
-  name: Leland Dudek
-  first_date: 2025-04-07
-  all_dates:
-  - 2025-04-07
-  last_date: 2025-04-07
-
 - agency_id: IMLS
   name: Keith Sonderling
   first_date: 2025-03-20
@@ -1122,13 +1108,6 @@ postings:
   - 2025-04-08
   - 2025-04-10
   last_date: 2025-04-10
-
-- agency_id: IRS
-  name: Leland Dudek
-  first_date: 2025-04-07
-  all_dates:
-  - 2025-04-07
-  last_date: 2025-04-07
 
 - agency_id: NASA
   name: Scott Coulter
@@ -1717,13 +1696,6 @@ postings:
   - 2025-03-17
   last_date: 2025-03-17
   onboard_date: 2025-03-17
-
-- agency_id: USIP
-  name: Stephen Ehikian
-  first_date: 2025-03-25
-  all_dates:
-  - 2025-03-25
-  last_date: 2025-03-25
 
 - agency_id: USPS
   name: Alexander Simonpour

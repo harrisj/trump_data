@@ -115,7 +115,6 @@ gantt
     SECTION DHS
         Edward Coristine : 2025-02-10, 2025-04-16
         Antoine McCord : 2025-03-11, 2025-04-16
-        Leland Dudek : 2025-04-07, 2025-04-16
     SECTION HUD
         Scott Langmack : 2025-02-10, 2025-04-16
         Michael Mirski : 2025-02-20, 2025-04-16
@@ -167,14 +166,12 @@ gantt
         Jacob Altik : 2025-02-24, 2025-04-16
         Nate Cavanaugh : 2025-02-24, 2025-04-16
         Kenneth Jackson : 2025-03-14, 2025-04-16
-        Stephen Ehikian : 2025-03-25, 2025-04-16
     SECTION IAF
         Peter Marocco : 2025-02-28, 2025-04-16
         Kenneth Jackson : 2025-03-10, 2025-04-16
     SECTION IRS
         Gavin Kliger : 2025-02-28, 2025-04-16
         Sam Corcos : 2025-02-28, 2025-04-16
-        Leland Dudek : 2025-04-07, 2025-04-16
     SECTION NLRB
         Jordan Wick : 2025-02-28, 2025-04-16
     SECTION DOD
@@ -209,8 +206,6 @@ gantt
         Emily Bryant : 2025-04-04, 2025-04-16
     SECTION Peace
         Bridget Youngs : 2025-04-04, 2025-04-16
-    SECTION ICE
-        Leland Dudek : 2025-04-07, 2025-04-16
     SECTION FDIC
         Brooks Morgan : 2025-04-10, 2025-04-16
         Adam Ramada : 2025-04-10, 2025-04-16

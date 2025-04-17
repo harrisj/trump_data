@@ -3843,7 +3843,7 @@
   agency: USIP
 
 - date: 2025-03-25
-  type: report
+  type: interagency
   named:
   - Nate Cavanaugh
   - Stephen Ehikian
@@ -4360,7 +4360,7 @@
   source: https://www.wired.com/story/dr-oz-ai-health-care-medicare-cms-town-hall/
 
 - date: 2025-04-07
-  type: report
+  type: interagency
   event: After some qualms about its legality, Leland Dudek signs two memos authorizing sharing data that would allow DHS and ICE to locate immigrants
   source: https://www.washingtonpost.com/politics/2025/04/12/trump-immigrants-dead-social-security/
   named:

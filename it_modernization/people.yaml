@@ -1584,7 +1584,7 @@ people:
         Pete Hegseth, and he is authorized to transfer all assets to the GSA
     - date: 2025-03-25
       agency: USIP
-      type: report
+      type: interagency
       event: Nate Cavanaugh contacts the administrator of the GSA to propose transferring the USIP building to them, arguing
         that USIP won't need a building because the statute doesn't mandate it has one or staffing
     - date: 2025-03-31
@@ -2535,7 +2535,7 @@ people:
       - IRS
       - DHS
       - ICE
-      type: report
+      type: interagency
       event: After some qualms about its legality, Leland Dudek signs two memos authorizing sharing data that would allow
         DHS and ICE to locate immigrants
     - date: 2025-04-07
@@ -2543,7 +2543,7 @@ people:
       - IRS
       - DHS
       - ICE
-      type: report
+      type: interagency
       event: After some qualms about its legality, Leland Dudek signs two memos authorizing sharing data that would allow
         DHS and ICE to locate immigrants
     - date: 2025-04-07
@@ -2551,7 +2551,7 @@ people:
       - IRS
       - DHS
       - ICE
-      type: report
+      type: interagency
       event: After some qualms about its legality, Leland Dudek signs two memos authorizing sharing data that would allow
         DHS and ICE to locate immigrants
 
@@ -2572,7 +2572,7 @@ people:
         directory
     - date: 2025-03-25
       agency: USIP
-      type: report
+      type: interagency
       event: Nate Cavanaugh contacts the administrator of the GSA to propose transferring the USIP building to them, arguing
         that USIP won't need a building because the statute doesn't mandate it has one or staffing
 
