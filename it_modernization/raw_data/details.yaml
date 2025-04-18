@@ -194,3 +194,15 @@
   signed_date: 2025-02-21
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.20.7.pdf
   file: mou-20250220-gsa-usadf-ethan-shaotran.pdf
+
+- id: mou-20250219-opm-irs-gavin-kliger
+  from: OPM
+  to: IRS
+  named:
+  - Gavin Kliger
+  reimbursed: true
+  start_date: 2025-02-19
+  nte_date: 2025-06-19
+  signed_date: 2025-02-19
+  source: https://www.taxnotes.com/research/federal/legislative-documents/congressional-tax-correspondence/treasury-official-sends-memo-doge-detail-crapo/7rl0x
+  file: mou-20250219-opm-irs-gavin-kliger.pdf

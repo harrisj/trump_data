@@ -33,6 +33,7 @@ postings:
   first_date: 2025-02-06
   all_dates:
   - 2025-02-06
+  - 2025-02-07
   - 2025-04-17
   last_date: 2025-04-17
   doge_agency_first: 2025-02-06
@@ -1362,12 +1363,13 @@ postings:
 
 - agency_id: IRS
   name: Gavin Kliger
-  first_date: 2025-02-28
+  first_date: 2025-02-19
   all_dates:
+  - 2025-02-19
   - 2025-02-28
   - 2025-04-05
   last_date: 2025-04-05
-  doge_agency_first: 2025-02-28
+  doge_agency_first: 2025-02-19
   doge_agency_last: 2025-04-10
 
 - agency_id: IRS
@@ -1379,7 +1381,7 @@ postings:
   - 2025-04-08
   - 2025-04-10
   last_date: 2025-04-10
-  doge_agency_first: 2025-02-28
+  doge_agency_first: 2025-02-19
   doge_agency_last: 2025-04-10
 
 - agency_id: NASA
@@ -1500,7 +1502,8 @@ postings:
   - 2025-01-16~
   - 2025-01-17
   - 2025-01-20
-  last_date: 2025-01-20
+  - 2025-02-12
+  last_date: 2025-02-12
   onboard_date: 2025-01-20
   doge_agency_first: 2025-01-16~
   doge_agency_last: 2025-04-03
@@ -1522,7 +1525,8 @@ postings:
   - 2025-01-20
   - 2025-01-27
   - 2025-01-31
-  last_date: 2025-01-31
+  - 2025-02-12
+  last_date: 2025-02-12
   onboard_date: 2025-01-20
   doge_agency_first: 2025-01-16~
   doge_agency_last: 2025-04-03
@@ -1532,7 +1536,8 @@ postings:
   first_date: 2025-01-17
   all_dates:
   - 2025-01-17
-  last_date: 2025-01-17
+  - 2025-02-12
+  last_date: 2025-02-12
   doge_agency_first: 2025-01-16~
   doge_agency_last: 2025-04-03
 
@@ -1542,7 +1547,8 @@ postings:
   all_dates:
   - 2025-01-20
   - 2025-02-11
-  last_date: 2025-02-11
+  - 2025-02-12
+  last_date: 2025-02-12
   onboard_date: 2025-01-20
   doge_agency_first: 2025-01-16~
   doge_agency_last: 2025-04-03
@@ -1565,7 +1571,8 @@ postings:
   all_dates:
   - 2025-01-20
   - 2025-01-31
-  last_date: 2025-01-31
+  - 2025-02-12
+  last_date: 2025-02-12
   doge_agency_first: 2025-01-16~
   doge_agency_last: 2025-04-03
 
@@ -1575,6 +1582,7 @@ postings:
   all_dates:
   - 2025-01-20
   - 2025-01-31
+  - 2025-02-12
   - 2025-02-25
   last_date: 2025-02-25
   onboard_date: 2025-01-20
@@ -1586,7 +1594,8 @@ postings:
   first_date: 2025-02-02
   all_dates:
   - 2025-02-02
-  last_date: 2025-02-02
+  - 2025-02-12
+  last_date: 2025-02-12
   doge_agency_first: 2025-01-16~
   doge_agency_last: 2025-04-03
 
@@ -1595,7 +1604,98 @@ postings:
   first_date: 2025-02-02
   all_dates:
   - 2025-02-02
-  last_date: 2025-02-02
+  - 2025-02-12
+  last_date: 2025-02-12
+  doge_agency_first: 2025-01-16~
+  doge_agency_last: 2025-04-03
+
+- agency_id: OPM
+  name: Anthony Armstrong
+  first_date: 2025-02-12
+  all_dates:
+  - 2025-02-12
+  last_date: 2025-02-12
+  doge_agency_first: 2025-01-16~
+  doge_agency_last: 2025-04-03
+
+- agency_id: OPM
+  name: Stephanie Holmes
+  first_date: 2025-02-12
+  all_dates:
+  - 2025-02-12
+  last_date: 2025-02-12
+  doge_agency_first: 2025-01-16~
+  doge_agency_last: 2025-04-03
+
+- agency_id: OPM
+  name: Christina Hanna
+  first_date: 2025-02-12
+  all_dates:
+  - 2025-02-12
+  last_date: 2025-02-12
+  doge_agency_first: 2025-01-16~
+  doge_agency_last: 2025-04-03
+
+- agency_id: OPM
+  name: Stephen Duarte
+  first_date: 2025-02-12
+  all_dates:
+  - 2025-02-12
+  last_date: 2025-02-12
+  doge_agency_first: 2025-01-16~
+  doge_agency_last: 2025-04-03
+
+- agency_id: OPM
+  name: Bryanne-Michelle Mlodzianowski
+  first_date: 2025-02-12
+  all_dates:
+  - 2025-02-12
+  last_date: 2025-02-12
+  doge_agency_first: 2025-01-16~
+  doge_agency_last: 2025-04-03
+
+- agency_id: OPM
+  name: Joanna Wischer
+  first_date: 2025-02-12
+  all_dates:
+  - 2025-02-12
+  last_date: 2025-02-12
+  doge_agency_first: 2025-01-16~
+  doge_agency_last: 2025-04-03
+
+- agency_id: OPM
+  name: Justin Monroe
+  first_date: 2025-02-12
+  all_dates:
+  - 2025-02-12
+  last_date: 2025-02-12
+  doge_agency_first: 2025-01-16~
+  doge_agency_last: 2025-04-03
+
+- agency_id: OPM
+  name: Jacob Altik
+  first_date: 2025-02-12
+  all_dates:
+  - 2025-02-12
+  last_date: 2025-02-12
+  doge_agency_first: 2025-01-16~
+  doge_agency_last: 2025-04-03
+
+- agency_id: OPM
+  name: Austin Raynor
+  first_date: 2025-02-12
+  all_dates:
+  - 2025-02-12
+  last_date: 2025-02-12
+  doge_agency_first: 2025-01-16~
+  doge_agency_last: 2025-04-03
+
+- agency_id: OPM
+  name: Nikhil Rajpal
+  first_date: 2025-02-12
+  all_dates:
+  - 2025-02-12
+  last_date: 2025-02-12
   doge_agency_first: 2025-01-16~
   doge_agency_last: 2025-04-03
 
@@ -1669,7 +1769,6 @@ postings:
   first_date: 2025-01-30
   all_dates:
   - 2025-01-30
-  - 2025-02-10
   - 2025-02-18
   - 2025-03-13
   - 2025-03-25

@@ -190,6 +190,11 @@ people:
       agency: OPM
       type: disruption
       event: Federal employees at OPM are locked out of access to key systems by DOGE and OPM leadership
+    - date: 2025-02-12
+      agency: OPM
+      type: report
+      event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials
+        to FOIA communications for
     - date: 2025-03-24
       agency: OPM
       type: legal
@@ -221,6 +226,11 @@ people:
       agency: OPM
       type: disruption
       event: Federal employees at OPM are locked out of access to key systems by DOGE and OPM leadership
+    - date: 2025-02-12
+      agency: OPM
+      type: report
+      event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials
+        to FOIA communications for
     - date: 2025-02-25
       agency: OPM
       type: report
@@ -233,6 +243,11 @@ people:
     - Federal Deposit Insurance Commission
     - Office of Personnel Management
     events:
+    - date: 2025-02-12
+      agency: OPM
+      type: report
+      event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials
+        to FOIA communications for
     - date: 2025-03-27
       agency: DOGE
       type: report
@@ -839,6 +854,11 @@ people:
       agency: State
       type: report
       event: Edward Coristine and Luke Farritor are posted to the State Department's Bureau of Diplomatic Technology
+    - date: 2025-02-12
+      agency: OPM
+      type: report
+      event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials
+        to FOIA communications for
     - date: 2025-02-19
       agency: CISA
       type: report
@@ -1310,10 +1330,28 @@ people:
       agency: CFPB
       type: report
       event: DOGE staff enter CFPB facilities and are given equipment and onboarded
+    - date: 2025-02-07
+      agency: CFPB
+      type: access_granted
+      event: Mr. Farritor used his Entra ID access to provide another member of the DOGE with access to the admin interface
+        for the CFPB's website
+    - date: 2025-02-07
+      agency: CFPB
+      type: disruption
+      event: The CFPB homepage is deleted and returns a 404 error
     - date: 2025-02-09
       agency: USAID
       type: disruption
       event: Gavin Kliger and Luke Farritor completely remove all access to the payments system for all other USAID staff
+    - date: 2025-02-12
+      agency: OPM
+      type: report
+      event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials
+        to FOIA communications for
+    - date: 2025-02-19
+      agency: IRS
+      type: official
+      event: Gavin Kliger's detail from OPM to IRS is executed
     - date: 2025-02-28
       agency: IRS
       type: official
@@ -1516,6 +1554,11 @@ people:
       agency: OPM
       type: promotion
       event: Greg Hogan is formally named the CIO of OPM
+    - date: 2025-02-12
+      agency: OPM
+      type: report
+      event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials
+        to FOIA communications for
     - date: 2025-03-24
       agency: OPM
       type: legal
@@ -1649,6 +1692,11 @@ people:
       agency: CFPB
       type: access_granted
       event: Nikhil Rajpal and Luke Farritor are granted full admin access to the Microsoft Entra system
+    - date: 2025-02-12
+      agency: OPM
+      type: report
+      event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials
+        to FOIA communications for
     - date: 2025-02-20
       agency: SSA
       type: report
@@ -1715,6 +1763,11 @@ people:
       type: access_granted
       event: Akash Bobba is rapidly trained and is granted access to anonymized and read-only "sandbox" NUMIDENT data from
         SSNEC for his purported fraud investigations
+    - date: 2025-02-12
+      agency: OPM
+      type: report
+      event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials
+        to FOIA communications for
     - date: 2025-02-12
       agency: SSA
       type: onboarded
@@ -1838,6 +1891,11 @@ people:
       agency: OPM
       type: report
       event: Several of the DOGE staff meet to plan for their first day at OPM. They are not federal employees at that time.
+    - date: 2025-02-12
+      agency: OPM
+      type: report
+      event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials
+        to FOIA communications for
 
   Kendall Lindemann:
     agencies:
@@ -1857,6 +1915,11 @@ people:
     - Executive Office of the President
     - Office of Personnel Management
     events:
+    - date: 2025-02-12
+      agency: OPM
+      type: report
+      event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials
+        to FOIA communications for
     - date: 2025-02-24
       agency: DOI
       type: onboarded
@@ -1870,17 +1933,32 @@ people:
   Christina Hanna:
     agencies:
     - Office of Personnel Management
-    events: []
+    events:
+    - date: 2025-02-12
+      agency: OPM
+      type: report
+      event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials
+        to FOIA communications for
 
   Stephen Duarte:
     agencies:
     - Office of Personnel Management
-    events: []
+    events:
+    - date: 2025-02-12
+      agency: OPM
+      type: report
+      event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials
+        to FOIA communications for
 
   Bryanne-Michelle Mlodzianowski:
     agencies:
     - Office of Personnel Management
-    events: []
+    events:
+    - date: 2025-02-12
+      agency: OPM
+      type: report
+      event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials
+        to FOIA communications for
 
   Jacob Altik:
     agencies:
@@ -1897,6 +1975,11 @@ people:
       agency: OPM
       type: legal
       event: DOGE member and lawyer Jacob Altik joins the case for the defense
+    - date: 2025-02-12
+      agency: OPM
+      type: report
+      event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials
+        to FOIA communications for
     - date: 2025-02-21
       agency: USADF
       type: report
@@ -1989,6 +2072,11 @@ people:
       agency: OPM
       type: onboarded
       event: Several DOGE leaders start work at the OPM immediately after the Inauguration
+    - date: 2025-02-12
+      agency: OPM
+      type: report
+      event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials
+        to FOIA communications for
     - date: 2025-03-26
       agency: DOGE
       type: report
@@ -2005,6 +2093,11 @@ people:
     - Executive Office of the President
     - Office of Personnel Management
     events:
+    - date: 2025-02-12
+      agency: OPM
+      type: report
+      event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials
+        to FOIA communications for
     - date: 2025-03-26
       agency: DOGE
       type: report
@@ -2204,10 +2297,6 @@ people:
       type: report
       event: Leland Dudek reaches out to Tiffany Flick, the Associate Director of Budget, Facilities and Security to inform
         her two DOGE staff would be onboarding. He was a mid-level employee at the time.
-    - date: 2025-02-10
-      agency: SSA
-      type: official
-      event: Unidentified "Employee 2" signs the SSA Rules of Behavior for access to SSA networks and systems
     - date: 2025-02-18
       agency: SSA
       type: onboarded
@@ -2355,17 +2444,28 @@ people:
   Joanna Wischer:
     agencies:
     - Department of Government Efficiency
+    - Office of Personnel Management
     events:
     - date: 2025-01-24
       agency: DOGE
       type: report
       event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
+    - date: 2025-02-12
+      agency: OPM
+      type: report
+      event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials
+        to FOIA communications for
 
   Justin Monroe:
     agencies:
     - Federal Bureau of Investigation
     - Office of Personnel Management
-    events: []
+    events:
+    - date: 2025-02-12
+      agency: OPM
+      type: report
+      event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials
+        to FOIA communications for
 
   Joe Gebbia:
     agencies:
@@ -3044,6 +3144,11 @@ people:
       agency: OPM
       type: disruption
       event: Federal employees at OPM are locked out of access to key systems by DOGE and OPM leadership
+    - date: 2025-02-12
+      agency: OPM
+      type: report
+      event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials
+        to FOIA communications for
     - date: 2025-03-24
       agency: OPM
       type: legal

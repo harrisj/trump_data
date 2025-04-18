@@ -148,3 +148,21 @@
   - Started as a paid staffer at SSA on 2025-03-16
   - Has 10 years of software development experience in geospatial software
   - Unclear if this matches the DOGE people we know
+
+- id: CFPB-1
+  agency: CFPB
+  name: Gavin Kliger
+  evidence:
+  - A declaration from https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf outlines access granted to CFPB staff
+  - The declaration names Jordan Wick, Chris Young, Nikhil Rajpal and Luke Farritor as well as 2 other CFPB staff not named (because they are not deemed DOGE employees)
+  - In the declaration, Mr. Farritor used Entra ID to provide access to a member of the DOGE Team who is not a DOGE Employee to the systems necessary to update the CFPB's public-facing website.
+  - Gavin Kliger is the only developer of those two
+
+- id: CFPB-2
+  agency: CFPB
+  name: Jeremy Lewin
+  evidence:
+  - A declaration from https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf outlines access granted to CFPB staff
+  - The declaration names Jordan Wick, Chris Young, Nikhil Rajpal and Luke Farritor as well as 2 other CFPB staff not named
+  - Based on reporting, Gavin Kliger and Jeremy Lewin were the other DOGE staff at the agency at the time of this action
+  - Gavin Kliger has already been unmasked as CFPB-1

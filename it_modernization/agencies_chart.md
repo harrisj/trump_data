@@ -21,6 +21,16 @@ gantt
         Riccardo Biasini : 2025-01-20, 2025-04-03
         Edward Coristine : 2025-02-02, 2025-04-03
         Gavin Kliger : 2025-02-02, 2025-04-03
+        Anthony Armstrong : 2025-02-12, 2025-04-03
+        Stephanie Holmes : 2025-02-12, 2025-04-03
+        Christina Hanna : 2025-02-12, 2025-04-03
+        Stephen Duarte : 2025-02-12, 2025-04-03
+        Bryanne-Michelle Mlodzianowski : 2025-02-12, 2025-04-03
+        Joanna Wischer : 2025-02-12, 2025-04-03
+        Justin Monroe : 2025-02-12, 2025-04-03
+        Jacob Altik : 2025-02-12, 2025-04-03
+        Austin Raynor : 2025-02-12, 2025-04-03
+        Nikhil Rajpal : 2025-02-12, 2025-04-03
         Scott Kupor : 2025-04-03, 2025-04-03
     SECTION GSA
         Stephen Ehikian : 2025-01-20, 2025-03-06
@@ -150,6 +160,9 @@ gantt
     SECTION CISA
         Edward Coristine : 2025-02-19, 2025-02-20
         Kyle Schutt : 2025-02-19, 2025-02-20
+    SECTION IRS
+        Gavin Kliger : 2025-02-19, 2025-04-10
+        Sam Corcos : 2025-02-28, 2025-04-10
     SECTION USADF
         Chris Young : 2025-02-20, 2025-03-06
         Ethan Shaotran : 2025-02-21, 2025-03-06
@@ -170,9 +183,6 @@ gantt
     SECTION IAF
         Peter Marocco : 2025-02-28, 2025-03-10
         Kenneth Jackson : 2025-03-10, 2025-03-10
-    SECTION IRS
-        Gavin Kliger : 2025-02-28, 2025-04-10
-        Sam Corcos : 2025-02-28, 2025-04-10
     SECTION NLRB
         Jordan Wick : 2025-02-28, 2025-02-28
     SECTION DOD

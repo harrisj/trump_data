@@ -358,13 +358,6 @@ aliases:
   - Scott Coulter is identified at SSA on 2025-03-13
   - Signed SF-61 as CIO on 2025-03-24
   events:
-  - date: 2025-02-10
-    type: official
-    event: Unidentified "Employee 2" signs the SSA Rules of Behavior for access to SSA networks and systems
-    named_aliases:
-    - SSA-2
-    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
-    agency: SSA
   - date: 2025-02-18
     type: onboarded
     onboard_type: detailed
@@ -846,8 +839,8 @@ aliases:
     type: onboarded
     onboard_type: appointed
     event: Unidentified "Employee 9" is appointed as an volunteer Expert a term not to exceed 2026-02-26
-    comment: In their qualifications, thety list being a Senior Associate, Data Engineer with a backgroun in AI, Airflow and
-      Genetic Algorithms. Also built a Manufacturing Execution System (MES) for home battery deployments
+    comment: In their qualifications, thety list being a Senior Associate, Data Engineer with a background in AI, Airflow
+      and Genetic Algorithms. Also built a Manufacturing Execution System (MES) for home battery deployments
     named_aliases:
     - SSA-9
     agency: SSA
@@ -1044,3 +1037,44 @@ aliases:
     - SSA-11
     source: https://www.washingtonpost.com/politics/2025/04/15/doge-social-security-data-judge/
     agency: SSA
+
+- id: CFPB-1
+  agency: CFPB
+  name: Gavin Kliger
+  evidence:
+  - A declaration from https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf outlines
+    access granted to CFPB staff
+  - The declaration names Jordan Wick, Chris Young, Nikhil Rajpal and Luke Farritor as well as 2 other CFPB staff not named
+    (because they are not deemed DOGE employees)
+  - In the declaration, Mr. Farritor used Entra ID to provide access to a member of the DOGE Team who is not a DOGE Employee
+    to the systems necessary to update the CFPB's public-facing website.
+  - Gavin Kliger is the only developer of those two
+  events:
+  - date: 2025-02-07
+    type: access_granted
+    access_type: admin
+    access_systems:
+    - Wagtail-CFPB
+    named_aliases:
+    - CFPB-1
+    event: Mr. Farritor used his Entra ID access to provide another member of the DOGE with access to the admin interface
+      for the CFPB's website
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    agency: CFPB
+  - date: 2025-02-07
+    type: disruption
+    event: The CFPB homepage is deleted and returns a 404 error
+    named_aliases:
+    - CFPB-1
+    source: https://www.forbes.com/sites/eriksherman/2025/02/09/consumer-financial-protection-bureau-adds-error-message-to-home-page/
+    agency: CFPB
+
+- id: CFPB-2
+  agency: CFPB
+  name: Jeremy Lewin
+  evidence:
+  - A declaration from https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf outlines
+    access granted to CFPB staff
+  - The declaration names Jordan Wick, Chris Young, Nikhil Rajpal and Luke Farritor as well as 2 other CFPB staff not named
+  - Based on reporting, Gavin Kliger and Jeremy Lewin were the other DOGE staff at the agency at the time of this action
+  - Gavin Kliger has already been unmasked as CFPB-1

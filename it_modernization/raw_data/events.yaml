@@ -1126,6 +1126,8 @@
   access_type: admin
   access_systems:
   - Wagtail-CFPB
+  named_aliases:
+  - CFPB-1
   event: Mr. Farritor used his Entra ID access to provide another member of the DOGE with access to the admin interface for the CFPB's website
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CFPB
@@ -1133,6 +1135,8 @@
 - date: 2025-02-07
   type: disruption
   event: The CFPB homepage is deleted and returns a 404 error
+  named_aliases:
+  - CFPB-1
   source: https://www.forbes.com/sites/eriksherman/2025/02/09/consumer-financial-protection-bureau-adds-error-message-to-home-page/
   agency: CFPB
 
@@ -1297,14 +1301,6 @@
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
 
 - date: 2025-02-10
-  type: official
-  event: Unidentified "Employee 2" signs the SSA Rules of Behavior for access to SSA networks and systems
-  named_aliases:
-  - SSA-2
-  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
-  agency: SSA
-
-- date: 2025-02-10
   type: report
   event: Incoming SSA head directs for Mark Steffensen to beonboarded to SSA as an attorney, according to the testimony of a whistleblower
   named:
@@ -1368,6 +1364,33 @@
   - Chris Young
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.67.0_1.pdf
   agency: CFPB
+
+- date: 2025-02-12
+  type: report
+  event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials to FOIA communications for
+  source: https://democracyforward.org/wp-content/uploads/2025/03/Compl.-DF-v.-OPM-OMB-RIF-plans.pdf
+  comment: FIXME add case_no link for 1:25-cv-00858
+  named:
+  - Charles Ezell
+  - Amanda Scales
+  - Anthony Armstrong
+  - Riccardo Biasini
+  - Brian Bjelde
+  - Noah Peters
+  - Greg Hogan
+  - Stephanie Holmes
+  - Christina Hanna
+  - Stephen Duarte
+  - Bryanne-Michelle Mlodzianowski
+  - Joanna Wischer
+  - Justin Monroe
+  - Jacob Altik
+  - Austin Raynor
+  - Edward Coristine
+  - Akash Bobba
+  - Gavin Kliger
+  - Nikhil Rajpal
+  agency: OPM
 
 - date: 2025-02-12
   type: report
@@ -1493,8 +1516,8 @@
   type: onboarded
   onboard_type: detailed
   detailed_from: OPM
-  comment: Assumptions made this is a detail from OPM based on this article reporting he came from OPM
-  event: Gavin Kliger arrives at the IRS to begin onboarding as a staffer there
+  detail_id: mou-20250219-opm-irs-gavin-kliger
+  event: Gavin Kliger arrives at the IRS to begin onboarding as a staffer there on a reimbursable detail from OPM
   source: https://www.wsj.com/politics/policy/doge-internal-revenue-service-9697cb99
   agency: IRS
 
@@ -1916,6 +1939,15 @@
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
   agency: SSA
 
+- date: 2025-02-19
+  type: official
+  detail_id: mou-20250219-opm-irs-gavin-kliger
+  event: Gavin Kliger's detail from OPM to IRS is executed
+  named:
+  - Gavin Kliger
+  source: https://www.taxnotes.com/research/federal/legislative-documents/congressional-tax-correspondence/treasury-official-sends-memo-doge-detail-crapo/7rl0x
+  agency: IRS
+
 - date: 2025-02-20
   type: access_granted
   access_type: admin
@@ -2119,7 +2151,7 @@
   type: onboarded
   onboard_type: appointed
   event: Unidentified "Employee 9" is appointed as an volunteer Expert a term not to exceed 2026-02-26
-  comment: In their qualifications, thety list being a Senior Associate, Data Engineer with a backgroun in AI, Airflow and Genetic Algorithms. Also built a Manufacturing Execution System (MES) for home battery deployments
+  comment: In their qualifications, thety list being a Senior Associate, Data Engineer with a background in AI, Airflow and Genetic Algorithms. Also built a Manufacturing Execution System (MES) for home battery deployments
   named_aliases:
   - SSA-9
   agency: SSA
