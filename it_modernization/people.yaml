@@ -1329,6 +1329,11 @@ people:
       type: report
       event: DOGE is reportedly planning to state a "hack-a-thon" in cooperation with Palantir to create a "mega API" to access
         IRS data
+    - date: 2025-04-17
+      agency: CFPB
+      type: report
+      event: According to sworn testimony by Alex Doe, the CFPB RIF team was forced to work for 36 hours straight and subjected
+        to verbal abuse by Gavin Kliger
 
   Jordan Wick:
     agencies:

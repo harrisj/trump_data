@@ -5984,3 +5984,43 @@ events:
   - Edward Coristine
   - Joe Gebbia
   agency: DOGE
+
+- date: 2025-04-17
+  type: disruption
+  event: CFPB conducts a massive Reduction in Force, eliminating 1483 positions and retaining only 207 people to perform its
+    duties. This is larger than the planned RIF in February that was blocked by Judge Amy Berman-Jackson
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.109.0_4.pdf
+  case_no: 1:25-cv-00381
+  agency: CFPB
+  case_info:
+    name: National Treasury Employees Union v. Russell Vought (D.D.C.)
+    description: National Treasury Employees Union, representing employees across 37 federal agencies and departments including
+      the Consumer Financial Protection Bureau ("CFPB"), challenged the Trump Administration's efforts to shut down the CFPB
+      and requested a temporary restraining order against the CFPB and Acting Director Russell Vought. A federal judge ordered
+      the Administration to stop deleting and removing records, terminating employees without cause, or disbursing funds except
+      for operating expenses, while the case proceeds.
+    case_no: 1:25-cv-00381
+    date_filed: 2025-02-09
+    link: https://www.courtlistener.com/docket/69624423/national-treasury-employees-union-v-vought/
+    agency: CFPB
+
+- date: 2025-04-17
+  type: report
+  event: According to sworn testimony by Alex Doe, the CFPB RIF team was forced to work for 36 hours straight and subjected
+    to verbal abuse by Gavin Kliger
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.111.0.pdf
+  case_no: 1:25-cv-00381
+  named:
+  - Gavin Kliger
+  agency: CFPB
+  case_info:
+    name: National Treasury Employees Union v. Russell Vought (D.D.C.)
+    description: National Treasury Employees Union, representing employees across 37 federal agencies and departments including
+      the Consumer Financial Protection Bureau ("CFPB"), challenged the Trump Administration's efforts to shut down the CFPB
+      and requested a temporary restraining order against the CFPB and Acting Director Russell Vought. A federal judge ordered
+      the Administration to stop deleting and removing records, terminating employees without cause, or disbursing funds except
+      for operating expenses, while the case proceeds.
+    case_no: 1:25-cv-00381
+    date_filed: 2025-02-09
+    link: https://www.courtlistener.com/docket/69624423/national-treasury-employees-union-v-vought/
+    agency: CFPB

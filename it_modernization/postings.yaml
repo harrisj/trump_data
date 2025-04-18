@@ -29,7 +29,8 @@ postings:
   first_date: 2025-02-06
   all_dates:
   - 2025-02-06
-  last_date: 2025-02-06
+  - 2025-04-17
+  last_date: 2025-04-17
 
 - agency_id: CFPB
   name: Chris Young
