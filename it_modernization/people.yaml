@@ -1159,8 +1159,10 @@ people:
     - Department of Government Efficiency
     - General Services Administration
     - Housing and Urban Development
+    - National Oceanic and Atmospheric Administration
     - Social Security Administration
     - U.S. African Development Foundation
+    - US Postal Service
     events:
     - date: 2025-01-20~
       agency: GSA
@@ -1270,8 +1272,10 @@ people:
     - Department of the Treasury
     - Federal Trade Commission
     - Internal Revenue Service
+    - National Institute of Health
     - Office of Personnel Management
     - US Agency for International Development
+    - Voice of America
     events:
     - date: 2025-01-27
       agency: USAID
@@ -1521,6 +1525,7 @@ people:
     agencies:
     - General Services Administration
     - Institute for Museum and Library Services
+    - National Endowment for the Humanities
     - U.S. African Development Foundation
     - US Institute of Peace
     events:
@@ -1867,6 +1872,7 @@ people:
     - Department of Government Efficiency
     - Executive Office of the President
     - Federal Communications Commission
+    - Inter-American Foundation
     - Office of Personnel Management
     - Social Security Administration
     - U.S. African Development Foundation
@@ -2821,6 +2827,37 @@ people:
       type: onboarded
       event: 4 SpaceX engineers were onboarded into the FAA under the Schedule A hiring authority for people with disabilities
 
+  Emily Bryant:
+    agencies:
+    - Department of Government Efficiency
+    - Federal Trade Commission
+    - General Services Administration
+    events:
+    - date: 2025-04-04
+      agency: FTC
+      type: report
+      event: Reports that two DOGE staffers have started work in the agency, looking at grants and contracts
+
+  Bryton Shang:
+    agencies:
+    - Department of the Interior
+    - National Oceanic and Atmospheric Administration
+    events:
+    - date: 2025-01-28
+      agency: DOI
+      type: disruption
+      event: Two DOGE staffers attempted to force water pumps to be turned on in a large reservoir in California for a photo
+        op
+
+  Katrine Trampe:
+    agencies:
+    - Department of the Interior
+    events:
+    - date: 2025-03-29
+      agency: DOI
+      type: access_granted
+      event: Two DOGE staffers are granted admin access to the FPPS payroll system at the Department of the Interior
+
   Elon Musk:
     agencies:
     - Central Intelligence Agency
@@ -2867,16 +2904,6 @@ people:
       agency: CIA
       type: report
       event: Elon Musk visits the CIA at the invitation of its director, John Ratcliffe
-
-  Emily Bryant:
-    agencies:
-    - Department of Government Efficiency
-    - Federal Trade Commission
-    events:
-    - date: 2025-04-04
-      agency: FTC
-      type: report
-      event: Reports that two DOGE staffers have started work in the agency, looking at grants and contracts
 
   Joshua Fox:
     agencies:
@@ -2999,16 +3026,6 @@ people:
       event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge Boardman issues a preliminary injunction
         against access to internal systems at OPM by DOGE staff, but still allows it for OPM leadership including Ezell, Scales
         and Hogan
-
-  Bryton Shang:
-    agencies:
-    - Department of the Interior
-    events:
-    - date: 2025-01-28
-      agency: DOI
-      type: disruption
-      event: Two DOGE staffers attempted to force water pumps to be turned on in a large reservoir in California for a photo
-        op
 
   Mark Steffensen:
     agencies:
@@ -3135,15 +3152,6 @@ people:
       agency: IMLS
       type: onboarded
       event: Keith Sonderling is sworn in as acting director of the IMLS
-
-  Katrine Trampe:
-    agencies:
-    - Department of the Interior
-    events:
-    - date: 2025-03-29
-      agency: DOI
-      type: access_granted
-      event: Two DOGE staffers are granted admin access to the FPPS payroll system at the Department of the Interior
 
   Gavin Hamrick:
     agencies:

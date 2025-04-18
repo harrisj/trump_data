@@ -2822,6 +2822,7 @@ GSA:
   - Justin Aimonetti
   - Akash Bobba
   - Ashley Boizelle
+  - Emily Bryant
   - Nate Cavanaugh
   - Edward Coristine
   - Steve Davis
@@ -2840,6 +2841,7 @@ GSA:
   - Riley Sennott
   - Ethan Shaotran
   - Thomas Shedd
+  - Alexander Simonpour
   events:
   - date: 2025-01-20
     type: onboarded
@@ -3530,6 +3532,7 @@ IAF:
   name: Inter-American Foundation
   id: IAF
   associated:
+  - Jacob Altik
   - Kenneth Jackson
   - Peter Marocco
   events:
@@ -3768,7 +3771,8 @@ NASA:
 NEH:
   name: National Endowment for the Humanities
   id: NEH
-  associated: []
+  associated:
+  - Nate Cavanaugh
   events:
   - date: 2025-03-12
     type: disruption
@@ -3899,6 +3903,8 @@ NOAA:
   parent_id: Commerce
   associated:
   - Nikhil Rajpal
+  - Bryton Shang
+  - Ethan Shaotran
   events:
   - date: 2025-02-04
     type: report
@@ -3931,6 +3937,7 @@ NIH:
   associated:
   - Luke Farritor
   - Joshua Hanley
+  - Gavin Kliger
   - Jeremy Lewin
   - Clark Minor
   - Rachel Riley
@@ -5982,6 +5989,7 @@ USPS:
   name: US Postal Service
   id: USPS
   associated:
+  - Ethan Shaotran
   - Alexander Simonpour
   events:
   - date: 2025-03-07
@@ -6070,5 +6078,14 @@ VA:
     - Payton Rehling
     - Jon Koval
     agency: VA
+  systems: {}
+  cases: {}
+
+VOA:
+  name: Voice of America
+  id: VOA
+  associated:
+  - Gavin Kliger
+  events: []
   systems: {}
   cases: {}

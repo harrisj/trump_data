@@ -182,7 +182,8 @@
             "USDS",
             "USIP",
             "USPS",
-            "VA"
+            "VA",
+            "VOA"
         ]
     },
     "system_ids": {

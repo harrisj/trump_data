@@ -21,7 +21,7 @@ def generate_agencies_mermaid():
     outfile = "agencies_chart.md"
 
     with open(outfile, 'w') as file:
-        file.write(f"# {agency['name']}\n\n")
+        file.write(f"# DOGE Staff by Agency\n\n")
 
         file.write('''```mermaid
 gantt

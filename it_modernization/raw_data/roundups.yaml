@@ -162,75 +162,86 @@
 # ProPublica
 - title: Elon Musk's Demolition Crew
   publisher: ProPublica
-  last_updated: 2025-03-14
+  last_updated: 2025-04-17
   source: https://projects.propublica.org/elon-musk-doge-tracker/
   people:
     Daniel Abrahamson: DOT
-    Justin Aimonetti: DOGE
+    Justin Aimonetti: [ DOGE, USIP, USADF ]
+    Jacob Altik: [ EOP, USADF, IAF, USIP ]
+    Anthony Armstrong: OPM
+    Jennifer Balajadia: EOP
+    Alexandra Beynon: [ EOP, Education ]
+    Riccardo Biasini: OPM
+    Brian Bjelde: OPM
+    Akash Bobba: [ OPM, SSA, Education ]
     Ashley Boizelle: [ DOGE, GSA ]
+    Emily Bryant: [ FTC, GSA ]
+    James Burnham: [ EOP, USIP ]
+    Nate Cavanaugh: [ GSA, USADF, USIP, NEH, IMLS ]
+    Sam Corcos: [ Treasury, IRS ]
+    Edward Coristine: [ OPM, CISA, State, DHS, FEMA, SBA ]
     Scott Coulter: [ NASA, SSA ]
+    Steve Davis: [ EOP, GSA ]
+    Stephen Duarte: OPM
+    Stephen Ehikian: GSA
+    Marko Elez: [ Treasury, SSA, CMS, HHS, DOL, DHS ]
+    Luke Farritor: [ HHS, SSA, Energy, State, CDC, CMS, NIH, USAID, CFPB ]
     Conor Fennessy: [ Education, HHS ]
+    Justin Fulcher: VA
     Mattieu Gamache-Asselin: HHS
     Joe Gebbia: OPM
     Brady Glantz: FAA
     Amy Gleason: [ DOGE, USDS ]
+    Antonio Gracias: SSA
     Joshua Hanley: [ DOGE, NIH ]
+    Christina Hanna: OPM
     Tyler Hassen: DOI
+    Greg Hogan: OPM
+    Nicole Hollander: GSA
+    Stephanie Holmes: [ EOP, DOI ]
     Erica Jehling: [ EPA, GSA ]
     Thomas Kiernan: FAA
-    Scott Langmack: HUD
-    Ted Malaska: FAA
-    Clark Minor: HHS
-    Michael Mirski: HUD
-    Aram Moghaddassi: [ Treasury, DOL ]
-    Sam Smeal: FAA
-    Ryan Wunderly: Treasury
-    Stephen Duarte: OPM
-    Stephen Ehikian: GSA
-    Justin Fulcher: VA
-    Christina Hanna: OPM
-    Greg Hogan: OPM
-    Jeremy Lewin: [ USAID, CFPB, State ]
-    Kathryn Armstrong Loving: EPA
-    Bryanne-Michelle Mlodzianowski: OPM
-    Brooks Morgan: Education
-    Noah Peters: [ OPM, EOP ]
-    Austin Raynor: [ OPM, EOP ]
-    Chris Young: [ EOP, CFPB ]
-    Jennifer Balajadia: EOP
-    Alexandra Beynon: EOP
-    Nicole Hollander: GSA
-    Kendall Lindemann: EOP
-    Adam Ramada: [ EOP, DOGE, Energy, GSA ]
-    Ryan Riedel: Energy
-    Kyle Schutt: GSA
-    Ethan Shaotran: GSA
-    Jordan Wick: EOP
-    Jacob Altik: EOP
-    James Burnham: EOP
+    Cole Killian: [ EPA, SSA, DOL ]
+    Gavin Kliger: [ USAID, OPM, CFPB, NIH, IRS, FTC, USDA, VOA ]
     Keenan Kmiec: EOP
-    Anthony Armstrong: OPM
-    Riccardo Biasini: OPM
-    Brian Bjelde: OPM
-    Akash Bobba: OPM
-    Nate Cavanaugh: GSA
-    Edward Coristine: [ OPM, SBA ]
-    Steve Davis: EOP
-    Marko Elez: Treasury
-    Luke Farritor: HHS
-    Stephanie Holmes: EOP
-    Cole Killian: EPA
-    Gavin Kliger: [ USAID, OPM ]
+    Jon Koval: [ SSA, DOGE ]
     Tom Krause: Treasury
-    Katie Miller: EOP
+    Scott Langmack: HUD
+    Sahil Lavingia: VA
+    Jeremy Lewin: [ USAID, CFPB, State, NIH, GSA ]
+    Kendall Lindemann: EOP
+    Kathryn Armstrong Loving: EPA
+    Ted Malaska: FAA
+    Katie Miller: [ EOP, DOGE ]
+    Clark Minor: [ HHS, NIH ]
+    Michael Mirski: HUD
+    Bryanne-Michelle Mlodzianowski: OPM
+    Aram Moghaddassi: [ Treasury, SSA, HHS, DOL ]
     Justin Monroe: FBI
-    Nikhil Rajpal: [ OPM, NOAA ]
-    Rachel Riley: HHS
+    Brooks Morgan: [ Education, FDIC ]
+    Noah Peters: [ OPM, EOP ]
+    Nikhil Rajpal: [ OPM, SSA, CFPB, NOAA ]
+    Adam Ramada: [ EOP, DOGE, Energy, DOL, Education, GSA ]
+    Austin Raynor: [ OPM, EOP ]
+    Payton Rehling: [ SSA, USCIS ]
+    Ryan Riedel: Energy
+    Rachel Riley: [ HHS, NIH ]
+    Christopher Roussos: VA
     Mike Russo: SSA
     Amanda Scales: OPM
-    Thomas Shedd: GSA
-    Brad Smith: EOP
-    Christopher Stanley: EOP
+    Kyle Schutt: [ GSA, CISA, HHS, DHS ]
+    Bryton Shang: NOAA
+    Ethan Shaotran: [ GSA, NOAA, SSA, USPS, USADF ]
+    Thomas Shedd: [ GSA, DOL ]
+    Alexander Simonpour: [ GSA, NASA, USPS ]
+    Sam Smeal: FAA
+    Brad Smith: [ EOP, HHS ]
+    Christopher Stanley: [ EOP, OPM, DOJ ]
+    Katrine Trampe: DOI
+    Cary Volpert: VA
+    Jordan Wick: [ EOP, CFPB, NLRB, DOL, Education ]
+    Ryan Wunderly: Treasury
+    Chris Young: [ EOP, CFPB, USADF, DHS ]
 
 # House Judiciary
 - title: FOIA request to DOGE from the House Judiciary Committee
