@@ -2614,7 +2614,7 @@ FAA:
     agency: FAA
   - date: 2025-02-17
     type: report
-    event: The SpaceX engineers are granted ethics waivers and designated as Special Government Employees, but must recuse from decisions affecting SpaceX
+    event: The four SpaceX engineers at FAA are granted ethics waivers and designated as Special Government Employees, but must recuse from decisions affecting SpaceX
     source: https://www.bloomberg.com/news/features/2025-03-05/after-elon-musk-lands-at-faa-his-starlink-business-stands-to-gain-business
     agency: FAA
   - date: 2025-02-18
@@ -3921,6 +3921,14 @@ NOAA:
     event: NOAA employees were ordered to grant Rajpal editor access to all NOAA Google sites on instructions of the acting commerce secretary, Jeremy Pelter, by the close of business.
     source: https://www.wired.com/story/doge-engineer-noaa-data-google-musk-climate-project-2025/
     agency: NOAA
+  - date: 2025-04-02
+    type: onboarded
+    onboard_type: appointed
+    event: NOAA announces that Bryton Shang a Senior Advisor to the NOAA Administrator, focusing on the "application of artificial intelligence (AI) to enhance NOAA's effectiveness and impact."
+    named:
+    - Bryton Shang
+    source: https://www.noaa.gov/our-people/leadership/bryton-shang
+    agency: NOAA
   systems:
     Google-NOAA:
       name: NOAA Google enterprise systems
@@ -4202,6 +4210,14 @@ OPM:
     named_aliases:
     - OPM-5
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+    agency: OPM
+  - date: 2025-01-20
+    type: onboarded
+    onboard_type: appointed
+    event: According to his financial disclosure forms, Riccardo Biasini is appointed as a Senior Advisor to the Director at the OPM
+    source: https://www.documentcloud.org/documents/25553896-biasini-riccardo-od-new-entrant-278-2025-2025-02-19/
+    named:
+    - Riccardo Biasini
     agency: OPM
   - date: 2025-01-23
     type: report
@@ -6002,6 +6018,15 @@ USPS:
     named:
     - Alexander Simonpour
     source: https://about.usps.com/who/legal/foia/documents/mou-alex-simonpour-executed-redacted.pdf
+  - date: 2025-03-12
+    type: onboarded
+    onboard_type: detailed
+    detailed_from: GSA
+    detail_id: mou-20250312-gsa-usps-ethan-shaotran
+    event: The USPS executes a MOU with GSA to detail Ethan Shaotran on an unpaid basis for projects there. His actual start date will depend on when the security clearance process completes
+    named:
+    - Ethan Shaotran
+    agency: USPS
   - date: 2025-03-13
     type: report
     event: Postmaster General Louis DeJoy sends a letter to Congress informing he has signed an agreement with GSA and DOGE to eliminate 10,000 jobs

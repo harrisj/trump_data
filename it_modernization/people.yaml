@@ -212,6 +212,11 @@ people:
     - Department of Government Efficiency
     - Office of Personnel Management
     events:
+    - date: 2025-01-20
+      agency: OPM
+      type: onboarded
+      event: According to his financial disclosure forms, Riccardo Biasini is appointed as a Senior Advisor to the Director
+        at the OPM
     - date: 2025-01-31
       agency: OPM
       type: disruption
@@ -1240,6 +1245,11 @@ people:
       event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
         four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies
         and offices (Employees 2, 3, 5, 7, 8, and 10)"'
+    - date: 2025-03-12
+      agency: USPS
+      type: onboarded
+      event: The USPS executes a MOU with GSA to detail Ethan Shaotran on an unpaid basis for projects there. His actual start
+        date will depend on when the security clearance process completes
     - date: 2025-03-13
       agency: SSA
       type: report
@@ -2848,6 +2858,11 @@ people:
       type: disruption
       event: Two DOGE staffers attempted to force water pumps to be turned on in a large reservoir in California for a photo
         op
+    - date: 2025-04-02
+      agency: NOAA
+      type: onboarded
+      event: NOAA announces that Bryton Shang a Senior Advisor to the NOAA Administrator, focusing on the "application of
+        artificial intelligence (AI) to enhance NOAA's effectiveness and impact."
 
   Katrine Trampe:
     agencies:

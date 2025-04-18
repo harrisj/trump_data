@@ -4,7 +4,7 @@ gantt
     todayMarker off
     dateFormat YYYY-MM-DD
     section Riccardo Biasini
-        OPM : 2025-01-31, 2025-04-17
+        OPM : 2025-01-20, 2025-04-17
     section Akash Bobba
         OPM : 2025-01-20, 2025-04-17
         GSA : 2025-02-02, 2025-04-17
@@ -100,6 +100,7 @@ gantt
         Education : 2025-02-03, 2025-04-17
         SSA : 2025-02-18, 2025-04-17
         USADF : 2025-02-21, 2025-04-17
+        USPS : 2025-03-12, 2025-04-17
     section Alexander Simonpour
         USPS : 2025-03-07, 2025-04-17
         NASA : 2025-03-14, 2025-04-17

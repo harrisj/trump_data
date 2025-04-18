@@ -18,7 +18,7 @@ gantt
         Greg Hogan : 2025-01-20, 2025-04-17
         Akash Bobba : 2025-01-20, 2025-04-17
         Charles Ezell : 2025-01-20, 2025-04-17
-        Riccardo Biasini : 2025-01-31, 2025-04-17
+        Riccardo Biasini : 2025-01-20, 2025-04-17
         Edward Coristine : 2025-02-02, 2025-04-17
         Gavin Kliger : 2025-02-02, 2025-04-17
         Scott Kupor : 2025-04-03, 2025-04-17
@@ -106,6 +106,7 @@ gantt
         Edward Coristine : 2025-02-05, 2025-04-17
     SECTION NOAA
         Nikhil Rajpal : 2025-02-05, 2025-04-17
+        Bryton Shang : 2025-04-02, 2025-04-17
     SECTION CFPB
         Nikhil Rajpal : 2025-02-06, 2025-03-21
         Gavin Kliger : 2025-02-06, 2025-04-17
@@ -179,6 +180,7 @@ gantt
         Luke Farritor : 2025-04-12, 2025-04-17
     SECTION USPS
         Alexander Simonpour : 2025-03-07, 2025-04-17
+        Ethan Shaotran : 2025-03-12, 2025-04-17
     SECTION NASA
         Scott Coulter : 2025-03-14, 2025-04-17
         Alexander Simonpour : 2025-03-14, 2025-04-17

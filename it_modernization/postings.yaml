@@ -1181,6 +1181,14 @@ postings:
   - 2025-02-05
   last_date: 2025-02-05
 
+- agency_id: NOAA
+  name: Bryton Shang
+  first_date: 2025-04-02
+  all_dates:
+  - 2025-04-02
+  last_date: 2025-04-02
+  onboard_date: 2025-04-02
+
 - agency_id: NSA
   name: Elon Musk
   first_date: 2025-03-12
@@ -1252,11 +1260,13 @@ postings:
 
 - agency_id: OPM
   name: Riccardo Biasini
-  first_date: 2025-01-31
+  first_date: 2025-01-20
   all_dates:
+  - 2025-01-20
   - 2025-01-31
   - 2025-02-25
   last_date: 2025-02-25
+  onboard_date: 2025-01-20
 
 - agency_id: OPM
   name: Edward Coristine
@@ -1704,6 +1714,14 @@ postings:
   - 2025-03-07
   last_date: 2025-03-07
   onboard_date: 2025-03-07
+
+- agency_id: USPS
+  name: Ethan Shaotran
+  first_date: 2025-03-12
+  all_dates:
+  - 2025-03-12
+  last_date: 2025-03-12
+  onboard_date: 2025-03-12
 
 - agency_id: VA
   name: Justin Fulcher

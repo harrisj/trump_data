@@ -165,6 +165,17 @@
   signed_date: 2025-03-12
   file: mou-20250312-gsa-usps-alex-simonpour.pdf
 
+- id: mou-20250312-gsa-usps-ethan-shaotran
+  from: GSA
+  to: USPS
+  named:
+  - Ethan Shaotran
+  source: https://about.usps.com/who/legal/foia/documents/mou-ethan-shaotran-executed-redacted.pdf
+  reimbursed: false
+  signed_date: 2025-03-12
+  start_date: 2025-03-12
+  file: mou-20250312-gsa-usps-ethan-shaotran.pdf
+
 - id: 20250206-doge-cfpb-no-record
   from: DOGE
   to: CFPB

@@ -251,6 +251,16 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
   agency: OPM
 
+- date: 2025-01-20
+  type: onboarded
+  onboard_type: appointed
+  event: According to his financial disclosure forms, Riccardo Biasini is appointed as a Senior Advisor to the Director at
+    the OPM
+  source: https://www.documentcloud.org/documents/25553896-biasini-riccardo-od-new-entrant-278-2025-2025-02-19/
+  named:
+  - Riccardo Biasini
+  agency: OPM
+
 - date: 2025-01-21
   type: report
   event: DOGE staff start screening all current USDS staff with short interviews, asking them their views of DOGE and who
@@ -1925,8 +1935,8 @@ events:
 
 - date: 2025-02-17
   type: report
-  event: The SpaceX engineers are granted ethics waivers and designated as Special Government Employees, but must recuse from
-    decisions affecting SpaceX
+  event: The four SpaceX engineers at FAA are granted ethics waivers and designated as Special Government Employees, but must
+    recuse from decisions affecting SpaceX
   source: https://www.bloomberg.com/news/features/2025-03-05/after-elon-musk-lands-at-faa-his-starlink-business-stands-to-gain-business
   agency: FAA
 
@@ -4121,6 +4131,28 @@ events:
     - SSA
     - DOGE
 
+- date: 2025-03-12
+  type: onboarded
+  onboard_type: detailed
+  detailed_from: GSA
+  detail_id: mou-20250312-gsa-usps-ethan-shaotran
+  event: The USPS executes a MOU with GSA to detail Ethan Shaotran on an unpaid basis for projects there. His actual start
+    date will depend on when the security clearance process completes
+  named:
+  - Ethan Shaotran
+  agency: USPS
+  detail_info:
+    id: mou-20250312-gsa-usps-ethan-shaotran
+    from: GSA
+    to: USPS
+    named:
+    - Ethan Shaotran
+    source: https://about.usps.com/who/legal/foia/documents/mou-ethan-shaotran-executed-redacted.pdf
+    reimbursed: false
+    signed_date: 2025-03-12
+    start_date: 2025-03-12
+    file: mou-20250312-gsa-usps-ethan-shaotran.pdf
+
 - date: 2025-03-13
   type: onboarded
   onboard_type: appointed
@@ -5565,6 +5597,16 @@ events:
   event: The head and deputy leader of the NSA are both relieved of their command
   source: https://www.nytimes.com/2025/04/03/us/politics/nsa-cyber-command-chief-fired.html
   agency: NSA
+
+- date: 2025-04-02
+  type: onboarded
+  onboard_type: appointed
+  event: NOAA announces that Bryton Shang a Senior Advisor to the NOAA Administrator, focusing on the "application of artificial
+    intelligence (AI) to enhance NOAA's effectiveness and impact."
+  named:
+  - Bryton Shang
+  source: https://www.noaa.gov/our-people/leadership/bryton-shang
+  agency: NOAA
 
 - date: 2025-04-02
   type: report
