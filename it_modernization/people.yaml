@@ -2,7 +2,7 @@
 meta:
   title: People
   version: 1.0.0
-  generated: 2025-04-17
+  generated: 2025-04-18
 
 people:
 
@@ -2199,6 +2199,10 @@ people:
       type: report
       event: Leland Dudek reaches out to Tiffany Flick, the Associate Director of Budget, Facilities and Security to inform
         her two DOGE staff would be onboarding. He was a mid-level employee at the time.
+    - date: 2025-02-10
+      agency: SSA
+      type: official
+      event: Unidentified "Employee 2" signs the SSA Rules of Behavior for access to SSA networks and systems
     - date: 2025-02-18
       agency: SSA
       type: onboarded

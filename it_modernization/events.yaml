@@ -2,7 +2,7 @@
 meta:
   title: Events
   version: 1.0.0
-  generated: 2025-04-17
+  generated: 2025-04-18
 
 events:
 
@@ -1498,9 +1498,13 @@ events:
   type: official
   event: Unidentified "Employee 2" signs the SSA Rules of Behavior for access to SSA networks and systems
   named_aliases:
-  - SSA-1
+  - SSA-2
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   agency: SSA
+  named:
+  - Scott Coulter
+  mapped_aliases:
+    SSA-2: Scott Coulter
 
 - date: 2025-02-10
   type: report

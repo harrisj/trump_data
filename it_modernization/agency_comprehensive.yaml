@@ -2094,6 +2094,23 @@ DOL:
       risk: PII of individuals reporting problems as well as confidential whistleblower information
       pia: https://www.dol.gov/agencies/oasam/centers-offices/ocio/privacy/osha/obis
       agency: DOL
+    NFJP:
+      name: National Farmworker Jobs Program
+      id: NFJP
+      link: https://www.dol.gov/agencies/eta/agriculture
+      description: FIXME
+      agency: DOL
+    FLAG:
+      name: Foreign Labor Application Gateway
+      id: FLAG
+      description: FIXME
+      agency: DOL
+    REO:
+      name: Reentry Employment Opportunities
+      id: REO
+      description: FIXME
+      link: https://www.dol.gov/agencies/eta/reentry
+      agency: DOL
   cases:
     1:25-cv-00339:
       name: AFL-CIO v. Dep't of Labor (D.D.C.)
@@ -4731,7 +4748,7 @@ SSA:
     type: official
     event: Unidentified "Employee 2" signs the SSA Rules of Behavior for access to SSA networks and systems
     named_aliases:
-    - SSA-1
+    - SSA-2
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
     agency: SSA
   - date: 2025-02-10

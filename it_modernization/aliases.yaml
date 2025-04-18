@@ -2,7 +2,7 @@
 meta:
   title: Events
   version: 1.0.0
-  generated: 2025-04-17
+  generated: 2025-04-18
 
 aliases:
 
@@ -305,13 +305,6 @@ aliases:
     - SSA-1
     agency: SSA
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
-  - date: 2025-02-10
-    type: official
-    event: Unidentified "Employee 2" signs the SSA Rules of Behavior for access to SSA networks and systems
-    named_aliases:
-    - SSA-1
-    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
-    agency: SSA
   - date: 2025-02-13
     type: onboarded
     event: According to a sworn declaration by a Deputy Commissioner at SSA, an unindentified DOGE staffer (Employee 1) is
@@ -365,6 +358,13 @@ aliases:
   - Scott Coulter is identified at SSA on 2025-03-13
   - Signed SF-61 as CIO on 2025-03-24
   events:
+  - date: 2025-02-10
+    type: official
+    event: Unidentified "Employee 2" signs the SSA Rules of Behavior for access to SSA networks and systems
+    named_aliases:
+    - SSA-2
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    agency: SSA
   - date: 2025-02-18
     type: onboarded
     onboard_type: detailed

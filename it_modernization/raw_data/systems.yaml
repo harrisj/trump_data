@@ -417,3 +417,20 @@
   id: NxGen
   description: FIXME
   agency: NLRB
+
+- name: National Farmworker Jobs Program
+  id: NFJP
+  link: https://www.dol.gov/agencies/eta/agriculture
+  description: FIXME
+  agency: DOL
+
+- name: Foreign Labor Application Gateway
+  id: FLAG
+  description: FIXME
+  agency: DOL
+
+- name: Reentry Employment Opportunities
+  id: REO
+  description: FIXME
+  link: https://www.dol.gov/agencies/eta/reentry
+  agency: DOL
