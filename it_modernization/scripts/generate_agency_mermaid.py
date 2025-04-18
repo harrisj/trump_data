@@ -44,7 +44,7 @@ gantt
                 if 'offboard_date' in posting:
                     end = posting['offboard_date']
                 else:
-                    end = date.today()
+                    end = posting['doge_agency_last']
 
                 file.write(f"        {posting['name']} : {start}, {end}\n")
         file.write("```")

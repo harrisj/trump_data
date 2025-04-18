@@ -7,11 +7,12 @@ from datetime import date
 from util import read_processed_events, as_list, dump_generated_file
 
 FILE_VERSION = "1.0.0"
-SCHEMA_PATH = "schemas/postings-file.json"
+SCHEMA_PATH = "schemas/generated-postings-file.json"
 
 def generate_postings_yaml():
     events_yaml = read_processed_events()
 
+    agency_dates = {}
     postings = {}
     for event in events_yaml:
         if event['type'] == 'legal' or event['type'] == 'interagency':
@@ -22,6 +23,9 @@ def generate_postings_yaml():
                 key = f"{agency}:{name}"
                 date = event["date"]
 
+                if agency not in agency_dates:
+                    agency_dates[agency] = {"doge_agency_first": date, "doge_agency_last": date}
+
                 if key not in postings:
                     postings[key] = {"agency_id": agency, "name": name, "first_date": date, "all_dates": []}
 
@@ -30,10 +34,21 @@ def generate_postings_yaml():
                 if date not in posting["all_dates"]:
                     posting["all_dates"].append(date)
 
+                if date < agency_dates[agency]["doge_agency_first"]:
+                    agency_dates[agency]["doge_agency_first"] = date
+
+                if date > agency_dates[agency]["doge_agency_last"]:
+                    agency_dates[agency]["doge_agency_last"] = date
+
                 if event["type"] == "onboarded":
                     posting["onboard_date"] = date
                 elif event["type"] == "offboarded":
                     posting["offboard_date"] = date
+
+    for p in postings.values():
+        agency_id = p["agency_id"]
+        p["doge_agency_first"] = agency_dates[agency_id]["doge_agency_first"]
+        p["doge_agency_last"] = agency_dates[agency_id]["doge_agency_last"]
 
     return sorted(postings.values(), key=lambda x: (x['agency_id'], x['first_date']))
 

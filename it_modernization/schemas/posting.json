@@ -36,12 +36,22 @@
             "items": {
                 "$ref": "valid_names.json#fuzzy_date"
             }
+        },
+        "doge_agency_first": {
+            "description": "The first date DOGE was reported at the agency",
+            "$ref": "valid_names.json#fuzzy_date"
+        },
+        "doge_agency_last": {
+            "description": "The most recent date DOGE was reported at the agency",
+            "$ref": "valid_names.json#fuzzy_date"
         }
     },
     "required": [
         "agency_id",
         "name",
         "first_date",
-        "last_date"
+        "last_date",
+        "doge_agency_first",
+        "doge_agency_last"
     ]
 }

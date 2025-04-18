@@ -1,0 +1,15 @@
+{
+    "type": "object",
+    "properties": {
+        "meta": {
+            "$ref": "generated-metadata.json"
+        },
+        "postings": {
+            "type": "array",
+            "items": {
+                "$ref": "posting.json"
+            }
+        }
+    },
+    "required": ["postings", "meta"]
+}

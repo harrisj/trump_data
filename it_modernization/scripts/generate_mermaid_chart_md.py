@@ -1,5 +1,6 @@
 from datetime import date
-from util import read_processed_events, sorted_by_last_name, as_list
+from util import read_postings, sorted_by_last_name, as_list
+from edtf import parse_edtf
 
 NAMES_OF_INTEREST = ['Akash Bobba', 'Edward Coristine', 'Riccardo Biasini', 'Adam Ramada', 'Scott Langmack', 'Jeremy Lewin', 'Justin Fulcher', 'Michael Mirski', 'Conor Fennessy', 
                      'Marko Elez', 'Ryan Wunderly', 'Christopher Stanley', 'Gavin Kliger', 'Ethan Shaotran', 'Jordan Wick', 'Aram Moghaddassi', 'Cole Killian',
@@ -7,33 +8,34 @@ NAMES_OF_INTEREST = ['Akash Bobba', 'Edward Coristine', 'Riccardo Biasini', 'Ada
                      'Christopher Roussos', 'Sahil Lavingia', 'Alexander Simonpour', 'Riley Sennott']
 
 def generate_mermaid_chart():
-    events = read_processed_events()
+    postings = read_postings()
 
     people = {}
-    for event in events:
-        if 'named' in event:
-            for name in event['named']:
-                if name not in NAMES_OF_INTEREST:
-                    continue
+    for posting in postings:
+        name = posting['name']
+        
+        if name not in NAMES_OF_INTEREST:
+            continue
 
-                agency = event['agency']
-                if not isinstance(agency, str) or agency == 'DOGE':
-                    continue
+        agency = posting['agency_id']
+        if agency == 'DOGE':
+            continue
 
-                if name not in people:
-                    people[name] = {}
+        if name not in people:
+            people[name] = {}
 
-                if event['type'] == 'offboarded':
-                    people[name][agency]['end'] = str(event['date'])
-                elif agency not in people[name]:
-                    sdate = str(event['date']).strip('~')
-                    if sdate < '2025-01-20':
-                        start = '2025-01-20'
-                    else:
-                        start = sdate
+        if posting['first_date'] < parse_edtf('2025-01-20'):
+            start = '2025-01-20'
+        else:
+            start = str(posting['first_date']).strip('~')
 
-                    people[name][agency] = {'agency': agency, 'start': start}
+        if 'offboard_date' in posting:
+            end = posting['offboard_date']
+        else:
+            end = posting['doge_agency_last']
 
+        people[name][agency] = {'agency': agency, 'start': start, 'end': end}
+    
     names = sorted_by_last_name(people.keys())
 
     out = '''```mermaid
@@ -48,12 +50,7 @@ gantt
         
         postings = sorted(people[name].values(), key=lambda x: x['start'])
         for posting in postings:
-            if 'end' in posting:
-                end = posting['end']
-            else:
-                end = date.today()
-
-            out += f"        {posting['agency']} : {posting['start']}, {end}\n"
+            out += f"        {posting['agency']} : {posting['start']}, {posting['end']}\n"
 
     out += "```\n"
     return out
