@@ -22,6 +22,10 @@
             "description": "A link to an overview of the agency",
             "type": "string",
             "format": "uri"
+        },
+        "doge_base": {
+            "description": "Is this an agency where DOGE is maintaining a permanent presence?",
+            "type": "boolean"
         }
     },
     "required": [

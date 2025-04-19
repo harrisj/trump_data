@@ -2,6 +2,7 @@ CDC:
   name: Centers for Disease Control and Prevention
   id: CDC
   parent_id: HHS
+  doge_base: true
   associated:
   - Luke Farritor
   events:
@@ -103,6 +104,7 @@ CMS:
   name: Centers for Medicare and Medicaid Services
   id: CMS
   parent_id: HHS
+  doge_base: true
   associated:
   - Edward Coristine
   - Marko Elez
@@ -282,6 +284,7 @@ CIA:
 Commerce:
   name: Commerce Department
   id: Commerce
+  doge_base: true
   associated:
   - Michael Grimes
   - Gavin Kliger
@@ -329,6 +332,7 @@ Commerce:
 CFPB:
   name: Consumer Financial Protection Bureau
   id: CFPB
+  doge_base: true
   associated:
   - Luke Farritor
   - Gavin Kliger
@@ -611,6 +615,7 @@ CISA:
   name: Cybersecurity and Infrastructure Security Agency
   id: CISA
   parent_id: DHS
+  doge_base: true
   associated:
   - Edward Coristine
   - Kyle Schutt
@@ -700,6 +705,7 @@ USDA:
 DOD:
   name: Department of Defense
   id: DOD
+  doge_base: true
   associated:
   - Luke Farritor
   - Justin Fulcher
@@ -788,6 +794,7 @@ DOD:
 DOI:
   name: Department of the Interior
   id: DOI
+  doge_base: true
   associated:
   - Luke Farritor
   - Tyler Hassen
@@ -945,6 +952,7 @@ DOGE:
   name: Department of Government Efficiency
   id: DOGE
   parent_id: EOP
+  doge_base: true
   associated:
   - Daniel Abrahamson
   - Justin Aimonetti
@@ -1520,6 +1528,7 @@ DOGE:
 DHS:
   name: Department of Homeland Security
   id: DHS
+  doge_base: true
   associated:
   - James Burnham
   - Edward Coristine
@@ -1604,6 +1613,7 @@ DHS:
 DOJ:
   name: Department of Justice
   id: DOJ
+  doge_base: true
   associated:
   - Christopher Stanley
   events:
@@ -1630,6 +1640,7 @@ DOJ:
 Education:
   name: Department of Education
   id: Education
+  doge_base: true
   associated:
   - Jennifer Balajadia
   - Alexandra Beynon
@@ -1963,6 +1974,7 @@ Education:
 Energy:
   name: Department of Energy
   id: Energy
+  doge_base: true
   associated:
   - Luke Farritor
   - Adam Ramada
@@ -2032,6 +2044,7 @@ Energy:
 DOL:
   name: Department of Labor
   id: DOL
+  doge_base: true
   associated:
   - Sam Beyda
   - Miles Collins
@@ -2235,6 +2248,7 @@ DOL:
 Treasury:
   name: Department of the Treasury
   id: Treasury
+  doge_base: true
   associated:
   - Baris Akis
   - Sam Corcos
@@ -2617,6 +2631,7 @@ Treasury:
 DOT:
   name: Department of Transformation
   id: DOT
+  doge_base: true
   associated:
   - Daniel Abrahamson
   events:
@@ -2631,6 +2646,7 @@ DOT:
 EPA:
   name: Environmental Protection Agency
   id: EPA
+  doge_base: true
   associated:
   - Erica Jehling
   - Cole Killian
@@ -2699,6 +2715,7 @@ EPA:
 EOP:
   name: Executive Office of the President
   id: EOP
+  doge_base: true
   associated:
   - Justin Aimonetti
   - Jacob Altik
@@ -2790,6 +2807,7 @@ FBI:
   name: Federal Bureau of Investigation
   id: FBI
   parent_id: DOJ
+  doge_base: true
   associated:
   - Justin Monroe
   events: []
@@ -2800,6 +2818,7 @@ FEMA:
   name: Federal Emergency Management Agency
   id: FEMA
   parent_id: DHS
+  doge_base: true
   associated:
   - James Burnham
   - Edward Coristine
@@ -2879,6 +2898,7 @@ FHFA:
 FCC:
   name: Federal Communications Commission
   id: FCC
+  doge_base: true
   associated:
   - Jacob Altik
   - Tarak Makecha
@@ -2971,6 +2991,7 @@ FDA:
 GSA:
   name: General Services Administration
   id: GSA
+  doge_base: true
   associated:
   - Justin Aimonetti
   - Akash Bobba
@@ -3238,6 +3259,7 @@ GSA:
 HHS:
   name: Health and Human Services
   id: HHS
+  doge_base: true
   associated:
   - Edward Coristine
   - Marko Elez
@@ -3540,6 +3562,7 @@ HHS:
 HUD:
   name: Housing and Urban Development
   id: HUD
+  doge_base: true
   associated:
   - Scott Langmack
   - Michael Mirski
@@ -3986,6 +4009,7 @@ IRS:
 NASA:
   name: National Aeronautics and Space Administration
   id: NASA
+  doge_base: true
   associated:
   - Scott Coulter
   - Jared Isaacman
@@ -4025,6 +4049,7 @@ NASA:
 NEH:
   name: National Endowment for the Humanities
   id: NEH
+  doge_base: true
   associated:
   - Nate Cavanaugh
   events:
@@ -4160,6 +4185,7 @@ NOAA:
   name: National Oceanic and Atmospheric Administration
   id: NOAA
   parent_id: Commerce
+  doge_base: true
   associated:
   - Nikhil Rajpal
   - Bryton Shang
@@ -4201,6 +4227,7 @@ NIH:
   name: National Institute of Health
   id: NIH
   parent_id: HHS
+  doge_base: true
   associated:
   - Luke Farritor
   - Joshua Hanley
@@ -4359,6 +4386,7 @@ ODNI:
 OPM:
   name: Office of Personnel Management
   id: OPM
+  doge_base: true
   associated:
   - Baris Akis
   - Jacob Altik
@@ -4912,6 +4940,7 @@ SEC:
 SBA:
   name: Small Business Administration
   id: SBA
+  doge_base: true
   associated:
   - Edward Coristine
   events:
@@ -4936,6 +4965,7 @@ SBA:
 SSA:
   name: Social Security Administration
   id: SSA
+  doge_base: true
   associated:
   - Jacob Altik
   - Akash Bobba
@@ -5712,6 +5742,7 @@ SSA:
 State:
   name: State Department
   id: State
+  doge_base: true
   associated:
   - Edward Coristine
   - Luke Farritor
@@ -6315,6 +6346,7 @@ USDS:
   name: US Digital Service
   id: USDS
   parent_id: EOP
+  doge_base: true
   associated:
   - Edward Coristine
   - Marko Elez
@@ -6329,6 +6361,7 @@ USDS:
 USPS:
   name: US Postal Service
   id: USPS
+  doge_base: true
   associated:
   - Ethan Shaotran
   - Alexander Simonpour
@@ -6368,6 +6401,7 @@ USPS:
 VA:
   name: Veterans Administration
   id: VA
+  doge_base: true
   associated:
   - Justin Fulcher
   - Jon Koval

@@ -3,8 +3,8 @@ from yaml import Loader, Dumper
 import re
 from typing import Union, List, Any
 from edtf import parse_edtf
-from datetime import date
-from util import read_processed_events, as_list, dump_generated_file
+from datetime import date, timedelta
+from util import read_processed_events, read_raw_agencies_dict, as_list, dump_generated_file
 
 FILE_VERSION = "1.0.0"
 SCHEMA_PATH = "schemas/generated-postings-file.json"
@@ -37,6 +37,7 @@ def add_posting(postings, agency_dates, agency_id, name, event):
 
 def generate_postings_yaml():
     events_yaml = read_processed_events()
+    agency_dict = read_raw_agencies_dict()
 
     agency_dates = {}
     postings = {}
@@ -57,7 +58,16 @@ def generate_postings_yaml():
     for p in postings.values():
         agency_id = p["agency_id"]
         p["doge_agency_first"] = agency_dates[agency_id]["doge_agency_first"]
-        p["doge_agency_last"] = agency_dates[agency_id]["doge_agency_last"]
+
+        agency = agency_dict[agency_id]
+        doge_base = agency.get("doge_base", False)
+        if doge_base:
+            # Assume DOGE continues to have a presence even if not reported
+            today = date.today()
+            end_of_week = today + timedelta(days=(6 - today.weekday()))
+            p["doge_agency_last"] = end_of_week
+        else:
+            p["doge_agency_last"] = agency_dates[agency_id]["doge_agency_last"]
 
     return sorted(postings.values(), key=lambda x: (x['agency_id'], x['first_date']))
 

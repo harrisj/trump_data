@@ -2,19 +2,23 @@
 - name: Centers for Disease Control and Prevention
   id: CDC
   parent_id: HHS
+  doge_base: true
 
 - name: Centers for Medicare and Medicaid Services
   id: CMS
   parent_id: HHS
+  doge_base: true
 
 - name: Central Intelligence Agency
   id: CIA
 
 - name: Commerce Department
   id: Commerce
+  doge_base: true
 
 - name: Consumer Financial Protection Bureau
   id: CFPB
+  doge_base: true
 
 - name: Census Bureau
   id: Census
@@ -27,46 +31,59 @@
 - name: Cybersecurity and Infrastructure Security Agency
   id: CISA
   parent_id: DHS
+  doge_base: true
 
 - name: Department of Agriculture
   id: USDA
 
 - name: Department of Defense
   id: DOD
+  doge_base: true
 
 - name: Department of the Interior
   id: DOI
+  doge_base: true
 
 - name: Department of Government Efficiency
   id: DOGE
   parent_id: EOP
+  doge_base: true
 
 - name: Department of Homeland Security
   id: DHS
+  doge_base: true
 
 - name: Department of Justice
   id: DOJ
+  doge_base: true
 
 - name: Department of Education
   id: Education
+  doge_base: true
 
 - name: Department of Energy
   id: Energy
+  doge_base: true
 
 - name: Department of Labor
   id: DOL
+  doge_base: true
 
 - name: Department of the Treasury
   id: Treasury
+  doge_base: true
 
 - name: Department of Transformation
   id: DOT
+  doge_base: true
 
 - name: Environmental Protection Agency
   id: EPA
+  doge_base: true
 
 - name: Executive Office of the President
   id: EOP
+  doge_base: true
 
 - name: Federal Aviation Administration
   id: FAA
@@ -75,16 +92,19 @@
 - name: Federal Bureau of Investigation
   id: FBI
   parent_id: DOJ
+  doge_base: true
 
 - name: Federal Emergency Management Agency
   id: FEMA
   parent_id: DHS
+  doge_base: true
 
 - name: Federal Housing Finance Agency
   id: FHFA
 
 - name: Federal Communications Commission
   id: FCC
+  doge_base: true
 
 - name: Federal Deposit Insurance Commission
   id: FDIC
@@ -98,12 +118,15 @@
 
 - name: General Services Administration
   id: GSA
+  doge_base: true
 
 - name: Health and Human Services
   id: HHS
+  doge_base: true
 
 - name: Housing and Urban Development
   id: HUD
+  doge_base: true
 
 - name: Immigration and Customs Enforcement
   id: ICE
@@ -121,9 +144,11 @@
 
 - name: National Aeronautics and Space Administration
   id: NASA
+  doge_base: true
 
 - name: National Endowment for the Humanities
   id: NEH
+  doge_base: true
 
 - name: National Labor Relations Board
   id: NLRB
@@ -131,10 +156,12 @@
 - name: National Oceanic and Atmospheric Administration
   id: NOAA
   parent_id: Commerce
+  doge_base: true
 
 - name: National Institute of Health
   id: NIH
   parent_id: HHS
+  doge_base: true
 
 - name: National Institute of Standards and Technology
   id: NIST
@@ -151,6 +178,7 @@
 
 - name: Office of Personnel Management
   id: OPM
+  doge_base: true
 
 - name: Peace Corps
   id: Peace
@@ -160,12 +188,15 @@
 
 - name: Small Business Administration
   id: SBA
+  doge_base: true
 
 - name: Social Security Administration
   id: SSA
+  doge_base: true
 
 - name: State Department
   id: State
+  doge_base: true
 
 - name: U.S. African Development Foundation
   id: USADF
@@ -183,12 +214,15 @@
 - name: US Digital Service
   id: USDS
   parent_id: EOP
+  doge_base: true
 
 - name: US Postal Service
   id: USPS
+  doge_base: true
 
 - name: Veterans Administration
   id: VA
+  doge_base: true
 
 - name: Voice of America
   id: VOA
