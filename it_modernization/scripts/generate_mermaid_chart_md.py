@@ -14,7 +14,7 @@ def generate_mermaid_chart():
     for posting in postings:
         name = posting['name']
         
-        if name not in NAMES_OF_INTEREST:
+        if name == "Elon Musk": # not in NAMES_OF_INTEREST:
             continue
 
         agency = posting['agency_id']
