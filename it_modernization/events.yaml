@@ -1778,6 +1778,15 @@ events:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     file: mou-20250212-gsa-education-ed-3.pdf
 
+- date: 2025-02-12
+  type: onboarded
+  onboard_type: appointed
+  named:
+  - Riley Sennott
+  event: In a self-reported piece, Riley Sennott's father reports that he started at GSA nine days after 2025-02-03
+  source: https://www.cjr.org/opinion/doge-journalism-ethics-father-son.php
+  agency: GSA
+
 - date: 2025-02-13
   type: disruption
   event: Jordan Wick demands for mass termination notices to be sent to CFPB employees by February 14

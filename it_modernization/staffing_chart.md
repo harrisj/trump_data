@@ -224,6 +224,7 @@ gantt
         HHS : 2025-03-14, 2025-04-20
         USCIS : 2025-03-14, 2025-03-28
     section Riley Sennott
+        GSA : 2025-02-12, 2025-04-20
         NASA : 2025-03-14, 2025-04-20
     section Bryton Shang
         DOI : 2025-01-28, 2025-04-20

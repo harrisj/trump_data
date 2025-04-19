@@ -2940,6 +2940,10 @@ people:
       type: report
       event: The public calendar of Riley Sennott mentions a 30-minute "SGE Ethics Discussion" meeting with 2 GSA addresses
         and other DOGE staffers
+    - date: 2025-02-12
+      agency: GSA
+      type: onboarded
+      event: In a self-reported piece, Riley Sennott's father reports that he started at GSA nine days after 2025-02-03
     - date: 2025-03-14
       agency: NASA
       type: report

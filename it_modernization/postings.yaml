@@ -1200,6 +1200,16 @@ postings:
   doge_agency_last: 2025-04-20
 
 - agency_id: GSA
+  name: Riley Sennott
+  first_date: 2025-02-12
+  all_dates:
+  - 2025-02-12
+  last_date: 2025-02-12
+  onboard_date: 2025-02-12
+  doge_agency_first: 2025-01-20
+  doge_agency_last: 2025-04-20
+
+- agency_id: GSA
   name: Nate Cavanaugh
   first_date: 2025-02-18~
   all_dates:

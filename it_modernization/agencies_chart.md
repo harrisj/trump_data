@@ -43,6 +43,7 @@ gantt
         Thomas Shedd : 2025-01-24, 2025-04-20
         Steve Davis : 2025-01-30, 2025-04-20
         Akash Bobba : 2025-02-02, 2025-04-20
+        Riley Sennott : 2025-02-12, 2025-04-20
         Nate Cavanaugh : 2025-02-18, 2025-04-20
         Kyle Schutt : 2025-03-04, 2025-04-20
         Derek Geissler : 2025-03-04, 2025-04-20

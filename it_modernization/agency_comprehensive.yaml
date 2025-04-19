@@ -3130,6 +3130,14 @@ GSA:
     event: Dozens of probationary workers within the Technology Transformation Service (TTS) are fired, with many of the cuts focused on the US Digital Corps and Presidential Innovation Fellows programs
     source: https://www.nextgov.com/people/2025/02/gsa-cut-least-100-employees-feds-inside-agency-say/402975/
     agency: GSA
+  - date: 2025-02-12
+    type: onboarded
+    onboard_type: appointed
+    named:
+    - Riley Sennott
+    event: In a self-reported piece, Riley Sennott's father reports that he started at GSA nine days after 2025-02-03
+    source: https://www.cjr.org/opinion/doge-journalism-ethics-father-son.php
+    agency: GSA
   - date: 2025-02-18
     type: disruption
     event: A GSA employee resigned rather than give unrestricted admin access of Notify.gov to Thomas Shedd
