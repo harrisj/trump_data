@@ -792,7 +792,6 @@ DOI:
   - Luke Farritor
   - Tyler Hassen
   - Stephanie Holmes
-  - Gavin Kliger
   - Bryton Shang
   - Katrine Trampe
   events:
@@ -862,12 +861,33 @@ DOI:
     agency: DOI
   - date: 2025-03-28
     type: interagency
+    interagency_doge_reps:
+      DOI:
+      - Katrine Trampe
+      IRS:
+      - Gavin Kliger
     event: Julie Bednar, a senior advisor in human resources at DOI, is pulled into a call with Katrine Trampe and Gavin Kliger calling from IRS who asked to speak to the system owner for FPPS directly
     source: https://peer.org/wp-content/uploads/2025/04/4_15_25_Report-of-the-Investigation.pdf
-    named:
-    - Katrine Trampe
-    - Gavin Kliger
     agency: DOI
+  - date: 2025-03-28
+    type: interagency
+    event: Multiple DOGE staff appear in an interview on Fox News with Brett Baier
+    source: https://singjupost.com/transcript-of-elon-musk-doge-teams-interview-by-bret-baier-of-fox-news/
+    interagency_doge_reps:
+      DOGE:
+      - Elon Musk
+      - Steve Davis
+      OPM:
+      - Joe Gebbia
+      - Anthony Armstrong
+      SSA:
+      - Aram Moghaddassi
+      HHS:
+      - Brad Smith
+      Treasury:
+      - Tom Krause
+      DOI:
+      - Tyler Hassen
   - date: 2025-03-29
     event: Two DOGE staffers are granted admin access to the FPPS payroll system at the Department of the Interior
     type: access_granted
@@ -1343,6 +1363,25 @@ DOGE:
     - Brad Smith
     source: https://www.nbcnews.com/politics/doge/elon-musks-doge-tries-put-new-faces-reclusive-federal-office-rcna198491
     agency: DOGE
+  - date: 2025-03-28
+    type: interagency
+    event: Multiple DOGE staff appear in an interview on Fox News with Brett Baier
+    source: https://singjupost.com/transcript-of-elon-musk-doge-teams-interview-by-bret-baier-of-fox-news/
+    interagency_doge_reps:
+      DOGE:
+      - Elon Musk
+      - Steve Davis
+      OPM:
+      - Joe Gebbia
+      - Anthony Armstrong
+      SSA:
+      - Aram Moghaddassi
+      HHS:
+      - Brad Smith
+      Treasury:
+      - Tom Krause
+      DOI:
+      - Tyler Hassen
   - date: 2025-04-16
     type: report
     event: Three DOGE staffers are reported to work with staff from DHS, the State Department and USCIS on implementing an application process for a $5 Million "Gold Card" visa
@@ -1485,7 +1524,6 @@ DHS:
   - James Burnham
   - Edward Coristine
   - Steve Davis
-  - Leland Dudek
   - Marko Elez
   - Antoine McCord
   - Kyle Schutt
@@ -1548,16 +1586,6 @@ DHS:
     case_no: 1:25-cv-00677
     agency:
     - Treasury
-    - IRS
-    - DHS
-    - ICE
-  - date: 2025-04-07
-    type: interagency
-    event: After some qualms about its legality, Leland Dudek signs two memos authorizing sharing data that would allow DHS and ICE to locate immigrants
-    source: https://www.washingtonpost.com/politics/2025/04/12/trump-immigrants-dead-social-security/
-    named:
-    - Leland Dudek
-    agency:
     - IRS
     - DHS
     - ICE
@@ -2445,6 +2473,25 @@ Treasury:
     event: President Trump issues an executive order mandating that all payments flow through Treasury that agencies must modify SORNs to share data with Treasury as "routine use"
     source: https://www.whitehouse.gov/presidential-actions/2025/03/protecting-americas-bank-account-against-fraud-waste-and-abuse/
     agency: Treasury
+  - date: 2025-03-28
+    type: interagency
+    event: Multiple DOGE staff appear in an interview on Fox News with Brett Baier
+    source: https://singjupost.com/transcript-of-elon-musk-doge-teams-interview-by-bret-baier-of-fox-news/
+    interagency_doge_reps:
+      DOGE:
+      - Elon Musk
+      - Steve Davis
+      OPM:
+      - Joe Gebbia
+      - Anthony Armstrong
+      SSA:
+      - Aram Moghaddassi
+      HHS:
+      - Brad Smith
+      Treasury:
+      - Tom Krause
+      DOI:
+      - Tyler Hassen
   - date: 2025-04-07
     type: legal
     event: In a 2-1 vote, the 4th U.S. Circuit Court of Appeals lifted a stay against DOGE data access at the Treasury, OPM and Department of Education imposed in the case American Federation of Teachers v. Bessent (D. Maryland 2025)
@@ -2977,6 +3024,14 @@ GSA:
     - Edward Coristine
     - Ethan Shaotran
     source: https://www.wired.com/story/elon-musk-lackeys-general-services-administration/
+  - date: 2025-01-20~
+    type: onboarded
+    onboard_type: appointed
+    event: Stephen Ehikian announces that Frank Schuler will be a special advisor at the GSA
+    named:
+    - Frank Schuler
+    source: https://federalnewsnetwork.com/people/2025/01/gsas-new-leadership-mostly-comes-from-tech-finance-sectors/
+    agency: GSA
   - date: 2025-01-24
     type: onboarded
     onboard_type: hired
@@ -3049,6 +3104,21 @@ GSA:
     - Thomas Shedd
     source: https://www.404media.co/musk-ally-demands-admin-access-to-system-that-lets-government-text-the-public/
     agency: GSA
+  - date: 2025-02-18~
+    type: report
+    event: ProPublica reports that Frank Schuler appeared in the GSA directory
+    named:
+    - Frank Schuler
+    source: https://www.propublica.org/article/frank-schuler-gsa-doge-syndicated-conservation-easements-tax-scam
+    agency: GSA
+  - date: 2025-02-18~
+    type: report
+    event: Frank Schuler is introduced on a video call meeting at the GSA by Nate Cavanaugh
+    named:
+    - Frank Schuler
+    - Nate Cavanaugh
+    source: https://www.propublica.org/article/frank-schuler-gsa-doge-syndicated-conservation-easements-tax-scam
+    agency: GSA
   - date: 2025-02-19
     type: report
     event: Thomas Shedd has allegedly requested admin access to 19 different systems within TTS at GSA
@@ -3113,10 +3183,40 @@ GSA:
     event: GSA hosts a deep-background media briefing to demo its GSAi tool with invitations sent to reporters from Bloomberg, The Atlantic, and Fox among others.
     source: https://www.wired.com/story/gsa-staff-all-hands-meeting-ai/
     agency: GSA
+  - date: 2025-03-20
+    type: report
+    event: Stephen Ehikian claims there is nobody from DOGE working at the agency
+    named:
+    - Stephen Ehikian
+    source: https://federalnewsnetwork.com/agency-oversight/2025/04/many-doge-officials-appear-on-gsas-security-shortlist-acting-head-says-nobody-working-for-doge-here/
+    agency: GSA
   - date: 2025-03-21
     type: report
     event: DOGE expands the GSAi chatbot rollout to more than 13,000 GSA employees
     source: https://www.wired.com/story/gsa-staff-all-hands-meeting-ai/
+    agency: GSA
+  - date: 2025-03-25
+    type: interagency
+    interagency_doge_reps:
+      GSA:
+      - Stephen Ehikian
+      USIP:
+      - Nate Cavanaugh
+    case_no: 1:25-cv-00804
+    event: Nate Cavanaugh contacts the administrator of the GSA to propose transferring the USIP building to them, arguing that USIP won't need a building because the statute doesn't mandate it has one or staffing
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.15.3.pdf
+    agency: USIP
+  - date: 2025-04-08
+    type: report
+    event: A partial copy of the GSA's A-Suite access list includes multiple DOGE personnel listed as based in GSA
+    named:
+    - Akash Bobba
+    - Nate Cavanaugh
+    - Edward Coristine
+    - Stephen Ehikian
+    - Luke Farritor
+    - Steve Davis
+    source: https://federalnewsnetwork.com/agency-oversight/2025/04/many-doge-officials-appear-on-gsas-security-shortlist-acting-head-says-nobody-working-for-doge-here/
     agency: GSA
   systems:
     Notify.gov:
@@ -3324,6 +3424,25 @@ HHS:
     event: During an interview, the head of HHS reports that DOGE created the new organizational chart for the agency ahead of mass firings, says "we're not cutting scientists"
     source: https://www.newsnationnow.com/cuomo-show/rfk-defends-hhs-job-cuts/
     agency: HHS
+  - date: 2025-03-28
+    type: interagency
+    event: Multiple DOGE staff appear in an interview on Fox News with Brett Baier
+    source: https://singjupost.com/transcript-of-elon-musk-doge-teams-interview-by-bret-baier-of-fox-news/
+    interagency_doge_reps:
+      DOGE:
+      - Elon Musk
+      - Steve Davis
+      OPM:
+      - Joe Gebbia
+      - Anthony Armstrong
+      SSA:
+      - Aram Moghaddassi
+      HHS:
+      - Brad Smith
+      Treasury:
+      - Tom Krause
+      DOI:
+      - Tyler Hassen
   - date: 2025-03-29
     type: access_changed
     access_type: admin
@@ -3559,7 +3678,6 @@ ICE:
   id: ICE
   parent_id: DHS
   associated:
-  - Leland Dudek
   - Marko Elez
   events:
   - date: 2025-04-07
@@ -3569,16 +3687,6 @@ ICE:
     case_no: 1:25-cv-00677
     agency:
     - Treasury
-    - IRS
-    - DHS
-    - ICE
-  - date: 2025-04-07
-    type: interagency
-    event: After some qualms about its legality, Leland Dudek signs two memos authorizing sharing data that would allow DHS and ICE to locate immigrants
-    source: https://www.washingtonpost.com/politics/2025/04/12/trump-immigrants-dead-social-security/
-    named:
-    - Leland Dudek
-    agency:
     - IRS
     - DHS
     - ICE
@@ -3700,7 +3808,6 @@ IRS:
   associated:
   - Baris Akis
   - Sam Corcos
-  - Leland Dudek
   - Gavin Kliger
   - Jon Koval
   - Payton Rehling
@@ -3786,6 +3893,16 @@ IRS:
     event: DOGE abruptly places 50 technologists at the IRS on administrative leave
     source: https://www.wired.com/story/doge-hackathon-irs-data-palantir/
     agency: IRS
+  - date: 2025-03-28
+    type: interagency
+    interagency_doge_reps:
+      DOI:
+      - Katrine Trampe
+      IRS:
+      - Gavin Kliger
+    event: Julie Bednar, a senior advisor in human resources at DOI, is pulled into a call with Katrine Trampe and Gavin Kliger calling from IRS who asked to speak to the system owner for FPPS directly
+    source: https://peer.org/wp-content/uploads/2025/04/4_15_25_Report-of-the-Investigation.pdf
+    agency: DOI
   - date: 2025-04-03
     type: disruption
     event: Senior technological positions are terminated including director of cybersecurity architecture and implementation, deputy chief information security officer, and acting director of security risk management. Only the CTO was spared.
@@ -3806,16 +3923,6 @@ IRS:
     case_no: 1:25-cv-00677
     agency:
     - Treasury
-    - IRS
-    - DHS
-    - ICE
-  - date: 2025-04-07
-    type: interagency
-    event: After some qualms about its legality, Leland Dudek signs two memos authorizing sharing data that would allow DHS and ICE to locate immigrants
-    source: https://www.washingtonpost.com/politics/2025/04/12/trump-immigrants-dead-social-security/
-    named:
-    - Leland Dudek
-    agency:
     - IRS
     - DHS
     - ICE
@@ -4603,6 +4710,25 @@ OPM:
     - Amanda Scales
     - Greg Hogan
     agency: OPM
+  - date: 2025-03-28
+    type: interagency
+    event: Multiple DOGE staff appear in an interview on Fox News with Brett Baier
+    source: https://singjupost.com/transcript-of-elon-musk-doge-teams-interview-by-bret-baier-of-fox-news/
+    interagency_doge_reps:
+      DOGE:
+      - Elon Musk
+      - Steve Davis
+      OPM:
+      - Joe Gebbia
+      - Anthony Armstrong
+      SSA:
+      - Aram Moghaddassi
+      HHS:
+      - Brad Smith
+      Treasury:
+      - Tom Krause
+      DOI:
+      - Tyler Hassen
   - date: 2025-04-03
     type: report
     event: Scott Kupor, the nominee to lead OPM, assured senators that he believes strong in data privacy and respecting the humanity and dignity of the workforce
@@ -5404,6 +5530,25 @@ SSA:
     - Aram Moghaddassi
     source: https://www.washingtonpost.com/politics/2025/04/08/vance-social-security-fraud-false/
     agency: SSA
+  - date: 2025-03-28
+    type: interagency
+    event: Multiple DOGE staff appear in an interview on Fox News with Brett Baier
+    source: https://singjupost.com/transcript-of-elon-musk-doge-teams-interview-by-bret-baier-of-fox-news/
+    interagency_doge_reps:
+      DOGE:
+      - Elon Musk
+      - Steve Davis
+      OPM:
+      - Joe Gebbia
+      - Anthony Armstrong
+      SSA:
+      - Aram Moghaddassi
+      HHS:
+      - Brad Smith
+      Treasury:
+      - Tom Krause
+      DOI:
+      - Tyler Hassen
   - date: 2025-03-30
     type: report
     event: At a town hall event in Wisconsin, Elon Musk and Antonio Gracias claim to have found fraud in the number of immigrants being granted social security numbers
@@ -5440,6 +5585,13 @@ SSA:
     event: The Post confirms with multiple source that Social Security's website has crashed repeatedly in recent weeks, with outages ranging from 20 minutes to an entire day. They speculate this is due to the introduction of an expanded fraud check system created by DOGE that wasn't tested for scalability before being deployed.
     source: https://www.washingtonpost.com/politics/2025/04/07/social-security-website-crashes-musk-trump/
     agency: SSA
+  - date: 2025-04-07
+    type: interagency
+    event: After some qualms about its legality, Leland Dudek signs two memos authorizing sharing data that would allow DHS and ICE to locate immigrants
+    source: https://www.washingtonpost.com/politics/2025/04/12/trump-immigrants-dead-social-security/
+    interagency_doge_reps:
+      SSA:
+      - Leland Dudek
   - date: 2025-04-08~
     type: access_granted
     event: Unidentified "Employee 11" is accidentally granted access to SSA systems that DOGE was banned from by the court order
@@ -5988,7 +6140,6 @@ USIP:
   - Jacob Altik
   - James Burnham
   - Nate Cavanaugh
-  - Stephen Ehikian
   - Kenneth Jackson
   events:
   - date: 2025-02-19
@@ -6134,9 +6285,11 @@ USIP:
     agency: USIP
   - date: 2025-03-25
     type: interagency
-    named:
-    - Nate Cavanaugh
-    - Stephen Ehikian
+    interagency_doge_reps:
+      GSA:
+      - Stephen Ehikian
+      USIP:
+      - Nate Cavanaugh
     case_no: 1:25-cv-00804
     event: Nate Cavanaugh contacts the administrator of the GSA to propose transferring the USIP building to them, arguing that USIP won't need a building because the statute doesn't mandate it has one or staffing
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.15.3.pdf

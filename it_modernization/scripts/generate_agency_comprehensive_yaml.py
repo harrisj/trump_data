@@ -19,12 +19,19 @@ def generate_agency_comprehensive_yaml():
         agency["cases"] = {}
 
     for event in events_yaml:
-        for agency_id in as_list(event['agency']):
-            out[agency_id]['events'].append(event)
-            if 'named' in event:
+        if event['type'] == 'interagency':
+            for (agency_id, named) in event['interagency_doge_reps'].items():
+                out[agency_id]['events'].append(event)
                 if agency_id not in associated:
                     associated[agency_id] = set()
-                associated[agency_id].update(event['named'])
+                associated[agency_id].update(named)
+        else:
+            for agency_id in as_list(event['agency']):
+                out[agency_id]['events'].append(event)
+                if 'named' in event:
+                    if agency_id not in associated:
+                        associated[agency_id] = set()
+                    associated[agency_id].update(event['named'])
         
     for case in cases_yaml:
         for agency_id in as_list(case['agency']):

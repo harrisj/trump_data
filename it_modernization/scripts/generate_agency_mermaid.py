@@ -1,20 +1,15 @@
 import yaml
 from datetime import date
 from edtf import parse_edtf
-from util import read_processed_events, read_raw_cases_dict, read_raw_details_dict, read_raw_agencies, read_postings, as_list
+from util import read_raw_cases_dict, read_raw_details_dict, read_raw_agencies, read_postings, as_list
 def generate_agency_page(agency, base_path:str):
     pass
 
 def generate_agencies_mermaid():
     agencies = read_raw_agencies()
-    events = read_processed_events()
-    cases = read_raw_cases_dict()
-    details = read_raw_details_dict()
     postings = read_postings()
 
     for agency in agencies:
-        agency['events'] = [e for e in events if agency['id'] in as_list(e['agency'])]
-        #agency['cases'] = [c for c in cases if agency['id'] in as_list(c['agency'])]
         agency['postings'] = [p for p in postings if p["agency_id"] == agency["id"] and p['name'] != 'Elon Musk']
 
     agencies = sorted([a for a in agencies if len(a['postings']) > 0], key=lambda x: x['postings'][0]['first_date'])

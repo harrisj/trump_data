@@ -237,7 +237,8 @@ postings:
   all_dates:
   - 2024-12-06
   - 2025-03-27
-  last_date: 2025-03-27
+  - 2025-03-28
+  last_date: 2025-03-28
   doge_agency_first: 2024-11-26
   doge_agency_last: 2025-04-16
 
@@ -300,7 +301,8 @@ postings:
   - 2025-01-24
   - 2025-03-05
   - 2025-03-27
-  last_date: 2025-03-27
+  - 2025-03-28
+  last_date: 2025-03-28
   doge_agency_first: 2024-11-26
   doge_agency_last: 2025-04-16
 
@@ -650,6 +652,7 @@ postings:
   first_date: 2025-02-24
   all_dates:
   - 2025-02-24
+  - 2025-03-28
   - 2025-03-29
   last_date: 2025-03-29
   doge_agency_first: 2025-01-28
@@ -1057,10 +1060,13 @@ postings:
   all_dates:
   - 2025-01-20
   - 2025-01-30
-  last_date: 2025-01-30
+  - 2025-03-20
+  - 2025-03-25
+  - 2025-04-08
+  last_date: 2025-04-08
   onboard_date: 2025-01-20
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-03-06
+  doge_agency_last: 2025-04-08
 
 - agency_id: GSA
   name: Luke Farritor
@@ -1070,10 +1076,11 @@ postings:
   - 2025-01-30
   - 2025-02-02
   - 2025-03-04
-  last_date: 2025-03-04
+  - 2025-04-08
+  last_date: 2025-04-08
   onboard_date: 2025-01-20~
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-03-06
+  doge_agency_last: 2025-04-08
 
 - agency_id: GSA
   name: Nicole Hollander
@@ -1087,7 +1094,7 @@ postings:
   last_date: 2025-03-04
   onboard_date: 2025-01-20~
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-03-06
+  doge_agency_last: 2025-04-08
 
 - agency_id: GSA
   name: Edward Coristine
@@ -1097,10 +1104,11 @@ postings:
   - 2025-01-31
   - 2025-02-02
   - 2025-03-04
-  last_date: 2025-03-04
+  - 2025-04-08
+  last_date: 2025-04-08
   onboard_date: 2025-01-20~
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-03-06
+  doge_agency_last: 2025-04-08
 
 - agency_id: GSA
   name: Ethan Shaotran
@@ -1113,7 +1121,18 @@ postings:
   last_date: 2025-03-04
   onboard_date: 2025-01-20~
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-03-06
+  doge_agency_last: 2025-04-08
+
+- agency_id: GSA
+  name: Frank Schuler
+  first_date: 2025-01-20~
+  all_dates:
+  - 2025-01-20~
+  - 2025-02-18~
+  last_date: 2025-02-18~
+  onboard_date: 2025-01-20~
+  doge_agency_first: 2025-01-20
+  doge_agency_last: 2025-04-08
 
 - agency_id: GSA
   name: Thomas Shedd
@@ -1130,7 +1149,7 @@ postings:
   last_date: 2025-03-06
   onboard_date: 2025-01-24
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-03-06
+  doge_agency_last: 2025-04-08
 
 - agency_id: GSA
   name: Elon Musk
@@ -1139,7 +1158,7 @@ postings:
   - 2025-01-30
   last_date: 2025-01-30
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-03-06
+  doge_agency_last: 2025-04-08
 
 - agency_id: GSA
   name: Steve Davis
@@ -1147,18 +1166,31 @@ postings:
   all_dates:
   - 2025-01-30
   - 2025-01-31
-  last_date: 2025-01-31
+  - 2025-04-08
+  last_date: 2025-04-08
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-03-06
+  doge_agency_last: 2025-04-08
 
 - agency_id: GSA
   name: Akash Bobba
   first_date: 2025-02-02
   all_dates:
   - 2025-02-02
-  last_date: 2025-02-02
+  - 2025-04-08
+  last_date: 2025-04-08
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-03-06
+  doge_agency_last: 2025-04-08
+
+- agency_id: GSA
+  name: Nate Cavanaugh
+  first_date: 2025-02-18~
+  all_dates:
+  - 2025-02-18~
+  - 2025-03-04
+  - 2025-04-08
+  last_date: 2025-04-08
+  doge_agency_first: 2025-01-20
+  doge_agency_last: 2025-04-08
 
 - agency_id: GSA
   name: Kyle Schutt
@@ -1167,16 +1199,7 @@ postings:
   - 2025-03-04
   last_date: 2025-03-04
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-03-06
-
-- agency_id: GSA
-  name: Nate Cavanaugh
-  first_date: 2025-03-04
-  all_dates:
-  - 2025-03-04
-  last_date: 2025-03-04
-  doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-03-06
+  doge_agency_last: 2025-04-08
 
 - agency_id: GSA
   name: Derek Geissler
@@ -1185,7 +1208,7 @@ postings:
   - 2025-03-04
   last_date: 2025-03-04
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-03-06
+  doge_agency_last: 2025-04-08
 
 - agency_id: HHS
   name: Luke Farritor
@@ -1231,7 +1254,8 @@ postings:
   first_date: 2025-03-04
   all_dates:
   - 2025-03-04
-  last_date: 2025-03-04
+  - 2025-03-28
+  last_date: 2025-03-28
   onboard_date: 2025-03-04
   doge_agency_first: 2025-01-21
   doge_agency_last: 2025-04-12
@@ -1381,6 +1405,7 @@ postings:
   - 2025-02-19
   - 2025-02-20
   - 2025-02-28
+  - 2025-03-28
   - 2025-04-05
   - 2025-04-18
   last_date: 2025-04-18
@@ -1650,7 +1675,8 @@ postings:
   first_date: 2025-02-12
   all_dates:
   - 2025-02-12
-  last_date: 2025-02-12
+  - 2025-03-28
+  last_date: 2025-03-28
   doge_agency_first: 2025-01-16~
   doge_agency_last: 2025-04-03
 
@@ -1736,6 +1762,15 @@ postings:
   doge_agency_last: 2025-04-03
 
 - agency_id: OPM
+  name: Joe Gebbia
+  first_date: 2025-03-28
+  all_dates:
+  - 2025-03-28
+  last_date: 2025-03-28
+  doge_agency_first: 2025-01-16~
+  doge_agency_last: 2025-04-03
+
+- agency_id: OPM
   name: Scott Kupor
   first_date: 2025-04-03
   all_dates:
@@ -1778,7 +1813,8 @@ postings:
   - 2025-03-20
   - 2025-03-26
   - 2025-03-27
-  last_date: 2025-03-27
+  - 2025-04-07
+  last_date: 2025-04-07
   doge_agency_first: 2025-01-30
   doge_agency_last: 2025-04-10
 
@@ -2016,10 +2052,11 @@ postings:
   - 2025-01-08
   - 2025-01-23
   - 2025-02-04
-  last_date: 2025-02-04
+  - 2025-03-28
+  last_date: 2025-03-28
   onboard_date: 2025-01-23
   doge_agency_first: 2025-01-08
-  doge_agency_last: 2025-02-20
+  doge_agency_last: 2025-03-28
 
 - agency_id: Treasury
   name: Marko Elez
@@ -2040,7 +2077,7 @@ postings:
   onboard_date: 2025-01-21
   offboard_date: 2025-02-06
   doge_agency_first: 2025-01-08
-  doge_agency_last: 2025-02-20
+  doge_agency_last: 2025-03-28
 
 - agency_id: Treasury
   name: Ryan Wunderly
@@ -2049,7 +2086,7 @@ postings:
   - 2025-02-20
   last_date: 2025-02-20
   doge_agency_first: 2025-01-08
-  doge_agency_last: 2025-02-20
+  doge_agency_last: 2025-03-28
 
 - agency_id: USADF
   name: Chris Young

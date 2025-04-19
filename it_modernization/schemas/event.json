@@ -48,6 +48,19 @@
                 "$ref": "valid_names.json#people"
             }
         },
+        "interagency_doge_reps": {
+            "description": "A list of DOGE staff representing different agencies at interagency meetings",
+            "type": "object",
+            "propertySchema": {
+                "type": "array",
+                "items": {
+                    "$ref": "valid_names.json#people"
+                }
+            },
+            "propertyNames": {
+                "$ref": "valid_names.json#agency_ids"
+            }
+        },
         "named_aliases": {
             "type": "array",
             "description": "A list of aliased names associated with the name (common in redacted court filings / FOIAs)",

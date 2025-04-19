@@ -22,6 +22,9 @@ def generate_aliases():
 
     # Process events
     for event in events:
+        if event['type'] == 'interagency':
+            continue
+        
         agencies = as_list(event['agency'])
 
         if 'named' in event:

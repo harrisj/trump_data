@@ -233,6 +233,15 @@
   - Riccardo Biasini
   agency: OPM
 
+- date: 2025-01-20~
+  type: onboarded
+  onboard_type: appointed
+  event: Stephen Ehikian announces that Frank Schuler will be a special advisor at the GSA
+  named:
+  - Frank Schuler
+  source: https://federalnewsnetwork.com/people/2025/01/gsas-new-leadership-mostly-comes-from-tech-finance-sectors/
+  agency: GSA
+
 - date: 2025-01-21
   type: report
   event: DOGE staff start screening all current USDS staff with short interviews, asking them their views of DOGE and who were underperformers who should be fired.
@@ -1862,6 +1871,23 @@
   - SSA-10
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   agency: SSA
+
+- date: 2025-02-18~
+  type: report
+  event: ProPublica reports that Frank Schuler appeared in the GSA directory
+  named:
+  - Frank Schuler
+  source: https://www.propublica.org/article/frank-schuler-gsa-doge-syndicated-conservation-easements-tax-scam
+  agency: GSA
+
+- date: 2025-02-18~
+  type: report
+  event: Frank Schuler is introduced on a video call meeting at the GSA by Nate Cavanaugh
+  named:
+  - Frank Schuler
+  - Nate Cavanaugh
+  source: https://www.propublica.org/article/frank-schuler-gsa-doge-syndicated-conservation-easements-tax-scam
+  agency: GSA
 
 - date: 2025-02-19
   type: report
@@ -3738,6 +3764,14 @@
   source: https://bsky.app/profile/marisakabas.bsky.social/post/3lkskjyhqkk2p
   agency: USIP
 
+- date: 2025-03-20
+  type: report
+  event: Stephen Ehikian claims there is nobody from DOGE working at the agency
+  named:
+  - Stephen Ehikian
+  source: https://federalnewsnetwork.com/agency-oversight/2025/04/many-doge-officials-appear-on-gsas-security-shortlist-acting-head-says-nobody-working-for-doge-here/
+  agency: GSA
+
 - date: 2025-03-21
   type: access_revoked
   access_systems:
@@ -3929,9 +3963,11 @@
 
 - date: 2025-03-25
   type: interagency
-  named:
-  - Nate Cavanaugh
-  - Stephen Ehikian
+  interagency_doge_reps:
+    GSA:
+    - Stephen Ehikian
+    USIP:
+    - Nate Cavanaugh
   case_no: 1:25-cv-00804
   event: Nate Cavanaugh contacts the administrator of the GSA to propose transferring the USIP building to them, arguing that USIP won't need a building because the statute doesn't mandate it has one or staffing
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.15.3.pdf
@@ -4142,12 +4178,34 @@
 
 - date: 2025-03-28
   type: interagency
+  interagency_doge_reps:
+    DOI:
+    - Katrine Trampe
+    IRS:
+    - Gavin Kliger
   event: Julie Bednar, a senior advisor in human resources at DOI, is pulled into a call with Katrine Trampe and Gavin Kliger calling from IRS who asked to speak to the system owner for FPPS directly
   source: https://peer.org/wp-content/uploads/2025/04/4_15_25_Report-of-the-Investigation.pdf
-  named:
-  - Katrine Trampe
-  - Gavin Kliger
   agency: DOI
+
+- date: 2025-03-28
+  type: interagency
+  event: Multiple DOGE staff appear in an interview on Fox News with Brett Baier
+  source: https://singjupost.com/transcript-of-elon-musk-doge-teams-interview-by-bret-baier-of-fox-news/
+  interagency_doge_reps:
+    DOGE:
+    - Elon Musk
+    - Steve Davis
+    OPM:
+    - Joe Gebbia
+    - Anthony Armstrong
+    SSA:
+    - Aram Moghaddassi
+    HHS:
+    - Brad Smith
+    Treasury:
+    - Tom Krause
+    DOI:
+    - Tyler Hassen
 
 - date: 2025-03-29
   type: access_changed
@@ -4480,12 +4538,9 @@
   type: interagency
   event: After some qualms about its legality, Leland Dudek signs two memos authorizing sharing data that would allow DHS and ICE to locate immigrants
   source: https://www.washingtonpost.com/politics/2025/04/12/trump-immigrants-dead-social-security/
-  named:
-  - Leland Dudek
-  agency:
-  - IRS
-  - DHS
-  - ICE
+  interagency_doge_reps:
+    SSA:
+    - Leland Dudek
 
 - date: 2025-04-08~
   type: access_granted
@@ -4529,6 +4584,19 @@
   named:
   - Sam Corcos
   agency: IRS
+
+- date: 2025-04-08
+  type: report
+  event: A partial copy of the GSA's A-Suite access list includes multiple DOGE personnel listed as based in GSA
+  named:
+  - Akash Bobba
+  - Nate Cavanaugh
+  - Edward Coristine
+  - Stephen Ehikian
+  - Luke Farritor
+  - Steve Davis
+  source: https://federalnewsnetwork.com/agency-oversight/2025/04/many-doge-officials-appear-on-gsas-security-shortlist-acting-head-says-nobody-working-for-doge-here/
+  agency: GSA
 
 - date: 2025-04-10
   type: report

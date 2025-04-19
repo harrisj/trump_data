@@ -56,6 +56,10 @@ people:
       type: report
       event: Reports emerge that DOGE is planning to rewrite the entire COBOL codebase for Social Security to Java in months
         using generative AI
+    - date: 2025-04-08
+      agency: GSA
+      type: report
+      event: A partial copy of the GSA's A-Suite access list includes multiple DOGE personnel listed as based in GSA
 
   Brad Smith:
     agencies:
@@ -935,6 +939,10 @@ people:
       type: report
       event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff
         who have worked at HHS
+    - date: 2025-04-08
+      agency: GSA
+      type: report
+      event: A partial copy of the GSA's A-Suite access list includes multiple DOGE personnel listed as based in GSA
     - date: 2025-04-16
       agency: DOGE
       type: report
@@ -1120,6 +1128,10 @@ people:
       type: report
       event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff
         who have worked at HHS
+    - date: 2025-04-08
+      agency: GSA
+      type: report
+      event: A partial copy of the GSA's A-Suite access list includes multiple DOGE personnel listed as based in GSA
     - date: 2025-04-12
       agency:
       - HHS
@@ -1304,7 +1316,6 @@ people:
     - Consumer Financial Protection Bureau
     - Department of Agriculture
     - Department of Government Efficiency
-    - Department of the Interior
     - Department of the Treasury
     - Federal Trade Commission
     - Internal Revenue Service
@@ -1368,11 +1379,6 @@ people:
       event: Gavin Kliger and Sam Corcos, DOGE representatives embedded at the tax agency, on Friday asked IRS lawyers to
         assist in creating an "omnibus" agreement with other federal agencies that would allow a broad swath of federal officials
         to cross-reference benefits rolls with taxpayer data
-    - date: 2025-03-28
-      agency: DOI
-      type: interagency
-      event: Julie Bednar, a senior advisor in human resources at DOI, is pulled into a call with Katrine Trampe and Gavin
-        Kliger calling from IRS who asked to speak to the system owner for FPPS directly
     - date: 2025-04-04
       agency: FTC
       type: report
@@ -1610,6 +1616,10 @@ people:
     - U.S. African Development Foundation
     - US Institute of Peace
     events:
+    - date: 2025-02-18~
+      agency: GSA
+      type: report
+      event: Frank Schuler is introduced on a video call meeting at the GSA by Nate Cavanaugh
     - date: 2025-02-21
       agency: USADF
       type: report
@@ -1668,16 +1678,15 @@ people:
       type: promotion
       event: Nate Cavanaugh is named the new President of USIP by the two remaining members of the board, Marco Rubio and
         Pete Hegseth, and he is authorized to transfer all assets to the GSA
-    - date: 2025-03-25
-      agency: USIP
-      type: interagency
-      event: Nate Cavanaugh contacts the administrator of the GSA to propose transferring the USIP building to them, arguing
-        that USIP won't need a building because the statute doesn't mandate it has one or staffing
     - date: 2025-03-31
       agency: IMLS
       type: disruption
       event: DOGE arrives at the agency and notifies the entire staff of IMLS that they are being put on administrative leave
         effective immediately
+    - date: 2025-04-08
+      agency: GSA
+      type: report
+      event: A partial copy of the GSA's A-Suite access list includes multiple DOGE personnel listed as based in GSA
 
   Nikhil Rajpal:
     agencies:
@@ -1834,6 +1843,10 @@ people:
       event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias,
         Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft
         Teams directory at SSA
+    - date: 2025-04-08
+      agency: GSA
+      type: report
+      event: A partial copy of the GSA's A-Suite access list includes multiple DOGE personnel listed as based in GSA
 
   Kyle Schutt:
     agencies:
@@ -2466,7 +2479,19 @@ people:
   Frank Schuler:
     agencies:
     - General Services Administration
-    events: []
+    events:
+    - date: 2025-01-20~
+      agency: GSA
+      type: onboarded
+      event: Stephen Ehikian announces that Frank Schuler will be a special advisor at the GSA
+    - date: 2025-02-18~
+      agency: GSA
+      type: report
+      event: ProPublica reports that Frank Schuler appeared in the GSA directory
+    - date: 2025-02-18~
+      agency: GSA
+      type: report
+      event: Frank Schuler is introduced on a video call meeting at the GSA by Nate Cavanaugh
 
   Nicole Hollander:
     agencies:
@@ -2648,9 +2673,6 @@ people:
 
   Leland Dudek:
     agencies:
-    - Department of Homeland Security
-    - Immigration and Customs Enforcement
-    - Internal Revenue Service
     - Social Security Administration
     events:
     - date: 2025-01-30
@@ -2711,35 +2733,10 @@ people:
       event: In a sworn declaration, Leland Dudek justifies access to PII in SSA records for Employee 1, Employee 5, Employee
         8 and Employee 9 on the DOGE team. This access is through the SSA's Enterprise Data Warehouse (EDW) system. He claims
         DOGE staff are being granted only the minimum levels of schema access required.
-    - date: 2025-04-07
-      agency:
-      - IRS
-      - DHS
-      - ICE
-      type: interagency
-      event: After some qualms about its legality, Leland Dudek signs two memos authorizing sharing data that would allow
-        DHS and ICE to locate immigrants
-    - date: 2025-04-07
-      agency:
-      - IRS
-      - DHS
-      - ICE
-      type: interagency
-      event: After some qualms about its legality, Leland Dudek signs two memos authorizing sharing data that would allow
-        DHS and ICE to locate immigrants
-    - date: 2025-04-07
-      agency:
-      - IRS
-      - DHS
-      - ICE
-      type: interagency
-      event: After some qualms about its legality, Leland Dudek signs two memos authorizing sharing data that would allow
-        DHS and ICE to locate immigrants
 
   Stephen Ehikian:
     agencies:
     - General Services Administration
-    - US Institute of Peace
     events:
     - date: 2025-01-20
       agency: GSA
@@ -2751,11 +2748,14 @@ people:
       type: report
       event: Elon Musk reportedly visits GSA to meet with staff, several of whom are identified from appearances in the internal
         directory
-    - date: 2025-03-25
-      agency: USIP
-      type: interagency
-      event: Nate Cavanaugh contacts the administrator of the GSA to propose transferring the USIP building to them, arguing
-        that USIP won't need a building because the statute doesn't mandate it has one or staffing
+    - date: 2025-03-20
+      agency: GSA
+      type: report
+      event: Stephen Ehikian claims there is nobody from DOGE working at the agency
+    - date: 2025-04-08
+      agency: GSA
+      type: report
+      event: A partial copy of the GSA's A-Suite access list includes multiple DOGE personnel listed as based in GSA
 
   Baris Akis:
     agencies:
@@ -3038,11 +3038,6 @@ people:
       type: report
       event: Stephanie Holmes requests full admin access to the FPPS system to process actions for herself as well as DOGE
         members Katrine Trampe and Tyler Hassen
-    - date: 2025-03-28
-      agency: DOI
-      type: interagency
-      event: Julie Bednar, a senior advisor in human resources at DOI, is pulled into a call with Katrine Trampe and Gavin
-        Kliger calling from IRS who asked to speak to the system owner for FPPS directly
     - date: 2025-03-29
       agency: DOI
       type: access_granted

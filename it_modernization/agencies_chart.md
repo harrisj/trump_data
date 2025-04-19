@@ -7,9 +7,9 @@ gantt
     axisFormat %m/%d
     dateFormat YYYY-MM-DD
     SECTION Treasury
-        Tom Krause : 2025-01-20, 2025-02-20
+        Tom Krause : 2025-01-20, 2025-03-28
         Marko Elez : 2025-01-21, 2025-02-06
-        Ryan Wunderly : 2025-02-20, 2025-02-20
+        Ryan Wunderly : 2025-02-20, 2025-03-28
     SECTION OPM
         Noah Peters : 2025-01-20, 2025-04-03
         Keenan Kmiec : 2025-01-20, 2025-04-03
@@ -31,19 +31,21 @@ gantt
         Jacob Altik : 2025-02-12, 2025-04-03
         Austin Raynor : 2025-02-12, 2025-04-03
         Nikhil Rajpal : 2025-02-12, 2025-04-03
+        Joe Gebbia : 2025-03-28, 2025-04-03
         Scott Kupor : 2025-04-03, 2025-04-03
     SECTION GSA
-        Stephen Ehikian : 2025-01-20, 2025-03-06
-        Luke Farritor : 2025-01-20, 2025-03-06
-        Nicole Hollander : 2025-01-20, 2025-03-06
-        Edward Coristine : 2025-01-20, 2025-03-06
-        Ethan Shaotran : 2025-01-20, 2025-03-06
-        Thomas Shedd : 2025-01-24, 2025-03-06
-        Steve Davis : 2025-01-30, 2025-03-06
-        Akash Bobba : 2025-02-02, 2025-03-06
-        Kyle Schutt : 2025-03-04, 2025-03-06
-        Nate Cavanaugh : 2025-03-04, 2025-03-06
-        Derek Geissler : 2025-03-04, 2025-03-06
+        Stephen Ehikian : 2025-01-20, 2025-04-08
+        Luke Farritor : 2025-01-20, 2025-04-08
+        Nicole Hollander : 2025-01-20, 2025-04-08
+        Edward Coristine : 2025-01-20, 2025-04-08
+        Ethan Shaotran : 2025-01-20, 2025-04-08
+        Frank Schuler : 2025-01-20, 2025-04-08
+        Thomas Shedd : 2025-01-24, 2025-04-08
+        Steve Davis : 2025-01-30, 2025-04-08
+        Akash Bobba : 2025-02-02, 2025-04-08
+        Nate Cavanaugh : 2025-02-18, 2025-04-08
+        Kyle Schutt : 2025-03-04, 2025-04-08
+        Derek Geissler : 2025-03-04, 2025-04-08
     SECTION HHS
         Luke Farritor : 2025-01-21, 2025-04-12
         Clark Minor : 2025-02-14, 2025-04-12

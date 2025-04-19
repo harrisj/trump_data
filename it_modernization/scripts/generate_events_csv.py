@@ -18,6 +18,11 @@ def generate_events_yaml():
         if 'fuzz' in event:
             event_text = "FUZZY DATE " + event_text
 
+        if event['type'] == 'interagency':
+            for (agency_id, named) in event['interagency_doge_reps'].items():
+                out.append({'agency': agencies_dict[agency_id]['name'], 'agency_id': agency_id, 'event': event_text, 'type': event['type'], 'date': event['date'], 'source': source, 'named': ', '.join(named)})
+            continue
+
         if 'named' in event:
             named = event['named']
         else:
