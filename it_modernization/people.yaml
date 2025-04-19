@@ -2,7 +2,7 @@
 meta:
   title: People
   version: 1.0.0
-  generated: 2025-04-18
+  generated: 2025-04-19
 
 people:
 
@@ -479,6 +479,11 @@ people:
       type: disruption
       event: Two DOGE staffers attempted to force water pumps to be turned on in a large reservoir in California for a photo
         op
+    - date: 2025-02-24
+      agency: DOI
+      type: report
+      event: Stephanie Holmes requests full admin access to the FPPS system to process actions for herself as well as DOGE
+        members Katrine Trampe and Tyler Hassen
     - date: 2025-03-07
       agency: DOI
       type: promotion
@@ -1299,6 +1304,7 @@ people:
     - Consumer Financial Protection Bureau
     - Department of Agriculture
     - Department of Government Efficiency
+    - Department of the Interior
     - Department of the Treasury
     - Federal Trade Commission
     - Internal Revenue Service
@@ -1352,12 +1358,21 @@ people:
       agency: IRS
       type: official
       event: Gavin Kliger's detail from OPM to IRS is executed
+    - date: 2025-02-20
+      agency: IRS
+      type: report
+      event: Treasury agrees to block Gavin Kliger from the IDRS system and provide him only with anonymized data
     - date: 2025-02-28
       agency: IRS
       type: official
       event: Gavin Kliger and Sam Corcos, DOGE representatives embedded at the tax agency, on Friday asked IRS lawyers to
         assist in creating an "omnibus" agreement with other federal agencies that would allow a broad swath of federal officials
         to cross-reference benefits rolls with taxpayer data
+    - date: 2025-03-28
+      agency: DOI
+      type: interagency
+      event: Julie Bednar, a senior advisor in human resources at DOI, is pulled into a call with Katrine Trampe and Gavin
+        Kliger calling from IRS who asked to speak to the system owner for FPPS directly
     - date: 2025-04-04
       agency: FTC
       type: report
@@ -1372,6 +1387,14 @@ people:
       type: report
       event: According to sworn testimony by Alex Doe, the CFPB RIF team was forced to work for 36 hours straight and subjected
         to verbal abuse by Gavin Kliger
+    - date: 2025-04-18
+      agency: IRS
+      type: access_revoked
+      event: Gavin Kliger's building and system access at the IRS is rescinded
+    - date: 2025-04-18
+      agency: IRS
+      type: offboarded
+      event: Gavin Kliger's building and system access at the IRS is rescinded
 
   Jordan Wick:
     agencies:
@@ -1823,6 +1846,11 @@ people:
     - US Citizenship & Immigration Services
     - US Digital Service
     events:
+    - date: 2025-02-10
+      agency: DHS
+      type: report
+      event: In an overview of DHS programs, Kyle Schutt stuns federal staff in the office of civil right by declaring one
+        of their programs (CRCL) looks like money laundering
     - date: 2025-02-19
       agency: CISA
       type: report
@@ -1925,6 +1953,22 @@ people:
       type: onboarded
       event: Stephanie Holmes is detailed to the Department of the Interior as a Special Advisor and acting Chief Human Capital
         Officer for the entire agency
+    - date: 2025-02-24
+      agency: DOI
+      type: report
+      event: Stephanie Holmes requests full admin access to the FPPS system to process actions for herself as well as DOGE
+        members Katrine Trampe and Tyler Hassen
+    - date: 2025-02-27
+      agency: DOI
+      type: report
+      event: Stephanie Holmes' request for admin access to the FPPS system is approved by an Jarrod Agen, Senior Advisor to
+        the Secretary of the Interior
+    - date: 2025-03-27
+      agency: DOI
+      type: report
+      event: After being provided with access to FPPS, Stephanie Holmes raises concerns she has not yet been granted full
+        admin access to FPPS. The CIO said he would do it once the Secretary accepted the risk. Holmes did not convey the
+        report to the Secretary.
     - date: 2025-03-29
       agency: DOI
       type: access_granted
@@ -2183,6 +2227,7 @@ people:
   Jon Koval:
     agencies:
     - Department of Government Efficiency
+    - Internal Revenue Service
     - Social Security Administration
     - Veterans Administration
     events:
@@ -2217,10 +2262,16 @@ people:
       event: Tech staffers and contractors noticed a new unknown DOGE staffer was pushing code to a repo in the VA's Github
         instance. He also appeared to be using an AI tool to write code and was remarkably oblivious about what the requirements
         for government services are.
+    - date: 2025-04-15
+      agency: IRS
+      type: onboarded
+      event: Two DOGE staffers are detailed from the SSA to an immigration enforcement unit within the DOJ where they will
+        be tasked with searching SSA databases for information on immigrants
 
   Payton Rehling:
     agencies:
     - Department of Government Efficiency
+    - Internal Revenue Service
     - Social Security Administration
     - US Citizenship & Immigration Services
     - Veterans Administration
@@ -2286,6 +2337,11 @@ people:
       type: report
       event: USCIS CIO William McElhaney sends a message to DHS Deputy Secretary asking them to review access that was granted
         to DOGE staff
+    - date: 2025-04-15
+      agency: IRS
+      type: onboarded
+      event: Two DOGE staffers are detailed from the SSA to an immigration enforcement unit within the DOJ where they will
+        be tasked with searching SSA databases for information on immigrants
 
   Scott Coulter:
     agencies:
@@ -2977,6 +3033,16 @@ people:
     agencies:
     - Department of the Interior
     events:
+    - date: 2025-02-24
+      agency: DOI
+      type: report
+      event: Stephanie Holmes requests full admin access to the FPPS system to process actions for herself as well as DOGE
+        members Katrine Trampe and Tyler Hassen
+    - date: 2025-03-28
+      agency: DOI
+      type: interagency
+      event: Julie Bednar, a senior advisor in human resources at DOI, is pulled into a call with Katrine Trampe and Gavin
+        Kliger calling from IRS who asked to speak to the system owner for FPPS directly
     - date: 2025-03-29
       agency: DOI
       type: access_granted

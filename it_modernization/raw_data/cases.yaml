@@ -258,3 +258,10 @@
   date_filed: 2025-02-13
   link: https://www.courtlistener.com/docket/69636722/does-1-26-v-musk/
   agency: DOGE
+
+- name: Democracy Forward Foundation v. Office of Management and Budget
+  description: Democracy Forward is suing about DOGE not responding to FOIA requests
+  case_no: 1:25-cv-00858
+  date_filed: 2025-03-23
+  link: https://www.courtlistener.com/docket/69776370/democracy-forward-foundation-v-office-of-management-and-budget/
+  agency: [ DOGE, EOP ]

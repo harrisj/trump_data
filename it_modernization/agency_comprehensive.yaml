@@ -792,6 +792,7 @@ DOI:
   - Luke Farritor
   - Tyler Hassen
   - Stephanie Holmes
+  - Gavin Kliger
   - Bryton Shang
   - Katrine Trampe
   events:
@@ -812,6 +813,22 @@ DOI:
     - Stephanie Holmes
     source: https://subscriber.politicopro.com/article/eenews/2025/03/05/heres-the-people-connected-to-doge-at-interior-00213330
     agency: DOI
+  - date: 2025-02-24
+    type: report
+    event: Stephanie Holmes requests full admin access to the FPPS system to process actions for herself as well as DOGE members Katrine Trampe and Tyler Hassen
+    source: https://peer.org/wp-content/uploads/2025/04/4_15_25_Report-of-the-Investigation.pdf
+    named:
+    - Stephanie Holmes
+    - Katrine Trampe
+    - Tyler Hassen
+    agency: DOI
+  - date: 2025-02-27
+    type: report
+    event: Stephanie Holmes' request for admin access to the FPPS system is approved by an Jarrod Agen, Senior Advisor to the Secretary of the Interior
+    source: https://peer.org/wp-content/uploads/2025/04/4_15_25_Report-of-the-Investigation.pdf
+    named:
+    - Stephanie Holmes
+    agency: DOI
   - date: 2025-03-04
     type: disruption
     event: DOGE boasts in a tweet that 27% more water was released in February compared to January (unclear if this adjusts for different lengths of months)
@@ -823,6 +840,13 @@ DOI:
     named:
     - Tyler Hassen
     source: https://www.eenews.net/articles/doge-official-appointed-head-of-policy-at-interior/
+    agency: DOI
+  - date: 2025-03-27
+    type: report
+    event: After being provided with access to FPPS, Stephanie Holmes raises concerns she has not yet been granted full admin access to FPPS. The CIO said he would do it once the Secretary accepted the risk. Holmes did not convey the report to the Secretary.
+    source: https://peer.org/wp-content/uploads/2025/04/4_15_25_Report-of-the-Investigation.pdf
+    named:
+    - Stephanie Holmes
     agency: DOI
   - date: 2025-03-28
     type: report
@@ -836,6 +860,14 @@ DOI:
     - Tyler Hassen
     source: https://www.nytimes.com/2025/03/31/us/politics/doge-musk-federal-payroll.html
     agency: DOI
+  - date: 2025-03-28
+    type: interagency
+    event: Julie Bednar, a senior advisor in human resources at DOI, is pulled into a call with Katrine Trampe and Gavin Kliger calling from IRS who asked to speak to the system owner for FPPS directly
+    source: https://peer.org/wp-content/uploads/2025/04/4_15_25_Report-of-the-Investigation.pdf
+    named:
+    - Katrine Trampe
+    - Gavin Kliger
+    agency: DOI
   - date: 2025-03-29
     event: Two DOGE staffers are granted admin access to the FPPS payroll system at the Department of the Interior
     type: access_granted
@@ -846,6 +878,11 @@ DOI:
     - Stephanie Holmes
     - Katrine Trampe
     source: https://www.nytimes.com/2025/03/31/us/politics/doge-musk-federal-payroll.html
+    agency: DOI
+  - date: 2025-04-01
+    type: official
+    event: The manager of the DOI's labor relations branch initiates an investigation of the DOI's CIO, Deputy CIO, Associate Solicitor and a Special Advisor over attempts to prevent DOGE access to DOI systems
+    source: https://peer.org/wp-content/uploads/2025/04/4_15_25_Report-of-the-Investigation.pdf
     agency: DOI
   - date: 2025-04-12
     type: disruption
@@ -1431,6 +1468,15 @@ DOGE:
       date_filed: 2025-02-13
       link: https://www.courtlistener.com/docket/69636722/does-1-26-v-musk/
       agency: DOGE
+    1:25-cv-00858:
+      name: Democracy Forward Foundation v. Office of Management and Budget
+      description: Democracy Forward is suing about DOGE not responding to FOIA requests
+      case_no: 1:25-cv-00858
+      date_filed: 2025-03-23
+      link: https://www.courtlistener.com/docket/69776370/democracy-forward-foundation-v-office-of-management-and-budget/
+      agency:
+      - DOGE
+      - EOP
 
 DHS:
   name: Department of Homeland Security
@@ -1457,6 +1503,13 @@ DHS:
     - Edward Coristine
     event: Edward Coristine appears in a DHS directory as a "senior advisor"
     source: https://www.washingtonpost.com/business/2025/02/10/musk-doge-state-department-surrogate/
+    agency: DHS
+  - date: 2025-02-10
+    type: report
+    event: In an overview of DHS programs, Kyle Schutt stuns federal staff in the office of civil right by declaring one of their programs (CRCL) looks like money laundering
+    named:
+    - Kyle Schutt
+    source: https://www.politico.com/news/2025/03/29/doge-marco-elez-software-engineer-us-payroll-00259303
     agency: DHS
   - date: 2025-02-26
     type: report
@@ -1485,7 +1538,7 @@ DHS:
     agency: DHS
   - date: 2025-03-21
     type: disruption
-    event: Trump administration eliminates the DHS Office for Civil Rights and Civil Liberties and two ombudsman offices responsible for investigating allegations of abuse from immigrants
+    event: Trump administration eliminates the DHS Office for Civil Rights and Civil Liberties and two ombudsman offices responsible for investigating allegations of abuse from immigrants. This also includes the CRCL program that was characterized as "money laundering" by DOGE staffer Kyle Schutt.
     source: https://www.nytimes.com/2025/03/21/us/politics/trump-civil-rights-homeland-security-deportations.html
     agency: DHS
   - date: 2025-04-07
@@ -2089,6 +2142,11 @@ DOL:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
     agency: DOL
+  - date: 2025-04-18
+    type: disruption
+    event: Multiple federal staffers who handle sensitive data related to migrant workers are placed on leave for raising objections about DOGE access
+    source: https://www.politico.com/news/2025/04/18/labor-department-sidelines-staff-doge-immigrant-data-00299298
+    agency: DOL
   systems:
     DOL-DRA:
       name: DRA
@@ -2116,17 +2174,21 @@ DOL:
       name: National Farmworker Jobs Program
       id: NFJP
       link: https://www.dol.gov/agencies/eta/agriculture
-      description: FIXME
+      sorn: https://www.federalregister.gov/documents/2016/04/29/2016-09510/privacy-act-of-1974-publication-in-full-of-all-notices-of-systems-of-records-including-several-new
+      description: The National Farmworker Jobs Program (NFJP) is a nationally-directed, locally-administered program of services for migrant and seasonal farmworkers and their dependents
       agency: DOL
     FLAG:
       name: Foreign Labor Application Gateway
       id: FLAG
-      description: FIXME
+      link: https://flag.dol.gov/
+      sorn: https://www.federalregister.gov/documents/2022/02/14/2022-03063/privacy-act-of-1974-system-of-records
+      description: This newly-modernized portal will help U.S. employers find qualified workers while ensuring protections for U.S. and foreign workers.
       agency: DOL
     REO:
       name: Reentry Employment Opportunities
       id: REO
-      description: FIXME
+      description: The Reentry Employment Opportunities (REO) program provides funding, authorized as Research and Evaluation under Section 169 of the Workforce Innovation and Opportunity Act (WIOA) of 2014, for justice-involved youth and young adults and adults who were formerly incarcerated.
+      pia: https://www.dol.gov/agencies/oasam/centers-offices/ocio/privacy/eta/reo
       link: https://www.dol.gov/agencies/eta/reentry
       agency: DOL
   cases:
@@ -2614,7 +2676,16 @@ EOP:
   - Chris Young
   events: []
   systems: {}
-  cases: {}
+  cases:
+    1:25-cv-00858:
+      name: Democracy Forward Foundation v. Office of Management and Budget
+      description: Democracy Forward is suing about DOGE not responding to FOIA requests
+      case_no: 1:25-cv-00858
+      date_filed: 2025-03-23
+      link: https://www.courtlistener.com/docket/69776370/democracy-forward-foundation-v-office-of-management-and-budget/
+      agency:
+      - DOGE
+      - EOP
 
 FAA:
   name: Federal Aviation Administration
@@ -3631,6 +3702,8 @@ IRS:
   - Sam Corcos
   - Leland Dudek
   - Gavin Kliger
+  - Jon Koval
+  - Payton Rehling
   events:
   - date: 2025-02-13
     type: onboarded
@@ -3672,6 +3745,13 @@ IRS:
     type: legal
     event: In a court filing, Treasury says it is adding two more DOGE staffers focused on the IRS
     source: https://www.politico.com/news/2025/02/20/treasury-irs-data-white-house-doge-00205391
+    agency: IRS
+  - date: 2025-02-20
+    type: report
+    event: Treasury agrees to block Gavin Kliger from the IDRS system and provide him only with anonymized data
+    source: https://www.washingtonpost.com/business/2025/02/20/doge-irs-taxpayer-data-privacy/
+    named:
+    - Gavin Kliger
     agency: IRS
   - date: 2025-02-21
     type: report
@@ -3752,6 +3832,30 @@ IRS:
     source: https://www.wired.com/story/palantir-doge-irs-mega-api-data/
     named:
     - Sam Corcos
+    agency: IRS
+  - date: 2025-04-15
+    type: onboarded
+    onboard_type: detailed
+    detailed_from: SSA
+    event: Two DOGE staffers are detailed from the SSA to an immigration enforcement unit within the DOJ where they will be tasked with searching SSA databases for information on immigrants
+    named:
+    - Payton Rehling
+    - Jon Koval
+    detail_id: mou-20250415-ssa-doj-koval-rehling
+    source: https://www.nytimes.com/2025/04/18/us/politics/doge-musk-social-security-justice-department.html
+    agency: IRS
+  - date: 2025-04-18
+    type: access_revoked
+    comment: Figure out what systems he was granted access for
+    event: Gavin Kliger's building and system access at the IRS is rescinded
+    named:
+    - Gavin Kliger
+    agency: IRS
+  - date: 2025-04-18
+    type: offboarded
+    event: Gavin Kliger's building and system access at the IRS is rescinded
+    named:
+    - Gavin Kliger
     agency: IRS
   systems:
     IDRS:
@@ -3932,6 +4036,11 @@ NLRB:
     agency:
     - NLRB
     - CISA
+  - date: 2025-04-16
+    type: report
+    event: Two DOGE staffers are reportedly detailed from the GSA to work at the NLRB for the next few months
+    source: https://www.npr.org/2025/04/16/nx-s1-5366851/doge-nlrb-whistleblower-musk-data
+    agency: NLRB
   systems:
     NxGen:
       name: NxGen
@@ -4378,7 +4487,7 @@ OPM:
     type: report
     event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials to FOIA communications for
     source: https://democracyforward.org/wp-content/uploads/2025/03/Compl.-DF-v.-OPM-OMB-RIF-plans.pdf
-    comment: FIXME add case_no link for 1:25-cv-00858
+    case_no: 1:25-cv-00858
     named:
     - Charles Ezell
     - Amanda Scales

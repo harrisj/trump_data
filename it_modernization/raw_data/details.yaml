@@ -206,3 +206,15 @@
   signed_date: 2025-02-19
   source: https://www.taxnotes.com/research/federal/legislative-documents/congressional-tax-correspondence/treasury-official-sends-memo-doge-detail-crapo/7rl0x
   file: mou-20250219-opm-irs-gavin-kliger.pdf
+
+- id: mou-20250415-ssa-doj-koval-rehling
+  from: SSA
+  to: DOJ
+  named:
+  - Jon Koval
+  - Payton Rehling
+  start_date: 2025-04-15
+  nte_date: 2025-04-13
+  signed_date: 2025-04-15
+  comment: I don't have a the source document just reporting from the NYT
+  source: https://www.nytimes.com/2025/04/18/us/politics/doge-musk-social-security-justice-department.html

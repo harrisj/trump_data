@@ -66,7 +66,7 @@ gantt
         Tyler Hassen : 2025-01-28, 2025-04-12
         Bryton Shang : 2025-01-28, 2025-04-12
         Stephanie Holmes : 2025-02-24, 2025-04-12
-        Katrine Trampe : 2025-03-29, 2025-04-12
+        Katrine Trampe : 2025-02-24, 2025-04-12
         Luke Farritor : 2025-04-12, 2025-04-12
     SECTION Education
         Adam Ramada : 2025-01-28, 2025-02-24
@@ -125,6 +125,7 @@ gantt
         Luke Farritor : 2025-02-07, 2025-03-04
     SECTION DHS
         Edward Coristine : 2025-02-10, 2025-03-11
+        Kyle Schutt : 2025-02-10, 2025-03-11
         Antoine McCord : 2025-03-11, 2025-03-11
     SECTION HUD
         Scott Langmack : 2025-02-10, 2025-04-15
@@ -161,8 +162,10 @@ gantt
         Edward Coristine : 2025-02-19, 2025-02-20
         Kyle Schutt : 2025-02-19, 2025-02-20
     SECTION IRS
-        Gavin Kliger : 2025-02-19, 2025-04-10
-        Sam Corcos : 2025-02-28, 2025-04-10
+        Gavin Kliger : 2025-02-19, 2025-04-18
+        Sam Corcos : 2025-02-28, 2025-04-18
+        Payton Rehling : 2025-04-15, 2025-04-18
+        Jon Koval : 2025-04-15, 2025-04-18
     SECTION USADF
         Chris Young : 2025-02-20, 2025-03-06
         Ethan Shaotran : 2025-02-21, 2025-03-06

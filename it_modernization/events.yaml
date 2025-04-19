@@ -2,7 +2,7 @@
 meta:
   title: Events
   version: 1.0.0
-  generated: 2025-04-18
+  generated: 2025-04-19
 
 events:
 
@@ -1515,6 +1515,15 @@ events:
   source: https://www.finance.senate.gov/imo/media/doc/ssa_whistleblower_statement.pdf
   agency: SSA
 
+- date: 2025-02-10
+  type: report
+  event: In an overview of DHS programs, Kyle Schutt stuns federal staff in the office of civil right by declaring one of
+    their programs (CRCL) looks like money laundering
+  named:
+  - Kyle Schutt
+  source: https://www.politico.com/news/2025/03/29/doge-marco-elez-software-engineer-us-payroll-00259303
+  agency: DHS
+
 - date: 2025-02-11
   type: promotion
   event: Greg Hogan is formally named the CIO of OPM
@@ -1591,7 +1600,7 @@ events:
   event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials
     to FOIA communications for
   source: https://democracyforward.org/wp-content/uploads/2025/03/Compl.-DF-v.-OPM-OMB-RIF-plans.pdf
-  comment: FIXME add case_no link for 1:25-cv-00858
+  case_no: 1:25-cv-00858
   named:
   - Charles Ezell
   - Amanda Scales
@@ -1613,6 +1622,15 @@ events:
   - Gavin Kliger
   - Nikhil Rajpal
   agency: OPM
+  case_info:
+    name: Democracy Forward Foundation v. Office of Management and Budget
+    description: Democracy Forward is suing about DOGE not responding to FOIA requests
+    case_no: 1:25-cv-00858
+    date_filed: 2025-03-23
+    link: https://www.courtlistener.com/docket/69776370/democracy-forward-foundation-v-office-of-management-and-budget/
+    agency:
+    - DOGE
+    - EOP
 
 - date: 2025-02-12
   type: report
@@ -2574,6 +2592,14 @@ events:
   source: https://www.huffpost.com/entry/nlrb-office-lease-doge-wall-of-receipts_n_67b76046e4b05145b9c4ca05
   agency: NLRB
 
+- date: 2025-02-20
+  type: report
+  event: Treasury agrees to block Gavin Kliger from the IDRS system and provide him only with anonymized data
+  source: https://www.washingtonpost.com/business/2025/02/20/doge-irs-taxpayer-data-privacy/
+  named:
+  - Gavin Kliger
+  agency: IRS
+
 - date: 2025-02-21
   type: official
   event: USDA Secretary Rollins posts a photo of a grant-cancellation session on the @DOGE_USDA account
@@ -2986,6 +3012,17 @@ events:
   source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
   agency: NLRB
 
+- date: 2025-02-24
+  type: report
+  event: Stephanie Holmes requests full admin access to the FPPS system to process actions for herself as well as DOGE members
+    Katrine Trampe and Tyler Hassen
+  source: https://peer.org/wp-content/uploads/2025/04/4_15_25_Report-of-the-Investigation.pdf
+  named:
+  - Stephanie Holmes
+  - Katrine Trampe
+  - Tyler Hassen
+  agency: DOI
+
 - date: 2025-02-25
   type: disruption
   event: 21 remaining USDS staff publicly resign in protest of DOGE's actions
@@ -3218,6 +3255,15 @@ events:
   - Mark Steffensen
   source: https://web-cdn.bsky.app/profile/chrisgeidner.bsky.social/post/3ljb6rufur22e
   agency: SSA
+
+- date: 2025-02-27
+  type: report
+  event: Stephanie Holmes' request for admin access to the FPPS system is approved by an Jarrod Agen, Senior Advisor to the
+    Secretary of the Interior
+  source: https://peer.org/wp-content/uploads/2025/04/4_15_25_Report-of-the-Investigation.pdf
+  named:
+  - Stephanie Holmes
+  agency: DOI
 
 - date: 2025-02-28
   type: disruption
@@ -4984,7 +5030,8 @@ events:
 - date: 2025-03-21
   type: disruption
   event: Trump administration eliminates the DHS Office for Civil Rights and Civil Liberties and two ombudsman offices responsible
-    for investigating allegations of abuse from immigrants
+    for investigating allegations of abuse from immigrants. This also includes the CRCL program that was characterized as
+    "money laundering" by DOGE staffer Kyle Schutt.
   source: https://www.nytimes.com/2025/03/21/us/politics/trump-civil-rights-homeland-security-deportations.html
   agency: DHS
 
@@ -5361,6 +5408,16 @@ events:
   mapped_aliases:
     SSA-9: Payton Rehling
 
+- date: 2025-03-27
+  type: report
+  event: After being provided with access to FPPS, Stephanie Holmes raises concerns she has not yet been granted full admin
+    access to FPPS. The CIO said he would do it once the Secretary accepted the risk. Holmes did not convey the report to
+    the Secretary.
+  source: https://peer.org/wp-content/uploads/2025/04/4_15_25_Report-of-the-Investigation.pdf
+  named:
+  - Stephanie Holmes
+  agency: DOI
+
 - date: 2025-03-28
   type: report
   event: Michael Grimes conducts DOGE-style interviews with each member of the staff in the Chips Program Office
@@ -5454,6 +5511,16 @@ events:
   - Aram Moghaddassi
   source: https://www.washingtonpost.com/politics/2025/04/08/vance-social-security-fraud-false/
   agency: SSA
+
+- date: 2025-03-28
+  type: interagency
+  event: Julie Bednar, a senior advisor in human resources at DOI, is pulled into a call with Katrine Trampe and Gavin Kliger
+    calling from IRS who asked to speak to the system owner for FPPS directly
+  source: https://peer.org/wp-content/uploads/2025/04/4_15_25_Report-of-the-Investigation.pdf
+  named:
+  - Katrine Trampe
+  - Gavin Kliger
+  agency: DOI
 
 - date: 2025-03-29
   type: access_changed
@@ -5649,6 +5716,13 @@ events:
     is sworn in
   source: https://www.nytimes.com/2025/04/01/us/politics/trump-federal-layoffs-health-food.html
   agency: NIH
+
+- date: 2025-04-01
+  type: official
+  event: The manager of the DOI's labor relations branch initiates an investigation of the DOI's CIO, Deputy CIO, Associate
+    Solicitor and a Special Advisor over attempts to prevent DOGE access to DOI systems
+  source: https://peer.org/wp-content/uploads/2025/04/4_15_25_Report-of-the-Investigation.pdf
+  agency: DOI
 
 - date: 2025-04-02
   type: official
@@ -6035,6 +6109,31 @@ events:
   source: https://www.politico.com/news/2025/04/15/pentagons-digital-resignations-00290930
   agency: DOD
 
+- date: 2025-04-15
+  type: onboarded
+  onboard_type: detailed
+  detailed_from: SSA
+  event: Two DOGE staffers are detailed from the SSA to an immigration enforcement unit within the DOJ where they will be
+    tasked with searching SSA databases for information on immigrants
+  named:
+  - Payton Rehling
+  - Jon Koval
+  detail_id: mou-20250415-ssa-doj-koval-rehling
+  source: https://www.nytimes.com/2025/04/18/us/politics/doge-musk-social-security-justice-department.html
+  agency: IRS
+  detail_info:
+    id: mou-20250415-ssa-doj-koval-rehling
+    from: SSA
+    to: DOJ
+    named:
+    - Jon Koval
+    - Payton Rehling
+    start_date: 2025-04-15
+    nte_date: 2025-04-13
+    signed_date: 2025-04-15
+    comment: I don't have a the source document just reporting from the NYT
+    source: https://www.nytimes.com/2025/04/18/us/politics/doge-musk-social-security-justice-department.html
+
 - date: 2025-04-16
   type: report
   event: Three DOGE staffers are reported to work with staff from DHS, the State Department and USCIS on implementing an application
@@ -6045,6 +6144,12 @@ events:
   - Edward Coristine
   - Joe Gebbia
   agency: DOGE
+
+- date: 2025-04-16
+  type: report
+  event: Two DOGE staffers are reportedly detailed from the GSA to work at the NLRB for the next few months
+  source: https://www.npr.org/2025/04/16/nx-s1-5366851/doge-nlrb-whistleblower-musk-data
+  agency: NLRB
 
 - date: 2025-04-17
   type: disruption
@@ -6085,3 +6190,25 @@ events:
     date_filed: 2025-02-09
     link: https://www.courtlistener.com/docket/69624423/national-treasury-employees-union-v-vought/
     agency: CFPB
+
+- date: 2025-04-18
+  type: access_revoked
+  comment: Figure out what systems he was granted access for
+  event: Gavin Kliger's building and system access at the IRS is rescinded
+  named:
+  - Gavin Kliger
+  agency: IRS
+
+- date: 2025-04-18
+  type: offboarded
+  event: Gavin Kliger's building and system access at the IRS is rescinded
+  named:
+  - Gavin Kliger
+  agency: IRS
+
+- date: 2025-04-18
+  type: disruption
+  event: Multiple federal staffers who handle sensitive data related to migrant workers are placed on leave for raising objections
+    about DOGE access
+  source: https://www.politico.com/news/2025/04/18/labor-department-sidelines-staff-doge-immigrant-data-00299298
+  agency: DOL
