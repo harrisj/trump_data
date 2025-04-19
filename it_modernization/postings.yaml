@@ -443,6 +443,24 @@ postings:
   doge_agency_last: 2025-04-20
 
 - agency_id: DOGE
+  name: Mike Russo
+  first_date: 2025-01-30
+  all_dates:
+  - 2025-01-30
+  last_date: 2025-01-30
+  doge_agency_first: 2024-11-26
+  doge_agency_last: 2025-04-20
+
+- agency_id: DOGE
+  name: Scott Coulter
+  first_date: 2025-01-30
+  all_dates:
+  - 2025-01-30
+  last_date: 2025-01-30
+  doge_agency_first: 2024-11-26
+  doge_agency_last: 2025-04-20
+
+- agency_id: DOGE
   name: Kendall Lindemann
   first_date: 2025-02-14
   all_dates:
@@ -1820,9 +1838,8 @@ postings:
 
 - agency_id: SSA
   name: Mike Russo
-  first_date: 2025-01-30
+  first_date: 2025-01-31
   all_dates:
-  - 2025-01-30
   - 2025-01-31
   - 2025-02-03
   - 2025-02-10
@@ -1832,21 +1849,6 @@ postings:
   - 2025-03-25
   - 2025-03-26
   last_date: 2025-03-26
-  onboard_date: 2025-03-25
-  doge_agency_first: 2025-01-30
-  doge_agency_last: 2025-04-20
-
-- agency_id: SSA
-  name: Scott Coulter
-  first_date: 2025-01-30
-  all_dates:
-  - 2025-01-30
-  - 2025-02-18
-  - 2025-03-13
-  - 2025-03-25
-  - 2025-04-08
-  - 2025-04-10
-  last_date: 2025-04-10
   onboard_date: 2025-03-25
   doge_agency_first: 2025-01-30
   doge_agency_last: 2025-04-20
@@ -1897,6 +1899,20 @@ postings:
   - 2025-04-08
   last_date: 2025-04-08
   onboard_date: 2025-02-18
+  doge_agency_first: 2025-01-30
+  doge_agency_last: 2025-04-20
+
+- agency_id: SSA
+  name: Scott Coulter
+  first_date: 2025-02-18
+  all_dates:
+  - 2025-02-18
+  - 2025-03-13
+  - 2025-03-25
+  - 2025-04-08
+  - 2025-04-10
+  last_date: 2025-04-10
+  onboard_date: 2025-03-25
   doge_agency_first: 2025-01-30
   doge_agency_last: 2025-04-20
 

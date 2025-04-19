@@ -85,12 +85,12 @@ gantt
         Luke Farritor : 2025-01-30, 2025-04-20
     SECTION SSA
         Leland Dudek : 2025-01-30, 2025-04-20
-        Mike Russo : 2025-01-30, 2025-04-20
-        Scott Coulter : 2025-01-30, 2025-04-20
+        Mike Russo : 2025-01-31, 2025-04-20
         Akash Bobba : 2025-02-03, 2025-04-20
         Steve Davis : 2025-02-10, 2025-04-20
         Mark Steffensen : 2025-02-10, 2025-04-20
         Aram Moghaddassi : 2025-02-18, 2025-04-20
+        Scott Coulter : 2025-02-18, 2025-04-20
         Ethan Shaotran : 2025-02-18, 2025-04-20
         Nikhil Rajpal : 2025-02-20, 2025-04-20
         Cole Killian : 2025-02-20, 2025-04-20

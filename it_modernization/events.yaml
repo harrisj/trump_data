@@ -631,13 +631,15 @@ events:
   agency: GSA
 
 - date: 2025-01-30
-  type: report
+  type: interagency
   event: Leland Dudek reaches out to Tiffany Flick, the Associate Director of Budget, Facilities and Security to inform her
     two DOGE staff would be onboarding. He was a mid-level employee at the time.
-  named:
-  - Leland Dudek
-  - Mike Russo
-  - Scott Coulter
+  interagency_doge_reps:
+    SSA:
+    - Leland Dudek
+    DOGE:
+    - Mike Russo
+    - Scott Coulter
   source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
   agency: SSA
 
