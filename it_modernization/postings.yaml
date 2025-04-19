@@ -1061,7 +1061,7 @@ postings:
   - 2025-04-04
   last_date: 2025-04-04
   doge_agency_first: 2025-04-04
-  doge_agency_last: 2025-04-04
+  doge_agency_last: 2025-04-20
 
 - agency_id: FTC
   name: Emily Bryant
@@ -1070,7 +1070,7 @@ postings:
   - 2025-04-04
   last_date: 2025-04-04
   doge_agency_first: 2025-04-04
-  doge_agency_last: 2025-04-04
+  doge_agency_last: 2025-04-20
 
 - agency_id: GSA
   name: Stephen Ehikian
@@ -1439,7 +1439,7 @@ postings:
   last_date: 2025-04-18
   offboard_date: 2025-04-18
   doge_agency_first: 2025-02-19
-  doge_agency_last: 2025-04-18
+  doge_agency_last: 2025-04-20
 
 - agency_id: IRS
   name: Sam Corcos
@@ -1451,7 +1451,7 @@ postings:
   - 2025-04-10
   last_date: 2025-04-10
   doge_agency_first: 2025-02-19
-  doge_agency_last: 2025-04-18
+  doge_agency_last: 2025-04-20
 
 - agency_id: IRS
   name: Payton Rehling
@@ -1461,7 +1461,7 @@ postings:
   last_date: 2025-04-15
   onboard_date: 2025-04-15
   doge_agency_first: 2025-02-19
-  doge_agency_last: 2025-04-18
+  doge_agency_last: 2025-04-20
 
 - agency_id: IRS
   name: Jon Koval
@@ -1471,7 +1471,7 @@ postings:
   last_date: 2025-04-15
   onboard_date: 2025-04-15
   doge_agency_first: 2025-02-19
-  doge_agency_last: 2025-04-18
+  doge_agency_last: 2025-04-20
 
 - agency_id: NASA
   name: Scott Coulter

@@ -605,6 +605,7 @@ CBP:
   name: Customs and Border Patrol
   id: CBP
   parent_id: DHS
+  doge_base: true
   associated:
   - Marko Elez
   events: []
@@ -659,6 +660,7 @@ CISA:
 USDA:
   name: Department of Agriculture
   id: USDA
+  doge_base: true
   associated:
   - Gavin Kliger
   events:
@@ -2951,6 +2953,7 @@ FDIC:
 FTC:
   name: Federal Trade Commission
   id: FTC
+  doge_base: true
   associated:
   - Emily Bryant
   - Gavin Kliger
@@ -2970,6 +2973,7 @@ FDA:
   name: Food and Drug Administration
   id: FDA
   parent_id: HHS
+  doge_base: true
   associated: []
   events:
   - date: 2025-02-17
@@ -3720,6 +3724,7 @@ ICE:
   name: Immigration and Customs Enforcement
   id: ICE
   parent_id: DHS
+  doge_base: true
   associated:
   - Marko Elez
   events:
@@ -3848,6 +3853,7 @@ IRS:
   name: Internal Revenue Service
   id: IRS
   parent_id: Treasury
+  doge_base: true
   associated:
   - Baris Akis
   - Sam Corcos

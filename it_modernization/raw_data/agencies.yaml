@@ -27,6 +27,7 @@
 - name: Customs and Border Patrol
   id: CBP
   parent_id: DHS
+  doge_base: true
 
 - name: Cybersecurity and Infrastructure Security Agency
   id: CISA
@@ -35,6 +36,7 @@
 
 - name: Department of Agriculture
   id: USDA
+  doge_base: true
 
 - name: Department of Defense
   id: DOD
@@ -111,10 +113,12 @@
 
 - name: Federal Trade Commission
   id: FTC
+  doge_base: true
 
 - name: Food and Drug Administration
   id: FDA
   parent_id: HHS
+  doge_base: true
 
 - name: General Services Administration
   id: GSA
@@ -131,6 +135,7 @@
 - name: Immigration and Customs Enforcement
   id: ICE
   parent_id: DHS
+  doge_base: true
 
 - name: Institute for Museum and Library Services
   id: IMLS
@@ -141,6 +146,7 @@
 - name: Internal Revenue Service
   id: IRS
   parent_id: Treasury
+  doge_base: true
 
 - name: National Aeronautics and Space Administration
   id: NASA

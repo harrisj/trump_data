@@ -25,7 +25,7 @@ gantt
         Education : 2025-02-03, 2025-04-20
         SSA : 2025-02-03, 2025-04-20
     section Emily Bryant
-        FTC : 2025-04-04, 2025-04-04
+        FTC : 2025-04-04, 2025-04-20
     section James Burnham
         USIP : 2025-02-24, 2025-03-25
     section Nate Cavanaugh
@@ -36,7 +36,7 @@ gantt
     section Miles Collins
         DOL : 2025-03-05, 2025-04-20
     section Sam Corcos
-        IRS : 2025-02-28, 2025-04-18
+        IRS : 2025-02-28, 2025-04-20
     section Edward Coristine
         GSA : 2025-01-20, 2025-04-20
         OPM : 2025-02-02, 2025-04-20
@@ -135,13 +135,13 @@ gantt
         OPM : 2025-02-02, 2025-04-20
         CFPB : 2025-02-06, 2025-04-20
         IRS : 2025-02-19, 2025-04-18
-        FTC : 2025-04-04, 2025-04-04
+        FTC : 2025-04-04, 2025-04-20
     section Keenan Kmiec
         OPM : 2025-01-20, 2025-04-20
     section Jon Koval
         SSA : 2025-02-24, 2025-04-20
         VA : 2025-03-25, 2025-04-20
-        IRS : 2025-04-15, 2025-04-18
+        IRS : 2025-04-15, 2025-04-20
     section Tom Krause
         Treasury : 2025-01-20, 2025-04-20
     section Scott Kupor
@@ -203,7 +203,7 @@ gantt
         SSA : 2025-02-23, 2025-04-20
         USCIS : 2025-03-25, 2025-03-28
         VA : 2025-03-25, 2025-04-20
-        IRS : 2025-04-15, 2025-04-18
+        IRS : 2025-04-15, 2025-04-20
     section Ryan Riedel
         Energy : 2025-02-07, 2025-03-07
     section Rachel Riley

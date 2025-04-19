@@ -166,9 +166,9 @@ gantt
         Kyle Schutt : 2025-02-19, 2025-04-20
     SECTION IRS
         Gavin Kliger : 2025-02-19, 2025-04-18
-        Sam Corcos : 2025-02-28, 2025-04-18
-        Payton Rehling : 2025-04-15, 2025-04-18
-        Jon Koval : 2025-04-15, 2025-04-18
+        Sam Corcos : 2025-02-28, 2025-04-20
+        Payton Rehling : 2025-04-15, 2025-04-20
+        Jon Koval : 2025-04-15, 2025-04-20
     SECTION USADF
         Chris Young : 2025-02-20, 2025-03-06
         Ethan Shaotran : 2025-02-21, 2025-03-06
@@ -220,8 +220,8 @@ gantt
         Jordan Wick : 2025-04-04, 2025-04-20
         Jacob Altik : 2025-04-04, 2025-04-20
     SECTION FTC
-        Gavin Kliger : 2025-04-04, 2025-04-04
-        Emily Bryant : 2025-04-04, 2025-04-04
+        Gavin Kliger : 2025-04-04, 2025-04-20
+        Emily Bryant : 2025-04-04, 2025-04-20
     SECTION Peace
         Bridget Youngs : 2025-04-04, 2025-04-04
     SECTION FDIC
