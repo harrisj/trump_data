@@ -22,7 +22,7 @@ Each of these files has associated JSON schemas that can be used to validate the
 
 ## The Dates
 
-One important thing to note is that I am using the Extended Datetime Format of ISO 8601 to represent dates. This allows me to represent that certain dates are approximate rather than exact (it's very common for news reports to say something like "late last week"). If you are using Python, you can use the `edtf` package to parse them with your YAML parsing like this:
+One important thing to note is that I am using the [Extended Datetime Format of ISO 8601](https://www.datafix.com.au/BASHing/2020-02-12.html) to represent exact and imprecise dates. This allows me to represent that certain dates are approximate rather than exact (it's very common for news reports to say something like "late last week"). If you are using Python, you can use the `edtf` package to parse them with your YAML parsing like this:
 
 ```python
 from edtf import parse_edtf
