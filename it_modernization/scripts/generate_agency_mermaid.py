@@ -41,6 +41,8 @@ gantt
 
                 if 'offboard_date' in posting:
                     end = posting['offboard_date']
+                elif 'doge_agency_last_adjusted' in posting:
+                    end = posting['doge_agency_last_adjusted']
                 else:
                     end = posting['doge_agency_last']
 

@@ -59,24 +59,25 @@ def generate_postings_yaml():
 
     for p in postings.values():
         agency_id = p["agency_id"]
-        p["doge_agency_first"] = agency_dates[agency_id]["doge_agency_first"]
-
         agency = agency_dict[agency_id]
         doge_base = agency.get("doge_base", False)
+        p["agency_doge_base"] = doge_base
+        p["doge_agency_first"] = agency_dates[agency_id]["doge_agency_first"]
+        p["doge_agency_last"] = agency_dates[agency_id]["doge_agency_last"]
+
         if doge_base:
             # Assume DOGE continues to have a presence even if not reported
             today = date.today()
             end_of_week = today + timedelta(days=(6 - today.weekday()))
-            p["doge_agency_last"] = end_of_week
-        else:
-            p["doge_agency_last"] = agency_dates[agency_id]["doge_agency_last"]
+            p["doge_agency_last_adjusted"] = end_of_week
 
     return sorted(postings.values(), key=lambda x: (x['agency_id'], x['first_date']))
 
 meta = {
     "title": "Postings",
     "version": FILE_VERSION,
-    "generated": date.today()
+    "generated": date.today(),
+    "note": "For doge_base agencies, I set the doge_agency_last to be the end of the current week to demonstrate that DOGE presence is likely continued there if not documented"
 }
 
 postings = generate_postings_yaml()

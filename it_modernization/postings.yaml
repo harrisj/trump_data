@@ -3,6 +3,8 @@ meta:
   title: Postings
   version: 1.0.0
   generated: 2025-04-20
+  note: For doge_base agencies, I set the doge_agency_last to be the end of the current week to demonstrate that DOGE presence
+    is likely continued there if not documented
 
 postings:
 
@@ -13,8 +15,10 @@ postings:
   - 2025-01-30
   - 2025-02-24
   last_date: 2025-02-24
+  agency_doge_base: true
   doge_agency_first: 2025-01-30
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-02-24
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: CFPB
   name: Nikhil Rajpal
@@ -25,8 +29,10 @@ postings:
   - 2025-03-21
   last_date: 2025-03-21
   offboard_date: 2025-03-21
+  agency_doge_base: true
   doge_agency_first: 2025-02-06
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-17
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: CFPB
   name: Gavin Kliger
@@ -36,8 +42,10 @@ postings:
   - 2025-02-07
   - 2025-04-17
   last_date: 2025-04-17
+  agency_doge_base: true
   doge_agency_first: 2025-02-06
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-17
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: CFPB
   name: Chris Young
@@ -46,8 +54,10 @@ postings:
   - 2025-02-06
   - 2025-02-12
   last_date: 2025-02-12
+  agency_doge_base: true
   doge_agency_first: 2025-02-06
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-17
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: CFPB
   name: Jordan Wick
@@ -60,8 +70,10 @@ postings:
   - 2025-03-05
   last_date: 2025-03-05
   onboard_date: 2025-03-05
+  agency_doge_base: true
   doge_agency_first: 2025-02-06
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-17
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: CFPB
   name: Luke Farritor
@@ -71,8 +83,10 @@ postings:
   - 2025-03-04
   last_date: 2025-03-04
   offboard_date: 2025-03-04
+  agency_doge_base: true
   doge_agency_first: 2025-02-06
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-17
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: CIA
   name: Elon Musk
@@ -80,6 +94,7 @@ postings:
   all_dates:
   - 2025-03-31
   last_date: 2025-03-31
+  agency_doge_base: false
   doge_agency_first: 2025-03-31
   doge_agency_last: 2025-03-31
 
@@ -90,8 +105,10 @@ postings:
   - 2025-02-19
   - 2025-02-20
   last_date: 2025-02-20
+  agency_doge_base: true
   doge_agency_first: 2025-02-19
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-02-20
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: CISA
   name: Kyle Schutt
@@ -99,8 +116,10 @@ postings:
   all_dates:
   - 2025-02-19
   last_date: 2025-02-19
+  agency_doge_base: true
   doge_agency_first: 2025-02-19
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-02-20
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: CMS
   name: Luke Farritor
@@ -110,8 +129,10 @@ postings:
   - 2025-02-18
   - 2025-03-29
   last_date: 2025-03-29
+  agency_doge_base: true
   doge_agency_first: 2025-01-31
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-03-29
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: CMS
   name: Amy Gleason
@@ -120,8 +141,10 @@ postings:
   - 2025-02-24
   - 2025-03-29
   last_date: 2025-03-29
+  agency_doge_base: true
   doge_agency_first: 2025-01-31
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-03-29
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: CMS
   name: Edward Coristine
@@ -132,8 +155,10 @@ postings:
   - 2025-03-29
   last_date: 2025-03-29
   onboard_date: 2025-03-05
+  agency_doge_base: true
   doge_agency_first: 2025-01-31
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-03-29
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: CMS
   name: Marko Elez
@@ -142,8 +167,10 @@ postings:
   - 2025-03-05
   - 2025-03-29
   last_date: 2025-03-29
+  agency_doge_base: true
   doge_agency_first: 2025-01-31
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-03-29
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: Commerce
   name: Michael Grimes
@@ -153,8 +180,10 @@ postings:
   - 2025-03-28
   last_date: 2025-03-28
   onboard_date: 2025-01-29
+  agency_doge_base: true
   doge_agency_first: 2025-01-29
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-03-28
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DHS
   name: Edward Coristine
@@ -162,8 +191,10 @@ postings:
   all_dates:
   - 2025-02-10
   last_date: 2025-02-10
+  agency_doge_base: true
   doge_agency_first: 2025-02-10
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-03-11
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DHS
   name: Kyle Schutt
@@ -171,8 +202,10 @@ postings:
   all_dates:
   - 2025-02-10
   last_date: 2025-02-10
+  agency_doge_base: true
   doge_agency_first: 2025-02-10
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-03-11
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DHS
   name: Antoine McCord
@@ -181,8 +214,10 @@ postings:
   - 2025-03-11
   last_date: 2025-03-11
   onboard_date: 2025-03-11
+  agency_doge_base: true
   doge_agency_first: 2025-02-10
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-03-11
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOD
   name: Justin Fulcher
@@ -190,8 +225,10 @@ postings:
   all_dates:
   - 2025-03-04
   last_date: 2025-03-04
+  agency_doge_base: true
   doge_agency_first: 2025-03-04
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOD
   name: Elon Musk
@@ -199,8 +236,10 @@ postings:
   all_dates:
   - 2025-03-21
   last_date: 2025-03-21
+  agency_doge_base: true
   doge_agency_first: 2025-03-04
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOD
   name: Luke Farritor
@@ -208,8 +247,10 @@ postings:
   all_dates:
   - 2025-04-12
   last_date: 2025-04-12
+  agency_doge_base: true
   doge_agency_first: 2025-03-04
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Anthony Jancso
@@ -218,8 +259,10 @@ postings:
   - 2024-11-26
   - 2024-12-05
   last_date: 2024-12-05
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Luke Farritor
@@ -228,8 +271,10 @@ postings:
   - 2024-12-05
   - 2025-03-05
   last_date: 2025-03-05
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Elon Musk
@@ -239,8 +284,10 @@ postings:
   - 2025-03-27
   - 2025-03-28
   last_date: 2025-03-28
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Marc Andreessen
@@ -250,8 +297,10 @@ postings:
   - 2025-01-16
   - 2025-01-24
   last_date: 2025-01-24
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Jared Birchall
@@ -259,8 +308,10 @@ postings:
   all_dates:
   - 2024-12-06
   last_date: 2024-12-06
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Shaun Maguire
@@ -270,8 +321,10 @@ postings:
   - 2025-01-16
   - 2025-01-24
   last_date: 2025-01-24
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Scott Kupor
@@ -279,8 +332,10 @@ postings:
   all_dates:
   - 2024-12-06
   last_date: 2024-12-06
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Michael Kratsios
@@ -290,8 +345,10 @@ postings:
   - 2025-03-25
   last_date: 2025-03-25
   offboard_date: 2025-03-25
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Steve Davis
@@ -303,8 +360,10 @@ postings:
   - 2025-03-27
   - 2025-03-28
   last_date: 2025-03-28
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Baris Akis
@@ -313,8 +372,10 @@ postings:
   - 2024-12-06
   - 2025-01-24
   last_date: 2025-01-24
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Amy Gleason
@@ -326,8 +387,10 @@ postings:
   - 2025-03-19
   last_date: 2025-03-19
   onboard_date: 2024-12-30
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Riley Sennott
@@ -336,8 +399,10 @@ postings:
   - 2025-01-06
   - 2025-01-17
   last_date: 2025-01-17
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Derek Geissler
@@ -345,8 +410,10 @@ postings:
   all_dates:
   - 2025-01-17
   last_date: 2025-01-17
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Brooks Morgan
@@ -354,8 +421,10 @@ postings:
   all_dates:
   - 2025-01-17
   last_date: 2025-01-17
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Conor Fennessy
@@ -363,8 +432,10 @@ postings:
   all_dates:
   - 2025-01-17
   last_date: 2025-01-17
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Cole Killian
@@ -373,8 +444,10 @@ postings:
   - 2025-01-21
   - 2025-02-02
   last_date: 2025-02-02
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Nikhil Rajpal
@@ -382,8 +455,10 @@ postings:
   all_dates:
   - 2025-01-21
   last_date: 2025-01-21
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Adam Ramada
@@ -392,8 +467,10 @@ postings:
   - 2025-01-23
   last_date: 2025-01-23
   onboard_date: 2025-01-23
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Katie Miller
@@ -401,8 +478,10 @@ postings:
   all_dates:
   - 2025-01-24
   last_date: 2025-01-24
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Brad Smith
@@ -411,8 +490,10 @@ postings:
   - 2025-01-24
   - 2025-03-27
   last_date: 2025-03-27
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Rachel Riley
@@ -420,8 +501,10 @@ postings:
   all_dates:
   - 2025-01-24
   last_date: 2025-01-24
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Joanna Wischer
@@ -429,8 +512,10 @@ postings:
   all_dates:
   - 2025-01-24
   last_date: 2025-01-24
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: James Burnham
@@ -439,8 +524,10 @@ postings:
   - 2025-01-24
   - 2025-03-26
   last_date: 2025-03-26
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Mike Russo
@@ -448,8 +535,10 @@ postings:
   all_dates:
   - 2025-01-30
   last_date: 2025-01-30
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Scott Coulter
@@ -457,8 +546,10 @@ postings:
   all_dates:
   - 2025-01-30
   last_date: 2025-01-30
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Kendall Lindemann
@@ -467,8 +558,10 @@ postings:
   - 2025-02-14
   last_date: 2025-02-14
   onboard_date: 2025-02-14
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Christopher Stanley
@@ -476,8 +569,10 @@ postings:
   all_dates:
   - 2025-02-18
   last_date: 2025-02-18
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Marko Elez
@@ -486,8 +581,10 @@ postings:
   - 2025-03-05
   - 2025-04-16
   last_date: 2025-04-16
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Edward Coristine
@@ -496,8 +593,10 @@ postings:
   - 2025-03-05
   - 2025-04-16
   last_date: 2025-04-16
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Justin Aimonetti
@@ -506,8 +605,10 @@ postings:
   - 2025-03-05
   - 2025-03-26
   last_date: 2025-03-26
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Ashley Boizelle
@@ -516,8 +617,10 @@ postings:
   - 2025-03-05
   - 2025-03-26
   last_date: 2025-03-26
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Joshua Fox
@@ -526,8 +629,10 @@ postings:
   - 2025-03-05
   - 2025-03-26
   last_date: 2025-03-26
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Joshua Hanley
@@ -536,8 +641,10 @@ postings:
   - 2025-03-05
   - 2025-03-26
   last_date: 2025-03-26
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Jeremy Lewin
@@ -546,8 +653,10 @@ postings:
   - 2025-03-19
   - 2025-03-26
   last_date: 2025-03-26
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Noah Peters
@@ -555,8 +664,10 @@ postings:
   all_dates:
   - 2025-03-26
   last_date: 2025-03-26
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Jacob Altik
@@ -564,8 +675,10 @@ postings:
   all_dates:
   - 2025-03-26
   last_date: 2025-03-26
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Daniel Abrahamson
@@ -573,8 +686,10 @@ postings:
   all_dates:
   - 2025-03-26
   last_date: 2025-03-26
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Keenan Kmiec
@@ -582,8 +697,10 @@ postings:
   all_dates:
   - 2025-03-26
   last_date: 2025-03-26
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Austin Raynor
@@ -591,8 +708,10 @@ postings:
   all_dates:
   - 2025-03-26
   last_date: 2025-03-26
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Joe Gebbia
@@ -601,8 +720,10 @@ postings:
   - 2025-03-27
   - 2025-04-16
   last_date: 2025-04-16
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Tom Krause
@@ -610,8 +731,10 @@ postings:
   all_dates:
   - 2025-03-27
   last_date: 2025-03-27
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Anthony Armstrong
@@ -619,8 +742,10 @@ postings:
   all_dates:
   - 2025-03-27
   last_date: 2025-03-27
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOGE
   name: Aram Moghaddassi
@@ -628,8 +753,10 @@ postings:
   all_dates:
   - 2025-03-27
   last_date: 2025-03-27
+  agency_doge_base: true
   doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOI
   name: Tyler Hassen
@@ -640,8 +767,10 @@ postings:
   - 2025-03-07
   - 2025-03-28
   last_date: 2025-03-28
+  agency_doge_base: true
   doge_agency_first: 2025-01-28
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOI
   name: Bryton Shang
@@ -649,8 +778,10 @@ postings:
   all_dates:
   - 2025-01-28
   last_date: 2025-01-28
+  agency_doge_base: true
   doge_agency_first: 2025-01-28
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOI
   name: Stephanie Holmes
@@ -662,8 +793,10 @@ postings:
   - 2025-03-29
   last_date: 2025-03-29
   onboard_date: 2025-02-24
+  agency_doge_base: true
   doge_agency_first: 2025-01-28
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOI
   name: Katrine Trampe
@@ -673,8 +806,10 @@ postings:
   - 2025-03-28
   - 2025-03-29
   last_date: 2025-03-29
+  agency_doge_base: true
   doge_agency_first: 2025-01-28
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOI
   name: Luke Farritor
@@ -682,8 +817,10 @@ postings:
   all_dates:
   - 2025-04-12
   last_date: 2025-04-12
+  agency_doge_base: true
   doge_agency_first: 2025-01-28
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOJ
   name: Tarak Makecha
@@ -692,8 +829,10 @@ postings:
   - 2025-03-30~
   last_date: 2025-03-30~
   onboard_date: 2025-03-30~
+  agency_doge_base: true
   doge_agency_first: 2025-03-30~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-01
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOJ
   name: Christopher Stanley
@@ -701,8 +840,10 @@ postings:
   all_dates:
   - 2025-04-01
   last_date: 2025-04-01
+  agency_doge_base: true
   doge_agency_first: 2025-03-30~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-01
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOL
   name: Elon Musk
@@ -710,8 +851,10 @@ postings:
   all_dates:
   - 2025-02-04
   last_date: 2025-02-04
+  agency_doge_base: true
   doge_agency_first: 2025-02-04
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOL
   name: Sam Beyda
@@ -719,8 +862,10 @@ postings:
   all_dates:
   - 2025-02-13
   last_date: 2025-02-13
+  agency_doge_base: true
   doge_agency_first: 2025-02-04
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOL
   name: Derek Geissler
@@ -728,8 +873,10 @@ postings:
   all_dates:
   - 2025-02-13
   last_date: 2025-02-13
+  agency_doge_base: true
   doge_agency_first: 2025-02-04
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOL
   name: Cole Killian
@@ -737,8 +884,10 @@ postings:
   all_dates:
   - 2025-02-13
   last_date: 2025-02-13
+  agency_doge_base: true
   doge_agency_first: 2025-02-04
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOL
   name: Adam Ramada
@@ -746,8 +895,10 @@ postings:
   all_dates:
   - 2025-02-13
   last_date: 2025-02-13
+  agency_doge_base: true
   doge_agency_first: 2025-02-04
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOL
   name: Jordan Wick
@@ -755,8 +906,10 @@ postings:
   all_dates:
   - 2025-02-13
   last_date: 2025-02-13
+  agency_doge_base: true
   doge_agency_first: 2025-02-04
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOL
   name: Marko Elez
@@ -768,8 +921,10 @@ postings:
   - 2025-03-21
   - 2025-04-18
   last_date: 2025-04-18
+  agency_doge_base: true
   doge_agency_first: 2025-02-04
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOL
   name: Aram Moghaddassi
@@ -778,8 +933,10 @@ postings:
   - 2025-03-05
   - 2025-04-18
   last_date: 2025-04-18
+  agency_doge_base: true
   doge_agency_first: 2025-02-04
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOL
   name: Miles Collins
@@ -788,8 +945,10 @@ postings:
   - 2025-03-05
   - 2025-04-18
   last_date: 2025-04-18
+  agency_doge_base: true
   doge_agency_first: 2025-02-04
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOL
   name: Thomas Shedd
@@ -798,8 +957,10 @@ postings:
   - 2025-03-14
   last_date: 2025-03-14
   onboard_date: 2025-03-14
+  agency_doge_base: true
   doge_agency_first: 2025-02-04
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOL
   name: Keith Sonderling
@@ -808,8 +969,10 @@ postings:
   - 2025-03-18
   last_date: 2025-03-18
   onboard_date: 2025-03-18
+  agency_doge_base: true
   doge_agency_first: 2025-02-04
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: EPA
   name: Cole Killian
@@ -818,8 +981,10 @@ postings:
   - 2025-02-04
   - 2025-02-12
   last_date: 2025-02-12
+  agency_doge_base: true
   doge_agency_first: 2025-02-04
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-02-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: EPA
   name: Erica Jehling
@@ -827,8 +992,10 @@ postings:
   all_dates:
   - 2025-02-12
   last_date: 2025-02-12
+  agency_doge_base: true
   doge_agency_first: 2025-02-04
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-02-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: EPA
   name: Kathryn Armstrong Loving
@@ -836,8 +1003,10 @@ postings:
   all_dates:
   - 2025-02-12
   last_date: 2025-02-12
+  agency_doge_base: true
   doge_agency_first: 2025-02-04
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-02-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: Education
   name: Adam Ramada
@@ -850,8 +1019,10 @@ postings:
   - 2025-02-24
   last_date: 2025-02-24
   onboard_date: 2025-01-28
+  agency_doge_base: true
   doge_agency_first: 2025-01-28
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-02-24
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: Education
   name: Conor Fennessy
@@ -860,8 +1031,10 @@ postings:
   - 2025-01-31
   last_date: 2025-01-31
   onboard_date: 2025-01-31
+  agency_doge_base: true
   doge_agency_first: 2025-01-28
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-02-24
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: Education
   name: Akash Bobba
@@ -872,8 +1045,10 @@ postings:
   - 2025-02-12
   last_date: 2025-02-12
   onboard_date: 2025-02-12
+  agency_doge_base: true
   doge_agency_first: 2025-01-28
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-02-24
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: Education
   name: Ethan Shaotran
@@ -884,8 +1059,10 @@ postings:
   - 2025-02-12
   last_date: 2025-02-12
   onboard_date: 2025-02-03
+  agency_doge_base: true
   doge_agency_first: 2025-01-28
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-02-24
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: Education
   name: Brooks Morgan
@@ -895,8 +1072,10 @@ postings:
   - 2025-02-13
   last_date: 2025-02-13
   onboard_date: 2025-02-04
+  agency_doge_base: true
   doge_agency_first: 2025-01-28
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-02-24
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: Education
   name: Alexandra Beynon
@@ -906,8 +1085,10 @@ postings:
   - 2025-02-13
   last_date: 2025-02-13
   onboard_date: 2025-02-05
+  agency_doge_base: true
   doge_agency_first: 2025-01-28
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-02-24
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: Education
   name: Jordan Wick
@@ -916,8 +1097,10 @@ postings:
   - 2025-02-20
   last_date: 2025-02-20
   onboard_date: 2025-02-20
+  agency_doge_base: true
   doge_agency_first: 2025-01-28
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-02-24
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: Education
   name: Edward Coristine
@@ -926,8 +1109,10 @@ postings:
   - 2025-02-20
   last_date: 2025-02-20
   onboard_date: 2025-02-20
+  agency_doge_base: true
   doge_agency_first: 2025-01-28
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-02-24
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: Energy
   name: Luke Farritor
@@ -935,8 +1120,10 @@ postings:
   all_dates:
   - 2025-02-05
   last_date: 2025-02-05
+  agency_doge_base: true
   doge_agency_first: 2025-02-05
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-03-07
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: Energy
   name: Ryan Riedel
@@ -947,8 +1134,10 @@ postings:
   last_date: 2025-03-07
   onboard_date: 2025-02-07
   offboard_date: 2025-03-07
+  agency_doge_base: true
   doge_agency_first: 2025-02-05
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-03-07
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: FAA
   name: Ted Malaska
@@ -958,6 +1147,7 @@ postings:
   - 2025-02-18
   last_date: 2025-02-18
   onboard_date: 2025-02-16
+  agency_doge_base: false
   doge_agency_first: 2025-02-16
   doge_agency_last: 2025-02-18
 
@@ -968,6 +1158,7 @@ postings:
   - 2025-02-16
   last_date: 2025-02-16
   onboard_date: 2025-02-16
+  agency_doge_base: false
   doge_agency_first: 2025-02-16
   doge_agency_last: 2025-02-18
 
@@ -978,6 +1169,7 @@ postings:
   - 2025-02-16
   last_date: 2025-02-16
   onboard_date: 2025-02-16
+  agency_doge_base: false
   doge_agency_first: 2025-02-16
   doge_agency_last: 2025-02-18
 
@@ -988,6 +1180,7 @@ postings:
   - 2025-02-16
   last_date: 2025-02-16
   onboard_date: 2025-02-16
+  agency_doge_base: false
   doge_agency_first: 2025-02-16
   doge_agency_last: 2025-02-18
 
@@ -997,8 +1190,10 @@ postings:
   all_dates:
   - 2025-01-29
   last_date: 2025-01-29
+  agency_doge_base: true
   doge_agency_first: 2025-01-29
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-03-30~
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: FBI
   name: Tarak Makecha
@@ -1007,8 +1202,10 @@ postings:
   - 2025-03-30~
   last_date: 2025-03-30~
   onboard_date: 2025-03-30~
+  agency_doge_base: true
   doge_agency_first: 2025-01-29
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-03-30~
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: FCC
   name: Tarak Makecha
@@ -1016,8 +1213,10 @@ postings:
   all_dates:
   - 2025-04-04
   last_date: 2025-04-04
+  agency_doge_base: true
   doge_agency_first: 2025-04-04
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-04
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: FCC
   name: Jordan Wick
@@ -1025,8 +1224,10 @@ postings:
   all_dates:
   - 2025-04-04
   last_date: 2025-04-04
+  agency_doge_base: true
   doge_agency_first: 2025-04-04
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-04
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: FCC
   name: Jacob Altik
@@ -1034,8 +1235,10 @@ postings:
   all_dates:
   - 2025-04-04
   last_date: 2025-04-04
+  agency_doge_base: true
   doge_agency_first: 2025-04-04
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-04
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: FDIC
   name: Brooks Morgan
@@ -1043,6 +1246,7 @@ postings:
   all_dates:
   - 2025-04-10
   last_date: 2025-04-10
+  agency_doge_base: false
   doge_agency_first: 2025-04-10
   doge_agency_last: 2025-04-10
 
@@ -1052,6 +1256,7 @@ postings:
   all_dates:
   - 2025-04-10
   last_date: 2025-04-10
+  agency_doge_base: false
   doge_agency_first: 2025-04-10
   doge_agency_last: 2025-04-10
 
@@ -1061,6 +1266,7 @@ postings:
   all_dates:
   - 2025-04-10
   last_date: 2025-04-10
+  agency_doge_base: false
   doge_agency_first: 2025-04-10
   doge_agency_last: 2025-04-10
 
@@ -1071,8 +1277,10 @@ postings:
   - 2025-02-05
   last_date: 2025-02-05
   onboard_date: 2025-02-05
+  agency_doge_base: true
   doge_agency_first: 2025-02-05
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-02-05
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: FHFA
   name: Christopher Stanley
@@ -1083,6 +1291,7 @@ postings:
   last_date: 2025-03-18
   onboard_date: 2025-03-17
   offboard_date: 2025-03-18
+  agency_doge_base: false
   doge_agency_first: 2025-03-17
   doge_agency_last: 2025-03-18
 
@@ -1092,8 +1301,10 @@ postings:
   all_dates:
   - 2025-04-04
   last_date: 2025-04-04
+  agency_doge_base: true
   doge_agency_first: 2025-04-04
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-04
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: FTC
   name: Emily Bryant
@@ -1101,8 +1312,10 @@ postings:
   all_dates:
   - 2025-04-04
   last_date: 2025-04-04
+  agency_doge_base: true
   doge_agency_first: 2025-04-04
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-04
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: GSA
   name: Stephen Ehikian
@@ -1115,8 +1328,10 @@ postings:
   - 2025-04-08
   last_date: 2025-04-08
   onboard_date: 2025-01-20
+  agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-08
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: GSA
   name: Luke Farritor
@@ -1129,8 +1344,10 @@ postings:
   - 2025-04-08
   last_date: 2025-04-08
   onboard_date: 2025-01-20~
+  agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-08
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: GSA
   name: Nicole Hollander
@@ -1143,8 +1360,10 @@ postings:
   - 2025-03-04
   last_date: 2025-03-04
   onboard_date: 2025-01-20~
+  agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-08
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: GSA
   name: Edward Coristine
@@ -1157,8 +1376,10 @@ postings:
   - 2025-04-08
   last_date: 2025-04-08
   onboard_date: 2025-01-20~
+  agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-08
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: GSA
   name: Ethan Shaotran
@@ -1170,8 +1391,10 @@ postings:
   - 2025-03-04
   last_date: 2025-03-04
   onboard_date: 2025-01-20~
+  agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-08
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: GSA
   name: Frank Schuler
@@ -1181,8 +1404,10 @@ postings:
   - 2025-02-18~
   last_date: 2025-02-18~
   onboard_date: 2025-01-20~
+  agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-08
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: GSA
   name: Thomas Shedd
@@ -1198,8 +1423,10 @@ postings:
   - 2025-03-06
   last_date: 2025-03-06
   onboard_date: 2025-01-24
+  agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-08
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: GSA
   name: Elon Musk
@@ -1207,8 +1434,10 @@ postings:
   all_dates:
   - 2025-01-30
   last_date: 2025-01-30
+  agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-08
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: GSA
   name: Steve Davis
@@ -1218,8 +1447,10 @@ postings:
   - 2025-01-31
   - 2025-04-08
   last_date: 2025-04-08
+  agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-08
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: GSA
   name: Akash Bobba
@@ -1228,8 +1459,10 @@ postings:
   - 2025-02-02
   - 2025-04-08
   last_date: 2025-04-08
+  agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-08
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: GSA
   name: Riley Sennott
@@ -1238,8 +1471,10 @@ postings:
   - 2025-02-12
   last_date: 2025-02-12
   onboard_date: 2025-02-12
+  agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-08
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: GSA
   name: Nate Cavanaugh
@@ -1249,8 +1484,10 @@ postings:
   - 2025-03-04
   - 2025-04-08
   last_date: 2025-04-08
+  agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-08
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: GSA
   name: Kyle Schutt
@@ -1258,8 +1495,10 @@ postings:
   all_dates:
   - 2025-03-04
   last_date: 2025-03-04
+  agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-08
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: GSA
   name: Derek Geissler
@@ -1267,8 +1506,10 @@ postings:
   all_dates:
   - 2025-03-04
   last_date: 2025-03-04
+  agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-08
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: HHS
   name: Luke Farritor
@@ -1285,8 +1526,10 @@ postings:
   - 2025-04-12
   last_date: 2025-04-12
   onboard_date: 2025-01-21
+  agency_doge_base: true
   doge_agency_first: 2025-01-21
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: HHS
   name: Clark Minor
@@ -1295,8 +1538,10 @@ postings:
   - 2025-02-14
   last_date: 2025-02-14
   onboard_date: 2025-02-14
+  agency_doge_base: true
   doge_agency_first: 2025-01-21
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: HHS
   name: Amy Gleason
@@ -1306,8 +1551,10 @@ postings:
   - 2025-03-29
   last_date: 2025-03-29
   onboard_date: 2025-03-04
+  agency_doge_base: true
   doge_agency_first: 2025-01-21
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: HHS
   name: Brad Smith
@@ -1317,8 +1564,10 @@ postings:
   - 2025-03-28
   last_date: 2025-03-28
   onboard_date: 2025-03-04
+  agency_doge_base: true
   doge_agency_first: 2025-01-21
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: HHS
   name: Marko Elez
@@ -1329,8 +1578,10 @@ postings:
   - 2025-03-29
   last_date: 2025-03-29
   onboard_date: 2025-03-05
+  agency_doge_base: true
   doge_agency_first: 2025-01-21
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: HHS
   name: Edward Coristine
@@ -1339,8 +1590,10 @@ postings:
   - 2025-03-13
   - 2025-03-29
   last_date: 2025-03-29
+  agency_doge_base: true
   doge_agency_first: 2025-01-21
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: HHS
   name: Aram Moghaddassi
@@ -1348,8 +1601,10 @@ postings:
   all_dates:
   - 2025-03-13
   last_date: 2025-03-13
+  agency_doge_base: true
   doge_agency_first: 2025-01-21
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: HHS
   name: Rachel Riley
@@ -1357,8 +1612,10 @@ postings:
   all_dates:
   - 2025-03-13
   last_date: 2025-03-13
+  agency_doge_base: true
   doge_agency_first: 2025-01-21
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: HHS
   name: Kyle Schutt
@@ -1369,8 +1626,10 @@ postings:
   - 2025-03-29
   last_date: 2025-03-29
   onboard_date: 2025-03-14
+  agency_doge_base: true
   doge_agency_first: 2025-01-21
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: HHS
   name: Conor Fennessy
@@ -1378,8 +1637,10 @@ postings:
   all_dates:
   - 2025-03-29
   last_date: 2025-03-29
+  agency_doge_base: true
   doge_agency_first: 2025-01-21
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: HHS
   name: Jeremy Lewin
@@ -1387,8 +1648,10 @@ postings:
   all_dates:
   - 2025-03-29
   last_date: 2025-03-29
+  agency_doge_base: true
   doge_agency_first: 2025-01-21
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: HUD
   name: Scott Langmack
@@ -1397,8 +1660,10 @@ postings:
   - 2025-02-10
   - 2025-02-26
   last_date: 2025-02-26
+  agency_doge_base: true
   doge_agency_first: 2025-02-10
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-15
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: HUD
   name: Michael Mirski
@@ -1408,8 +1673,10 @@ postings:
   - 2025-02-26
   - 2025-04-15
   last_date: 2025-04-15
+  agency_doge_base: true
   doge_agency_first: 2025-02-10
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-15
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: IAF
   name: Peter Marocco
@@ -1418,6 +1685,7 @@ postings:
   - 2025-02-28
   last_date: 2025-02-28
   onboard_date: 2025-02-28
+  agency_doge_base: false
   doge_agency_first: 2025-02-28
   doge_agency_last: 2025-03-10
 
@@ -1427,6 +1695,7 @@ postings:
   all_dates:
   - 2025-03-10
   last_date: 2025-03-10
+  agency_doge_base: false
   doge_agency_first: 2025-02-28
   doge_agency_last: 2025-03-10
 
@@ -1437,6 +1706,7 @@ postings:
   - 2025-03-20
   last_date: 2025-03-20
   onboard_date: 2025-03-20
+  agency_doge_base: false
   doge_agency_first: 2025-03-20
   doge_agency_last: 2025-03-31
 
@@ -1446,6 +1716,7 @@ postings:
   all_dates:
   - 2025-03-31
   last_date: 2025-03-31
+  agency_doge_base: false
   doge_agency_first: 2025-03-20
   doge_agency_last: 2025-03-31
 
@@ -1455,6 +1726,7 @@ postings:
   all_dates:
   - 2025-03-31
   last_date: 2025-03-31
+  agency_doge_base: false
   doge_agency_first: 2025-03-20
   doge_agency_last: 2025-03-31
 
@@ -1470,8 +1742,10 @@ postings:
   - 2025-04-18
   last_date: 2025-04-18
   offboard_date: 2025-04-18
+  agency_doge_base: true
   doge_agency_first: 2025-02-19
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: IRS
   name: Sam Corcos
@@ -1482,8 +1756,10 @@ postings:
   - 2025-04-08
   - 2025-04-10
   last_date: 2025-04-10
+  agency_doge_base: true
   doge_agency_first: 2025-02-19
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: IRS
   name: Payton Rehling
@@ -1492,8 +1768,10 @@ postings:
   - 2025-04-15
   last_date: 2025-04-15
   onboard_date: 2025-04-15
+  agency_doge_base: true
   doge_agency_first: 2025-02-19
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: IRS
   name: Jon Koval
@@ -1502,8 +1780,10 @@ postings:
   - 2025-04-15
   last_date: 2025-04-15
   onboard_date: 2025-04-15
+  agency_doge_base: true
   doge_agency_first: 2025-02-19
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: NASA
   name: Scott Coulter
@@ -1511,8 +1791,10 @@ postings:
   all_dates:
   - 2025-03-14
   last_date: 2025-03-14
+  agency_doge_base: true
   doge_agency_first: 2025-03-14
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-03-14
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: NASA
   name: Alexander Simonpour
@@ -1520,8 +1802,10 @@ postings:
   all_dates:
   - 2025-03-14
   last_date: 2025-03-14
+  agency_doge_base: true
   doge_agency_first: 2025-03-14
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-03-14
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: NASA
   name: Riley Sennott
@@ -1529,8 +1813,10 @@ postings:
   all_dates:
   - 2025-03-14
   last_date: 2025-03-14
+  agency_doge_base: true
   doge_agency_first: 2025-03-14
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-03-14
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: NIH
   name: Luke Farritor
@@ -1540,8 +1826,10 @@ postings:
   - 2025-02-28
   - 2025-04-12
   last_date: 2025-04-12
+  agency_doge_base: true
   doge_agency_first: 2025-02-24
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: NIH
   name: Rachel Riley
@@ -1549,8 +1837,10 @@ postings:
   all_dates:
   - 2025-02-24
   last_date: 2025-02-24
+  agency_doge_base: true
   doge_agency_first: 2025-02-24
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: NIH
   name: Jeremy Lewin
@@ -1558,8 +1848,10 @@ postings:
   all_dates:
   - 2025-02-24
   last_date: 2025-02-24
+  agency_doge_base: true
   doge_agency_first: 2025-02-24
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: NIH
   name: Clark Minor
@@ -1567,8 +1859,10 @@ postings:
   all_dates:
   - 2025-02-24
   last_date: 2025-02-24
+  agency_doge_base: true
   doge_agency_first: 2025-02-24
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: NIH
   name: Joshua Hanley
@@ -1576,8 +1870,10 @@ postings:
   all_dates:
   - 2025-03-03
   last_date: 2025-03-03
+  agency_doge_base: true
   doge_agency_first: 2025-02-24
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: NLRB
   name: Jordan Wick
@@ -1585,6 +1881,7 @@ postings:
   all_dates:
   - 2025-02-28
   last_date: 2025-02-28
+  agency_doge_base: false
   doge_agency_first: 2025-02-28
   doge_agency_last: 2025-02-28
 
@@ -1594,8 +1891,10 @@ postings:
   all_dates:
   - 2025-02-05
   last_date: 2025-02-05
+  agency_doge_base: true
   doge_agency_first: 2025-02-05
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-02
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: NOAA
   name: Bryton Shang
@@ -1604,8 +1903,10 @@ postings:
   - 2025-04-02
   last_date: 2025-04-02
   onboard_date: 2025-04-02
+  agency_doge_base: true
   doge_agency_first: 2025-02-05
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-02
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: NSA
   name: Elon Musk
@@ -1613,6 +1914,7 @@ postings:
   all_dates:
   - 2025-03-12
   last_date: 2025-03-12
+  agency_doge_base: false
   doge_agency_first: 2025-03-12
   doge_agency_last: 2025-03-12
 
@@ -1626,8 +1928,10 @@ postings:
   - 2025-02-12
   last_date: 2025-02-12
   onboard_date: 2025-01-20
+  agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-03
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: OPM
   name: Keenan Kmiec
@@ -1635,8 +1939,10 @@ postings:
   all_dates:
   - 2025-01-16~
   last_date: 2025-01-16~
+  agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-03
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: OPM
   name: Amanda Scales
@@ -1649,8 +1955,10 @@ postings:
   - 2025-02-12
   last_date: 2025-02-12
   onboard_date: 2025-01-20
+  agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-03
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: OPM
   name: Brian Bjelde
@@ -1659,8 +1967,10 @@ postings:
   - 2025-01-17
   - 2025-02-12
   last_date: 2025-02-12
+  agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-03
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: OPM
   name: Greg Hogan
@@ -1671,8 +1981,10 @@ postings:
   - 2025-02-12
   last_date: 2025-02-12
   onboard_date: 2025-01-20
+  agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-03
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: OPM
   name: Akash Bobba
@@ -1683,8 +1995,10 @@ postings:
   - 2025-02-12
   last_date: 2025-02-12
   onboard_date: 2025-01-20
+  agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-03
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: OPM
   name: Charles Ezell
@@ -1694,8 +2008,10 @@ postings:
   - 2025-01-31
   - 2025-02-12
   last_date: 2025-02-12
+  agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-03
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: OPM
   name: Riccardo Biasini
@@ -1707,8 +2023,10 @@ postings:
   - 2025-02-25
   last_date: 2025-02-25
   onboard_date: 2025-01-20
+  agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-03
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: OPM
   name: Edward Coristine
@@ -1717,8 +2035,10 @@ postings:
   - 2025-02-02
   - 2025-02-12
   last_date: 2025-02-12
+  agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-03
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: OPM
   name: Gavin Kliger
@@ -1727,8 +2047,10 @@ postings:
   - 2025-02-02
   - 2025-02-12
   last_date: 2025-02-12
+  agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-03
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: OPM
   name: Anthony Armstrong
@@ -1737,8 +2059,10 @@ postings:
   - 2025-02-12
   - 2025-03-28
   last_date: 2025-03-28
+  agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-03
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: OPM
   name: Stephanie Holmes
@@ -1746,8 +2070,10 @@ postings:
   all_dates:
   - 2025-02-12
   last_date: 2025-02-12
+  agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-03
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: OPM
   name: Christina Hanna
@@ -1755,8 +2081,10 @@ postings:
   all_dates:
   - 2025-02-12
   last_date: 2025-02-12
+  agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-03
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: OPM
   name: Stephen Duarte
@@ -1764,8 +2092,10 @@ postings:
   all_dates:
   - 2025-02-12
   last_date: 2025-02-12
+  agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-03
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: OPM
   name: Bryanne-Michelle Mlodzianowski
@@ -1773,8 +2103,10 @@ postings:
   all_dates:
   - 2025-02-12
   last_date: 2025-02-12
+  agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-03
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: OPM
   name: Joanna Wischer
@@ -1782,8 +2114,10 @@ postings:
   all_dates:
   - 2025-02-12
   last_date: 2025-02-12
+  agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-03
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: OPM
   name: Justin Monroe
@@ -1791,8 +2125,10 @@ postings:
   all_dates:
   - 2025-02-12
   last_date: 2025-02-12
+  agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-03
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: OPM
   name: Jacob Altik
@@ -1800,8 +2136,10 @@ postings:
   all_dates:
   - 2025-02-12
   last_date: 2025-02-12
+  agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-03
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: OPM
   name: Austin Raynor
@@ -1809,8 +2147,10 @@ postings:
   all_dates:
   - 2025-02-12
   last_date: 2025-02-12
+  agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-03
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: OPM
   name: Nikhil Rajpal
@@ -1818,8 +2158,10 @@ postings:
   all_dates:
   - 2025-02-12
   last_date: 2025-02-12
+  agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-03
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: OPM
   name: Joe Gebbia
@@ -1827,8 +2169,10 @@ postings:
   all_dates:
   - 2025-03-28
   last_date: 2025-03-28
+  agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-03
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: OPM
   name: Scott Kupor
@@ -1836,8 +2180,10 @@ postings:
   all_dates:
   - 2025-04-03
   last_date: 2025-04-03
+  agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-03
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: Peace
   name: Bridget Youngs
@@ -1845,6 +2191,7 @@ postings:
   all_dates:
   - 2025-04-04
   last_date: 2025-04-04
+  agency_doge_base: false
   doge_agency_first: 2025-04-04
   doge_agency_last: 2025-04-04
 
@@ -1854,8 +2201,10 @@ postings:
   all_dates:
   - 2025-02-03
   last_date: 2025-02-03
+  agency_doge_base: true
   doge_agency_first: 2025-02-03
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-02-03
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: SSA
   name: Leland Dudek
@@ -1875,8 +2224,10 @@ postings:
   - 2025-03-27
   - 2025-04-07
   last_date: 2025-04-07
+  agency_doge_base: true
   doge_agency_first: 2025-01-30
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-10
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: SSA
   name: Mike Russo
@@ -1892,8 +2243,10 @@ postings:
   - 2025-03-26
   last_date: 2025-03-26
   onboard_date: 2025-03-25
+  agency_doge_base: true
   doge_agency_first: 2025-01-30
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-10
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: SSA
   name: Akash Bobba
@@ -1906,8 +2259,10 @@ postings:
   - 2025-03-13
   last_date: 2025-03-13
   onboard_date: 2025-02-12
+  agency_doge_base: true
   doge_agency_first: 2025-01-30
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-10
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: SSA
   name: Steve Davis
@@ -1916,8 +2271,10 @@ postings:
   - 2025-02-10
   - 2025-03-28
   last_date: 2025-03-28
+  agency_doge_base: true
   doge_agency_first: 2025-01-30
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-10
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: SSA
   name: Mark Steffensen
@@ -1929,8 +2286,10 @@ postings:
   - 2025-02-28
   last_date: 2025-02-28
   onboard_date: 2025-02-25
+  agency_doge_base: true
   doge_agency_first: 2025-01-30
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-10
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: SSA
   name: Aram Moghaddassi
@@ -1941,8 +2300,10 @@ postings:
   - 2025-04-08
   last_date: 2025-04-08
   onboard_date: 2025-02-18
+  agency_doge_base: true
   doge_agency_first: 2025-01-30
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-10
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: SSA
   name: Scott Coulter
@@ -1955,8 +2316,10 @@ postings:
   - 2025-04-10
   last_date: 2025-04-10
   onboard_date: 2025-03-25
+  agency_doge_base: true
   doge_agency_first: 2025-01-30
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-10
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: SSA
   name: Ethan Shaotran
@@ -1968,8 +2331,10 @@ postings:
   - 2025-03-13
   last_date: 2025-03-13
   onboard_date: 2025-02-19
+  agency_doge_base: true
   doge_agency_first: 2025-01-30
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-10
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: SSA
   name: Nikhil Rajpal
@@ -1978,8 +2343,10 @@ postings:
   - 2025-02-20
   - 2025-03-13
   last_date: 2025-03-13
+  agency_doge_base: true
   doge_agency_first: 2025-01-30
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-10
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: SSA
   name: Cole Killian
@@ -1988,8 +2355,10 @@ postings:
   - 2025-02-20
   - 2025-03-13
   last_date: 2025-03-13
+  agency_doge_base: true
   doge_agency_first: 2025-01-30
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-10
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: SSA
   name: Marko Elez
@@ -2001,8 +2370,10 @@ postings:
   - 2025-03-17
   last_date: 2025-03-17
   onboard_date: 2025-03-05
+  agency_doge_base: true
   doge_agency_first: 2025-01-30
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-10
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: SSA
   name: Amy Gleason
@@ -2010,8 +2381,10 @@ postings:
   all_dates:
   - 2025-02-20
   last_date: 2025-02-20
+  agency_doge_base: true
   doge_agency_first: 2025-01-30
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-10
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: SSA
   name: Payton Rehling
@@ -2027,8 +2400,10 @@ postings:
   - 2025-03-27
   last_date: 2025-03-27
   onboard_date: 2025-02-27
+  agency_doge_base: true
   doge_agency_first: 2025-01-30
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-10
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: SSA
   name: Antonio Gracias
@@ -2041,8 +2416,10 @@ postings:
   - 2025-04-02
   last_date: 2025-04-02
   onboard_date: 2025-02-27
+  agency_doge_base: true
   doge_agency_first: 2025-01-30
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-10
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: SSA
   name: Jon Koval
@@ -2054,8 +2431,10 @@ postings:
   - 2025-03-17
   last_date: 2025-03-17
   onboard_date: 2025-02-27
+  agency_doge_base: true
   doge_agency_first: 2025-01-30
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-10
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: SSA
   name: Luke Farritor
@@ -2063,8 +2442,10 @@ postings:
   all_dates:
   - 2025-03-13
   last_date: 2025-03-13
+  agency_doge_base: true
   doge_agency_first: 2025-01-30
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-10
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: State
   name: Edward Coristine
@@ -2072,8 +2453,10 @@ postings:
   all_dates:
   - 2025-02-10
   last_date: 2025-02-10
+  agency_doge_base: true
   doge_agency_first: 2025-02-10
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-15
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: State
   name: Luke Farritor
@@ -2081,8 +2464,10 @@ postings:
   all_dates:
   - 2025-02-10
   last_date: 2025-02-10
+  agency_doge_base: true
   doge_agency_first: 2025-02-10
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-15
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: State
   name: Peter Marocco
@@ -2091,8 +2476,10 @@ postings:
   - 2025-04-11~
   last_date: 2025-04-11~
   offboard_date: 2025-04-11~
+  agency_doge_base: true
   doge_agency_first: 2025-02-10
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-15
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: State
   name: Jeremy Lewin
@@ -2100,8 +2487,10 @@ postings:
   all_dates:
   - 2025-04-15
   last_date: 2025-04-15
+  agency_doge_base: true
   doge_agency_first: 2025-02-10
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-15
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: Treasury
   name: Tom Krause
@@ -2113,8 +2502,10 @@ postings:
   - 2025-03-28
   last_date: 2025-03-28
   onboard_date: 2025-01-23
+  agency_doge_base: true
   doge_agency_first: 2025-01-08
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: Treasury
   name: Marko Elez
@@ -2134,8 +2525,10 @@ postings:
   last_date: 2025-02-20
   onboard_date: 2025-01-21
   offboard_date: 2025-02-06
+  agency_doge_base: true
   doge_agency_first: 2025-01-08
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: Treasury
   name: Ryan Wunderly
@@ -2143,8 +2536,10 @@ postings:
   all_dates:
   - 2025-02-20
   last_date: 2025-02-20
+  agency_doge_base: true
   doge_agency_first: 2025-01-08
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: Treasury
   name: Roland Shen
@@ -2152,8 +2547,10 @@ postings:
   all_dates:
   - 2025-04-18
   last_date: 2025-04-18
+  agency_doge_base: true
   doge_agency_first: 2025-01-08
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: USADF
   name: Chris Young
@@ -2161,6 +2558,7 @@ postings:
   all_dates:
   - 2025-02-20
   last_date: 2025-02-20
+  agency_doge_base: false
   doge_agency_first: 2025-02-20
   doge_agency_last: 2025-03-06
 
@@ -2172,6 +2570,7 @@ postings:
   - 2025-03-05
   - 2025-03-06
   last_date: 2025-03-06
+  agency_doge_base: false
   doge_agency_first: 2025-02-20
   doge_agency_last: 2025-03-06
 
@@ -2183,6 +2582,7 @@ postings:
   - 2025-03-05
   - 2025-03-06
   last_date: 2025-03-06
+  agency_doge_base: false
   doge_agency_first: 2025-02-20
   doge_agency_last: 2025-03-06
 
@@ -2195,6 +2595,7 @@ postings:
   - 2025-03-05
   - 2025-03-06
   last_date: 2025-03-06
+  agency_doge_base: false
   doge_agency_first: 2025-02-20
   doge_agency_last: 2025-03-06
 
@@ -2204,6 +2605,7 @@ postings:
   all_dates:
   - 2025-03-04
   last_date: 2025-03-04
+  agency_doge_base: false
   doge_agency_first: 2025-02-20
   doge_agency_last: 2025-03-06
 
@@ -2216,6 +2618,7 @@ postings:
   - 2025-02-03
   - 2025-02-09
   last_date: 2025-02-09
+  agency_doge_base: false
   doge_agency_first: 2025-01-27
   doge_agency_last: 2025-03-28
 
@@ -2227,6 +2630,7 @@ postings:
   - 2025-01-30
   - 2025-02-09
   last_date: 2025-02-09
+  agency_doge_base: false
   doge_agency_first: 2025-01-27
   doge_agency_last: 2025-03-28
 
@@ -2240,6 +2644,7 @@ postings:
   - 2025-03-28
   last_date: 2025-03-28
   onboard_date: 2025-01-28
+  agency_doge_base: false
   doge_agency_first: 2025-01-27
   doge_agency_last: 2025-03-28
 
@@ -2250,6 +2655,7 @@ postings:
   - 2025-03-18
   - 2025-03-19
   last_date: 2025-03-19
+  agency_doge_base: false
   doge_agency_first: 2025-01-27
   doge_agency_last: 2025-03-28
 
@@ -2259,6 +2665,7 @@ postings:
   all_dates:
   - 2025-03-19
   last_date: 2025-03-19
+  agency_doge_base: false
   doge_agency_first: 2025-01-27
   doge_agency_last: 2025-03-28
 
@@ -2269,6 +2676,7 @@ postings:
   - 2025-03-14~
   - 2025-03-28
   last_date: 2025-03-28
+  agency_doge_base: false
   doge_agency_first: 2025-03-14~
   doge_agency_last: 2025-03-28
 
@@ -2279,6 +2687,7 @@ postings:
   - 2025-03-14~
   - 2025-03-28
   last_date: 2025-03-28
+  agency_doge_base: false
   doge_agency_first: 2025-03-14~
   doge_agency_last: 2025-03-28
 
@@ -2289,6 +2698,7 @@ postings:
   - 2025-03-17
   - 2025-03-28
   last_date: 2025-03-28
+  agency_doge_base: false
   doge_agency_first: 2025-03-14~
   doge_agency_last: 2025-03-28
 
@@ -2299,6 +2709,7 @@ postings:
   - 2025-03-25
   - 2025-03-28
   last_date: 2025-03-28
+  agency_doge_base: false
   doge_agency_first: 2025-03-14~
   doge_agency_last: 2025-03-28
 
@@ -2308,6 +2719,7 @@ postings:
   all_dates:
   - 2025-03-25
   last_date: 2025-03-25
+  agency_doge_base: false
   doge_agency_first: 2025-03-14~
   doge_agency_last: 2025-03-28
 
@@ -2317,6 +2729,7 @@ postings:
   all_dates:
   - 2025-02-24
   last_date: 2025-02-24
+  agency_doge_base: false
   doge_agency_first: 2025-02-24
   doge_agency_last: 2025-03-25
 
@@ -2328,6 +2741,7 @@ postings:
   - 2025-03-14
   - 2025-03-17
   last_date: 2025-03-17
+  agency_doge_base: false
   doge_agency_first: 2025-02-24
   doge_agency_last: 2025-03-25
 
@@ -2340,6 +2754,7 @@ postings:
   - 2025-03-17
   - 2025-03-25
   last_date: 2025-03-25
+  agency_doge_base: false
   doge_agency_first: 2025-02-24
   doge_agency_last: 2025-03-25
 
@@ -2351,6 +2766,7 @@ postings:
   - 2025-03-17
   last_date: 2025-03-17
   onboard_date: 2025-03-17
+  agency_doge_base: false
   doge_agency_first: 2025-02-24
   doge_agency_last: 2025-03-25
 
@@ -2361,8 +2777,10 @@ postings:
   - 2025-03-07
   last_date: 2025-03-07
   onboard_date: 2025-03-07
+  agency_doge_base: true
   doge_agency_first: 2025-03-07
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-03-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: USPS
   name: Ethan Shaotran
@@ -2371,8 +2789,10 @@ postings:
   - 2025-03-12
   last_date: 2025-03-12
   onboard_date: 2025-03-12
+  agency_doge_base: true
   doge_agency_first: 2025-03-07
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-03-12
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: VA
   name: Justin Fulcher
@@ -2381,8 +2801,10 @@ postings:
   - 2025-02-14
   - 2025-03-25
   last_date: 2025-03-25
+  agency_doge_base: true
   doge_agency_first: 2025-02-14
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-03-25
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: VA
   name: Sahil Lavingia
@@ -2390,8 +2812,10 @@ postings:
   all_dates:
   - 2025-03-25
   last_date: 2025-03-25
+  agency_doge_base: true
   doge_agency_first: 2025-02-14
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-03-25
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: VA
   name: Cary Volpert
@@ -2399,8 +2823,10 @@ postings:
   all_dates:
   - 2025-03-25
   last_date: 2025-03-25
+  agency_doge_base: true
   doge_agency_first: 2025-02-14
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-03-25
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: VA
   name: Christopher Roussos
@@ -2408,8 +2834,10 @@ postings:
   all_dates:
   - 2025-03-25
   last_date: 2025-03-25
+  agency_doge_base: true
   doge_agency_first: 2025-02-14
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-03-25
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: VA
   name: Payton Rehling
@@ -2417,8 +2845,10 @@ postings:
   all_dates:
   - 2025-03-25
   last_date: 2025-03-25
+  agency_doge_base: true
   doge_agency_first: 2025-02-14
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-03-25
+  doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: VA
   name: Jon Koval
@@ -2426,5 +2856,7 @@ postings:
   all_dates:
   - 2025-03-25
   last_date: 2025-03-25
+  agency_doge_base: true
   doge_agency_first: 2025-02-14
-  doge_agency_last: 2025-04-20
+  doge_agency_last: 2025-03-25
+  doge_agency_last_adjusted: 2025-04-20
