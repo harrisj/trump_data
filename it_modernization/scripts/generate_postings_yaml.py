@@ -46,6 +46,8 @@ def generate_postings_yaml():
             continue  # DOGE staff may be named, but months after presence at agency
 
         if event['type'] == 'interagency':
+            if 'interagency_doge_reps' not in event:
+                continue
             for (agency_id, names) in event['interagency_doge_reps'].items():
                 for name in names:
                     add_posting(postings, agency_dates, agency_id, name, event)

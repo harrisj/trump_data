@@ -686,12 +686,22 @@ postings:
   doge_agency_last: 2025-04-20
 
 - agency_id: DOJ
+  name: Tarak Makecha
+  first_date: 2025-03-30~
+  all_dates:
+  - 2025-03-30~
+  last_date: 2025-03-30~
+  onboard_date: 2025-03-30~
+  doge_agency_first: 2025-03-30~
+  doge_agency_last: 2025-04-20
+
+- agency_id: DOJ
   name: Christopher Stanley
   first_date: 2025-04-01
   all_dates:
   - 2025-04-01
   last_date: 2025-04-01
-  doge_agency_first: 2025-04-01
+  doge_agency_first: 2025-03-30~
   doge_agency_last: 2025-04-20
 
 - agency_id: DOL
@@ -756,7 +766,8 @@ postings:
   - 2025-03-05
   - 2025-03-19
   - 2025-03-21
-  last_date: 2025-03-21
+  - 2025-04-18
+  last_date: 2025-04-18
   doge_agency_first: 2025-02-04
   doge_agency_last: 2025-04-20
 
@@ -765,7 +776,8 @@ postings:
   first_date: 2025-03-05
   all_dates:
   - 2025-03-05
-  last_date: 2025-03-05
+  - 2025-04-18
+  last_date: 2025-04-18
   doge_agency_first: 2025-02-04
   doge_agency_last: 2025-04-20
 
@@ -774,7 +786,8 @@ postings:
   first_date: 2025-03-05
   all_dates:
   - 2025-03-05
-  last_date: 2025-03-05
+  - 2025-04-18
+  last_date: 2025-04-18
   doge_agency_first: 2025-02-04
   doge_agency_last: 2025-04-20
 
@@ -977,6 +990,25 @@ postings:
   onboard_date: 2025-02-16
   doge_agency_first: 2025-02-16
   doge_agency_last: 2025-02-18
+
+- agency_id: FBI
+  name: Justin Monroe
+  first_date: 2025-01-29
+  all_dates:
+  - 2025-01-29
+  last_date: 2025-01-29
+  doge_agency_first: 2025-01-29
+  doge_agency_last: 2025-04-20
+
+- agency_id: FBI
+  name: Tarak Makecha
+  first_date: 2025-03-30~
+  all_dates:
+  - 2025-03-30~
+  last_date: 2025-03-30~
+  onboard_date: 2025-03-30~
+  doge_agency_first: 2025-01-29
+  doge_agency_last: 2025-04-20
 
 - agency_id: FCC
   name: Tarak Makecha
@@ -2111,6 +2143,15 @@ postings:
   all_dates:
   - 2025-02-20
   last_date: 2025-02-20
+  doge_agency_first: 2025-01-08
+  doge_agency_last: 2025-04-20
+
+- agency_id: Treasury
+  name: Roland Shen
+  first_date: 2025-04-18
+  all_dates:
+  - 2025-04-18
+  last_date: 2025-04-18
   doge_agency_first: 2025-01-08
   doge_agency_last: 2025-04-20
 

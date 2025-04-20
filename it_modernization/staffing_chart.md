@@ -158,6 +158,8 @@ gantt
     section Kathryn Armstrong Loving
         EPA : 2025-02-12, 2025-04-20
     section Tarak Makecha
+        DOJ : 2025-03-30, 2025-04-20
+        FBI : 2025-03-30, 2025-04-20
         FCC : 2025-04-04, 2025-04-20
     section Ted Malaska
         FAA : 2025-02-16, 2025-02-18
@@ -182,6 +184,7 @@ gantt
         HHS : 2025-03-13, 2025-04-20
         USCIS : 2025-03-17, 2025-03-28
     section Justin Monroe
+        FBI : 2025-01-29, 2025-04-20
         OPM : 2025-02-12, 2025-04-20
     section Brooks Morgan
         Education : 2025-02-04, 2025-04-20
@@ -238,6 +241,8 @@ gantt
     section Thomas Shedd
         GSA : 2025-01-24, 2025-04-20
         DOL : 2025-03-14, 2025-04-20
+    section Roland Shen
+        Treasury : 2025-04-18, 2025-04-20
     section Alexander Simonpour
         USPS : 2025-03-07, 2025-04-20
         NASA : 2025-03-14, 2025-04-20

@@ -10,6 +10,7 @@ gantt
         Tom Krause : 2025-01-20, 2025-04-20
         Marko Elez : 2025-01-21, 2025-02-06
         Ryan Wunderly : 2025-02-20, 2025-04-20
+        Roland Shen : 2025-04-18, 2025-04-20
     SECTION OPM
         Noah Peters : 2025-01-20, 2025-04-20
         Keenan Kmiec : 2025-01-20, 2025-04-20
@@ -82,6 +83,9 @@ gantt
         Edward Coristine : 2025-02-20, 2025-04-20
     SECTION Commerce
         Michael Grimes : 2025-01-29, 2025-04-20
+    SECTION FBI
+        Justin Monroe : 2025-01-29, 2025-04-20
+        Tarak Makecha : 2025-03-30, 2025-04-20
     SECTION CDC
         Luke Farritor : 2025-01-30, 2025-04-20
     SECTION SSA
@@ -214,6 +218,7 @@ gantt
         Nate Cavanaugh : 2025-03-31, 2025-03-31
         Gavin Hamrick : 2025-03-31, 2025-03-31
     SECTION DOJ
+        Tarak Makecha : 2025-03-30, 2025-04-20
         Christopher Stanley : 2025-04-01, 2025-04-20
     SECTION FCC
         Tarak Makecha : 2025-04-04, 2025-04-20

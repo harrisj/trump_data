@@ -500,10 +500,22 @@ people:
 
   Tarak Makecha:
     agencies:
+    - Department of Justice
+    - Federal Bureau of Investigation
     - Federal Communications Commission
     - Office of Personnel Management
     - State Department
     events:
+    - date: 2025-03-30~
+      agency: FBI
+      type: onboarded
+      event: Tarak Makacha has reportedly shown up in FBI directories as a Senior Advisor to the agency's executive assistant
+        director for human resources. He reportedly has been there since the end of March
+    - date: 2025-03-30~
+      agency: DOJ
+      type: onboarded
+      event: Tarak Makacha has reportedly shown up in the DOJ directory as an Advisor to the Office of the CIO. He reportedly
+        has been there since the end of March
     - date: 2025-04-04
       agency: FCC
       type: report
@@ -2547,6 +2559,10 @@ people:
     - Federal Bureau of Investigation
     - Office of Personnel Management
     events:
+    - date: 2025-01-29
+      agency: FBI
+      type: report
+      event: An unidentified SpaceX employee is reported to be working as an advisor to the Director of the FBI
     - date: 2025-02-12
       agency: OPM
       type: report

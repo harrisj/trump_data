@@ -1616,16 +1616,6 @@ DHS:
     event: Trump administration eliminates the DHS Office for Civil Rights and Civil Liberties and two ombudsman offices responsible for investigating allegations of abuse from immigrants. This also includes the CRCL program that was characterized as "money laundering" by DOGE staffer Kyle Schutt.
     source: https://www.nytimes.com/2025/03/21/us/politics/trump-civil-rights-homeland-security-deportations.html
     agency: DHS
-  - date: 2025-04-07
-    type: official
-    event: The IRS and DHS executed a Memorandum of Understanding (MOU) for data sharing between both agencies. Although DOGE is not named specifically in this agreement, ICE is allowed to designate authorized individuals to access the shared data. AI usage must also be reviewed first by the IRS.
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278147/gov.uscourts.dcd.278147.30.1_1.pdf
-    case_no: 1:25-cv-00677
-    agency:
-    - Treasury
-    - IRS
-    - DHS
-    - ICE
   systems: {}
   cases:
     1:25-cv-00624:
@@ -1643,6 +1633,7 @@ DOJ:
   id: DOJ
   doge_base: true
   associated:
+  - Tarak Makecha
   - Christopher Stanley
   events:
   - date: 2025-03-12
@@ -1654,6 +1645,14 @@ DOJ:
     type: report
     event: Attorney General Pam Bondi announces she is forming a "JUST DOGE" team to look at restructuring
     source: https://abcnews.go.com/US/ag-pam-bondi-forms-internal-team-work-doge/story?id=119751049
+    agency: DOJ
+  - date: 2025-03-30~
+    type: onboarded
+    onboard_type: detailed
+    event: Tarak Makacha has reportedly shown up in the DOJ directory as an Advisor to the Office of the CIO. He reportedly has been there since the end of March
+    source: https://theintercept.com/2025/04/18/doge-tesla-employee-justice-department-fbi/
+    named:
+    - Tarak Makecha
     agency: DOJ
   - date: 2025-04-01
     type: report
@@ -2216,6 +2215,35 @@ DOL:
     event: Multiple federal staffers who handle sensitive data related to migrant workers are placed on leave for raising objections about DOGE access
     source: https://www.politico.com/news/2025/04/18/labor-department-sidelines-staff-doge-immigrant-data-00299298
     agency: DOL
+  - date: 2025-04-18
+    type: access_granted
+    access_type: unknown
+    access_systems:
+    - NFJP
+    event: Wired reports that Miles Collins has access to the National Farmworker Jobs Program (NFJP) system, which provides grants to organizations that work with migrant and seasonal labor
+    named:
+    - Miles Collins
+    agency: DOL
+  - date: 2025-04-18
+    type: access_granted
+    access_type: admin
+    access_systems:
+    - FLAG
+    event: Wired reports that Aram Moghaddassi has been granted "OIG-level" admin access to the DOL's Foreign Labor Application Gateway (FLAG) system, which would include visa applications of foreign workers
+    named:
+    - Aram Moghaddassi
+    agency: DOL
+  - date: 2025-04-18
+    type: access_granted
+    access_type: unknown
+    access_systems:
+    - NFJP
+    event: Wired reports that three DOGE staffers at DOL were granted access to the DOL's Reentry Employment Opportunities (REO) program, which provides aid to people re-entering society from incarceration
+    named:
+    - Miles Collins
+    - Aram Moghaddassi
+    - Marko Elez
+    agency: DOL
   systems:
     DOL-DRA:
       name: DRA
@@ -2284,6 +2312,7 @@ Treasury:
   - Gavin Kliger
   - Tom Krause
   - Aram Moghaddassi
+  - Roland Shen
   - Ryan Wunderly
   events:
   - date: 2025-01-08
@@ -2550,16 +2579,6 @@ Treasury:
     - Treasury
     - OPM
     - Education
-  - date: 2025-04-07
-    type: official
-    event: The IRS and DHS executed a Memorandum of Understanding (MOU) for data sharing between both agencies. Although DOGE is not named specifically in this agreement, ICE is allowed to designate authorized individuals to access the shared data. AI usage must also be reviewed first by the IRS.
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278147/gov.uscourts.dcd.278147.30.1_1.pdf
-    case_no: 1:25-cv-00677
-    agency:
-    - Treasury
-    - IRS
-    - DHS
-    - ICE
   - date: 2025-04-12
     type: legal
     event: Judge Vargas rules in New York et al vs. Donald Trump that Ryan Wunderly should be granted access to Treasury systems
@@ -2567,6 +2586,12 @@ Treasury:
     - Ryan Wunderly
     case_no: 1:25-cv-01144
     source: https://storage.courtlistener.com/recap/gov.uscourts.nysd.636609/gov.uscourts.nysd.636609.139.0.pdf
+    agency: Treasury
+  - date: 2025-04-18
+    type: report
+    event: A new DOGE staffer (Roland Shen) who works for the payments startup Ramp has reportedly been granted access to BFS systems
+    named:
+    - Roland Shen
     agency: Treasury
   systems:
     ASAP:
@@ -2844,8 +2869,24 @@ FBI:
   parent_id: DOJ
   doge_base: true
   associated:
+  - Tarak Makecha
   - Justin Monroe
-  events: []
+  events:
+  - date: 2025-01-29
+    type: report
+    event: An unidentified SpaceX employee is reported to be working as an advisor to the Director of the FBI
+    named_aliases:
+    - FBI-1
+    source: https://www.nbcnews.com/politics/national-security/people-ties-musk-top-fbi-critic-are-advising-fbi-director-rcna189567
+    agency: FBI
+  - date: 2025-03-30~
+    type: onboarded
+    onboard_type: detailed
+    event: Tarak Makacha has reportedly shown up in FBI directories as a Senior Advisor to the agency's executive assistant director for human resources. He reportedly has been there since the end of March
+    source: https://theintercept.com/2025/04/18/doge-tesla-employee-justice-department-fbi/
+    named:
+    - Tarak Makecha
+    agency: FBI
   systems: {}
   cases: {}
 
@@ -3755,17 +3796,7 @@ ICE:
   doge_base: true
   associated:
   - Marko Elez
-  events:
-  - date: 2025-04-07
-    type: official
-    event: The IRS and DHS executed a Memorandum of Understanding (MOU) for data sharing between both agencies. Although DOGE is not named specifically in this agreement, ICE is allowed to designate authorized individuals to access the shared data. AI usage must also be reviewed first by the IRS.
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278147/gov.uscourts.dcd.278147.30.1_1.pdf
-    case_no: 1:25-cv-00677
-    agency:
-    - Treasury
-    - IRS
-    - DHS
-    - ICE
+  events: []
   systems: {}
   cases: {}
 
@@ -3993,16 +4024,6 @@ IRS:
     - Sam Corcos
     source: https://www.wired.com/story/doge-hackathon-irs-data-palantir/
     agency: IRS
-  - date: 2025-04-07
-    type: official
-    event: The IRS and DHS executed a Memorandum of Understanding (MOU) for data sharing between both agencies. Although DOGE is not named specifically in this agreement, ICE is allowed to designate authorized individuals to access the shared data. AI usage must also be reviewed first by the IRS.
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278147/gov.uscourts.dcd.278147.30.1_1.pdf
-    case_no: 1:25-cv-00677
-    agency:
-    - Treasury
-    - IRS
-    - DHS
-    - ICE
   - date: 2025-04-08
     type: report
     event: A hackathon at IRS of DOGE engineers and some senior IRS developers kicks off to create a "Mega API." Reportedly, the company Palantir is also involved
@@ -5013,6 +5034,16 @@ SBA:
     event: Email to SBA staff announces that Edward Coristine was granted access to all systems including HR, contract, and payment systems.
     source: https://xcancel.com/lbarronlopez/status/1886491276729544809
     agency: SBA
+  - date: 2025-03-28
+    type: disruption
+    event: The SBA CIO, Marcus Alzona, who had been in the position for about a month, is abruptly removed
+    source: https://fedscoop.com/small-business-administration-has-a-new-cio/
+    agency: SBA
+  - date: 2025-03-30
+    type: disruption
+    event: DOGE announces on X that it has made some changes to the loan application process at SBA to require a date of birth and to pause applications for certain age ranges
+    source: https://www.inc.com/chris-morris/how-doge-is-changing-the-process-for-sba-loans-cuts-age-limits/91168379
+    agency: SBA
   systems: {}
   cases:
     1:25-cv-00684:
@@ -5735,6 +5766,16 @@ SSA:
     case_no: 1:25-cv-00596
     event: The Trump Administration files a formal motion to protect the identities of DOGE staff at the agency in filings
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.134.0.pdf
+    agency: SSA
+  - date: 2025-04-17
+    type: report
+    event: Social Security introduces a new AI chatbot built from general OpenAI models and not trained on SSA data or content to help with general tasks
+    source: https://www.nextgov.com/artificial-intelligence/2025/04/ssa-rolling-out-new-chatbot-employees/404658/?oref=ng-home-top-story
+    agency: SSA
+  - date: 2025-04-18
+    type: disruption
+    event: Some immigrants have been forced to prove they aren't dead after being added to the Master Death File in an attempt to force them to "self-deport." The White House had claimed nobody was declared dead.
+    source: https://www.washingtonpost.com/politics/2025/04/18/immigrants-dead-social-security-alive/
     agency: SSA
   systems:
     AFES:

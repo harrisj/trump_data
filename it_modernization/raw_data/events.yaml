@@ -524,6 +524,14 @@
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: HHS
 
+- date: 2025-01-29
+  type: report
+  event: An unidentified SpaceX employee is reported to be working as an advisor to the Director of the FBI
+  named_aliases:
+  - FBI-1
+  source: https://www.nbcnews.com/politics/national-security/people-ties-musk-top-fbi-critic-are-advising-fbi-director-rcna189567
+  agency: FBI
+
 - date: 2025-01-30
   type: access_granted
   access_type: read
@@ -4225,6 +4233,12 @@
   - Treasury
   - DOI
 
+- date: 2025-03-28
+  type: disruption
+  event: The SBA CIO, Marcus Alzona, who had been in the position for about a month, is abruptly removed
+  source: https://fedscoop.com/small-business-administration-has-a-new-cio/
+  agency: SBA
+
 - date: 2025-03-29
   type: access_changed
   access_type: admin
@@ -4315,6 +4329,30 @@
   - Antonio Gracias
   source: https://www.washingtonpost.com/politics/2025/04/01/elon-musk-social-security-immigrants/
   agency: SSA
+
+- date: 2025-03-30
+  type: disruption
+  event: DOGE announces on X that it has made some changes to the loan application process at SBA to require a date of birth and to pause applications for certain age ranges
+  source: https://www.inc.com/chris-morris/how-doge-is-changing-the-process-for-sba-loans-cuts-age-limits/91168379
+  agency: SBA
+
+- date: 2025-03-30~
+  type: onboarded
+  onboard_type: detailed
+  event: Tarak Makacha has reportedly shown up in FBI directories as a Senior Advisor to the agency's executive assistant director for human resources. He reportedly has been there since the end of March
+  source: https://theintercept.com/2025/04/18/doge-tesla-employee-justice-department-fbi/
+  named:
+  - Tarak Makecha
+  agency: FBI
+
+- date: 2025-03-30~
+  type: onboarded
+  onboard_type: detailed
+  event: Tarak Makacha has reportedly shown up in the DOJ directory as an Advisor to the Office of the CIO. He reportedly has been there since the end of March
+  source: https://theintercept.com/2025/04/18/doge-tesla-employee-justice-department-fbi/
+  named:
+  - Tarak Makecha
+  agency: DOJ
 
 - date: 2025-03-31
   type: report

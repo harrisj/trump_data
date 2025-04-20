@@ -20,6 +20,8 @@ def generate_agency_comprehensive_yaml():
 
     for event in events_yaml:
         if event['type'] == 'interagency':
+            if 'interagency_doge_reps' not in event:
+                continue
             for (agency_id, named) in event['interagency_doge_reps'].items():
                 out[agency_id]['events'].append(event)
                 if agency_id not in associated:

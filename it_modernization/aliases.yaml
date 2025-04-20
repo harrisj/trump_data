@@ -1078,3 +1078,18 @@ aliases:
   - The declaration names Jordan Wick, Chris Young, Nikhil Rajpal and Luke Farritor as well as 2 other CFPB staff not named
   - Based on reporting, Gavin Kliger and Jeremy Lewin were the other DOGE staff at the agency at the time of this action
   - Gavin Kliger has already been unmasked as CFPB-1
+
+- id: FBI-1
+  agency: FBI
+  name: Justin Monroe
+  evidence:
+  - This person isn't named in the original NBC News report
+  - But they're identified specifically in a ProPublica roundup as being this person
+  events:
+  - date: 2025-01-29
+    type: report
+    event: An unidentified SpaceX employee is reported to be working as an advisor to the Director of the FBI
+    named_aliases:
+    - FBI-1
+    source: https://www.nbcnews.com/politics/national-security/people-ties-musk-top-fbi-critic-are-advising-fbi-director-rcna189567
+    agency: FBI
