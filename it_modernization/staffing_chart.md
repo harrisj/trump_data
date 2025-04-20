@@ -1,3 +1,6 @@
+
+**Note: End dates are unknown for most postings. If DOGE is using the agency as a base, I approximate to the end of the current week, otherwise I use the date of last DOGE activity reported at that agency.**
+    
 ```mermaid
 gantt
     title DOGE staffing

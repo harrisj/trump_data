@@ -18,7 +18,10 @@ def generate_agencies_mermaid():
     with open(outfile, 'w') as file:
         file.write(f"# DOGE Staff by Agency\n\n")
 
-        file.write('''```mermaid
+        file.write('''
+**Note: End dates are unknown for most postings. If DOGE is using the agency as a base, I approximate to the end of the current week, otherwise I use the date of the most recent reported activity at the agency.**
+ 
+```mermaid
 gantt
     title DOGE staff
     todayMarker off

@@ -1,5 +1,8 @@
 # DOGE Staff by Agency
 
+
+**Note: End dates are unknown for most postings. If DOGE is using the agency as a base, I approximate to the end of the current week, otherwise I use the date of the most recent reported activity at the agency.**
+ 
 ```mermaid
 gantt
     title DOGE staff
