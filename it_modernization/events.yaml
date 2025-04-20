@@ -5590,6 +5590,13 @@ events:
     - Tom Krause
     DOI:
     - Tyler Hassen
+  agency:
+  - DOGE
+  - OPM
+  - SSA
+  - HHS
+  - Treasury
+  - DOI
 
 - date: 2025-03-29
   type: access_changed
@@ -5942,7 +5949,7 @@ events:
     - OPM
 
 - date: 2025-04-07
-  type: official
+  type: interagency
   event: The IRS and DHS executed a Memorandum of Understanding (MOU) for data sharing between both agencies. Although DOGE
     is not named specifically in this agreement, ICE is allowed to designate authorized individuals to access the shared data.
     AI usage must also be reviewed first by the IRS.
@@ -5976,6 +5983,10 @@ events:
   interagency_doge_reps:
     SSA:
     - Leland Dudek
+  agency:
+  - SSA
+  - DHS
+  - ICE
 
 - date: 2025-04-08~
   type: access_granted
@@ -6270,6 +6281,13 @@ events:
     link: https://www.courtlistener.com/docket/69624423/national-treasury-employees-union-v-vought/
     agency: CFPB
 
+- date: 2025-04-17
+  type: report
+  event: Social Security introduces a new AI chatbot built from general OpenAI models and not trained on SSA data or content
+    to help with general tasks
+  source: https://www.nextgov.com/artificial-intelligence/2025/04/ssa-rolling-out-new-chatbot-employees/404658/?oref=ng-home-top-story
+  agency: SSA
+
 - date: 2025-04-18
   type: access_revoked
   comment: Figure out what systems he was granted access for
@@ -6290,4 +6308,54 @@ events:
   event: Multiple federal staffers who handle sensitive data related to migrant workers are placed on leave for raising objections
     about DOGE access
   source: https://www.politico.com/news/2025/04/18/labor-department-sidelines-staff-doge-immigrant-data-00299298
+  agency: DOL
+
+- date: 2025-04-18
+  type: report
+  event: A new DOGE staffer (Roland Shen) who works for the payments startup Ramp has reportedly been granted access to BFS
+    systems
+  named:
+  - Roland Shen
+  agency: Treasury
+
+- date: 2025-04-18
+  type: disruption
+  event: Some immigrants have been forced to prove they aren't dead after being added to the Master Death File in an attempt
+    to force them to "self-deport." The White House had claimed nobody was declared dead.
+  source: https://www.washingtonpost.com/politics/2025/04/18/immigrants-dead-social-security-alive/
+  agency: SSA
+
+- date: 2025-04-18
+  type: access_granted
+  access_type: unknown
+  access_systems:
+  - NFJP
+  event: Wired reports that Miles Collins has access to the National Farmworker Jobs Program (NFJP) system, which provides
+    grants to organizations that work with migrant and seasonal labor
+  named:
+  - Miles Collins
+  agency: DOL
+
+- date: 2025-04-18
+  type: access_granted
+  access_type: admin
+  access_systems:
+  - FLAG
+  event: Wired reports that Aram Moghaddassi has been granted "OIG-level" admin access to the DOL's Foreign Labor Application
+    Gateway (FLAG) system, which would include visa applications of foreign workers
+  named:
+  - Aram Moghaddassi
+  agency: DOL
+
+- date: 2025-04-18
+  type: access_granted
+  access_type: unknown
+  access_systems:
+  - NFJP
+  event: Wired reports that three DOGE staffers at DOL were granted access to the DOL's Reentry Employment Opportunities (REO)
+    program, which provides aid to people re-entering society from incarceration
+  named:
+  - Miles Collins
+  - Aram Moghaddassi
+  - Marko Elez
   agency: DOL
