@@ -23,14 +23,14 @@ gantt
         Akash Bobba : 2025-01-20, 2025-04-20
         Charles Ezell : 2025-01-20, 2025-04-20
         Riccardo Biasini : 2025-01-20, 2025-04-20
-        Edward Coristine : 2025-02-02, 2025-04-20
+        Edward Coristine : 2025-01-28, 2025-04-20
+        Joanna Wischer : 2025-01-28, 2025-04-20
         Gavin Kliger : 2025-02-02, 2025-04-20
         Anthony Armstrong : 2025-02-12, 2025-04-20
         Stephanie Holmes : 2025-02-12, 2025-04-20
         Christina Hanna : 2025-02-12, 2025-04-20
         Stephen Duarte : 2025-02-12, 2025-04-20
         Bryanne-Michelle Mlodzianowski : 2025-02-12, 2025-04-20
-        Joanna Wischer : 2025-02-12, 2025-04-20
         Justin Monroe : 2025-02-12, 2025-04-20
         Jacob Altik : 2025-02-12, 2025-04-20
         Austin Raynor : 2025-02-12, 2025-04-20
@@ -113,6 +113,8 @@ gantt
         Amy Gleason : 2025-02-24, 2025-04-20
         Edward Coristine : 2025-03-05, 2025-04-20
         Marko Elez : 2025-03-05, 2025-04-20
+        Brad Smith : 2025-03-31, 2025-04-20
+        Rachel Riley : 2025-03-31, 2025-04-20
     SECTION SBA
         Edward Coristine : 2025-02-03, 2025-04-20
     SECTION EPA
@@ -137,6 +139,10 @@ gantt
         Edward Coristine : 2025-02-10, 2025-04-20
         Kyle Schutt : 2025-02-10, 2025-04-20
         Antoine McCord : 2025-03-11, 2025-04-20
+        Antonio Gracias : 2025-04-11, 2025-04-20
+        Marko Elez : 2025-04-11, 2025-04-20
+        Payton Rehling : 2025-04-11, 2025-04-20
+        Aram Moghaddassi : 2025-04-11, 2025-04-20
     SECTION HUD
         Scott Langmack : 2025-02-10, 2025-04-20
         Michael Mirski : 2025-02-20, 2025-04-20

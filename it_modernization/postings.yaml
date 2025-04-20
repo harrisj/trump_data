@@ -131,7 +131,7 @@ postings:
   last_date: 2025-03-29
   agency_doge_base: true
   doge_agency_first: 2025-01-31
-  doge_agency_last: 2025-03-29
+  doge_agency_last: 2025-03-31
   doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: CMS
@@ -143,7 +143,7 @@ postings:
   last_date: 2025-03-29
   agency_doge_base: true
   doge_agency_first: 2025-01-31
-  doge_agency_last: 2025-03-29
+  doge_agency_last: 2025-03-31
   doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: CMS
@@ -157,7 +157,7 @@ postings:
   onboard_date: 2025-03-05
   agency_doge_base: true
   doge_agency_first: 2025-01-31
-  doge_agency_last: 2025-03-29
+  doge_agency_last: 2025-03-31
   doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: CMS
@@ -169,7 +169,29 @@ postings:
   last_date: 2025-03-29
   agency_doge_base: true
   doge_agency_first: 2025-01-31
-  doge_agency_last: 2025-03-29
+  doge_agency_last: 2025-03-31
+  doge_agency_last_adjusted: 2025-04-20
+
+- agency_id: CMS
+  name: Brad Smith
+  first_date: 2025-03-31
+  all_dates:
+  - 2025-03-31
+  last_date: 2025-03-31
+  agency_doge_base: true
+  doge_agency_first: 2025-01-31
+  doge_agency_last: 2025-03-31
+  doge_agency_last_adjusted: 2025-04-20
+
+- agency_id: CMS
+  name: Rachel Riley
+  first_date: 2025-03-31
+  all_dates:
+  - 2025-03-31
+  last_date: 2025-03-31
+  agency_doge_base: true
+  doge_agency_first: 2025-01-31
+  doge_agency_last: 2025-03-31
   doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: Commerce
@@ -190,10 +212,11 @@ postings:
   first_date: 2025-02-10
   all_dates:
   - 2025-02-10
-  last_date: 2025-02-10
+  - 2025-04-11
+  last_date: 2025-04-11
   agency_doge_base: true
   doge_agency_first: 2025-02-10
-  doge_agency_last: 2025-03-11
+  doge_agency_last: 2025-04-11
   doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DHS
@@ -201,10 +224,11 @@ postings:
   first_date: 2025-02-10
   all_dates:
   - 2025-02-10
-  last_date: 2025-02-10
+  - 2025-04-11
+  last_date: 2025-04-11
   agency_doge_base: true
   doge_agency_first: 2025-02-10
-  doge_agency_last: 2025-03-11
+  doge_agency_last: 2025-04-11
   doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DHS
@@ -216,7 +240,51 @@ postings:
   onboard_date: 2025-03-11
   agency_doge_base: true
   doge_agency_first: 2025-02-10
-  doge_agency_last: 2025-03-11
+  doge_agency_last: 2025-04-11
+  doge_agency_last_adjusted: 2025-04-20
+
+- agency_id: DHS
+  name: Antonio Gracias
+  first_date: 2025-04-11
+  all_dates:
+  - 2025-04-11
+  last_date: 2025-04-11
+  agency_doge_base: true
+  doge_agency_first: 2025-02-10
+  doge_agency_last: 2025-04-11
+  doge_agency_last_adjusted: 2025-04-20
+
+- agency_id: DHS
+  name: Marko Elez
+  first_date: 2025-04-11
+  all_dates:
+  - 2025-04-11
+  last_date: 2025-04-11
+  agency_doge_base: true
+  doge_agency_first: 2025-02-10
+  doge_agency_last: 2025-04-11
+  doge_agency_last_adjusted: 2025-04-20
+
+- agency_id: DHS
+  name: Payton Rehling
+  first_date: 2025-04-11
+  all_dates:
+  - 2025-04-11
+  last_date: 2025-04-11
+  agency_doge_base: true
+  doge_agency_first: 2025-02-10
+  doge_agency_last: 2025-04-11
+  doge_agency_last_adjusted: 2025-04-20
+
+- agency_id: DHS
+  name: Aram Moghaddassi
+  first_date: 2025-04-11
+  all_dates:
+  - 2025-04-11
+  last_date: 2025-04-11
+  agency_doge_base: true
+  doge_agency_first: 2025-02-10
+  doge_agency_last: 2025-04-11
   doge_agency_last_adjusted: 2025-04-20
 
 - agency_id: DOD
@@ -1549,7 +1617,8 @@ postings:
   all_dates:
   - 2025-03-04
   - 2025-03-29
-  last_date: 2025-03-29
+  - 2025-04-01
+  last_date: 2025-04-01
   onboard_date: 2025-03-04
   agency_doge_base: true
   doge_agency_first: 2025-01-21
@@ -1562,7 +1631,8 @@ postings:
   all_dates:
   - 2025-03-04
   - 2025-03-28
-  last_date: 2025-03-28
+  - 2025-03-31
+  last_date: 2025-03-31
   onboard_date: 2025-03-04
   agency_doge_base: true
   doge_agency_first: 2025-01-21
@@ -1611,7 +1681,8 @@ postings:
   first_date: 2025-03-13
   all_dates:
   - 2025-03-13
-  last_date: 2025-03-13
+  - 2025-03-31
+  last_date: 2025-03-31
   agency_doge_base: true
   doge_agency_first: 2025-01-21
   doge_agency_last: 2025-04-12
@@ -1925,6 +1996,7 @@ postings:
   - 2025-01-16~
   - 2025-01-17
   - 2025-01-20
+  - 2025-01-28
   - 2025-02-12
   last_date: 2025-02-12
   onboard_date: 2025-01-20
@@ -1951,6 +2023,7 @@ postings:
   - 2025-01-17
   - 2025-01-20
   - 2025-01-27
+  - 2025-01-28
   - 2025-01-31
   - 2025-02-12
   last_date: 2025-02-12
@@ -1991,6 +2064,7 @@ postings:
   first_date: 2025-01-20
   all_dates:
   - 2025-01-20
+  - 2025-01-28
   - 2025-02-02
   - 2025-02-12
   last_date: 2025-02-12
@@ -2018,6 +2092,7 @@ postings:
   first_date: 2025-01-20
   all_dates:
   - 2025-01-20
+  - 2025-01-28
   - 2025-01-31
   - 2025-02-12
   - 2025-02-25
@@ -2030,9 +2105,22 @@ postings:
 
 - agency_id: OPM
   name: Edward Coristine
-  first_date: 2025-02-02
+  first_date: 2025-01-28
   all_dates:
+  - 2025-01-28
   - 2025-02-02
+  - 2025-02-12
+  last_date: 2025-02-12
+  agency_doge_base: true
+  doge_agency_first: 2025-01-16~
+  doge_agency_last: 2025-04-03
+  doge_agency_last_adjusted: 2025-04-20
+
+- agency_id: OPM
+  name: Joanna Wischer
+  first_date: 2025-01-28
+  all_dates:
+  - 2025-01-28
   - 2025-02-12
   last_date: 2025-02-12
   agency_doge_base: true
@@ -2099,17 +2187,6 @@ postings:
 
 - agency_id: OPM
   name: Bryanne-Michelle Mlodzianowski
-  first_date: 2025-02-12
-  all_dates:
-  - 2025-02-12
-  last_date: 2025-02-12
-  agency_doge_base: true
-  doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-03
-  doge_agency_last_adjusted: 2025-04-20
-
-- agency_id: OPM
-  name: Joanna Wischer
   first_date: 2025-02-12
   all_dates:
   - 2025-02-12

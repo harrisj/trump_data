@@ -42,7 +42,7 @@ gantt
         IRS : 2025-02-28, 2025-04-20
     section Edward Coristine
         GSA : 2025-01-20, 2025-04-20
-        OPM : 2025-02-02, 2025-04-20
+        OPM : 2025-01-28, 2025-04-20
         SBA : 2025-02-03, 2025-04-20
         FEMA : 2025-02-05, 2025-04-20
         DHS : 2025-02-10, 2025-04-20
@@ -70,6 +70,7 @@ gantt
         DOL : 2025-02-25, 2025-04-20
         CMS : 2025-03-05, 2025-04-20
         HHS : 2025-03-05, 2025-04-20
+        DHS : 2025-04-11, 2025-04-20
     section Charles Ezell
         OPM : 2025-01-20, 2025-04-20
     section Luke Farritor
@@ -104,6 +105,7 @@ gantt
         HHS : 2025-03-04, 2025-04-20
     section Antonio Gracias
         SSA : 2025-02-24, 2025-04-20
+        DHS : 2025-04-11, 2025-04-20
     section Michael Grimes
         Commerce : 2025-01-29, 2025-04-20
     section Gavin Hamrick
@@ -186,6 +188,7 @@ gantt
         DOL : 2025-03-05, 2025-04-20
         HHS : 2025-03-13, 2025-04-20
         USCIS : 2025-03-17, 2025-03-28
+        DHS : 2025-04-11, 2025-04-20
     section Justin Monroe
         FBI : 2025-01-29, 2025-04-20
         OPM : 2025-02-12, 2025-04-20
@@ -209,12 +212,14 @@ gantt
         SSA : 2025-02-23, 2025-04-20
         USCIS : 2025-03-25, 2025-03-28
         VA : 2025-03-25, 2025-04-20
+        DHS : 2025-04-11, 2025-04-20
         IRS : 2025-04-15, 2025-04-20
     section Ryan Riedel
         Energy : 2025-02-07, 2025-03-07
     section Rachel Riley
         NIH : 2025-02-24, 2025-04-20
         HHS : 2025-03-13, 2025-04-20
+        CMS : 2025-03-31, 2025-04-20
     section Christopher Roussos
         VA : 2025-03-25, 2025-04-20
     section Mike Russo
@@ -253,6 +258,7 @@ gantt
         FAA : 2025-02-16, 2025-02-18
     section Brad Smith
         HHS : 2025-03-04, 2025-04-20
+        CMS : 2025-03-31, 2025-04-20
     section Keith Sonderling
         DOL : 2025-03-18, 2025-04-20
         IMLS : 2025-03-20, 2025-03-31
@@ -272,7 +278,7 @@ gantt
         NLRB : 2025-02-28, 2025-02-28
         FCC : 2025-04-04, 2025-04-20
     section Joanna Wischer
-        OPM : 2025-02-12, 2025-04-20
+        OPM : 2025-01-28, 2025-04-20
     section Ryan Wunderly
         Treasury : 2025-02-20, 2025-04-20
     section Chris Young

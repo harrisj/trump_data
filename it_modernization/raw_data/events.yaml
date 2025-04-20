@@ -486,6 +486,20 @@
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576293/gov.uscourts.mdd.576293.77.2.pdf
   agency: USAID
 
+- date: 2025-01-28
+  type: report
+  event: Wired Magazine provides an early examination of which Musk-affiliated DOGE staff now have positions at OPM
+  comment: This report originally did not mention Edward Coristine or Akash Bobba by name because of their ages, but Wired revealed it later
+  named:
+  - Amanda Scales
+  - Riccardo Biasini
+  - Edward Coristine
+  - Akash Bobba
+  - Noah Peters
+  - Joanna Wischer
+  source: https://www.wired.com/story/elon-musk-lackeys-office-personnel-management-opm-neuralink-x-boring-stalin/
+  agency: OPM
+
 - date: 2025-01-29
   type: onboarded
   onboard_type: appointed
@@ -4384,6 +4398,17 @@
   source: https://news.artnet.com/art-world/doge-decimates-institute-museum-library-services-imls-2626543
   agency: IMLS
 
+- date: 2025-03-31
+  type: report
+  event: Politico reports that Brad Smith, who crafted the plan to layoff 10,000 staffers within HHS, is facing criticism from other DOGE staffers for attempting to shield CMS from the brunt of the layoffs. His aide, Rachel Riley is accused of being extraordinarily secretive with the plan.
+  source: https://www.politico.com/news/2025/03/31/doge-hhs-firings-delayed-00262115
+  named:
+  - Brad Smith
+  - Rachel Riley
+  agency:
+  - CMS
+  - HHS
+
 - date: 2025-04-01
   type: disruption
   event: HHS terminates a large number of staff at CDC in the name of cost savings and realignment, with the HHS director, Robert F. Kennedy Jr., reportedly wanting to focus only on infectious diseases
@@ -4456,6 +4481,14 @@
   event: The manager of the DOI's labor relations branch initiates an investigation of the DOI's CIO, Deputy CIO, Associate Solicitor and a Special Advisor over attempts to prevent DOGE access to DOI systems
   source: https://peer.org/wp-content/uploads/2025/04/4_15_25_Report-of-the-Investigation.pdf
   agency: DOI
+
+- date: 2025-04-01
+  type: report
+  event: In a group chat within HHS, Amy Gleason attempts to distance herself from the mass layoffs caused by DOGE by claiming she is the USDS administrator and has nothing to do with how the DOGE teams operate
+  source: https://www.sfchronicle.com/politics/article/doge-amy-gleason-group-chat-20258581.php
+  named:
+  - Amy Gleason
+  agency: HHS
 
 - date: 2025-04-02
   type: official
@@ -4723,6 +4756,19 @@
   named:
   - Noah Peters
   agency: OPM
+
+- date: 2025-04-11
+  type: report
+  event: Politico profiles a DOGE immigration task force that is located within DHS but has contacts with DOGE staff at other agencies
+  source: https://www.politico.com/news/2025/04/11/doge-immigration-taskforce-00287327
+  named:
+  - Antonio Gracias
+  - Kyle Schutt
+  - Edward Coristine
+  - Marko Elez
+  - Payton Rehling
+  - Aram Moghaddassi
+  agency: DHS
 
 - date: 2025-04-12
   type: disruption

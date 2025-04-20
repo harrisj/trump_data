@@ -110,6 +110,8 @@ CMS:
   - Marko Elez
   - Luke Farritor
   - Amy Gleason
+  - Rachel Riley
+  - Brad Smith
   events:
   - date: 2025-01-31
     type: access_granted
@@ -224,6 +226,16 @@ CMS:
     - Edward Coristine
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
     agency: CMS
+  - date: 2025-03-31
+    type: report
+    event: Politico reports that Brad Smith, who crafted the plan to layoff 10,000 staffers within HHS, is facing criticism from other DOGE staffers for attempting to shield CMS from the brunt of the layoffs. His aide, Rachel Riley is accused of being extraordinarily secretive with the plan.
+    source: https://www.politico.com/news/2025/03/31/doge-hhs-firings-delayed-00262115
+    named:
+    - Brad Smith
+    - Rachel Riley
+    agency:
+    - CMS
+    - HHS
   - date: 2025-04-01
     type: disruption
     event: HHS terminates 10,000 employees across many divisions (FDA, CDC, NIH, HHS) in the name of "bureaucratic realignment." Despite RFK's promises, the layoffs do include many scientists
@@ -1563,7 +1575,10 @@ DHS:
   - Edward Coristine
   - Steve Davis
   - Marko Elez
+  - Antonio Gracias
   - Antoine McCord
+  - Aram Moghaddassi
+  - Payton Rehling
   - Kyle Schutt
   - Brad Smith
   - Chris Young
@@ -1616,6 +1631,18 @@ DHS:
     type: disruption
     event: Trump administration eliminates the DHS Office for Civil Rights and Civil Liberties and two ombudsman offices responsible for investigating allegations of abuse from immigrants. This also includes the CRCL program that was characterized as "money laundering" by DOGE staffer Kyle Schutt.
     source: https://www.nytimes.com/2025/03/21/us/politics/trump-civil-rights-homeland-security-deportations.html
+    agency: DHS
+  - date: 2025-04-11
+    type: report
+    event: Politico profiles a DOGE immigration task force that is located within DHS but has contacts with DOGE staff at other agencies
+    source: https://www.politico.com/news/2025/04/11/doge-immigration-taskforce-00287327
+    named:
+    - Antonio Gracias
+    - Kyle Schutt
+    - Edward Coristine
+    - Marko Elez
+    - Payton Rehling
+    - Aram Moghaddassi
     agency: DHS
   systems: {}
   cases:
@@ -3602,6 +3629,16 @@ HHS:
     - Conor Fennessy
     - Jeremy Lewin
     agency: HHS
+  - date: 2025-03-31
+    type: report
+    event: Politico reports that Brad Smith, who crafted the plan to layoff 10,000 staffers within HHS, is facing criticism from other DOGE staffers for attempting to shield CMS from the brunt of the layoffs. His aide, Rachel Riley is accused of being extraordinarily secretive with the plan.
+    source: https://www.politico.com/news/2025/03/31/doge-hhs-firings-delayed-00262115
+    named:
+    - Brad Smith
+    - Rachel Riley
+    agency:
+    - CMS
+    - HHS
   - date: 2025-04-01
     type: disruption
     event: HHS terminates 10,000 employees across many divisions (FDA, CDC, NIH, HHS) in the name of "bureaucratic realignment." Despite RFK's promises, the layoffs do include many scientists
@@ -3612,6 +3649,13 @@ HHS:
     - CDC
     - NIH
     - CMS
+  - date: 2025-04-01
+    type: report
+    event: In a group chat within HHS, Amy Gleason attempts to distance herself from the mass layoffs caused by DOGE by claiming she is the USDS administrator and has nothing to do with how the DOGE teams operate
+    source: https://www.sfchronicle.com/politics/article/doge-amy-gleason-group-chat-20258581.php
+    named:
+    - Amy Gleason
+    agency: HHS
   - date: 2025-04-12
     type: disruption
     event: A DOGE engineer has apparently removed the ability of government agencies to post new grants to grants.gov and requiring them to all be sent to a new email address created this week for reviews
@@ -4649,6 +4693,19 @@ OPM:
     type: report
     event: OPM sends out the "Fork in the Road" email to all federal employees offering them a chance to resign
     source: https://www.wired.com/story/doge-hr-elon-musk-resignation-fork-road-leaked-staff-meeting/
+    agency: OPM
+  - date: 2025-01-28
+    type: report
+    event: Wired Magazine provides an early examination of which Musk-affiliated DOGE staff now have positions at OPM
+    comment: This report originally did not mention Edward Coristine or Akash Bobba by name because of their ages, but Wired revealed it later
+    named:
+    - Amanda Scales
+    - Riccardo Biasini
+    - Edward Coristine
+    - Akash Bobba
+    - Noah Peters
+    - Joanna Wischer
+    source: https://www.wired.com/story/elon-musk-lackeys-office-personnel-management-opm-neuralink-x-boring-stalin/
     agency: OPM
   - date: 2025-01-31
     type: disruption

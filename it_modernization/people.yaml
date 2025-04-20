@@ -63,6 +63,7 @@ people:
 
   Brad Smith:
     agencies:
+    - Centers for Medicare and Medicaid Services
     - Department of Government Efficiency
     - Department of Homeland Security
     - Executive Office of the President
@@ -84,6 +85,22 @@ people:
         other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal
         judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government
         spending. Amy Gleason did not appear.
+    - date: 2025-03-31
+      agency:
+      - CMS
+      - HHS
+      type: report
+      event: Politico reports that Brad Smith, who crafted the plan to layoff 10,000 staffers within HHS, is facing criticism
+        from other DOGE staffers for attempting to shield CMS from the brunt of the layoffs. His aide, Rachel Riley is accused
+        of being extraordinarily secretive with the plan.
+    - date: 2025-03-31
+      agency:
+      - CMS
+      - HHS
+      type: report
+      event: Politico reports that Brad Smith, who crafted the plan to layoff 10,000 staffers within HHS, is facing criticism
+        from other DOGE staffers for attempting to shield CMS from the brunt of the layoffs. His aide, Rachel Riley is accused
+        of being extraordinarily secretive with the plan.
 
   Amy Gleason:
     agencies:
@@ -146,6 +163,11 @@ people:
       type: report
       event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff
         who have worked at HHS
+    - date: 2025-04-01
+      agency: HHS
+      type: report
+      event: In a group chat within HHS, Amy Gleason attempts to distance herself from the mass layoffs caused by DOGE by
+        claiming she is the USDS administrator and has nothing to do with how the DOGE teams operate
 
   Chris Young:
     agencies:
@@ -190,6 +212,10 @@ people:
       event: A member of the OPM union posts a Reddit message reportedly from an OPM employee stating that the email server
         is a piece of outside equipment and the goal is to generate lists of all govt employees to send massive firing notices
         later.
+    - date: 2025-01-28
+      agency: OPM
+      type: report
+      event: Wired Magazine provides an early examination of which Musk-affiliated DOGE staff now have positions at OPM
     - date: 2025-01-31
       agency: OPM
       type: disruption
@@ -226,6 +252,10 @@ people:
       type: onboarded
       event: According to his financial disclosure forms, Riccardo Biasini is appointed as a Senior Advisor to the Director
         at the OPM
+    - date: 2025-01-28
+      agency: OPM
+      type: report
+      event: Wired Magazine provides an early examination of which Musk-affiliated DOGE staff now have positions at OPM
     - date: 2025-01-31
       agency: OPM
       type: disruption
@@ -524,6 +554,7 @@ people:
 
   Rachel Riley:
     agencies:
+    - Centers for Medicare and Medicaid Services
     - Department of Government Efficiency
     - Health and Human Services
     - National Institute of Health
@@ -546,6 +577,22 @@ people:
       type: report
       event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds
         DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
+    - date: 2025-03-31
+      agency:
+      - CMS
+      - HHS
+      type: report
+      event: Politico reports that Brad Smith, who crafted the plan to layoff 10,000 staffers within HHS, is facing criticism
+        from other DOGE staffers for attempting to shield CMS from the brunt of the layoffs. His aide, Rachel Riley is accused
+        of being extraordinarily secretive with the plan.
+    - date: 2025-03-31
+      agency:
+      - CMS
+      - HHS
+      type: report
+      event: Politico reports that Brad Smith, who crafted the plan to layoff 10,000 staffers within HHS, is facing criticism
+        from other DOGE staffers for attempting to shield CMS from the brunt of the layoffs. His aide, Rachel Riley is accused
+        of being extraordinarily secretive with the plan.
 
   Conor Fennessy:
     agencies:
@@ -790,6 +837,11 @@ people:
       type: report
       event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff
         who have worked at HHS
+    - date: 2025-04-11
+      agency: DHS
+      type: report
+      event: Politico profiles a DOGE immigration task force that is located within DHS but has contacts with DOGE staff at
+        other agencies
     - date: 2025-04-16
       agency: DOGE
       type: report
@@ -844,6 +896,10 @@ people:
       agency: GSA
       type: onboarded
       event: Multiple DOGE staff are onboarded at the GSA and given elevated A-suite access
+    - date: 2025-01-28
+      agency: OPM
+      type: report
+      event: Wired Magazine provides an early examination of which Musk-affiliated DOGE staff now have positions at OPM
     - date: 2025-01-31
       agency: GSA
       type: report
@@ -960,6 +1016,11 @@ people:
       agency: GSA
       type: report
       event: A partial copy of the GSA's A-Suite access list includes multiple DOGE personnel listed as based in GSA
+    - date: 2025-04-11
+      agency: DHS
+      type: report
+      event: Politico profiles a DOGE immigration task force that is located within DHS but has contacts with DOGE staff at
+        other agencies
     - date: 2025-04-16
       agency: DOGE
       type: report
@@ -1483,6 +1544,7 @@ people:
   Aram Moghaddassi:
     agencies:
     - Department of Government Efficiency
+    - Department of Homeland Security
     - Department of Labor
     - Department of the Treasury
     - Health and Human Services
@@ -1542,6 +1604,11 @@ people:
       type: report
       event: Aram Moghaddassi adds 6300 names of suspected immigrants to the "death master file" as a way of forcing them
         to "self-deport" by making it impossible to use financial products. It included 7 minors.
+    - date: 2025-04-11
+      agency: DHS
+      type: report
+      event: Politico profiles a DOGE immigration task force that is located within DHS but has contacts with DOGE staff at
+        other agencies
     - date: 2025-04-18
       agency: DOL
       type: access_granted
@@ -1789,6 +1856,10 @@ people:
       type: onboarded
       event: Redacted employee OPM-2, OPM-3 are hired as a Special Government Employee (SGE) volunteers with terms not to
         exceed past 2025-07-18
+    - date: 2025-01-28
+      agency: OPM
+      type: report
+      event: Wired Magazine provides an early examination of which Musk-affiliated DOGE staff now have positions at OPM
     - date: 2025-02-02
       agency: OPM
       type: report
@@ -1924,6 +1995,11 @@ people:
       type: report
       event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff
         who have worked at HHS
+    - date: 2025-04-11
+      agency: DHS
+      type: report
+      event: Politico profiles a DOGE immigration task force that is located within DHS but has contacts with DOGE staff at
+        other agencies
 
   James Burnham:
     agencies:
@@ -2156,6 +2232,10 @@ people:
       agency: OPM
       type: onboarded
       event: Several DOGE leaders start work at the OPM immediately after the Inauguration
+    - date: 2025-01-28
+      agency: OPM
+      type: report
+      event: Wired Magazine provides an early examination of which Musk-affiliated DOGE staff now have positions at OPM
     - date: 2025-02-12
       agency: OPM
       type: report
@@ -2230,6 +2310,7 @@ people:
   Antonio Gracias:
     agencies:
     - Department of Government Efficiency
+    - Department of Homeland Security
     - Social Security Administration
     events:
     - date: 2025-02-24
@@ -2263,6 +2344,11 @@ people:
       type: report
       event: In an interview on Fox, Antonio Gracias makes misleading claims that DOGE had discovered widespread voting fraud
         through joining social security data and state voter rolls
+    - date: 2025-04-11
+      agency: DHS
+      type: report
+      event: Politico profiles a DOGE immigration task force that is located within DHS but has contacts with DOGE staff at
+        other agencies
 
   Jon Koval:
     agencies:
@@ -2311,6 +2397,7 @@ people:
   Payton Rehling:
     agencies:
     - Department of Government Efficiency
+    - Department of Homeland Security
     - Internal Revenue Service
     - Social Security Administration
     - US Citizenship & Immigration Services
@@ -2377,6 +2464,11 @@ people:
       type: report
       event: USCIS CIO William McElhaney sends a message to DHS Deputy Secretary asking them to review access that was granted
         to DOGE staff
+    - date: 2025-04-11
+      agency: DHS
+      type: report
+      event: Politico profiles a DOGE immigration task force that is located within DHS but has contacts with DOGE staff at
+        other agencies
     - date: 2025-04-15
       agency: IRS
       type: onboarded
@@ -2548,6 +2640,10 @@ people:
       agency: DOGE
       type: report
       event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
+    - date: 2025-01-28
+      agency: OPM
+      type: report
+      event: Wired Magazine provides an early examination of which Musk-affiliated DOGE staff now have positions at OPM
     - date: 2025-02-12
       agency: OPM
       type: report
