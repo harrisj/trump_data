@@ -2,7 +2,7 @@
 meta:
   title: Events
   version: 1.0.0
-  generated: 2025-04-19
+  generated: 2025-04-20
 
 aliases:
 
@@ -1031,6 +1031,7 @@ aliases:
     agency: SSA
   - date: 2025-04-08~
     type: access_granted
+    fuzz: Source does not provide a date.
     event: Unidentified "Employee 11" is accidentally granted access to SSA systems that DOGE was banned from by the court
       order
     named_aliases:

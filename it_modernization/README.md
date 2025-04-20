@@ -20,6 +20,31 @@ Currently, the source data is stored in several files located within the `data` 
 
 Each of these files has associated JSON schemas that can be used to validate the file's contents in an IDE, if you are editing them. But, if you notice an error, the best option is to just file a new Issue to let me know and I'll fix it.
 
+## The Dates
+
+One important thing to note is that I am using the Extended Datetime Format of ISO 8601 to represent dates. This allows me to represent that certain dates are approximate rather than exact (it's very common for news reports to say something like "late last week"). If you are using Python, you can use the `edtf` package to parse them with your YAML parsing like this:
+
+```python
+from edtf import parse_edtf
+from edtf.parser.parser_classes import EDTFObject, UncertainOrApproximate
+
+def edtf_representer(dumper, data):
+    return dumper.represent_scalar(u'!edtf', u'%s' % data)
+
+yaml.add_representer(UncertainOrApproximate, edtf_representer)
+
+def edtf_constructor(loader, node):
+    value = loader.construct_scalar(node)
+    return parse_edtf(str(value))
+
+yaml.add_constructor(u'!edtf', edtf_constructor)
+
+pattern = re.compile(r'^(2024|2025)-\d{2}-\d{2}(~?)$')
+yaml.add_implicit_resolver(u'!edtf', pattern)
+```
+
+It is possible that I might add more complicated date representations going forward (EDTF is amazing), but otherwise you can also make sure to strip a trailing ~ from date strings before parsing and look for the `fuzz:` key in the YAML object.
+
 ## Reports
 
 This data is then combined and processed by automated scripts to produce more comprehensive files that can be used as input for web interfaces, read by automated programs or just looked at to get details on what is happening where.

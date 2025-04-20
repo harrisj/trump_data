@@ -2,7 +2,7 @@
 meta:
   title: Events
   version: 1.0.0
-  generated: 2025-04-19
+  generated: 2025-04-20
 
 events:
 
@@ -265,6 +265,7 @@ events:
   type: onboarded
   onboard_type: appointed
   event: Stephen Ehikian announces that Frank Schuler will be a special advisor at the GSA
+  fuzz: An exact start date isn't provided in the source
   named:
   - Frank Schuler
   source: https://federalnewsnetwork.com/people/2025/01/gsas-new-leadership-mostly-comes-from-tech-finance-sectors/
@@ -2320,6 +2321,7 @@ events:
 - date: 2025-02-18~
   type: report
   event: ProPublica reports that Frank Schuler appeared in the GSA directory
+  fuzz: Exact date is not provided in the article
   named:
   - Frank Schuler
   source: https://www.propublica.org/article/frank-schuler-gsa-doge-syndicated-conservation-easements-tax-scam
@@ -2328,6 +2330,7 @@ events:
 - date: 2025-02-18~
   type: report
   event: Frank Schuler is introduced on a video call meeting at the GSA by Nate Cavanaugh
+  fuzz: Exact date is not provided in the article
   named:
   - Frank Schuler
   - Nate Cavanaugh
@@ -3056,6 +3059,7 @@ events:
 
 - date: 2025-02-24~
   type: report
+  fuzz: The testimony only mentions that this communication happened sometime during that week
   event: Staffers at the NLRB are told that DOGE will be arriving at the agency the following week and that they have questions
     about the agency's network architecture
   source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
@@ -5227,6 +5231,7 @@ events:
 
 - date: 2025-03-24~
   type: disruption
+  fuzz: Source mentions it was on or about this date
   event: NLRB networking staff make a formal report of the suspicious activity to US-CERT at CISA
   source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
   agency:
@@ -5721,6 +5726,7 @@ events:
 
 - date: 2025-03-30~
   type: onboarded
+  fuzz: Source only mentions this happened near the end of March
   onboard_type: detailed
   event: Tarak Makacha has reportedly shown up in FBI directories as a Senior Advisor to the agency's executive assistant
     director for human resources. He reportedly has been there since the end of March
@@ -5732,6 +5738,7 @@ events:
 - date: 2025-03-30~
   type: onboarded
   onboard_type: detailed
+  fuzz: Source only mentions this happened near the end of March
   event: Tarak Makacha has reportedly shown up in the DOJ directory as an Advisor to the Office of the CIO. He reportedly
     has been there since the end of March
   source: https://theintercept.com/2025/04/18/doge-tesla-employee-justice-department-fbi/
@@ -6035,6 +6042,7 @@ events:
 
 - date: 2025-04-08~
   type: access_granted
+  fuzz: Source does not provide a date.
   event: Unidentified "Employee 11" is accidentally granted access to SSA systems that DOGE was banned from by the court order
   named_aliases:
   - SSA-11
@@ -6139,6 +6147,7 @@ events:
 
 - date: 2025-04-11~
   type: offboarded
+  fuzz: Source does not provide a precise date
   event: Pete Marocco is reportedly fired from the State Department
   named:
   - Peter Marocco
