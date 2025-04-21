@@ -218,3 +218,60 @@
   signed_date: 2025-04-15
   comment: I don't have a the source document just reporting from the NYT
   source: https://www.nytimes.com/2025/04/18/us/politics/doge-musk-social-security-justice-department.html
+
+- id: mou-20250206-opm-cfpb-gavin-kliger-nikhil-rajpal-chris-young
+  from: OPM
+  to: CFPB
+  named:
+  - Gavin Kliger
+  - Nikhil Rajpal
+  - Chris Young
+  start_date: 2025-02-06
+  comment: I don't have the source document, just details from a court filing
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+
+- id: mou-20250206-gsa-cfpb-luke-farritor-jeremy-lewin
+  from: GSA
+  to: CFPB
+  named:
+  - Luke Farritor
+  - Jeremy Lewin
+  start_date: 2025-02-06
+  comment: I don't have the source document, just details from a court filing
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+
+- id: mou-20250206-doge-cfpb-jordan-wick
+  from: DOGE
+  to: CFPB
+  named:
+  - Jordan Wick
+  start_date: 2025-02-06
+  comment: I don't have the source document, just details from a court filing
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+
+- id: mou-20250121-doge-hhs-brad-smith
+  from: DOGE
+  to: HHS
+  named:
+  - Brad Smith
+  start_date: 2025-01-21
+  comment: I don't have the detailing agreement, just details from a court filing
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.6.pdf
+
+- id: mou-20250305-dol-hhs-aram-moghaddassi
+  from: DOL
+  to: HHS
+  named:
+  - Aram Moghaddassi
+  start_date: 2025-03-05
+  comment: I don't have the detailing agreement, just details from a court filing
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+
+- id: mou-20250220-education-hhs-conor-fennessy
+  from: Education
+  to: HHS
+  named:
+  - Conor Fennessy
+  start_date: 2025-02-20
+  comment: I don't have the detailing agreement, just details from a court filing
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf

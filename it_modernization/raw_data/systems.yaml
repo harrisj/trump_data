@@ -438,3 +438,34 @@
   pia: https://www.dol.gov/agencies/oasam/centers-offices/ocio/privacy/eta/reo
   link: https://www.dol.gov/agencies/eta/reentry
   agency: DOL
+
+- name: Financial Business Intelligence System
+  id: FBIS
+  description: FIXME
+  agency: HHS
+
+- name: HHS Unified Financial Management System
+  id: UFMS
+  description: FIXME
+  agency: HHS
+
+- name: New Core Financial Management System
+  id: NCFMS
+  description: FIXME
+  agency: DOL
+
+- name: Unemployment Insurance Data and Related Records
+  id: UIDRR
+  description: Unemployment insurance claims data from states' unemployment insurance agencies. This was explicitly transferred from the Inspector General's office at DOL following a 2025-03-20 executive order
+  risk: PII include name, address, birth date, bank account information, address, SSN, matches to SSA Death Master File
+  agency: DOL
+
+- name: Office of Job Corps Electronic Information System
+  id: OJC-EIS
+  description: FIXME
+  agency: DOL
+
+- name: CFPB Physical Access Control
+  id: CFPB-PAC
+  description: Physical access controls at the CFPB
+  agency: CFPB

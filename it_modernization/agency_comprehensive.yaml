@@ -109,9 +109,13 @@ CMS:
   - Edward Coristine
   - Marko Elez
   - Luke Farritor
+  - Conor Fennessy
   - Amy Gleason
+  - Jeremy Lewin
+  - Aram Moghaddassi
   - Rachel Riley
   - Brad Smith
+  - Zach Terrell
   events:
   - date: 2025-01-31
     type: access_granted
@@ -122,6 +126,28 @@ CMS:
     named:
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    agency: CMS
+  - date: 2025-02-03
+    type: access_granted
+    access_type: read
+    access_systems:
+    - CALM
+    event: Rachel Riley is granted read-only access to the CMS Acquisition Lifecycle Modernization (CALM) system.
+    named:
+    - Rachel Riley
+    case_no: 1:25-cv-00339
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    agency: CMS
+  - date: 2025-02-04
+    type: access_granted
+    access_type: read
+    access_systems:
+    - FBIS
+    event: Rachel Riley is granted read-only access to the Financial Business Intelligence System (FBIS) (no PII access) by the office of the Assistant Secretary for Financial Resources.
+    named:
+    - Rachel Riley
+    case_no: 1:25-cv-00339
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
     agency: CMS
   - date: 2025-02-05
     type: report
@@ -143,6 +169,17 @@ CMS:
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
     agency: CMS
+  - date: 2025-02-20
+    type: access_granted
+    access_type: read
+    access_systems:
+    - GrantSolutions
+    event: Rachel Riley is granted read-only access to the GrantSolutions by the office of the Director, Security and Data Project Management Office, HHS Office of Grants
+    named:
+    - Rachel Riley
+    case_no: 1:25-cv-00339
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    agency: CMS
   - date: 2025-02-24
     type: access_granted
     access_type: read
@@ -152,6 +189,18 @@ CMS:
     named:
     - Amy Gleason
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    agency: CMS
+  - date: 2025-03-03
+    type: access_granted
+    access_type: read
+    access_systems:
+    - CALM
+    event: Conor Fennessy and Jeremy Lewin are granted read-only access to the CMS Acquisition Lifecycle Modernization (CALM) system.
+    named:
+    - Conor Fennessy
+    - Jeremy Lewin
+    case_no: 1:25-cv-00339
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
     agency: CMS
   - date: 2025-03-05
     type: onboarded
@@ -168,9 +217,10 @@ CMS:
     access_type: read
     access_systems:
     - CALM
-    event: Edward Coristine and Marko Elez are granted read-only access to the CMS Acquisition Lifecycle Modernization (CALM) system.
+    event: Edward Coristine, Aram Moghaddassi and Marko Elez are granted read-only access to the CMS Acquisition Lifecycle Modernization (CALM) system.
     named:
     - Edward Coristine
+    - Aram Moghaddassi
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
     agency: CMS
@@ -179,22 +229,38 @@ CMS:
     access_type: read
     access_systems:
     - HIGLAS
-    event: Edward Coristine and Marko Elez are granted read-only access to the Healthcare Integrated General Ledger Accounting System (HIGLAS) system by the CIO of the CMS Office of Information Technology
+    event: Edward Coristine, Aram Moghaddassi and Marko Elez are granted read-only access to the Healthcare Integrated General Ledger Accounting System (HIGLAS) system by the CIO of the CMS Office of Information Technology
     named:
     - Edward Coristine
     - Marko Elez
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    - Aram Moghaddassi
+    case_no: 1:25-cv-00339
+    source: hhttps://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
     agency: CMS
   - date: 2025-03-05
     type: access_granted
     access_type: read
     access_systems:
     - IDR
-    event: Marko Elez is granted read-only access to the Integrated Data Repository (IDR) system by the CIO of the CMS Office of Information Technology
+    event: Marko Elez and Aram Moghaddassi are granted read-only access to the Integrated Data Repository (IDR) system by the CIO of the CMS Office of Information Technology
     named:
     - Marko Elez
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    - Aram Moghaddassi
+    case_no: 1:25-cv-00339
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
     agency: CMS
+  - date: 2025-03-06
+    type: onboarded
+    onboard_type: unknown
+    event: Zach Terrell is onboarded as an employee of HHS
+    named:
+    - Zach Terrell
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
+    agency:
+    - HHS
+    - CMS
+    - NIH
   - date: 2025-03-11
     type: access_granted
     access_type: read
@@ -204,6 +270,17 @@ CMS:
     named:
     - Edward Coristine
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    agency: CMS
+  - date: 2025-03-11
+    type: access_granted
+    access_type: read
+    access_systems:
+    - IDR
+    event: Zach Terrell is granted read access to Integrated Data Repository (IDR) at CMS by the CIO of CMS Information Technologies
+    named:
+    - Zach Terrell
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
     agency: CMS
   - date: 2025-03-29
     type: report
@@ -251,6 +328,23 @@ CMS:
     event: Newly-appointed director of CMS, Dr. Mehmet Oz, suggests replacing front-line healthcare workers with AI avatars for cost savings
     agency: CMS
     source: https://www.wired.com/story/dr-oz-ai-health-care-medicare-cms-town-hall/
+  - date: 2025-04-08
+    type: legal
+    event: In a sworn deposition, an official at HHS affirms that it doesn't look like Aram Moghaddassi did not take required training before being granted access to HIGLAS and IDR
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.6.pdf
+    named:
+    - Aram Moghaddassi
+    case_no: 1:25-cv-00339
+    agency: CMS
+  - date: 2025-04-18
+    type: access_revoked
+    access_systems:
+    - CALM
+    named:
+    - Conor Fennessy
+    - Jeremy Lewin
+    event: In a filing, HHS attests that Conor Fennessy's and Jeremy Lewin's access to the CALM system has been deactivated
+    agency: CMS
   systems:
     AGX:
       name: Acquistions and Grants Exchange
@@ -354,6 +448,42 @@ CFPB:
   - Chris Young
   events:
   - date: 2025-02-06
+    type: onboarded
+    onboard_type: detailed
+    detail_id: mou-20250206-opm-cfpb-gavin-kliger-nikhil-rajpal-chris-young
+    detailed_from: OPM
+    event: Gavin Kliger, Nikhil Rajpal and Chris Young are detailed from OPM to the CFPB
+    named:
+    - Gavin Kliger
+    - Nikhil Rajpal
+    - Chris Young
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
+    agency: CFPB
+  - date: 2025-02-06
+    type: onboarded
+    onboard_type: detailed
+    detail_id: mou-20250206-gsa-cfpb-luke-farritor-jeremy-lewin
+    detailed_from: GSA
+    event: Luke Farritor and Jeremy Lewin are detailed from GSA to the CFPB
+    named:
+    - Luke Farritor
+    - Jeremy Lewin
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
+    agency: CFPB
+  - date: 2025-02-06
+    type: onboarded
+    onboard_type: detailed
+    detail_id: mou-20250206-doge-cfpb-jordan-wick
+    detailed_from: DOGE
+    event: Jordan Wick is detailed from DOGE to the CFPB
+    named:
+    - Jordan Wick
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
+    agency: CFPB
+  - date: 2025-02-06
     type: report
     event: DOGE staff enter CFPB facilities and are given equipment and onboarded
     source: https://www.wired.com/story/doge-access-consumer-financial-protection-bureau-data/
@@ -391,6 +521,16 @@ CFPB:
     - Nikhil Rajpal
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    agency: CFPB
+  - date: 2025-02-07
+    type: access_granted
+    access_type: unknown
+    access_systems:
+    - CFPB-PAC
+    event: Gavin Kliger is given access to the Physical Access Control system
+    named:
+    - Gavin Kliger
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
     agency: CFPB
   - date: 2025-02-07
     type: access_granted
@@ -501,7 +641,6 @@ CFPB:
     type: access_revoked
     access_systems:
     - Entra-CFPB
-    - PRISM
     - webTA
     - DataInsight
     - USAStaffing
@@ -548,6 +687,14 @@ CFPB:
     - Nikhil Rajpal
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
     agency: CFPB
+  - date: 2025-03-28
+    type: access_revoked
+    access_systems:
+    - PRISM
+    event: Jordan Wick's access to PRISM is revoked, per a court order in to a court order in American Federation of Teachers et al. v Bessent et al., No. 8:25-cv-430
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 8:25-cv-430
+    agency: CFPB
   - date: 2025-04-17
     type: disruption
     event: CFPB conducts a massive Reduction in Force, eliminating 1483 positions and retaining only 207 people to perform its duties. This is larger than the planned RIF in February that was blocked by Judge Amy Berman-Jackson
@@ -576,6 +723,11 @@ CFPB:
       description: System for tracking procurement and contracting
       link: https://www.doi.gov/ibc/services/finance/financial-systems/prism
       risk: PII/CUI of contracting recipients
+      agency: CFPB
+    CFPB-PAC:
+      name: CFPB Physical Access Control
+      id: CFPB-PAC
+      description: Physical access controls at the CFPB
       agency: CFPB
   cases:
     1:25-cv-00339:
@@ -1172,6 +1324,14 @@ DOGE:
     - Cole Killian
     source: https://www.wired.com/story/elon-musk-government-young-engineers/
     agency: DOGE
+  - date: 2025-02-05
+    type: report
+    case_no: 1:25-cv-00339
+    event: According to sworn testimony, Steve Davis is the decision-maker for DOGE as the senior-most political appointee until Amy Gleason is appointed as acting administratior of DOGE on 2025-02-18
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.4.pdf
+    named:
+    - Steve Davis
+    agency: DOGE
   - date: 2025-02-11
     type: official
     event: Trump issues an executive order giving DOGE teams in every agency final approval on any hiring decisions, sets quota of 1 new hire for 4 departures
@@ -1215,6 +1375,15 @@ DOGE:
     named:
     - Christopher Stanley
     source: https://techcrunch.com/2025/02/18/elon-musk-staffer-created-a-doge-ai-assistant-for-making-government-less-dumb/
+    agency: DOGE
+  - date: 2025-02-18
+    type: onboarded
+    onboard_type: appointed
+    case_no: 1:25-cv-00339
+    event: According to sworn testimony, Amy Gleason is appointed as acting administration over the US DOGE Service and the DOGE Temporary Organization
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.4.pdf
+    named:
+    - Amy Gleason
     agency: DOGE
   - date: 2025-02-19
     type: official
@@ -1431,6 +1600,14 @@ DOGE:
     - HHS
     - Treasury
     - DOI
+  - date: 2025-04-07
+    type: legal
+    case_no: 1:25-cv-00339
+    event: Kendall Lindemann testifies in a sworn deposition as a representative of DOGE after saying she had conducted conversations with Amy Gleason
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.4.pdf
+    named:
+    - Kendall Lindemann
+    agency: DOGE
   - date: 2025-04-16
     type: report
     event: Three DOGE staffers are reported to work with staff from DHS, the State Department and USCIS on implementing an application process for a $5 Million "Gold Card" visa
@@ -2154,6 +2331,41 @@ DOL:
     - Jordan Wick
     source: https://www.nbcnews.com/tech/security/doge-software-approval-alarms-labor-department-employees-data-security-rcna191583
     agency: DOL
+  - date: 2025-02-19
+    type: access_granted
+    access_type: unknown
+    event: Aram Moghaddassi and Miles Collins are granted access to the HRConnect system at DOL by the Assistant Secretary for Administration and Management
+    access_systems:
+    - HRConnect
+    named:
+    - Aram Moghaddassi
+    - Miles Collins
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
+    agency: DOL
+  - date: 2025-02-20
+    type: access_granted
+    access_type: unknown
+    event: Miles Collins is granted access to the Office of Job Corps Electronic Information System (OJC EIS) by Dean Heyl, Assistant Secretary for Administration and Management
+    named:
+    - Miles Collins
+    access_systems:
+    - OJC-EIS
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
+    agency: DOL
+  - date: 2025-02-20
+    type: access_granted
+    access_type: unknown
+    event: Aram Moghaddassi and Miles Collins are granted access to the New Core Financial Management System (NCFMS) system at DOL by the Assistant Secretary for Administration and Management
+    access_systems:
+    - NCFMS
+    named:
+    - Aram Moghaddassi
+    - Miles Collins
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
+    agency: DOL
   - date: 2025-02-25
     type: access_granted
     access_type: read
@@ -2174,6 +2386,39 @@ DOL:
     named:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    agency: DOL
+  - date: 2025-02-26
+    type: access_granted
+    access_type: unknown
+    event: Aram Moghaddassi is granted access to the USAccess system at DOL by the Assistant Secretary for Administration and Management
+    access_systems:
+    - USAccess
+    named:
+    - Aram Moghaddassi
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
+    agency: DOL
+  - date: 2025-02-26
+    type: access_granted
+    access_type: unknown
+    event: Aram Moghaddassi is granted access to the Enterprise Physical Access Control System (EPACS) system at DOL by the Assistant Secretary for Administration and Management
+    access_systems:
+    - EPACS
+    named:
+    - Aram Moghaddassi
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
+    agency: DOL
+  - date: 2025-02-26
+    type: access_granted
+    access_type: read
+    access_systems:
+    - DOL-DRA
+    event: Miles Collins is granted access read-only access to USAccess and DOL Directory Resource Administrator (DRA) systems by Troy Finnegan, Former Assistant Secretary for Administration and Management
+    named:
+    - Miles Collins
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
     agency: DOL
   - date: 2025-03-01
     type: report
@@ -2228,6 +2473,19 @@ DOL:
     type: official
     event: Trump issues an executive order which explicitly includes an instruction that "the Secretary of Labor and the Secretary's designees shall receive, to the maximum extent consistent with law, unfettered access to all unemployment data and related payment records, including all such data and records currently available to the Department of Labor's Office of Inspector General."
     source: https://www.whitehouse.gov/presidential-actions/2025/03/stopping-waste-fraud-and-abuse-by-eliminating-information-silos/
+    agency: DOL
+  - date: 2025-03-21
+    type: access_granted
+    access_type: unknown
+    access_systems:
+    - UIDRR
+    event: Aram Moghaddassi and Marko Elez are granted access to the Unemployment Insurance Data and Related Records system at DOL by the Thomas Shedd as the DOL CIO
+    comment: This is a newly created extract of records possessd by the DOL OIG office. It was ordered released by a 2025-03-20 executive order. Access can only be granted by the CIO, but Thomas Shedd (another DOGE person) was named the CIO on 2025-03-14
+    named:
+    - Aram Moghaddassi
+    - Marko Elez
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
     agency: DOL
   - date: 2025-03-21
     type: access_granted
@@ -2316,6 +2574,22 @@ DOL:
       description: The Reentry Employment Opportunities (REO) program provides funding, authorized as Research and Evaluation under Section 169 of the Workforce Innovation and Opportunity Act (WIOA) of 2014, for justice-involved youth and young adults and adults who were formerly incarcerated.
       pia: https://www.dol.gov/agencies/oasam/centers-offices/ocio/privacy/eta/reo
       link: https://www.dol.gov/agencies/eta/reentry
+      agency: DOL
+    NCFMS:
+      name: New Core Financial Management System
+      id: NCFMS
+      description: FIXME
+      agency: DOL
+    UIDRR:
+      name: Unemployment Insurance Data and Related Records
+      id: UIDRR
+      description: Unemployment insurance claims data from states' unemployment insurance agencies. This was explicitly transferred from the Inspector General's office at DOL following a 2025-03-20 executive order
+      risk: PII include name, address, birth date, bank account information, address, SSN, matches to SSA Death Master File
+      agency: DOL
+    OJC-EIS:
+      name: Office of Job Corps Electronic Information System
+      id: OJC-EIS
+      description: FIXME
       agency: DOL
   cases:
     1:25-cv-00339:
@@ -3392,6 +3666,7 @@ HHS:
   - Rachel Riley
   - Kyle Schutt
   - Brad Smith
+  - Zach Terrell
   events:
   - date: 2025-01-21
     type: onboarded
@@ -3402,6 +3677,14 @@ HHS:
     named:
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    agency: HHS
+  - date: 2025-01-21
+    type: onboarded
+    onboard_type: detailed
+    detail_id: mou-20250121-doge-hhs-brad-smith
+    event: According to sworn testimony, Brad Smith is detailed to HHS from DOGE
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.6.pdf
+    case_no: 1:25-cv-00339
     agency: HHS
   - date: 2025-01-22
     type: access_granted
@@ -3440,6 +3723,15 @@ HHS:
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
     agency: HHS
+  - date: 2025-01-27
+    type: onboarded
+    onboard_type: appointed
+    event: Rachel Riley starts working at HHS
+    named:
+    - Rachel Riley
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
+    agency: HHS
   - date: 2025-01-29
     type: access_granted
     access_type: admin
@@ -3450,6 +3742,17 @@ HHS:
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
     agency: HHS
+  - date: 2025-02-03
+    type: access_granted
+    access_type: admin
+    access_systems:
+    - HCAS
+    event: Rachel Riley is granted admin access to the HHS Consolidated Acquisition System (HCAS) by the Executive Director, Strategic Programs and Business Systems at ASFR
+    named:
+    - Rachel Riley
+    case_no: 1:25-cv-00339
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    agency: HHS
   - date: 2025-02-14
     type: onboarded
     source: https://orangeslices.ai/hhs-it-office-recruits-new-chief-from-palantir/
@@ -3457,6 +3760,38 @@ HHS:
     event: Clark Minor is named as the CIO for HHS
     named:
     - Clark Minor
+    agency: HHS
+  - date: 2025-02-19
+    type: access_granted
+    access_type: read
+    event: Aram Moghaddassi is granted read-only access to the GrantSolutions system at HHS
+    access_systems:
+    - GrantSolutions
+    named:
+    - Aram Moghaddassi
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
+    agency: HHS
+  - date: 2025-02-20
+    type: onboarded
+    event: Conor Fennessy is detailed from the Department of Education to HHS
+    onboard_type: detailed
+    detailed_from: Education
+    detail_id: mou-20250220-education-hhs-conor-fennessy
+    named:
+    - Conor Fennessy
+    case_no: 1:25-cv-00339
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    agency: HHS
+  - date: 2025-02-21
+    type: onboarded
+    onboard_type: detailed
+    detailed_from: GSA
+    event: Jeremy Lewin is detailed from GSA to the HHS
+    named:
+    - Jeremy Lewin
+    case_no: 1:25-cv-00339
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
     agency: HHS
   - date: 2025-02-28
     type: access_granted
@@ -3467,6 +3802,40 @@ HHS:
     named:
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    agency: HHS
+  - date: 2025-02-28
+    type: access_granted
+    access_type: read
+    access_systems:
+    - Grants.gov
+    event: Conor Fennessy is granted read access to Grants.gov by the Assistant Secretary for Financial Resources (ASFR)
+    named:
+    - Conor Fennessy
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
+    agency: HHS
+  - date: 2025-02-28
+    type: access_granted
+    access_type: read
+    access_systems:
+    - HCAS
+    event: Conor Fennessy is granted read access to HHS Consolidated Acquisition System (HCAS) by the Executive Director, Strategic Programs and Business Systems at the office of the ASFR
+    named:
+    - Conor Fennessy
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
+    agency: HHS
+  - date: 2025-02-28
+    type: access_granted
+    access_type: read
+    access_systems:
+    - GrantSolutions
+    event: Conor Fennessy and Jeremy Lewin are granted read access to GrantSolutions by the Director, Security and Data Project Management Office, HHS Office of Grants.
+    named:
+    - Conor Fennessy
+    - Jeremy Lewin
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
     agency: HHS
   - date: 2025-03-03
     type: report
@@ -3500,6 +3869,16 @@ HHS:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
     agency: HHS
   - date: 2025-03-05
+    type: onboarded
+    detailed_from: DOL
+    detail_id: mou-20250305-dol-hhs-aram-moghaddassi
+    case_no: 1:25-cv-00339
+    event: Aram Moghaddassi was detailed to HHS from DOL
+    named:
+    - Aram Moghaddassi
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    agency: HHS
+  - date: 2025-03-05
     type: access_granted
     access_type: read
     access_systems:
@@ -3508,6 +3887,51 @@ HHS:
     named:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    agency: HHS
+  - date: 2025-03-06
+    type: access_granted
+    access_type: read
+    access_systems:
+    - NDNH
+    event: Aram Moghaddassi is granted read-only access to National Directory of New Hires (NDNH) database by the Administration for Children and Families (ACF) CTO
+    named:
+    - Aram Moghaddassi
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
+    agency: HHS
+  - date: 2025-03-06
+    type: onboarded
+    onboard_type: unknown
+    event: Zach Terrell is onboarded as an employee of HHS
+    named:
+    - Zach Terrell
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
+    agency:
+    - HHS
+    - CMS
+    - NIH
+  - date: 2025-03-07
+    type: access_granted
+    access_type: read
+    event: Conor Fennesy is granted read access to the Financial Business Intelligence System (FBIS), but is not granted access to view PII data, by the office of the Assistant Secretary for Financial Resources (ASFR)
+    access_systems:
+    - FBIS
+    named:
+    - Conor Fennessy
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
+    agency: HHS
+  - date: 2025-03-07
+    type: access_granted
+    access_type: read
+    access_systems:
+    - EHCM
+    event: Zach Terrell is granted read access to Enterprise Human Capital Management (EHCM) by the HR ISSO
+    named:
+    - Zach Terrell
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
     agency: HHS
   - date: 2025-03-08
     type: disruption
@@ -3535,6 +3959,28 @@ HHS:
     - Kyle Schutt
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
     agency: HHS
+  - date: 2025-03-16~
+    type: access_granted
+    access_type: read
+    access_systems:
+    - FBIS
+    event: Zach Terrell is granted read access to the Financial Business Intelligence System (FBIS) (only the application and not the database, no PII visibility) by the the CTO, Program Support Center
+    named:
+    - Zach Terrell
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
+    agency: HHS
+  - date: 2025-03-18
+    type: access_granted
+    access_type: read
+    access_systems:
+    - UFMS
+    event: Zach Terrell is granted read access to the HHS Unified Financial Management System (UFMS) (only the application and not the database) by the the CTO, Program Support Center
+    named:
+    - Zach Terrell
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
+    agency: HHS
   - date: 2025-03-21
     type: access_granted
     access_type: read
@@ -3559,6 +4005,17 @@ HHS:
     type: official
     event: HHS announces a large reorganization reducing HHS from 28 to 15 divisions and elimination 20,000 jobs (or 25% of total). The URL slug of the press release includes "DOGE" in it.
     source: https://www.hhs.gov/about/news/hhs-restructuring-doge.html
+    agency: HHS
+  - date: 2025-03-27
+    type: access_granted
+    access_type: read
+    access_systems:
+    - PMS
+    event: Zach Terrell is granted read access to the Payment Management System (PMS) by the the Chief Technology Officer, Program Support Center
+    named:
+    - Zach Terrell
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
     agency: HHS
   - date: 2025-03-28
     type: report
@@ -3656,6 +4113,15 @@ HHS:
     named:
     - Amy Gleason
     agency: HHS
+  - date: 2025-04-04
+    type: access_revoked
+    event: In a status report, HHS reports that Luke Farritor's HCAS access has been revoked
+    access_systems:
+    - HCAS
+    named:
+    - Luke Farritor
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    agency: HHS
   - date: 2025-04-12
     type: disruption
     event: A DOGE engineer has apparently removed the ability of government agencies to post new grants to grants.gov and requiring them to all be sent to a new email address created this week for reviews
@@ -3667,6 +4133,35 @@ HHS:
     - DOI
     - DOD
     - NIH
+  - date: 2025-04-18~
+    type: access_revoked
+    access_systems:
+    - HCAS
+    event: In a declaration. HHS attests that Rachel Riley no longer has access to the HCAS system
+    named:
+    - Rachel Riley
+    case_no: 1:25-cv-00339
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    agency: HHS
+  - date: 2025-04-18
+    type: access_revoked
+    access_systems:
+    - NDNH
+    named:
+    - Aram Moghaddassi
+    event: In a filing, HHS attests that Aram Moghaddassi's access to NDNH has been revoked
+    case_no: 1:25-cv-00339
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    agency: HHS
+  - date: 2025-04-18
+    type: access_revoked
+    access_systems:
+    - HCAS
+    - FBIS
+    named:
+    - Conor Fennessy
+    event: In a filing, HHS attests that Conor Fennessy's access the CALM system, FBIS, HCAS, and NIH EBS System has been deactivated
+    agency: HHS
   systems:
     Grants.gov:
       name: Grants.gov
@@ -3688,6 +4183,16 @@ HHS:
       description: The UC Portal manages all medical (mental and dental health included), educational, and sponsorship information for UC in ORR custody
       pia: https://www.hhs.gov/sites/default/files/acf-unaccompanied-children-portal.pdf
       sorn: https://www.federalregister.gov/documents/2022/02/08/2022-02535/privacy-act-of-1974-system-of-records
+      agency: HHS
+    FBIS:
+      name: Financial Business Intelligence System
+      id: FBIS
+      description: FIXME
+      agency: HHS
+    UFMS:
+      name: HHS Unified Financial Management System
+      id: UFMS
+      description: FIXME
       agency: HHS
   cases:
     1:25-cv-00339:
@@ -4357,11 +4862,13 @@ NIH:
   doge_base: true
   associated:
   - Luke Farritor
+  - Conor Fennessy
   - Joshua Hanley
   - Gavin Kliger
   - Jeremy Lewin
   - Clark Minor
   - Rachel Riley
+  - Zach Terrell
   events:
   - date: 2025-02-24
     type: report
@@ -4385,16 +4892,30 @@ NIH:
     - Clark Minor
     source: https://www.wired.com/story/doge-is-inside-the-national-institutes-of-health-nih/
     agency: NIH
+  - date: 2025-02-24
+    type: access_granted
+    access_type: read
+    access_systems:
+    - NBS
+    - PRISM
+    event: Rachel Riley is granted read-only access to the NIH Business System EBS and PRISM systems by the NIH Office of the CIO
+    named:
+    - Rachel Riley
+    case_no: 1:25-cv-00339
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    agency: NIH
   - date: 2025-02-28
     type: access_granted
     access_type: read
     access_systems:
     - NBS
     - PRISM
-    event: Luke Farritor is granted read-only access to NIH Business System EBS and PRISM systems by NIH's office of the CIO
+    event: Luke Farritor and Conor Fennesy are granted read-only access to NIH Business System EBS and PRISM systems by NIH's office of the CIO
     named:
     - Luke Farritor
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    - Conor Fennessy
+    case_no: 1:25-cv-00339
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
     agency: NIH
   - date: 2025-03-03
     type: report
@@ -4403,6 +4924,18 @@ NIH:
     named:
     - Joshua Hanley
     agency: NIH
+  - date: 2025-03-06
+    type: onboarded
+    onboard_type: unknown
+    event: Zach Terrell is onboarded as an employee of HHS
+    named:
+    - Zach Terrell
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
+    agency:
+    - HHS
+    - CMS
+    - NIH
   - date: 2025-03-20
     type: disruption
     event: Access to purchase cards are restored at NIH for nonemergency purchases, but scientists face a huge backlog in processing orders for supplies.
@@ -4434,6 +4967,14 @@ NIH:
     - DOI
     - DOD
     - NIH
+  - date: 2025-04-18
+    type: access_revoked
+    access_systems:
+    - NBS
+    named:
+    - Conor Fennessy
+    event: In a filing, HHS attests that Conor Fennessy's access to the CALM system, FBIS, HCAS, and NIH EBS System has been deactivated
+    agency: NIH
   systems:
     NBS:
       name: NIH Business System
