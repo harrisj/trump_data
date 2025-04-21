@@ -431,6 +431,7 @@ postings:
   first_date: 2024-12-06
   all_dates:
   - 2024-12-06
+  - 2025-01-12
   - 2025-01-16
   - 2025-01-24
   last_date: 2025-01-24
@@ -455,6 +456,7 @@ postings:
   first_date: 2024-12-06
   all_dates:
   - 2024-12-06
+  - 2025-01-12
   - 2025-01-16
   - 2025-01-24
   last_date: 2025-01-24
@@ -492,6 +494,7 @@ postings:
   first_date: 2024-12-06
   all_dates:
   - 2024-12-06
+  - 2025-01-12
   - 2025-01-24
   - 2025-02-05
   - 2025-03-05
@@ -508,6 +511,7 @@ postings:
   first_date: 2024-12-06
   all_dates:
   - 2024-12-06
+  - 2025-01-12
   - 2025-01-24
   last_date: 2025-01-24
   agency_doge_base: true
@@ -538,6 +542,78 @@ postings:
   - 2025-01-06
   - 2025-01-17
   last_date: 2025-01-17
+  agency_doge_base: true
+  doge_agency_first: 2024-11-26
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: DOGE
+  name: Vinay Hiremath
+  first_date: 2025-01-12
+  all_dates:
+  - 2025-01-12
+  last_date: 2025-01-12
+  agency_doge_base: true
+  doge_agency_first: 2024-11-26
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: DOGE
+  name: Brad Smith
+  first_date: 2025-01-12
+  all_dates:
+  - 2025-01-12
+  - 2025-01-24
+  - 2025-03-27
+  last_date: 2025-03-27
+  agency_doge_base: true
+  doge_agency_first: 2024-11-26
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: DOGE
+  name: Matt Luby
+  first_date: 2025-01-12
+  all_dates:
+  - 2025-01-12
+  last_date: 2025-01-12
+  agency_doge_base: true
+  doge_agency_first: 2024-11-26
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: DOGE
+  name: Joanna Wischer
+  first_date: 2025-01-12
+  all_dates:
+  - 2025-01-12
+  - 2025-01-24
+  last_date: 2025-01-24
+  agency_doge_base: true
+  doge_agency_first: 2024-11-26
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: DOGE
+  name: Rachel Riley
+  first_date: 2025-01-12
+  all_dates:
+  - 2025-01-12
+  - 2025-01-24
+  last_date: 2025-01-24
+  agency_doge_base: true
+  doge_agency_first: 2024-11-26
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: DOGE
+  name: James Burnham
+  first_date: 2025-01-12
+  all_dates:
+  - 2025-01-12
+  - 2025-01-24
+  - 2025-03-26
+  last_date: 2025-03-26
   agency_doge_base: true
   doge_agency_first: 2024-11-26
   doge_agency_last: 2025-04-16
@@ -617,52 +693,6 @@ postings:
   all_dates:
   - 2025-01-24
   last_date: 2025-01-24
-  agency_doge_base: true
-  doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-16
-  doge_agency_last_adjusted: 2025-04-27
-
-- agency_id: DOGE
-  name: Brad Smith
-  first_date: 2025-01-24
-  all_dates:
-  - 2025-01-24
-  - 2025-03-27
-  last_date: 2025-03-27
-  agency_doge_base: true
-  doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-16
-  doge_agency_last_adjusted: 2025-04-27
-
-- agency_id: DOGE
-  name: Rachel Riley
-  first_date: 2025-01-24
-  all_dates:
-  - 2025-01-24
-  last_date: 2025-01-24
-  agency_doge_base: true
-  doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-16
-  doge_agency_last_adjusted: 2025-04-27
-
-- agency_id: DOGE
-  name: Joanna Wischer
-  first_date: 2025-01-24
-  all_dates:
-  - 2025-01-24
-  last_date: 2025-01-24
-  agency_doge_base: true
-  doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-16
-  doge_agency_last_adjusted: 2025-04-27
-
-- agency_id: DOGE
-  name: James Burnham
-  first_date: 2025-01-24
-  all_dates:
-  - 2025-01-24
-  - 2025-03-26
-  last_date: 2025-03-26
   agency_doge_base: true
   doge_agency_first: 2024-11-26
   doge_agency_last: 2025-04-16
@@ -905,10 +935,11 @@ postings:
   - 2025-02-24
   - 2025-03-07
   - 2025-03-28
-  last_date: 2025-03-28
+  - 2025-04-17
+  last_date: 2025-04-17
   agency_doge_base: true
   doge_agency_first: 2025-01-28
-  doge_agency_last: 2025-04-12
+  doge_agency_last: 2025-04-17
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: DOI
@@ -919,7 +950,7 @@ postings:
   last_date: 2025-01-28
   agency_doge_base: true
   doge_agency_first: 2025-01-28
-  doge_agency_last: 2025-04-12
+  doge_agency_last: 2025-04-17
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: DOI
@@ -934,7 +965,7 @@ postings:
   onboard_date: 2025-02-24
   agency_doge_base: true
   doge_agency_first: 2025-01-28
-  doge_agency_last: 2025-04-12
+  doge_agency_last: 2025-04-17
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: DOI
@@ -947,7 +978,7 @@ postings:
   last_date: 2025-03-29
   agency_doge_base: true
   doge_agency_first: 2025-01-28
-  doge_agency_last: 2025-04-12
+  doge_agency_last: 2025-04-17
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: DOI
@@ -958,7 +989,18 @@ postings:
   last_date: 2025-04-12
   agency_doge_base: true
   doge_agency_first: 2025-01-28
-  doge_agency_last: 2025-04-12
+  doge_agency_last: 2025-04-17
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: DOI
+  name: Matt Luby
+  first_date: 2025-04-17
+  all_dates:
+  - 2025-04-17
+  last_date: 2025-04-17
+  agency_doge_base: true
+  doge_agency_first: 2025-01-28
+  doge_agency_last: 2025-04-17
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: DOJ

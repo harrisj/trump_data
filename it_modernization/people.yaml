@@ -21,6 +21,11 @@ people:
       type: report
       event: A report on the tech billionaires steering Trump's transition mentions Musk and other DOGE staff, and how they
         have been interviewing people at Mar-a-Lago
+    - date: 2025-01-12
+      agency: DOGE
+      type: report
+      event: A New York Times report on DOGE from just before the Inauguration roughly describes the working arrangements
+        for embedding some staff and detailing others as well as some early participants in the project
     - date: 2025-01-24
       agency: DOGE
       type: report
@@ -75,6 +80,11 @@ people:
     - Federal Emergency Management Agency
     - Health and Human Services
     events:
+    - date: 2025-01-12
+      agency: DOGE
+      type: report
+      event: A New York Times report on DOGE from just before the Inauguration roughly describes the working arrangements
+        for embedding some staff and detailing others as well as some early participants in the project
     - date: 2025-01-24
       agency: DOGE
       type: report
@@ -572,6 +582,17 @@ people:
       type: disruption
       event: Tyler Hassen places the CIO and CISO on admininstrative leave under investigation for raising alarm about DOGE
         access
+    - date: 2025-04-17
+      agency: DOI
+      type: report
+      event: The Washington Posts reports that both Tyler Hassen and Matt Luby are scrutinizing all grants at the Department
+        of the Interior. They also requested a list of all grants going to Maine, perhaps to punish the state for its governor's
+        defiance of Trump.
+    - date: 2025-04-17
+      agency: DOI
+      type: report
+      event: The Secretary of the Interior formally designates that Tyler Hassen is in charge of implementing cuts to the
+        agency and reorganizing its responsibilities
 
   Tarak Makecha:
     agencies:
@@ -604,6 +625,11 @@ people:
     - Health and Human Services
     - National Institute of Health
     events:
+    - date: 2025-01-12
+      agency: DOGE
+      type: report
+      event: A New York Times report on DOGE from just before the Inauguration roughly describes the working arrangements
+        for embedding some staff and detailing others as well as some early participants in the project
     - date: 2025-01-24
       agency: DOGE
       type: report
@@ -2227,6 +2253,11 @@ people:
     - Federal Emergency Management Agency
     - US Institute of Peace
     events:
+    - date: 2025-01-12
+      agency: DOGE
+      type: report
+      event: A New York Times report on DOGE from just before the Inauguration roughly describes the working arrangements
+        for embedding some staff and detailing others as well as some early participants in the project
     - date: 2025-01-24
       agency: DOGE
       type: report
@@ -2859,6 +2890,11 @@ people:
     - Department of Government Efficiency
     - Office of Personnel Management
     events:
+    - date: 2025-01-12
+      agency: DOGE
+      type: report
+      event: A New York Times report on DOGE from just before the Inauguration roughly describes the working arrangements
+        for embedding some staff and detailing others as well as some early participants in the project
     - date: 2025-01-24
       agency: DOGE
       type: report
@@ -3104,6 +3140,11 @@ people:
       type: report
       event: A report on the tech billionaires steering Trump's transition mentions Musk and other DOGE staff, and how they
         have been interviewing people at Mar-a-Lago
+    - date: 2025-01-12
+      agency: DOGE
+      type: report
+      event: A New York Times report on DOGE from just before the Inauguration roughly describes the working arrangements
+        for embedding some staff and detailing others as well as some early participants in the project
     - date: 2025-01-24
       agency: DOGE
       type: report
@@ -3478,6 +3519,11 @@ people:
       type: report
       event: A report on the tech billionaires steering Trump's transition mentions Musk and other DOGE staff, and how they
         have been interviewing people at Mar-a-Lago
+    - date: 2025-01-12
+      agency: DOGE
+      type: report
+      event: A New York Times report on DOGE from just before the Inauguration roughly describes the working arrangements
+        for embedding some staff and detailing others as well as some early participants in the project
     - date: 2025-01-16
       agency: DOGE
       type: report
@@ -3507,6 +3553,11 @@ people:
       type: report
       event: A report on the tech billionaires steering Trump's transition mentions Musk and other DOGE staff, and how they
         have been interviewing people at Mar-a-Lago
+    - date: 2025-01-12
+      agency: DOGE
+      type: report
+      event: A New York Times report on DOGE from just before the Inauguration roughly describes the working arrangements
+        for embedding some staff and detailing others as well as some early participants in the project
     - date: 2025-01-16
       agency: DOGE
       type: report
@@ -3531,6 +3582,33 @@ people:
       type: offboarded
       event: Michael Kratsios is confirmed by the Senate as the new director of the White House Office of Science and Technology
         Policy (OSTP)
+
+  Vinay Hiremath:
+    agencies:
+    - Department of Government Efficiency
+    events:
+    - date: 2025-01-12
+      agency: DOGE
+      type: report
+      event: A New York Times report on DOGE from just before the Inauguration roughly describes the working arrangements
+        for embedding some staff and detailing others as well as some early participants in the project
+
+  Matt Luby:
+    agencies:
+    - Department of Government Efficiency
+    - Department of the Interior
+    events:
+    - date: 2025-01-12
+      agency: DOGE
+      type: report
+      event: A New York Times report on DOGE from just before the Inauguration roughly describes the working arrangements
+        for embedding some staff and detailing others as well as some early participants in the project
+    - date: 2025-04-17
+      agency: DOI
+      type: report
+      event: The Washington Posts reports that both Tyler Hassen and Matt Luby are scrutinizing all grants at the Department
+        of the Interior. They also requested a list of all grants going to Maine, perhaps to punish the state for its governor's
+        defiance of Trump.
 
   Charles Ezell:
     agencies:

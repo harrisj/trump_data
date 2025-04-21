@@ -76,6 +76,7 @@ gantt
         Stephanie Holmes : 2025-02-24, 2025-04-27
         Katrine Trampe : 2025-02-24, 2025-04-27
         Luke Farritor : 2025-04-12, 2025-04-27
+        Matt Luby : 2025-04-17, 2025-04-27
     SECTION Education
         Adam Ramada : 2025-01-28, 2025-04-27
         Conor Fennessy : 2025-01-31, 2025-04-27

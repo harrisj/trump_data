@@ -966,6 +966,7 @@ DOI:
   - Luke Farritor
   - Tyler Hassen
   - Stephanie Holmes
+  - Matt Luby
   - Bryton Shang
   - Katrine Trampe
   events:
@@ -1096,6 +1097,21 @@ DOI:
     - DOI
     - DOD
     - NIH
+  - date: 2025-04-17
+    type: report
+    event: The Washington Posts reports that both Tyler Hassen and Matt Luby are scrutinizing all grants at the Department of the Interior. They also requested a list of all grants going to Maine, perhaps to punish the state for its governor's defiance of Trump.
+    named:
+    - Tyler Hassen
+    - Matt Luby
+    source: https://www.washingtonpost.com/climate-environment/2025/04/21/tyler-hassen-department-of-interior/
+    agency: DOI
+  - date: 2025-04-17
+    type: report
+    event: The Secretary of the Interior formally designates that Tyler Hassen is in charge of implementing cuts to the agency and reorganizing its responsibilities
+    named:
+    - Tyler Hassen
+    source: https://www.washingtonpost.com/climate-environment/2025/04/21/tyler-hassen-department-of-interior/
+    agency: DOI
   systems:
     FPPS:
       name: Federal Personnel Payroll System
@@ -1154,6 +1170,7 @@ DOGE:
   - Amy Gleason
   - Antonio Gracias
   - Joshua Hanley
+  - Vinay Hiremath
   - Stephanie Holmes
   - Anthony Jancso
   - Erica Jehling
@@ -1168,6 +1185,7 @@ DOGE:
   - Scott Langmack
   - Jeremy Lewin
   - Kendall Lindemann
+  - Matt Luby
   - Shaun Maguire
   - Katie Miller
   - Aram Moghaddassi
@@ -1241,6 +1259,22 @@ DOGE:
     named:
     - Riley Sennott
     source: https://www.msn.com/en-us/money/companies/we-found-a-doge-guy-at-nasa-because-his-google-calendar-was-public/ar-AA1At75X
+    agency: DOGE
+  - date: 2025-01-12
+    type: report
+    event: A New York Times report on DOGE from just before the Inauguration roughly describes the working arrangements for embedding some staff and detailing others as well as some early participants in the project
+    named:
+    - Marc Andreessen
+    - Shaun Maguire
+    - Baris Akis
+    - Vinay Hiremath
+    - Brad Smith
+    - Steve Davis
+    - Matt Luby
+    - Joanna Wischer
+    - Rachel Riley
+    - James Burnham
+    source: https://www.nytimes.com/2025/01/12/us/politics/elon-musk-doge-government-trump.html
     agency: DOGE
   - date: 2025-01-16
     type: report

@@ -166,6 +166,8 @@ gantt
         State : 2025-04-15, 2025-04-27
     section Kathryn Armstrong Loving
         EPA : 2025-02-12, 2025-04-27
+    section Matt Luby
+        DOI : 2025-04-17, 2025-04-27
     section Tarak Makecha
         DOJ : 2025-03-30, 2025-04-27
         FBI : 2025-03-30, 2025-04-27
