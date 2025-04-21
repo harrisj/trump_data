@@ -21,20 +21,6 @@ postings:
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: CFPB
-  name: Nikhil Rajpal
-  first_date: 2025-02-06
-  all_dates:
-  - 2025-02-06
-  - 2025-02-07
-  - 2025-03-21
-  last_date: 2025-03-21
-  offboard_date: 2025-03-21
-  agency_doge_base: true
-  doge_agency_first: 2025-02-06
-  doge_agency_last: 2025-04-17
-  doge_agency_last_adjusted: 2025-04-27
-
-- agency_id: CFPB
   name: Gavin Kliger
   first_date: 2025-02-06
   all_dates:
@@ -42,6 +28,22 @@ postings:
   - 2025-02-07
   - 2025-04-17
   last_date: 2025-04-17
+  onboard_date: 2025-02-06
+  agency_doge_base: true
+  doge_agency_first: 2025-02-06
+  doge_agency_last: 2025-04-17
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: CFPB
+  name: Nikhil Rajpal
+  first_date: 2025-02-06
+  all_dates:
+  - 2025-02-06
+  - 2025-02-07
+  - 2025-03-21
+  last_date: 2025-03-21
+  onboard_date: 2025-02-06
+  offboard_date: 2025-03-21
   agency_doge_base: true
   doge_agency_first: 2025-02-06
   doge_agency_last: 2025-04-17
@@ -54,22 +56,7 @@ postings:
   - 2025-02-06
   - 2025-02-12
   last_date: 2025-02-12
-  agency_doge_base: true
-  doge_agency_first: 2025-02-06
-  doge_agency_last: 2025-04-17
-  doge_agency_last_adjusted: 2025-04-27
-
-- agency_id: CFPB
-  name: Jordan Wick
-  first_date: 2025-02-07
-  all_dates:
-  - 2025-02-07
-  - 2025-02-09
-  - 2025-02-12
-  - 2025-02-13
-  - 2025-03-05
-  last_date: 2025-03-05
-  onboard_date: 2025-03-05
+  onboard_date: 2025-02-06
   agency_doge_base: true
   doge_agency_first: 2025-02-06
   doge_agency_last: 2025-04-17
@@ -77,12 +64,43 @@ postings:
 
 - agency_id: CFPB
   name: Luke Farritor
-  first_date: 2025-02-07
+  first_date: 2025-02-06
   all_dates:
+  - 2025-02-06
   - 2025-02-07
   - 2025-03-04
   last_date: 2025-03-04
+  onboard_date: 2025-02-06
   offboard_date: 2025-03-04
+  agency_doge_base: true
+  doge_agency_first: 2025-02-06
+  doge_agency_last: 2025-04-17
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: CFPB
+  name: Jeremy Lewin
+  first_date: 2025-02-06
+  all_dates:
+  - 2025-02-06
+  last_date: 2025-02-06
+  onboard_date: 2025-02-06
+  agency_doge_base: true
+  doge_agency_first: 2025-02-06
+  doge_agency_last: 2025-04-17
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: CFPB
+  name: Jordan Wick
+  first_date: 2025-02-06
+  all_dates:
+  - 2025-02-06
+  - 2025-02-07
+  - 2025-02-09
+  - 2025-02-12
+  - 2025-02-13
+  - 2025-03-05
+  last_date: 2025-03-05
+  onboard_date: 2025-03-05
   agency_doge_base: true
   doge_agency_first: 2025-02-06
   doge_agency_last: 2025-04-17
@@ -131,7 +149,21 @@ postings:
   last_date: 2025-03-29
   agency_doge_base: true
   doge_agency_first: 2025-01-31
-  doge_agency_last: 2025-03-31
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: CMS
+  name: Rachel Riley
+  first_date: 2025-02-03
+  all_dates:
+  - 2025-02-03
+  - 2025-02-04
+  - 2025-02-20
+  - 2025-03-31
+  last_date: 2025-03-31
+  agency_doge_base: true
+  doge_agency_first: 2025-01-31
+  doge_agency_last: 2025-04-18
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: CMS
@@ -143,7 +175,31 @@ postings:
   last_date: 2025-03-29
   agency_doge_base: true
   doge_agency_first: 2025-01-31
-  doge_agency_last: 2025-03-31
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: CMS
+  name: Conor Fennessy
+  first_date: 2025-03-03
+  all_dates:
+  - 2025-03-03
+  - 2025-04-18
+  last_date: 2025-04-18
+  agency_doge_base: true
+  doge_agency_first: 2025-01-31
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: CMS
+  name: Jeremy Lewin
+  first_date: 2025-03-03
+  all_dates:
+  - 2025-03-03
+  - 2025-04-18
+  last_date: 2025-04-18
+  agency_doge_base: true
+  doge_agency_first: 2025-01-31
+  doge_agency_last: 2025-04-18
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: CMS
@@ -157,7 +213,18 @@ postings:
   onboard_date: 2025-03-05
   agency_doge_base: true
   doge_agency_first: 2025-01-31
-  doge_agency_last: 2025-03-31
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: CMS
+  name: Aram Moghaddassi
+  first_date: 2025-03-05
+  all_dates:
+  - 2025-03-05
+  last_date: 2025-03-05
+  agency_doge_base: true
+  doge_agency_first: 2025-01-31
+  doge_agency_last: 2025-04-18
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: CMS
@@ -169,7 +236,20 @@ postings:
   last_date: 2025-03-29
   agency_doge_base: true
   doge_agency_first: 2025-01-31
-  doge_agency_last: 2025-03-31
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: CMS
+  name: Zach Terrell
+  first_date: 2025-03-06
+  all_dates:
+  - 2025-03-06
+  - 2025-03-11
+  last_date: 2025-03-11
+  onboard_date: 2025-03-06
+  agency_doge_base: true
+  doge_agency_first: 2025-01-31
+  doge_agency_last: 2025-04-18
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: CMS
@@ -180,18 +260,7 @@ postings:
   last_date: 2025-03-31
   agency_doge_base: true
   doge_agency_first: 2025-01-31
-  doge_agency_last: 2025-03-31
-  doge_agency_last_adjusted: 2025-04-27
-
-- agency_id: CMS
-  name: Rachel Riley
-  first_date: 2025-03-31
-  all_dates:
-  - 2025-03-31
-  last_date: 2025-03-31
-  agency_doge_base: true
-  doge_agency_first: 2025-01-31
-  doge_agency_last: 2025-03-31
+  doge_agency_last: 2025-04-18
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: Commerce
@@ -424,6 +493,7 @@ postings:
   all_dates:
   - 2024-12-06
   - 2025-01-24
+  - 2025-02-05
   - 2025-03-05
   - 2025-03-27
   - 2025-03-28
@@ -450,11 +520,12 @@ postings:
   first_date: 2024-12-30
   all_dates:
   - 2024-12-30
+  - 2025-02-18
   - 2025-02-20
   - 2025-02-26
   - 2025-03-19
   last_date: 2025-03-19
-  onboard_date: 2024-12-30
+  onboard_date: 2025-02-18
   agency_doge_base: true
   doge_agency_first: 2024-11-26
   doge_agency_last: 2025-04-16
@@ -980,12 +1051,13 @@ postings:
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: DOL
-  name: Marko Elez
-  first_date: 2025-02-25
+  name: Aram Moghaddassi
+  first_date: 2025-02-19
   all_dates:
-  - 2025-02-25
+  - 2025-02-19
+  - 2025-02-20
+  - 2025-02-26
   - 2025-03-05
-  - 2025-03-19
   - 2025-03-21
   - 2025-04-18
   last_date: 2025-04-18
@@ -995,9 +1067,12 @@ postings:
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: DOL
-  name: Aram Moghaddassi
-  first_date: 2025-03-05
+  name: Miles Collins
+  first_date: 2025-02-19
   all_dates:
+  - 2025-02-19
+  - 2025-02-20
+  - 2025-02-26
   - 2025-03-05
   - 2025-04-18
   last_date: 2025-04-18
@@ -1007,10 +1082,13 @@ postings:
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: DOL
-  name: Miles Collins
-  first_date: 2025-03-05
+  name: Marko Elez
+  first_date: 2025-02-25
   all_dates:
+  - 2025-02-25
   - 2025-03-05
+  - 2025-03-19
+  - 2025-03-21
   - 2025-04-18
   last_date: 2025-04-18
   agency_doge_base: true
@@ -1591,12 +1669,29 @@ postings:
   - 2025-03-13
   - 2025-03-21
   - 2025-03-29
+  - 2025-04-04
   - 2025-04-12
   last_date: 2025-04-12
   onboard_date: 2025-01-21
   agency_doge_base: true
   doge_agency_first: 2025-01-21
-  doge_agency_last: 2025-04-12
+  doge_agency_last: 2025-04-18~
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: HHS
+  name: Rachel Riley
+  first_date: 2025-01-27
+  all_dates:
+  - 2025-01-27
+  - 2025-02-03
+  - 2025-03-13
+  - 2025-03-31
+  - 2025-04-18~
+  last_date: 2025-04-18~
+  onboard_date: 2025-01-27
+  agency_doge_base: true
+  doge_agency_first: 2025-01-21
+  doge_agency_last: 2025-04-18~
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: HHS
@@ -1608,7 +1703,53 @@ postings:
   onboard_date: 2025-02-14
   agency_doge_base: true
   doge_agency_first: 2025-01-21
-  doge_agency_last: 2025-04-12
+  doge_agency_last: 2025-04-18~
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: HHS
+  name: Aram Moghaddassi
+  first_date: 2025-02-19
+  all_dates:
+  - 2025-02-19
+  - 2025-03-05
+  - 2025-03-06
+  - 2025-03-13
+  - 2025-04-18
+  last_date: 2025-04-18
+  onboard_date: 2025-03-05
+  agency_doge_base: true
+  doge_agency_first: 2025-01-21
+  doge_agency_last: 2025-04-18~
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: HHS
+  name: Conor Fennessy
+  first_date: 2025-02-20
+  all_dates:
+  - 2025-02-20
+  - 2025-02-28
+  - 2025-03-07
+  - 2025-03-29
+  - 2025-04-18
+  last_date: 2025-04-18
+  onboard_date: 2025-02-20
+  agency_doge_base: true
+  doge_agency_first: 2025-01-21
+  doge_agency_last: 2025-04-18~
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: HHS
+  name: Jeremy Lewin
+  first_date: 2025-02-21
+  all_dates:
+  - 2025-02-21
+  - 2025-02-28
+  - 2025-03-29
+  last_date: 2025-03-29
+  onboard_date: 2025-02-21
+  agency_doge_base: true
+  doge_agency_first: 2025-01-21
+  doge_agency_last: 2025-04-18~
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: HHS
@@ -1622,7 +1763,7 @@ postings:
   onboard_date: 2025-03-04
   agency_doge_base: true
   doge_agency_first: 2025-01-21
-  doge_agency_last: 2025-04-12
+  doge_agency_last: 2025-04-18~
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: HHS
@@ -1636,7 +1777,7 @@ postings:
   onboard_date: 2025-03-04
   agency_doge_base: true
   doge_agency_first: 2025-01-21
-  doge_agency_last: 2025-04-12
+  doge_agency_last: 2025-04-18~
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: HHS
@@ -1650,7 +1791,23 @@ postings:
   onboard_date: 2025-03-05
   agency_doge_base: true
   doge_agency_first: 2025-01-21
-  doge_agency_last: 2025-04-12
+  doge_agency_last: 2025-04-18~
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: HHS
+  name: Zach Terrell
+  first_date: 2025-03-06
+  all_dates:
+  - 2025-03-06
+  - 2025-03-07
+  - 2025-03-16~
+  - 2025-03-18
+  - 2025-03-27
+  last_date: 2025-03-27
+  onboard_date: 2025-03-06
+  agency_doge_base: true
+  doge_agency_first: 2025-01-21
+  doge_agency_last: 2025-04-18~
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: HHS
@@ -1662,30 +1819,7 @@ postings:
   last_date: 2025-03-29
   agency_doge_base: true
   doge_agency_first: 2025-01-21
-  doge_agency_last: 2025-04-12
-  doge_agency_last_adjusted: 2025-04-27
-
-- agency_id: HHS
-  name: Aram Moghaddassi
-  first_date: 2025-03-13
-  all_dates:
-  - 2025-03-13
-  last_date: 2025-03-13
-  agency_doge_base: true
-  doge_agency_first: 2025-01-21
-  doge_agency_last: 2025-04-12
-  doge_agency_last_adjusted: 2025-04-27
-
-- agency_id: HHS
-  name: Rachel Riley
-  first_date: 2025-03-13
-  all_dates:
-  - 2025-03-13
-  - 2025-03-31
-  last_date: 2025-03-31
-  agency_doge_base: true
-  doge_agency_first: 2025-01-21
-  doge_agency_last: 2025-04-12
+  doge_agency_last: 2025-04-18~
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: HHS
@@ -1699,29 +1833,7 @@ postings:
   onboard_date: 2025-03-14
   agency_doge_base: true
   doge_agency_first: 2025-01-21
-  doge_agency_last: 2025-04-12
-  doge_agency_last_adjusted: 2025-04-27
-
-- agency_id: HHS
-  name: Conor Fennessy
-  first_date: 2025-03-29
-  all_dates:
-  - 2025-03-29
-  last_date: 2025-03-29
-  agency_doge_base: true
-  doge_agency_first: 2025-01-21
-  doge_agency_last: 2025-04-12
-  doge_agency_last_adjusted: 2025-04-27
-
-- agency_id: HHS
-  name: Jeremy Lewin
-  first_date: 2025-03-29
-  all_dates:
-  - 2025-03-29
-  last_date: 2025-03-29
-  agency_doge_base: true
-  doge_agency_first: 2025-01-21
-  doge_agency_last: 2025-04-12
+  doge_agency_last: 2025-04-18~
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: HUD
@@ -1890,6 +2002,19 @@ postings:
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: NIH
+  name: Jeremy Lewin
+  first_date: 2025-02-21
+  all_dates:
+  - 2025-02-21
+  - 2025-02-24
+  last_date: 2025-02-24
+  onboard_date: 2025-02-21
+  agency_doge_base: true
+  doge_agency_first: 2025-02-21
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: NIH
   name: Luke Farritor
   first_date: 2025-02-24
   all_dates:
@@ -1898,8 +2023,8 @@ postings:
   - 2025-04-12
   last_date: 2025-04-12
   agency_doge_base: true
-  doge_agency_first: 2025-02-24
-  doge_agency_last: 2025-04-12
+  doge_agency_first: 2025-02-21
+  doge_agency_last: 2025-04-18
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: NIH
@@ -1909,19 +2034,8 @@ postings:
   - 2025-02-24
   last_date: 2025-02-24
   agency_doge_base: true
-  doge_agency_first: 2025-02-24
-  doge_agency_last: 2025-04-12
-  doge_agency_last_adjusted: 2025-04-27
-
-- agency_id: NIH
-  name: Jeremy Lewin
-  first_date: 2025-02-24
-  all_dates:
-  - 2025-02-24
-  last_date: 2025-02-24
-  agency_doge_base: true
-  doge_agency_first: 2025-02-24
-  doge_agency_last: 2025-04-12
+  doge_agency_first: 2025-02-21
+  doge_agency_last: 2025-04-18
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: NIH
@@ -1931,8 +2045,20 @@ postings:
   - 2025-02-24
   last_date: 2025-02-24
   agency_doge_base: true
-  doge_agency_first: 2025-02-24
-  doge_agency_last: 2025-04-12
+  doge_agency_first: 2025-02-21
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: NIH
+  name: Conor Fennessy
+  first_date: 2025-02-28
+  all_dates:
+  - 2025-02-28
+  - 2025-04-18
+  last_date: 2025-04-18
+  agency_doge_base: true
+  doge_agency_first: 2025-02-21
+  doge_agency_last: 2025-04-18
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: NIH
@@ -1942,8 +2068,20 @@ postings:
   - 2025-03-03
   last_date: 2025-03-03
   agency_doge_base: true
-  doge_agency_first: 2025-02-24
-  doge_agency_last: 2025-04-12
+  doge_agency_first: 2025-02-21
+  doge_agency_last: 2025-04-18
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: NIH
+  name: Zach Terrell
+  first_date: 2025-03-06
+  all_dates:
+  - 2025-03-06
+  last_date: 2025-03-06
+  onboard_date: 2025-03-06
+  agency_doge_base: true
+  doge_agency_first: 2025-02-21
+  doge_agency_last: 2025-04-18
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: NLRB

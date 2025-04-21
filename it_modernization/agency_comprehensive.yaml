@@ -693,7 +693,7 @@ CFPB:
     - PRISM
     event: Jordan Wick's access to PRISM is revoked, per a court order in to a court order in American Federation of Teachers et al. v Bessent et al., No. 8:25-cv-430
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
-    case_no: 8:25-cv-430
+    case_no: 8:25-cv-00430
     agency: CFPB
   - date: 2025-04-17
     type: disruption
@@ -3787,12 +3787,15 @@ HHS:
     type: onboarded
     onboard_type: detailed
     detailed_from: GSA
+    detail_id: mou-20250221-gsa-hhs-jeremy-lewin
     event: Jeremy Lewin is detailed from GSA to the HHS
     named:
     - Jeremy Lewin
     case_no: 1:25-cv-00339
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
-    agency: HHS
+    agency:
+    - NIH
+    - HHS
   - date: 2025-02-28
     type: access_granted
     access_type: admin
@@ -4870,6 +4873,19 @@ NIH:
   - Rachel Riley
   - Zach Terrell
   events:
+  - date: 2025-02-21
+    type: onboarded
+    onboard_type: detailed
+    detailed_from: GSA
+    detail_id: mou-20250221-gsa-hhs-jeremy-lewin
+    event: Jeremy Lewin is detailed from GSA to the HHS
+    named:
+    - Jeremy Lewin
+    case_no: 1:25-cv-00339
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    agency:
+    - NIH
+    - HHS
   - date: 2025-02-24
     type: report
     event: Four DOGE staffers have email addresses linked to NIH

@@ -2,7 +2,7 @@
 meta:
   title: Events
   version: 1.0.0
-  generated: 2025-04-20
+  generated: 2025-04-21
 
 events:
 
@@ -309,6 +309,39 @@ events:
     comment: No document. For Luke Farritor and possibly others on or before Jan 21. Details from court filing
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
 
+- date: 2025-01-21
+  type: onboarded
+  onboard_type: detailed
+  detail_id: mou-20250121-doge-hhs-brad-smith
+  event: According to sworn testimony, Brad Smith is detailed to HHS from DOGE
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.6.pdf
+  case_no: 1:25-cv-00339
+  agency: HHS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+  detail_info:
+    id: mou-20250121-doge-hhs-brad-smith
+    from: DOGE
+    to: HHS
+    named:
+    - Brad Smith
+    start_date: 2025-01-21
+    comment: I don't have the detailing agreement, just details from a court filing
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.6.pdf
+
 - date: 2025-01-22
   type: access_granted
   access_type: admin
@@ -483,6 +516,31 @@ events:
     agency without quorum to act.
   source: https://thefulcrum.us/business-democracy/department-of-labor-doge
   agency: NLRB
+
+- date: 2025-01-27
+  type: onboarded
+  onboard_type: appointed
+  event: Rachel Riley starts working at HHS
+  named:
+  - Rachel Riley
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
+  agency: HHS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-01-28
   event: CDC managers receive a directive from OPM to rank probationary hires as "mission critical", working on "strategic
@@ -949,6 +1007,61 @@ events:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     file: mou-20250212-gsa-education-ed-3.pdf
 
+- date: 2025-02-03
+  type: access_granted
+  access_type: read
+  access_systems:
+  - CALM
+  event: Rachel Riley is granted read-only access to the CMS Acquisition Lifecycle Modernization (CALM) system.
+  named:
+  - Rachel Riley
+  case_no: 1:25-cv-00339
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  agency: CMS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+
+- date: 2025-02-03
+  type: access_granted
+  access_type: admin
+  access_systems:
+  - HCAS
+  event: Rachel Riley is granted admin access to the HHS Consolidated Acquisition System (HCAS) by the Executive Director,
+    Strategic Programs and Business Systems at ASFR
+  named:
+  - Rachel Riley
+  case_no: 1:25-cv-00339
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  agency: HHS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+
 - date: 2025-02-04
   type: report
   event: One of AFGE's members who works in the headquarters of the Department received an instruction from Department leadership
@@ -1022,6 +1135,34 @@ events:
   - Brooks Morgan
   mapped_aliases:
     ED-4: Brooks Morgan
+
+- date: 2025-02-04
+  type: access_granted
+  access_type: read
+  access_systems:
+  - FBIS
+  event: Rachel Riley is granted read-only access to the Financial Business Intelligence System (FBIS) (no PII access) by
+    the office of the Assistant Secretary for Financial Resources.
+  named:
+  - Rachel Riley
+  case_no: 1:25-cv-00339
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  agency: CMS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-02-05
   type: report
@@ -1174,11 +1315,150 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
   agency: Education
 
+- date: 2025-02-05
+  type: report
+  case_no: 1:25-cv-00339
+  event: According to sworn testimony, Steve Davis is the decision-maker for DOGE as the senior-most political appointee until
+    Amy Gleason is appointed as acting administratior of DOGE on 2025-02-18
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.4.pdf
+  named:
+  - Steve Davis
+  agency: DOGE
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+
 - date: 2025-02-06
   type: report
   event: DOGE staff arrive at CDC HQ in Atlanta
   source: https://www.fox5atlanta.com/news/elon-musks-doge-team-visits-cdc-atlanta-reports-say
   agency: CDC
+
+- date: 2025-02-06
+  type: onboarded
+  onboard_type: detailed
+  detail_id: mou-20250206-opm-cfpb-gavin-kliger-nikhil-rajpal-chris-young
+  detailed_from: OPM
+  event: Gavin Kliger, Nikhil Rajpal and Chris Young are detailed from OPM to the CFPB
+  named:
+  - Gavin Kliger
+  - Nikhil Rajpal
+  - Chris Young
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
+  agency: CFPB
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+  detail_info:
+    id: mou-20250206-opm-cfpb-gavin-kliger-nikhil-rajpal-chris-young
+    from: OPM
+    to: CFPB
+    named:
+    - Gavin Kliger
+    - Nikhil Rajpal
+    - Chris Young
+    start_date: 2025-02-06
+    comment: I don't have the source document, just details from a court filing
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+
+- date: 2025-02-06
+  type: onboarded
+  onboard_type: detailed
+  detail_id: mou-20250206-gsa-cfpb-luke-farritor-jeremy-lewin
+  detailed_from: GSA
+  event: Luke Farritor and Jeremy Lewin are detailed from GSA to the CFPB
+  named:
+  - Luke Farritor
+  - Jeremy Lewin
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
+  agency: CFPB
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+  detail_info:
+    id: mou-20250206-gsa-cfpb-luke-farritor-jeremy-lewin
+    from: GSA
+    to: CFPB
+    named:
+    - Luke Farritor
+    - Jeremy Lewin
+    start_date: 2025-02-06
+    comment: I don't have the source document, just details from a court filing
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+
+- date: 2025-02-06
+  type: onboarded
+  onboard_type: detailed
+  detail_id: mou-20250206-doge-cfpb-jordan-wick
+  detailed_from: DOGE
+  event: Jordan Wick is detailed from DOGE to the CFPB
+  named:
+  - Jordan Wick
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
+  agency: CFPB
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+  detail_info:
+    id: mou-20250206-doge-cfpb-jordan-wick
+    from: DOGE
+    to: CFPB
+    named:
+    - Jordan Wick
+    start_date: 2025-02-06
+    comment: I don't have the source document, just details from a court filing
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
 
 - date: 2025-02-06
   type: report
@@ -1324,6 +1604,17 @@ events:
   - Nikhil Rajpal
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  agency: CFPB
+
+- date: 2025-02-07
+  type: access_granted
+  access_type: unknown
+  access_systems:
+  - CFPB-PAC
+  event: Gavin Kliger is given access to the Physical Access Control system
+  named:
+  - Gavin Kliger
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
   agency: CFPB
 
 - date: 2025-02-07
@@ -2352,6 +2643,32 @@ events:
   source: https://www.propublica.org/article/frank-schuler-gsa-doge-syndicated-conservation-easements-tax-scam
   agency: GSA
 
+- date: 2025-02-18
+  type: onboarded
+  onboard_type: appointed
+  case_no: 1:25-cv-00339
+  event: According to sworn testimony, Amy Gleason is appointed as acting administration over the US DOGE Service and the
+    DOGE Temporary Organization
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.4.pdf
+  named:
+  - Amy Gleason
+  agency: DOGE
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+
 - date: 2025-02-19
   type: report
   event: Staff at the CDC CIO's office report not being contacted by DOGE yet
@@ -2500,6 +2817,119 @@ events:
     signed_date: 2025-02-19
     source: https://www.taxnotes.com/research/federal/legislative-documents/congressional-tax-correspondence/treasury-official-sends-memo-doge-detail-crapo/7rl0x
     file: mou-20250219-opm-irs-gavin-kliger.pdf
+
+- date: 2025-02-19
+  type: access_granted
+  access_type: read
+  event: Aram Moghaddassi is granted read-only access to the GrantSolutions system at HHS
+  access_systems:
+  - GrantSolutions
+  named:
+  - Aram Moghaddassi
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
+  agency: HHS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+
+- date: 2025-02-19
+  type: access_granted
+  access_type: unknown
+  event: Aram Moghaddassi and Miles Collins are granted access to the HRConnect system at DOL by the Assistant Secretary for
+    Administration and Management
+  access_systems:
+  - HRConnect
+  named:
+  - Aram Moghaddassi
+  - Miles Collins
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
+  agency: DOL
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+
+- date: 2025-02-20
+  type: access_granted
+  access_type: unknown
+  event: Miles Collins is granted access to the Office of Job Corps Electronic Information System (OJC EIS) by Dean Heyl,
+    Assistant Secretary for Administration and Management
+  named:
+  - Miles Collins
+  access_systems:
+  - OJC-EIS
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
+  agency: DOL
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+
+- date: 2025-02-20
+  type: access_granted
+  access_type: unknown
+  event: Aram Moghaddassi and Miles Collins are granted access to the New Core Financial Management System (NCFMS) system
+    at DOL by the Assistant Secretary for Administration and Management
+  access_systems:
+  - NCFMS
+  named:
+  - Aram Moghaddassi
+  - Miles Collins
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
+  agency: DOL
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-02-20
   type: access_granted
@@ -2666,6 +3096,108 @@ events:
   named:
   - Gavin Kliger
   agency: IRS
+
+- date: 2025-02-20
+  type: access_granted
+  access_type: read
+  access_systems:
+  - GrantSolutions
+  event: Rachel Riley is granted read-only access to the GrantSolutions by the office of the Director, Security and Data Project
+    Management Office, HHS Office of Grants
+  named:
+  - Rachel Riley
+  case_no: 1:25-cv-00339
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  agency: CMS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+
+- date: 2025-02-20
+  type: onboarded
+  event: Conor Fennessy is detailed from the Department of Education to HHS
+  onboard_type: detailed
+  detailed_from: Education
+  detail_id: mou-20250220-education-hhs-conor-fennessy
+  named:
+  - Conor Fennessy
+  case_no: 1:25-cv-00339
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  agency: HHS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+  detail_info:
+    id: mou-20250220-education-hhs-conor-fennessy
+    from: Education
+    to: HHS
+    named:
+    - Conor Fennessy
+    start_date: 2025-02-20
+    comment: I don't have the detailing agreement, just details from a court filing
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+
+- date: 2025-02-21
+  type: onboarded
+  onboard_type: detailed
+  detailed_from: GSA
+  detail_id: mou-20250221-gsa-hhs-jeremy-lewin
+  event: Jeremy Lewin is detailed from GSA to the HHS
+  named:
+  - Jeremy Lewin
+  case_no: 1:25-cv-00339
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  agency:
+  - NIH
+  - HHS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+  detail_info:
+    id: mou-20250221-gsa-hhs-jeremy-lewin
+    from: GSA
+    to: HHS
+    named:
+    - Jeremy Lewin
+    start_date: 2025-02-21
+    comment: I don't have the source document, just details from a court filing
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
 
 - date: 2025-02-21
   type: official
@@ -3091,6 +3623,35 @@ events:
   - Tyler Hassen
   agency: DOI
 
+- date: 2025-02-24
+  type: access_granted
+  access_type: read
+  access_systems:
+  - NBS
+  - PRISM
+  event: Rachel Riley is granted read-only access to the NIH Business System EBS and PRISM systems by the NIH Office of the
+    CIO
+  named:
+  - Rachel Riley
+  case_no: 1:25-cv-00339
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  agency: NIH
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+
 - date: 2025-02-25
   type: disruption
   event: 21 remaining USDS staff publicly resign in protest of DOGE's actions
@@ -3165,6 +3726,90 @@ events:
   - Mark Steffensen
   source: https://bsky.app/profile/chrisgeidner.bsky.social/post/3lipqblfluc2h
   agency: SSA
+
+- date: 2025-02-26
+  type: access_granted
+  access_type: unknown
+  event: Aram Moghaddassi is granted access to the USAccess system at DOL by the Assistant Secretary for Administration and
+    Management
+  access_systems:
+  - USAccess
+  named:
+  - Aram Moghaddassi
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
+  agency: DOL
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+
+- date: 2025-02-26
+  type: access_granted
+  access_type: unknown
+  event: Aram Moghaddassi is granted access to the Enterprise Physical Access Control System (EPACS) system at DOL by the
+    Assistant Secretary for Administration and Management
+  access_systems:
+  - EPACS
+  named:
+  - Aram Moghaddassi
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
+  agency: DOL
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+
+- date: 2025-02-26
+  type: access_granted
+  access_type: read
+  access_systems:
+  - DOL-DRA
+  event: Miles Collins is granted access read-only access to USAccess and DOL Directory Resource Administrator (DRA) systems
+    by Troy Finnegan, Former Assistant Secretary for Administration and Management
+  named:
+  - Miles Collins
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
+  agency: DOL
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-02-26
   type: official
@@ -3378,11 +4023,29 @@ events:
   access_systems:
   - NBS
   - PRISM
-  event: Luke Farritor is granted read-only access to NIH Business System EBS and PRISM systems by NIH's office of the CIO
+  event: Luke Farritor and Conor Fennesy are granted read-only access to NIH Business System EBS and PRISM systems by NIH's
+    office of the CIO
   named:
   - Luke Farritor
-  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - Conor Fennessy
+  case_no: 1:25-cv-00339
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
   agency: NIH
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-02-28
   type: official
@@ -3464,6 +4127,90 @@ events:
   - Jordan Wick
   source: https://www.wrvo.org/2025-04-15/a-whistleblowers-disclosure-details-how-doge-may-have-taken-sensitive-labor-data
   agency: NLRB
+
+- date: 2025-02-28
+  type: access_granted
+  access_type: read
+  access_systems:
+  - Grants.gov
+  event: Conor Fennessy is granted read access to Grants.gov by the Assistant Secretary for Financial Resources (ASFR)
+  named:
+  - Conor Fennessy
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
+  agency: HHS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+
+- date: 2025-02-28
+  type: access_granted
+  access_type: read
+  access_systems:
+  - HCAS
+  event: Conor Fennessy is granted read access to HHS Consolidated Acquisition System (HCAS) by the Executive Director, Strategic
+    Programs and Business Systems at the office of the ASFR
+  named:
+  - Conor Fennessy
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
+  agency: HHS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+
+- date: 2025-02-28
+  type: access_granted
+  access_type: read
+  access_systems:
+  - GrantSolutions
+  event: Conor Fennessy and Jeremy Lewin are granted read access to GrantSolutions by the Director, Security and Data Project
+    Management Office, HHS Office of Grants.
+  named:
+  - Conor Fennessy
+  - Jeremy Lewin
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
+  agency: HHS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-01
   type: disruption
@@ -3560,6 +4307,35 @@ events:
     permissions that would normally be used by auditors.
   source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
   agency: NLRB
+
+- date: 2025-03-03
+  type: access_granted
+  access_type: read
+  access_systems:
+  - CALM
+  event: Conor Fennessy and Jeremy Lewin are granted read-only access to the CMS Acquisition Lifecycle Modernization (CALM)
+    system.
+  named:
+  - Conor Fennessy
+  - Jeremy Lewin
+  case_no: 1:25-cv-00339
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  agency: CMS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-04
   type: access_revoked
@@ -3733,14 +4509,50 @@ events:
     start_date: 2025-03-05
 
 - date: 2025-03-05
+  type: onboarded
+  detailed_from: DOL
+  detail_id: mou-20250305-dol-hhs-aram-moghaddassi
+  case_no: 1:25-cv-00339
+  event: Aram Moghaddassi was detailed to HHS from DOL
+  named:
+  - Aram Moghaddassi
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  agency: HHS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+  detail_info:
+    id: mou-20250305-dol-hhs-aram-moghaddassi
+    from: DOL
+    to: HHS
+    named:
+    - Aram Moghaddassi
+    start_date: 2025-03-05
+    comment: I don't have the detailing agreement, just details from a court filing
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+
+- date: 2025-03-05
   type: access_granted
   access_type: read
   access_systems:
   - CALM
-  event: Edward Coristine and Marko Elez are granted read-only access to the CMS Acquisition Lifecycle Modernization (CALM)
-    system.
+  event: Edward Coristine, Aram Moghaddassi and Marko Elez are granted read-only access to the CMS Acquisition Lifecycle Modernization
+    (CALM) system.
   named:
   - Edward Coristine
+  - Aram Moghaddassi
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
   agency: CMS
@@ -3750,31 +4562,64 @@ events:
   access_type: read
   access_systems:
   - HIGLAS
-  event: Edward Coristine and Marko Elez are granted read-only access to the Healthcare Integrated General Ledger Accounting
-    System (HIGLAS) system by the CIO of the CMS Office of Information Technology
+  event: Edward Coristine, Aram Moghaddassi and Marko Elez are granted read-only access to the Healthcare Integrated General
+    Ledger Accounting System (HIGLAS) system by the CIO of the CMS Office of Information Technology
   named:
   - Edward Coristine
   - Marko Elez
-  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - Aram Moghaddassi
+  case_no: 1:25-cv-00339
+  source: hhttps://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
   agency: CMS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-05
   type: access_granted
   access_type: read
   access_systems:
   - IDR
-  event: Marko Elez is granted read-only access to the Integrated Data Repository (IDR) system by the CIO of the CMS Office
-    of Information Technology
+  event: Marko Elez and Aram Moghaddassi are granted read-only access to the Integrated Data Repository (IDR) system by the
+    CIO of the CMS Office of Information Technology
   named:
   - Marko Elez
-  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  - Aram Moghaddassi
+  case_no: 1:25-cv-00339
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
   agency: CMS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-05
   type: access_revoked
   access_systems:
   - Entra-CFPB
-  - PRISM
   - webTA
   - DataInsight
   - USAStaffing
@@ -4009,6 +4854,34 @@ events:
   agency: NLRB
 
 - date: 2025-03-06
+  type: access_granted
+  access_type: read
+  access_systems:
+  - NDNH
+  event: Aram Moghaddassi is granted read-only access to National Directory of New Hires (NDNH) database by the Administration
+    for Children and Families (ACF) CTO
+  named:
+  - Aram Moghaddassi
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
+  agency: HHS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+
+- date: 2025-03-06
   type: disruption
   event: The Engineering Director of USDS publicly resigns in protest, stating "this is not the mission I joined"
   source: https://cloudbrain.in/engineering-director-of-usds-steps-down-this-is-not-the-mission-i-joined/
@@ -4046,6 +4919,34 @@ events:
     access policies had been updated. This was confirmed to not be any scheduled work.
   source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
   agency: NLRB
+
+- date: 2025-03-06
+  type: onboarded
+  onboard_type: unknown
+  event: Zach Terrell is onboarded as an employee of HHS
+  named:
+  - Zach Terrell
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
+  agency:
+  - HHS
+  - CMS
+  - NIH
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-07
   type: offboarded
@@ -4105,6 +5006,61 @@ events:
     from NLRB. It's possible this is the compressed size and represents many more records
   source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
   agency: NLRB
+
+- date: 2025-03-07
+  type: access_granted
+  access_type: read
+  event: Conor Fennesy is granted read access to the Financial Business Intelligence System (FBIS), but is not granted access
+    to view PII data, by the office of the Assistant Secretary for Financial Resources (ASFR)
+  access_systems:
+  - FBIS
+  named:
+  - Conor Fennessy
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
+  agency: HHS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+
+- date: 2025-03-07
+  type: access_granted
+  access_type: read
+  access_systems:
+  - EHCM
+  event: Zach Terrell is granted read access to Enterprise Human Capital Management (EHCM) by the HR ISSO
+  named:
+  - Zach Terrell
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
+  agency: HHS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-08
   type: disruption
@@ -4191,6 +5147,33 @@ events:
     an IP address in Russia using an account seemingly created only 15 minutes prior by DOGE engineers
   source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
   agency: NLRB
+
+- date: 2025-03-11
+  type: access_granted
+  access_type: read
+  access_systems:
+  - IDR
+  event: Zach Terrell is granted read access to Integrated Data Repository (IDR) at CMS by the CIO of CMS Information Technologies
+  named:
+  - Zach Terrell
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
+  agency: CMS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-12
   type: report
@@ -4557,6 +5540,34 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
   agency: SSA
 
+- date: 2025-03-16~
+  type: access_granted
+  access_type: read
+  access_systems:
+  - FBIS
+  event: Zach Terrell is granted read access to the Financial Business Intelligence System (FBIS) (only the application and
+    not the database, no PII visibility) by the the CTO, Program Support Center
+  named:
+  - Zach Terrell
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
+  agency: HHS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+
 - date: 2025-03-17
   type: onboarded
   onboard_type: appointed
@@ -4834,6 +5845,34 @@ events:
   agency: DOL
   source: https://www.wired.com/story/gao-audit-elon-musk-doge-government-agencies/
 
+- date: 2025-03-18
+  type: access_granted
+  access_type: read
+  access_systems:
+  - UFMS
+  event: Zach Terrell is granted read access to the HHS Unified Financial Management System (UFMS) (only the application and
+    not the database) by the the CTO, Program Support Center
+  named:
+  - Zach Terrell
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
+  agency: HHS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+
 - date: 2025-03-19
   type: report
   event: In another sworn statement, Amy Gleason declares "every member of an agency's DOGE Team is an employee of the agency
@@ -5067,6 +6106,37 @@ events:
   - Stephen Ehikian
   source: https://federalnewsnetwork.com/agency-oversight/2025/04/many-doge-officials-appear-on-gsas-security-shortlist-acting-head-says-nobody-working-for-doge-here/
   agency: GSA
+
+- date: 2025-03-21
+  type: access_granted
+  access_type: unknown
+  access_systems:
+  - UIDRR
+  event: Aram Moghaddassi and Marko Elez are granted access to the Unemployment Insurance Data and Related Records system
+    at DOL by the Thomas Shedd as the DOL CIO
+  comment: This is a newly created extract of records possessd by the DOL OIG office. It was ordered released by a 2025-03-20
+    executive order. Access can only be granted by the CIO, but Thomas Shedd (another DOGE person) was named the CIO on 2025-03-14
+  named:
+  - Aram Moghaddassi
+  - Marko Elez
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
+  agency: DOL
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-21
   type: access_revoked
@@ -5496,6 +6566,56 @@ events:
   named:
   - Stephanie Holmes
   agency: DOI
+
+- date: 2025-03-27
+  type: access_granted
+  access_type: read
+  access_systems:
+  - PMS
+  event: Zach Terrell is granted read access to the Payment Management System (PMS) by the the Chief Technology Officer, Program
+    Support Center
+  named:
+  - Zach Terrell
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
+  agency: HHS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+
+- date: 2025-03-28
+  type: access_revoked
+  access_systems:
+  - PRISM
+  event: Jordan Wick's access to PRISM is revoked, per a court order in to a court order in American Federation of Teachers
+    et al. v Bessent et al., No. 8:25-cv-430
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 8:25-cv-00430
+  agency: CFPB
+  case_info:
+    name: American Federation of Teachers et al v. Bessent et al (D. Md.)
+    description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management
+      ("OPM"), and the Department of Education ("DOE"), challenging the agencies' disclosure of sensitive personal information
+      to Department of Government Efficiency ("DOGE") employees.
+    case_no: 8:25-cv-00430
+    date_filed: 2025-02-10
+    link: https://www.courtlistener.com/docket/69627648/american-federation-of-teachers-v-scott-bessent/
+    agency:
+    - Education
+    - Treasury
+    - OPM
 
 - date: 2025-03-28
   type: report
@@ -5945,6 +7065,16 @@ events:
   agency: SSA
 
 - date: 2025-04-04
+  type: access_revoked
+  event: In a status report, HHS reports that Luke Farritor's HCAS access has been revoked
+  access_systems:
+  - HCAS
+  named:
+  - Luke Farritor
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  agency: HHS
+
+- date: 2025-04-04
   type: report
   event: Three DOGE staffers are listed in the public directory of FCC staff and listed as associated with the Office of the
     Chairman at the FCC
@@ -6076,6 +7206,56 @@ events:
   - SSA
   - DHS
   - ICE
+
+- date: 2025-04-07
+  type: legal
+  case_no: 1:25-cv-00339
+  event: Kendall Lindemann testifies in a sworn deposition as a representative of DOGE after saying she had conducted conversations
+    with Amy Gleason
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.4.pdf
+  named:
+  - Kendall Lindemann
+  agency: DOGE
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+
+- date: 2025-04-08
+  type: legal
+  event: In a sworn deposition, an official at HHS affirms that it doesn't look like Aram Moghaddassi did not take required
+    training before being granted access to HIGLAS and IDR
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.6.pdf
+  named:
+  - Aram Moghaddassi
+  case_no: 1:25-cv-00339
+  agency: CMS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-04-08~
   type: access_granted
@@ -6392,6 +7572,88 @@ events:
     to help with general tasks
   source: https://www.nextgov.com/artificial-intelligence/2025/04/ssa-rolling-out-new-chatbot-employees/404658/?oref=ng-home-top-story
   agency: SSA
+
+- date: 2025-04-18~
+  type: access_revoked
+  access_systems:
+  - HCAS
+  event: In a declaration. HHS attests that Rachel Riley no longer has access to the HCAS system
+  named:
+  - Rachel Riley
+  case_no: 1:25-cv-00339
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  agency: HHS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+
+- date: 2025-04-18
+  type: access_revoked
+  access_systems:
+  - NDNH
+  named:
+  - Aram Moghaddassi
+  event: In a filing, HHS attests that Aram Moghaddassi's access to NDNH has been revoked
+  case_no: 1:25-cv-00339
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  agency: HHS
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
+
+- date: 2025-04-18
+  type: access_revoked
+  access_systems:
+  - HCAS
+  - FBIS
+  named:
+  - Conor Fennessy
+  event: In a filing, HHS attests that Conor Fennessy's access the CALM system, FBIS, HCAS, and NIH EBS System has been deactivated
+  agency: HHS
+
+- date: 2025-04-18
+  type: access_revoked
+  access_systems:
+  - CALM
+  named:
+  - Conor Fennessy
+  - Jeremy Lewin
+  event: In a filing, HHS attests that Conor Fennessy's and Jeremy Lewin's access to the CALM system has been deactivated
+  agency: CMS
+
+- date: 2025-04-18
+  type: access_revoked
+  access_systems:
+  - NBS
+  named:
+  - Conor Fennessy
+  event: In a filing, HHS attests that Conor Fennessy's access to the CALM system, FBIS, HCAS, and NIH EBS System has been
+    deactivated
+  agency: NIH
 
 - date: 2025-04-18
   type: access_revoked

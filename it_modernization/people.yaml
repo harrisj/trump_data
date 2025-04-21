@@ -35,6 +35,11 @@ people:
       type: report
       event: Wired reports that DOGE staff are attempting to get elevated access to GSA systems and making changes to office
         arrangements
+    - date: 2025-02-05
+      agency: DOGE
+      type: report
+      event: According to sworn testimony, Steve Davis is the decision-maker for DOGE as the senior-most political appointee
+        until Amy Gleason is appointed as acting administratior of DOGE on 2025-02-18
     - date: 2025-02-10
       agency: SSA
       type: report
@@ -115,6 +120,11 @@ people:
       agency: DOGE
       type: onboarded
       event: Amy Gleason joins the USDS, according to her sworn testimony.
+    - date: 2025-02-18
+      agency: DOGE
+      type: onboarded
+      event: According to sworn testimony, Amy Gleason is appointed as acting administration over the US DOGE Service and
+        the DOGE Temporary Organization
     - date: 2025-02-20
       agency:
       - DOGE
@@ -179,6 +189,10 @@ people:
     - Office of Personnel Management
     - U.S. African Development Foundation
     events:
+    - date: 2025-02-06
+      agency: CFPB
+      type: onboarded
+      event: Gavin Kliger, Nikhil Rajpal and Chris Young are detailed from OPM to the CFPB
     - date: 2025-02-06
       agency: CFPB
       type: report
@@ -398,6 +412,7 @@ people:
 
   Jeremy Lewin:
     agencies:
+    - Centers for Medicare and Medicaid Services
     - Consumer Financial Protection Bureau
     - Department of Government Efficiency
     - General Services Administration
@@ -411,10 +426,36 @@ people:
       agency: USAID
       type: onboarded
       event: Jeremy Lewin starts working at USAID as both a Senior Advisor and Director for Strategy & Programs
+    - date: 2025-02-06
+      agency: CFPB
+      type: onboarded
+      event: Luke Farritor and Jeremy Lewin are detailed from GSA to the CFPB
+    - date: 2025-02-21
+      agency:
+      - NIH
+      - HHS
+      type: onboarded
+      event: Jeremy Lewin is detailed from GSA to the HHS
+    - date: 2025-02-21
+      agency:
+      - NIH
+      - HHS
+      type: onboarded
+      event: Jeremy Lewin is detailed from GSA to the HHS
     - date: 2025-02-24
       agency: NIH
       type: report
       event: Four DOGE staffers have email addresses linked to NIH
+    - date: 2025-02-28
+      agency: HHS
+      type: access_granted
+      event: Conor Fennessy and Jeremy Lewin are granted read access to GrantSolutions by the Director, Security and Data
+        Project Management Office, HHS Office of Grants.
+    - date: 2025-03-03
+      agency: CMS
+      type: access_granted
+      event: Conor Fennessy and Jeremy Lewin are granted read-only access to the CMS Acquisition Lifecycle Modernization (CALM)
+        system.
     - date: 2025-03-18
       agency: USAID
       type: promotion
@@ -448,6 +489,10 @@ people:
       type: promotion
       event: Jeremy Lewin is named the new acting head of foreign assistance at the State Department after the departure of
         Peter Marocco
+    - date: 2025-04-18
+      agency: CMS
+      type: access_revoked
+      event: In a filing, HHS attests that Conor Fennessy's and Jeremy Lewin's access to the CALM system has been deactivated
 
   Justin Fulcher:
     agencies:
@@ -563,6 +608,29 @@ people:
       agency: DOGE
       type: report
       event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
+    - date: 2025-01-27
+      agency: HHS
+      type: onboarded
+      event: Rachel Riley starts working at HHS
+    - date: 2025-02-03
+      agency: CMS
+      type: access_granted
+      event: Rachel Riley is granted read-only access to the CMS Acquisition Lifecycle Modernization (CALM) system.
+    - date: 2025-02-03
+      agency: HHS
+      type: access_granted
+      event: Rachel Riley is granted admin access to the HHS Consolidated Acquisition System (HCAS) by the Executive Director,
+        Strategic Programs and Business Systems at ASFR
+    - date: 2025-02-04
+      agency: CMS
+      type: access_granted
+      event: Rachel Riley is granted read-only access to the Financial Business Intelligence System (FBIS) (no PII access)
+        by the office of the Assistant Secretary for Financial Resources.
+    - date: 2025-02-20
+      agency: CMS
+      type: access_granted
+      event: Rachel Riley is granted read-only access to the GrantSolutions by the office of the Director, Security and Data
+        Project Management Office, HHS Office of Grants
     - date: 2025-02-24
       agency: NIH
       type: report
@@ -572,6 +640,11 @@ people:
       type: access_granted
       event: Three DOGE staffers are placed within the NIH Business System Department for access to NIH's central electronic
         business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
+    - date: 2025-02-24
+      agency: NIH
+      type: access_granted
+      event: Rachel Riley is granted read-only access to the NIH Business System EBS and PRISM systems by the NIH Office of
+        the CIO
     - date: 2025-03-13
       agency: HHS
       type: report
@@ -593,12 +666,18 @@ people:
       event: Politico reports that Brad Smith, who crafted the plan to layoff 10,000 staffers within HHS, is facing criticism
         from other DOGE staffers for attempting to shield CMS from the brunt of the layoffs. His aide, Rachel Riley is accused
         of being extraordinarily secretive with the plan.
+    - date: 2025-04-18~
+      agency: HHS
+      type: access_revoked
+      event: In a declaration. HHS attests that Rachel Riley no longer has access to the HCAS system
 
   Conor Fennessy:
     agencies:
+    - Centers for Medicare and Medicaid Services
     - Department of Education
     - Department of Government Efficiency
     - Health and Human Services
+    - National Institute of Health
     events:
     - date: 2025-01-17
       agency: DOGE
@@ -610,11 +689,58 @@ people:
       type: onboarded
       event: An unidentified DOGE staffer is appointed as a Senior Advisor at the Department of Education with a salary of
         $195,200
+    - date: 2025-02-20
+      agency: HHS
+      type: onboarded
+      event: Conor Fennessy is detailed from the Department of Education to HHS
+    - date: 2025-02-28
+      agency: NIH
+      type: access_granted
+      event: Luke Farritor and Conor Fennesy are granted read-only access to NIH Business System EBS and PRISM systems by
+        NIH's office of the CIO
+    - date: 2025-02-28
+      agency: HHS
+      type: access_granted
+      event: Conor Fennessy is granted read access to Grants.gov by the Assistant Secretary for Financial Resources (ASFR)
+    - date: 2025-02-28
+      agency: HHS
+      type: access_granted
+      event: Conor Fennessy is granted read access to HHS Consolidated Acquisition System (HCAS) by the Executive Director,
+        Strategic Programs and Business Systems at the office of the ASFR
+    - date: 2025-02-28
+      agency: HHS
+      type: access_granted
+      event: Conor Fennessy and Jeremy Lewin are granted read access to GrantSolutions by the Director, Security and Data
+        Project Management Office, HHS Office of Grants.
+    - date: 2025-03-03
+      agency: CMS
+      type: access_granted
+      event: Conor Fennessy and Jeremy Lewin are granted read-only access to the CMS Acquisition Lifecycle Modernization (CALM)
+        system.
+    - date: 2025-03-07
+      agency: HHS
+      type: access_granted
+      event: Conor Fennesy is granted read access to the Financial Business Intelligence System (FBIS), but is not granted
+        access to view PII data, by the office of the Assistant Secretary for Financial Resources (ASFR)
     - date: 2025-03-29
       agency: HHS
       type: report
       event: In a court declaration in AFL-CIO vs. DOL, counsel for the plaintiffs Alexa Milton provides the names of two
         DOGE staffers at HHS who were not provided in the government's list of staffers there
+    - date: 2025-04-18
+      agency: HHS
+      type: access_revoked
+      event: In a filing, HHS attests that Conor Fennessy's access the CALM system, FBIS, HCAS, and NIH EBS System has been
+        deactivated
+    - date: 2025-04-18
+      agency: CMS
+      type: access_revoked
+      event: In a filing, HHS attests that Conor Fennessy's and Jeremy Lewin's access to the CALM system has been deactivated
+    - date: 2025-04-18
+      agency: NIH
+      type: access_revoked
+      event: In a filing, HHS attests that Conor Fennessy's access to the CALM system, FBIS, HCAS, and NIH EBS System has
+        been deactivated
 
   Tom Krause:
     agencies:
@@ -753,18 +879,18 @@ people:
     - date: 2025-03-05
       agency: CMS
       type: access_granted
-      event: Edward Coristine and Marko Elez are granted read-only access to the CMS Acquisition Lifecycle Modernization (CALM)
-        system.
+      event: Edward Coristine, Aram Moghaddassi and Marko Elez are granted read-only access to the CMS Acquisition Lifecycle
+        Modernization (CALM) system.
     - date: 2025-03-05
       agency: CMS
       type: access_granted
-      event: Edward Coristine and Marko Elez are granted read-only access to the Healthcare Integrated General Ledger Accounting
-        System (HIGLAS) system by the CIO of the CMS Office of Information Technology
+      event: Edward Coristine, Aram Moghaddassi and Marko Elez are granted read-only access to the Healthcare Integrated General
+        Ledger Accounting System (HIGLAS) system by the CIO of the CMS Office of Information Technology
     - date: 2025-03-05
       agency: CMS
       type: access_granted
-      event: Marko Elez is granted read-only access to the Integrated Data Repository (IDR) system by the CIO of the CMS Office
-        of Information Technology
+      event: Marko Elez and Aram Moghaddassi are granted read-only access to the Integrated Data Repository (IDR) system by
+        the CIO of the CMS Office of Information Technology
     - date: 2025-03-05
       agency: DOGE
       type: report
@@ -818,6 +944,11 @@ people:
       agency: DOL
       type: report
       event: Marko Elez affirms he has completed his mandatory privacy training at the Department of Labor
+    - date: 2025-03-21
+      agency: DOL
+      type: access_granted
+      event: Aram Moghaddassi and Marko Elez are granted access to the Unemployment Insurance Data and Related Records system
+        at DOL by the Thomas Shedd as the DOL CIO
     - date: 2025-03-21
       agency: DOL
       type: access_granted
@@ -966,13 +1097,13 @@ people:
     - date: 2025-03-05
       agency: CMS
       type: access_granted
-      event: Edward Coristine and Marko Elez are granted read-only access to the CMS Acquisition Lifecycle Modernization (CALM)
-        system.
+      event: Edward Coristine, Aram Moghaddassi and Marko Elez are granted read-only access to the CMS Acquisition Lifecycle
+        Modernization (CALM) system.
     - date: 2025-03-05
       agency: CMS
       type: access_granted
-      event: Edward Coristine and Marko Elez are granted read-only access to the Healthcare Integrated General Ledger Accounting
-        System (HIGLAS) system by the CIO of the CMS Office of Information Technology
+      event: Edward Coristine, Aram Moghaddassi and Marko Elez are granted read-only access to the Healthcare Integrated General
+        Ledger Accounting System (HIGLAS) system by the CIO of the CMS Office of Information Technology
     - date: 2025-03-05
       agency: DOGE
       type: report
@@ -1108,6 +1239,10 @@ people:
       type: access_granted
       event: Luke Farritor was granted access to the Energy Department's IT system on Wednesday by Energy Secretary Chris
         Wright over objections from agency security staff
+    - date: 2025-02-06
+      agency: CFPB
+      type: onboarded
+      event: Luke Farritor and Jeremy Lewin are detailed from GSA to the CFPB
     - date: 2025-02-07
       agency: CFPB
       type: access_granted
@@ -1157,8 +1292,8 @@ people:
     - date: 2025-02-28
       agency: NIH
       type: access_granted
-      event: Luke Farritor is granted read-only access to NIH Business System EBS and PRISM systems by NIH's office of the
-        CIO
+      event: Luke Farritor and Conor Fennesy are granted read-only access to NIH Business System EBS and PRISM systems by
+        NIH's office of the CIO
     - date: 2025-03-04
       agency: CFPB
       type: access_revoked
@@ -1206,6 +1341,10 @@ people:
       type: report
       event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff
         who have worked at HHS
+    - date: 2025-04-04
+      agency: HHS
+      type: access_revoked
+      event: In a status report, HHS reports that Luke Farritor's HCAS access has been revoked
     - date: 2025-04-08
       agency: GSA
       type: report
@@ -1423,8 +1562,16 @@ people:
       event: An email informing USAID staff that the building was closed included Gavin Kliger's email address
     - date: 2025-02-06
       agency: CFPB
+      type: onboarded
+      event: Gavin Kliger, Nikhil Rajpal and Chris Young are detailed from OPM to the CFPB
+    - date: 2025-02-06
+      agency: CFPB
       type: report
       event: DOGE staff enter CFPB facilities and are given equipment and onboarded
+    - date: 2025-02-07
+      agency: CFPB
+      type: access_granted
+      event: Gavin Kliger is given access to the Physical Access Control system
     - date: 2025-02-07
       agency: CFPB
       type: access_granted
@@ -1490,6 +1637,10 @@ people:
     - Federal Communications Commission
     - National Labor Relations Board
     events:
+    - date: 2025-02-06
+      agency: CFPB
+      type: onboarded
+      event: Jordan Wick is detailed from DOGE to the CFPB
     - date: 2025-02-07
       agency: CFPB
       type: access_granted
@@ -1543,6 +1694,7 @@ people:
 
   Aram Moghaddassi:
     agencies:
+    - Centers for Medicare and Medicaid Services
     - Department of Government Efficiency
     - Department of Homeland Security
     - Department of Labor
@@ -1561,11 +1713,59 @@ people:
       agency: SSA
       type: onboarded
       event: Unidentified "Employee 3" signs the SSA Rules of Behavior for access to SSA networks and systems
+    - date: 2025-02-19
+      agency: HHS
+      type: access_granted
+      event: Aram Moghaddassi is granted read-only access to the GrantSolutions system at HHS
+    - date: 2025-02-19
+      agency: DOL
+      type: access_granted
+      event: Aram Moghaddassi and Miles Collins are granted access to the HRConnect system at DOL by the Assistant Secretary
+        for Administration and Management
+    - date: 2025-02-20
+      agency: DOL
+      type: access_granted
+      event: Aram Moghaddassi and Miles Collins are granted access to the New Core Financial Management System (NCFMS) system
+        at DOL by the Assistant Secretary for Administration and Management
+    - date: 2025-02-26
+      agency: DOL
+      type: access_granted
+      event: Aram Moghaddassi is granted access to the USAccess system at DOL by the Assistant Secretary for Administration
+        and Management
+    - date: 2025-02-26
+      agency: DOL
+      type: access_granted
+      event: Aram Moghaddassi is granted access to the Enterprise Physical Access Control System (EPACS) system at DOL by
+        the Assistant Secretary for Administration and Management
+    - date: 2025-03-05
+      agency: HHS
+      type: onboarded
+      event: Aram Moghaddassi was detailed to HHS from DOL
+    - date: 2025-03-05
+      agency: CMS
+      type: access_granted
+      event: Edward Coristine, Aram Moghaddassi and Marko Elez are granted read-only access to the CMS Acquisition Lifecycle
+        Modernization (CALM) system.
+    - date: 2025-03-05
+      agency: CMS
+      type: access_granted
+      event: Edward Coristine, Aram Moghaddassi and Marko Elez are granted read-only access to the Healthcare Integrated General
+        Ledger Accounting System (HIGLAS) system by the CIO of the CMS Office of Information Technology
+    - date: 2025-03-05
+      agency: CMS
+      type: access_granted
+      event: Marko Elez and Aram Moghaddassi are granted read-only access to the Integrated Data Repository (IDR) system by
+        the CIO of the CMS Office of Information Technology
     - date: 2025-03-05
       agency: DOL
       type: report
       event: Business Insider reports Marko Elez, Aram Moghaddassi, and Miles B. Collins are new DOGE arrivals at Department
         of Labor
+    - date: 2025-03-06
+      agency: HHS
+      type: access_granted
+      event: Aram Moghaddassi is granted read-only access to National Directory of New Hires (NDNH) database by the Administration
+        for Children and Families (ACF) CTO
     - date: 2025-03-12
       agency: SSA
       type: legal
@@ -1582,6 +1782,11 @@ people:
       type: access_granted
       event: DHS CIO Antoine McCord requests that access be granted for Aram Moghaddassi to the USCIS Data Business Intelligence
         Services (aka, the Data Lake)
+    - date: 2025-03-21
+      agency: DOL
+      type: access_granted
+      event: Aram Moghaddassi and Marko Elez are granted access to the Unemployment Insurance Data and Related Records system
+        at DOL by the Thomas Shedd as the DOL CIO
     - date: 2025-03-27
       agency: DOGE
       type: report
@@ -1600,6 +1805,11 @@ people:
       event: As part of an interview on Fox News, Aram Moghaddassi spreads the debunked statistic that 40% of call to SSA
         are from fraudsters
     - date: 2025-04-08
+      agency: CMS
+      type: legal
+      event: In a sworn deposition, an official at HHS affirms that it doesn't look like Aram Moghaddassi did not take required
+        training before being granted access to HIGLAS and IDR
+    - date: 2025-04-08
       agency: SSA
       type: report
       event: Aram Moghaddassi adds 6300 names of suspected immigrants to the "death master file" as a way of forcing them
@@ -1609,6 +1819,10 @@ people:
       type: report
       event: Politico profiles a DOGE immigration task force that is located within DHS but has contacts with DOGE staff at
         other agencies
+    - date: 2025-04-18
+      agency: HHS
+      type: access_revoked
+      event: In a filing, HHS attests that Aram Moghaddassi's access to NDNH has been revoked
     - date: 2025-04-18
       agency: DOL
       type: access_granted
@@ -1800,6 +2014,10 @@ people:
       type: access_granted
       event: NOAA employees were ordered to grant Rajpal editor access to all NOAA Google sites on instructions of the acting
         commerce secretary, Jeremy Pelter, by the close of business.
+    - date: 2025-02-06
+      agency: CFPB
+      type: onboarded
+      event: Gavin Kliger, Nikhil Rajpal and Chris Young are detailed from OPM to the CFPB
     - date: 2025-02-06
       agency: CFPB
       type: report
@@ -2051,6 +2269,11 @@ people:
       agency: DOGE
       type: onboarded
       event: Kendall Lindemann hired at DOGE from McKinsey and Associates (not a Musk-related company)
+    - date: 2025-04-07
+      agency: DOGE
+      type: legal
+      event: Kendall Lindemann testifies in a sworn deposition as a representative of DOGE after saying she had conducted
+        conversations with Amy Gleason
 
   Stephanie Holmes:
     agencies:
@@ -3356,6 +3579,46 @@ people:
       event: Leland Dudek merges several SSA offices into a new Office of Legal and Policy and names Mark Steffensen the Deputy
         Commissioner
 
+  Miles Collins:
+    agencies:
+    - Department of Labor
+    events:
+    - date: 2025-02-19
+      agency: DOL
+      type: access_granted
+      event: Aram Moghaddassi and Miles Collins are granted access to the HRConnect system at DOL by the Assistant Secretary
+        for Administration and Management
+    - date: 2025-02-20
+      agency: DOL
+      type: access_granted
+      event: Miles Collins is granted access to the Office of Job Corps Electronic Information System (OJC EIS) by Dean Heyl,
+        Assistant Secretary for Administration and Management
+    - date: 2025-02-20
+      agency: DOL
+      type: access_granted
+      event: Aram Moghaddassi and Miles Collins are granted access to the New Core Financial Management System (NCFMS) system
+        at DOL by the Assistant Secretary for Administration and Management
+    - date: 2025-02-26
+      agency: DOL
+      type: access_granted
+      event: Miles Collins is granted access read-only access to USAccess and DOL Directory Resource Administrator (DRA) systems
+        by Troy Finnegan, Former Assistant Secretary for Administration and Management
+    - date: 2025-03-05
+      agency: DOL
+      type: report
+      event: Business Insider reports Marko Elez, Aram Moghaddassi, and Miles B. Collins are new DOGE arrivals at Department
+        of Labor
+    - date: 2025-04-18
+      agency: DOL
+      type: access_granted
+      event: Wired reports that Miles Collins has access to the National Farmworker Jobs Program (NFJP) system, which provides
+        grants to organizations that work with migrant and seasonal labor
+    - date: 2025-04-18
+      agency: DOL
+      type: access_granted
+      event: Wired reports that three DOGE staffers at DOL were granted access to the DOL's Reentry Employment Opportunities
+        (REO) program, which provides aid to people re-entering society from incarceration
+
   Peter Marocco:
     agencies:
     - Inter-American Foundation
@@ -3382,25 +3645,57 @@ people:
       type: offboarded
       event: Pete Marocco is reportedly fired from the State Department
 
-  Miles Collins:
+  Zach Terrell:
     agencies:
-    - Department of Labor
+    - Centers for Medicare and Medicaid Services
+    - Health and Human Services
+    - National Institute of Health
     events:
-    - date: 2025-03-05
-      agency: DOL
-      type: report
-      event: Business Insider reports Marko Elez, Aram Moghaddassi, and Miles B. Collins are new DOGE arrivals at Department
-        of Labor
-    - date: 2025-04-18
-      agency: DOL
+    - date: 2025-03-06
+      agency:
+      - HHS
+      - CMS
+      - NIH
+      type: onboarded
+      event: Zach Terrell is onboarded as an employee of HHS
+    - date: 2025-03-06
+      agency:
+      - HHS
+      - CMS
+      - NIH
+      type: onboarded
+      event: Zach Terrell is onboarded as an employee of HHS
+    - date: 2025-03-06
+      agency:
+      - HHS
+      - CMS
+      - NIH
+      type: onboarded
+      event: Zach Terrell is onboarded as an employee of HHS
+    - date: 2025-03-07
+      agency: HHS
       type: access_granted
-      event: Wired reports that Miles Collins has access to the National Farmworker Jobs Program (NFJP) system, which provides
-        grants to organizations that work with migrant and seasonal labor
-    - date: 2025-04-18
-      agency: DOL
+      event: Zach Terrell is granted read access to Enterprise Human Capital Management (EHCM) by the HR ISSO
+    - date: 2025-03-11
+      agency: CMS
       type: access_granted
-      event: Wired reports that three DOGE staffers at DOL were granted access to the DOL's Reentry Employment Opportunities
-        (REO) program, which provides aid to people re-entering society from incarceration
+      event: Zach Terrell is granted read access to Integrated Data Repository (IDR) at CMS by the CIO of CMS Information
+        Technologies
+    - date: 2025-03-16~
+      agency: HHS
+      type: access_granted
+      event: Zach Terrell is granted read access to the Financial Business Intelligence System (FBIS) (only the application
+        and not the database, no PII visibility) by the the CTO, Program Support Center
+    - date: 2025-03-18
+      agency: HHS
+      type: access_granted
+      event: Zach Terrell is granted read access to the HHS Unified Financial Management System (UFMS) (only the application
+        and not the database) by the the CTO, Program Support Center
+    - date: 2025-03-27
+      agency: HHS
+      type: access_granted
+      event: Zach Terrell is granted read access to the Payment Management System (PMS) by the the Chief Technology Officer,
+        Program Support Center
 
   Kenneth Jackson:
     agencies:

@@ -53,16 +53,17 @@ gantt
         Derek Geissler : 2025-03-04, 2025-04-27
     SECTION HHS
         Luke Farritor : 2025-01-21, 2025-04-27
+        Rachel Riley : 2025-01-27, 2025-04-27
         Clark Minor : 2025-02-14, 2025-04-27
+        Aram Moghaddassi : 2025-02-19, 2025-04-27
+        Conor Fennessy : 2025-02-20, 2025-04-27
+        Jeremy Lewin : 2025-02-21, 2025-04-27
         Amy Gleason : 2025-03-04, 2025-04-27
         Brad Smith : 2025-03-04, 2025-04-27
         Marko Elez : 2025-03-05, 2025-04-27
+        Zach Terrell : 2025-03-06, 2025-04-27
         Edward Coristine : 2025-03-13, 2025-04-27
-        Aram Moghaddassi : 2025-03-13, 2025-04-27
-        Rachel Riley : 2025-03-13, 2025-04-27
         Kyle Schutt : 2025-03-14, 2025-04-27
-        Conor Fennessy : 2025-03-29, 2025-04-27
-        Jeremy Lewin : 2025-03-29, 2025-04-27
     SECTION USAID
         Gavin Kliger : 2025-01-27, 2025-03-28
         Luke Farritor : 2025-01-27, 2025-03-28
@@ -110,11 +111,15 @@ gantt
         Luke Farritor : 2025-03-13, 2025-04-27
     SECTION CMS
         Luke Farritor : 2025-01-31, 2025-04-27
+        Rachel Riley : 2025-02-03, 2025-04-27
         Amy Gleason : 2025-02-24, 2025-04-27
+        Conor Fennessy : 2025-03-03, 2025-04-27
+        Jeremy Lewin : 2025-03-03, 2025-04-27
         Edward Coristine : 2025-03-05, 2025-04-27
+        Aram Moghaddassi : 2025-03-05, 2025-04-27
         Marko Elez : 2025-03-05, 2025-04-27
+        Zach Terrell : 2025-03-06, 2025-04-27
         Brad Smith : 2025-03-31, 2025-04-27
-        Rachel Riley : 2025-03-31, 2025-04-27
     SECTION SBA
         Edward Coristine : 2025-02-03, 2025-04-27
     SECTION EPA
@@ -130,11 +135,12 @@ gantt
         Nikhil Rajpal : 2025-02-05, 2025-04-27
         Bryton Shang : 2025-04-02, 2025-04-27
     SECTION CFPB
-        Nikhil Rajpal : 2025-02-06, 2025-03-21
         Gavin Kliger : 2025-02-06, 2025-04-27
+        Nikhil Rajpal : 2025-02-06, 2025-03-21
         Chris Young : 2025-02-06, 2025-04-27
-        Jordan Wick : 2025-02-07, 2025-04-27
-        Luke Farritor : 2025-02-07, 2025-03-04
+        Luke Farritor : 2025-02-06, 2025-03-04
+        Jeremy Lewin : 2025-02-06, 2025-04-27
+        Jordan Wick : 2025-02-06, 2025-04-27
     SECTION DHS
         Edward Coristine : 2025-02-10, 2025-04-27
         Kyle Schutt : 2025-02-10, 2025-04-27
@@ -157,9 +163,9 @@ gantt
         Cole Killian : 2025-02-13, 2025-04-27
         Adam Ramada : 2025-02-13, 2025-04-27
         Jordan Wick : 2025-02-13, 2025-04-27
+        Aram Moghaddassi : 2025-02-19, 2025-04-27
+        Miles Collins : 2025-02-19, 2025-04-27
         Marko Elez : 2025-02-25, 2025-04-27
-        Aram Moghaddassi : 2025-03-05, 2025-04-27
-        Miles Collins : 2025-03-05, 2025-04-27
         Thomas Shedd : 2025-03-14, 2025-04-27
         Keith Sonderling : 2025-03-18, 2025-04-27
     SECTION VA
@@ -189,11 +195,13 @@ gantt
         Nate Cavanaugh : 2025-02-21, 2025-03-06
         Peter Marocco : 2025-03-04, 2025-03-06
     SECTION NIH
+        Jeremy Lewin : 2025-02-21, 2025-04-27
         Luke Farritor : 2025-02-24, 2025-04-27
         Rachel Riley : 2025-02-24, 2025-04-27
-        Jeremy Lewin : 2025-02-24, 2025-04-27
         Clark Minor : 2025-02-24, 2025-04-27
+        Conor Fennessy : 2025-02-28, 2025-04-27
         Joshua Hanley : 2025-03-03, 2025-04-27
+        Zach Terrell : 2025-03-06, 2025-04-27
     SECTION USIP
         James Burnham : 2025-02-24, 2025-03-25
         Jacob Altik : 2025-02-24, 2025-03-25

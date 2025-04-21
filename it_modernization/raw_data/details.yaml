@@ -240,6 +240,15 @@
   comment: I don't have the source document, just details from a court filing
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
 
+- id: mou-20250221-gsa-hhs-jeremy-lewin
+  from: GSA
+  to: HHS
+  named:
+  - Jeremy Lewin
+  start_date: 2025-02-21
+  comment: I don't have the source document, just details from a court filing
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+
 - id: mou-20250206-doge-cfpb-jordan-wick
   from: DOGE
   to: CFPB
