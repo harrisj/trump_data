@@ -217,8 +217,27 @@ Okay, this is where it gets cool. I have some automations going for this file th
 
 I also have a pre-commit hook that makes the following files and keeps them up-to-date:
 
-- events.csv = a CSV dump of the events
-- people.yaml = a dump of the DOGE people with a listing of agencies they've been linked to and events they've been named
+- agency_comprehensive.yaml = a grouping of people / events associated with each agency
+- aliases.yaml = a processed version of my aliases file that allows me to see likely candidates for unknown aliases
+- events.csv = a CSV version of the big events YAML file for people who prefer to work in spreadsheets
+- events.yaml = a processed version of my raw events file that merges in some data from other records
+- people.yaml = a people-centric view of the DOGE activities that groups them by name
+- postings.yaml = an array of what people have been posted at a specific agency with durations
+- system_postings.yaml = an array of what system access has been given to people
+
+As well as some silly prototypes that might go away:
+
+- agencies_chart.md = a chart that uses the posting data to give a rough view of who is where in given agencies. This is highly imprecise!
+- staffing_chart.md = a person-centric view of where individual people have shown up at various agencies
+
+## Next Big Steps
+
+- I need to figure out to better represent the system access/grants/etc. since more details of those are coming to light.
+  - One interesting wrinkle is that sometimes agencies are Shared Service Providers to multiple agencies
+  - DOGE sometimes just has access to a small slice of that (like CFPB's usage of HRConnect), but sometimes they have the whole system (like Grants.gov)
+- Providing a relatively clear picture/diagram of staffing/detailing moves as DOGE hopscotches people across agencies
+- It's probably time to leverage SQLite as part of my analysis/file-generation
+- Auditing/validation to find mismatched / inconsistent data
 
 ## PIAs and SORNs?
 
