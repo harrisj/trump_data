@@ -71,7 +71,7 @@ class TestParsing:
             == "https://storage.courtlistener.com/recap/gov.uscourts.mad.279895/gov.uscourts.mad.279895.1.0_1.pdf"
         )
         assert case.complaint_link.title == "Complaint"
-        assert case.complaint_link_text == 'Complaint'
+        assert case.complaint_link_text == "Complaint"
         assert case.date_filed.isoformat() == "2025-01-21"
         assert (
             case.case_summary

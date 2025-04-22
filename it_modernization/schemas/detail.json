@@ -33,8 +33,8 @@
             "description": "The agency or agencies that the staff is being detailed to",
             "oneOf": [
                 {"$ref": "valid_names.json#agency_ids"},
-                {"type": "array", "items": { "$ref": "valid_names.json#agency_ids" }}     
-            ]      
+                {"type": "array", "items": { "$ref": "valid_names.json#agency_ids" }}
+            ]
         },
         "max_people": {
             "description": "The maximum number of staff that are covered in this detail agreement",

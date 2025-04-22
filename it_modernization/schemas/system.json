@@ -29,7 +29,7 @@
                         "$ref": "valid_names.json#agency_ids"
                     }
                 }
-            ]            
+            ]
         },
         "description": {
             "description": "A description of the system",

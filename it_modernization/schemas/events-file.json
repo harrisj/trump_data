@@ -1,6 +1,6 @@
 {
     "$id": "schemas/event-file",
-    
+
     "title": "EventFile",
     "description": "A list of all events associated with DOGE staff",
     "type": "array",

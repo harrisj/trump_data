@@ -38,7 +38,7 @@ repos:
     language: system
 
   - id: generate-events-yaml
-    name: Generate the aliases file
+    name: Generate the events.yaml file
     types: [ file ]
     files: it_modernization/(aliases.yaml|raw_data/)
     pass_filenames: false
@@ -46,7 +46,7 @@ repos:
     language: system
 
   - id: generate-events-csv
-    name: Generate the aliases file
+    name: Generate the events.csv file
     types: [ file ]
     files: it_modernization/(events.yaml|raw_data/)
     pass_filenames: false
@@ -54,7 +54,7 @@ repos:
     language: system
 
   - id: generate-postings-yaml
-    name: Generate the aliases file
+    name: Generate the postings.yaml file
     types: [ file ]
     files: it_modernization/(events.yaml|raw_data/)
     pass_filenames: false
@@ -62,15 +62,15 @@ repos:
     language: system
 
   - id: generate-people-yaml
-    name: Generate the aliases file
+    name: Generate the people.yaml file
     types: [ file ]
     files: it_modernization/(events.yaml|raw_data/)
     pass_filenames: false
     entry: "cd ./it_modernization && pipenv run python scripts/generate/05_generate_people_yaml.py"
     language: system
 
-  - id: generate-people-yaml
-    name: Generate the aliases file
+  - id: generate-agency-comprehensive-yaml
+    name: Generate the agency_comprehensive.yaml file
     types: [ file ]
     files: it_modernization/(events.yaml|raw_data/)
     pass_filenames: false
@@ -78,7 +78,7 @@ repos:
     language: system
 
   - id: generate-mermaid-chart
-    name: Generate the aliases file
+    name: Generate the mermaid chart prototype
     types: [ file ]
     files: it_modernization/(postings.yaml|raw_data/)
     pass_filenames: false
@@ -86,7 +86,7 @@ repos:
     language: system
 
   - id: generate-agency-staffing-chart
-    name: Generate the aliases file
+    name: Generate the agency mermaid chart prototype
     types: [ file ]
     files: it_modernization/(postings.yaml|raw_data/)
     pass_filenames: false
