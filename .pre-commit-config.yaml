@@ -16,79 +16,80 @@ repos:
   hooks:
   - id: preprocess-events
     name: Preprocess the events file
-    types: [ file ]
-    files: it_modernization
+    types: [ csv, yaml ]
     entry: "cd ./it_modernization && pipenv run python scripts/01_preprocess_events_yaml.py"
     pass_filenames: false
+    require_serial: true
     language: system
+
   - id: preprocess-join-csvs
     name: Preprocess the DB table CSVs
-    types: [ file ]
-    files: it_modernization
+    types: [ csv, yaml ]
     pass_filenames: false
+    require_serial: true
     entry: "cd ./it_modernization && pipenv run python scripts/02_preprocess_db_tables.py"
     language: system
 
   - id: generate-aliases-yaml
     name: Generate the aliases file
-    types: [ file ]
-    files: it_modernization
+    types: [ csv, yaml ]
     pass_filenames: false
+    require_serial: true
     entry: "cd ./it_modernization && pipenv run python scripts/11_generate_aliases_yaml.py"
     language: system
 
   - id: generate-events-yaml
     name: Generate the events.yaml file
-    types: [ file ]
-    files: it_modernization
+    types: [ csv, yaml ]
     pass_filenames: false
+    require_serial: true
     entry: "cd ./it_modernization && pipenv run python scripts/12_generate_events_yaml.py"
     language: system
 
   - id: generate-events-csv
     name: Generate the events.csv file
-    types: [ file ]
-    files: it_modernization
+    types: [ csv, yaml ]
     pass_filenames: false
+    require_serial: true
     entry: "cd ./it_modernization && pipenv run python scripts/13_generate_events_yaml.py"
     language: system
 
   - id: generate-postings-yaml
     name: Generate the postings.yaml file
-    types: [ file ]
-    files: it_modernization
+    types: [ csv, yaml ]
     pass_filenames: false
+    require_serial: true
     entry: "cd ./it_modernization && pipenv run python scripts/14_generate_postings_yaml.py"
     language: system
 
   - id: generate-people-yaml
     name: Generate the people.yaml file
-    types: [ file ]
-    files: it_modernization
+    types: [ csv, yaml ]
     pass_filenames: false
+    require_serial: true
     entry: "cd ./it_modernization && pipenv run python scripts/15_generate_people_yaml.py"
     language: system
 
   - id: generate-agency-comprehensive-yaml
     name: Generate the agency_comprehensive.yaml file
-    types: [ file ]
-    files: it_modernization
+    types: [ csv, yaml ]
     pass_filenames: false
+    require_serial: true
     entry: "cd ./it_modernization && pipenv run python scripts/16_generate_agency_comprehensive_yaml.py"
     language: system
 
   - id: generate-mermaid-chart
     name: Generate the mermaid chart prototype
-    types: [ file ]
-    files: it_modernization
+    types: [ csv, yaml ]
     pass_filenames: false
+    require_serial: true
     entry: "cd ./it_modernization && pipenv run python scripts/17_generate_mermaid_chart_md.py"
     language: system
 
   - id: generate-agency-staffing-chart
     name: Generate the agency mermaid chart prototype
-    types: [ file ]
-    files: it_modernization
+    types: [ csv, yaml ]
     pass_filenames: false
+    require_serial: true
     entry: "cd ./it_modernization && pipenv run python scripts/18_generate_agency_mermaid.py"
     language: system

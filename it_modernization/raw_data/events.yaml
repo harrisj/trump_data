@@ -3887,7 +3887,7 @@
 
 - date: 2025-03-07
   type: disruption
-  event: Networking staff at NLRB discovered that 3 Github libraries were downloaded in the prior 30 days that could be used for scraping high volumes of data and obscuring the source requests
+  event: Networking staff at NLRB discovered that 3 Github libraries were downloaded in the prior 30 days that could be used for scraping high volumes of data and obscuring the source requests.
   source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
   agency: NLRB
   id: E8dm99Qt
@@ -6113,3 +6113,12 @@
   - Marko Elez
   agency: DOL
   id: 5ZoiqF9F
+
+- date: 2025-04-15
+  type: report
+  event: Reports that SEC leadership has pushed back on DOGE requests to get admin access for staff emails, personnel data, contracts, and payments systems
+  source: https://finance.yahoo.com/news/sec-pushes-back-doge-request-175244386.html
+  named:
+  - Eliezer Mishory
+  agency:
+  - SEC
