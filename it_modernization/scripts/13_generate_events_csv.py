@@ -72,9 +72,8 @@ def generate_events_yaml():
 
 
 # Example usage
-file_path = "./modernization.yaml"
 yaml_data = generate_events_yaml()
-output_file = "./events.csv"
+output_file = "./it_modernization/events.csv"
 
 # Write the yaml_data to a CSV file
 with open(output_file, "w", newline="") as csvfile:

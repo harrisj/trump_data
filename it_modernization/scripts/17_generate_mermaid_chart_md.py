@@ -92,6 +92,6 @@ gantt
 
 
 output_md = generate_mermaid_chart()
-output_file = "./staffing_chart.md"
+output_file = "./it_modernization/staffing_chart.md"
 with open(output_file, "w") as file:
     file.write(output_md)

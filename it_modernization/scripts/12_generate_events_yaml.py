@@ -49,4 +49,6 @@ def generate_events():
 meta = {"title": "Events", "version": FILE_VERSION, "generated": date.today()}
 
 events = generate_events()
-dump_generated_file(meta, events, "events.yaml", SCHEMA_PATH, line_break_indent=2)
+dump_generated_file(
+    meta, events, "./it_modernization/events.yaml", SCHEMA_PATH, line_break_indent=2
+)

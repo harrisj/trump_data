@@ -251,4 +251,6 @@ gantt
         Brooks Morgan : 2025-04-10, 2025-04-10
         Adam Ramada : 2025-04-10, 2025-04-10
         Anthony Armstrong : 2025-04-10, 2025-04-10
+    SECTION SEC
+        Eliezer Mishory : 2025-04-15, 2025-04-15
 ```

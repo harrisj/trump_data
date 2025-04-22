@@ -5922,6 +5922,16 @@
   agency: IRS
   id: L7ZMfuRD
 
+- date: 2025-04-15
+  type: report
+  event: Reports that SEC leadership has pushed back on DOGE requests to get admin access for staff emails, personnel data, contracts, and payments systems
+  source: https://finance.yahoo.com/news/sec-pushes-back-doge-request-175244386.html
+  named:
+  - Eliezer Mishory
+  agency:
+  - SEC
+  id: LP7ebs7r
+
 - date: 2025-04-16
   type: report
   event: Three DOGE staffers are reported to work with staff from DHS, the State Department and USCIS on implementing an application process for a $5 Million "Gold Card" visa
@@ -6113,12 +6123,3 @@
   - Marko Elez
   agency: DOL
   id: 5ZoiqF9F
-
-- date: 2025-04-15
-  type: report
-  event: Reports that SEC leadership has pushed back on DOGE requests to get admin access for staff emails, personnel data, contracts, and payments systems
-  source: https://finance.yahoo.com/news/sec-pushes-back-doge-request-175244386.html
-  named:
-  - Eliezer Mishory
-  agency:
-  - SEC

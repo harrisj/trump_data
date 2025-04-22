@@ -2462,6 +2462,16 @@ postings:
   doge_agency_last: 2025-02-03
   doge_agency_last_adjusted: 2025-04-27
 
+- agency_id: SEC
+  name: Eliezer Mishory
+  first_date: 2025-04-15
+  all_dates:
+  - 2025-04-15
+  last_date: 2025-04-15
+  agency_doge_base: false
+  doge_agency_first: 2025-04-15
+  doge_agency_last: 2025-04-15
+
 - agency_id: SSA
   name: Leland Dudek
   first_date: 2025-01-30

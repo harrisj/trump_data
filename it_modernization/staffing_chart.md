@@ -187,6 +187,8 @@ gantt
         NIH : 2025-02-24, 2025-04-27
     section Michael Mirski
         HUD : 2025-02-20, 2025-04-27
+    section Eliezer Mishory
+        SEC : 2025-04-15, 2025-04-15
     section Bryanne-Michelle Mlodzianowski
         OPM : 2025-02-12, 2025-04-27
     section Aram Moghaddassi

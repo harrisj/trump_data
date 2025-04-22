@@ -71,27 +71,33 @@ for c in cases:
 systems = read_raw_systems()
 
 # -------------------------
-with open("db/import/events.csv", "w", newline="") as csvfile:
+with open("./it_modernization/db/import/events.csv", "w", newline="") as csvfile:
     writer = csv.writer(csvfile)
     writer.writerows(out_events)
 
-with open("db/import/events_agencies.csv", "w", newline="") as csvfile:
+with open(
+    "./it_modernization/db/import/events_agencies.csv", "w", newline=""
+) as csvfile:
     writer = csv.writer(csvfile)
     writer.writerows(out_ea)
 
-with open("db/import/events_names.csv", "w", newline="") as csvfile:
+with open("./it_modernization/db/import/events_names.csv", "w", newline="") as csvfile:
     writer = csv.writer(csvfile)
     writer.writerows(out_en)
 
-with open("db/import/events_aliases.csv", "w", newline="") as csvfile:
+with open(
+    "./it_modernization/db/import/events_aliases.csv", "w", newline=""
+) as csvfile:
     writer = csv.writer(csvfile)
     writer.writerows(out_eal)
 
-with open("db/import/events_systems.csv", "w", newline="") as csvfile:
+with open(
+    "./it_modernization/db/import/events_systems.csv", "w", newline=""
+) as csvfile:
     writer = csv.writer(csvfile)
     writer.writerows(out_es)
 
-with open("db/import/cases.csv", "w", newline="") as csvfile:
+with open("./it_modernization/db/import/cases.csv", "w", newline="") as csvfile:
     fieldnames = ["case_no", "name", "description", "date_filed", "status", "link"]
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames, extrasaction="ignore")
 
@@ -99,6 +105,8 @@ with open("db/import/cases.csv", "w", newline="") as csvfile:
     for case in cases:
         writer.writerow(case)
 
-with open("db/import/cases_agencies.csv", "w", newline="") as csvfile:
+with open(
+    "./it_modernization/db/import/cases_agencies.csv", "w", newline=""
+) as csvfile:
     writer = csv.writer(csvfile)
     writer.writerows(out_ca)

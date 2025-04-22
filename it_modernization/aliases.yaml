@@ -709,8 +709,6 @@ aliases:
   - date: 2025-03-17
     type: access_granted
     access_systems:
-    - SSA-EDW
-    access_scope:
     - NUMIDENT
     - MBR
     - SSR
@@ -789,7 +787,7 @@ aliases:
     type: access_granted
     event: Unidentified "Employee 7" at Social Security Administration is granted access to the USCIS SAVE system
     access_systems:
-    - USCIS-SAVE
+    - SAVE
     named_aliases:
     - SSA-7
     agency: SSA
@@ -797,8 +795,6 @@ aliases:
   - date: 2025-03-17
     type: access_granted
     access_systems:
-    - SSA-EDW
-    access_scope:
     - NUMIDENT
     - MBR
     - SSR
@@ -968,8 +964,6 @@ aliases:
   - date: 2025-03-17
     type: access_granted
     access_systems:
-    - SSA-EDW
-    access_scope:
     - NUMIDENT
     - MBR
     - SSR

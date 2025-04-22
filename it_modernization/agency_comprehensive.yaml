@@ -655,7 +655,7 @@ CFPB:
     id: 256K5fhi
   - date: 2025-02-11
     type: disruption
-    event: CFPB Contracting Officers (COs) are ordered to terminate the vast majority of CFPB's contracts during that weekend
+    event: CFPB Contracting Officers (COs) are ordered to terminate the vast majority of CFPB's contracts over the weekend
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.38.4.pdf
     agency: CFPB
     id: Ku4aQCfT
@@ -1136,7 +1136,7 @@ DOI:
     id: 2kfvoFQv
   - date: 2025-03-07
     type: promotion
-    event: Tyler Hassen is promoted to Acting Assistant Secretary of Policy, Management and Budget
+    event: Tyler Hassen is promoted to Acting Assistant Secretary of Policy, Management and Budget in the Interior Department
     named:
     - Tyler Hassen
     source: https://www.eenews.net/articles/doge-official-appointed-head-of-policy-at-interior/
@@ -1547,7 +1547,7 @@ DOGE:
     id: eKuZBbzW
   - date: 2025-02-13
     type: official
-    event: DOGE announces its website is now live with an organizational chart and tweets
+    event: DOGE announces that its website is now live with an organizational chart and tweets
     source: https://xcancel.com/DOGE/status/1889897384122982604#m
     agency: DOGE
     id: dKmuYfJv
@@ -3012,10 +3012,6 @@ Treasury:
     id: o2TMNF83
   - date: 2025-01-28
     type: report
-    access_systems:
-    - PAM
-    - SPS
-    - ASAP
     event: Marko Elez is provided with a laptop from Treasury with with copies of the source code for PAM, SPS, and ASAP in a separate, secure coding environment known as a "secure code repository" or "sandbox."
     named:
     - Marko Elez
@@ -5383,7 +5379,7 @@ NLRB:
     id: h7dbfrDa
   - date: 2025-03-07
     type: disruption
-    event: Networking staff at NLRB discovered that 3 Github libraries were downloaded in the prior 30 days that could be used for scraping high volumes of data and obscuring the source requests
+    event: Networking staff at NLRB discovered that 3 Github libraries were downloaded in the prior 30 days that could be used for scraping high volumes of data and obscuring the source requests.
     source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
     agency: NLRB
     id: E8dm99Qt
@@ -5985,7 +5981,7 @@ OPM:
     id: GMWmrZzw
   - date: 2025-02-11
     type: promotion
-    event: Greg Hogan is formally named the CIO of OPM
+    event: Greg Hogan is now formally named the CIO of OPM
     comment: Just using effective date of SF-50. Salary remains same at $195,200
     named:
     - Greg Hogan
@@ -6340,7 +6336,8 @@ Peace:
 SEC:
   name: Securities and Exchange Commission
   id: SEC
-  associated: []
+  associated:
+  - Eliezer Mishory
   events:
   - date: 2025-03-28
     type: report
@@ -6348,6 +6345,15 @@ SEC:
     source: https://www.reuters.com/world/us/us-securities-exchange-commission-beginning-onboard-doge-staff-email-says-2025-03-28/
     agency: SEC
     id: AhjDjwsS
+  - date: 2025-04-15
+    type: report
+    event: Reports that SEC leadership has pushed back on DOGE requests to get admin access for staff emails, personnel data, contracts, and payments systems
+    source: https://finance.yahoo.com/news/sec-pushes-back-doge-request-175244386.html
+    named:
+    - Eliezer Mishory
+    agency:
+    - SEC
+    id: LP7ebs7r
   systems: {}
   cases: {}
 
@@ -6482,7 +6488,7 @@ SSA:
     type: access_granted
     access_type: read
     access_systems:
-    - SSNEC-Sandbox
+    - NUMIDENT
     event: Akash Bobba is rapidly trained and is granted access to anonymized and read-only "sandbox" NUMIDENT data from SSNEC for his purported fraud investigations
     source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
     named:
@@ -6909,7 +6915,7 @@ SSA:
     type: access_granted
     event: Unidentified "Employee 7" at Social Security Administration is granted access to the USCIS SAVE system
     access_systems:
-    - USCIS-SAVE
+    - SAVE
     named_aliases:
     - SSA-7
     agency: SSA
@@ -6927,8 +6933,6 @@ SSA:
   - date: 2025-03-17
     type: access_granted
     access_systems:
-    - SSA-EDW
-    access_scope:
     - NUMIDENT
     - MBR
     - SSR

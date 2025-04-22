@@ -91,5 +91,9 @@ meta = {
 
 postings = generate_postings_yaml()
 dump_generated_file(
-    meta, {"postings": postings}, "postings.yaml", SCHEMA_PATH, line_break_indent=2
+    meta,
+    {"postings": postings},
+    "./it_modernization/postings.yaml",
+    SCHEMA_PATH,
+    line_break_indent=2,
 )

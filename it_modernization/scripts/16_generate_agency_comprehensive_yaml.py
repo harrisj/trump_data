@@ -3,11 +3,11 @@ from util import read_yaml, as_list, sorted_by_last_name, MyYamlDumper
 
 
 def generate_agency_comprehensive_yaml():
-    agencies_yaml = read_yaml("./raw_data/agencies.yaml")
-    events_yaml = read_yaml("./raw_data/events.yaml")
-    systems_yaml = read_yaml("./raw_data/systems.yaml")
-    cases_yaml = read_yaml("./raw_data/cases.yaml")
-    roundup_yaml = read_yaml("./raw_data/roundups.yaml")
+    agencies_yaml = read_yaml("./it_modernization/raw_data/agencies.yaml")
+    events_yaml = read_yaml("./it_modernization/raw_data/events.yaml")
+    systems_yaml = read_yaml("./it_modernization/raw_data/systems.yaml")
+    cases_yaml = read_yaml("./it_modernization/raw_data/cases.yaml")
+    roundup_yaml = read_yaml("./it_modernization/raw_data/roundups.yaml")
 
     out = {}
     associated = {}
@@ -59,7 +59,7 @@ def generate_agency_comprehensive_yaml():
 
 # Example usage
 by_agency_report = generate_agency_comprehensive_yaml()
-output_file = "./agency_comprehensive.yaml"
+output_file = "./it_modernization/agency_comprehensive.yaml"
 with open(output_file, "w") as file:
     file.write(
         yaml.dump(

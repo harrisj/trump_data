@@ -576,7 +576,7 @@ people:
     - date: 2025-03-07
       agency: DOI
       type: promotion
-      event: Tyler Hassen is promoted to Acting Assistant Secretary of Policy, Management and Budget
+      event: Tyler Hassen is promoted to Acting Assistant Secretary of Policy, Management and Budget in the Interior Department
     - date: 2025-03-28
       agency: DOI
       type: disruption
@@ -1916,7 +1916,7 @@ people:
     - date: 2025-02-11
       agency: OPM
       type: promotion
-      event: Greg Hogan is formally named the CIO of OPM
+      event: Greg Hogan is now formally named the CIO of OPM
     - date: 2025-02-12
       agency: OPM
       type: report
@@ -3857,6 +3857,17 @@ people:
       type: report
       event: DOGE staff reportedly visit the Peace Corps, planning to work over the weeked to review records and access IT
         systems
+
+  Eliezer Mishory:
+    agencies:
+    - Securities and Exchange Commission
+    events:
+    - date: 2025-04-15
+      agency:
+      - SEC
+      type: report
+      event: Reports that SEC leadership has pushed back on DOGE requests to get admin access for staff emails, personnel
+        data, contracts, and payments systems
 
   Roland Shen:
     agencies:

@@ -77,4 +77,6 @@ def generate_aliases():
 meta = {"title": "Events", "version": FILE_VERSION, "generated": date.today()}
 
 aliases = generate_aliases()
-dump_generated_file(meta, aliases, "aliases.yaml", SCHEMA_PATH, line_break_indent=2)
+dump_generated_file(
+    meta, aliases, "./it_modernization/aliases.yaml", SCHEMA_PATH, line_break_indent=2
+)

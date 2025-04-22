@@ -61,4 +61,6 @@ def generate_people_comprehensive_yaml():
 meta = {"title": "People", "version": FILE_VERSION, "generated": date.today()}
 
 people = generate_people_comprehensive_yaml()
-dump_generated_file(meta, people, "people.yaml", SCHEMA_PATH, line_break_indent=2)
+dump_generated_file(
+    meta, people, "./it_modernization/people.yaml", SCHEMA_PATH, line_break_indent=2
+)

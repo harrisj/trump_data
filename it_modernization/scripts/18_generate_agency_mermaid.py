@@ -29,7 +29,7 @@ def generate_agencies_mermaid():
         [a for a in agencies if len(a["postings"]) > 0],
         key=lambda x: x["postings"][0]["first_date"],
     )
-    outfile = "agencies_chart.md"
+    outfile = "./it_modernization/agencies_chart.md"
 
     with open(outfile, "w") as file:
         file.write(f"# DOGE Staff by Agency\n\n")

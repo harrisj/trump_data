@@ -85,56 +85,56 @@ class MyYamlDumper(yaml.Dumper):
             super().write_line_break()
 
 
-def read_raw_events(path="./raw_data/events.yaml"):
+def read_raw_events(path="./it_modernization/raw_data/events.yaml"):
     return read_yaml(path)
 
 
 def read_processed_events():
-    yaml = read_yaml("./events.yaml")
+    yaml = read_yaml("./it_modernization/events.yaml")
     return yaml["events"]
 
 
-def read_raw_cases(path="./raw_data/cases.yaml"):
+def read_raw_cases(path="./it_modernization/raw_data/cases.yaml"):
     return read_yaml(path)
 
 
-def read_raw_systems(path="./raw_data/systems.yaml"):
+def read_raw_systems(path="./it_modernization/raw_data/systems.yaml"):
     return read_yaml(path)
 
 
-def read_raw_cases_dict(path="./raw_data/cases.yaml"):
+def read_raw_cases_dict(path="./it_modernization/raw_data/cases.yaml"):
     return read_yaml_as_dict(path, "case_no")
 
 
-def read_raw_systems_dict(path="./raw_data/systems.yaml"):
+def read_raw_systems_dict(path="./it_modernization/raw_data/systems.yaml"):
     return read_yaml_as_dict(path, "id")
 
 
-def read_raw_agencies(path="./raw_data/agencies.yaml"):
+def read_raw_agencies(path="./it_modernization/raw_data/agencies.yaml"):
     return read_yaml(path)
 
 
-def read_raw_agencies_dict(path="./raw_data/agencies.yaml"):
+def read_raw_agencies_dict(path="./it_modernization/raw_data/agencies.yaml"):
     return read_yaml_as_dict(path, "id")
 
 
-def read_raw_aliases_dict(path="./raw_data/aliases.yaml"):
+def read_raw_aliases_dict(path="./it_modernization/raw_data/aliases.yaml"):
     return read_yaml_as_dict(path, "id")
 
 
-def read_raw_details(path="./raw_data/details.yaml"):
+def read_raw_details(path="./it_modernization/raw_data/details.yaml"):
     return read_yaml(path)
 
 
-def read_raw_details_dict(path="./raw_data/details.yaml"):
+def read_raw_details_dict(path="./it_modernization/raw_data/details.yaml"):
     return read_yaml_as_dict(path, "id")
 
 
-def read_raw_roundups(path="./raw_data/roundups.yaml"):
+def read_raw_roundups(path="./it_modernization/raw_data/roundups.yaml"):
     return read_yaml(path)
 
 
-def read_postings(path="./postings.yaml"):
+def read_postings(path="./it_modernization/postings.yaml"):
     out = read_yaml(path)
     return out["postings"]
 
