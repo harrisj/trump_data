@@ -1,34 +1,48 @@
 # yaml-language-server: $schema=../schemas/systems-file.json
 - name: Anti-Fraud Enterprise Solution
+  type: internal
   id: AFES
+  category: payments
   description: System for detecting and preventing fraud in Social Security
+  population: SSA payees, SSA employees, people doing business with the SSA
   risk: PII of individuals stored in other systems and copied here for investigation
   pia: https://www.ssa.gov/privacy/pia/AFES_OPD%20Draft_PIA_04-17-2018.htm
   sorn: https://www.govinfo.gov/content/pkg/FR-2022-04-28/pdf/2022-09091.pdf
   agency: SSA
 
 - name: Acquistions and Grants Exchange
+  type: internal
   id: AGX
-  description: A web-based application that provides the Office of Acquisition and Grants Management with tools for contracting officers
+  category: obligations
+  description: A web-based application that provides the Office of Acquisition and Grants Management with tools for contracting officers to use for conducting their activities
   pia: https://www.hhs.gov/sites/default/files/cms-acquisition-and-grants-exchange.pdf
   agency: CMS
 
 - name: Acquisition Performance and Execution
   id: APEX
-  description: FIXME
+  type: internal
+  category: obligations
+  comment: I can't find any public data on this system
+  description: A relatively new (~2022) system at the CDC for procurement tracking
   agency: CDC
 
 - name: Automated Standard Access For Payments
+  type: internal
   id: ASAP
+  category: payments
   description: A payment system that allows recipients to draw down funds from an established account for that recipient.
   agency: Treasury
 
 - name: CMS Acquisition Lifecycle Management system
+  type: internal
   id: CALM
+  category: obligations
   description: System for tracking CMS acquisitions, contracts, milestones and audits.
   agency: CMS
 
 - name: Central Accounting Reporting System
+  type: internal
+  category: payments
   id: CARS
   link: https://fiscal.treasury.gov/cars/
   description: A system which handles accounting for all federal agencies
@@ -37,12 +51,18 @@
 
 - name: Central Index System
   id: CIS
+  type: internal
+  category: immigration
+  population: Immigrants in the US who use Alien Numbers, or A-Numbers. Can include undocumented and documented immigrants
   description: The CIS contains information about people who use Alien Numbers, or A-Numbers. These can include people who don't have legal authorization to be in the country or who have interacted with Immigration and Customs Enforcement, the person said.
   agency: USCIS
 
 - name: Common Origination and Disbursement System
   id: COD
+  type: internal
+  category: payments
   description: A system for disbursing grants and loans that are paid to institutions of higher education directly (who then provide to students)
+  population: Institutions of higher learning and their representatives
   risk: PII and bank account information for institutions of higher education
   pia: https://www.ed.gov/sites/ed/files/notices/pia/fsa-pia-cod.pdf
   sorn: https://www.federalregister.gov/documents/2023/06/28/2023-13698/privacy-act-of-1974-system-of-record
@@ -50,11 +70,14 @@
 
 - name: USCIS Data Business Intelligence Services
   id: DBIS
+  category: payments
   agency: USCIS
   description: FIXME
 
 - name: Debt Management and Collection System
   id: DMCS
+  type: internal
+  category: payments
   description: A system used for tracking and assisting in collection of federal student loans in default
   risk: PII and details of debt amounts for individuals who have defaulted on their loans
   pia: https://www.ed.gov/sites/ed/files/2025-01/PIA_FSA_DMCS_11_22_2024.pdf
@@ -71,14 +94,27 @@
   description: FIXME
   agency: DOL
 
+- name: Executive Office for Immigration Review's Court and Appeals System
+  id: ECAS
+  category: immigration
+  description: A system used by DOJ for tracking immigration cases
+  population: Immigrants who have interacted with the US immigration system
+  risk: Names, addresses, court testimony and any prior interactions with the system
+  pia: https://www.justice.gov/media/982096/dl?inline
+  agency: DOJ
+
 - name: EPA Acquisition System
   id: EAS
+  type: internal
+  category: obligations
   description: The Office of Acquisition Solutions (OAS) EPA Acquisition System (EAS) Software as a Service (SaaS) is used to initiate, award, modify and track acquisition actions.
   pia: https://www.epa.gov/system/files/documents/2023-12/eas-saas-pia-final.pdf
   agency: EPA
 
 - name: Enterprise Human Resources Integration
   id: EHRI
+  type: internal
+  category: personnel
   sorn: https://www.federalregister.gov/documents/2023/08/17/2023-17651/privacy-act-of-1974-system-of-records
   pia: https://www.opm.gov/information-management/privacy-policy/privacy-policy/ehridw.pdf
   description: Database of all federal employees
@@ -87,16 +123,25 @@
 
 - name: Electronic Immigration System
   id: ELIS
+  type: internal
+  category: immigration
   description: Part of DBIS; the system that processes legal immigration benefits. ELIS acts as a case management system for USCIS and includes information about green cards and petitions, as well as details related to Temporary Protected Status and DACA applicants
   agency: USCIS
 
-- name: EPACS
+- name: Enterpise Physical Access Control System
   id: EPACS
-  description: FIXME
+  type: internal
+  category: security
+  link: https://catalog.data.gov/dataset/dol-enterprise-physical-access-control-system-dol-epacs-a41c6
+  description: DOL ePACS is the physical access control system that is used to manage authorized physical access to the DOL Frances Perkins Building and some regional DOL locations. This system uses the GSA USAccess PIV badge issued for DOL, as the primary token for authenticating holders at the entrances of the DOL FPB and regional integrated locations. Access is granted based on the employment status
+  population: Federal personnel with access to the Department of Labor
+  risk: Ability to monitor when staff uses facilities, ability to control or grant access
   agency: DOL
 
 - name: Electronic Wage Reporting System
   id: EWR
+  type: internal
+  category: taxes
   description: A system for employers to submit W-2 records every year for their employees
   risk: Private tax information for every American
   pia: https://www.ssa.gov/privacy/pia/Final%20PIA%20for%20the%20EWR%20System.htm
@@ -105,7 +150,10 @@
 
 - name: FUTURE Act Systems
   id: FAS
+  type: internal
+  category: taxes
   description: Systems for implementing the FUTURE Act, allowing FAFSA to obtain federal tax information for students
+  population: Applicants for the FAFSA financial aid form
   risk: Sensitive tax information of students and parents
   pia: https://www.ed.gov/media/document/federal-tax-information-module-107894.pdf
   sorn: https://www.federalregister.gov/documents/2023/06/29/2023-13980/privacy-act-of-1974-system-of-records
@@ -113,18 +161,24 @@
 
 - name: Financial Assessment of Public Housing
   id: FASS-PH
+  type: internal
+  category: oversight
   link: https://www.hud.gov/program_offices/public_indian_housing/reac/products/fassph
   description: A database to measure the financial condition of public housing agencies and assess their ability to provide safe and decent housing.
   agency: HUD
 
 - name: Federal Disbursement Services
   id: FDS
+  type: internal
+  category: payments
   description: The Federal Disbursement Services (FDS) pays out money, helps collect money, handles foreign transactions, and supports Fiscal Service programs.
   link: https://fiscal.treasury.gov/fds/
   agency: Treasury
 
 - name: FEMA Grants Outcomes
   id: FEMA-GO
+  type: internal
+  category: obligations
   description: A system for managing grant program for communities affected by disasters
   risk: PII of grant recipients, including names, addresses and bank information
   link: https://go.fema.gov/
@@ -134,6 +188,8 @@
 
 - name: Financial Management System
   id: FMS
+  type: internal
+  category: obligations
   description: A system that consolidates grants, loans and work-study funds for students under Title IV of the Higher Education Act
   risk: PII of students, including names, addresses, SSNs and financial details of payments
   pia: https://www.ed.gov/sites/ed/files/notices/pia/fsa-financ-manag-syst.pdf
@@ -142,13 +198,18 @@
 
 - name: Federal Personnel Payroll System
   id: FPPS
+  type: saas
+  category: personnel
   description: A shared service which processes payrolls for the Justice, Treasury and Homeland Security departments, as well as the Air Force, Nuclear Regulatory Commission and the U.S. Customs and Border Protection, among other federal agencies.
   risk: PII and payment info for federal staff at several large agencies, including the ability to interfere with pay
   pia: https://www.doi.gov/sites/doi.gov/files/fpps-pia-revised-04222020_0.pdf
   agency: DOI
+  serves: [ DOI, DOJ, Treasury, DHS, DOD, CBP ]
 
 - name: FAFSA Processing System
   id: FPS
+  type: internal
+  category: obligations
   description: The system for receiving and evaluating applications for federal student aid and sharing determinations with universities
   risk: PII of student and parents, include names, address, SSNs, tax information and schools receiving the form
   pia: https://www.ed.gov/sites/ed/files/notices/pia/pia-fps.pdf
@@ -157,6 +218,8 @@
 
 - name: Government-Wide Email System
   id: GWES
+  type: internal
+  category: personnel
   pia: https://www.opm.gov/media/kfpozkad/gwes-pia.pdf
   sorn: https://www.federalregister.gov/documents/2017/12/05/2017-26107/privacy-act-of-1974-system-of-records
   description: A new system developed by DOGE for sending out email to all federal employees and collecting responses. It was most famously used for the Fork in The Road email.
@@ -165,17 +228,31 @@
 
 - name: NOAA Google enterprise systems
   id: Google-NOAA
+  type: saas
+  category: personnel
   description: Not more precisely described, but this seems to be Google Drive and email
   risk: Access to CUI stored in Google Drive at the NOAA
   agency: NOAA
 
 - name: Grants.gov
   id: Grants.gov
-  description: FIXME
+  type: ssp
+  category: obligations
+  description: A system run and administered by HHS that is used for publishing grants, finding recipients and delivering funds
+  agency: HHS
+  serves: [ USDA, Commerce, DOD, Education, Energy, HHS, HUD, DOJ, DOL, State, DOT, VA, EPA, NASA, NARA, NEH, NSF, SBA ]
+
+- name: GrantSolutions
+  id: GrantSolutions
+  type: ssp
+  category: obligations
+  description: A shared-service provider tool for federal agencies to track grants across their entire lifecycles
   agency: HHS
 
 - name: HUD Enforcement Management System
   id: HEMS
+  type: internal
+  category: oversight
   link: https://www.hud.gov/program_offices/fair_housing_equal_opp/system/hems
   description: A database for tracking housing discrimination complaints and enforcement actions, including accusations of domestic violence
   risk: PII and PHI of individuals, including medical records, legal records and case files
@@ -185,6 +262,8 @@
 
 - name: Health Insurance Data Warehouse
   id: HI
+  type: internal
+  category: personnel
   description: System tracking health claims of government employees and their dependents on FEHB health insurance plans
   risk: PII and PHI of government employees and their dependents
   pia: https://www.opm.gov/information-management/privacy-policy/privacy-policy/hidw-pia.pdf
@@ -193,19 +272,27 @@
 
 - name: Healthcare Integrated General Ledger Accounting System
   id: HIGLAS
+  type: internal
+  category: payments
   link: https://www.cms.gov/about-cms/information-systems/higlas/higlas-architecture
   description: A single, integrated dual-entry accounting system that standardizes and centralizes federal financial accounting functions for all of CMS's programs.
+  population: Medical providers and others who would receive disbursements from Medicare or Medicaid
   agency: CMS
 
 - name: HRConnect
+  type: ssp
+  comment: I need to figure out how to better represent agency-specific installations of SSPs like HRConnect or WebTA
+  category: personnel
   id: HRConnect
-  description: HR system for CFPB employees
+  description: HR system for tracking employee information
   risk: PII of CFPB employees, including SSN, home address, and employment records
   sorn: https://www.consumerfinance.gov/privacy/system-records-notices/employee-administrative-records/
   agency: CFPB
 
 - name: Human Resources System
   id: HRS
+  type: internal
+  category: personnel
   description: Collection of systems for human resources, timekeeping and payroll for SSA employees
   risk: PII of SSA employees, including names, SSNs, and payroll information
   pia: https://www.ssa.gov/privacy/pia/HRS%20PIA.htm
@@ -213,6 +300,8 @@
 
 - name: HUD Central Accounting and Processing System
   id: HUDCAPS
+  type: internal
+  category: oversight
   description: Integrated management system for Section 8 programs under the jurisdiction of the Office of Public and Indian Housing
   risk: PII of individuals applying for housing vouchers including medical records and personal narratives
   pia: https://www.hud.gov/sites/dfiles/OCHCO/documents/OCFO33_A75.pdf
@@ -221,11 +310,15 @@
 
 - name: Integrated Contracts Expert
   id: ICE
+  type: internal
+  category: obligations
   description: FIXME
   agency: CDC
 
 - name: Integrated Disbursement and Information System
   id: IDIS
+  type: internal
+  category: oversight
   description: A database for tracking all HUD programs nationwide
   risk: Among other things, it includes hidden locations of domestic violence shelters
   pia: https://www.hud.gov/sites/dfiles/OCHCO/documents/CPD-1IDISPIA.pdf
@@ -233,12 +326,18 @@
 
 - name: Integrated Data Repository
   id: IDR
+  type: internal
+  category: oversight
   description: A data warehouse of all Medicare claims after they have been approved for payment
+  population: Anybody who has received treatment under Medicare
+  risk: This includes highly-sensitive PII and PHI for millions of Americans
   sorn: https://www.hhs.gov/foia/privacy/sorns/09700571/index.html
   agency: CMS
 
 - name: Integrated Data Retrieval System
   id: IDRS
+  type: internal
+  category: taxes
   link: https://www.irs.gov/irm/part2/irm_02-009-001r
   pia: https://www.irs.gov/pub/irs-pia/idrs-pia.pdf
   sorn: https://www.federalregister.gov/documents/2015/09/08/2015-21980/privacy-act-of-1974-as-amended-system-of-records-notice
@@ -248,6 +347,8 @@
 
 - name: Line of Credit Control System
   id: LOCCS
+  type: internal
+  category: payments
   link: https://www.hud.gov/sites/dfiles/CFO/documents/eLOCCS_Getting_Started_Guide-Sept_2022.pdf
   description: Handles disbursement and cash management for the majority of HUD's grant programs
   risk: Access to PII of grant recipients, including names, addresses and bank information
@@ -257,12 +358,16 @@
 
 - name: Master Beneficiary Record
   id: MBR
+  type: internal
+  category: taxes
   description: A large record of all individuals elgible to receive social security benefits
   sorn: https://www.ssa.gov/privacy/sorn/60-0090.pdf
   agency: SSA
 
 - name: NIH Business System
   id: NBS
+  type: internal
+  category: payments
   description: is the central electronic business system of the NIH including the general ledger, finance, budget, procurement, supply, travel, and property management systems. NBS is aimed at improving data consolidation and financial reporting capabilities.
   risk: As a payment system, includes names, SSNs, TINs, and other PII of persons/entities receiving payments from NIH
   sorn: https://www.federalregister.gov/documents/2002/08/22/02-21348/privacy-act-of-1974-proposed-new-system-of-records
@@ -270,6 +375,8 @@
 
 - name: National Directory of New Hires
   id: NDNH
+  type: internal
+  category: taxes
   description: A system for tracking wages and new hires that's used for child support location
   link: https://acf.gov/css/training-technical-assistance/overview-federal-parent-locator-service
   risk: Contains wage information and unemployment claims for all Americans
@@ -279,12 +386,16 @@
 
 - name: Notice to Airmen
   id: NOTAM
+  type: internal
+  category: communications
   description: System for alerting pilots and airports of events that might affect air travel
   link: https://www.faa.gov/about/initiatives/notam/what_is_a_notam
   agency: FAA
 
 - name: National Student Loan Data System (New)
   id: NSLDS
+  type: internal
+  category: obligations
   description: A a comprehensive national database for the Federal financial aid history of recipients of student financial assistance and grants authorized under Title IV of the Higher Education Act of 1965
   risk: PII of students, including names, addresses, SSNs and financial details of student loans
   pia: https://www.ed.gov/about/ed-overview/required-notices/privacy/privacy-impact-assessments-pia
@@ -293,12 +404,16 @@
 
 - name: Notify.gov
   id: Notify.gov
+  type: internal
+  category: communications
   description: System for sending text messages to the public
   risk: Access to PII like phone numbers as well as private information like participation in Medicaid, etc.
   agency: GSA
 
 - name: OSHA Business Information Systems
   id: OBIS
+  type: internal
+  category: oversight
   description: Information gathered as part of whistleblowing and used for enforcement
   risk: PII of individuals reporting problems as well as confidential whistleblower information
   pia: https://www.dol.gov/agencies/oasam/centers-offices/ocio/privacy/osha/obis
@@ -306,12 +421,16 @@
 
 - name: One CDC Data Platform
   id: OneCDC
+  type: internal
+  category: scientific
   description: A system for centralizng health access, public-health data, including hundreds of thousands of daily anonymized lab tests, data from emergency-room visits, and measurements from wastewater disease-reporting sites
   link: https://www.cdc.gov/public-health-data-strategy/php/about/index.html
   agency: CDC
 
 - name: Payment Automation Manager DB
   id: PAM-DB
+  type: internal
+  category: payments
   link: https://fiscal.treasury.gov/pam/
   description: The U.S. government uses the Payment Automation Manager (PAM) to pay all bills, except payments in foreign currency. PAM processed over 1.2 billion payments in FY 2024, valued at over 4.7 trillion dollars. PAM replaced many older systems that Federal Program Agencies used, saving money and increasing efficiency.
   risk: PII/CUI of entities receiving payments, SSNs, TINs, bank account info
@@ -320,6 +439,8 @@
 
 - name: Payment Automation Manager File System
   id: PAM-FS
+  type: internal
+  category: payments
   link: https://fiscal.treasury.gov/pam/
   description: The U.S. government uses the Payment Automation Manager (PAM) to pay all bills, except payments in foreign currency. PAM processed over 1.2 billion payments in FY 2024, valued at over 4.7 trillion dollars. PAM replaced many older systems that Federal Program Agencies used, saving money and increasing efficiency.
   risk: PII/CUI of entities receiving payments, SSNs, TINs, bank account info
@@ -328,6 +449,8 @@
 
 - name: PRISM (CFPB)
   id: PRISM-CFPB
+  type: ssp
+  category: obligations
   description: System for tracking procurement and contracting
   link: https://www.doi.gov/ibc/services/finance/financial-systems/prism
   risk: PII/CUI of contracting recipients
@@ -335,6 +458,8 @@
 
 - name: PRISM (NIH)
   id: PRISM-NIH
+  type: ssp
+  category: obligations
   description: System for tracking procurement and contracting
   link: https://www.doi.gov/ibc/services/finance/financial-systems/prism
   risk: PII/CUI of contracting recipients
@@ -342,6 +467,8 @@
 
 - name: Pegasys
   id: Pegasys
+  type: internal
+  category: payments
   description: Pegasys is the GSA core financial management system of records to make payments and record accounting transactions. This includes funds management (budget execution and purchasing), credit cards, accounts payable, disbursements, standard general ledger, and reporting.
   risk: PII of individuals and companies that receive funds from the GSA
   pia: https://www.gsa.gov/system/files/Pegasys_PIA.pdf
@@ -350,6 +477,8 @@
 
 - name: Secure Payment System
   id: SPS
+  type: internal
+  category: payments
   link: https://www.fiscal.treasury.gov/sps/
   description: Secure Payment System (SPS) is used by federal government agencies to securely create, certify, and submit payments to the Fiscal Service.
   risk: Access to CUI/PII of entities submitting/receiving payments. Access to private encryption keys.
@@ -362,8 +491,16 @@
   description: FIXME
   agency: SSA
 
+- name: SAVE
+  id: SAVE
+  category: immigration
+  description: FIXME
+  agency: USCIS
+
 - name: Social Security Number Establishment and Correction System
   id: SSNEC
+  type: internal
+  category: obligations
   description: The system for issuing new SSNs as well as replacement SSN cards. This system also sources the NUMIDENT files
   risk: PII of individual include SSNs and information submitted on birth certificates
   pia: https://www.ssa.gov/privacy/pia/Social%20Security%20Number%20Establishment%20and%20Correction%20System.updtdSept%2028.htm
@@ -377,6 +514,8 @@
 
 - name: Unaccompanied Alien Children (UAC) Portal
   id: UAC
+  type: internal
+  category: immigration
   description: The UC Portal manages all medical (mental and dental health included), educational, and sponsorship information for UC in ORR custody
   pia: https://www.hhs.gov/sites/default/files/acf-unaccompanied-children-portal.pdf
   sorn: https://www.federalregister.gov/documents/2022/02/08/2022-02535/privacy-act-of-1974-system-of-records
@@ -384,6 +523,8 @@
 
 - name: USAJobs
   id: USAJobs
+  type: ssp
+  category: personnel
   description: Official hiring site for the federal government
   sorn: https://www.federalregister.gov/documents/2014/03/26/2014-06593/privacy-act-of-1974-update-and-amend-system-of-records
   risk: PII of individuals who have applied for federal jobs, including SSN, home address, and employment records
@@ -391,6 +532,8 @@
 
 - name: USA Performance
   id: USAP
+  type: ssp
+  category: personnel
   description: System tracking job performance of federal employees
   risk: PII and performance reviews of federal employees
   sorn: https://www.opm.gov/information-management/privacy-policy/sorn/opm-sorn-govt-2-employee-performance-file-system-records.pdf
@@ -399,6 +542,8 @@
 
 - name: USA Staffing
   id: USAStaffing
+  type: ssp
+  category: personnel
   description: System tracking onboarding of federal employees
   sorn: https://www.federalregister.gov/documents/2021/12/01/2021-26086/privacy-act-of-1974-system-of-records
   risk: agency-specific CUI related to onboarding
@@ -406,12 +551,16 @@
 
 - name: Web Access Security Subsystem
   id: WASS
-  description: System for authorizing access and setting permissions to talk to other systems
+  type: internal
+  category: security
+  description: System for authorizing access and setting permissions to talk to other systems at HUD
   risk: With read-write access, DOGE staff were able to grant and revoke access to other systems without oversight
   agency: HUD
 
 - name: Electronic Disability System
   id: eDib
+  type: internal
+  category: obligations
   description: System for processing disability claims against Social Security
   risk: PII and PHI of individuals applying for disability benefits, including names, SSNs, and medical information related to their disability
   pia: https://www.ssa.gov/privacy/pia/eDib%20PIA%20OPD%20Final_Feb%201,%202018.pdf
@@ -420,22 +569,31 @@
 
 - name: PSSNAP
   id: PSSNAP
-  description: SSN application process data (Phone)
-  type: file
+  type: internal
+  category: obligations
+  description: SSN application process data (Phone). This is a data extract file rather than an independent system
   agency: SSA
 
 - name: IRON
   id: IRON
+  type: internal
+  category: obligations
+  comment: I don't know what this is yet, but there is a mention of access to IRON Website in a SSA declaration
   description: FIXME
   agency: SSA
 
-- name: NxGen
+- name: Next Generation Case Management System
   id: NxGen
-  description: FIXME
+  type: internal
+  category: oversight
+  pia: https://www.nlrb.gov/sites/default/files/attachments/pages/node-172/pia-nxgen-august-2019.pdf
+  description: NxGen is the Agency-wide interactive electronic database of information on the processing of all unfair labor practice and representation cases at all stages. NxGen stores case handling information on all open and closed cases in the agency.
   agency: NLRB
 
 - name: National Farmworker Jobs Program
   id: NFJP
+  type: internal
+  category: immigration
   link: https://www.dol.gov/agencies/eta/agriculture
   sorn: https://www.federalregister.gov/documents/2016/04/29/2016-09510/privacy-act-of-1974-publication-in-full-of-all-notices-of-systems-of-records-including-several-new
   description: The National Farmworker Jobs Program (NFJP) is a nationally-directed, locally-administered program of services for migrant and seasonal farmworkers and their dependents
@@ -443,6 +601,8 @@
 
 - name: Foreign Labor Application Gateway
   id: FLAG
+  type: internal
+  category: immigration
   link: https://flag.dol.gov/
   sorn: https://www.federalregister.gov/documents/2022/02/14/2022-03063/privacy-act-of-1974-system-of-records
   description: This newly-modernized portal will help U.S. employers find qualified workers while ensuring protections for U.S. and foreign workers.
@@ -450,6 +610,8 @@
 
 - name: Reentry Employment Opportunities
   id: REO
+  type: internal
+  category: immigration
   description: The Reentry Employment Opportunities (REO) program provides funding, authorized as Research and Evaluation under Section 169 of the Workforce Innovation and Opportunity Act (WIOA) of 2014, for justice-involved youth and young adults and adults who were formerly incarcerated.
   pia: https://www.dol.gov/agencies/oasam/centers-offices/ocio/privacy/eta/reo
   link: https://www.dol.gov/agencies/eta/reentry
@@ -458,11 +620,13 @@
 - name: Financial Business Intelligence System
   id: FBIS
   description: FIXME
+  link: https://www.hhs.gov/about/agencies/asa/psc/accounting/accounting-services/index.html
   agency: HHS
 
 - name: HHS Unified Financial Management System
   id: UFMS
-  description: FIXME
+  link: https://www.hhs.gov/about/agencies/asa/psc/accounting/accounting-services/index.html
+  description: The Unified Financial Management System (UFMS) is the Department of Health and Human Service's integrated department-wide financial management system which supports all of HHS Program Service Center's Accounting Services and reporting
   agency: HHS
 
 - name: New Core Financial Management System
@@ -483,5 +647,7 @@
 
 - name: CFPB Physical Access Control
   id: CFPB-PAC
+  type: internal
+  category: security
   description: Physical access controls at the CFPB
   agency: CFPB

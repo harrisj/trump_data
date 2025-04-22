@@ -12,6 +12,11 @@
             "description": "An ID for the system (usually an acronym)",
             "$ref": "valid_names.json#system_ids"
         },
+        "type": {
+            "description": "What type of system is this?",
+            "$comment": "Internal = used mainly inside a single agency (can be public); SaaS is a tool like Google/Salesforce (enterprise, used at a single agency); SSP is a Shared Service Provider like GrantSolutions",
+            "enum": ["internal", "saas", "ssp", "unknown"]
+        },
         "agency": {
             "description": "Can be a single agency or an array of agencies affected/involved in the event",
             "anyOf": [
@@ -30,8 +35,20 @@
             "description": "A description of the system",
             "type": "string"
         },
+        "comment": {
+            "description": "For comments and notes on this system",
+            "type": "string"
+        },
+        "category": {
+            "description": "Specific categories of systems that DOGE seem to be interested in",
+            "enum": ["payments", "personnel", "obligations", "immigration", "taxes", "oversight", "communications", "scientific", "security"]
+        },
+        "population": {
+            "description": "A short description of what people's records are in the system",
+            "type": "string"
+        },
         "risk": {
-            "description": "A short description of the risks associated with DOGE accessing the system",
+            "description": "A short description of the date risks associated with DOGE accessing the system",
             "type": "string"
         },
         "link": {
@@ -45,9 +62,16 @@
             "format": "uri"
         },
         "sorn": {
-            "description": "A URL linking to the SORN for the system",
+            "description": "A URL linking to a single SORN for the system if applicable (but read PIA for SORNs)",
             "type": "string",
             "format": "uri"
+        },
+        "serves": {
+            "description": "For SaaS tools, a list of agencies that use it as a service",
+            "type": "array",
+            "items": {
+                "$ref": "valid_names.json#agency_ids"
+            }
         }
     },
     "required": [
