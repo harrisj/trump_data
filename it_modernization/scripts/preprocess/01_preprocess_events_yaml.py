@@ -22,9 +22,9 @@ def read_events(file_path):
 
 
 # Example usage
-file_path = "./raw_data/events.yaml"
+src_path = "raw_data/events.yaml"
 events_data = read_events(file_path)
-output_file = "./raw_data/events_sorted.yaml"
+output_file = "raw_data/events_sorted.yaml"
 with open(output_file, "w") as file:
     file.write("# yaml-language-server: $schema=../schemas/events-file.json\n")
     file.write(

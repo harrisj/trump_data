@@ -550,10 +550,6 @@
 
 - date: 2025-01-28
   type: report
-  access_systems:
-  - PAM
-  - SPS
-  - ASAP
   event: Marko Elez is provided with a laptop from Treasury with with copies of the source code for PAM, SPS, and ASAP in a separate, secure coding environment known as a "secure code repository" or "sandbox."
   named:
   - Marko Elez
@@ -1601,7 +1597,7 @@
   type: access_granted
   access_type: read
   access_systems:
-  - SSNEC-Sandbox
+  - NUMIDENT
   event: Akash Bobba is rapidly trained and is granted access to anonymized and read-only "sandbox" NUMIDENT data from SSNEC for his purported fraud investigations
   source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
   named:
@@ -3863,7 +3859,7 @@
 
 - date: 2025-03-07
   type: promotion
-  event: Tyler Hassen is promoted to Acting Assistant Secretary of Policy, Management and Budget
+  event: Tyler Hassen is promoted to Acting Assistant Secretary of Policy, Management and Budget in the Interior Department
   named:
   - Tyler Hassen
   source: https://www.eenews.net/articles/doge-official-appointed-head-of-policy-at-interior/
@@ -4289,7 +4285,7 @@
   type: access_granted
   event: Unidentified "Employee 7" at Social Security Administration is granted access to the USCIS SAVE system
   access_systems:
-  - USCIS-SAVE
+  - SAVE
   named_aliases:
   - SSA-7
   agency: SSA
@@ -4438,8 +4434,6 @@
 - date: 2025-03-17
   type: access_granted
   access_systems:
-  - SSA-EDW
-  access_scope:
   - NUMIDENT
   - MBR
   - SSR

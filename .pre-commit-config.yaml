@@ -18,13 +18,13 @@ repos:
     name: Preprocess the events file
     types: [ file ]
     files: it_modernization/raw_data/events.yaml
-    entry: "cd ./id_modernization && pipenv run it_modernization/scripts/preprocess/01_preprocess_events_yaml.py"
+    entry: "cd ./it_modernization && pipenv run python scripts/preprocess/01_preprocess_events_yaml.py"
     language: system
   - id: preprocess-join-csvs
     name: Preprocess the join table CSVs
     types: [ file ]
     files: it_modernization/raw_data/events.yaml
-    entry: "cd ./id_modernization && pipenv run it_modernization/scripts/preprocess/01_preprocess_join_tables_csv.py"
+    entry: "cd ./it_modernization && pipenv run python scripts/preprocess/02_preprocess_join_table_csvs.py"
     language: system
   # - id: pre-commit-modernization
   #   name: "IT Modernization Pre-Commit"
