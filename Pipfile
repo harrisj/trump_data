@@ -11,6 +11,7 @@ bs4 = "*"
 pyyaml = "*"
 edtf = "*"
 pydantic = "*"
+shortuuid = "*"
 
 [dev-packages]
 black = "*"

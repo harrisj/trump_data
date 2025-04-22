@@ -1,21 +1,28 @@
 '''Reorganizes the events yaml file by ascending date'''
 import yaml
 import os
+import shortuuid
 from util import read_raw_events, create_dumper
 
-# Function to read a YAML file
-def read_events_yaml(file_path):
-    events = read_raw_events()
+def add_id(e):
+    if 'id' not in e:
+        id = shortuuid.uuid()[:8]
+        e['id'] = id
 
-    sorted_events = sorted(events, key=lambda x: x['date'])
-    return sorted_events
+def read_events(file_path):
+    events = read_raw_events()
+    for event in events:
+        add_id(event)
+
+    events.sort(key=lambda x: x['date'])
+    return events
 
 # Example usage
 file_path = './raw_data/events.yaml'
-people_data = read_events_yaml(file_path)
+events_data = read_events(file_path)
 output_file = './raw_data/events_sorted.yaml'
 with open(output_file, 'w') as file:
     file.write("# yaml-language-server: $schema=../schemas/events-file.json\n")
-    file.write(yaml.dump(people_data, Dumper=create_dumper(1), indent=2, width=1000, sort_keys=False))
+    file.write(yaml.dump(events_data, Dumper=create_dumper(1), indent=2, width=1000, sort_keys=False))
 
 os.replace(output_file, file_path)

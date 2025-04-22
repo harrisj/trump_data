@@ -25,6 +25,7 @@ aliases:
     - OPM-3
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
     agency: OPM
+    id: 55SxqiCv
 
 - id: OPM-3
   agency: OPM
@@ -44,6 +45,7 @@ aliases:
     - OPM-3
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
     agency: OPM
+    id: 55SxqiCv
   - date: 2025-02-12
     type: onboarded
     onboard_type: detailed
@@ -57,6 +59,7 @@ aliases:
     - OPM-3
     - ED-1
     agency: SSA
+    id: bq9D57fe
   - date: 2025-02-12
     type: official
     named_aliases:
@@ -67,6 +70,7 @@ aliases:
     agency:
     - OPM
     - SSA
+    id: JbqPxwcC
   details:
   - id: 20250212-ssa-opm-education-sge
     from: SSA
@@ -103,6 +107,7 @@ aliases:
     - OPM-4
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
     agency: OPM
+    id: NZhdNuo5
 
 - id: OPM-5
   agency: OPM
@@ -121,6 +126,7 @@ aliases:
     - OPM-5
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
     agency: OPM
+    id: VikxYwt5
   - date: 2025-02-18
     type: promotion
     event: Unidentified employee OPM-5's appointment is changed to not being provisional
@@ -128,6 +134,7 @@ aliases:
     - OPM-5
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
     agency: OPM
+    id: MBEkaKjN
 
 - id: OPM-6
   agency: OPM
@@ -142,6 +149,7 @@ aliases:
     - OPM-6
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
     agency: OPM
+    id: hkA2xC7R
 
 - id: ED-1
   agency: Education
@@ -162,6 +170,7 @@ aliases:
     named_aliases:
     - ED-1
     agency: Education
+    id: FTNCaSHd
   - date: 2025-02-12
     type: onboarded
     onboard_type: detailed
@@ -175,6 +184,7 @@ aliases:
     - OPM-3
     - ED-1
     agency: SSA
+    id: bq9D57fe
   - date: 2025-02-12
     type: onboarded
     onboard_type: detailed
@@ -188,6 +198,7 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     agency:
     - Education
+    id: dchWbmU5
   details:
   - id: 20250212-opm-education-ed-1
     from: OPM
@@ -222,6 +233,7 @@ aliases:
     comment: Redacted in hiring letter, but identified later in filing
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     agency: Education
+    id: MJvtgrEA
 
 - id: ED-3
   agency: Education
@@ -243,6 +255,7 @@ aliases:
     named_aliases:
     - ED-3
     agency: Education
+    id: HF6U3Sft
   - date: 2025-02-12
     type: official
     detail_id: 20250212-gsa-education-ed-3
@@ -252,6 +265,7 @@ aliases:
       being a GSE who is not paid nor will need to be reimbursed.
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     agency: Education
+    id: Wfox3Em6
   details:
   - id: 20250212-gsa-education-ed-3
     from: SSA
@@ -285,6 +299,7 @@ aliases:
     - ED-4
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
     agency: Education
+    id: P3qrjvd2
 
 - id: SSA-1
   agency: SSA
@@ -305,6 +320,7 @@ aliases:
     - SSA-1
     agency: SSA
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    id: HauBMsdH
   - date: 2025-02-13
     type: onboarded
     event: According to a sworn declaration by a Deputy Commissioner at SSA, an unindentified DOGE staffer (Employee 1) is
@@ -315,6 +331,7 @@ aliases:
     - SSA-1
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     agency: SSA
+    id: fJn7Fijf
   - date: 2025-03-12
     type: legal
     event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
@@ -334,6 +351,7 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     case_no: 1:25-cv-00339
     agency: SSA
+    id: 7mtGbnRJ
   - date: 2025-03-27
     type: report
     event: In a sworn declaration, Leland Dudek justifies access to PII in SSA records for Employee 1, Employee 5, Employee
@@ -348,6 +366,7 @@ aliases:
     named:
     - Leland Dudek
     agency: SSA
+    id: aympP8hu
 
 - id: SSA-2
   agency: SSA
@@ -372,6 +391,7 @@ aliases:
     - Scott Coulter
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     agency: SSA
+    id: ZffPUbPY
   - date: 2025-02-18
     type: onboarded
     onboard_type: detailed
@@ -381,6 +401,7 @@ aliases:
     - SSA-2
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
     agency: SSA
+    id: UXPTq7wP
   - date: 2025-03-12
     type: legal
     event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
@@ -400,6 +421,7 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     case_no: 1:25-cv-00339
     agency: SSA
+    id: 7mtGbnRJ
   - date: 2025-03-25
     type: promotion
     named_aliases:
@@ -407,6 +429,7 @@ aliases:
     event: Unidentified "Employee 2" at SSA submits a signed appointment affadavit for the position of Chief Information Officer
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
     agency: SSA
+    id: 6c4NxSDB
   details:
   - id: 20250306-nasa-ssa-employee-2
     from: NASA
@@ -449,6 +472,7 @@ aliases:
       currently relate to improper payments and SSA's Death Master File."
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     agency: SSA
+    id: YHZU6UQD
   - date: 2025-02-18
     type: onboarded
     onboard_type: detailed
@@ -458,6 +482,7 @@ aliases:
     - SSA-3
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
     agency: SSA
+    id: fhML8Diw
   - date: 2025-03-12
     type: legal
     event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
@@ -477,6 +502,7 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     case_no: 1:25-cv-00339
     agency: SSA
+    id: 7mtGbnRJ
   details:
   - id: 20250222-dol-ssa-employee-3
     from: DOL
@@ -511,6 +537,7 @@ aliases:
     - SSA-4
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
     agency: SSA
+    id: T4uJvZZy
   - date: 2025-02-27
     type: onboarded
     onboard_type: hired
@@ -521,6 +548,7 @@ aliases:
     event: According to a sworn declaration, "Employees 4, 6, and 9 were each appointed as an expert, special government employee"
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     agency: SSA
+    id: JUcXdAh2
   - date: 2025-03-12
     type: legal
     event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
@@ -540,6 +568,7 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     case_no: 1:25-cv-00339
     agency: SSA
+    id: 7mtGbnRJ
 
 - id: SSA-5
   agency: SSA
@@ -559,6 +588,7 @@ aliases:
       United States DOGE Service to SSA" with an inter-agency agreement to DOGE.
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     agency: SSA
+    id: MipJ2cYB
   - date: 2025-02-28
     type: official
     event: Via email, "Employee 5" of the DOGE team at SSA requests and receives approval from Leland Dudek to run a program
@@ -570,6 +600,7 @@ aliases:
     case_no: 1:25-cv-00596
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
+    id: 5KzocaBU
   - date: 2025-03-12
     type: legal
     event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
@@ -589,6 +620,7 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     case_no: 1:25-cv-00339
     agency: SSA
+    id: 7mtGbnRJ
   - date: 2025-03-12
     type: access_granted
     access_type: unknown
@@ -602,6 +634,7 @@ aliases:
     case_no: 1:25-cv-00596
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
+    id: 2FxxmH4p
   - date: 2025-03-14
     type: report
     event: Leland Dudek approves for "Employee 5" to run the proposed tool for death data improvement
@@ -609,6 +642,7 @@ aliases:
     named_aliases:
     - SSA-5
     agency: SSA
+    id: SYJpQj5D
   - date: 2025-03-27
     type: report
     event: In a sworn declaration, Leland Dudek justifies access to PII in SSA records for Employee 1, Employee 5, Employee
@@ -623,6 +657,7 @@ aliases:
     named:
     - Leland Dudek
     agency: SSA
+    id: aympP8hu
 
 - id: SSA-6
   agency: SSA
@@ -639,6 +674,7 @@ aliases:
     - SSA-6
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
     agency: SSA
+    id: QJ48Lf4Y
   - date: 2025-02-27
     type: onboarded
     onboard_type: hired
@@ -649,6 +685,7 @@ aliases:
     event: According to a sworn declaration, "Employees 4, 6, and 9 were each appointed as an expert, special government employee"
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     agency: SSA
+    id: JUcXdAh2
   - date: 2025-03-12
     type: legal
     event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
@@ -668,6 +705,7 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     case_no: 1:25-cv-00339
     agency: SSA
+    id: 7mtGbnRJ
   - date: 2025-03-17
     type: access_granted
     access_systems:
@@ -687,6 +725,7 @@ aliases:
     case_no: 1:25-cv-00596
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
+    id: P5C4nMDk
 
 - id: SSA-7
   agency: SSA
@@ -705,6 +744,7 @@ aliases:
       (DOL) to SSA."
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     agency: SSA
+    id: Yohq6GxY
   - date: 2025-03-05
     type: onboarded
     onboard_type: detailed
@@ -714,6 +754,7 @@ aliases:
     - SSA-7
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
     agency: SSA
+    id: W8mMryg3
   - date: 2025-03-05
     type: onboarded
     onboard_type: detailed
@@ -723,6 +764,7 @@ aliases:
     - SSA-7
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
     agency: SSA
+    id: nSvvNuKp
   - date: 2025-03-12
     type: legal
     event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
@@ -742,6 +784,7 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     case_no: 1:25-cv-00339
     agency: SSA
+    id: 7mtGbnRJ
   - date: 2025-03-15
     type: access_granted
     event: Unidentified "Employee 7" at Social Security Administration is granted access to the USCIS SAVE system
@@ -750,6 +793,7 @@ aliases:
     named_aliases:
     - SSA-7
     agency: SSA
+    id: QGJK7cSa
   - date: 2025-03-17
     type: access_granted
     access_systems:
@@ -769,6 +813,7 @@ aliases:
     case_no: 1:25-cv-00596
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
+    id: P5C4nMDk
   details:
   - id: 20250317-dol-ssa-employee-7
     from: DOL
@@ -802,6 +847,7 @@ aliases:
     - SSA-10
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
     agency: SSA
+    id: QCqyEhNT
   - date: 2025-03-12
     type: legal
     event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
@@ -821,6 +867,7 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     case_no: 1:25-cv-00339
     agency: SSA
+    id: 7mtGbnRJ
   - date: 2025-03-27
     type: report
     event: In a sworn declaration, Leland Dudek justifies access to PII in SSA records for Employee 1, Employee 5, Employee
@@ -835,6 +882,7 @@ aliases:
     named:
     - Leland Dudek
     agency: SSA
+    id: aympP8hu
   details:
   - id: 20250226-opm-ssa-employee-8
     from: OPM
@@ -873,6 +921,7 @@ aliases:
     - SSA-9
     agency: SSA
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    id: NyUksNNq
   - date: 2025-02-27
     type: onboarded
     onboard_type: hired
@@ -883,6 +932,7 @@ aliases:
     event: According to a sworn declaration, "Employees 4, 6, and 9 were each appointed as an expert, special government employee"
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     agency: SSA
+    id: JUcXdAh2
   - date: 2025-03-12
     type: legal
     event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
@@ -902,6 +952,7 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     case_no: 1:25-cv-00339
     agency: SSA
+    id: 7mtGbnRJ
   - date: 2025-03-14
     type: access_granted
     access_systems:
@@ -913,6 +964,7 @@ aliases:
     case_no: 1:25-cv-00596
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
+    id: EESeoHoc
   - date: 2025-03-17
     type: access_granted
     access_systems:
@@ -932,6 +984,7 @@ aliases:
     case_no: 1:25-cv-00596
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
+    id: P5C4nMDk
   - date: 2025-03-19
     type: report
     event: Leland Dudek approves access of "Employee 9" of the DOGE team at SSA for some additional schemas in PSSNAP
@@ -941,6 +994,7 @@ aliases:
     case_no: 1:25-cv-00596
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
+    id: Pej3DDWx
   - date: 2025-03-27
     type: report
     event: In a sworn declaration, Leland Dudek justifies access to PII in SSA records for Employee 1, Employee 5, Employee
@@ -955,6 +1009,7 @@ aliases:
     named:
     - Leland Dudek
     agency: SSA
+    id: aympP8hu
 
 - id: SSA-10
   agency: SSA
@@ -975,6 +1030,7 @@ aliases:
     - SSA-10
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
     agency: SSA
+    id: QCqyEhNT
   - date: 2025-02-19
     type: onboarded
     onboard_type: detailed
@@ -986,6 +1042,7 @@ aliases:
     - SSA-10
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     agency: SSA
+    id: nELdReWG
   - date: 2025-03-12
     type: legal
     event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
@@ -1005,6 +1062,7 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     case_no: 1:25-cv-00339
     agency: SSA
+    id: 7mtGbnRJ
   details:
   - id: 20250218-gsa-ssa-employee-10
     from: GSA
@@ -1042,6 +1100,7 @@ aliases:
     - SSA-11
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
     agency: SSA
+    id: msDZFCYH
   - date: 2025-04-07
     type: access_granted
     event: Unidentified "Employee 11" is accidentally granted access to SSA systems that DOGE was banned from by the court
@@ -1050,6 +1109,7 @@ aliases:
     - SSA-11
     source: https://www.washingtonpost.com/politics/2025/04/15/doge-social-security-data-judge/
     agency: SSA
+    id: eQa8HrRp
   - date: 2025-04-08~
     type: access_granted
     fuzz: Source does not provide a date.
@@ -1059,6 +1119,7 @@ aliases:
     - SSA-11
     source: https://www.washingtonpost.com/politics/2025/04/15/doge-social-security-data-judge/
     agency: SSA
+    id: UainUGPT
 
 - id: CFPB-1
   agency: CFPB
@@ -1083,6 +1144,7 @@ aliases:
       for the CFPB's website
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
     agency: CFPB
+    id: LRKRjiXo
   - date: 2025-02-07
     type: disruption
     event: The CFPB homepage is deleted and returns a 404 error
@@ -1090,6 +1152,7 @@ aliases:
     - CFPB-1
     source: https://www.forbes.com/sites/eriksherman/2025/02/09/consumer-financial-protection-bureau-adds-error-message-to-home-page/
     agency: CFPB
+    id: 2fUJZPvu
 
 - id: CFPB-2
   agency: CFPB
@@ -1115,3 +1178,4 @@ aliases:
     - FBI-1
     source: https://www.nbcnews.com/politics/national-security/people-ties-musk-top-fbi-critic-are-advising-fbi-director-rcna189567
     agency: FBI
+    id: gBSE6bzh
