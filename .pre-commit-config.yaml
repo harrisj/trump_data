@@ -19,16 +19,76 @@ repos:
     types: [ file ]
     files: it_modernization/raw_data/events.yaml
     entry: "cd ./it_modernization && pipenv run python scripts/preprocess/01_preprocess_events_yaml.py"
+    pass_filenames: false
     language: system
   - id: preprocess-join-csvs
     name: Preprocess the join table CSVs
     types: [ file ]
     files: it_modernization/raw_data/events.yaml
+    pass_filenames: false
     entry: "cd ./it_modernization && pipenv run python scripts/preprocess/02_preprocess_join_table_csvs.py"
     language: system
-  # - id: pre-commit-modernization
-  #   name: "IT Modernization Pre-Commit"
-  #   types: [ file ]
-  #   files: it_modernization
-  #   entry: "it_modernization/scripts/publish"
-  #   language: script
+
+  - id: generate-aliases-yaml
+    name: Generate the aliases file
+    types: [ file ]
+    files: it_modernization/raw_data/
+    pass_filenames: false
+    entry: "cd ./it_modernization && pipenv run python scripts/generate/01_generate_aliases_yaml.py"
+    language: system
+
+  - id: generate-events-yaml
+    name: Generate the aliases file
+    types: [ file ]
+    files: it_modernization/(aliases.yaml|raw_data/)
+    pass_filenames: false
+    entry: "cd ./it_modernization && pipenv run python scripts/generate/02_generate_events_yaml.py"
+    language: system
+
+  - id: generate-events-csv
+    name: Generate the aliases file
+    types: [ file ]
+    files: it_modernization/(events.yaml|raw_data/)
+    pass_filenames: false
+    entry: "cd ./it_modernization && pipenv run python scripts/generate/03_generate_events_yaml.py"
+    language: system
+
+  - id: generate-postings-yaml
+    name: Generate the aliases file
+    types: [ file ]
+    files: it_modernization/(events.yaml|raw_data/)
+    pass_filenames: false
+    entry: "cd ./it_modernization && pipenv run python scripts/generate/04_generate_postings_yaml.py"
+    language: system
+
+  - id: generate-people-yaml
+    name: Generate the aliases file
+    types: [ file ]
+    files: it_modernization/(events.yaml|raw_data/)
+    pass_filenames: false
+    entry: "cd ./it_modernization && pipenv run python scripts/generate/05_generate_people_yaml.py"
+    language: system
+
+  - id: generate-people-yaml
+    name: Generate the aliases file
+    types: [ file ]
+    files: it_modernization/(events.yaml|raw_data/)
+    pass_filenames: false
+    entry: "cd ./it_modernization && pipenv run python scripts/generate/05_generate_agency_comprehensive_yaml.py"
+    language: system
+
+  - id: generate-mermaid-chart
+    name: Generate the aliases file
+    types: [ file ]
+    files: it_modernization/(postings.yaml|raw_data/)
+    pass_filenames: false
+    entry: "cd ./it_modernization && pipenv run python scripts/generate/07_generate_mermaid_chart_md.py"
+    language: system
+
+  - id: generate-agency-staffing-chart
+    name: Generate the aliases file
+    types: [ file ]
+    files: it_modernization/(postings.yaml|raw_data/)
+    pass_filenames: false
+    entry: "cd ./it_modernization && pipenv run python scripts/generate/08_generate_agency_mermaid.py"
+    language: system
