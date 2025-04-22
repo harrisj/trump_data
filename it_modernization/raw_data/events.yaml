@@ -1652,7 +1652,7 @@
 
 - date: 2025-02-11
   type: disruption
-  event: CFPB Contracting Officers (COs) are ordered to terminate the vast majority of CFPB's contracts during that weekend
+  event: CFPB Contracting Officers (COs) are ordered to terminate the vast majority of CFPB's contracts over the weekend
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.38.4.pdf
   agency: CFPB
   id: Ku4aQCfT
@@ -1858,7 +1858,7 @@
 
 - date: 2025-02-13
   type: official
-  event: DOGE announces its website is now live with an organizational chart and tweets
+  event: DOGE announces that its website is now live with an organizational chart and tweets
   source: https://xcancel.com/DOGE/status/1889897384122982604#m
   agency: DOGE
   id: dKmuYfJv
