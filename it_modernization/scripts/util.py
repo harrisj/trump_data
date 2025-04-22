@@ -89,6 +89,9 @@ def read_raw_cases(path = './raw_data/cases.yaml'):
 def read_raw_cases_dict(path = './raw_data/cases.yaml'):
     return read_yaml_as_dict(path, "case_no")
 
+def read_raw_systems_dict(path = './raw_data/systems.yaml'):
+    return read_yaml_as_dict(path, "id")
+
 def read_raw_agencies(path = './raw_data/agencies.yaml'):
     return read_yaml(path)
 

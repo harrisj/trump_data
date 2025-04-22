@@ -663,14 +663,13 @@ people:
       event: Four DOGE staffers have email addresses linked to NIH
     - date: 2025-02-24
       agency: NIH
-      type: access_granted
+      type: report
       event: Three DOGE staffers are placed within the NIH Business System Department for access to NIH's central electronic
         business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
     - date: 2025-02-24
       agency: NIH
       type: access_granted
-      event: Rachel Riley is granted read-only access to the NIH Business System EBS and PRISM systems by the NIH Office of
-        the CIO
+      event: Rachel Riley is granted read-only access to the NIH PRISM systems by the NIH Office of the CIO
     - date: 2025-03-13
       agency: HHS
       type: report
@@ -822,26 +821,26 @@ people:
         is subject to additional ethics requirements.
     - date: 2025-01-28
       agency: Treasury
-      type: access_granted
+      type: report
       event: Marko Elez is provided with a laptop from Treasury with with copies of the source code for PAM, SPS, and ASAP
         in a separate, secure coding environment known as a "secure code repository" or "sandbox."
     - date: 2025-01-29
       agency: Treasury
-      type: access_changed
-      event: A ticket for systems access is issued to give Marko Elez read-write access to PAM
+      type: access_granted
+      event: A ticket for systems access is issued to give Marko Elez read-write access to PAM-DB
     - date: 2025-01-30
       agency: Treasury
       type: access_changed
-      event: A ticket for systems access is corrected to note that Marko Elez should only have read-only access to the PAM
+      event: A ticket for systems access is corrected to note that Marko Elez should only have read-only access to the PAM-DB
         system
     - date: 2025-01-31
       agency: Treasury
       type: access_changed
-      event: A ticket for systems access is corrected to change Marko Elez's access from read-only to read-write for the PAM
+      event: A ticket for systems access is corrected to change Marko Elez's access from read-only to read-write for the PAM-DB
     - date: 2025-02-01
       agency: Treasury
       type: access_changed
-      event: Another ticket is filed to remove write access from Marko Elez's profile in the PAM system
+      event: Another ticket is filed to remove write access from Marko Elez's profile in the PAM-DB system
     - date: 2025-02-01
       agency: Treasury
       type: report
@@ -849,8 +848,7 @@ people:
     - date: 2025-02-03
       agency: Treasury
       type: access_granted
-      event: Marko Elez is provided read-only access to the Payment Automation Manager (PAM) Database, Payment Automation
-        Manager (PAM) File System
+      event: Marko Elez is provided read-only access to the Payment Automation Manager (PAM) File System
     - date: 2025-02-03
       agency: Treasury
       type: report
@@ -962,10 +960,16 @@ people:
       event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias,
         Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft
         Teams directory at SSA
+    - date: 2025-03-15
+      agency: SSA
+      type: access_granted
+      event: Unidentified "Employee 7" at Social Security Administration is granted access to the USCIS SAVE system
     - date: 2025-03-17
       agency: SSA
       type: access_granted
-      event: Employees "6, 7 and 9" are approved to access systems for claims benefit applications
+      event: Employees "6, 7 and 9" are approved to access the SSA Enterprise Data Warehouse to access the Numident, Master
+        Beneficiary Record (MBR) and Supplemental Security Record (SSR) master records, as well as copies of SSA payment files
+        that SSA transmits to the Department of the Treasury, Bureau of the Fiscal Service (BFS) for payment
     - date: 2025-03-19
       agency: DOL
       type: report
@@ -1074,7 +1078,7 @@ people:
         them access to all physical spaces and IT systems
     - date: 2025-02-03
       agency: SBA
-      type: access_granted
+      type: report
       event: Email to SBA staff announces that Edward Coristine was granted access to all systems including HR, contract,
         and payment systems.
     - date: 2025-02-05
@@ -1307,7 +1311,7 @@ people:
       event: Four DOGE staffers have email addresses linked to NIH
     - date: 2025-02-24
       agency: NIH
-      type: access_granted
+      type: report
       event: Three DOGE staffers are placed within the NIH Business System Department for access to NIH's central electronic
         business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
     - date: 2025-02-28
@@ -1367,10 +1371,6 @@ people:
       type: report
       event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff
         who have worked at HHS
-    - date: 2025-04-04
-      agency: HHS
-      type: access_revoked
-      event: In a status report, HHS reports that Luke Farritor's HCAS access has been revoked
     - date: 2025-04-08
       agency: GSA
       type: report
@@ -1469,7 +1469,7 @@ people:
       event: ED-3 is detailed from GSA to the Department of Education
     - date: 2025-02-08
       agency: Education
-      type: access_granted
+      type: report
       event: NBC News reports that Akash Bobba and Ethan Shaotran have admin access to email and had also accessed the website
         backend
     - date: 2025-02-12
@@ -2125,7 +2125,7 @@ people:
       event: Unidentified employee ED-1 is detailed from OPM to the Department of Education
     - date: 2025-02-08
       agency: Education
-      type: access_granted
+      type: report
       event: NBC News reports that Akash Bobba and Ethan Shaotran have admin access to email and had also accessed the website
         backend
     - date: 2025-02-10
@@ -2635,7 +2635,9 @@ people:
     - date: 2025-03-17
       agency: SSA
       type: access_granted
-      event: Employees "6, 7 and 9" are approved to access systems for claims benefit applications
+      event: Employees "6, 7 and 9" are approved to access the SSA Enterprise Data Warehouse to access the Numident, Master
+        Beneficiary Record (MBR) and Supplemental Security Record (SSR) master records, as well as copies of SSA payment files
+        that SSA transmits to the Department of the Treasury, Bureau of the Fiscal Service (BFS) for payment
     - date: 2025-03-25
       agency: VA
       type: report
@@ -2680,22 +2682,18 @@ people:
         Teams directory at SSA
     - date: 2025-03-14
       agency: SSA
-      type: official
-      event: Via email, 'Employee 9' of the DOGE team at SSA requests access to highly-confidential PSSNAP data to review
-        beneficiaries
+      type: access_granted
+      event: Leland Dudek approves access of "Employee 9" to review PSSNAP data with the Enterprise Data Warehouse
     - date: 2025-03-17
       agency: SSA
       type: access_granted
-      event: Employees "6, 7 and 9" are approved to access systems for claims benefit applications
-    - date: 2025-03-18
-      agency: SSA
-      type: access_granted
-      event: Leland Dudek approves access of "Employee 9" for additional PSSNAP schema to view Title II beneficiaries
+      event: Employees "6, 7 and 9" are approved to access the SSA Enterprise Data Warehouse to access the Numident, Master
+        Beneficiary Record (MBR) and Supplemental Security Record (SSR) master records, as well as copies of SSA payment files
+        that SSA transmits to the Department of the Treasury, Bureau of the Fiscal Service (BFS) for payment
     - date: 2025-03-19
       agency: SSA
-      type: access_granted
-      event: Leland Dudek approves access of "Employee 9" of the DOGE team at SSA to highly-confidential PSSNAP data to review
-        beneficiaries
+      type: report
+      event: Leland Dudek approves access of "Employee 9" of the DOGE team at SSA for some additional schemas in PSSNAP
     - date: 2025-03-25
       agency: USCIS
       type: access_granted
@@ -2813,16 +2811,12 @@ people:
       type: report
       event: CIO Mike Russo convenes his own internal informational group in SSA, has conversations with other agencies about
         data sharing, does not inform acting SSA Director, Michelle King
-    - date: 2025-02-15
-      agency: SSA
-      type: access_granted
-      event: Akash Bobba reports issue with the "sandbox" data. Russo demands he gets immediate full access to Enterprise
-        Data Warehouse (EDW), Master Beneficiary Record (MBR) and Supplemental Security Record (SSR) files as well as source
-        code
     - date: 2025-02-19
       agency: SSA
       type: official
-      event: SSA CIO Mike Russo emails Leland Dudek to grant access to EDW for several "members of [his] team"
+      event: SSA CIO Mike Russo emails Leland Dudek request access to EDW for several "members of [his] team" for Numident,
+        Master Beneficiary Record (MBR) and Supplemental Security Record (SSR) master records, as well as copies of SSA payment
+        files that SSA transmits to the Department of the Treasury, Bureau of the Fiscal Service (BFS) for payment
     - date: 2025-03-24
       agency: SSA
       type: disruption
@@ -3069,7 +3063,9 @@ people:
     - date: 2025-02-19
       agency: SSA
       type: official
-      event: SSA CIO Mike Russo emails Leland Dudek to grant access to EDW for several "members of [his] team"
+      event: SSA CIO Mike Russo emails Leland Dudek request access to EDW for several "members of [his] team" for Numident,
+        Master Beneficiary Record (MBR) and Supplemental Security Record (SSR) master records, as well as copies of SSA payment
+        files that SSA transmits to the Department of the Treasury, Bureau of the Fiscal Service (BFS) for payment
     - date: 2025-02-20
       agency: SSA
       type: report
@@ -3240,7 +3236,7 @@ people:
       event: Four DOGE staffers have email addresses linked to NIH
     - date: 2025-02-24
       agency: NIH
-      type: access_granted
+      type: report
       event: Three DOGE staffers are placed within the NIH Business System Department for access to NIH's central electronic
         business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
 

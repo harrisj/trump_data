@@ -310,16 +310,31 @@
   link: https://www.cdc.gov/public-health-data-strategy/php/about/index.html
   agency: CDC
 
-- name: Payment Automation Manager
-  id: PAM
+- name: Payment Automation Manager DB
+  id: PAM-DB
   link: https://fiscal.treasury.gov/pam/
   description: The U.S. government uses the Payment Automation Manager (PAM) to pay all bills, except payments in foreign currency. PAM processed over 1.2 billion payments in FY 2024, valued at over 4.7 trillion dollars. PAM replaced many older systems that Federal Program Agencies used, saving money and increasing efficiency.
   risk: PII/CUI of entities receiving payments, SSNs, TINs, bank account info
   pia: https://www.fiscal.treasury.gov/files/pia/pampclia.pdf
   agency: Treasury
 
-- name: PRISM
-  id: PRISM
+- name: Payment Automation Manager File System
+  id: PAM-FS
+  link: https://fiscal.treasury.gov/pam/
+  description: The U.S. government uses the Payment Automation Manager (PAM) to pay all bills, except payments in foreign currency. PAM processed over 1.2 billion payments in FY 2024, valued at over 4.7 trillion dollars. PAM replaced many older systems that Federal Program Agencies used, saving money and increasing efficiency.
+  risk: PII/CUI of entities receiving payments, SSNs, TINs, bank account info
+  pia: https://www.fiscal.treasury.gov/files/pia/pampclia.pdf
+  agency: Treasury
+
+- name: PRISM (CFPB)
+  id: PRISM-CFPB
+  description: System for tracking procurement and contracting
+  link: https://www.doi.gov/ibc/services/finance/financial-systems/prism
+  risk: PII/CUI of contracting recipients
+  agency: CFPB
+
+- name: PRISM (NIH)
+  id: PRISM-NIH
   description: System for tracking procurement and contracting
   link: https://www.doi.gov/ibc/services/finance/financial-systems/prism
   risk: PII/CUI of contracting recipients
@@ -405,7 +420,8 @@
 
 - name: PSSNAP
   id: PSSNAP
-  description: FIXME
+  description: SSN application process data (Phone)
+  type: file
   agency: SSA
 
 - name: IRON

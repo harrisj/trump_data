@@ -596,10 +596,18 @@ aliases:
     - IRON
     named_aliases:
     - SSA-5
-    event: Via email, "Employee 5" requests access to the IRON Website to investigate people who could be marked dead
+    event: Leland Dudek approves "Employee 5" access to the IRON Website to investigate people beyond a reasonable age who
+      could be marked dead
     comment: Name redacted in court filing
     case_no: 1:25-cv-00596
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    agency: SSA
+  - date: 2025-03-14
+    type: report
+    event: Leland Dudek approves for "Employee 5" to run the proposed tool for death data improvement
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    named_aliases:
+    - SSA-5
     agency: SSA
   - date: 2025-03-27
     type: report
@@ -663,8 +671,14 @@ aliases:
   - date: 2025-03-17
     type: access_granted
     access_systems:
-    - PSSNAP
-    event: Employees "6, 7 and 9" are approved to access systems for claims benefit applications
+    - SSA-EDW
+    access_scope:
+    - NUMIDENT
+    - MBR
+    - SSR
+    event: Employees "6, 7 and 9" are approved to access the SSA Enterprise Data Warehouse to access the Numident, Master
+      Beneficiary Record (MBR) and Supplemental Security Record (SSR) master records, as well as copies of SSA payment files
+      that SSA transmits to the Department of the Treasury, Bureau of the Fiscal Service (BFS) for payment
     named_aliases:
     - SSA-6
     - SSA-7
@@ -728,11 +742,25 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
     case_no: 1:25-cv-00339
     agency: SSA
+  - date: 2025-03-15
+    type: access_granted
+    event: Unidentified "Employee 7" at Social Security Administration is granted access to the USCIS SAVE system
+    access_systems:
+    - USCIS-SAVE
+    named_aliases:
+    - SSA-7
+    agency: SSA
   - date: 2025-03-17
     type: access_granted
     access_systems:
-    - PSSNAP
-    event: Employees "6, 7 and 9" are approved to access systems for claims benefit applications
+    - SSA-EDW
+    access_scope:
+    - NUMIDENT
+    - MBR
+    - SSR
+    event: Employees "6, 7 and 9" are approved to access the SSA Enterprise Data Warehouse to access the Numident, Master
+      Beneficiary Record (MBR) and Supplemental Security Record (SSR) master records, as well as copies of SSA payment files
+      that SSA transmits to the Department of the Treasury, Bureau of the Fiscal Service (BFS) for payment
     named_aliases:
     - SSA-6
     - SSA-7
@@ -875,19 +903,27 @@ aliases:
     case_no: 1:25-cv-00339
     agency: SSA
   - date: 2025-03-14
-    type: official
-    event: Via email, 'Employee 9' of the DOGE team at SSA requests access to highly-confidential PSSNAP data to review beneficiaries
+    type: access_granted
+    access_systems:
+    - PSSNAP
+    event: Leland Dudek approves access of "Employee 9" to review PSSNAP data with the Enterprise Data Warehouse
+    comment: I think this is Phone SSN Applications data, given the DOGE emphasis on that
     named_aliases:
     - SSA-9
-    comment: Name redacted in court filing
     case_no: 1:25-cv-00596
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
   - date: 2025-03-17
     type: access_granted
     access_systems:
-    - PSSNAP
-    event: Employees "6, 7 and 9" are approved to access systems for claims benefit applications
+    - SSA-EDW
+    access_scope:
+    - NUMIDENT
+    - MBR
+    - SSR
+    event: Employees "6, 7 and 9" are approved to access the SSA Enterprise Data Warehouse to access the Numident, Master
+      Beneficiary Record (MBR) and Supplemental Security Record (SSR) master records, as well as copies of SSA payment files
+      that SSA transmits to the Department of the Treasury, Bureau of the Fiscal Service (BFS) for payment
     named_aliases:
     - SSA-6
     - SSA-7
@@ -896,24 +932,9 @@ aliases:
     case_no: 1:25-cv-00596
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
-  - date: 2025-03-18
-    type: access_granted
-    access_systems:
-    - PSSNAP
-    event: Leland Dudek approves access of "Employee 9" for additional PSSNAP schema to view Title II beneficiaries
-    named_aliases:
-    - SSA-9
-    comment: Name redacted in court filing
-    case_no: 1:25-cv-00596
-    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
-    agency: SSA
   - date: 2025-03-19
-    type: access_granted
-    access_type: unknown
-    access_systems:
-    - PSSNAP
-    event: Leland Dudek approves access of "Employee 9" of the DOGE team at SSA to highly-confidential PSSNAP data to review
-      beneficiaries
+    type: report
+    event: Leland Dudek approves access of "Employee 9" of the DOGE team at SSA for some additional schemas in PSSNAP
     named_aliases:
     - SSA-9
     comment: Name redacted in court filing

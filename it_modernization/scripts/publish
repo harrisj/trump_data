@@ -12,4 +12,5 @@ pipenv run python scripts/generate_agency_comprehensive_yaml.py
 pipenv run python scripts/generate_mermaid_chart_md.py
 pipenv run python scripts/generate_agency_mermaid.py
 
+# pipenv run python scripts/generate_system_postings_yaml.py
 

@@ -495,8 +495,7 @@
   agency: DOI
 
 - date: 2025-01-28
-  type: access_granted
-  access_type: read
+  type: report
   access_systems:
   - PAM
   - SPS
@@ -546,11 +545,11 @@
   agency: Commerce
 
 - date: 2025-01-29
-  type: access_changed
+  type: access_granted
   access_type: read-write
   access_systems:
-  - PAM
-  event: A ticket for systems access is issued to give Marko Elez read-write access to PAM
+  - PAM-DB
+  event: A ticket for systems access is issued to give Marko Elez read-write access to PAM-DB
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
@@ -598,8 +597,8 @@
   type: access_changed
   access_type: read
   access_systems:
-  - PAM
-  event: A ticket for systems access is corrected to note that Marko Elez should only have read-only access to the PAM system
+  - PAM-DB
+  event: A ticket for systems access is corrected to note that Marko Elez should only have read-only access to the PAM-DB system
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
@@ -660,8 +659,8 @@
   type: access_changed
   access_type: read-write
   access_systems:
-  - PAM
-  event: A ticket for systems access is corrected to change Marko Elez's access from read-only to read-write for the PAM
+  - PAM-DB
+  event: A ticket for systems access is corrected to change Marko Elez's access from read-only to read-write for the PAM-DB
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
@@ -712,8 +711,8 @@
   type: access_changed
   access_type: read
   access_systems:
-  - PAM
-  event: Another ticket is filed to remove write access from Marko Elez's profile in the PAM system
+  - PAM-DB
+  event: Another ticket is filed to remove write access from Marko Elez's profile in the PAM-DB system
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
@@ -782,21 +781,21 @@
   agency: USAID
 
 - date: 2025-02-03
-  type: report
-  event: Twenty DOGE staff are in the agency and "have gained access to multiple sensitive internal systems, the people said, including a financial aid dataset that contains the personal information for millions of students enrolled in the federal student aid program."
-  source: https://www.washingtonpost.com/education/2025/02/03/trump-education-department-dismantling-executive-order-draft/
-  agency: Education
-
-- date: 2025-02-03
   type: access_granted
   access_type: read
   access_systems:
-  - PAM
-  event: Marko Elez is provided read-only access to the Payment Automation Manager (PAM) Database, Payment Automation Manager (PAM) File System
+  - PAM-FS
+  event: Marko Elez is provided read-only access to the Payment Automation Manager (PAM) File System
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.3_1.pdf
   agency: Treasury
+
+- date: 2025-02-03
+  type: report
+  event: Twenty DOGE staff are in the agency and "have gained access to multiple sensitive internal systems, the people said, including a financial aid dataset that contains the personal information for millions of students enrolled in the federal student aid program."
+  source: https://www.washingtonpost.com/education/2025/02/03/trump-education-department-dismantling-executive-order-draft/
+  agency: Education
 
 - date: 2025-02-03
   type: report
@@ -807,8 +806,7 @@
   agency: Treasury
 
 - date: 2025-02-03
-  type: access_granted
-  access_type: admin
+  type: report
   named:
   - Edward Coristine
   event: Email to SBA staff announces that Edward Coristine was granted access to all systems including HR, contract, and payment systems.
@@ -1188,7 +1186,8 @@
 - date: 2025-02-06
   type: access_revoked
   access_systems:
-  - PAM
+  - PAM-FS
+  - PAM-DB
   - SPS
   - ASAP
   event: Marko Elez has his access to Treasury systems revoked due to his resignation
@@ -1233,7 +1232,7 @@
   type: access_granted
   access_type: read
   access_systems:
-  - PRISM
+  - PRISM-CFPB
   - webTA
   - DataInsight
   - USAStaffing
@@ -1339,8 +1338,7 @@
   agency: USAID
 
 - date: 2025-02-08
-  type: access_granted
-  access_type: admin
+  type: report
   comment: FIXME get info on the systems being accessed
   event: NBC News reports that Akash Bobba and Ethan Shaotran have admin access to email and had also accessed the website backend
   named:
@@ -1443,7 +1441,7 @@
   type: access_granted
   access_type: read
   access_systems:
-  - SSNEC
+  - SSNEC-Sandbox
   event: Akash Bobba is rapidly trained and is granted access to anonymized and read-only "sandbox" NUMIDENT data from SSNEC for his purported fraud investigations
   source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
   named:
@@ -1804,7 +1802,6 @@
   event: Akash Bobba reports issue with the "sandbox" data. Russo demands he gets immediate full access to Enterprise Data Warehouse (EDW), Master Beneficiary Record (MBR) and Supplemental Security Record (SSR) files as well as source code
   source: https://www.washingtonpost.com/documents/e08aeb0c-ec70-4235-91a0-290da92067b5.pdf?itid=lk_inline_manual_5
   named:
-  - Mike Russo
   - Akash Bobba
   agency: SSA
 
@@ -2142,7 +2139,7 @@
 
 - date: 2025-02-19
   type: official
-  event: SSA CIO Mike Russo emails Leland Dudek to grant access to EDW for several "members of [his] team"
+  event: SSA CIO Mike Russo emails Leland Dudek request access to EDW for several "members of [his] team" for Numident, Master Beneficiary Record (MBR) and Supplemental Security Record (SSR) master records, as well as copies of SSA payment files that SSA transmits to the Department of the Treasury, Bureau of the Fiscal Service (BFS) for payment
   named:
   - Leland Dudek
   - Mike Russo
@@ -2557,10 +2554,7 @@
   agency: NIH
 
 - date: 2025-02-24
-  type: access_granted
-  access_type: admin
-  access_systems:
-  - NBS
+  type: report
   event: Three DOGE staffers are placed within the NIH Business System Department for access to NIH's central electronic business system, which includes finance, budget, procurement, a property-management system, and a grant-tracking system
   named:
   - Luke Farritor
@@ -2623,9 +2617,8 @@
   type: access_granted
   access_type: read
   access_systems:
-  - NBS
-  - PRISM
-  event: Rachel Riley is granted read-only access to the NIH Business System EBS and PRISM systems by the NIH Office of the CIO
+  - PRISM-NIH
+  event: Rachel Riley is granted read-only access to the NIH PRISM systems by the NIH Office of the CIO
   named:
   - Rachel Riley
   case_no: 1:25-cv-00339
@@ -2898,7 +2891,7 @@
   access_type: read
   access_systems:
   - NBS
-  - PRISM
+  - PRISM-NIH
   event: Luke Farritor and Conor Fennesy are granted read-only access to NIH Business System EBS and PRISM systems by NIH's office of the CIO
   named:
   - Luke Farritor
@@ -3088,7 +3081,7 @@
   type: access_revoked
   access_systems:
   - Entra-CFPB
-  - PRISM
+  - PRISM-CFPB
   - webTA
   - DataInsight
   - USAStaffing
@@ -3681,7 +3674,7 @@
   - IRON
   named_aliases:
   - SSA-5
-  event: Via email, "Employee 5" requests access to the IRON Website to investigate people who could be marked dead
+  event: Leland Dudek approves "Employee 5" access to the IRON Website to investigate people beyond a reasonable age who could be marked dead
   comment: Name redacted in court filing
   case_no: 1:25-cv-00596
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
@@ -3825,13 +3818,23 @@
   agency: USIP
 
 - date: 2025-03-14
-  type: official
-  event: Via email, 'Employee 9' of the DOGE team at SSA requests access to highly-confidential PSSNAP data to review beneficiaries
+  type: access_granted
+  access_systems:
+  - PSSNAP
+  event: Leland Dudek approves access of "Employee 9" to review PSSNAP data with the Enterprise Data Warehouse
+  comment: I think this is Phone SSN Applications data, given the DOGE emphasis on that
   named_aliases:
   - SSA-9
-  comment: Name redacted in court filing
   case_no: 1:25-cv-00596
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+  agency: SSA
+
+- date: 2025-03-14
+  type: report
+  event: Leland Dudek approves for "Employee 5" to run the proposed tool for death data improvement
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+  named_aliases:
+  - SSA-5
   agency: SSA
 
 - date: 2025-03-14~
@@ -3848,6 +3851,15 @@
   - Edward Coristine
   source: https://fedscoop.com/doge-granted-access-to-naturalization-immigration-it-systems/
   agency: USCIS
+
+- date: 2025-03-15
+  type: access_granted
+  event: Unidentified "Employee 7" at Social Security Administration is granted access to the USCIS SAVE system
+  access_systems:
+  - USCIS-SAVE
+  named_aliases:
+  - SSA-7
+  agency: SSA
 
 - date: 2025-03-16
   type: disruption
@@ -3976,8 +3988,12 @@
 - date: 2025-03-17
   type: access_granted
   access_systems:
-  - PSSNAP
-  event: Employees "6, 7 and 9" are approved to access systems for claims benefit applications
+  - SSA-EDW
+  access_scope:
+  - NUMIDENT
+  - MBR
+  - SSR
+  event: Employees "6, 7 and 9" are approved to access the SSA Enterprise Data Warehouse to access the Numident, Master Beneficiary Record (MBR) and Supplemental Security Record (SSR) master records, as well as copies of SSA payment files that SSA transmits to the Department of the Treasury, Bureau of the Fiscal Service (BFS) for payment
   named_aliases:
   - SSA-6
   - SSA-7
@@ -4051,18 +4067,6 @@
   - Kenneth Jackson
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576293/gov.uscourts.mdd.576293.77.2.pdf
   agency: USAID
-
-- date: 2025-03-18
-  type: access_granted
-  access_systems:
-  - PSSNAP
-  event: Leland Dudek approves access of "Employee 9" for additional PSSNAP schema to view Title II beneficiaries
-  named_aliases:
-  - SSA-9
-  comment: Name redacted in court filing
-  case_no: 1:25-cv-00596
-  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
-  agency: SSA
 
 - date: 2025-03-18
   type: report
@@ -4144,11 +4148,8 @@
   agency: USIP
 
 - date: 2025-03-19
-  type: access_granted
-  access_type: unknown
-  access_systems:
-  - PSSNAP
-  event: Leland Dudek approves access of "Employee 9" of the DOGE team at SSA to highly-confidential PSSNAP data to review beneficiaries
+  type: report
+  event: Leland Dudek approves access of "Employee 9" of the DOGE team at SSA for some additional schemas in PSSNAP
   named_aliases:
   - SSA-9
   comment: Name redacted in court filing
@@ -4257,7 +4258,7 @@
   type: access_revoked
   access_systems:
   - Entra-CFPB
-  - PRISM
+  - PRISM-CFPB
   - webTA
   - DataInsight
   - USAStaffing
@@ -4586,7 +4587,7 @@
 - date: 2025-03-28
   type: access_revoked
   access_systems:
-  - PRISM
+  - PRISM-CFPB
   event: Jordan Wick's access to PRISM is revoked, per a court order in to a court order in American Federation of Teachers et al. v Bessent et al., No. 8:25-cv-430
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
   case_no: 8:25-cv-00430
@@ -5003,16 +5004,6 @@
   event: Social Security employees received an offer from the human resources department for voluntary reassignments to "mission-critical" front-line roles in call services and hearing offices to replace staff that were eliminated.
   source: https://www.washingtonpost.com/politics/2025/04/04/social-security-layoffs-trump-musk/
   agency: SSA
-
-- date: 2025-04-04
-  type: access_revoked
-  event: In a status report, HHS reports that Luke Farritor's HCAS access has been revoked
-  access_systems:
-  - HCAS
-  named:
-  - Luke Farritor
-  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
-  agency: HHS
 
 - date: 2025-04-04
   type: report
@@ -5495,7 +5486,7 @@
   type: access_granted
   access_type: unknown
   access_systems:
-  - NFJP
+  - REO
   event: Wired reports that three DOGE staffers at DOL were granted access to the DOL's Reentry Employment Opportunities (REO) program, which provides aid to people re-entering society from incarceration
   named:
   - Miles Collins
