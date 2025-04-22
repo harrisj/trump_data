@@ -18,15 +18,15 @@ repos:
     name: Preprocess the events file
     types: [ file ]
     files: it_modernization/raw_data/events.yaml
-    entry: "cd ./it_modernization && pipenv run python scripts/preprocess/01_preprocess_events_yaml.py"
+    entry: "cd ./it_modernization && pipenv run python scripts/01_preprocess_events_yaml.py"
     pass_filenames: false
     language: system
   - id: preprocess-join-csvs
-    name: Preprocess the join table CSVs
+    name: Preprocess the DB table CSVs
     types: [ file ]
     files: it_modernization/raw_data/events.yaml
     pass_filenames: false
-    entry: "cd ./it_modernization && pipenv run python scripts/preprocess/02_preprocess_join_table_csvs.py"
+    entry: "cd ./it_modernization && pipenv run python scripts/02_preprocess_db_tables.py"
     language: system
 
   - id: generate-aliases-yaml
@@ -34,7 +34,7 @@ repos:
     types: [ file ]
     files: it_modernization/raw_data/
     pass_filenames: false
-    entry: "cd ./it_modernization && pipenv run python scripts/generate/01_generate_aliases_yaml.py"
+    entry: "cd ./it_modernization && pipenv run python scripts/11_generate_aliases_yaml.py"
     language: system
 
   - id: generate-events-yaml
@@ -42,7 +42,7 @@ repos:
     types: [ file ]
     files: it_modernization/(aliases.yaml|raw_data/)
     pass_filenames: false
-    entry: "cd ./it_modernization && pipenv run python scripts/generate/02_generate_events_yaml.py"
+    entry: "cd ./it_modernization && pipenv run python scripts/12_generate_events_yaml.py"
     language: system
 
   - id: generate-events-csv
@@ -50,7 +50,7 @@ repos:
     types: [ file ]
     files: it_modernization/(events.yaml|raw_data/)
     pass_filenames: false
-    entry: "cd ./it_modernization && pipenv run python scripts/generate/03_generate_events_yaml.py"
+    entry: "cd ./it_modernization && pipenv run python scripts/13_generate_events_yaml.py"
     language: system
 
   - id: generate-postings-yaml
@@ -58,7 +58,7 @@ repos:
     types: [ file ]
     files: it_modernization/(events.yaml|raw_data/)
     pass_filenames: false
-    entry: "cd ./it_modernization && pipenv run python scripts/generate/04_generate_postings_yaml.py"
+    entry: "cd ./it_modernization && pipenv run python scripts/14_generate_postings_yaml.py"
     language: system
 
   - id: generate-people-yaml
@@ -66,7 +66,7 @@ repos:
     types: [ file ]
     files: it_modernization/(events.yaml|raw_data/)
     pass_filenames: false
-    entry: "cd ./it_modernization && pipenv run python scripts/generate/05_generate_people_yaml.py"
+    entry: "cd ./it_modernization && pipenv run python scripts/15_generate_people_yaml.py"
     language: system
 
   - id: generate-agency-comprehensive-yaml
@@ -74,7 +74,7 @@ repos:
     types: [ file ]
     files: it_modernization/(events.yaml|raw_data/)
     pass_filenames: false
-    entry: "cd ./it_modernization && pipenv run python scripts/generate/05_generate_agency_comprehensive_yaml.py"
+    entry: "cd ./it_modernization && pipenv run python scripts/16_generate_agency_comprehensive_yaml.py"
     language: system
 
   - id: generate-mermaid-chart
@@ -82,7 +82,7 @@ repos:
     types: [ file ]
     files: it_modernization/(postings.yaml|raw_data/)
     pass_filenames: false
-    entry: "cd ./it_modernization && pipenv run python scripts/generate/07_generate_mermaid_chart_md.py"
+    entry: "cd ./it_modernization && pipenv run python scripts/17_generate_mermaid_chart_md.py"
     language: system
 
   - id: generate-agency-staffing-chart
@@ -90,5 +90,5 @@ repos:
     types: [ file ]
     files: it_modernization/(postings.yaml|raw_data/)
     pass_filenames: false
-    entry: "cd ./it_modernization && pipenv run python scripts/generate/08_generate_agency_mermaid.py"
+    entry: "cd ./it_modernization && pipenv run python scripts/18_generate_agency_mermaid.py"
     language: system
