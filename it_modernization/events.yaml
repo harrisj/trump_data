@@ -2,7 +2,7 @@
 meta:
   title: Events
   version: 1.0.0
-  generated: 2025-04-22
+  generated: 2025-04-23
 
 events:
 
@@ -8384,6 +8384,14 @@ events:
   - Marko Elez
   agency: DOL
   id: 5ZoiqF9F
+
+- date: 2025-04-21
+  type: report
+  event: IT staff reported they were heavily targeted for layoffs despite complying with requests to provide information about
+    critical systems, meaning much more of the FDA infrastructure is at risk of failure
+  source: https://fedscoop.com/fda-tech-officials-complied-with-doges-requests-for-data-the-staff-reductions-still-came/
+  agency: FDA
+  id: 34MikyKs
 
 - date: 2025-04-22
   type: report

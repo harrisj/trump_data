@@ -3800,6 +3800,12 @@ FDA:
     - NIH
     - CMS
     id: 6BGD7wuo
+  - date: 2025-04-21
+    type: report
+    event: IT staff reported they were heavily targeted for layoffs despite complying with requests to provide information about critical systems, meaning much more of the FDA infrastructure is at risk of failure
+    source: https://fedscoop.com/fda-tech-officials-complied-with-doges-requests-for-data-the-staff-reductions-still-came/
+    agency: FDA
+    id: 34MikyKs
   systems: {}
   cases: {}
 
