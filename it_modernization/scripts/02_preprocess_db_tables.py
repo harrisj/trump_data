@@ -60,7 +60,7 @@ for e in events:
         out_eal.append([id, alias])
 
     for system in e.get("access_systems", []):
-        out_eal.append([id, system])
+        out_es.append([id, system])
 
 cases = read_raw_data("cases")
 out_ca = [["case_no", "agency_id"]]
@@ -72,6 +72,7 @@ for c in cases:
         out_ca.append([case_no, a_id])
 
 systems = read_raw_data("systems")
+people = read_raw_data("people")
 
 out_dn = [["detail_id", "name"]]
 out_da = [["detail_id", "alias"]]
@@ -202,3 +203,12 @@ with open(
 ) as csvfile:
     writer = csv.writer(csvfile)
     writer.writerows(out_da)
+
+
+with open("./it_modernization/db/import/people.csv", "w", newline="") as csvfile:
+    fieldnames = ["name", "sort_name", "age", "background"]
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames, extrasaction="ignore")
+
+    writer.writeheader()
+    for person in people:
+        writer.writerow(person)

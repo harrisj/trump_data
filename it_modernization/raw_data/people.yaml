@@ -1,0 +1,497 @@
+# yaml-language-server: $schema=../schemas/people-file.json
+- name: Elon Musk
+  sort_name: Musk
+  background: executive
+
+- name: Amy Gleason
+  sort_name: Gleason
+  age: 53
+  background: coder
+
+- name: Daniel Abrahamson
+  sort_name: Abrahamson
+  background: lawyer
+  age: 41
+
+- name: Baris Akis
+  sort_name: Akis
+
+- name: Justin Aimonetti
+  sort_name: Aimonetti
+  age: 31
+  background: lawyer
+
+- name: Jacob Altik
+  sort_name: Altik
+  age: 32
+  background: lawyer
+
+- name: Marc Andreessen
+  sort_name: Andreessen
+  background: executive
+
+- name: Anthony Armstrong
+  sort_name: Armstrong
+  age: 57
+  background: finance
+
+- name: Jennifer Balajadia
+  sort_name: Balajadia
+  age: 36
+  background: executive
+
+- name: Sam Beyda
+  sort_name: Beyda
+
+- name: Alexandra Beynon
+  sort_name: Beynon
+  age: 36
+  background: coder
+
+- name: Riccardo Biasini
+  sort_name: Biasini
+  age: 39
+  background: executive
+
+- name: Jared Birchall
+  sort_name: Birchall
+
+- name: Brian Bjelde
+  sort_name: Bjelde
+  age: 44
+  background: executive
+
+- name: Akash Bobba
+  sort_name: Bobba
+  age: 21
+  background: coder
+
+- name: Ashley Boizelle
+  sort_name: Boizelle
+  background: lawyer
+
+- name: Emily Bryant
+  sort_name: Bryant
+  age: 23
+
+- name: James Burnham
+  sort_name: Burnham
+  age: 41
+  background: lawyer
+
+- name: Nate Cavanaugh
+  sort_name: Cavanaugh
+  age: 28
+  background: executive
+
+- name: Miles Collins
+  sort_name: Collins
+
+- name: George Cooper
+  sort_name: Cooper
+
+- name: Sam Corcos
+  sort_name: Corcos
+  age: 36
+  background: executive
+
+- name: Edward Coristine
+  sort_name: Coristine
+  age: 19
+  background: coder
+
+- name: Scott Coulter
+  sort_name: Coulter
+  age: 40
+  background: finance
+
+- name: Steve Davis
+  sort_name: Davis
+  age: 45
+  background: executive
+
+- name: Stephen Duarte
+  sort_name: Duarte
+  age: 32
+  background: hr
+
+- name: Leland Dudek
+  sort_name: Dudek
+
+- name: Stephen Ehikian
+  sort_name: Ehikian
+  age: 43
+  background: executive
+
+- name: Marko Elez
+  sort_name: Elez
+  age: 25
+  background: coder
+
+- name: Charles Ezell
+  sort_name: Ezell
+
+- name: Luke Farritor
+  sort_name: Farritor
+  age: 23
+  background: coder
+
+- name: Conor Fennessy
+  sort_name: Fennessy
+  age: 32
+  background: finance
+
+- name: Joshua Fox
+  sort_name: Fox
+
+- name: Justin Fulcher
+  sort_name: Fulcher
+  age: 32
+  background: coder
+
+- name: Mattieu Gamache-Asselin
+  sort_name: Gamache-Asselin
+  age: 34
+  background: coder
+
+- name: Joe Gebbia
+  sort_name: Gebbia
+  age: 43
+  background: executive
+
+- name: Derek Geissler
+  sort_name: Geissler
+
+- name: Brady Glantz
+  sort_name: Glantz
+  age: 27
+  background: coder
+
+- name: Mike Gonzalez
+  sort_name: Gonzalez
+
+- name: Antonio Gracias
+  age: 54
+  sort_name: Gracias
+  background: finance
+
+- name: Michael Grimes
+  sort_name: Grimes
+
+- name: Gavin Hamrick
+  sort_name: Hamrick
+
+- name: Joshua Hanley
+  age: 27
+  sort_name: Hanley
+  background: lawyer
+
+- name: Christina Hanna
+  sort_name: Hanna
+  age: 39
+  background: hr
+
+- name: Tyler Hassen
+  sort_name: Hiremath
+  age: 42
+  background: executive
+
+- name: Vinay Hiremath
+  sort_name: Hiremath
+
+- name: Adam Hoffman
+  sort_name: Hoffman
+
+- name: Greg Hogan
+  sort_name: Hogan
+  age: 42
+  background: coder
+
+- name: Nicole Hollander
+  sort_name: Hollander
+  age: 42
+  background: executive
+
+- name: Stephanie Holmes
+  sort_name: Holmes
+  age: 43
+  background: hr
+
+- name: Jared Isaacman
+  sort_name: Isaacman
+
+- name: Kenneth Jackson
+  sort_name: Jackson
+
+- name: Anthony Jancso
+  sort_name: Jancso
+
+- name: Erica Jehling
+  sort_name: Jehling
+  age: 40
+  background: executive
+
+- name: Thomas Kiernan
+  sort_name: Kiernan
+  age: 30
+  background: coder
+
+- name: Cole Killian
+  sort_name: Killian
+  age: 24
+  background: coder
+
+- name: Gavin Kliger
+  sort_name: Kliger
+  age: 25
+  background: coder
+
+- name: Keenan Kmiec
+  sort_name: Kmiec
+  age: 45
+  background: lawyer
+
+- name: Jon Koval
+  sort_name: Koval
+  age: 27
+  background: finance
+
+- name: Michael Kratsios
+  sort_name: Kratsios
+
+- name: Tom Krause
+  sort_name: Krause
+  age: 47
+  background: executive
+
+- name: Scott Kupor
+  sort_name: Kupor
+
+- name: Nicholas Lahera
+  sort_name: Lahera
+
+- name: Sahil Lavingia
+  sort_name: Lavingia
+  age: 32
+  background: executive
+
+- name: Scott Langmack
+  sort_name: Langmack
+  age: 66
+  background: executive
+
+- name: Jeremy Lewin
+  sort_name: Lewin
+  age: 28
+  background: lawyer
+
+- name: Kendall Lindemann
+  sort_name: Lindemann
+  age: 24
+  background: executive
+
+- name: Kathryn Armstrong Loving
+  sort_name: Loving
+  age: 44
+  background: coder
+
+- name: Matt Luby
+  sort_name: Luby
+
+- name: Shaun Maguire
+  sort_name: Maguire
+
+- name: Tarak Makecha
+  sort_name: Makecha
+
+- name: Ted Malaska
+  sort_name: Malaska
+  background: coder
+
+- name: Peter Marocco
+  sort_name: Marocco
+
+- name: Antoine McCord
+  sort_name: McCord
+
+- name: Clark Minor
+  sort_name: Minor
+  age: 35
+  background: coder
+
+- name: Katie Miller
+  sort_name: Miller
+  age: 33
+  background: political
+
+- name: Michael Mirski
+  sort_name: Mirski
+  age: 32
+  background: coder
+
+- name: Eliezer Mishory
+  sort_name: Mishory
+
+- name: Bryanne-Michelle Mlodzianowski
+  sort_name: Mlodzianowski
+  age: 40
+  background: hr
+
+- name: Aram Moghaddassi
+  sort_name: Moghaddassi
+  age: 26
+  background: coder
+
+- name: Justin Monroe
+  sort_name: Monroe
+  age: 36
+  background: coder
+
+- name: Brooks Morgan
+  sort_name: Morgan
+  age: 39
+  background: executive
+
+- name: Noah Peters
+  sort_name: Peters
+  age: 39
+  background: lawyer
+
+- name: Nikhil Rajpal
+  sort_name: Rajpal
+  age: 30
+  background: coder
+
+- name: Adam Ramada
+  sort_name: Ramada
+  age: 35
+  background: finance
+
+- name: Austin Raynor
+  sort_name: Raynor
+  age: 36
+  background: lawyer
+
+- name: Payton Rehling
+  sort_name: Rehling
+  age: 27
+  background: coder
+
+- name: Ryan Riedel
+  sort_name: Riedel
+  age: 37
+  background: coder
+
+- name: Rachel Riley
+  sort_name: Riley
+  age: 33
+  background: executive
+
+- name: Christopher Roussos
+  sort_name: Roussos
+  age: 60
+  background: executive
+
+- name: Mike Russo
+  sort_name: Russo
+  age: 67
+  background: executive
+
+- name: Amanda Scales
+  sort_name: Scales
+  age: 34
+  background: hr
+
+- name: Frank Schuler
+  sort_name: Schuler
+
+- name: Kyle Schutt
+  sort_name: Schutt
+  age: 37
+  background: coder
+
+- name: Riley Sennott
+  sort_name: Sennott
+  background: coder
+
+- name: Thomas Shedd
+  sort_name: Shedd
+  age: 28
+  background: coder
+
+- name: Sam Smeal
+  sort_name: Smeal
+  age: 29
+  background: coder
+
+- name: Bryton Shang
+  sort_name: Shang
+  age: 33
+  background: coder
+
+- name: Ethan Shaotran
+  sort_name: Shaotran
+  age: 22
+  background: coder
+
+- name: Alexander Simonpour
+  sort_name: Simonpour
+  age: 28
+  background: coder
+
+- name: Brad Smith
+  sort_name: Smith
+  age: 42
+  background: executive
+
+- name: Christopher Stanley
+  sort_name: Stanley
+  age: 33
+  background: coder
+
+- name: Mark Steffensen
+  sort_name: Steffensen
+  background: lawyer
+
+- name: Roland Shen
+  sort_name: Shen
+
+- name: Keith Sonderling
+  sort_name: Sonderling
+
+- name: Branden Spikes
+  sort_name: Spikes
+
+- name: Zach Terrell
+  sort_name: Terrell
+
+- name: Katrine Trampe
+  sort_name: Trampe
+  age: 29
+  background: finance
+
+- name: Cary Volpert
+  sort_name: Volpert
+  background: coder
+
+- name: Jordan Wick
+  sort_name: Wick
+  age: 28
+  background: coder
+
+- name: Joanna Wischer
+  sort_name: Wischer
+  background: political
+
+- name: Ryan Wunderly
+  sort_name: Wunderly
+  age: 26
+  background: coder
+
+- name: Chris Young
+  sort_name: Young
+  age: 36
+  background: political
+
+- name: Bridget Youngs
+  sort_name: Youngs

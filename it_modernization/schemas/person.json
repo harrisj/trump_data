@@ -1,0 +1,27 @@
+{
+    "$id": "schemas/person",
+
+    "type": "object",
+    "title": "Person",
+    "description": "Information about a specific DOGE-affiliated person",
+
+    "properties": {
+        "name": {
+            "description": "The name of the person. This is also their primary key",
+            "$ref": "valid_names.json#people"
+        },
+        "sort_name": {
+            "description": "Usually the last name alone, but could include an initial in case of common names. Primarily used for sorting",
+            "type": "string"
+        },
+        "age": {
+            "description": "What was their age in early 2025 when this all started",
+            "type": "integer"
+        },
+        "background": {
+            "description": "What their background / specialization is",
+            "$ref": "valid_names.json#doge_types"
+        }
+    },
+    "required": ["name", "sort_name"]
+}
