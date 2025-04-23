@@ -4067,6 +4067,22 @@
                             "complaint_link_text": "Complaint",
                             "date_filed": "2025-04-16",
                             "last_update": "2025-04-16"
+                        },
+                        {
+                            "case_link": {
+                                "title": "Learning Resources Inc. v. Trump",
+                                "url": "https://www.courtlistener.com/docket/69927142/learning-resources-inc-v-trump/"
+                            },
+                            "case_name": "Learning Resources Inc. v. Trump (D.D.C.) Civil Action Case 1:25-cv-01248",
+                            "case_summary": "[Coming soon]",
+                            "case_summary_html": "[Coming soon]",
+                            "complaint_link": {
+                                "title": "Complaint",
+                                "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.279804/gov.uscourts.dcd.279804.1.0.pdf"
+                            },
+                            "complaint_link_text": "Complaint",
+                            "date_filed": "2025-04-16",
+                            "last_update": "2025-04-16"
                         }
                     ],
                     "links": [],
@@ -4076,5 +4092,5 @@
             "title": "Trade Law"
         }
     ],
-    "last_updated": "2025-04-22"
+    "last_updated": "2025-04-23"
 }
