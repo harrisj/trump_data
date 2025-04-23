@@ -6,22 +6,24 @@ from pydantic import BaseModel, StrictStr, StrictInt, AnyHttpUrl
 from edtf.parser.parser_classes import EDTFObject
 from util import read_yaml
 
+
 # --- AGENCIES ----
 class Agency(BaseModel):
     id: StrictStr
     name: StrictStr
 
     @staticmethod
-    def load_all(path:str='raw_data/agencies.yaml') -> List['Agency']:
+    def load_all(path: str = "raw_data/agencies.yaml") -> List["Agency"]:
         raw_agencies = read_yaml(path)
         return [Agency(a) for a in raw_agencies]
+
 
 @dataclass
 class AgencyLookup:
     agencies_map: Dict[str, Agency]
 
     @staticmethod
-    def load(path:str='raw_data/agencies.yaml') -> 'AgencyLookup':
+    def load(path: str = "raw_data/agencies.yaml") -> "AgencyLookup":
         agencies = Agency.load_all(path)
         return AgencyLookup({a.id: a for a in agencies})
 
@@ -35,17 +37,20 @@ class Case(BaseModel):
     agencies: List[Agency] = []
 
     @staticmethod
-    def load_as_dict(agencies_lookup:Dict[str, Agency], path:str='raw_data/cases.yaml') -> Dict[str, 'Case']:
+    def load_as_dict(
+        agencies_lookup: Dict[str, Agency], path: str = "raw_data/cases.yaml"
+    ) -> Dict[str, "Case"]:
         raw_cases = read_yaml(path)
         out = {}
 
-    
+
 # --- ALIASES -----
 class Alias(BaseModel):
     id: StrictStr
     agency: Agency
     evidence: Optional[List[StrictStr]] = []
     name: Optional[StrictStr] = None
+
 
 # --- EVENTS ------
 class EventTypeEnum(str, Enum):
@@ -61,14 +66,17 @@ class EventTypeEnum(str, Enum):
     promotion = "promotion"
     report = "report"
 
+
 class OnboardTypeEnum(str, Enum):
     appointed = "appointed"
     hired = "hired"
     detailed = "detailed"
     unknown = "unknown"
 
+
 class Person(BaseModel):
     name: StrictStr
+
 
 class Event(BaseModel):
     type: EventTypeEnum
@@ -79,8 +87,7 @@ class Event(BaseModel):
     agencies: List[Agency] = []
     named: List[StrictStr] = []
 
+
 class OnboardEvent(Event):
     onboard_type: OnboardTypeEnum
     detailed_from: Optional[Agency] = None
-
-
