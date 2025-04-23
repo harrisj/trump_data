@@ -251,6 +251,10 @@ gantt
         Brooks Morgan : 2025-04-10, 2025-04-10
         Adam Ramada : 2025-04-10, 2025-04-10
         Anthony Armstrong : 2025-04-10, 2025-04-10
+    SECTION NSF
+        Luke Farritor : 2025-04-14, 2025-04-22
+        Zach Terrell : 2025-04-14, 2025-04-22
+        Rachel Riley : 2025-04-14, 2025-04-22
     SECTION SEC
         Eliezer Mishory : 2025-04-15, 2025-04-15
 ```

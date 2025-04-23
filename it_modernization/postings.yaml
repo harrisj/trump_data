@@ -2168,6 +2168,39 @@ postings:
   doge_agency_first: 2025-03-12
   doge_agency_last: 2025-03-12
 
+- agency_id: NSF
+  name: Luke Farritor
+  first_date: 2025-04-14
+  all_dates:
+  - 2025-04-14
+  - 2025-04-22
+  last_date: 2025-04-22
+  agency_doge_base: false
+  doge_agency_first: 2025-04-14
+  doge_agency_last: 2025-04-22
+
+- agency_id: NSF
+  name: Zach Terrell
+  first_date: 2025-04-14
+  all_dates:
+  - 2025-04-14
+  - 2025-04-22
+  last_date: 2025-04-22
+  agency_doge_base: false
+  doge_agency_first: 2025-04-14
+  doge_agency_last: 2025-04-22
+
+- agency_id: NSF
+  name: Rachel Riley
+  first_date: 2025-04-14
+  all_dates:
+  - 2025-04-14
+  - 2025-04-22
+  last_date: 2025-04-22
+  agency_doge_base: false
+  doge_agency_first: 2025-04-14
+  doge_agency_last: 2025-04-22
+
 - agency_id: OPM
   name: Noah Peters
   first_date: 2025-01-16~

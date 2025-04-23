@@ -3,7 +3,6 @@ repos:
   rev: v5.0.0
   hooks:
   - id: check-yaml
-  - id: end-of-file-fixer
   - id: check-executables-have-shebangs
   - id: debug-statements
   - id: check-merge-conflict
@@ -88,16 +87,17 @@ repos:
   - id: generate-mermaid-chart
     name: Generate the mermaid chart prototype
     files: ^it_modernization/
-    types_or: [ csv, yaml, markdown ]
+    types_or: [ csv, yaml ]
     pass_filenames: false
     require_serial: true
     entry: "pipenv run python ./it_modernization/scripts/17_generate_mermaid_chart_md.py"
     language: system
-  # - id: generate-agency-staffing-chart
-  #   name: Generate the agency mermaid chart prototype
-  #   files: ^it_modernization/
-  #   types_or: [ csv, yaml, markdown ]
-  #   pass_filenames: false
-  #   require_serial: true
-  #   entry: "pipenv run python ./it_modernization/scripts/18_generate_agency_mermaid.py"
-  #   language: system
+
+  - id: generate-agency-staffing-chart
+    name: Generate the agency mermaid chart prototype
+    files: ^it_modernization/
+    types_or: [ csv, yaml ]
+    pass_filenames: false
+    require_serial: true
+    entry: "pipenv run python ./it_modernization/scripts/18_generate_agency_mermaid.py"
+    language: system

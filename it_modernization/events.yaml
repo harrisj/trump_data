@@ -8053,6 +8053,11 @@ events:
   type: report
   event: Three unidentified DOGE staffers show up at NSF headquarters, forcing all approved grants to go through a "secondary
     review"
+  comment: These three were named in later reporting, so adding here
+  named:
+  - Luke Farritor
+  - Zach Terrell
+  - Rachel Riley
   source: https://www.science.org/content/article/nsf-halts-grant-awards-while-staff-do-second-review
   agency: NSF
   id: UyobwqMu
@@ -8379,3 +8384,15 @@ events:
   - Marko Elez
   agency: DOL
   id: 5ZoiqF9F
+
+- date: 2025-04-22
+  type: report
+  event: Three DOGE staffers are now at the National Science Foundation reviewing grants. Luke Farritor has a "Budget, Finance,
+    and Administration" clearance, which a source said allows him to view and modify the agency's funding opportunity system.
+  named:
+  - Luke Farritor
+  - Zach Terrell
+  - Rachel Riley
+  source: https://fedscoop.com/national-science-foundation-nsf-doge-grants-data-systems/
+  agency: NSF
+  id: meBB4VsV

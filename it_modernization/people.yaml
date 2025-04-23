@@ -624,6 +624,7 @@ people:
     - Department of Government Efficiency
     - Health and Human Services
     - National Institute of Health
+    - National Science Foundation
     events:
     - date: 2025-01-12
       agency: DOGE
@@ -691,10 +692,21 @@ people:
       event: Politico reports that Brad Smith, who crafted the plan to layoff 10,000 staffers within HHS, is facing criticism
         from other DOGE staffers for attempting to shield CMS from the brunt of the layoffs. His aide, Rachel Riley is accused
         of being extraordinarily secretive with the plan.
+    - date: 2025-04-14
+      agency: NSF
+      type: report
+      event: Three unidentified DOGE staffers show up at NSF headquarters, forcing all approved grants to go through a "secondary
+        review"
     - date: 2025-04-18~
       agency: HHS
       type: access_revoked
       event: In a declaration. HHS attests that Rachel Riley no longer has access to the HCAS system
+    - date: 2025-04-22
+      agency: NSF
+      type: report
+      event: Three DOGE staffers are now at the National Science Foundation reviewing grants. Luke Farritor has a "Budget,
+        Finance, and Administration" clearance, which a source said allows him to view and modify the agency's funding opportunity
+        system.
 
   Conor Fennessy:
     agencies:
@@ -1201,6 +1213,7 @@ people:
     - General Services Administration
     - Health and Human Services
     - National Institute of Health
+    - National Science Foundation
     - Social Security Administration
     - State Department
     - US Agency for International Development
@@ -1411,6 +1424,17 @@ people:
       type: disruption
       event: A DOGE engineer has apparently removed the ability of government agencies to post new grants to grants.gov and
         requiring them to all be sent to a new email address created this week for reviews
+    - date: 2025-04-14
+      agency: NSF
+      type: report
+      event: Three unidentified DOGE staffers show up at NSF headquarters, forcing all approved grants to go through a "secondary
+        review"
+    - date: 2025-04-22
+      agency: NSF
+      type: report
+      event: Three DOGE staffers are now at the National Science Foundation reviewing grants. Luke Farritor has a "Budget,
+        Finance, and Administration" clearance, which a source said allows him to view and modify the agency's funding opportunity
+        system.
 
   Christopher Stanley:
     agencies:
@@ -3724,6 +3748,7 @@ people:
     - Centers for Medicare and Medicaid Services
     - Health and Human Services
     - National Institute of Health
+    - National Science Foundation
     events:
     - date: 2025-03-06
       agency:
@@ -3770,6 +3795,17 @@ people:
       type: access_granted
       event: Zach Terrell is granted read access to the Payment Management System (PMS) by the the Chief Technology Officer,
         Program Support Center
+    - date: 2025-04-14
+      agency: NSF
+      type: report
+      event: Three unidentified DOGE staffers show up at NSF headquarters, forcing all approved grants to go through a "secondary
+        review"
+    - date: 2025-04-22
+      agency: NSF
+      type: report
+      event: Three DOGE staffers are now at the National Science Foundation reviewing grants. Luke Farritor has a "Budget,
+        Finance, and Administration" clearance, which a source said allows him to view and modify the agency's funding opportunity
+        system.
 
   Kenneth Jackson:
     agencies:
