@@ -30,6 +30,15 @@ repos:
     entry: "pipenv run python ./it_modernization/scripts/02_preprocess_db_tables.py"
     language: system
 
+  - id: create-sqlite-db
+    name: Create a Sqlite DB
+    files: ^it_modernization/
+    types_or: [ csv, yaml ]
+    pass_filenames: false
+    require_serial: true
+    entry: "./it_modernization/scripts/03_load_sqlite.sh"
+    language: system
+
   - id: generate-aliases-yaml
     name: Generate the aliases file
     files: ^it_modernization/
