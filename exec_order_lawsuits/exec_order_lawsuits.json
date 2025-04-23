@@ -940,6 +940,19 @@
                             "complaint_link_text": "Complaint",
                             "date_filed": "2025-04-07",
                             "last_update": "2025-04-17"
+                        },
+                        {
+                            "case_link": {
+                                "title": "Jane Doe 1 v. Bondi",
+                                "url": "https://www.courtlistener.com/docket/69887817/jane-doe-1-v-bondi/"
+                            },
+                            "case_name": "Jane Doe 1 v. Bondi (N.D. Georgia) Case No. 1:25-cv-01998",
+                            "case_summary": "Overview:  A group of F-1 student visa holders (proceeding under pseudonyms) allege that U.S. Immigration and Customs Enforcement terminated their records in the Student and Exchange Visitor Information System (SEVIS) after conducting criminal records checks, effectively ending their F-1 student visa status. The court issued a Temporary Restraining Order (TRO) to prevent the termination of F-1 student visa holders' status and to restore their SEVIS registration and work authorizations.\nCase Summary: The Department of Homeland Security (DHS) has been terminating the F-1 student visa holder status of international students in the United States. Students and their universities often only learn of the terminations by checking the Student and Exchange Visitor Information System (SEVIS), a database used by DHS and universities to track the status of international students.17 F-1 student visa holders enrolled in United States (U.S.) academic institutions or engaged in Optional Practical Training (OPT), allege harms including loss of scholarships, career opportunities, access to education, and potential detention or deportation. Plaintiffs claim violations of the Administrative Procedure Act (APA) for agency action not in accordance with law, exceeding statutory authority, and arbitrary and capricious conduct. They also allege violations of the Due Process Clause of the Fifth Amendment. Plaintiffs seek declaratory and injunctive relief to prevent the termination of their F-1 status and restore their SEVIS registration and work authorizations.\nUpdate 1: On April 14, Plaintiffs amended the complaint to add 116 additional students to the litigation (for a total of 133 plaintiffs).  \nUpdate 2: On April 18, the court issued a TRO to prevent the termination of F-1 student visa holders' status and restore their SEVIS registration and work authorizations.",
+                            "case_summary_html": "<span style=\"color: #0056a7;\"><strong>Overview: </strong></span> <em>A group of F-1 student visa holders (proceeding under pseudonyms) allege that U.S. Immigration and Customs Enforcement terminated their records in the Student and Exchange Visitor Information System (SEVIS) after conducting criminal records checks, effectively ending their F-1 student visa status. The court issued a Temporary Restraining Order (TRO) to prevent the termination of F-1 student visa holders' status and to restore their SEVIS registration and work authorizations.</em><br/><br>\n<strong>Case Summary: </strong>The Department of Homeland Security (DHS) has been terminating the F-1 student visa holder status of international students in the United States. Students and their universities often only learn of the terminations by checking the Student and Exchange Visitor Information System (SEVIS), a database used by DHS and universities to track the status of international students.17 F-1 student visa holders enrolled in United States (U.S.) academic institutions or engaged in Optional Practical Training (OPT), allege harms including loss of scholarships, career opportunities, access to education, and potential detention or deportation. Plaintiffs claim violations of the Administrative Procedure Act (APA) for agency action not in accordance with law, exceeding statutory authority, and arbitrary and capricious conduct. They also allege violations of the Due Process Clause of the Fifth Amendment. Plaintiffs seek declaratory and injunctive relief to prevent the termination of their F-1 status and restore their SEVIS registration and work authorizations.<br/>\n<strong>Update 1:</strong> On April 14, Plaintiffs amended the complaint to add 116 additional students to the litigation (for a total of 133 plaintiffs).  <br/>\n<strong>Update 2:</strong> On April 18, the court issued a <a href=\"https://www.justsecurity.org/wp-content/uploads/2025/04/Jane-Doe-1-et-al-v.-Bondi-et-al-TRO.pdf\">TRO</a> to prevent the termination of F-1 student visa holders' status and restore their SEVIS registration and work authorizations.</br>",
+                            "complaint_link": null,
+                            "complaint_link_text": "[Coming soon]",
+                            "date_filed": "2025-04-11",
+                            "last_update": "2025-04-18"
                         }
                     ],
                     "links": [],
@@ -2520,6 +2533,22 @@
                             "complaint_link_text": "Complaint",
                             "date_filed": "2025-04-11",
                             "last_update": "2025-04-11"
+                        },
+                        {
+                            "case_link": {
+                                "title": "President and Fellows of Harvard College v. US Department of Health and Human Services",
+                                "url": "https://www.courtlistener.com/docket/69921962/president-and-fellows-of-harvard-college-v-us-department-of-health-and/"
+                            },
+                            "case_name": "President and Fellows of Harvard College v. US Department of Health and Human Services  (D.C.D. Massachusetts)  Case No: 1:25-cv-11048",
+                            "case_summary": "[Coming soon]",
+                            "case_summary_html": "[Coming soon]",
+                            "complaint_link": {
+                                "title": "Complaint",
+                                "url": "https://storage.courtlistener.com/recap/gov.uscourts.mad.283718/gov.uscourts.mad.283718.1.0.pdf"
+                            },
+                            "complaint_link_text": "Complaint",
+                            "date_filed": "2025-04-21",
+                            "last_update": "2025-04-21"
                         }
                     ],
                     "links": [
@@ -2528,15 +2557,19 @@
                             "url": "https://www.federalregister.gov/documents/2025/02/03/2025-02230/additional-measures-to-combat-anti-semitism"
                         },
                         {
-                            "title": "Pause or Termination of Grants",
+                            "title": "Pause or termination of Grants",
                             "url": "https://www.ed.gov/about/news/press-release/doj-hhs-ed-and-gsa-announce-initial-cancelation-of-grants-and-contracts-columbia-university-worth-400-million"
                         },
                         {
                             "title": "Columbia Letter of demands",
                             "url": "https://static01.nyt.com/newsgraphics/documenttools/6d3c124d8e20212d/85dec154-full.pdf"
+                        },
+                        {
+                            "title": "Harvard Letter of demands",
+                            "url": "https://www.harvard.edu/research-funding/wp-content/uploads/sites/16/2025/04/Letter-Sent-to-Harvard-2025-04-11.pdf"
                         }
                     ],
-                    "title": "Actions Toward Universities (Executive Order 14188) (Pause or Termination of Grants and Columbia Letter of demands)"
+                    "title": "Actions Toward Universities (Executive Order 14188) (Pause or termination of Grants, Columbia Letter of demands, Harvard Letter of demands)"
                 },
                 {
                     "cases": [
