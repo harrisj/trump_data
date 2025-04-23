@@ -173,21 +173,7 @@
   date_filed: 2025-03-07
   case_no: 1:25-cv-00684
   link: https://www.courtlistener.com/docket/69715653/democracy-forward-foundation-v-us-department-of-the-treasury/
-  agency: Education
-
-- name: Democracy Forward Foundation v. U.S. Department of the Treasury (D.D.C.)
-  description: On Jan. 31 and Feb. 6, 2025, Democracy Forward filed several FOIA requests with the Department of the Treasury, Department of Education, and Small Business Administration, seeking documents from Jan. 20, 2025 onwards following allegations that DOGE staffers and DOGE-affiliated staff "were influencing important functions and policy decisions at agencies across the Executive Branch." These agencies acknowledged receipt but sent no further communications. The Plaintiff states these agencies failed to respond within the statutorily mandated time period under FOIA
-  date_filed: 2025-03-07
-  case_no: 1:25-cv-00684
-  link: https://www.courtlistener.com/docket/69715653/democracy-forward-foundation-v-us-department-of-the-treasury/
-  agency: Treasury
-
-- name: Democracy Forward Foundation v. U.S. Department of the Treasury (D.D.C.)
-  description: On Jan. 31 and Feb. 6, 2025, Democracy Forward filed several FOIA requests with the Department of the Treasury, Department of Education, and Small Business Administration, seeking documents from Jan. 20, 2025 onwards following allegations that DOGE staffers and DOGE-affiliated staff "were influencing important functions and policy decisions at agencies across the Executive Branch." These agencies acknowledged receipt but sent no further communications. The Plaintiff states these agencies failed to respond within the statutorily mandated time period under FOIA
-  date_filed: 2025-03-07
-  case_no: 1:25-cv-00684
-  link: https://www.courtlistener.com/docket/69715653/democracy-forward-foundation-v-us-department-of-the-treasury/
-  agency: SBA
+  agency: [ Education, Treasury, SBA ]
 
 - name: United States Institute of Peace v. Jackson (D.D.C.)
   description: The USIP is suing the DOGE and members of its board for the unlawful seizure and shutdown of the agency following an executive order

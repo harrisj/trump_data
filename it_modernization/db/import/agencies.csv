@@ -1,0 +1,61 @@
+id,name,parent_id
+CDC,Centers for Disease Control and Prevention,HHS
+CMS,Centers for Medicare and Medicaid Services,HHS
+CIA,Central Intelligence Agency,
+Commerce,Commerce Department,
+CFPB,Consumer Financial Protection Bureau,
+Census,Census Bureau,Commerce
+CBP,Customs and Border Patrol,DHS
+CISA,Cybersecurity and Infrastructure Security Agency,DHS
+USDA,Department of Agriculture,
+DOD,Department of Defense,
+DOI,Department of the Interior,
+DOGE,Department of Government Efficiency,EOP
+DHS,Department of Homeland Security,
+DOJ,Department of Justice,
+Education,Department of Education,
+Energy,Department of Energy,
+DOL,Department of Labor,
+Treasury,Department of the Treasury,
+DOT,Department of Transformation,
+EPA,Environmental Protection Agency,
+EOP,Executive Office of the President,
+FAA,Federal Aviation Administration,DOT
+FBI,Federal Bureau of Investigation,DOJ
+FEMA,Federal Emergency Management Agency,DHS
+FHFA,Federal Housing Finance Agency,
+FCC,Federal Communications Commission,
+FDIC,Federal Deposit Insurance Commission,
+FTC,Federal Trade Commission,
+FDA,Food and Drug Administration,HHS
+GSA,General Services Administration,
+HHS,Health and Human Services,
+HUD,Housing and Urban Development,
+ICE,Immigration and Customs Enforcement,DHS
+IMLS,Institute for Museum and Library Services,
+IAF,Inter-American Foundation,
+IRS,Internal Revenue Service,Treasury
+NASA,National Aeronautics and Space Administration,
+NARA,National Archives,
+NEH,National Endowment for the Humanities,
+NLRB,National Labor Relations Board,
+NOAA,National Oceanic and Atmospheric Administration,Commerce
+NIH,National Institute of Health,HHS
+NIST,National Institute of Standards and Technology,
+NSF,National Science Foundation,
+NSA,National Security Agency,DOD
+ODNI,Office of the Director of National Intelligence,
+OPM,Office of Personnel Management,
+Peace,Peace Corps,
+SEC,Securities and Exchange Commission,
+SBA,Small Business Administration,
+SSA,Social Security Administration,
+State,State Department,
+USADF,U.S. African Development Foundation,
+USAID,US Agency for International Development,
+USCIS,US Citizenship & Immigration Services,DHS
+USIP,US Institute of Peace,
+USDS,US Digital Service,EOP
+USPS,US Postal Service,
+VA,Veterans Administration,
+VOA,Voice of America,

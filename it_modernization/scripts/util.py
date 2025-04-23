@@ -85,6 +85,11 @@ class MyYamlDumper(yaml.Dumper):
             super().write_line_break()
 
 
+def read_raw_data(name):
+    path = f"./it_modernization/raw_data/{name}.yaml"
+    return read_yaml(path)
+
+
 def read_raw_events(path="./it_modernization/raw_data/events.yaml"):
     return read_yaml(path)
 

@@ -230,6 +230,30 @@ As well as some silly prototypes that might go away:
 - agencies_chart.md = a chart that uses the posting data to give a rough view of who is where in given agencies. This is highly imprecise!
 - staffing_chart.md = a person-centric view of where individual people have shown up at various agencies
 
+## What About a Database?
+
+You're in luck! As part of the pre-commit hooks, I also generate a sequence of CSV files for DB tables in `db/import` which includes the following tables:
+
+- events (including foreign key references to cases and details tables)
+- agencies
+- aliases
+- details
+- systems
+
+As well as some join tables for representing many-to-many relationships:
+
+- cases_agencies
+- details_aliases
+- details_names
+- events_agencies
+- events_aliases
+- events_names
+- events_systems
+
+For a primary key, I generate an 8-character short UUID as part of the events preprocessing. That can be used to reference the event going forward and for joining against things.
+
+If you want to create the sqlite table, just run the following command `scripts/create_sqlite_db` and it'll completely recreate a database at `doge.sqlite` for you to play with.
+
 ## Next Big Steps
 
 - I need to figure out to better represent the system access/grants/etc. since more details of those are coming to light.

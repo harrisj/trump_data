@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd ..
+it_modernization/scripts/03_load_sqlite.sh
