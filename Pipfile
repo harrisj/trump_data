@@ -12,6 +12,7 @@ pyyaml = "*"
 edtf = "*"
 pydantic = "*"
 shortuuid = "*"
+peewee = "*"
 
 [dev-packages]
 black = "*"
