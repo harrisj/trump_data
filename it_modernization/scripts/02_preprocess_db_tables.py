@@ -23,8 +23,8 @@ out_events = [
     ]
 ]
 out_ea = [["event_id", "agency_id"]]
-out_en = [["event_id", "person_id"]]
-out_eal = [["event_id", "alias_id"]]
+out_en = [["event_id", "name"]]
+out_eal = [["event_id", "alias"]]
 out_es = [["event_id", "system_id"]]
 
 # These will then be used to help load joins in sqlite
@@ -63,7 +63,7 @@ for e in events:
         out_es.append([id, system])
 
 cases = read_raw_data("cases")
-out_ca = [["case_id", "agency_id"]]
+out_ca = [["case_no", "agency_id"]]
 
 for c in cases:
     case_no = c["case_no"]
@@ -74,8 +74,8 @@ for c in cases:
 systems = read_raw_data("systems")
 people = read_raw_data("people")
 
-out_dn = [["detail_id", "person_id"]]
-out_da = [["detail_id", "alias_id"]]
+out_dn = [["detail_id", "name"]]
+out_da = [["detail_id", "alias"]]
 
 details = read_raw_data("details")
 for d in details:
@@ -137,12 +137,11 @@ with open(
     writer.writerows(out_es)
 
 with open("./it_modernization/db/import/cases.csv", "w", newline="") as csvfile:
-    fieldnames = ["id", "name", "description", "date_filed", "status", "link"]
+    fieldnames = ["case_no", "name", "description", "date_filed", "status", "link"]
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames, extrasaction="ignore")
 
     writer.writeheader()
     for case in cases:
-        case["id"] = case["case_no"]
         writer.writerow(case)
 
 with open(

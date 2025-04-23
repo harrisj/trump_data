@@ -1694,10 +1694,6 @@ people:
         to verbal abuse by Gavin Kliger
     - date: 2025-04-18
       agency: IRS
-      type: access_revoked
-      event: Gavin Kliger's building and system access at the IRS is rescinded
-    - date: 2025-04-18
-      agency: IRS
       type: offboarded
       event: Gavin Kliger's building and system access at the IRS is rescinded
 

@@ -5889,6 +5889,13 @@
   agency: NSF
   id: UyobwqMu
 
+- date: 2025-04-14
+  type: disruption
+  event: On the day that NPR published its story with the NLRB whistleblower claims, the Deputy CIO of the agency, Eric Mark, suspends administrative access for all employees, locking the IT staff out of their ability to do their jobs
+  source: https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/
+  agency: NLRB
+  id: 7x2jXvup
+
 - date: 2025-04-15
   type: promotion
   event: Jeremy Lewin is named the new acting head of foreign assistance at the State Department after the departure of Peter Marocco
@@ -6056,21 +6063,13 @@
   id: bdTuzkwu
 
 - date: 2025-04-18
-  type: access_revoked
+  type: offboarded
   comment: Figure out what systems he was granted access for
   event: Gavin Kliger's building and system access at the IRS is rescinded
   named:
   - Gavin Kliger
   agency: IRS
   id: WcfPQ6YY
-
-- date: 2025-04-18
-  type: offboarded
-  event: Gavin Kliger's building and system access at the IRS is rescinded
-  named:
-  - Gavin Kliger
-  agency: IRS
-  id: As6jiANi
 
 - date: 2025-04-18
   type: disruption
@@ -6146,3 +6145,10 @@
   source: https://fedscoop.com/national-science-foundation-nsf-doge-grants-data-systems/
   agency: NSF
   id: meBB4VsV
+
+- date: 2025-04-23
+  type: disruption
+  event: DOGE has reportedly added 10 million records into the Death Master File since March. Some very alive Americans have been declared dead as a result.
+  source: https://www.washingtonpost.com/politics/2025/04/23/dead-social-security-doge-musk/
+  agency: SSA
+  id: enUTyZZ7
