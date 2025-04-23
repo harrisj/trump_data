@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=../schemas/roundups-file.json
 - title: The People Carrying Out Musk's Plans at DOGE
   source: https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html
-  last_updated: 2025-04-07
+  last_updated: 2025-04-18
   publisher: The New York Times
   people:
     Steve Davis: [ OPM, GSA, DHS, FEMA ]
@@ -20,27 +20,28 @@
     Justin Fulcher: VA
     Michael Mirski: [ HUD, FHFA ]
     Tyler Hassen: DOI
+    Katrine Trampe: DOI
     Tarak Makecha: [ OPM, State ]
     Rachel Riley: HHS
     Conor Fennessy: Education
     Tom Krause: Treasury
-    Marko Elez: [ Treasury, SSA, DOL, HHS, USDS, CBP, ICE, DHS ]
+    Marko Elez: [ Treasury, SSA, DOL, HHS, USDS, CBP, ICE, DHS, USCIS, TSA ]
     Ryan Wunderly: Treasury
-    Edward Coristine: [ GSA, USAID, Education, HHS, USDS, DHS ]
-    Luke Farritor: [ GSA, USAID, CDC, CMS, SSA, Energy, Education, HHS, USDS, CFPB ]
+    Edward Coristine: [ GSA, USAID, Education, HHS, USDS, DHS, USCIS, TSA ]
+    Luke Farritor: [ GSA, USAID, CDC, CMS, SSA, Energy, Education, HHS, USDS, CFPB, ICE, DHS, USCIS, TSA ]
     Christopher Stanley: [ DOJ, OPM ]
-    Ethan Shaotran: [ GSA, SSA, Education ]
+    Ethan Shaotran: [ GSA, SSA, Education, IAF ]
     Alexandra Beynon: Education
-    Gavin Kliger: [ OPM, Treasury, Commerce, USAID, CFPB, IRS, USDA ]
+    Gavin Kliger: [ OPM, Treasury, Commerce, USAID, CFPB, IRS, DHS, USDA, TSA ]
     Jordan Wick: CFPB
-    Aram Moghaddassi: [ SSA, Treasury ]
+    Aram Moghaddassi: [ SSA, Treasury, CBP, ICE, DHS, USCIS, TSA ]
     Cole Killian: [ SSA, EPA ]
     Greg Hogan: OPM
     Ryan Riedel: Energy
-    Nate Cavanaugh: GSA
+    Nate Cavanaugh: [ GSA, IAF ]
     Nikhil Rajpal: [ OPM, SSA, NOAA, CFPB ]
     Akash Bobba: [ OPM, GSA, SSA ]
-    Kyle Schutt: [ GSA, HHS, USDS, DHS, FEMA ]
+    Kyle Schutt: [ GSA, HHS, USDS, DHS, FEMA, CBP, ICE, USCIS, TSA ]
     James Burnham: [ DHS, FEMA ]
     Brian Bjelde: OPM
     Kendall Lindemann: USDS
@@ -54,8 +55,8 @@
     Justin Aimonetti: [ GSA, USADF, USIP ]
     Joshua Hanley: GSA
     Antonio Gracias: SSA
-    Jon Koval: SSA
-    Payton Rehling: SSA
+    Jon Koval: [ SSA, DHS ]
+    Payton Rehling: [ SSA, DHS, USCIS, TSA ]
     Scott Coulter: [ SSA, NASA ]
     Mike Russo: SSA
     Frank Schuler: GSA

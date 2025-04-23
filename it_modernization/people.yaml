@@ -594,6 +594,20 @@ people:
       event: The Secretary of the Interior formally designates that Tyler Hassen is in charge of implementing cuts to the
         agency and reorganizing its responsibilities
 
+  Katrine Trampe:
+    agencies:
+    - Department of the Interior
+    events:
+    - date: 2025-02-24
+      agency: DOI
+      type: report
+      event: Stephanie Holmes requests full admin access to the FPPS system to process actions for herself as well as DOGE
+        members Katrine Trampe and Tyler Hassen
+    - date: 2025-03-29
+      agency: DOI
+      type: access_granted
+      event: Two DOGE staffers are granted admin access to the FPPS payroll system at the Department of the Interior
+
   Tarak Makecha:
     agencies:
     - Department of Justice
@@ -824,6 +838,8 @@ people:
     - Health and Human Services
     - Immigration and Customs Enforcement
     - Social Security Administration
+    - Transportation Security Administration
+    - US Citizenship & Immigration Services
     - US Digital Service
     events:
     - date: 2025-01-21
@@ -1061,6 +1077,7 @@ people:
     - Office of Personnel Management
     - Small Business Administration
     - State Department
+    - Transportation Security Administration
     - US Agency for International Development
     - US Citizenship & Immigration Services
     - US Digital Service
@@ -1209,14 +1226,18 @@ people:
     - Department of Education
     - Department of Energy
     - Department of Government Efficiency
+    - Department of Homeland Security
     - Department of the Interior
     - General Services Administration
     - Health and Human Services
+    - Immigration and Customs Enforcement
     - National Institute of Health
     - National Science Foundation
     - Social Security Administration
     - State Department
+    - Transportation Security Administration
     - US Agency for International Development
+    - US Citizenship & Immigration Services
     - US Digital Service
     events:
     - date: 2024-12-05
@@ -1468,6 +1489,7 @@ people:
     - Department of Government Efficiency
     - General Services Administration
     - Housing and Urban Development
+    - Inter-American Foundation
     - National Oceanic and Atmospheric Administration
     - Social Security Administration
     - U.S. African Development Foundation
@@ -1583,11 +1605,13 @@ people:
     - Consumer Financial Protection Bureau
     - Department of Agriculture
     - Department of Government Efficiency
+    - Department of Homeland Security
     - Department of the Treasury
     - Federal Trade Commission
     - Internal Revenue Service
     - National Institute of Health
     - Office of Personnel Management
+    - Transportation Security Administration
     - US Agency for International Development
     - Voice of America
     events:
@@ -1745,12 +1769,15 @@ people:
   Aram Moghaddassi:
     agencies:
     - Centers for Medicare and Medicaid Services
+    - Customs and Border Patrol
     - Department of Government Efficiency
     - Department of Homeland Security
     - Department of Labor
     - Department of the Treasury
     - Health and Human Services
+    - Immigration and Customs Enforcement
     - Social Security Administration
+    - Transportation Security Administration
     - US Citizenship & Immigration Services
     events:
     - date: 2025-02-18
@@ -1970,6 +1997,7 @@ people:
     agencies:
     - General Services Administration
     - Institute for Museum and Library Services
+    - Inter-American Foundation
     - National Endowment for the Humanities
     - U.S. African Development Foundation
     - US Institute of Peace
@@ -2216,12 +2244,15 @@ people:
 
   Kyle Schutt:
     agencies:
+    - Customs and Border Patrol
     - Cybersecurity and Infrastructure Security Agency
     - Department of Government Efficiency
     - Department of Homeland Security
     - Federal Emergency Management Agency
     - General Services Administration
     - Health and Human Services
+    - Immigration and Customs Enforcement
+    - Transportation Security Administration
     - US Citizenship & Immigration Services
     - US Digital Service
     events:
@@ -2631,6 +2662,7 @@ people:
   Jon Koval:
     agencies:
     - Department of Government Efficiency
+    - Department of Homeland Security
     - Internal Revenue Service
     - Social Security Administration
     - Veterans Administration
@@ -2680,6 +2712,7 @@ people:
     - Department of Homeland Security
     - Internal Revenue Service
     - Social Security Administration
+    - Transportation Security Administration
     - US Citizenship & Immigration Services
     - Veterans Administration
     events:
@@ -3428,20 +3461,6 @@ people:
       type: onboarded
       event: NOAA announces that Bryton Shang a Senior Advisor to the NOAA Administrator, focusing on the "application of
         artificial intelligence (AI) to enhance NOAA's effectiveness and impact."
-
-  Katrine Trampe:
-    agencies:
-    - Department of the Interior
-    events:
-    - date: 2025-02-24
-      agency: DOI
-      type: report
-      event: Stephanie Holmes requests full admin access to the FPPS system to process actions for herself as well as DOGE
-        members Katrine Trampe and Tyler Hassen
-    - date: 2025-03-29
-      agency: DOI
-      type: access_granted
-      event: Two DOGE staffers are granted admin access to the FPPS payroll system at the Department of the Interior
 
   Elon Musk:
     agencies:

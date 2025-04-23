@@ -873,6 +873,8 @@ CBP:
   doge_base: true
   associated:
   - Marko Elez
+  - Aram Moghaddassi
+  - Kyle Schutt
   events: []
   systems: {}
   cases: {}
@@ -1988,7 +1990,10 @@ DHS:
   - Edward Coristine
   - Steve Davis
   - Marko Elez
+  - Luke Farritor
   - Antonio Gracias
+  - Gavin Kliger
+  - Jon Koval
   - Antoine McCord
   - Aram Moghaddassi
   - Payton Rehling
@@ -4911,6 +4916,9 @@ ICE:
   doge_base: true
   associated:
   - Marko Elez
+  - Luke Farritor
+  - Aram Moghaddassi
+  - Kyle Schutt
   events: []
   systems: {}
   cases: {}
@@ -4975,8 +4983,10 @@ IAF:
   id: IAF
   associated:
   - Jacob Altik
+  - Nate Cavanaugh
   - Kenneth Jackson
   - Peter Marocco
+  - Ethan Shaotran
   events:
   - date: 2025-02-19
     type: official
@@ -7364,6 +7374,22 @@ State:
   systems: {}
   cases: {}
 
+TSA:
+  name: Transportation Security Administration
+  id: TSA
+  parent_id: DHS
+  associated:
+  - Edward Coristine
+  - Marko Elez
+  - Luke Farritor
+  - Gavin Kliger
+  - Aram Moghaddassi
+  - Payton Rehling
+  - Kyle Schutt
+  events: []
+  systems: {}
+  cases: {}
+
 USADF:
   name: U.S. African Development Foundation
   id: USADF
@@ -7716,6 +7742,8 @@ USCIS:
   parent_id: DHS
   associated:
   - Edward Coristine
+  - Marko Elez
+  - Luke Farritor
   - Antoine McCord
   - Aram Moghaddassi
   - Payton Rehling
