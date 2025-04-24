@@ -1,43 +1,32 @@
 #!/bin/bash
 DB=./it_modernization/doge.sqlite
 PREFIX=./it_modernization/db/import
-rm -f $DB
 
-sqlite-utils insert $DB court_case $PREFIX/cases.csv --csv --pk case_no --not-null name --not-null case_no --not-null link --not-null date_filed --silent
-sqlite-utils insert $DB event $PREFIX/events.csv --csv --pk id --not-null id --not-null date --not-null event --not-null type --silent
-sqlite-utils insert $DB agency $PREFIX/agencies.csv --csv --pk id --not-null id --not-null name --silent
-sqlite-utils insert $DB alias $PREFIX/aliases.csv --csv --pk id --not-null id --silent
-sqlite-utils insert $DB detail $PREFIX/details.csv --csv --pk id --not-null id --not-null start_date --not-null from --not-null to --not-null source --silent
-sqlite-utils insert $DB system $PREFIX/systems.csv --csv --pk id --not-null id --not-null name --not-null description --silent
-sqlite-utils insert $DB person $PREFIX/people.csv --csv --pk name --not-null name --not-null sort_name --silent
+if [ ! -f "$DB" ]; then
+    echo "$DB does not exist. Loading schema..."
+    sqlite3 $DB < $PREFIX/../sqlite_schema.sql
+fi
 
-sqlite-utils add-foreign-key $DB event detail_id detail id 
-sqlite-utils add-foreign-key $DB event case_no court_case case_no
+sqlite-utils insert $DB court_case $PREFIX/cases.csv --pk case_no --csv --truncate --empty-null
+sqlite-utils insert $DB agency $PREFIX/agencies.csv --pk id --csv --truncate --empty-null
+sqlite-utils insert $DB alias $PREFIX/aliases.csv --pk id --csv --truncate --empty-null
+sqlite-utils insert $DB detail $PREFIX/details.csv --pk id --csv --truncate --empty-null
+sqlite-utils insert $DB system $PREFIX/systems.csv --pk id --csv --truncate --empty-null
+sqlite-utils insert $DB person $PREFIX/people.csv --pk name --csv --truncate --empty-null
+sqlite-utils insert $DB event_temp $PREFIX/events.csv --pk id --csv --empty-null --truncate
 
-sqlite-utils insert $DB court_case_agency_through $PREFIX/cases_agencies.csv --csv --silent
-sqlite-utils add-foreign-key $DB court_case_agency_through case_no court_case case_no
-sqlite-utils add-foreign-key $DB court_case_agency_through agency_id agency id
+# Can't use
 
-sqlite-utils insert $DB detail_alias_through $PREFIX/details_aliases.csv --csv --silent
-sqlite-utils add-foreign-key $DB detail_alias_through detail_id detail id
-sqlite-utils add-foreign-key $DB detail_alias_through alias alias id
+# 
+# INSERT INTO event(id, event_type, event_date, sort_date, event_text, fuzz, comment, source,access_type, onboard_type, deta iled_from, detail_id, case_no) SELECT id, event_type, event_date, sort_date, event_text, fuzz, comment, source, access_type, onboard_type, detailed_from, detail_id FROM event_temp WHERE true ON CONFLICT(event_type, event_date, sort_date, event_text, fuzz, comment, source, access_type, onboard_type, detailed_from, detail_id) DO UPDATE set event_date=excluded.event_date, sort_date=excluded.sort_date, event_text=excluded.event_text, fuzz=excluded.fuzz, comment=excluded.comment, source=excluded.source, access_type=excluded.access_type, onboard_type=excluded.onboard_type, detailed_from=excluded.detailed_form, detail_id=excluded.detail_id, modified_at=CURRENT_TIMESTAMP;
 
-sqlite-utils insert $DB detail_person_through $PREFIX/details_names.csv --csv --silent
-sqlite-utils add-foreign-key $DB detail_person_through detail_id detail id
-sqlite-utils add-foreign-key $DB detail_person_through name person name
+sqlite-utils query $DB "INSERT INTO event SELECT et.*, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, 0 FROM event e RIGHT JOIN event_temp et ON e.id=et.id WHERE e.id IS NULL OR (e.event_type != et.event_type OR e.sort_date != et.sort_date OR e.event_text != et.event_text OR e.fuzz != et.fuzz OR e.comment != et.comment OR e.source != et.source OR e.access_type != et.access_type OR e.onboard_type != et.onboard_type OR e.detailed_from != et.detailed_from OR e.detail_id != et.detail_id OR e.case_no != et.case_no) ON CONFLICT(id) DO UPDATE set event_date=excluded.event_date, sort_date=excluded.sort_date, event_text=excluded.event_text, fuzz=excluded.fuzz, comment=excluded.comment, source=excluded.source, access_type=excluded.access_type, onboard_type=excluded.onboard_type, detailed_from=excluded.detailed_from, detail_id=excluded.detail_id, case_no=excluded.case_no, created_at=excluded.created_at, modified_at=CURRENT_TIMESTAMP, mod_count=excluded.mod_count+1" --silent
 
-sqlite-utils insert $DB event_agency_through $PREFIX/events_agencies.csv --csv --silent
-sqlite-utils add-foreign-key $DB event_agency_through event_id event id
-sqlite-utils add-foreign-key $DB event_agency_through agency_id agency id
 
-sqlite-utils insert $DB event_alias_through $PREFIX/events_aliases.csv --csv --silent
-sqlite-utils add-foreign-key $DB event_alias_through event_id event id
-sqlite-utils add-foreign-key $DB event_alias_through alias alias id
-
-sqlite-utils insert $DB event_person_through $PREFIX/events_names.csv --csv --silent
-sqlite-utils add-foreign-key $DB event_person_through event_id event id
-sqlite-utils add-foreign-key $DB event_person_through name person name
-
-sqlite-utils insert $DB event_system_through $PREFIX/events_systems.csv --csv --silent
-sqlite-utils add-foreign-key $DB event_system_through event_id event id
-sqlite-utils add-foreign-key $DB event_system_through system_id system id
+sqlite-utils insert $DB court_case_agency_through $PREFIX/cases_agencies.csv --csv --silent --truncate
+sqlite-utils insert $DB detail_alias_through $PREFIX/details_aliases.csv --csv --silent --truncate
+sqlite-utils insert $DB detail_person_through $PREFIX/details_names.csv --csv --silent --truncate
+sqlite-utils insert $DB event_agency_through $PREFIX/events_agencies.csv --csv --silent --truncate
+sqlite-utils insert $DB event_alias_through $PREFIX/events_aliases.csv --csv --silent --truncate
+sqlite-utils insert $DB event_person_through $PREFIX/events_names.csv --csv --silent --truncate
+sqlite-utils insert $DB event_system_through $PREFIX/events_systems.csv --csv --silent --truncate
