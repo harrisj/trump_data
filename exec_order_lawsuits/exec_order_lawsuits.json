@@ -4083,6 +4083,22 @@
                             "complaint_link_text": "Complaint",
                             "date_filed": "2025-04-16",
                             "last_update": "2025-04-16"
+                        },
+                        {
+                            "case_link": {
+                                "title": "Oregon v. Trump",
+                                "url": "https://www.courtlistener.com/docket/69931546/the-state-of-oregon-v-trump/"
+                            },
+                            "case_name": "Oregon v. Trump (U.S. Court of International Trade) Case No.  1:25-cv-00077-N/A",
+                            "case_summary": "[Coming soon]",
+                            "case_summary_html": "[Coming soon]",
+                            "complaint_link": {
+                                "title": "Complaint",
+                                "url": "https://storage.courtlistener.com/recap/gov.uscourts.cit.17091/gov.uscourts.cit.17091.2.0_1.pdf"
+                            },
+                            "complaint_link_text": "Complaint",
+                            "date_filed": "2025-04-23",
+                            "last_update": "2025-04-23"
                         }
                     ],
                     "links": [],
