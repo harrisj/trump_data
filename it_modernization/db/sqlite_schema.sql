@@ -55,6 +55,7 @@ CREATE TABLE [system] (
 CREATE TABLE [person] (
    [name] TEXT PRIMARY KEY NOT NULL,
    [sort_name] TEXT NOT NULL,
+   [slug] TEXT NOT NULL,
    [age] TEXT,
    [background] TEXT
 );

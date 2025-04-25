@@ -206,7 +206,7 @@ with open(
 
 
 with open("./it_modernization/db/import/people.csv", "w", newline="") as csvfile:
-    fieldnames = ["name", "sort_name", "age", "background"]
+    fieldnames = ["name", "sort_name", "slug", "age", "background"]
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames, extrasaction="ignore")
 
     writer.writeheader()

@@ -6,6 +6,8 @@ gantt
     title DOGE staffing
     todayMarker off
     dateFormat YYYY-MM-DD
+    section Justin Aimonetti
+        GSA : 2025-03-20, 2025-04-27
     section Jacob Altik
         OPM : 2025-02-12, 2025-04-27
         USADF : 2025-02-21, 2025-03-06
@@ -27,6 +29,8 @@ gantt
         GSA : 2025-02-02, 2025-04-27
         Education : 2025-02-03, 2025-04-27
         SSA : 2025-02-03, 2025-04-27
+    section Ashley Boizelle
+        GSA : 2025-03-20, 2025-04-27
     section Emily Bryant
         FTC : 2025-04-04, 2025-04-27
     section James Burnham
@@ -130,6 +134,8 @@ gantt
         IAF : 2025-03-10, 2025-03-10
         USIP : 2025-03-14, 2025-03-25
         USAID : 2025-03-18, 2025-03-28
+    section Raj Jegannathan
+        GSA : 2025-04-24, 2025-04-27
     section Erica Jehling
         EPA : 2025-02-12, 2025-04-27
     section Thomas Kiernan
@@ -164,6 +170,7 @@ gantt
         HHS : 2025-02-21, 2025-04-27
         NIH : 2025-02-21, 2025-04-27
         CMS : 2025-03-03, 2025-04-27
+        GSA : 2025-03-20, 2025-04-27
         State : 2025-04-15, 2025-04-27
     section Kathryn Armstrong Loving
         EPA : 2025-02-12, 2025-04-27
@@ -175,6 +182,8 @@ gantt
         FCC : 2025-04-04, 2025-04-27
     section Ted Malaska
         FAA : 2025-02-16, 2025-02-18
+    section Dave Malcher
+        GSA : 2025-04-24, 2025-04-27
     section Peter Marocco
         IAF : 2025-02-28, 2025-03-10
         USADF : 2025-03-04, 2025-03-06

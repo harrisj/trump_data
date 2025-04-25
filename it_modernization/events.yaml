@@ -6595,6 +6595,35 @@ events:
   agency: GSA
   id: fSuPuFSV
 
+- date: 2025-03-20
+  type: report
+  event: During an all-hands meeting, GSA Administrator Stephen Ehikian claimed there is no DOGE team within GSA. Nobody believes
+    him.
+  named:
+  - Stephen Ehikian
+  source: https://www.wired.com/story/elon-musk-doge-mystery-general-services-administration/
+  agency: GSA
+  id: AW4amVgu
+
+- date: 2025-03-20
+  type: report
+  event: Wired Magazine list DOGE staff stationed within GSA, all of whom were listed on GSA payroll on March 20
+  comment: Coristine, Shaotran, Hollander, and Farritor are all listed as volunteer SGEs
+  named:
+  - Thomas Shedd
+  - Riley Sennott
+  - Edward Coristine
+  - Nicole Hollander
+  - Jeremy Lewin
+  - Luke Farritor
+  - Kyle Schutt
+  - Nate Cavanaugh
+  - Justin Aimonetti
+  - Ashley Boizelle
+  source: https://www.wired.com/story/elon-musk-doge-mystery-general-services-administration/
+  agency: GSA
+  id: 8PXutJ5n
+
 - date: 2025-03-21
   type: access_granted
   access_type: unknown
@@ -8412,3 +8441,13 @@ events:
   source: https://www.washingtonpost.com/politics/2025/04/23/dead-social-security-doge-musk/
   agency: SSA
   id: enUTyZZ7
+
+- date: 2025-04-24
+  type: report
+  event: Wired Magazine identifies two new DOGE staffers recently seen as employees within the GSA
+  named:
+  - Raj Jegannathan
+  - Dave Malcher
+  source: https://www.wired.com/story/elon-musk-doge-mystery-general-services-administration/
+  agency: GSA
+  id: MGxiRV2v

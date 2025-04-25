@@ -51,6 +51,11 @@ gantt
         Nate Cavanaugh : 2025-02-18, 2025-04-27
         Kyle Schutt : 2025-03-04, 2025-04-27
         Derek Geissler : 2025-03-04, 2025-04-27
+        Jeremy Lewin : 2025-03-20, 2025-04-27
+        Justin Aimonetti : 2025-03-20, 2025-04-27
+        Ashley Boizelle : 2025-03-20, 2025-04-27
+        Raj Jegannathan : 2025-04-24, 2025-04-27
+        Dave Malcher : 2025-04-24, 2025-04-27
     SECTION HHS
         Luke Farritor : 2025-01-21, 2025-04-27
         Rachel Riley : 2025-01-27, 2025-04-27

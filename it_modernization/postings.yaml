@@ -1518,7 +1518,7 @@ postings:
   onboard_date: 2025-01-20
   agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-08
+  doge_agency_last: 2025-04-24
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: GSA
@@ -1529,12 +1529,13 @@ postings:
   - 2025-01-30
   - 2025-02-02
   - 2025-03-04
+  - 2025-03-20
   - 2025-04-08
   last_date: 2025-04-08
   onboard_date: 2025-01-20~
   agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-08
+  doge_agency_last: 2025-04-24
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: GSA
@@ -1546,11 +1547,12 @@ postings:
   - 2025-01-30
   - 2025-01-31
   - 2025-03-04
-  last_date: 2025-03-04
+  - 2025-03-20
+  last_date: 2025-03-20
   onboard_date: 2025-01-20~
   agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-08
+  doge_agency_last: 2025-04-24
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: GSA
@@ -1561,12 +1563,13 @@ postings:
   - 2025-01-31
   - 2025-02-02
   - 2025-03-04
+  - 2025-03-20
   - 2025-04-08
   last_date: 2025-04-08
   onboard_date: 2025-01-20~
   agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-08
+  doge_agency_last: 2025-04-24
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: GSA
@@ -1581,7 +1584,7 @@ postings:
   onboard_date: 2025-01-20~
   agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-08
+  doge_agency_last: 2025-04-24
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: GSA
@@ -1594,7 +1597,7 @@ postings:
   onboard_date: 2025-01-20~
   agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-08
+  doge_agency_last: 2025-04-24
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: GSA
@@ -1609,11 +1612,12 @@ postings:
   - 2025-02-19
   - 2025-03-01
   - 2025-03-06
-  last_date: 2025-03-06
+  - 2025-03-20
+  last_date: 2025-03-20
   onboard_date: 2025-01-24
   agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-08
+  doge_agency_last: 2025-04-24
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: GSA
@@ -1624,7 +1628,7 @@ postings:
   last_date: 2025-01-30
   agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-08
+  doge_agency_last: 2025-04-24
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: GSA
@@ -1637,7 +1641,7 @@ postings:
   last_date: 2025-04-08
   agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-08
+  doge_agency_last: 2025-04-24
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: GSA
@@ -1649,7 +1653,7 @@ postings:
   last_date: 2025-04-08
   agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-08
+  doge_agency_last: 2025-04-24
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: GSA
@@ -1657,11 +1661,12 @@ postings:
   first_date: 2025-02-12
   all_dates:
   - 2025-02-12
-  last_date: 2025-02-12
+  - 2025-03-20
+  last_date: 2025-03-20
   onboard_date: 2025-02-12
   agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-08
+  doge_agency_last: 2025-04-24
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: GSA
@@ -1670,11 +1675,12 @@ postings:
   all_dates:
   - 2025-02-18~
   - 2025-03-04
+  - 2025-03-20
   - 2025-04-08
   last_date: 2025-04-08
   agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-08
+  doge_agency_last: 2025-04-24
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: GSA
@@ -1682,10 +1688,11 @@ postings:
   first_date: 2025-03-04
   all_dates:
   - 2025-03-04
-  last_date: 2025-03-04
+  - 2025-03-20
+  last_date: 2025-03-20
   agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-08
+  doge_agency_last: 2025-04-24
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: GSA
@@ -1696,7 +1703,62 @@ postings:
   last_date: 2025-03-04
   agency_doge_base: true
   doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-08
+  doge_agency_last: 2025-04-24
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: GSA
+  name: Jeremy Lewin
+  first_date: 2025-03-20
+  all_dates:
+  - 2025-03-20
+  last_date: 2025-03-20
+  agency_doge_base: true
+  doge_agency_first: 2025-01-20
+  doge_agency_last: 2025-04-24
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: GSA
+  name: Justin Aimonetti
+  first_date: 2025-03-20
+  all_dates:
+  - 2025-03-20
+  last_date: 2025-03-20
+  agency_doge_base: true
+  doge_agency_first: 2025-01-20
+  doge_agency_last: 2025-04-24
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: GSA
+  name: Ashley Boizelle
+  first_date: 2025-03-20
+  all_dates:
+  - 2025-03-20
+  last_date: 2025-03-20
+  agency_doge_base: true
+  doge_agency_first: 2025-01-20
+  doge_agency_last: 2025-04-24
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: GSA
+  name: Raj Jegannathan
+  first_date: 2025-04-24
+  all_dates:
+  - 2025-04-24
+  last_date: 2025-04-24
+  agency_doge_base: true
+  doge_agency_first: 2025-01-20
+  doge_agency_last: 2025-04-24
+  doge_agency_last_adjusted: 2025-04-27
+
+- agency_id: GSA
+  name: Dave Malcher
+  first_date: 2025-04-24
+  all_dates:
+  - 2025-04-24
+  last_date: 2025-04-24
+  agency_doge_base: true
+  doge_agency_first: 2025-01-20
+  doge_agency_last: 2025-04-24
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: HHS

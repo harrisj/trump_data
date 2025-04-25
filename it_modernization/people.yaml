@@ -480,6 +480,10 @@ people:
       agency: USAID
       type: report
       event: Peter Marocco says that he will be succeeded at the agency by Jeremy Lewin and Kenneth Jackson
+    - date: 2025-03-20
+      agency: GSA
+      type: report
+      event: Wired Magazine list DOGE staff stationed within GSA, all of whom were listed on GSA payroll on March 20
     - date: 2025-03-26
       agency: DOGE
       type: report
@@ -1183,6 +1187,10 @@ people:
       type: access_granted
       event: DHS CIO Antoine McCord requests that access be granted for DOGE to the USCIS Data Business Intelligence Services
         (aka, the Data Lake)
+    - date: 2025-03-20
+      agency: GSA
+      type: report
+      event: Wired Magazine list DOGE staff stationed within GSA, all of whom were listed on GSA payroll on March 20
     - date: 2025-03-28
       agency: USCIS
       type: report
@@ -1387,6 +1395,10 @@ people:
       event: Wired reports that 10 DOGE staffers - Akash Bobba, Scott Coulter, Marko Elez, Luke Farritor, Antonio Gracias,
         Gautier Cole Killian, Jon Koval, Nikhil Rajpal, Payton Rehling, and Ethan Shaotran - are showing up in the Microsoft
         Teams directory at SSA
+    - date: 2025-03-20
+      agency: GSA
+      type: report
+      event: Wired Magazine list DOGE staff stationed within GSA, all of whom were listed on GSA payroll on March 20
     - date: 2025-03-21
       agency: HHS
       type: access_granted
@@ -2055,6 +2067,10 @@ people:
       type: disruption
       event: DOGE members Kenneth Jackson, Jacob Altik and Nate Cavanaugh remove staff and president of the USIP with the
         help of Office of the U.S. Attorney for the District of Columbia, the FBI and D.C. police
+    - date: 2025-03-20
+      agency: GSA
+      type: report
+      event: Wired Magazine list DOGE staff stationed within GSA, all of whom were listed on GSA payroll on March 20
     - date: 2025-03-25
       agency: USIP
       type: promotion
@@ -2276,6 +2292,10 @@ people:
       type: access_granted
       event: DHS CIO Antoine McCord requests that access be granted for DOGE to the USCIS Data Business Intelligence Services
         (aka, the Data Lake)
+    - date: 2025-03-20
+      agency: GSA
+      type: report
+      event: Wired Magazine list DOGE staff stationed within GSA, all of whom were listed on GSA payroll on March 20
     - date: 2025-03-21
       agency: HHS
       type: access_granted
@@ -2585,6 +2605,10 @@ people:
       type: report
       event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP),
         including 4 lawyers previously not listed
+    - date: 2025-03-20
+      agency: GSA
+      type: report
+      event: Wired Magazine list DOGE staff stationed within GSA, all of whom were listed on GSA payroll on March 20
     - date: 2025-03-26
       agency: DOGE
       type: report
@@ -2931,6 +2955,10 @@ people:
       type: report
       event: Wired reports that some DOGE staff (Kyle Schutt, Nate Cavanaugh) are being paid as full-time GSA employees, but
         other staff are listed as volunteers for that agency
+    - date: 2025-03-20
+      agency: GSA
+      type: report
+      event: Wired Magazine list DOGE staff stationed within GSA, all of whom were listed on GSA payroll on March 20
 
   Joanna Wischer:
     agencies:
@@ -3093,6 +3121,10 @@ people:
       type: onboarded
       event: Thomas Shedd starts working at the CIO at Department of Labor while also serving as the TTS Commissioner at GSA
         (experts are unclear if this is legal)
+    - date: 2025-03-20
+      agency: GSA
+      type: report
+      event: Wired Magazine list DOGE staff stationed within GSA, all of whom were listed on GSA payroll on March 20
 
   Leland Dudek:
     agencies:
@@ -3172,6 +3204,11 @@ people:
       agency: GSA
       type: report
       event: Stephen Ehikian claims there is nobody from DOGE working at the agency
+    - date: 2025-03-20
+      agency: GSA
+      type: report
+      event: During an all-hands meeting, GSA Administrator Stephen Ehikian claimed there is no DOGE team within GSA. Nobody
+        believes him.
     - date: 2025-04-08
       agency: GSA
       type: report
@@ -3260,6 +3297,10 @@ people:
       type: report
       event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP),
         including 4 lawyers previously not listed
+    - date: 2025-03-20
+      agency: GSA
+      type: report
+      event: Wired Magazine list DOGE staff stationed within GSA, all of whom were listed on GSA payroll on March 20
     - date: 2025-03-26
       agency: DOGE
       type: report
@@ -3389,6 +3430,10 @@ people:
       type: report
       event: A Business Insider article reports that Alexander Simonpour has shown up at NASA and also has a GSA address.
         Riley Sennott and Scott Coulter also are listed
+    - date: 2025-03-20
+      agency: GSA
+      type: report
+      event: Wired Magazine list DOGE staff stationed within GSA, all of whom were listed on GSA payroll on March 20
 
   Sam Beyda:
     agencies:
@@ -3929,3 +3974,21 @@ people:
       type: report
       event: A new DOGE staffer (Roland Shen) who works for the payments startup Ramp has reportedly been granted access to
         BFS systems
+
+  Raj Jegannathan:
+    agencies:
+    - General Services Administration
+    events:
+    - date: 2025-04-24
+      agency: GSA
+      type: report
+      event: Wired Magazine identifies two new DOGE staffers recently seen as employees within the GSA
+
+  Dave Malcher:
+    agencies:
+    - General Services Administration
+    events:
+    - date: 2025-04-24
+      agency: GSA
+      type: report
+      event: Wired Magazine identifies two new DOGE staffers recently seen as employees within the GSA

@@ -1,497 +1,629 @@
 # yaml-language-server: $schema=../schemas/people-file.json
 - name: Elon Musk
   sort_name: Musk
+  slug: elon-musk
   background: executive
 
 - name: Amy Gleason
   sort_name: Gleason
+  slug: amy-gleason
   age: 53
   background: coder
 
 - name: Daniel Abrahamson
   sort_name: Abrahamson
+  slug: daniel-abrahamson
   background: lawyer
   age: 41
 
 - name: Baris Akis
+  slug: baris-akis
   sort_name: Akis
+  background: finance
 
 - name: Justin Aimonetti
   sort_name: Aimonetti
+  slug: justin-aimonetti
   age: 31
   background: lawyer
 
 - name: Jacob Altik
   sort_name: Altik
+  slug: jacob-altik
   age: 32
   background: lawyer
 
 - name: Marc Andreessen
   sort_name: Andreessen
+  slug: mark-andreesen
   background: executive
 
 - name: Anthony Armstrong
   sort_name: Armstrong
+  slug: anthony-armstrong
   age: 57
   background: finance
 
 - name: Jennifer Balajadia
   sort_name: Balajadia
+  slug: jennifer-balajadia
   age: 36
   background: executive
 
 - name: Sam Beyda
   sort_name: Beyda
+  slug: sam-beyda
 
 - name: Alexandra Beynon
   sort_name: Beynon
+  slug: alexandra-beynon
   age: 36
   background: coder
 
 - name: Riccardo Biasini
   sort_name: Biasini
+  slug: riccardo-biasini
   age: 39
   background: executive
 
 - name: Jared Birchall
   sort_name: Birchall
+  slug: jared-birchall
 
 - name: Brian Bjelde
   sort_name: Bjelde
+  slug: brian-bjelde
   age: 44
   background: executive
 
 - name: Akash Bobba
   sort_name: Bobba
+  slug: akash-bobba
   age: 21
   background: coder
 
 - name: Ashley Boizelle
   sort_name: Boizelle
+  slug: ashley-boizelle
   background: lawyer
 
 - name: Emily Bryant
   sort_name: Bryant
+  slug: emily-bryant
   age: 23
 
 - name: James Burnham
   sort_name: Burnham
+  slug: james-burnham
   age: 41
   background: lawyer
 
 - name: Nate Cavanaugh
   sort_name: Cavanaugh
+  slug: nate-cavanaugh
   age: 28
   background: executive
 
 - name: Miles Collins
   sort_name: Collins
+  slug: miles-collins
 
 - name: George Cooper
   sort_name: Cooper
+  slug: george-cooper
 
 - name: Sam Corcos
   sort_name: Corcos
+  slug: sam-corcos
   age: 36
   background: executive
 
 - name: Edward Coristine
   sort_name: Coristine
+  slug: edward-coristine
   age: 19
   background: coder
 
 - name: Scott Coulter
   sort_name: Coulter
+  slug: scott-coulter
   age: 40
   background: finance
 
 - name: Steve Davis
   sort_name: Davis
+  slug: steve-davis
   age: 45
   background: executive
 
 - name: Stephen Duarte
   sort_name: Duarte
+  slug: stephen-duarte
   age: 32
   background: hr
 
 - name: Leland Dudek
+  slug: leland-dudek
   sort_name: Dudek
+  background: political
 
 - name: Stephen Ehikian
   sort_name: Ehikian
+  slug: stephen-ehikian
   age: 43
   background: executive
 
 - name: Marko Elez
   sort_name: Elez
+  slug: marko-elez
   age: 25
   background: coder
 
 - name: Charles Ezell
   sort_name: Ezell
+  slug: charles-ezell
+  background: political
 
 - name: Luke Farritor
   sort_name: Farritor
+  slug: luke-farritor
   age: 23
   background: coder
 
 - name: Conor Fennessy
   sort_name: Fennessy
+  slug: conor-fennessy
   age: 32
   background: finance
 
 - name: Joshua Fox
   sort_name: Fox
+  slug: joshua-fox
 
 - name: Justin Fulcher
   sort_name: Fulcher
+  slug: justin-fulcher
   age: 32
   background: coder
 
 - name: Mattieu Gamache-Asselin
   sort_name: Gamache-Asselin
+  slug: mattieu-gamache
   age: 34
   background: coder
 
 - name: Joe Gebbia
   sort_name: Gebbia
+  slug: joe-gebbia
   age: 43
   background: executive
 
 - name: Derek Geissler
   sort_name: Geissler
+  slug: derek-geissler
 
 - name: Brady Glantz
   sort_name: Glantz
+  slug: brady-glantz
   age: 27
   background: coder
 
 - name: Mike Gonzalez
   sort_name: Gonzalez
+  slug: mike-gonzale
 
 - name: Antonio Gracias
   age: 54
   sort_name: Gracias
+  slug: antonio-gracias
   background: finance
 
 - name: Michael Grimes
   sort_name: Grimes
+  slug: michael-grimes
 
 - name: Gavin Hamrick
   sort_name: Hamrick
+  slug: gavin-hamrick
+  background: political
 
 - name: Joshua Hanley
   age: 27
   sort_name: Hanley
+  slug: joshua-hanley
   background: lawyer
 
 - name: Christina Hanna
   sort_name: Hanna
+  slug: christina-hanna
   age: 39
   background: hr
 
 - name: Tyler Hassen
-  sort_name: Hiremath
+  sort_name: Hassen
+  slug: tyler-hassen
   age: 42
   background: executive
 
 - name: Vinay Hiremath
   sort_name: Hiremath
+  slug: vinay-hiremath
+  background: executive
 
 - name: Adam Hoffman
   sort_name: Hoffman
+  slug: adam-hoffman
 
 - name: Greg Hogan
   sort_name: Hogan
+  slug: greg-hogan
   age: 42
   background: coder
 
 - name: Nicole Hollander
+  slug: nicole-hollander
   sort_name: Hollander
   age: 42
   background: executive
 
 - name: Stephanie Holmes
   sort_name: Holmes
+  slug: stephanie-holmes
   age: 43
   background: hr
 
 - name: Jared Isaacman
   sort_name: Isaacman
+  slug: jared-isaacman
+  background: executive
 
 - name: Kenneth Jackson
   sort_name: Jackson
+  slug: kenneth-jackson
 
 - name: Anthony Jancso
   sort_name: Jancso
+  slug: anthony-jancso
+
+- name: Raj Jegannathan
+  sort_name: Jegannathan
+  slug: raj-jegannathan
+  background: executive
 
 - name: Erica Jehling
   sort_name: Jehling
+  slug: erica-jehling
   age: 40
   background: executive
 
 - name: Thomas Kiernan
   sort_name: Kiernan
+  slug: thomas-kiernan
   age: 30
   background: coder
 
 - name: Cole Killian
   sort_name: Killian
+  slug: cole-killian
   age: 24
   background: coder
 
 - name: Gavin Kliger
   sort_name: Kliger
+  slug: gavin-kliger
   age: 25
   background: coder
 
 - name: Keenan Kmiec
   sort_name: Kmiec
+  slug: keenan-kmiec
   age: 45
   background: lawyer
 
 - name: Jon Koval
   sort_name: Koval
+  slug: jon-koval
   age: 27
   background: finance
 
 - name: Michael Kratsios
   sort_name: Kratsios
+  slug: michael-kratsios
 
 - name: Tom Krause
   sort_name: Krause
+  slug: tom-krause
   age: 47
   background: executive
 
 - name: Scott Kupor
   sort_name: Kupor
+  slug: scott-kupor
+  background: executive
 
 - name: Nicholas Lahera
   sort_name: Lahera
+  slug: nicholas-lahera
 
 - name: Sahil Lavingia
   sort_name: Lavingia
+  slug: shail-lavingia
   age: 32
   background: executive
 
 - name: Scott Langmack
   sort_name: Langmack
+  slug: scott-langmack
   age: 66
   background: executive
 
 - name: Jeremy Lewin
   sort_name: Lewin
+  slug: jeremy-lewin
   age: 28
   background: lawyer
 
 - name: Kendall Lindemann
   sort_name: Lindemann
+  slug: kendall-lindemann
   age: 24
   background: executive
 
 - name: Kathryn Armstrong Loving
   sort_name: Loving
+  slug: kathryn-loving
   age: 44
   background: coder
 
 - name: Matt Luby
   sort_name: Luby
+  slug: matt-luby
 
 - name: Shaun Maguire
   sort_name: Maguire
+  slug: shaun-maguire
+  background: executive
 
 - name: Tarak Makecha
   sort_name: Makecha
+  slug: tarak-makecha
 
 - name: Ted Malaska
   sort_name: Malaska
+  slug: ted-malaska
+  background: coder
+
+- name: Dave Malcher
+  sort_name: Malcher
+  slug: dave-malcher
   background: coder
 
 - name: Peter Marocco
   sort_name: Marocco
+  slug: peter-marocco
 
 - name: Antoine McCord
   sort_name: McCord
+  slug: antoine-mccord
 
 - name: Clark Minor
   sort_name: Minor
+  slug: clark-minor
   age: 35
   background: coder
 
 - name: Katie Miller
   sort_name: Miller
+  slug: katie-miller
   age: 33
   background: political
 
 - name: Michael Mirski
   sort_name: Mirski
+  slug: michael-mirski
   age: 32
   background: coder
 
 - name: Eliezer Mishory
   sort_name: Mishory
+  slug: eli-mishory
 
 - name: Bryanne-Michelle Mlodzianowski
   sort_name: Mlodzianowski
+  slug: mlodzianowski
   age: 40
   background: hr
 
 - name: Aram Moghaddassi
   sort_name: Moghaddassi
+  slug: aram-mohghaddassi
   age: 26
   background: coder
 
 - name: Justin Monroe
   sort_name: Monroe
+  slug: justin-monroe
   age: 36
   background: coder
 
 - name: Brooks Morgan
   sort_name: Morgan
+  slug: brooks-morgan
   age: 39
   background: executive
 
 - name: Noah Peters
   sort_name: Peters
+  slug: noah-peters
   age: 39
   background: lawyer
 
 - name: Nikhil Rajpal
   sort_name: Rajpal
+  slug: nikhil-rajpal
   age: 30
   background: coder
 
 - name: Adam Ramada
   sort_name: Ramada
+  slug: adam-ramada
   age: 35
   background: finance
 
 - name: Austin Raynor
   sort_name: Raynor
+  slug: austin-raynor
   age: 36
   background: lawyer
 
 - name: Payton Rehling
   sort_name: Rehling
+  slug: payton-rehling
   age: 27
   background: coder
 
 - name: Ryan Riedel
   sort_name: Riedel
+  slug: ryan-riedel
   age: 37
   background: coder
 
 - name: Rachel Riley
   sort_name: Riley
+  slug: rachel-riley
   age: 33
   background: executive
 
 - name: Christopher Roussos
   sort_name: Roussos
+  slug: chris-roussos
   age: 60
   background: executive
 
 - name: Mike Russo
   sort_name: Russo
+  slug: mike-russo
   age: 67
   background: executive
 
 - name: Amanda Scales
   sort_name: Scales
+  slug: amanda-scales
   age: 34
   background: hr
 
 - name: Frank Schuler
   sort_name: Schuler
+  slug: frank-schuler
 
 - name: Kyle Schutt
   sort_name: Schutt
+  slug: kyle-schutt
   age: 37
   background: coder
 
 - name: Riley Sennott
   sort_name: Sennott
+  slug: riley-sennott
   background: coder
 
 - name: Thomas Shedd
   sort_name: Shedd
+  slug: thomas-shedd
   age: 28
   background: coder
 
 - name: Sam Smeal
   sort_name: Smeal
+  slug: sam-smeal
   age: 29
   background: coder
 
 - name: Bryton Shang
   sort_name: Shang
+  slug: bryton-shang
   age: 33
   background: coder
 
 - name: Ethan Shaotran
   sort_name: Shaotran
+  slug: ethan-shaotran
   age: 22
   background: coder
 
 - name: Alexander Simonpour
   sort_name: Simonpour
+  slug: alex-simonpour
   age: 28
   background: coder
 
 - name: Brad Smith
   sort_name: Smith
+  slug: brad-smith
   age: 42
   background: executive
 
 - name: Christopher Stanley
   sort_name: Stanley
+  slug: christopher-stanley
   age: 33
   background: coder
 
 - name: Mark Steffensen
   sort_name: Steffensen
+  slug: mark-steffensen
   background: lawyer
 
 - name: Roland Shen
   sort_name: Shen
+  slug: roland-shen
 
 - name: Keith Sonderling
   sort_name: Sonderling
+  slug: keith-sonderling
 
 - name: Branden Spikes
   sort_name: Spikes
+  slug: branden-spikes
 
 - name: Zach Terrell
   sort_name: Terrell
+  slug: zach-terrell
 
 - name: Katrine Trampe
   sort_name: Trampe
   age: 29
   background: finance
+  slug: katrine-trampe
 
 - name: Cary Volpert
   sort_name: Volpert
+  slug: cary-volpert
   background: coder
 
 - name: Jordan Wick
   sort_name: Wick
+  slug: jordan-wick
   age: 28
   background: coder
 
 - name: Joanna Wischer
+  slug: joanna-wischer
   sort_name: Wischer
   background: political
 
 - name: Ryan Wunderly
   sort_name: Wunderly
+  slug: ryan-wunderly
   age: 26
   background: coder
 
 - name: Chris Young
   sort_name: Young
+  slug: chris-young
   age: 36
   background: political
 
 - name: Bridget Youngs
+  slug: bridget-youngs
   sort_name: Youngs
