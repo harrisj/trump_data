@@ -97,6 +97,9 @@ class Event(BaseModel):
     sort_date = TextField()
     event = TextField()
     source = TextField()
+    created_at = DateTimeField(null=True)
+    modified_at = DateTimeField(null=True)
+    mod_count = IntegerField(null=True)
 
     access_type = TextField(null=True)
     case = ForeignKeyField(
