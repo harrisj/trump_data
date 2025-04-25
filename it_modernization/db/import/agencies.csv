@@ -35,9 +35,11 @@ ICE,Immigration and Customs Enforcement,DHS
 IMLS,Institute for Museum and Library Services,
 IAF,Inter-American Foundation,
 IRS,Internal Revenue Service,Treasury
+MCC,Millennium Challenge Corporation,
 NASA,National Aeronautics and Space Administration,
 NARA,National Archives,
 NEH,National Endowment for the Humanities,
+NationalGallery,The National Gallery of Art,
 NLRB,National Labor Relations Board,
 NOAA,National Oceanic and Atmospheric Administration,Commerce
 NIH,National Institute of Health,HHS
@@ -49,6 +51,7 @@ OPM,Office of Personnel Management,
 Peace,Peace Corps,
 SEC,Securities and Exchange Commission,
 SBA,Small Business Administration,
+Smithsonian,The Smithsonian Institution,
 SSA,Social Security Administration,
 State,State Department,
 TSA,Transportation Security Administration,DHS

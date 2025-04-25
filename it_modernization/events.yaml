@@ -2,7 +2,7 @@
 meta:
   title: Events
   version: 1.0.0
-  generated: 2025-04-24
+  generated: 2025-04-25
 
 events:
 
@@ -8414,6 +8414,14 @@ events:
   agency: DOL
   id: 5ZoiqF9F
 
+- date: 2025-04-18
+  type: report
+  event: DOGE staff reportedly meet with the leaders of the Smithsonian's National Gallery of Art to discuss its legal status
+    and funding
+  source: https://www.bloomberg.com/news/articles/2025-04-18/washington-dc-national-gallery-of-art-gets-a-visit-from-doge
+  agency: NationalGallery
+  id: fXhN7of8
+
 - date: 2025-04-21
   type: report
   event: IT staff reported they were heavily targeted for layoffs despite complying with requests to provide information about
@@ -8433,6 +8441,14 @@ events:
   source: https://fedscoop.com/national-science-foundation-nsf-doge-grants-data-systems/
   agency: NSF
   id: meBB4VsV
+
+- date: 2025-04-22
+  type: report
+  event: Staff at the Millennium Challenge Corporation are informed that DOGE has directed the termination of all grants and
+    the reduction of the staff from 320 to a few dozen
+  source: https://www.npr.org/sections/goats-and-soda/2025/04/24/nx-s1-5375110/doge-dismantling-foreign-aid-agency-started-by-george-w-bush
+  agency: MCC
+  id: VG5bCFVi
 
 - date: 2025-04-23
   type: disruption

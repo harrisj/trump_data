@@ -148,6 +148,9 @@
   parent_id: Treasury
   doge_base: true
 
+- name: Millennium Challenge Corporation
+  id: MCC
+
 - name: National Aeronautics and Space Administration
   id: NASA
   doge_base: true
@@ -158,6 +161,9 @@
 - name: National Endowment for the Humanities
   id: NEH
   doge_base: true
+
+- name: The National Gallery of Art
+  id: NationalGallery
 
 - name: National Labor Relations Board
   id: NLRB
@@ -198,6 +204,9 @@
 - name: Small Business Administration
   id: SBA
   doge_base: true
+
+- name: The Smithsonian Institution
+  id: Smithsonian
 
 - name: Social Security Administration
   id: SSA

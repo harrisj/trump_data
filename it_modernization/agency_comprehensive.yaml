@@ -5280,6 +5280,20 @@ IRS:
       link: https://www.courtlistener.com/docket/69646607/center-for-taxpayer-rights-v-internal-revenue-service/
       agency: IRS
 
+MCC:
+  name: Millennium Challenge Corporation
+  id: MCC
+  associated: []
+  events:
+  - date: 2025-04-22
+    type: report
+    event: Staff at the Millennium Challenge Corporation are informed that DOGE has directed the termination of all grants and the reduction of the staff from 320 to a few dozen
+    source: https://www.npr.org/sections/goats-and-soda/2025/04/24/nx-s1-5375110/doge-dismantling-foreign-aid-agency-started-by-george-w-bush
+    agency: MCC
+    id: VG5bCFVi
+  systems: {}
+  cases: {}
+
 NASA:
   name: National Aeronautics and Space Administration
   id: NASA
@@ -5351,6 +5365,20 @@ NEH:
     source: https://www.nytimes.com/2025/04/01/arts/trump-doge-federal-cuts-humanities.html
     agency: NEH
     id: VeWn4JfX
+  systems: {}
+  cases: {}
+
+NationalGallery:
+  name: The National Gallery of Art
+  id: NationalGallery
+  associated: []
+  events:
+  - date: 2025-04-18
+    type: report
+    event: DOGE staff reportedly meet with the leaders of the Smithsonian's National Gallery of Art to discuss its legal status and funding
+    source: https://www.bloomberg.com/news/articles/2025-04-18/washington-dc-national-gallery-of-art-gets-a-visit-from-doge
+    agency: NationalGallery
+    id: fXhN7of8
   systems: {}
   cases: {}
 
@@ -6472,6 +6500,14 @@ SBA:
       - Education
       - Treasury
       - SBA
+
+Smithsonian:
+  name: The Smithsonian Institution
+  id: Smithsonian
+  associated: []
+  events: []
+  systems: {}
+  cases: {}
 
 SSA:
   name: Social Security Administration
