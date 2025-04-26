@@ -364,10 +364,11 @@ postings:
   first_date: 2025-03-04
   all_dates:
   - 2025-03-04
-  last_date: 2025-03-04
+  - 2025-04-25
+  last_date: 2025-04-25
   agency_doge_base: true
   doge_agency_first: 2025-03-04
-  doge_agency_last: 2025-04-12
+  doge_agency_last: 2025-04-25
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: DOD
@@ -378,7 +379,7 @@ postings:
   last_date: 2025-03-21
   agency_doge_base: true
   doge_agency_first: 2025-03-04
-  doge_agency_last: 2025-04-12
+  doge_agency_last: 2025-04-25
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: DOD
@@ -389,7 +390,7 @@ postings:
   last_date: 2025-04-12
   agency_doge_base: true
   doge_agency_first: 2025-03-04
-  doge_agency_last: 2025-04-12
+  doge_agency_last: 2025-04-25
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: DOGE

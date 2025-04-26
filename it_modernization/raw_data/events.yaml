@@ -1842,7 +1842,7 @@
 - date: 2025-02-12
   type: report
   event: DOGE staff will reportedly be hired directly to the Department of Defense and not be detailed from elsewhere
-  source: https://www.forbes.com/sites/davidjeans/2025/03/04/pentagon-doge-official-justin-fulcher/
+  source: https://www.forbes.com/sites/davidjeans/2025/02/12/pentagon-doge-elon-musk/
   agency: DOD
   id: fPWAP3fM
 
@@ -6577,6 +6577,15 @@
   source: https://www.wired.com/story/elon-musk-doge-mystery-general-services-administration/
   agency: GSA
   id: MGxiRV2v
+
+- date: 2025-04-25
+  type: promotion
+  event: Justin Fulcher is named as a Senior Advisor to Pete Hegseth's office in the Pentagon
+  source: https://news.bloombergtax.com/international-trade/hegseth-taps-doge-staffer-as-senior-adviser-after-staff-exodus
+  named:
+  - Justin Fulcher
+  agency: DOD
+  id: L6MT2XeJ
 
 - date: 2025-04-25
   type: report
