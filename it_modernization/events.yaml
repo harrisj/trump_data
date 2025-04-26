@@ -80,8 +80,19 @@ events:
   named:
   - Tom Krause
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf#page=13
+  case_no: 1:25-cv-00313
   agency: Treasury
   id: UsAfrk26
+  case_info:
+    name: Alliance for Retired Americans v. Scott Bessent et al (D.D.C.)
+    description: A group of labor unions representing federal employees sued Secretary of the Treasury Scott Bessent and others
+      alleging that individuals affiliated with the Department of Government Efficiency ("DOGE") were granted unauthorized
+      access to sensitive Treasury Department records in violation of the Privacy Act and the IRS Code. Both parties agreed
+      to an order limiting access to Treasury payment records to specific individuals with "read-only" access.
+    case_no: 1:25-cv-00313
+    date_filed: 2025-02-03
+    link: https://www.courtlistener.com/docket/69607077/alliance-for-retired-americans-v-bessent/
+    agency: Treasury
 
 - date: 2025-01-12
   type: report
@@ -111,8 +122,18 @@ events:
   - Noah Peters
   - Keenan Kmiec
   source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
+  case_no: 3:25-cv-01780
   agency: OPM
   id: KLhbExN5
+  source_title: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
+  case_info:
+    name: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
+    description: A lawsuit by several labor unions challenging the validity of the OPM terminating federal employees en masse
+      and demand updates to the five points email.
+    date_filed: 2025-02-19
+    case_no: 3:25-cv-01780
+    link: https://www.courtlistener.com/docket/69655364/american-federation-of-government-employees-afl-cio-v-united-states/
+    agency: OPM
 
 - date: 2025-01-16
   type: report
@@ -132,8 +153,18 @@ events:
   named:
   - Noah Peters
   source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
+  case_no: 3:25-cv-01780
   agency: OPM
   id: VkGMhZUR
+  source_title: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
+  case_info:
+    name: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
+    description: A lawsuit by several labor unions challenging the validity of the OPM terminating federal employees en masse
+      and demand updates to the five points email.
+    date_filed: 2025-02-19
+    case_no: 3:25-cv-01780
+    link: https://www.courtlistener.com/docket/69655364/american-federation-of-government-employees-afl-cio-v-united-states/
+    agency: OPM
 
 - date: 2025-01-16~
   type: report
@@ -143,8 +174,18 @@ events:
   named:
   - Noah Peters
   source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
+  case_no: 3:25-cv-01780
   agency: OPM
   id: JLTME6KA
+  source_title: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
+  case_info:
+    name: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
+    description: A lawsuit by several labor unions challenging the validity of the OPM terminating federal employees en masse
+      and demand updates to the five points email.
+    date_filed: 2025-02-19
+    case_no: 3:25-cv-01780
+    link: https://www.courtlistener.com/docket/69655364/american-federation-of-government-employees-afl-cio-v-united-states/
+    agency: OPM
 
 - date: 2025-01-17
   type: report
@@ -167,8 +208,18 @@ events:
   - Amanda Scales
   - Brian Bjelde
   source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
+  case_no: 3:25-cv-01780
   agency: OPM
   id: JQXwpLN5
+  source_title: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
+  case_info:
+    name: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
+    description: A lawsuit by several labor unions challenging the validity of the OPM terminating federal employees en masse
+      and demand updates to the five points email.
+    date_filed: 2025-02-19
+    case_no: 3:25-cv-01780
+    link: https://www.courtlistener.com/docket/69655364/american-federation-of-government-employees-afl-cio-v-united-states/
+    agency: OPM
 
 - date: 2025-01-20
   type: official
@@ -213,8 +264,22 @@ events:
   named:
   - Greg Hogan
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+  case_no: 8:25-cv-00430
   agency: OPM
   id: cTQwe9Ff
+  source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
+  case_info:
+    name: American Federation of Teachers et al v. Bessent et al (D. Md.)
+    description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management
+      ("OPM"), and the Department of Education ("DOE"), challenging the agencies' disclosure of sensitive personal information
+      to Department of Government Efficiency ("DOGE") employees.
+    case_no: 8:25-cv-00430
+    date_filed: 2025-02-10
+    link: https://www.courtlistener.com/docket/69627648/american-federation-of-teachers-v-scott-bessent/
+    agency:
+    - Education
+    - Treasury
+    - OPM
 
 - date: 2025-01-20
   type: onboarded
@@ -225,8 +290,22 @@ events:
   - OPM-2
   - OPM-3
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+  case_no: 8:25-cv-00430
   agency: OPM
   id: 55SxqiCv
+  source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
+  case_info:
+    name: American Federation of Teachers et al v. Bessent et al (D. Md.)
+    description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management
+      ("OPM"), and the Department of Education ("DOE"), challenging the agencies' disclosure of sensitive personal information
+      to Department of Government Efficiency ("DOGE") employees.
+    case_no: 8:25-cv-00430
+    date_filed: 2025-02-10
+    link: https://www.courtlistener.com/docket/69627648/american-federation-of-teachers-v-scott-bessent/
+    agency:
+    - Education
+    - Treasury
+    - OPM
   named:
   - Akash Bobba
   mapped_aliases:
@@ -257,8 +336,25 @@ events:
   named:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: GSA
   id: NtHBVcLm
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-01-20~
   type: onboarded
@@ -278,11 +374,21 @@ events:
   onboard_type: appointed
   event: Several DOGE leaders start work at the OPM immediately after the Inauguration
   source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
+  case_no: 3:25-cv-01780
   named:
   - Noah Peters
   - Amanda Scales
   agency: OPM
   id: fDQShY2S
+  source_title: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
+  case_info:
+    name: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
+    description: A lawsuit by several labor unions challenging the validity of the OPM terminating federal employees en masse
+      and demand updates to the five points email.
+    date_filed: 2025-02-19
+    case_no: 3:25-cv-01780
+    link: https://www.courtlistener.com/docket/69655364/american-federation-of-government-employees-afl-cio-v-united-states/
+    agency: OPM
 
 - date: 2025-01-20
   type: onboarded
@@ -292,8 +398,22 @@ events:
   named_aliases:
   - OPM-5
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+  case_no: 8:25-cv-00430
   agency: OPM
   id: VikxYwt5
+  source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
+  case_info:
+    name: American Federation of Teachers et al v. Bessent et al (D. Md.)
+    description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management
+      ("OPM"), and the Department of Education ("DOE"), challenging the agencies' disclosure of sensitive personal information
+      to Department of Government Efficiency ("DOGE") employees.
+    case_no: 8:25-cv-00430
+    date_filed: 2025-02-10
+    link: https://www.courtlistener.com/docket/69627648/american-federation-of-teachers-v-scott-bessent/
+    agency:
+    - Education
+    - Treasury
+    - OPM
 
 - date: 2025-01-20
   type: onboarded
@@ -336,8 +456,22 @@ events:
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.4_3.pdf
+  case_no: 8:25-cv-00430
   agency: Treasury
   id: QFfnJBkt
+  source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
+  case_info:
+    name: American Federation of Teachers et al v. Bessent et al (D. Md.)
+    description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management
+      ("OPM"), and the Department of Education ("DOE"), challenging the agencies' disclosure of sensitive personal information
+      to Department of Government Efficiency ("DOGE") employees.
+    case_no: 8:25-cv-00430
+    date_filed: 2025-02-10
+    link: https://www.courtlistener.com/docket/69627648/american-federation-of-teachers-v-scott-bessent/
+    agency:
+    - Education
+    - Treasury
+    - OPM
 
 - date: 2025-01-21
   type: onboarded
@@ -348,8 +482,25 @@ events:
   named:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: HHS
   id: 34Y4Syqw
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
   detail_info:
     id: 20250121-gsa-hhs-no-record
     from: GSA
@@ -367,6 +518,7 @@ events:
   case_no: 1:25-cv-00339
   agency: HHS
   id: MzmJhsGx
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -401,8 +553,25 @@ events:
   named:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: HHS
   id: V4b5Amth
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-01-23
   type: onboarded
@@ -411,8 +580,22 @@ events:
   named:
   - Adam Ramada
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
+  case_no: 8:25-cv-00430
   agency: DOGE
   id: eixCwvKp
+  source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
+  case_info:
+    name: American Federation of Teachers et al v. Bessent et al (D. Md.)
+    description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management
+      ("OPM"), and the Department of Education ("DOE"), challenging the agencies' disclosure of sensitive personal information
+      to Department of Government Efficiency ("DOGE") employees.
+    case_no: 8:25-cv-00430
+    date_filed: 2025-02-10
+    link: https://www.courtlistener.com/docket/69627648/american-federation-of-teachers-v-scott-bessent/
+    agency:
+    - Education
+    - Treasury
+    - OPM
 
 - date: 2025-01-23
   type: onboarded
@@ -445,8 +628,22 @@ events:
   named_aliases:
   - OPM-4
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+  case_no: 8:25-cv-00430
   agency: OPM
   id: NZhdNuo5
+  source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
+  case_info:
+    name: American Federation of Teachers et al v. Bessent et al (D. Md.)
+    description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management
+      ("OPM"), and the Department of Education ("DOE"), challenging the agencies' disclosure of sensitive personal information
+      to Department of Government Efficiency ("DOGE") employees.
+    case_no: 8:25-cv-00430
+    date_filed: 2025-02-10
+    link: https://www.courtlistener.com/docket/69627648/american-federation-of-teachers-v-scott-bessent/
+    agency:
+    - Education
+    - Treasury
+    - OPM
 
 - date: 2025-01-24
   type: onboarded
@@ -454,8 +651,22 @@ events:
   named_aliases:
   - OPM-6
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+  case_no: 8:25-cv-00430
   agency: OPM
   id: hkA2xC7R
+  source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
+  case_info:
+    name: American Federation of Teachers et al v. Bessent et al (D. Md.)
+    description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management
+      ("OPM"), and the Department of Education ("DOE"), challenging the agencies' disclosure of sensitive personal information
+      to Department of Government Efficiency ("DOGE") employees.
+    case_no: 8:25-cv-00430
+    date_filed: 2025-02-10
+    link: https://www.courtlistener.com/docket/69627648/american-federation-of-teachers-v-scott-bessent/
+    agency:
+    - Education
+    - Treasury
+    - OPM
 
 - date: 2025-01-24
   type: report
@@ -523,8 +734,17 @@ events:
   type: report
   event: OPM sends a second test email from its new government-wide email system to all government employees
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.276820/gov.uscourts.dcd.276820.1.0.pdf
+  case_no: 1:25-cv-00234
   agency: OPM
   id: 6aVWvZQH
+  case_info:
+    name: Jane Does 1-2 v. Office of Personnel Management (D.D.C.)
+    description: Two federal employees brought a class action lawsuit against alleging OPM did not do a required Privacy Impact
+      Assessment when installing the Govenrnment-Wide Email System (GWES)
+    case_no: 1:25-cv-00234
+    date_filed: 2025-01-27
+    link: https://www.courtlistener.com/docket/69582338/doe-v-office-of-personnel-management/
+    agency: OPM
 
 - date: 2025-01-27
   type: access_granted
@@ -536,8 +756,25 @@ events:
   named:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: HHS
   id: L8ZZAbzv
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-01-27
   type: report
@@ -546,8 +783,17 @@ events:
   named:
   - Amanda Scales
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.276820/gov.uscourts.dcd.276820.1.0.pdf
+  case_no: 1:25-cv-00234
   agency: OPM
   id: UBodNip9
+  case_info:
+    name: Jane Does 1-2 v. Office of Personnel Management (D.D.C.)
+    description: Two federal employees brought a class action lawsuit against alleging OPM did not do a required Privacy Impact
+      Assessment when installing the Govenrnment-Wide Email System (GWES)
+    case_no: 1:25-cv-00234
+    date_filed: 2025-01-27
+    link: https://www.courtlistener.com/docket/69582338/doe-v-office-of-personnel-management/
+    agency: OPM
 
 - date: 2025-01-27
   type: legal
@@ -557,6 +803,7 @@ events:
   case_no: 1:25-cv-00234
   agency: OPM
   id: QiLxs5iA
+  source_title: Jane Does 1-2 v. Office of Personnel Management (D.D.C.)
   case_info:
     name: Jane Does 1-2 v. Office of Personnel Management (D.D.C.)
     description: Two federal employees brought a class action lawsuit against alleging OPM did not do a required Privacy Impact
@@ -574,6 +821,8 @@ events:
   - Gavin Kliger
   - Luke Farritor
   source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
+  source_title: The Blinding Contempt of the DOGE Bros
+  source_name: The Washington Post
   agency: USAID
   id: WR9Xb7Ar
 
@@ -595,6 +844,7 @@ events:
   case_no: 1:25-cv-00339
   agency: HHS
   id: 3q7o5ogf
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -630,8 +880,22 @@ events:
   named:
   - Adam Ramada
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
+  case_no: 8:25-cv-00430
   agency: Education
   id: 2KKvrcF3
+  source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
+  case_info:
+    name: American Federation of Teachers et al v. Bessent et al (D. Md.)
+    description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management
+      ("OPM"), and the Department of Education ("DOE"), challenging the agencies' disclosure of sensitive personal information
+      to Department of Government Efficiency ("DOGE") employees.
+    case_no: 8:25-cv-00430
+    date_filed: 2025-02-10
+    link: https://www.courtlistener.com/docket/69627648/american-federation-of-teachers-v-scott-bessent/
+    agency:
+    - Education
+    - Treasury
+    - OPM
   detail_info:
     id: 20250212-doge-education-all
     from: DOGE
@@ -661,8 +925,22 @@ events:
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.3_1.pdf
+  case_no: 8:25-cv-00430
   agency: Treasury
   id: hRNeze4y
+  source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
+  case_info:
+    name: American Federation of Teachers et al v. Bessent et al (D. Md.)
+    description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management
+      ("OPM"), and the Department of Education ("DOE"), challenging the agencies' disclosure of sensitive personal information
+      to Department of Government Efficiency ("DOGE") employees.
+    case_no: 8:25-cv-00430
+    date_filed: 2025-02-10
+    link: https://www.courtlistener.com/docket/69627648/american-federation-of-teachers-v-scott-bessent/
+    agency:
+    - Education
+    - Treasury
+    - OPM
 
 - date: 2025-01-28
   type: report
@@ -716,8 +994,19 @@ events:
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
+  case_no: 1:25-cv-00313
   agency: Treasury
   id: 9DxqBRGe
+  case_info:
+    name: Alliance for Retired Americans v. Scott Bessent et al (D.D.C.)
+    description: A group of labor unions representing federal employees sued Secretary of the Treasury Scott Bessent and others
+      alleging that individuals affiliated with the Department of Government Efficiency ("DOGE") were granted unauthorized
+      access to sensitive Treasury Department records in violation of the Privacy Act and the IRS Code. Both parties agreed
+      to an order limiting access to Treasury payment records to specific individuals with "read-only" access.
+    case_no: 1:25-cv-00313
+    date_filed: 2025-02-03
+    link: https://www.courtlistener.com/docket/69607077/alliance-for-retired-americans-v-bessent/
+    agency: Treasury
 
 - date: 2025-01-29
   type: report
@@ -739,8 +1028,25 @@ events:
   named:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: HHS
   id: WJQ3WkjG
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-01-29
   type: report
@@ -765,8 +1071,25 @@ events:
   named:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: CDC
   id: PWDAbB3M
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-01-30
   type: access_changed
@@ -778,8 +1101,19 @@ events:
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
+  case_no: 1:25-cv-00313
   agency: Treasury
   id: Xe5Tvz6a
+  case_info:
+    name: Alliance for Retired Americans v. Scott Bessent et al (D.D.C.)
+    description: A group of labor unions representing federal employees sued Secretary of the Treasury Scott Bessent and others
+      alleging that individuals affiliated with the Department of Government Efficiency ("DOGE") were granted unauthorized
+      access to sensitive Treasury Department records in violation of the Privacy Act and the IRS Code. Both parties agreed
+      to an order limiting access to Treasury payment records to specific individuals with "read-only" access.
+    case_no: 1:25-cv-00313
+    date_filed: 2025-02-03
+    link: https://www.courtlistener.com/docket/69607077/alliance-for-retired-americans-v-bessent/
+    agency: Treasury
 
 - date: 2025-01-30
   type: report
@@ -838,8 +1172,25 @@ events:
   named:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: CMS
   id: LQGUWr49
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-01-31
   type: access_changed
@@ -850,8 +1201,19 @@ events:
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
+  case_no: 1:25-cv-00313
   agency: Treasury
   id: c9MaUj3t
+  case_info:
+    name: Alliance for Retired Americans v. Scott Bessent et al (D.D.C.)
+    description: A group of labor unions representing federal employees sued Secretary of the Treasury Scott Bessent and others
+      alleging that individuals affiliated with the Department of Government Efficiency ("DOGE") were granted unauthorized
+      access to sensitive Treasury Department records in violation of the Privacy Act and the IRS Code. Both parties agreed
+      to an order limiting access to Treasury payment records to specific individuals with "read-only" access.
+    case_no: 1:25-cv-00313
+    date_filed: 2025-02-03
+    link: https://www.courtlistener.com/docket/69607077/alliance-for-retired-americans-v-bessent/
+    agency: Treasury
 
 - date: 2025-01-31
   type: report
@@ -895,8 +1257,20 @@ events:
   - ED-2
   comment: Redacted in hiring letter, but identified later in filing
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+  case_no: 1:25-cv-00354
   agency: Education
   id: MJvtgrEA
+  source_title: University of California Student Assn. v. Carter et al
+  case_info:
+    name: University of California Student Assn. v. Carter et al
+    description: The University of California Student Association sued the Department of Education seeking to block the Department
+      of Government Efficiency's ("DOGE's") access to sensitive information systems containing student data on the basis that
+      such access violates the Administrative Procedure Act, the Privacy Act, and the Internal Revenue Code. A federal court
+      denied the request to temporarily block DOGE's access while the case proceeds.
+    case_no: 1:25-cv-00354
+    date_filed: 2025-02-07
+    link: https://www.courtlistener.com/docket/69620025/university-of-california-student-association-v-carter/
+    agency: Education
   named:
   - Conor Fennessy
   mapped_aliases:
@@ -911,8 +1285,19 @@ events:
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
+  case_no: 1:25-cv-00313
   agency: Treasury
   id: XMXEZCoE
+  case_info:
+    name: Alliance for Retired Americans v. Scott Bessent et al (D.D.C.)
+    description: A group of labor unions representing federal employees sued Secretary of the Treasury Scott Bessent and others
+      alleging that individuals affiliated with the Department of Government Efficiency ("DOGE") were granted unauthorized
+      access to sensitive Treasury Department records in violation of the Privacy Act and the IRS Code. Both parties agreed
+      to an order limiting access to Treasury payment records to specific individuals with "read-only" access.
+    case_no: 1:25-cv-00313
+    date_filed: 2025-02-03
+    link: https://www.courtlistener.com/docket/69607077/alliance-for-retired-americans-v-bessent/
+    agency: Treasury
 
 - date: 2025-02-01
   type: report
@@ -921,8 +1306,19 @@ events:
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
+  case_no: 1:25-cv-00313
   agency: Treasury
   id: Xdv65nku
+  case_info:
+    name: Alliance for Retired Americans v. Scott Bessent et al (D.D.C.)
+    description: A group of labor unions representing federal employees sued Secretary of the Treasury Scott Bessent and others
+      alleging that individuals affiliated with the Department of Government Efficiency ("DOGE") were granted unauthorized
+      access to sensitive Treasury Department records in violation of the Privacy Act and the IRS Code. Both parties agreed
+      to an order limiting access to Treasury payment records to specific individuals with "read-only" access.
+    case_no: 1:25-cv-00313
+    date_filed: 2025-02-03
+    link: https://www.courtlistener.com/docket/69607077/alliance-for-retired-americans-v-bessent/
+    agency: Treasury
 
 - date: 2025-02-01
   type: disruption
@@ -996,8 +1392,22 @@ events:
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.3_1.pdf
+  case_no: 8:25-cv-00430
   agency: Treasury
   id: 8N5uZSdc
+  source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
+  case_info:
+    name: American Federation of Teachers et al v. Bessent et al (D. Md.)
+    description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management
+      ("OPM"), and the Department of Education ("DOE"), challenging the agencies' disclosure of sensitive personal information
+      to Department of Government Efficiency ("DOGE") employees.
+    case_no: 8:25-cv-00430
+    date_filed: 2025-02-10
+    link: https://www.courtlistener.com/docket/69627648/american-federation-of-teachers-v-scott-bessent/
+    agency:
+    - Education
+    - Treasury
+    - OPM
 
 - date: 2025-02-03
   type: report
@@ -1014,8 +1424,19 @@ events:
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
+  case_no: 1:25-cv-00313
   agency: Treasury
   id: UkKcG36X
+  case_info:
+    name: Alliance for Retired Americans v. Scott Bessent et al (D.D.C.)
+    description: A group of labor unions representing federal employees sued Secretary of the Treasury Scott Bessent and others
+      alleging that individuals affiliated with the Department of Government Efficiency ("DOGE") were granted unauthorized
+      access to sensitive Treasury Department records in violation of the Privacy Act and the IRS Code. Both parties agreed
+      to an order limiting access to Treasury payment records to specific individuals with "read-only" access.
+    case_no: 1:25-cv-00313
+    date_filed: 2025-02-03
+    link: https://www.courtlistener.com/docket/69607077/alliance-for-retired-americans-v-bessent/
+    agency: Treasury
 
 - date: 2025-02-03
   type: report
@@ -1061,10 +1482,22 @@ events:
   detail_id: 20250212-opm-education-ed-1
   event: Unidentified employee ED-1 is detailed from OPM to the Department of Education
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+  case_no: 1:25-cv-00354
   named_aliases:
   - ED-1
   agency: Education
   id: FTNCaSHd
+  source_title: University of California Student Assn. v. Carter et al
+  case_info:
+    name: University of California Student Assn. v. Carter et al
+    description: The University of California Student Association sued the Department of Education seeking to block the Department
+      of Government Efficiency's ("DOGE's") access to sensitive information systems containing student data on the basis that
+      such access violates the Administrative Procedure Act, the Privacy Act, and the Internal Revenue Code. A federal court
+      denied the request to temporarily block DOGE's access while the case proceeds.
+    case_no: 1:25-cv-00354
+    date_filed: 2025-02-07
+    link: https://www.courtlistener.com/docket/69620025/university-of-california-student-association-v-carter/
+    agency: Education
   named:
   - Akash Bobba
   mapped_aliases:
@@ -1090,10 +1523,22 @@ events:
   detail_id: 20250212-gsa-education-ed-3
   event: ED-3 is detailed from GSA to the Department of Education
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+  case_no: 1:25-cv-00354
   named_aliases:
   - ED-3
   agency: Education
   id: HF6U3Sft
+  source_title: University of California Student Assn. v. Carter et al
+  case_info:
+    name: University of California Student Assn. v. Carter et al
+    description: The University of California Student Association sued the Department of Education seeking to block the Department
+      of Government Efficiency's ("DOGE's") access to sensitive information systems containing student data on the basis that
+      such access violates the Administrative Procedure Act, the Privacy Act, and the Internal Revenue Code. A federal court
+      denied the request to temporarily block DOGE's access while the case proceeds.
+    case_no: 1:25-cv-00354
+    date_filed: 2025-02-07
+    link: https://www.courtlistener.com/docket/69620025/university-of-california-student-association-v-carter/
+    agency: Education
   named:
   - Ethan Shaotran
   mapped_aliases:
@@ -1124,6 +1569,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
   agency: CMS
   id: PSZVY2Qg
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -1153,6 +1599,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
   agency: HHS
   id: nVTB9nmR
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -1179,8 +1626,25 @@ events:
   named:
   - Elon Musk
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.29.8_1.pdf
+  case_no: 1:25-cv-00339
   agency: DOL
   id: NseepQVk
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-02-04
   type: official
@@ -1234,8 +1698,20 @@ events:
   event: Sworn testimony from an executive project manager at Education states that Adam Ramada accessed the FMS system only
     on February 4th and he was the only DOGE person to access systems
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+  case_no: 1:25-cv-00354
   agency: Education
   id: Ff4Vcv6A
+  source_title: University of California Student Assn. v. Carter et al
+  case_info:
+    name: University of California Student Assn. v. Carter et al
+    description: The University of California Student Association sued the Department of Education seeking to block the Department
+      of Government Efficiency's ("DOGE's") access to sensitive information systems containing student data on the basis that
+      such access violates the Administrative Procedure Act, the Privacy Act, and the Internal Revenue Code. A federal court
+      denied the request to temporarily block DOGE's access while the case proceeds.
+    case_no: 1:25-cv-00354
+    date_filed: 2025-02-07
+    link: https://www.courtlistener.com/docket/69620025/university-of-california-student-association-v-carter/
+    agency: Education
 
 - date: 2025-02-04
   type: onboarded
@@ -1264,6 +1740,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
   agency: CMS
   id: XjqwLht5
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -1328,16 +1805,38 @@ events:
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
+  case_no: 1:25-cv-00313
   agency: Treasury
   id: PhxH2BgH
+  case_info:
+    name: Alliance for Retired Americans v. Scott Bessent et al (D.D.C.)
+    description: A group of labor unions representing federal employees sued Secretary of the Treasury Scott Bessent and others
+      alleging that individuals affiliated with the Department of Government Efficiency ("DOGE") were granted unauthorized
+      access to sensitive Treasury Department records in violation of the Privacy Act and the IRS Code. Both parties agreed
+      to an order limiting access to Treasury payment records to specific individuals with "read-only" access.
+    case_no: 1:25-cv-00313
+    date_filed: 2025-02-03
+    link: https://www.courtlistener.com/docket/69607077/alliance-for-retired-americans-v-bessent/
+    agency: Treasury
 
 - date: 2025-02-05
   type: report
   event: Marko Elez is sent an email requesting that he sign the rules of behavior document for the Bureau of the Fiscal Service;
     it should've been signed when he received his laptop
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.44.1.pdf#page=36
+  case_no: 1:25-cv-00313
   agency: Treasury
   id: QDU6LUSA
+  case_info:
+    name: Alliance for Retired Americans v. Scott Bessent et al (D.D.C.)
+    description: A group of labor unions representing federal employees sued Secretary of the Treasury Scott Bessent and others
+      alleging that individuals affiliated with the Department of Government Efficiency ("DOGE") were granted unauthorized
+      access to sensitive Treasury Department records in violation of the Privacy Act and the IRS Code. Both parties agreed
+      to an order limiting access to Treasury payment records to specific individuals with "read-only" access.
+    case_no: 1:25-cv-00313
+    date_filed: 2025-02-03
+    link: https://www.courtlistener.com/docket/69607077/alliance-for-retired-americans-v-bessent/
+    agency: Treasury
 
 - date: 2025-02-05
   type: report
@@ -1388,6 +1887,7 @@ events:
   case_no: 1:25-cv-00234
   agency: OPM
   id: ANRquZpT
+  source_title: Jane Does 1-2 v. Office of Personnel Management (D.D.C.)
   case_info:
     name: Jane Does 1-2 v. Office of Personnel Management (D.D.C.)
     description: Two federal employees brought a class action lawsuit against alleging OPM did not do a required Privacy Impact
@@ -1411,10 +1911,22 @@ events:
   detail_id: 20250212-doge-education-all
   event: Alexandra Beynon is detailed from DOGE to the Department of Education
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+  case_no: 1:25-cv-00354
   named:
   - Alexandra Beynon
   agency: Education
   id: kyv4SMgu
+  source_title: University of California Student Assn. v. Carter et al
+  case_info:
+    name: University of California Student Assn. v. Carter et al
+    description: The University of California Student Association sued the Department of Education seeking to block the Department
+      of Government Efficiency's ("DOGE's") access to sensitive information systems containing student data on the basis that
+      such access violates the Administrative Procedure Act, the Privacy Act, and the Internal Revenue Code. A federal court
+      denied the request to temporarily block DOGE's access while the case proceeds.
+    case_no: 1:25-cv-00354
+    date_filed: 2025-02-07
+    link: https://www.courtlistener.com/docket/69620025/university-of-california-student-association-v-carter/
+    agency: Education
   detail_info:
     id: 20250212-doge-education-all
     from: DOGE
@@ -1432,8 +1944,20 @@ events:
   event: Thomas Flagg, the CIO of the Dept. of Education, sends a memo to the heads of IT that orders them to give DOGE staff
     prompt access to all systems
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+  case_no: 1:25-cv-00354
   agency: Education
   id: XcEpneXg
+  source_title: University of California Student Assn. v. Carter et al
+  case_info:
+    name: University of California Student Assn. v. Carter et al
+    description: The University of California Student Association sued the Department of Education seeking to block the Department
+      of Government Efficiency's ("DOGE's") access to sensitive information systems containing student data on the basis that
+      such access violates the Administrative Procedure Act, the Privacy Act, and the Internal Revenue Code. A federal court
+      denied the request to temporarily block DOGE's access while the case proceeds.
+    case_no: 1:25-cv-00354
+    date_filed: 2025-02-07
+    link: https://www.courtlistener.com/docket/69620025/university-of-california-student-association-v-carter/
+    agency: Education
 
 - date: 2025-02-05
   type: access_revoked
@@ -1444,8 +1968,20 @@ events:
   event: Adam Ramada does not access FMS again after February 4th
   comment: His system access was actually revoked 30 days after February 4th, but he had no other access after that date
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+  case_no: 1:25-cv-00354
   agency: Education
   id: o5NZ8qnL
+  source_title: University of California Student Assn. v. Carter et al
+  case_info:
+    name: University of California Student Assn. v. Carter et al
+    description: The University of California Student Association sued the Department of Education seeking to block the Department
+      of Government Efficiency's ("DOGE's") access to sensitive information systems containing student data on the basis that
+      such access violates the Administrative Procedure Act, the Privacy Act, and the Internal Revenue Code. A federal court
+      denied the request to temporarily block DOGE's access while the case proceeds.
+    case_no: 1:25-cv-00354
+    date_filed: 2025-02-07
+    link: https://www.courtlistener.com/docket/69620025/university-of-california-student-association-v-carter/
+    agency: Education
 
 - date: 2025-02-05
   type: report
@@ -1457,6 +1993,7 @@ events:
   - Steve Davis
   agency: DOGE
   id: nhBU8qVd
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -1494,6 +2031,7 @@ events:
   case_no: 1:25-cv-00339
   agency: CFPB
   id: aPFErxYN
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -1534,6 +2072,7 @@ events:
   case_no: 1:25-cv-00339
   agency: CFPB
   id: c8QYwsqH
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -1572,6 +2111,7 @@ events:
   case_no: 1:25-cv-00339
   agency: CFPB
   id: AN8Y5hEY
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -1623,6 +2163,7 @@ events:
   case_no: 1:25-cv-00313
   agency: Treasury
   id: jym62UJR
+  source_title: Alliance for Retired Americans v. Scott Bessent et al (D.D.C.)
   case_info:
     name: Alliance for Retired Americans v. Scott Bessent et al (D.D.C.)
     description: A group of labor unions representing federal employees sued Secretary of the Treasury Scott Bessent and others
@@ -1641,8 +2182,19 @@ events:
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
+  case_no: 1:25-cv-00313
   agency: Treasury
   id: Ddt9UeCF
+  case_info:
+    name: Alliance for Retired Americans v. Scott Bessent et al (D.D.C.)
+    description: A group of labor unions representing federal employees sued Secretary of the Treasury Scott Bessent and others
+      alleging that individuals affiliated with the Department of Government Efficiency ("DOGE") were granted unauthorized
+      access to sensitive Treasury Department records in violation of the Privacy Act and the IRS Code. Both parties agreed
+      to an order limiting access to Treasury payment records to specific individuals with "read-only" access.
+    case_no: 1:25-cv-00313
+    date_filed: 2025-02-03
+    link: https://www.courtlistener.com/docket/69607077/alliance-for-retired-americans-v-bessent/
+    agency: Treasury
 
 - date: 2025-02-06
   type: report
@@ -1650,9 +2202,23 @@ events:
     been configured to have read/write permissions instead of read-only
   named:
   - Marko Elez
-  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.3_1.pdfmarko-elez-resigned-the-day-his-write-access-to-payment-systems-was-discovered/
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.3_1.pdf
+  case_no: 8:25-cv-00430
   agency: Treasury
   id: eMU3qFzW
+  source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
+  case_info:
+    name: American Federation of Teachers et al v. Bessent et al (D. Md.)
+    description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management
+      ("OPM"), and the Department of Education ("DOE"), challenging the agencies' disclosure of sensitive personal information
+      to Department of Government Efficiency ("DOGE") employees.
+    case_no: 8:25-cv-00430
+    date_filed: 2025-02-10
+    link: https://www.courtlistener.com/docket/69627648/american-federation-of-teachers-v-scott-bessent/
+    agency:
+    - Education
+    - Treasury
+    - OPM
 
 - date: 2025-02-06
   type: offboarded
@@ -1685,6 +2251,7 @@ events:
   case_no: 1:25-cv-00234
   agency: OPM
   id: PZtsBGTa
+  source_title: Jane Does 1-2 v. Office of Personnel Management (D.D.C.)
   case_info:
     name: Jane Does 1-2 v. Office of Personnel Management (D.D.C.)
     description: Two federal employees brought a class action lawsuit against alleging OPM did not do a required Privacy Impact
@@ -1702,6 +2269,7 @@ events:
   case_no: 1:25-cv-00234
   agency: OPM
   id: GMWmrZzw
+  source_title: Jane Does 1-2 v. Office of Personnel Management (D.D.C.)
   case_info:
     name: Jane Does 1-2 v. Office of Personnel Management (D.D.C.)
     description: Two federal employees brought a class action lawsuit against alleging OPM did not do a required Privacy Impact
@@ -1754,8 +2322,25 @@ events:
   - Nikhil Rajpal
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: CFPB
   id: FS7MatNa
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-02-07
   type: access_granted
@@ -1766,8 +2351,25 @@ events:
   named:
   - Gavin Kliger
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+  case_no: 1:25-cv-00339
   agency: CFPB
   id: L8pyGHLJ
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-02-07
   type: access_granted
@@ -1780,8 +2382,25 @@ events:
   - Nikhil Rajpal
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: CFPB
   id: 2xWQdJFE
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-02-07
   type: access_granted
@@ -1793,8 +2412,25 @@ events:
   - Nikhil Rajpal
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: CFPB
   id: JxpwH6Ee
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-02-07
   type: access_granted
@@ -1806,8 +2442,25 @@ events:
   event: Mr. Farritor used his Entra ID access to provide another member of the DOGE with access to the admin interface for
     the CFPB's website
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: CFPB
   id: LRKRjiXo
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
   named:
   - Gavin Kliger
   mapped_aliases:
@@ -1892,8 +2545,25 @@ events:
   named:
   - Jordan Wick
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: CFPB
   id: 256K5fhi
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-02-09
   type: disruption
@@ -2009,7 +2679,20 @@ events:
   - SSA-1
   agency: SSA
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  case_no: 1:25-cv-00596
   id: HauBMsdH
+  source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D.
+    Md.)
+  case_info:
+    name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
+    description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency
+      ("DOGE"), challenging the access to sensitive personal data of millions of Americans which SSA gave to DOGE
+    date_filed: 2025-02-21
+    case_no: 1:25-cv-00596
+    link: https://www.courtlistener.com/docket/69664313/american-federation-of-state-county-and-municipal-employees-afl-cio-v/
+    agency:
+    - SSA
+    - DOGE
 
 - date: 2025-02-10
   type: report
@@ -2055,6 +2738,7 @@ events:
   source: https://www.usatoday.com/story/news/politics/2025/02/11/education-dept-doge-musk-court-order/78429043007/
   agency: Education
   id: iG5SW62c
+  source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   case_info:
     name: American Federation of Teachers et al v. Bessent et al (D. Md.)
     description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management
@@ -2138,6 +2822,7 @@ events:
   - Nikhil Rajpal
   agency: OPM
   id: 9CEKeLm7
+  source_title: Democracy Forward Foundation v. Office of Management and Budget
   case_info:
     name: Democracy Forward Foundation v. Office of Management and Budget
     description: Democracy Forward is suing about DOGE not responding to FOIA requests
@@ -2210,10 +2895,22 @@ events:
   event: The Department of Education signs a Memorandum of Understanding with DOGE stating that it will reimburse DOGE for
     up to 5 staffers through 2026. It is signed by Steve Davis for DOGE.
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+  case_no: 1:25-cv-00354
   agency:
   - Education
   - DOGE
   id: eKuZBbzW
+  source_title: University of California Student Assn. v. Carter et al
+  case_info:
+    name: University of California Student Assn. v. Carter et al
+    description: The University of California Student Association sued the Department of Education seeking to block the Department
+      of Government Efficiency's ("DOGE's") access to sensitive information systems containing student data on the basis that
+      such access violates the Administrative Procedure Act, the Privacy Act, and the Internal Revenue Code. A federal court
+      denied the request to temporarily block DOGE's access while the case proceeds.
+    case_no: 1:25-cv-00354
+    date_filed: 2025-02-07
+    link: https://www.courtlistener.com/docket/69620025/university-of-california-student-association-v-carter/
+    agency: Education
 
 - date: 2025-02-12
   type: onboarded
@@ -2226,9 +2923,21 @@ events:
   event: The Department of Education executes a Memorandum of Understanding (MOU) with OPM for a single detailee who is represented
     as not being paid nor needing reimbursement (i.e., a Special Government Employee)
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+  case_no: 1:25-cv-00354
   agency:
   - Education
   id: dchWbmU5
+  source_title: University of California Student Assn. v. Carter et al
+  case_info:
+    name: University of California Student Assn. v. Carter et al
+    description: The University of California Student Association sued the Department of Education seeking to block the Department
+      of Government Efficiency's ("DOGE's") access to sensitive information systems containing student data on the basis that
+      such access violates the Administrative Procedure Act, the Privacy Act, and the Internal Revenue Code. A federal court
+      denied the request to temporarily block DOGE's access while the case proceeds.
+    case_no: 1:25-cv-00354
+    date_filed: 2025-02-07
+    link: https://www.courtlistener.com/docket/69620025/university-of-california-student-association-v-carter/
+    agency: Education
   named:
   - Akash Bobba
   mapped_aliases:
@@ -2255,10 +2964,22 @@ events:
   event: The Office of Personnel Management executes a Memorandum of Understanding for a detailee from the Social Security
     Administration, who will also work for Department of Education
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+  case_no: 1:25-cv-00354
   agency:
   - OPM
   - SSA
   id: JbqPxwcC
+  source_title: University of California Student Assn. v. Carter et al
+  case_info:
+    name: University of California Student Assn. v. Carter et al
+    description: The University of California Student Association sued the Department of Education seeking to block the Department
+      of Government Efficiency's ("DOGE's") access to sensitive information systems containing student data on the basis that
+      such access violates the Administrative Procedure Act, the Privacy Act, and the Internal Revenue Code. A federal court
+      denied the request to temporarily block DOGE's access while the case proceeds.
+    case_no: 1:25-cv-00354
+    date_filed: 2025-02-07
+    link: https://www.courtlistener.com/docket/69620025/university-of-california-student-association-v-carter/
+    agency: Education
   named:
   - Akash Bobba
   mapped_aliases:
@@ -2272,8 +2993,20 @@ events:
   event: An agreement is executed for a single detailee to the Dept. of Education from GSA. They are also identified as being
     a GSE who is not paid nor will need to be reimbursed.
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+  case_no: 1:25-cv-00354
   agency: Education
   id: Wfox3Em6
+  source_title: University of California Student Assn. v. Carter et al
+  case_info:
+    name: University of California Student Assn. v. Carter et al
+    description: The University of California Student Association sued the Department of Education seeking to block the Department
+      of Government Efficiency's ("DOGE's") access to sensitive information systems containing student data on the basis that
+      such access violates the Administrative Procedure Act, the Privacy Act, and the Internal Revenue Code. A federal court
+      denied the request to temporarily block DOGE's access while the case proceeds.
+    case_no: 1:25-cv-00354
+    date_filed: 2025-02-07
+    link: https://www.courtlistener.com/docket/69620025/university-of-california-student-association-v-carter/
+    agency: Education
   named:
   - Ethan Shaotran
   mapped_aliases:
@@ -2374,8 +3107,25 @@ events:
   named_aliases:
   - SSA-1
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+  case_no: 1:25-cv-00339
   agency: SSA
   id: fJn7Fijf
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-02-14
   type: disruption
@@ -2545,6 +3295,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277463/gov.uscourts.dcd.277463.24.0_1.pdf
   agency: DOGE
   id: jLKRjRxS
+  source_title: New Mexico et al v. Musk (D.D.C.)
   case_info:
     name: New Mexico et al v. Musk (D.D.C.)
     description: Fourteen states sued Elon Musk and the Department of Government Efficiency ("DOGE") alleging that Musk's
@@ -2610,8 +3361,25 @@ events:
   named:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: CMS
   id: 9xq4D2VZ
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-02-18
   type: disruption
@@ -2642,6 +3410,7 @@ events:
   source: https://www.usatoday.com/story/news/education/2025/02/18/doge-student-data-education-department-judge-approves/79062995007/
   agency: Education
   id: WTtpPp95
+  source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   case_info:
     name: American Federation of Teachers et al v. Bessent et al (D. Md.)
     description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management
@@ -2708,8 +3477,25 @@ events:
     Schedule C Policy Advisor, detailed from the Department of Labor to SSA" with it finalized on February 22. "His duties
     currently relate to improper payments and SSA's Death Master File."
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+  case_no: 1:25-cv-00339
   agency: SSA
   id: YHZU6UQD
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
   named:
   - Aram Moghaddassi
   mapped_aliases:
@@ -2739,8 +3525,25 @@ events:
   event: According to a sworn declaration, "SSA began onboarding and training Employee 5, an engineer, detailed from the United
     States DOGE Service to SSA" with an inter-agency agreement to DOGE.
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+  case_no: 1:25-cv-00339
   agency: SSA
   id: MipJ2cYB
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
   detail_info:
     id: 20250220-usds-ssa-modification
     from: DOGE
@@ -2768,8 +3571,25 @@ events:
   named:
   - Scott Coulter
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+  case_no: 1:25-cv-00339
   agency: SSA
   id: ZffPUbPY
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
   mapped_aliases:
     SSA-2: Scott Coulter
   detail_info:
@@ -2802,8 +3622,21 @@ events:
   named_aliases:
   - SSA-3
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  case_no: 1:25-cv-00596
   agency: SSA
   id: fhML8Diw
+  source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D.
+    Md.)
+  case_info:
+    name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
+    description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency
+      ("DOGE"), challenging the access to sensitive personal data of millions of Americans which SSA gave to DOGE
+    date_filed: 2025-02-21
+    case_no: 1:25-cv-00596
+    link: https://www.courtlistener.com/docket/69664313/american-federation-of-state-county-and-municipal-employees-afl-cio-v/
+    agency:
+    - SSA
+    - DOGE
   named:
   - Aram Moghaddassi
   mapped_aliases:
@@ -2831,8 +3664,21 @@ events:
   named_aliases:
   - SSA-2
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  case_no: 1:25-cv-00596
   agency: SSA
   id: UXPTq7wP
+  source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D.
+    Md.)
+  case_info:
+    name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
+    description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency
+      ("DOGE"), challenging the access to sensitive personal data of millions of Americans which SSA gave to DOGE
+    date_filed: 2025-02-21
+    case_no: 1:25-cv-00596
+    link: https://www.courtlistener.com/docket/69664313/american-federation-of-state-county-and-municipal-employees-afl-cio-v/
+    agency:
+    - SSA
+    - DOGE
   named:
   - Scott Coulter
   mapped_aliases:
@@ -2860,8 +3706,21 @@ events:
   - SSA-8
   - SSA-10
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  case_no: 1:25-cv-00596
   agency: SSA
   id: QCqyEhNT
+  source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D.
+    Md.)
+  case_info:
+    name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
+    description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency
+      ("DOGE"), challenging the access to sensitive personal data of millions of Americans which SSA gave to DOGE
+    date_filed: 2025-02-21
+    case_no: 1:25-cv-00596
+    link: https://www.courtlistener.com/docket/69664313/american-federation-of-state-county-and-municipal-employees-afl-cio-v/
+    agency:
+    - SSA
+    - DOGE
   named:
   - Ethan Shaotran
   mapped_aliases:
@@ -2899,6 +3758,7 @@ events:
   - Amy Gleason
   agency: DOGE
   id: D3EuMjKK
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -3022,6 +3882,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.2.pdf
   agency: USADF
   id: mPJA8JnY
+  source_title: Brehm v. Marocco (D.D.C.)
   case_info:
     name: Brehm v. Marocco (D.D.C.)
     description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal
@@ -3045,6 +3906,8 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
   agency: SSA
   id: GVnA5vun
+  source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D.
+    Md.)
   case_info:
     name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
     description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency
@@ -3090,6 +3953,7 @@ events:
   case_no: 1:25-cv-00339
   agency: HHS
   id: PqGxHtKF
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -3120,6 +3984,7 @@ events:
   case_no: 1:25-cv-00339
   agency: DOL
   id: LC27NqrF
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -3149,6 +4014,7 @@ events:
   case_no: 1:25-cv-00339
   agency: DOL
   id: VkG2b7oG
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -3179,6 +4045,7 @@ events:
   case_no: 1:25-cv-00339
   agency: DOL
   id: 4gTQTBvY
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -3245,8 +4112,20 @@ events:
   event: DOGE staff arrived at IAF HQ and were granted access to IT systems, as reported by IAF CEO Sara Aviel the following
     day
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
+  case_no: 1:25-cv-00660
   agency: IAF
   id: YrRbcEEt
+  source_title: Brehm v. Marocco (D.D.C.)
+  case_info:
+    name: Brehm v. Marocco (D.D.C.)
+    description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal
+      and Marocco's appointment and requesting a temporary block.
+    date_filed: 2025-03-06
+    case_no: 1:25-cv-00660
+    link: https://www.courtlistener.com/docket/69711562/brehm-v-marocco/
+    agency:
+    - DOGE
+    - USADF
 
 - date: 2025-02-20
   type: report
@@ -3286,6 +4165,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
   agency: USADF
   id: Q7jFqwLD
+  source_title: Brehm v. Marocco (D.D.C.)
   case_info:
     name: Brehm v. Marocco (D.D.C.)
     description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal
@@ -3303,10 +4183,22 @@ events:
   detail_id: 20250212-doge-education-all
   event: Jordan Wick is detailed from DOGE to the Department of Education
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+  case_no: 1:25-cv-00354
   named:
   - Jordan Wick
   agency: Education
   id: TC9oYLhy
+  source_title: University of California Student Assn. v. Carter et al
+  case_info:
+    name: University of California Student Assn. v. Carter et al
+    description: The University of California Student Association sued the Department of Education seeking to block the Department
+      of Government Efficiency's ("DOGE's") access to sensitive information systems containing student data on the basis that
+      such access violates the Administrative Procedure Act, the Privacy Act, and the Internal Revenue Code. A federal court
+      denied the request to temporarily block DOGE's access while the case proceeds.
+    case_no: 1:25-cv-00354
+    date_filed: 2025-02-07
+    link: https://www.courtlistener.com/docket/69620025/university-of-california-student-association-v-carter/
+    agency: Education
   detail_info:
     id: 20250212-doge-education-all
     from: DOGE
@@ -3325,10 +4217,22 @@ events:
   event: Edward Coristine is detailed from GSA to the Department of Education
   comment: I don't know if I have a record of this detail
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+  case_no: 1:25-cv-00354
   named:
   - Edward Coristine
   agency: Education
   id: XTJndd8F
+  source_title: University of California Student Assn. v. Carter et al
+  case_info:
+    name: University of California Student Assn. v. Carter et al
+    description: The University of California Student Association sued the Department of Education seeking to block the Department
+      of Government Efficiency's ("DOGE's") access to sensitive information systems containing student data on the basis that
+      such access violates the Administrative Procedure Act, the Privacy Act, and the Internal Revenue Code. A federal court
+      denied the request to temporarily block DOGE's access while the case proceeds.
+    case_no: 1:25-cv-00354
+    date_filed: 2025-02-07
+    link: https://www.courtlistener.com/docket/69620025/university-of-california-student-association-v-carter/
+    agency: Education
 
 - date: 2025-02-20
   type: official
@@ -3337,6 +4241,7 @@ events:
     and detecting waste, fraud, and abuse."
   comment: It's unclear how much had already been spent on the prior agreement. Amy Gleason makes an appearance though!
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+  case_no: 1:25-cv-00596
   detail_id: 20250220-usds-ssa-modification
   named:
   - Amy Gleason
@@ -3344,6 +4249,18 @@ events:
   - DOGE
   - SSA
   id: 6czGQ6Eu
+  source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D.
+    Md.)
+  case_info:
+    name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
+    description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency
+      ("DOGE"), challenging the access to sensitive personal data of millions of Americans which SSA gave to DOGE
+    date_filed: 2025-02-21
+    case_no: 1:25-cv-00596
+    link: https://www.courtlistener.com/docket/69664313/american-federation-of-state-county-and-municipal-employees-afl-cio-v/
+    agency:
+    - SSA
+    - DOGE
   detail_info:
     id: 20250220-usds-ssa-modification
     from: DOGE
@@ -3388,6 +4305,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
   agency: CMS
   id: TYQgsQgD
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -3416,6 +4334,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
   agency: HHS
   id: HKvbqYaN
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -3455,6 +4374,7 @@ events:
   - NIH
   - HHS
   id: GUnUm5j6
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -3491,8 +4411,20 @@ events:
   type: disruption
   event: IAF CEO Sara Aviel confirms to a friend at USADF that DOGE plans to dismantle the agency
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
+  case_no: 1:25-cv-00660
   agency: IAF
   id: 3GLAQY5f
+  source_title: Brehm v. Marocco (D.D.C.)
+  case_info:
+    name: Brehm v. Marocco (D.D.C.)
+    description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal
+      and Marocco's appointment and requesting a temporary block.
+    date_filed: 2025-03-06
+    case_no: 1:25-cv-00660
+    link: https://www.courtlistener.com/docket/69711562/brehm-v-marocco/
+    agency:
+    - DOGE
+    - USADF
 
 - date: 2025-02-21
   type: report
@@ -3515,6 +4447,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
   agency: USADF
   id: 7v7sVWG5
+  source_title: Brehm v. Marocco (D.D.C.)
   case_info:
     name: Brehm v. Marocco (D.D.C.)
     description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal
@@ -3548,6 +4481,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.6.pdf
   agency: USADF
   id: ShwzJQ8D
+  source_title: Brehm v. Marocco (D.D.C.)
   case_info:
     name: Brehm v. Marocco (D.D.C.)
     description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal
@@ -3584,6 +4518,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
   agency: USADF
   id: dtakM5hM
+  source_title: Brehm v. Marocco (D.D.C.)
   case_info:
     name: Brehm v. Marocco (D.D.C.)
     description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal
@@ -3618,6 +4553,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
   agency: USADF
   id: QFXkX5nW
+  source_title: Brehm v. Marocco (D.D.C.)
   case_info:
     name: Brehm v. Marocco (D.D.C.)
     description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal
@@ -3639,6 +4575,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
   agency: USADF
   id: 7aypySNW
+  source_title: Brehm v. Marocco (D.D.C.)
   case_info:
     name: Brehm v. Marocco (D.D.C.)
     description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal
@@ -3658,6 +4595,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
   agency: USADF
   id: kSet7QgF
+  source_title: Brehm v. Marocco (D.D.C.)
   case_info:
     name: Brehm v. Marocco (D.D.C.)
     description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal
@@ -3698,7 +4636,20 @@ events:
   - SSA-9
   agency: SSA
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  case_no: 1:25-cv-00596
   id: NyUksNNq
+  source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D.
+    Md.)
+  case_info:
+    name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
+    description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency
+      ("DOGE"), challenging the access to sensitive personal data of millions of Americans which SSA gave to DOGE
+    date_filed: 2025-02-21
+    case_no: 1:25-cv-00596
+    link: https://www.courtlistener.com/docket/69664313/american-federation-of-state-county-and-municipal-employees-afl-cio-v/
+    agency:
+    - SSA
+    - DOGE
   named:
   - Payton Rehling
   mapped_aliases:
@@ -3712,8 +4663,21 @@ events:
   named_aliases:
   - SSA-4
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  case_no: 1:25-cv-00596
   agency: SSA
   id: T4uJvZZy
+  source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D.
+    Md.)
+  case_info:
+    name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
+    description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency
+      ("DOGE"), challenging the access to sensitive personal data of millions of Americans which SSA gave to DOGE
+    date_filed: 2025-02-21
+    case_no: 1:25-cv-00596
+    link: https://www.courtlistener.com/docket/69664313/american-federation-of-state-county-and-municipal-employees-afl-cio-v/
+    agency:
+    - SSA
+    - DOGE
   named:
   - Antonio Gracias
   mapped_aliases:
@@ -3727,8 +4691,21 @@ events:
   named_aliases:
   - SSA-6
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  case_no: 1:25-cv-00596
   agency: SSA
   id: QJ48Lf4Y
+  source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D.
+    Md.)
+  case_info:
+    name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
+    description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency
+      ("DOGE"), challenging the access to sensitive personal data of millions of Americans which SSA gave to DOGE
+    date_filed: 2025-02-21
+    case_no: 1:25-cv-00596
+    link: https://www.courtlistener.com/docket/69664313/american-federation-of-state-county-and-municipal-employees-afl-cio-v/
+    agency:
+    - SSA
+    - DOGE
   named:
   - Jon Koval
   mapped_aliases:
@@ -3744,8 +4721,25 @@ events:
   named:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: CDC
   id: R82VyaYp
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-02-24
   type: access_granted
@@ -3757,8 +4751,25 @@ events:
   named:
   - Amy Gleason
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: CMS
   id: ABsGtQoM
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-02-24
   type: legal
@@ -3769,6 +4780,7 @@ events:
   source: https://www.nbcnews.com/politics/doge/judge-blocks-department-education-federal-personnel-office-sharing-dat-rcna193453
   agency: Education
   id: dFV9to7X
+  source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   case_info:
     name: American Federation of Teachers et al v. Bessent et al (D. Md.)
     description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management
@@ -3799,6 +4811,7 @@ events:
   case_no: 8:25-cv-00430
   agency: Education
   id: QvtDTWT9
+  source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   case_info:
     name: American Federation of Teachers et al v. Bessent et al (D. Md.)
     description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management
@@ -3873,6 +4886,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
   agency: USADF
   id: NrAucFtb
+  source_title: Brehm v. Marocco (D.D.C.)
   case_info:
     name: Brehm v. Marocco (D.D.C.)
     description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal
@@ -3892,8 +4906,20 @@ events:
   - Jacob Altik
   - Nate Cavanaugh
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+  case_no: 1:25-cv-00804
   agency: USIP
   id: JZFwZjbm
+  source_title: United States Institute of Peace v. Jackson (D.D.C.)
+  case_info:
+    name: United States Institute of Peace v. Jackson (D.D.C.)
+    description: The USIP is suing the DOGE and members of its board for the unlawful seizure and shutdown of the agency following
+      an executive order
+    case_no: 1:25-cv-00804
+    link: https://www.courtlistener.com/docket/69754533/united-states-institute-of-peace-v-jackson/
+    date_filed: 2025-03-18
+    agency:
+    - USIP
+    - DOGE
 
 - date: 2025-02-24
   type: report
@@ -3904,8 +4930,20 @@ events:
   - Jacob Altik
   - Nate Cavanaugh
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+  case_no: 1:25-cv-00804
   agency: USIP
   id: R722EMkS
+  source_title: United States Institute of Peace v. Jackson (D.D.C.)
+  case_info:
+    name: United States Institute of Peace v. Jackson (D.D.C.)
+    description: The USIP is suing the DOGE and members of its board for the unlawful seizure and shutdown of the agency following
+      an executive order
+    case_no: 1:25-cv-00804
+    link: https://www.courtlistener.com/docket/69754533/united-states-institute-of-peace-v-jackson/
+    date_filed: 2025-03-18
+    agency:
+    - USIP
+    - DOGE
 
 - date: 2025-02-24~
   type: report
@@ -3940,6 +4978,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
   agency: NIH
   id: Faujcx7W
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -3982,8 +5021,25 @@ events:
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: DOL
   id: hYvmuxQw
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-02-25
   type: access_granted
@@ -3995,8 +5051,25 @@ events:
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: DOL
   id: 63rsfZb5
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-02-25
   type: report
@@ -4027,8 +5100,18 @@ events:
   event: The Chief Human Capital Office of the Department of Agriculture testifies to Congress that OPM ordered the firing
     of all probationary federal employees
   source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
+  case_no: 3:25-cv-01780
   agency: USDA
   id: UbNB5uwF
+  source_title: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
+  case_info:
+    name: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
+    description: A lawsuit by several labor unions challenging the validity of the OPM terminating federal employees en masse
+      and demand updates to the five points email.
+    date_filed: 2025-02-19
+    case_no: 3:25-cv-01780
+    link: https://www.courtlistener.com/docket/69655364/american-federation-of-government-employees-afl-cio-v-united-states/
+    agency: OPM
 
 - date: 2025-02-25
   type: onboarded
@@ -4053,6 +5136,7 @@ events:
   case_no: 1:25-cv-00339
   agency: DOL
   id: W9NMyQSv
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -4082,6 +5166,7 @@ events:
   case_no: 1:25-cv-00339
   agency: DOL
   id: VtAJtb9Z
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -4111,6 +5196,7 @@ events:
   case_no: 1:25-cv-00339
   agency: DOL
   id: aVyn7bGH
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -4229,8 +5315,25 @@ events:
   event: According to a sworn declaration, "employee 8, an engineer, was detailed from Office of Personnel Management to SSA.
     His duties currently relate to improper payments and death data."
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+  case_no: 1:25-cv-00339
   agency: SSA
   id: oN4NtmSz
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
   detail_info:
     id: 20250226-opm-ssa-employee-8
     from: OPM
@@ -4253,6 +5356,7 @@ events:
   case_no: 1:25-cv-00339
   agency: DOGE
   id: dq7CdXaH
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -4278,8 +5382,25 @@ events:
   - SSA-9
   event: According to a sworn declaration, "Employees 4, 6, and 9 were each appointed as an expert, special government employee"
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+  case_no: 1:25-cv-00339
   agency: SSA
   id: JUcXdAh2
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
   named:
   - Antonio Gracias
   - Jon Koval
@@ -4325,8 +5446,25 @@ events:
   named:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: HHS
   id: J9VPs6HT
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-02-28
   type: onboarded
@@ -4366,6 +5504,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
   agency: NIH
   id: MTDjpWh2
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -4398,6 +5537,7 @@ events:
   case_no: 3:25-cv-01780
   agency: OPM
   id: SMxkBWdJ
+  source_title: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
   case_info:
     name: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
     description: A lawsuit by several labor unions challenging the validity of the OPM terminating federal employees en masse
@@ -4415,6 +5555,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
   agency: USADF
   id: M6gCSNxa
+  source_title: Brehm v. Marocco (D.D.C.)
   case_info:
     name: Brehm v. Marocco (D.D.C.)
     description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal
@@ -4438,6 +5579,8 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
   agency: SSA
   id: 5KzocaBU
+  source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D.
+    Md.)
   case_info:
     name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
     description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency
@@ -4481,6 +5624,7 @@ events:
   case_no: 1:25-cv-00339
   agency: HHS
   id: Y8NxCZjD
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -4510,6 +5654,7 @@ events:
   case_no: 1:25-cv-00339
   agency: HHS
   id: WigQD25k
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -4540,6 +5685,7 @@ events:
   case_no: 1:25-cv-00339
   agency: HHS
   id: 7YG4RVE2
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -4636,6 +5782,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.2.pdf
   agency: USADF
   id: 3W8Pu6iy
+  source_title: Brehm v. Marocco (D.D.C.)
   case_info:
     name: Brehm v. Marocco (D.D.C.)
     description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal
@@ -4677,6 +5824,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
   agency: CMS
   id: XNdG2o3m
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -4710,8 +5858,25 @@ events:
   named:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: CFPB
   id: JbCrnGy9
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-04
   type: offboarded
@@ -4719,8 +5884,25 @@ events:
   named:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: CFPB
   id: ZpVFJ6oS
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-04
   type: report
@@ -4763,8 +5945,25 @@ events:
   named:
   - Amy Gleason
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.65.1_1.pdf
+  case_no: 1:25-cv-00339
   agency: HHS
   id: NgqnhrCu
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-04
   type: onboarded
@@ -4773,8 +5972,25 @@ events:
   named:
   - Brad Smith
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.65.3.pdf
+  case_no: 1:25-cv-00339
   agency: HHS
   id: RDEFY3MP
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-04
   type: disruption
@@ -4821,6 +6037,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.2.pdf
   agency: USADF
   id: HBHAt2jo
+  source_title: Brehm v. Marocco (D.D.C.)
   case_info:
     name: Brehm v. Marocco (D.D.C.)
     description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal
@@ -4849,8 +6066,25 @@ events:
   named:
   - Edward Coristine
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: CMS
   id: ddaosm4g
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
   detail_info:
     id: 20250305-gsa-hhs-no-record
     from: GSA
@@ -4869,8 +6103,25 @@ events:
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: HHS
   id: N8ksWVib
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
   detail_info:
     id: 20250305-dol-hhs-no-record
     from: DOL
@@ -4890,6 +6141,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
   agency: HHS
   id: m4rWny3U
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -4927,8 +6179,25 @@ events:
   - Aram Moghaddassi
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: CMS
   id: BYPpwF7K
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-05
   type: access_granted
@@ -4945,6 +6214,7 @@ events:
   source: hhttps://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
   agency: CMS
   id: 9wrHMneJ
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -4975,6 +6245,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
   agency: CMS
   id: Vtknorop
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -5007,8 +6278,25 @@ events:
   named:
   - Jordan Wick
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: CFPB
   id: TGzMrruS
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-05
   type: onboarded
@@ -5018,8 +6306,25 @@ events:
   named:
   - Jordan Wick
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: CFPB
   id: WGo2Srmq
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-05
   type: report
@@ -5046,6 +6351,7 @@ events:
   case_no: 1:25-cv-00339
   agency: DOGE
   id: QCzD83nC
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -5084,8 +6390,25 @@ events:
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: HHS
   id: PfQCnkBu
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-05
   type: onboarded
@@ -5097,8 +6420,25 @@ events:
   event: According to a sworn declaration, "the agency began onboarding Employee 7, as a detailee from Department of Labor
     (DOL) to SSA."
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+  case_no: 1:25-cv-00339
   agency: SSA
   id: Yohq6GxY
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
   named:
   - Marko Elez
   mapped_aliases:
@@ -5127,6 +6467,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.2.pdf
   agency: USADF
   id: 5XqG48jY
+  source_title: Brehm v. Marocco (D.D.C.)
   case_info:
     name: Brehm v. Marocco (D.D.C.)
     description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal
@@ -5148,6 +6489,7 @@ events:
   source: https://www.thedailybeast.com/elon-musks-doge-goons-in-tense-standoff-video-unmasked/
   agency: USADF
   id: 7QXxV37g
+  source_title: Brehm v. Marocco (D.D.C.)
   case_info:
     name: Brehm v. Marocco (D.D.C.)
     description: Ward Brehm, a USADF Board member, filed a lawsuit against Marocco, DOGE, and Trump, seeking to stop his removal
@@ -5164,8 +6506,20 @@ events:
   event: Complying with the Executive Order from 2/19, USIP submits a letter to OMB asserting that USIP is an independent
     nonprofit organization, not a federal agency
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+  case_no: 1:25-cv-00804
   agency: USIP
   id: 4BC649hy
+  source_title: United States Institute of Peace v. Jackson (D.D.C.)
+  case_info:
+    name: United States Institute of Peace v. Jackson (D.D.C.)
+    description: The USIP is suing the DOGE and members of its board for the unlawful seizure and shutdown of the agency following
+      an executive order
+    case_no: 1:25-cv-00804
+    link: https://www.courtlistener.com/docket/69754533/united-states-institute-of-peace-v-jackson/
+    date_filed: 2025-03-18
+    agency:
+    - USIP
+    - DOGE
 
 - date: 2025-03-05
   type: onboarded
@@ -5175,8 +6529,21 @@ events:
   named_aliases:
   - SSA-7
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  case_no: 1:25-cv-00596
   agency: SSA
   id: W8mMryg3
+  source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D.
+    Md.)
+  case_info:
+    name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
+    description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency
+      ("DOGE"), challenging the access to sensitive personal data of millions of Americans which SSA gave to DOGE
+    date_filed: 2025-02-21
+    case_no: 1:25-cv-00596
+    link: https://www.courtlistener.com/docket/69664313/american-federation-of-state-county-and-municipal-employees-afl-cio-v/
+    agency:
+    - SSA
+    - DOGE
   named:
   - Marko Elez
   mapped_aliases:
@@ -5204,8 +6571,21 @@ events:
   named_aliases:
   - SSA-7
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  case_no: 1:25-cv-00596
   agency: SSA
   id: nSvvNuKp
+  source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D.
+    Md.)
+  case_info:
+    name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
+    description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency
+      ("DOGE"), challenging the access to sensitive personal data of millions of Americans which SSA gave to DOGE
+    date_filed: 2025-02-21
+    case_no: 1:25-cv-00596
+    link: https://www.courtlistener.com/docket/69664313/american-federation-of-state-county-and-municipal-employees-afl-cio-v/
+    agency:
+    - SSA
+    - DOGE
   named:
   - Marko Elez
   mapped_aliases:
@@ -5255,6 +6635,7 @@ events:
   case_no: 1:25-cv-00339
   agency: HHS
   id: RrJTPpBy
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -5328,6 +6709,7 @@ events:
   - CMS
   - NIH
   id: b9gFDNtG
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -5422,6 +6804,7 @@ events:
   case_no: 1:25-cv-00339
   agency: HHS
   id: GLjJidTw
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -5450,6 +6833,7 @@ events:
   case_no: 1:25-cv-00339
   agency: HHS
   id: EbBV4gBk
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -5478,8 +6862,20 @@ events:
   event: USIP President George Moose becomes aware that DOGE is conducting some sort of reconnaisance with respect to USIP's
     security operations and contractor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+  case_no: 1:25-cv-00804
   agency: USIP
   id: 8DQvc2a6
+  source_title: United States Institute of Peace v. Jackson (D.D.C.)
+  case_info:
+    name: United States Institute of Peace v. Jackson (D.D.C.)
+    description: The USIP is suing the DOGE and members of its board for the unlawful seizure and shutdown of the agency following
+      an executive order
+    case_no: 1:25-cv-00804
+    link: https://www.courtlistener.com/docket/69754533/united-states-institute-of-peace-v-jackson/
+    date_filed: 2025-03-18
+    agency:
+    - USIP
+    - DOGE
 
 - date: 2025-03-10
   type: legal
@@ -5489,6 +6885,7 @@ events:
   source: https://www.politico.com/news/2025/03/10/judge-orders-doge-record-release-00223151
   agency: DOGE
   id: 9mT2W8db
+  source_title: Citizens For Responsibility and Ethics in Washington (CREW) vs. DOGE Service (D.D.C.)
   case_info:
     name: Citizens For Responsibility and Ethics in Washington (CREW) vs. DOGE Service (D.D.C.)
     description: Plaintiff claims that the United States DOGE Service (USDS) "has provided no meaningful transparency into
@@ -5541,8 +6938,25 @@ events:
   named:
   - Edward Coristine
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: CMS
   id: V4EZ2WLY
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-11
   type: onboarded
@@ -5574,6 +6988,7 @@ events:
   case_no: 1:25-cv-00339
   agency: CMS
   id: MVHt9Q7W
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -5605,6 +7020,7 @@ events:
   case_no: 1:25-cv-00429
   agency: DOGE
   id: Vfm7HbS4
+  source_title: New Mexico et al v. Musk (D.D.C.)
   case_info:
     name: New Mexico et al v. Musk (D.D.C.)
     description: Fourteen states sued Elon Musk and the Department of Government Efficiency ("DOGE") alleging that Musk's
@@ -5651,6 +7067,7 @@ events:
   case_no: 1:25-cv-00339
   agency: SSA
   id: 7mtGbnRJ
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -5705,6 +7122,8 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
   agency: SSA
   id: 2FxxmH4p
+  source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D.
+    Md.)
   case_info:
     name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
     description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency
@@ -5721,6 +7140,7 @@ events:
   onboard_type: detailed
   detailed_from: GSA
   detail_id: mou-20250312-gsa-usps-ethan-shaotran
+  source: https://about.usps.com/who/legal/foia/documents/mou-ethan-shaotran-executed-redacted.pdf
   event: The USPS executes a MOU with GSA to detail Ethan Shaotran on an unpaid basis for projects there. His actual start
     date will depend on when the security clearance process completes
   named:
@@ -5759,6 +7179,7 @@ events:
   event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE
     staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
+  case_no: 1:25-cv-00339
   named:
   - Edward Coristine
   - Marko Elez
@@ -5767,6 +7188,22 @@ events:
   - Rachel Riley
   agency: HHS
   id: oTHjD2hg
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-13
   type: disruption
@@ -5839,8 +7276,25 @@ events:
   named:
   - Kyle Schutt
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: HHS
   id: BL5ThnQe
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
   detail_info:
     id: 20250305-gsa-hhs-no-record
     from: GSA
@@ -5884,8 +7338,20 @@ events:
   event: Various members of the USIP board report receiving emails from the White House saying they are terminated from their
     positions.
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+  case_no: 1:25-cv-00804
   agency: USIP
   id: aqE3KGWn
+  source_title: United States Institute of Peace v. Jackson (D.D.C.)
+  case_info:
+    name: United States Institute of Peace v. Jackson (D.D.C.)
+    description: The USIP is suing the DOGE and members of its board for the unlawful seizure and shutdown of the agency following
+      an executive order
+    case_no: 1:25-cv-00804
+    link: https://www.courtlistener.com/docket/69754533/united-states-institute-of-peace-v-jackson/
+    date_filed: 2025-03-18
+    agency:
+    - USIP
+    - DOGE
 
 - date: 2025-03-14
   type: disruption
@@ -5911,6 +7377,8 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
   agency: SSA
   id: EESeoHoc
+  source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D.
+    Md.)
   case_info:
     name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
     description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency
@@ -5930,10 +7398,23 @@ events:
   type: report
   event: Leland Dudek approves for "Employee 5" to run the proposed tool for death data improvement
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+  case_no: 1:25-cv-00596
   named_aliases:
   - SSA-5
   agency: SSA
   id: SYJpQj5D
+  source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D.
+    Md.)
+  case_info:
+    name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
+    description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency
+      ("DOGE"), challenging the access to sensitive personal data of millions of Americans which SSA gave to DOGE
+    date_filed: 2025-02-21
+    case_no: 1:25-cv-00596
+    link: https://www.courtlistener.com/docket/69664313/american-federation-of-state-county-and-municipal-employees-afl-cio-v/
+    agency:
+    - SSA
+    - DOGE
 
 - date: 2025-03-14~
   type: access_granted
@@ -5955,12 +7436,26 @@ events:
 - date: 2025-03-15
   type: access_granted
   event: Unidentified "Employee 7" at Social Security Administration is granted access to the USCIS SAVE system
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+  case_no: 1:25-cv-00596
   access_systems:
   - SAVE
   named_aliases:
   - SSA-7
   agency: SSA
   id: QGJK7cSa
+  source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D.
+    Md.)
+  case_info:
+    name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
+    description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency
+      ("DOGE"), challenging the access to sensitive personal data of millions of Americans which SSA gave to DOGE
+    date_filed: 2025-02-21
+    case_no: 1:25-cv-00596
+    link: https://www.courtlistener.com/docket/69664313/american-federation-of-state-county-and-municipal-employees-afl-cio-v/
+    agency:
+    - SSA
+    - DOGE
   named:
   - Marko Elez
   mapped_aliases:
@@ -5971,8 +7466,20 @@ events:
   event: Two FBI agents visited a senior USIP security official at his home unannounced to ask about gaining entry to the
     building, possibly through pressuring the the Institute's security contractor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+  case_no: 1:25-cv-00804
   agency: USIP
   id: fq2CQ8JW
+  source_title: United States Institute of Peace v. Jackson (D.D.C.)
+  case_info:
+    name: United States Institute of Peace v. Jackson (D.D.C.)
+    description: The USIP is suing the DOGE and members of its board for the unlawful seizure and shutdown of the agency following
+      an executive order
+    case_no: 1:25-cv-00804
+    link: https://www.courtlistener.com/docket/69754533/united-states-institute-of-peace-v-jackson/
+    date_filed: 2025-03-18
+    agency:
+    - USIP
+    - DOGE
 
 - date: 2025-03-16
   type: disruption
@@ -5980,8 +7487,20 @@ events:
     two FBI special agents called USIP's outside counsel, Mr. Foote, stating that they had suspicion of criminal behavior
     at USIP,
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+  case_no: 1:25-cv-00804
   agency: USIP
   id: aGS3jz8M
+  source_title: United States Institute of Peace v. Jackson (D.D.C.)
+  case_info:
+    name: United States Institute of Peace v. Jackson (D.D.C.)
+    description: The USIP is suing the DOGE and members of its board for the unlawful seizure and shutdown of the agency following
+      an executive order
+    case_no: 1:25-cv-00804
+    link: https://www.courtlistener.com/docket/69754533/united-states-institute-of-peace-v-jackson/
+    date_filed: 2025-03-18
+    agency:
+    - USIP
+    - DOGE
 
 - date: 2025-03-16
   type: disruption
@@ -5996,8 +7515,20 @@ events:
   event: At 6pm, all Inter-Con staff are removed from the building, all keycard access is revoked and all physical keys accounted
     for except for one held by the Inter-Con account manager for USIP
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.2.2.pdf
+  case_no: 1:25-cv-00804
   agency: USIP
   id: L3bniPgw
+  source_title: United States Institute of Peace v. Jackson (D.D.C.)
+  case_info:
+    name: United States Institute of Peace v. Jackson (D.D.C.)
+    description: The USIP is suing the DOGE and members of its board for the unlawful seizure and shutdown of the agency following
+      an executive order
+    case_no: 1:25-cv-00804
+    link: https://www.courtlistener.com/docket/69754533/united-states-institute-of-peace-v-jackson/
+    date_filed: 2025-03-18
+    agency:
+    - USIP
+    - DOGE
 
 - date: 2025-03-16
   type: onboarded
@@ -6008,8 +7539,21 @@ events:
   named_aliases:
   - SSA-11
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+  case_no: 1:25-cv-00596
   agency: SSA
   id: msDZFCYH
+  source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D.
+    Md.)
+  case_info:
+    name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
+    description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency
+      ("DOGE"), challenging the access to sensitive personal data of millions of Americans which SSA gave to DOGE
+    date_filed: 2025-02-21
+    case_no: 1:25-cv-00596
+    link: https://www.courtlistener.com/docket/69664313/american-federation-of-state-county-and-municipal-employees-afl-cio-v/
+    agency:
+    - SSA
+    - DOGE
 
 - date: 2025-03-16~
   type: access_granted
@@ -6024,6 +7568,7 @@ events:
   case_no: 1:25-cv-00339
   agency: HHS
   id: gNWEa49R
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -6063,8 +7608,20 @@ events:
   event: At 2:59pm, USIP Security Chief calls DC police and institutes a high-level lockdown for the building. He observes
     with the security cameras that DOGE staff attempting entry on various doors.
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.2.2.pdf
+  case_no: 1:25-cv-00804
   agency: USIP
   id: i2mnVSPK
+  source_title: United States Institute of Peace v. Jackson (D.D.C.)
+  case_info:
+    name: United States Institute of Peace v. Jackson (D.D.C.)
+    description: The USIP is suing the DOGE and members of its board for the unlawful seizure and shutdown of the agency following
+      an executive order
+    case_no: 1:25-cv-00804
+    link: https://www.courtlistener.com/docket/69754533/united-states-institute-of-peace-v-jackson/
+    date_filed: 2025-03-18
+    agency:
+    - USIP
+    - DOGE
 
 - date: 2025-03-17
   type: disruption
@@ -6079,15 +7636,39 @@ events:
   event: USIP President George Moose reports being present when four Inter-Con employees entered the USIP building without
     permission
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+  case_no: 1:25-cv-00804
   agency: USIP
   id: 9A3FaYQB
+  source_title: United States Institute of Peace v. Jackson (D.D.C.)
+  case_info:
+    name: United States Institute of Peace v. Jackson (D.D.C.)
+    description: The USIP is suing the DOGE and members of its board for the unlawful seizure and shutdown of the agency following
+      an executive order
+    case_no: 1:25-cv-00804
+    link: https://www.courtlistener.com/docket/69754533/united-states-institute-of-peace-v-jackson/
+    date_filed: 2025-03-18
+    agency:
+    - USIP
+    - DOGE
 
 - date: 2025-03-17
   type: disruption
   event: USIP President George Moose is escorted out of the building by DC police who entered with DOGE at 5:30pm
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+  case_no: 1:25-cv-00804
   agency: USIP
   id: 4ySjWC8N
+  source_title: United States Institute of Peace v. Jackson (D.D.C.)
+  case_info:
+    name: United States Institute of Peace v. Jackson (D.D.C.)
+    description: The USIP is suing the DOGE and members of its board for the unlawful seizure and shutdown of the agency following
+      an executive order
+    case_no: 1:25-cv-00804
+    link: https://www.courtlistener.com/docket/69754533/united-states-institute-of-peace-v-jackson/
+    date_filed: 2025-03-18
+    agency:
+    - USIP
+    - DOGE
 
 - date: 2025-03-17
   type: disruption
@@ -6115,8 +7696,20 @@ events:
   type: report
   event: Various USIP staff report receiving messages from DOGE staff asking for employee lists and access to computer systems
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+  case_no: 1:25-cv-00804
   agency: USIP
   id: nEGenYbj
+  source_title: United States Institute of Peace v. Jackson (D.D.C.)
+  case_info:
+    name: United States Institute of Peace v. Jackson (D.D.C.)
+    description: The USIP is suing the DOGE and members of its board for the unlawful seizure and shutdown of the agency following
+      an executive order
+    case_no: 1:25-cv-00804
+    link: https://www.courtlistener.com/docket/69754533/united-states-institute-of-peace-v-jackson/
+    date_filed: 2025-03-18
+    agency:
+    - USIP
+    - DOGE
 
 - date: 2025-03-17
   type: access_granted
@@ -6152,6 +7745,8 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
   agency: SSA
   id: P5C4nMDk
+  source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D.
+    Md.)
   case_info:
     name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
     description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency
@@ -6180,6 +7775,8 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
   agency: SSA
   id: irsHxHEt
+  source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D.
+    Md.)
   case_info:
     name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
     description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency
@@ -6213,6 +7810,7 @@ events:
   case_no: 1:25-cv-02404
   agency: DOGE
   id: RFCHUNhk
+  source_title: The Intercept Media, Inc. v. United States Department of Government Efficiency (S.D.N.Y.)
   case_info:
     name: The Intercept Media, Inc. v. United States Department of Government Efficiency (S.D.N.Y.)
     description: Plaintiff is suing DOGE to comply with five FOIA requests made during March 2025
@@ -6229,6 +7827,7 @@ events:
   case_no: 8:25-cv-00462
   agency: DOGE
   id: bhuqN8P5
+  source_title: J. Doe 1-26 v. Musk (D. Md)
   case_info:
     name: J. Doe 1-26 v. Musk (D. Md)
     description: Twenty-six current and former employees of the U.S. Agency for International Development ("USAID") sued Elon
@@ -6269,6 +7868,7 @@ events:
   case_no: 1:25-cv-00234
   agency: OPM
   id: QmyxpRJR
+  source_title: Jane Does 1-2 v. Office of Personnel Management (D.D.C.)
   case_info:
     name: Jane Does 1-2 v. Office of Personnel Management (D.D.C.)
     description: Two federal employees brought a class action lawsuit against alleging OPM did not do a required Privacy Impact
@@ -6286,6 +7886,7 @@ events:
   source: https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rZttxcbH9cfc/v0
   agency: USAID
   id: hjaBQhn8
+  source_title: J. Doe 1-26 v. Musk (D. Md)
   case_info:
     name: J. Doe 1-26 v. Musk (D. Md)
     description: Twenty-six current and former employees of the U.S. Agency for International Development ("USAID") sued Elon
@@ -6328,6 +7929,7 @@ events:
   case_no: 1:25-cv-00339
   agency: HHS
   id: RANpejQL
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -6355,6 +7957,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277646/gov.uscourts.dcd.277646.24.2.pdf
   agency: DOGE
   id: j8dSpHp3
+  source_title: Citizens For Responsibility and Ethics in Washington (CREW) vs. DOGE Service (D.D.C.)
   case_info:
     name: Citizens For Responsibility and Ethics in Washington (CREW) vs. DOGE Service (D.D.C.)
     description: Plaintiff claims that the United States DOGE Service (USDS) "has provided no meaningful transparency into
@@ -6375,6 +7978,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576293/gov.uscourts.mdd.576293.77.2.pdf
   agency: DOGE
   id: bPH63xJM
+  source_title: J. Doe 1-26 v. Musk (D. Md)
   case_info:
     name: J. Doe 1-26 v. Musk (D. Md)
     description: Twenty-six current and former employees of the U.S. Agency for International Development ("USAID") sued Elon
@@ -6391,8 +7995,25 @@ events:
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.3.pdf
+  case_no: 1:25-cv-00339
   agency: DOL
   id: QL984GQg
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-19
   type: report
@@ -6435,6 +8056,7 @@ events:
   source: https://bsky.app/profile/annabower.bsky.social/post/3lkqsbbysck2n
   agency: USIP
   id: M4hzjE85
+  source_title: United States Institute of Peace v. Jackson (D.D.C.)
   case_info:
     name: United States Institute of Peace v. Jackson (D.D.C.)
     description: The USIP is suing the DOGE and members of its board for the unlawful seizure and shutdown of the agency following
@@ -6456,6 +8078,8 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
   agency: SSA
   id: Pej3DDWx
+  source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D.
+    Md.)
   case_info:
     name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
     description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency
@@ -6487,6 +8111,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277646/gov.uscourts.dcd.277646.25.0.pdf
   agency: DOGE
   id: bvMjErqQ
+  source_title: Citizens For Responsibility and Ethics in Washington (CREW) vs. DOGE Service (D.D.C.)
   case_info:
     name: Citizens For Responsibility and Ethics in Washington (CREW) vs. DOGE Service (D.D.C.)
     description: Plaintiff claims that the United States DOGE Service (USDS) "has provided no meaningful transparency into
@@ -6559,6 +8184,8 @@ events:
   case_no: 1:25-cv-00596
   agency: SSA
   id: 6M6gitcg
+  source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D.
+    Md.)
   case_info:
     name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
     description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency
@@ -6640,6 +8267,7 @@ events:
   case_no: 1:25-cv-00339
   agency: DOL
   id: fbnjeUon
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -6673,8 +8301,25 @@ events:
   named:
   - Nikhil Rajpal
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: CFPB
   id: ZLkwYJoJ
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-21
   type: offboarded
@@ -6682,8 +8327,25 @@ events:
   named:
   - Nikhil Rajpal
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: CFPB
   id: Uh8mUmE6
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-21
   type: report
@@ -6713,8 +8375,25 @@ events:
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: DOL
   id: W4WdJwtf
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-21
   type: report
@@ -6732,8 +8411,25 @@ events:
   named:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: HHS
   id: ngDpnzXz
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-21
   type: access_granted
@@ -6744,8 +8440,25 @@ events:
   named:
   - Kyle Schutt
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: HHS
   id: 7ZYSRd3c
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-24
   type: legal
@@ -6756,6 +8469,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.69.0.pdf
   agency: Education
   id: 9nkR2HfU
+  source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   case_info:
     name: American Federation of Teachers et al v. Bessent et al (D. Md.)
     description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management
@@ -6781,6 +8495,7 @@ events:
   case_no: 8:25-cv-00430
   agency: Treasury
   id: Z7E6ai2u
+  source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   case_info:
     name: American Federation of Teachers et al v. Bessent et al (D. Md.)
     description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management
@@ -6807,6 +8522,7 @@ events:
   - Greg Hogan
   agency: OPM
   id: FoSzFb5k
+  source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   case_info:
     name: American Federation of Teachers et al v. Bessent et al (D. Md.)
     description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management
@@ -6924,6 +8640,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.14.1.pdf
   agency: USIP
   id: NSHGaNmC
+  source_title: United States Institute of Peace v. Jackson (D.D.C.)
   case_info:
     name: United States Institute of Peace v. Jackson (D.D.C.)
     description: The USIP is suing the DOGE and members of its board for the unlawful seizure and shutdown of the agency following
@@ -6948,6 +8665,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.15.3.pdf
   agency: USIP
   id: mrPV8r2V
+  source_title: United States Institute of Peace v. Jackson (D.D.C.)
   case_info:
     name: United States Institute of Peace v. Jackson (D.D.C.)
     description: The USIP is suing the DOGE and members of its board for the unlawful seizure and shutdown of the agency following
@@ -7029,6 +8747,7 @@ events:
   case_no: 1:25-cv-00409
   agency: DOGE
   id: HDyeD2he
+  source_title: American Oversight v. Department of Government Efficiency (D.D.C.)
   case_info:
     name: American Oversight v. Department of Government Efficiency (D.D.C.)
     description: The complaint seeks declaratory and injunctive relief compelling DOGE and OMB to comply with FOIA requests
@@ -7045,6 +8764,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277646/gov.uscourts.dcd.277646.28.0.pdf
   agency: DOGE
   id: PWv6ybwS
+  source_title: Citizens For Responsibility and Ethics in Washington (CREW) vs. DOGE Service (D.D.C.)
   case_info:
     name: Citizens For Responsibility and Ethics in Washington (CREW) vs. DOGE Service (D.D.C.)
     description: Plaintiff claims that the United States DOGE Service (USDS) "has provided no meaningful transparency into
@@ -7132,6 +8852,7 @@ events:
   case_no: 1:25-cv-00339
   agency: HHS
   id: Z9rJzYpy
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -7155,21 +8876,25 @@ events:
   event: Jordan Wick's access to PRISM is revoked, per a court order in to a court order in American Federation of Teachers
     et al. v Bessent et al., No. 8:25-cv-430
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
-  case_no: 8:25-cv-00430
+  case_no: 1:25-cv-00339
   agency: CFPB
   id: 72yFCY5H
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
-    name: American Federation of Teachers et al v. Bessent et al (D. Md.)
-    description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management
-      ("OPM"), and the Department of Education ("DOE"), challenging the agencies' disclosure of sensitive personal information
-      to Department of Government Efficiency ("DOGE") employees.
-    case_no: 8:25-cv-00430
-    date_filed: 2025-02-10
-    link: https://www.courtlistener.com/docket/69627648/american-federation-of-teachers-v-scott-bessent/
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
     agency:
-    - Education
-    - Treasury
-    - OPM
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-28
   type: report
@@ -7334,12 +9059,30 @@ events:
   named:
   - Luke Farritor
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: HHS
   id: UKDnkvKc
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-29
   type: report
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   event: In a legal filing, the DOJ identifies 4 DOGE staffers - Edward Coristine, Marko Elez, Luke Farritor and Amy Gleason
     - at CMS
   named:
@@ -7349,6 +9092,22 @@ events:
   - Amy Gleason
   agency: CMS
   id: iDxrzxfp
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-29
   type: access_revoked
@@ -7360,8 +9119,25 @@ events:
   named:
   - Edward Coristine
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: CMS
   id: covQW3VT
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-29
   type: disruption
@@ -7392,12 +9168,30 @@ events:
   named:
   - Marko Elez
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   agency: HHS
   id: JDFqUnQt
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-29
   type: report
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+  case_no: 1:25-cv-00339
   event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff who
     have worked at HHS
   named:
@@ -7408,10 +9202,27 @@ events:
   - Kyle Schutt
   agency: HHS
   id: KhdnaQWS
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-29
   type: report
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.4.pdf
+  case_no: 1:25-cv-00339
   event: In a court declaration in AFL-CIO vs. DOL, counsel for the plaintiffs Alexa Milton provides the names of two DOGE
     staffers at HHS who were not provided in the government's list of staffers there
   named:
@@ -7419,6 +9230,22 @@ events:
   - Jeremy Lewin
   agency: HHS
   id: 2JU9Todn
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-03-30
   type: report
@@ -7757,6 +9584,7 @@ events:
   - OPM
   - Education
   id: aLxLCzjS
+  source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   case_info:
     name: American Federation of Teachers et al v. Bessent et al (D. Md.)
     description: The American Federation of Teachers and other plaintiffs sued the Treasury, Office of Personnel Management
@@ -7783,6 +9611,7 @@ events:
   - DHS
   - ICE
   id: UaUYi68M
+  source_title: Centro de Trabajadores Unidos v. Bessent (D.D.C)
   case_info:
     name: Centro de Trabajadores Unidos v. Bessent (D.D.C)
     description: Plaintiffs allege Trump administration is illegally looking to share tax information with DHS, ICE, etc.
@@ -7823,6 +9652,7 @@ events:
   - Kendall Lindemann
   agency: DOGE
   id: Gti7PARC
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -7849,6 +9679,7 @@ events:
   case_no: 1:25-cv-00339
   agency: CMS
   id: BQGcBopa
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -8002,6 +9833,7 @@ events:
   - Noah Peters
   agency: OPM
   id: jY8TJybS
+  source_title: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
   case_info:
     name: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
     description: A lawsuit by several labor unions challenging the validity of the OPM terminating federal employees en masse
@@ -8049,6 +9881,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.nysd.636609/gov.uscourts.nysd.636609.139.0.pdf
   agency: Treasury
   id: 7AvfSN6g
+  source_title: New York et al v. Donald J. Trump (S.D.N.Y.)
   case_info:
     name: New York et al v. Donald J. Trump (S.D.N.Y.)
     description: Nineteen state attorneys general sued President Donald Trump and Secretary of the Treasury Scott Bessent
@@ -8067,6 +9900,8 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.134.0.pdf
   agency: SSA
   id: MCmDjbX8
+  source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D.
+    Md.)
   case_info:
     name: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
     description: Three labor unions sued the Social Security Administration ("SSA") and the Department of Government Efficiency
@@ -8191,6 +10026,7 @@ events:
   case_no: 1:25-cv-00381
   agency: CFPB
   id: fZotJY5V
+  source_title: National Treasury Employees Union v. Russell Vought (D.D.C.)
   case_info:
     name: National Treasury Employees Union v. Russell Vought (D.D.C.)
     description: National Treasury Employees Union, representing employees across 37 federal agencies and departments including
@@ -8213,6 +10049,7 @@ events:
   - Gavin Kliger
   agency: CFPB
   id: dHm7PvDq
+  source_title: National Treasury Employees Union v. Russell Vought (D.D.C.)
   case_info:
     name: National Treasury Employees Union v. Russell Vought (D.D.C.)
     description: National Treasury Employees Union, representing employees across 37 federal agencies and departments including
@@ -8266,6 +10103,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
   agency: HHS
   id: JgxjuRQy
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -8293,6 +10131,7 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
   agency: HHS
   id: akjVaMqu
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   case_info:
     name: AFL-CIO v. Dep't of Labor (D.D.C.)
     description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
@@ -8317,8 +10156,26 @@ events:
   named:
   - Conor Fennessy
   event: In a filing, HHS attests that Conor Fennessy's access the CALM system, FBIS, HCAS, and NIH EBS System has been deactivated
+  case_no: 1:25-cv-00339
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
   agency: HHS
   id: DvLhKb73
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-04-18
   type: access_revoked
@@ -8328,8 +10185,26 @@ events:
   - Conor Fennessy
   - Jeremy Lewin
   event: In a filing, HHS attests that Conor Fennessy's and Jeremy Lewin's access to the CALM system has been deactivated
+  case_no: 1:25-cv-00339
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
   agency: CMS
   id: 6bdjQMN2
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-04-18
   type: access_revoked
@@ -8339,8 +10214,26 @@ events:
   - Conor Fennessy
   event: In a filing, HHS attests that Conor Fennessy's access to the CALM system, FBIS, HCAS, and NIH EBS System has been
     deactivated
+  case_no: 1:25-cv-00339
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
   agency: NIH
   id: bdTuzkwu
+  source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  case_info:
+    name: AFL-CIO v. Dep't of Labor (D.D.C.)
+    description: A coalition of labor unions sued the Department of Labor ("DOL"), the Department of Government Efficiency
+      ("DOGE"), and others seeking to block DOGE's access to internal DOL information systems on the basis that such access
+      violates the Administrative Procedure Act, the Privacy Act, the Economy Act, and other federal laws. A federal court
+      denied requests to temporarily block DOGE's access while the case proceeds, but indicated further analysis was needed
+      in particular on the Economy Act claims.
+    case_no: 1:25-cv-00339
+    date_filed: 2025-02-05
+    link: https://www.courtlistener.com/docket/69613359/american-federation-of-labor-and-congress-of-industrial-organizations-v/
+    agency:
+    - DOL
+    - CFPB
+    - HHS
+    - DOGE
 
 - date: 2025-04-18
   type: offboarded
@@ -8348,6 +10241,7 @@ events:
   event: Gavin Kliger's building and system access at the IRS is rescinded
   named:
   - Gavin Kliger
+  source: https://www.msn.com/en-us/money/markets/latest-irs-acting-chief-ousted-amid-musk-vs-bessent-turf-feud/ar-AA1Dc9ph
   agency: IRS
   id: WcfPQ6YY
 
@@ -8365,6 +10259,7 @@ events:
     systems
   named:
   - Roland Shen
+  source: https://www.msn.com/en-us/money/companies/rampin-up-baby-that-thiel-start-up-hunting-the-motherlode-contract-is-inside-treasury/ar-AA1DesOc
   agency: Treasury
   id: 85e3G4Rn
 
@@ -8385,6 +10280,7 @@ events:
     grants to organizations that work with migrant and seasonal labor
   named:
   - Miles Collins
+  source: https://www.wired.com/story/doge-access-immigration-data-department-of-labor/
   agency: DOL
   id: FP4MT8Ut
 
@@ -8395,6 +10291,7 @@ events:
   - FLAG
   event: Wired reports that Aram Moghaddassi has been granted "OIG-level" admin access to the DOL's Foreign Labor Application
     Gateway (FLAG) system, which would include visa applications of foreign workers
+  source: https://www.wired.com/story/doge-access-immigration-data-department-of-labor/
   named:
   - Aram Moghaddassi
   agency: DOL
@@ -8411,6 +10308,7 @@ events:
   - Miles Collins
   - Aram Moghaddassi
   - Marko Elez
+  source: https://www.wired.com/story/doge-access-immigration-data-department-of-labor/
   agency: DOL
   id: 5ZoiqF9F
 

@@ -24,8 +24,10 @@ aliases:
     - OPM-2
     - OPM-3
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+    case_no: 8:25-cv-00430
     agency: OPM
     id: 55SxqiCv
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
 
 - id: OPM-3
   agency: OPM
@@ -44,8 +46,10 @@ aliases:
     - OPM-2
     - OPM-3
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+    case_no: 8:25-cv-00430
     agency: OPM
     id: 55SxqiCv
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   - date: 2025-02-12
     type: onboarded
     onboard_type: detailed
@@ -67,10 +71,12 @@ aliases:
     event: The Office of Personnel Management executes a Memorandum of Understanding for a detailee from the Social Security
       Administration, who will also work for Department of Education
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    case_no: 1:25-cv-00354
     agency:
     - OPM
     - SSA
     id: JbqPxwcC
+    source_title: University of California Student Assn. v. Carter et al
   details:
   - id: 20250212-ssa-opm-education-sge
     from: SSA
@@ -106,8 +112,10 @@ aliases:
     named_aliases:
     - OPM-4
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+    case_no: 8:25-cv-00430
     agency: OPM
     id: NZhdNuo5
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
 
 - id: OPM-5
   agency: OPM
@@ -125,8 +133,10 @@ aliases:
     named_aliases:
     - OPM-5
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+    case_no: 8:25-cv-00430
     agency: OPM
     id: VikxYwt5
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   - date: 2025-02-18
     type: promotion
     event: Unidentified employee OPM-5's appointment is changed to not being provisional
@@ -148,8 +158,10 @@ aliases:
     named_aliases:
     - OPM-6
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+    case_no: 8:25-cv-00430
     agency: OPM
     id: hkA2xC7R
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
 
 - id: ED-1
   agency: Education
@@ -167,10 +179,12 @@ aliases:
     detail_id: 20250212-opm-education-ed-1
     event: Unidentified employee ED-1 is detailed from OPM to the Department of Education
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    case_no: 1:25-cv-00354
     named_aliases:
     - ED-1
     agency: Education
     id: FTNCaSHd
+    source_title: University of California Student Assn. v. Carter et al
   - date: 2025-02-12
     type: onboarded
     onboard_type: detailed
@@ -196,9 +210,11 @@ aliases:
     event: The Department of Education executes a Memorandum of Understanding (MOU) with OPM for a single detailee who is
       represented as not being paid nor needing reimbursement (i.e., a Special Government Employee)
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    case_no: 1:25-cv-00354
     agency:
     - Education
     id: dchWbmU5
+    source_title: University of California Student Assn. v. Carter et al
   details:
   - id: 20250212-opm-education-ed-1
     from: OPM
@@ -232,8 +248,10 @@ aliases:
     - ED-2
     comment: Redacted in hiring letter, but identified later in filing
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    case_no: 1:25-cv-00354
     agency: Education
     id: MJvtgrEA
+    source_title: University of California Student Assn. v. Carter et al
 
 - id: ED-3
   agency: Education
@@ -252,10 +270,12 @@ aliases:
     detail_id: 20250212-gsa-education-ed-3
     event: ED-3 is detailed from GSA to the Department of Education
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    case_no: 1:25-cv-00354
     named_aliases:
     - ED-3
     agency: Education
     id: HF6U3Sft
+    source_title: University of California Student Assn. v. Carter et al
   - date: 2025-02-12
     type: official
     detail_id: 20250212-gsa-education-ed-3
@@ -264,8 +284,10 @@ aliases:
     event: An agreement is executed for a single detailee to the Dept. of Education from GSA. They are also identified as
       being a GSE who is not paid nor will need to be reimbursed.
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    case_no: 1:25-cv-00354
     agency: Education
     id: Wfox3Em6
+    source_title: University of California Student Assn. v. Carter et al
   details:
   - id: 20250212-gsa-education-ed-3
     from: SSA
@@ -320,7 +342,10 @@ aliases:
     - SSA-1
     agency: SSA
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    case_no: 1:25-cv-00596
     id: HauBMsdH
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration
+      (D. Md.)
   - date: 2025-02-13
     type: onboarded
     event: According to a sworn declaration by a Deputy Commissioner at SSA, an unindentified DOGE staffer (Employee 1) is
@@ -330,8 +355,10 @@ aliases:
     named_aliases:
     - SSA-1
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
     agency: SSA
     id: fJn7Fijf
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-12
     type: legal
     event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
@@ -352,6 +379,7 @@ aliases:
     case_no: 1:25-cv-00339
     agency: SSA
     id: 7mtGbnRJ
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-27
     type: report
     event: In a sworn declaration, Leland Dudek justifies access to PII in SSA records for Employee 1, Employee 5, Employee
@@ -390,8 +418,10 @@ aliases:
     named:
     - Scott Coulter
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
     agency: SSA
     id: ZffPUbPY
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-18
     type: onboarded
     onboard_type: detailed
@@ -400,8 +430,11 @@ aliases:
     named_aliases:
     - SSA-2
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    case_no: 1:25-cv-00596
     agency: SSA
     id: UXPTq7wP
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration
+      (D. Md.)
   - date: 2025-03-12
     type: legal
     event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
@@ -422,6 +455,7 @@ aliases:
     case_no: 1:25-cv-00339
     agency: SSA
     id: 7mtGbnRJ
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-25
     type: promotion
     named_aliases:
@@ -471,8 +505,10 @@ aliases:
       a Schedule C Policy Advisor, detailed from the Department of Labor to SSA" with it finalized on February 22. "His duties
       currently relate to improper payments and SSA's Death Master File."
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
     agency: SSA
     id: YHZU6UQD
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-18
     type: onboarded
     onboard_type: detailed
@@ -481,8 +517,11 @@ aliases:
     named_aliases:
     - SSA-3
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    case_no: 1:25-cv-00596
     agency: SSA
     id: fhML8Diw
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration
+      (D. Md.)
   - date: 2025-03-12
     type: legal
     event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
@@ -503,6 +542,7 @@ aliases:
     case_no: 1:25-cv-00339
     agency: SSA
     id: 7mtGbnRJ
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   details:
   - id: 20250222-dol-ssa-employee-3
     from: DOL
@@ -536,8 +576,11 @@ aliases:
     named_aliases:
     - SSA-4
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    case_no: 1:25-cv-00596
     agency: SSA
     id: T4uJvZZy
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration
+      (D. Md.)
   - date: 2025-02-27
     type: onboarded
     onboard_type: hired
@@ -547,8 +590,10 @@ aliases:
     - SSA-9
     event: According to a sworn declaration, "Employees 4, 6, and 9 were each appointed as an expert, special government employee"
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
     agency: SSA
     id: JUcXdAh2
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-12
     type: legal
     event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
@@ -569,6 +614,7 @@ aliases:
     case_no: 1:25-cv-00339
     agency: SSA
     id: 7mtGbnRJ
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
 
 - id: SSA-5
   agency: SSA
@@ -587,8 +633,10 @@ aliases:
     event: According to a sworn declaration, "SSA began onboarding and training Employee 5, an engineer, detailed from the
       United States DOGE Service to SSA" with an inter-agency agreement to DOGE.
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
     agency: SSA
     id: MipJ2cYB
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-28
     type: official
     event: Via email, "Employee 5" of the DOGE team at SSA requests and receives approval from Leland Dudek to run a program
@@ -601,6 +649,8 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
     id: 5KzocaBU
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration
+      (D. Md.)
   - date: 2025-03-12
     type: legal
     event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
@@ -621,6 +671,7 @@ aliases:
     case_no: 1:25-cv-00339
     agency: SSA
     id: 7mtGbnRJ
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-12
     type: access_granted
     access_type: unknown
@@ -635,14 +686,19 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
     id: 2FxxmH4p
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration
+      (D. Md.)
   - date: 2025-03-14
     type: report
     event: Leland Dudek approves for "Employee 5" to run the proposed tool for death data improvement
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    case_no: 1:25-cv-00596
     named_aliases:
     - SSA-5
     agency: SSA
     id: SYJpQj5D
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration
+      (D. Md.)
   - date: 2025-03-27
     type: report
     event: In a sworn declaration, Leland Dudek justifies access to PII in SSA records for Employee 1, Employee 5, Employee
@@ -673,8 +729,11 @@ aliases:
     named_aliases:
     - SSA-6
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    case_no: 1:25-cv-00596
     agency: SSA
     id: QJ48Lf4Y
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration
+      (D. Md.)
   - date: 2025-02-27
     type: onboarded
     onboard_type: hired
@@ -684,8 +743,10 @@ aliases:
     - SSA-9
     event: According to a sworn declaration, "Employees 4, 6, and 9 were each appointed as an expert, special government employee"
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
     agency: SSA
     id: JUcXdAh2
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-12
     type: legal
     event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
@@ -706,6 +767,7 @@ aliases:
     case_no: 1:25-cv-00339
     agency: SSA
     id: 7mtGbnRJ
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-17
     type: access_granted
     access_systems:
@@ -724,6 +786,8 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
     id: P5C4nMDk
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration
+      (D. Md.)
 
 - id: SSA-7
   agency: SSA
@@ -741,8 +805,10 @@ aliases:
     event: According to a sworn declaration, "the agency began onboarding Employee 7, as a detailee from Department of Labor
       (DOL) to SSA."
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
     agency: SSA
     id: Yohq6GxY
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-05
     type: onboarded
     onboard_type: detailed
@@ -751,8 +817,11 @@ aliases:
     named_aliases:
     - SSA-7
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    case_no: 1:25-cv-00596
     agency: SSA
     id: W8mMryg3
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration
+      (D. Md.)
   - date: 2025-03-05
     type: onboarded
     onboard_type: detailed
@@ -761,8 +830,11 @@ aliases:
     named_aliases:
     - SSA-7
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    case_no: 1:25-cv-00596
     agency: SSA
     id: nSvvNuKp
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration
+      (D. Md.)
   - date: 2025-03-12
     type: legal
     event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
@@ -783,15 +855,20 @@ aliases:
     case_no: 1:25-cv-00339
     agency: SSA
     id: 7mtGbnRJ
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-15
     type: access_granted
     event: Unidentified "Employee 7" at Social Security Administration is granted access to the USCIS SAVE system
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    case_no: 1:25-cv-00596
     access_systems:
     - SAVE
     named_aliases:
     - SSA-7
     agency: SSA
     id: QGJK7cSa
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration
+      (D. Md.)
   - date: 2025-03-17
     type: access_granted
     access_systems:
@@ -810,6 +887,8 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
     id: P5C4nMDk
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration
+      (D. Md.)
   details:
   - id: 20250317-dol-ssa-employee-7
     from: DOL
@@ -842,8 +921,11 @@ aliases:
     - SSA-8
     - SSA-10
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    case_no: 1:25-cv-00596
     agency: SSA
     id: QCqyEhNT
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration
+      (D. Md.)
   - date: 2025-03-12
     type: legal
     event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
@@ -864,6 +946,7 @@ aliases:
     case_no: 1:25-cv-00339
     agency: SSA
     id: 7mtGbnRJ
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-27
     type: report
     event: In a sworn declaration, Leland Dudek justifies access to PII in SSA records for Employee 1, Employee 5, Employee
@@ -917,7 +1000,10 @@ aliases:
     - SSA-9
     agency: SSA
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    case_no: 1:25-cv-00596
     id: NyUksNNq
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration
+      (D. Md.)
   - date: 2025-02-27
     type: onboarded
     onboard_type: hired
@@ -927,8 +1013,10 @@ aliases:
     - SSA-9
     event: According to a sworn declaration, "Employees 4, 6, and 9 were each appointed as an expert, special government employee"
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
     agency: SSA
     id: JUcXdAh2
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-12
     type: legal
     event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees:
@@ -949,6 +1037,7 @@ aliases:
     case_no: 1:25-cv-00339
     agency: SSA
     id: 7mtGbnRJ
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-14
     type: access_granted
     access_systems:
@@ -961,6 +1050,8 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
     id: EESeoHoc
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration
+      (D. Md.)
   - date: 2025-03-17
     type: access_granted
     access_systems:
@@ -979,6 +1070,8 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
     id: P5C4nMDk
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration
+      (D. Md.)
   - date: 2025-03-19
     type: report
     event: Leland Dudek approves access of "Employee 9" of the DOGE team at SSA for some additional schemas in PSSNAP
@@ -989,6 +1082,8 @@ aliases:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
     id: Pej3DDWx
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration
+      (D. Md.)
   - date: 2025-03-27
     type: report
     event: In a sworn declaration, Leland Dudek justifies access to PII in SSA records for Employee 1, Employee 5, Employee
@@ -1023,8 +1118,11 @@ aliases:
     - SSA-8
     - SSA-10
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    case_no: 1:25-cv-00596
     agency: SSA
     id: QCqyEhNT
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration
+      (D. Md.)
   - date: 2025-02-19
     type: onboarded
     onboard_type: detailed
@@ -1057,6 +1155,7 @@ aliases:
     case_no: 1:25-cv-00339
     agency: SSA
     id: 7mtGbnRJ
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   details:
   - id: 20250218-gsa-ssa-employee-10
     from: GSA
@@ -1093,8 +1192,11 @@ aliases:
     named_aliases:
     - SSA-11
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    case_no: 1:25-cv-00596
     agency: SSA
     id: msDZFCYH
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration
+      (D. Md.)
   - date: 2025-04-07
     type: access_granted
     event: Unidentified "Employee 11" is accidentally granted access to SSA systems that DOGE was banned from by the court
@@ -1137,8 +1239,10 @@ aliases:
     event: Mr. Farritor used his Entra ID access to provide another member of the DOGE with access to the admin interface
       for the CFPB's website
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: CFPB
     id: LRKRjiXo
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-07
     type: disruption
     event: The CFPB homepage is deleted and returns a 404 error

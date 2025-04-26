@@ -183,6 +183,8 @@ with open("./it_modernization/db/import/details.csv", "w", newline="") as csvfil
         "reimbursed",
         "reimbursement_amount",
         "source",
+        "source_title",
+        "source_name",
         "file",
         "comment",
         "named",

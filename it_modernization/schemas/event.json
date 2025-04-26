@@ -90,6 +90,14 @@
             "description": "A URL of the source for the information in the event",
             "format": "uri"
         },
+        "source_title": {
+            "type": "string",
+            "description": "The title of the original source (eg, a news article title or legal case)"
+        },
+        "source_name": {
+            "type": "string",
+            "description": "If it's a publication, the name of the publication"
+        },
         "type": {
             "description": "The type of the event",
             "$ref": "valid_names.json#event_types"
@@ -137,6 +145,7 @@
         "date",
         "event",
         "agency",
+        "source",
         "type"
     ],
     "additionalProperties": false

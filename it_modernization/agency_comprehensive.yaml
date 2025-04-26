@@ -27,8 +27,10 @@ CDC:
     named:
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: CDC
     id: PWDAbB3M
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-06
     type: report
     event: DOGE staff arrive at CDC HQ in Atlanta
@@ -62,8 +64,10 @@ CDC:
     named:
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: CDC
     id: R82VyaYp
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-28
     type: disruption
     event: After a federal judge overrules the mass firing of probationary workers, 180 workers (out of 750) return to work
@@ -145,8 +149,10 @@ CMS:
     named:
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: CMS
     id: LQGUWr49
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-03
     type: access_granted
     access_type: read
@@ -159,6 +165,7 @@ CMS:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
     agency: CMS
     id: PSZVY2Qg
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-04
     type: access_granted
     access_type: read
@@ -171,6 +178,7 @@ CMS:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
     agency: CMS
     id: XjqwLht5
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-05
     type: report
     event: DOGE staff reported with agency buildings with access to certain systems like CALM, but sources deny they have access to HIGLAS
@@ -192,8 +200,10 @@ CMS:
     named:
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: CMS
     id: 9xq4D2VZ
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-20
     type: access_granted
     access_type: read
@@ -206,6 +216,7 @@ CMS:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
     agency: CMS
     id: TYQgsQgD
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-24
     type: access_granted
     access_type: read
@@ -215,8 +226,10 @@ CMS:
     named:
     - Amy Gleason
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: CMS
     id: ABsGtQoM
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-03
     type: access_granted
     access_type: read
@@ -230,6 +243,7 @@ CMS:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
     agency: CMS
     id: XNdG2o3m
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-05
     type: onboarded
     onboard_type: detailed
@@ -239,8 +253,10 @@ CMS:
     named:
     - Edward Coristine
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: CMS
     id: ddaosm4g
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-05
     type: access_granted
     access_type: read
@@ -252,8 +268,10 @@ CMS:
     - Aram Moghaddassi
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: CMS
     id: BYPpwF7K
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-05
     type: access_granted
     access_type: read
@@ -268,6 +286,7 @@ CMS:
     source: hhttps://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
     agency: CMS
     id: 9wrHMneJ
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-05
     type: access_granted
     access_type: read
@@ -281,6 +300,7 @@ CMS:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
     agency: CMS
     id: Vtknorop
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-06
     type: onboarded
     onboard_type: unknown
@@ -294,6 +314,7 @@ CMS:
     - CMS
     - NIH
     id: b9gFDNtG
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-11
     type: access_granted
     access_type: read
@@ -303,8 +324,10 @@ CMS:
     named:
     - Edward Coristine
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: CMS
     id: V4EZ2WLY
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-11
     type: access_granted
     access_type: read
@@ -317,9 +340,11 @@ CMS:
     case_no: 1:25-cv-00339
     agency: CMS
     id: MVHt9Q7W
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-29
     type: report
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     event: In a legal filing, the DOJ identifies 4 DOGE staffers - Edward Coristine, Marko Elez, Luke Farritor and Amy Gleason - at CMS
     named:
     - Edward Coristine
@@ -328,6 +353,7 @@ CMS:
     - Amy Gleason
     agency: CMS
     id: iDxrzxfp
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-29
     type: access_revoked
     access_systems:
@@ -338,8 +364,10 @@ CMS:
     named:
     - Edward Coristine
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: CMS
     id: covQW3VT
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-31
     type: report
     event: Politico reports that Brad Smith, who crafted the plan to layoff 10,000 staffers within HHS, is facing criticism from other DOGE staffers for attempting to shield CMS from the brunt of the layoffs. His aide, Rachel Riley is accused of being extraordinarily secretive with the plan.
@@ -377,6 +405,7 @@ CMS:
     case_no: 1:25-cv-00339
     agency: CMS
     id: BQGcBopa
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-04-18
     type: access_revoked
     access_systems:
@@ -385,8 +414,11 @@ CMS:
     - Conor Fennessy
     - Jeremy Lewin
     event: In a filing, HHS attests that Conor Fennessy's and Jeremy Lewin's access to the CALM system has been deactivated
+    case_no: 1:25-cv-00339
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
     agency: CMS
     id: 6bdjQMN2
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   systems:
     AGX:
       name: Acquistions and Grants Exchange
@@ -519,6 +551,7 @@ CFPB:
     case_no: 1:25-cv-00339
     agency: CFPB
     id: aPFErxYN
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-06
     type: onboarded
     onboard_type: detailed
@@ -532,6 +565,7 @@ CFPB:
     case_no: 1:25-cv-00339
     agency: CFPB
     id: c8QYwsqH
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-06
     type: onboarded
     onboard_type: detailed
@@ -544,6 +578,7 @@ CFPB:
     case_no: 1:25-cv-00339
     agency: CFPB
     id: AN8Y5hEY
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-06
     type: report
     event: DOGE staff enter CFPB facilities and are given equipment and onboarded
@@ -585,8 +620,10 @@ CFPB:
     - Nikhil Rajpal
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: CFPB
     id: FS7MatNa
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-07
     type: access_granted
     access_type: unknown
@@ -596,8 +633,10 @@ CFPB:
     named:
     - Gavin Kliger
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
+    case_no: 1:25-cv-00339
     agency: CFPB
     id: L8pyGHLJ
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-07
     type: access_granted
     access_type: admin
@@ -609,8 +648,10 @@ CFPB:
     - Nikhil Rajpal
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: CFPB
     id: 2xWQdJFE
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-07
     type: access_granted
     access_type: admin
@@ -621,8 +662,10 @@ CFPB:
     - Nikhil Rajpal
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: CFPB
     id: JxpwH6Ee
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-07
     type: access_granted
     access_type: admin
@@ -632,8 +675,10 @@ CFPB:
     - CFPB-1
     event: Mr. Farritor used his Entra ID access to provide another member of the DOGE with access to the admin interface for the CFPB's website
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: CFPB
     id: LRKRjiXo
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-07
     type: disruption
     event: The CFPB homepage is deleted and returns a 404 error
@@ -651,8 +696,10 @@ CFPB:
     named:
     - Jordan Wick
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: CFPB
     id: 256K5fhi
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-11
     type: disruption
     event: CFPB Contracting Officers (COs) are ordered to terminate the vast majority of CFPB's contracts over the weekend
@@ -705,16 +752,20 @@ CFPB:
     named:
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: CFPB
     id: JbCrnGy9
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-04
     type: offboarded
     event: Luke Farritor is no longer detailed to the CFPB and is offboarded
     named:
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: CFPB
     id: ZpVFJ6oS
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-05
     type: access_revoked
     access_systems:
@@ -731,8 +782,10 @@ CFPB:
     named:
     - Jordan Wick
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: CFPB
     id: TGzMrruS
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-05
     type: onboarded
     onboard_type: hired
@@ -740,8 +793,10 @@ CFPB:
     named:
     - Jordan Wick
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: CFPB
     id: WGo2Srmq
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-21
     type: access_revoked
     access_systems:
@@ -759,25 +814,30 @@ CFPB:
     named:
     - Nikhil Rajpal
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: CFPB
     id: ZLkwYJoJ
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-21
     type: offboarded
     event: Nikhil Rajpal is no longer detailed to the CFPB
     named:
     - Nikhil Rajpal
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: CFPB
     id: Uh8mUmE6
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-28
     type: access_revoked
     access_systems:
     - PRISM-CFPB
     event: Jordan Wick's access to PRISM is revoked, per a court order in to a court order in American Federation of Teachers et al. v Bessent et al., No. 8:25-cv-430
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
-    case_no: 8:25-cv-00430
+    case_no: 1:25-cv-00339
     agency: CFPB
     id: 72yFCY5H
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-04-17
     type: disruption
     event: CFPB conducts a massive Reduction in Force, eliminating 1483 positions and retaining only 207 people to perform its duties. This is larger than the planned RIF in February that was blocked by Judge Amy Berman-Jackson
@@ -785,6 +845,7 @@ CFPB:
     case_no: 1:25-cv-00381
     agency: CFPB
     id: fZotJY5V
+    source_title: National Treasury Employees Union v. Russell Vought (D.D.C.)
   - date: 2025-04-17
     type: report
     event: According to sworn testimony by Alex Doe, the CFPB RIF team was forced to work for 36 hours straight and subjected to verbal abuse by Gavin Kliger
@@ -794,6 +855,7 @@ CFPB:
     - Gavin Kliger
     agency: CFPB
     id: dHm7PvDq
+    source_title: National Treasury Employees Union v. Russell Vought (D.D.C.)
   systems:
     HRConnect:
       name: HRConnect
@@ -970,8 +1032,10 @@ USDA:
     type: report
     event: The Chief Human Capital Office of the Department of Agriculture testifies to Congress that OPM ordered the firing of all probationary federal employees
     source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
+    case_no: 3:25-cv-01780
     agency: USDA
     id: UbNB5uwF
+    source_title: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
   - date: 2025-04-01
     type: disruption
     event: Federal staff at the USDA are sent an email offering them another chance to do a deferred resignation if they enroll within the next week or so
@@ -1485,8 +1549,10 @@ DOGE:
     named:
     - Adam Ramada
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
+    case_no: 8:25-cv-00430
     agency: DOGE
     id: eixCwvKp
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   - date: 2025-01-24
     type: report
     event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
@@ -1532,6 +1598,7 @@ DOGE:
     - Steve Davis
     agency: DOGE
     id: nhBU8qVd
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-11
     type: official
     event: Trump issues an executive order giving DOGE teams in every agency final approval on any hiring decisions, sets quota of 1 new hire for 4 departures
@@ -1543,10 +1610,12 @@ DOGE:
     comment: These names are identified in another exhibit in the source
     event: The Department of Education signs a Memorandum of Understanding with DOGE stating that it will reimburse DOGE for up to 5 staffers through 2026. It is signed by Steve Davis for DOGE.
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    case_no: 1:25-cv-00354
     agency:
     - Education
     - DOGE
     id: eKuZBbzW
+    source_title: University of California Student Assn. v. Carter et al
   - date: 2025-02-13
     type: official
     event: DOGE announces that its website is now live with an organizational chart and tweets
@@ -1575,6 +1644,7 @@ DOGE:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277463/gov.uscourts.dcd.277463.24.0_1.pdf
     agency: DOGE
     id: jLKRjRxS
+    source_title: New Mexico et al v. Musk (D.D.C.)
   - date: 2025-02-18
     type: report
     event: A custom AI chatbot based on xAI's Grok model was discovered hosted on subdomain on the doge.gov site
@@ -1593,6 +1663,7 @@ DOGE:
     - Amy Gleason
     agency: DOGE
     id: D3EuMjKK
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-19
     type: official
     event: Trump issues an executive order "Ending Taxpayer Subsidization of Open Borders" that instructs USDS to work with agencies to identify federal funding for immigrants and build up eligibility verification systems
@@ -1610,6 +1681,7 @@ DOGE:
     event: Amy Gleason and an SSA representative sign a modification to an existing agreement between USDS and SSA for 15FTEs at $4.5million to change it to be about "increasing efficiency and the modernization of SSA IT infrastructure and systems, and detecting waste, fraud, and abuse."
     comment: It's unclear how much had already been spent on the prior agreement. Amy Gleason makes an appearance though!
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    case_no: 1:25-cv-00596
     detail_id: 20250220-usds-ssa-modification
     named:
     - Amy Gleason
@@ -1617,6 +1689,7 @@ DOGE:
     - DOGE
     - SSA
     id: 6czGQ6Eu
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-02-24
     type: report
     event: In a hearing for "Alliance for Retired Americans v. Bessent," Judge Kollar-Kotelly repeatedly grills DOJ lawyers on who the USDS Administrator is
@@ -1656,6 +1729,7 @@ DOGE:
     case_no: 1:25-cv-00339
     agency: DOGE
     id: dq7CdXaH
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-05
     type: report
     event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP), including 4 lawyers previously not listed
@@ -1678,6 +1752,7 @@ DOGE:
     case_no: 1:25-cv-00339
     agency: DOGE
     id: QCzD83nC
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-06
     type: disruption
     event: The Engineering Director of USDS publicly resigns in protest, stating "this is not the mission I joined"
@@ -1691,6 +1766,7 @@ DOGE:
     source: https://www.politico.com/news/2025/03/10/judge-orders-doge-record-release-00223151
     agency: DOGE
     id: 9mT2W8db
+    source_title: Citizens For Responsibility and Ethics in Washington (CREW) vs. DOGE Service (D.D.C.)
   - date: 2025-03-10
     type: report
     event: Elon Musk claims there are about 100 DOGE staffers and he has plans to double to 200. He also claims they are in every federal Department.
@@ -1704,6 +1780,7 @@ DOGE:
     case_no: 1:25-cv-00429
     agency: DOGE
     id: Vfm7HbS4
+    source_title: New Mexico et al v. Musk (D.D.C.)
   - date: 2025-03-18
     type: official
     event: In an unsigned email response to the Intercept Media, DOGE claims it is within the Executive Office of the President and not subject to FOIA
@@ -1711,6 +1788,7 @@ DOGE:
     case_no: 1:25-cv-02404
     agency: DOGE
     id: RFCHUNhk
+    source_title: The Intercept Media, Inc. v. United States Department of Government Efficiency (S.D.N.Y.)
   - date: 2025-03-18
     type: legal
     event: In a ruling in J. Doe 1-26 v. Musk (D. Md), Judge Theodore D. Chuang declares that evidence shows that Elon Musk was effectively running DOGE without being appointed to the role
@@ -1718,6 +1796,7 @@ DOGE:
     case_no: 8:25-cv-00462
     agency: DOGE
     id: bhuqN8P5
+    source_title: J. Doe 1-26 v. Musk (D. Md)
   - date: 2025-03-19
     type: report
     event: In another sworn statement, Amy Gleason declares "every member of an agency's DOGE Team is an employee of the agency or a detailee to the agency." She does clarify that some are detailed from USDS but also claims they report to agency heads. She reports thar USDS has approximately 79 directly appointed employees and 10 employees detailed from other agencies.
@@ -1727,6 +1806,7 @@ DOGE:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277646/gov.uscourts.dcd.277646.24.2.pdf
     agency: DOGE
     id: j8dSpHp3
+    source_title: Citizens For Responsibility and Ethics in Washington (CREW) vs. DOGE Service (D.D.C.)
   - date: 2025-03-19
     type: report
     case_no: 8:25-cv-00462
@@ -1736,6 +1816,7 @@ DOGE:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576293/gov.uscourts.mdd.576293.77.2.pdf
     agency: DOGE
     id: bPH63xJM
+    source_title: J. Doe 1-26 v. Musk (D. Md)
   - date: 2025-03-20
     type: legal
     case_no: 1:25-cv-00511
@@ -1743,6 +1824,7 @@ DOGE:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277646/gov.uscourts.dcd.277646.25.0.pdf
     agency: DOGE
     id: bvMjErqQ
+    source_title: Citizens For Responsibility and Ethics in Washington (CREW) vs. DOGE Service (D.D.C.)
   - date: 2025-03-20
     type: official
     event: President Trump issues an executive order demaning that agency heads must share all access to any unclassified datasets "related to the identification and elimination of waste, fraud, and abuse" but also "to the maximum extent consistent with law."
@@ -1788,6 +1870,7 @@ DOGE:
     case_no: 1:25-cv-00409
     agency: DOGE
     id: HDyeD2he
+    source_title: American Oversight v. Department of Government Efficiency (D.D.C.)
   - date: 2025-03-27
     type: legal
     event: DOGE provides an updated estimate of documents that would be subject to CREW's FOIA requests as 58,000
@@ -1795,6 +1878,7 @@ DOGE:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277646/gov.uscourts.dcd.277646.28.0.pdf
     agency: DOGE
     id: PWv6ybwS
+    source_title: Citizens For Responsibility and Ethics in Washington (CREW) vs. DOGE Service (D.D.C.)
   - date: 2025-03-27
     type: report
     event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government spending. Amy Gleason did not appear.
@@ -1845,6 +1929,7 @@ DOGE:
     - Kendall Lindemann
     agency: DOGE
     id: Gti7PARC
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-04-16
     type: report
     event: Three DOGE staffers are reported to work with staff from DHS, the State Department and USCIS on implementing an application process for a $5 Million "Gold Card" visa
@@ -2175,8 +2260,10 @@ Education:
     named:
     - Adam Ramada
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.5_1.pdf
+    case_no: 8:25-cv-00430
     agency: Education
     id: 2KKvrcF3
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   - date: 2025-01-31
     type: onboarded
     onboard_type: appointed
@@ -2185,8 +2272,10 @@ Education:
     - ED-2
     comment: Redacted in hiring letter, but identified later in filing
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    case_no: 1:25-cv-00354
     agency: Education
     id: MJvtgrEA
+    source_title: University of California Student Assn. v. Carter et al
   - date: 2025-02-03
     type: report
     event: Twenty DOGE staff are in the agency and "have gained access to multiple sensitive internal systems, the people said, including a financial aid dataset that contains the personal information for millions of students enrolled in the federal student aid program."
@@ -2199,20 +2288,24 @@ Education:
     detail_id: 20250212-opm-education-ed-1
     event: Unidentified employee ED-1 is detailed from OPM to the Department of Education
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    case_no: 1:25-cv-00354
     named_aliases:
     - ED-1
     agency: Education
     id: FTNCaSHd
+    source_title: University of California Student Assn. v. Carter et al
   - date: 2025-02-03
     type: onboarded
     detailed_from: GSA
     detail_id: 20250212-gsa-education-ed-3
     event: ED-3 is detailed from GSA to the Department of Education
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    case_no: 1:25-cv-00354
     named_aliases:
     - ED-3
     agency: Education
     id: HF6U3Sft
+    source_title: University of California Student Assn. v. Carter et al
   - date: 2025-02-04
     type: access_granted
     access_type: unknown
@@ -2222,8 +2315,10 @@ Education:
     - Adam Ramada
     event: Sworn testimony from an executive project manager at Education states that Adam Ramada accessed the FMS system only on February 4th and he was the only DOGE person to access systems
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    case_no: 1:25-cv-00354
     agency: Education
     id: Ff4Vcv6A
+    source_title: University of California Student Assn. v. Carter et al
   - date: 2025-02-04
     type: onboarded
     onboard_type: consultant
@@ -2239,16 +2334,20 @@ Education:
     detail_id: 20250212-doge-education-all
     event: Alexandra Beynon is detailed from DOGE to the Department of Education
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    case_no: 1:25-cv-00354
     named:
     - Alexandra Beynon
     agency: Education
     id: kyv4SMgu
+    source_title: University of California Student Assn. v. Carter et al
   - date: 2025-02-05
     type: official
     event: Thomas Flagg, the CIO of the Dept. of Education, sends a memo to the heads of IT that orders them to give DOGE staff prompt access to all systems
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    case_no: 1:25-cv-00354
     agency: Education
     id: XcEpneXg
+    source_title: University of California Student Assn. v. Carter et al
   - date: 2025-02-05
     type: access_revoked
     access_systems:
@@ -2258,8 +2357,10 @@ Education:
     event: Adam Ramada does not access FMS again after February 4th
     comment: His system access was actually revoked 30 days after February 4th, but he had no other access after that date
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    case_no: 1:25-cv-00354
     agency: Education
     id: o5NZ8qnL
+    source_title: University of California Student Assn. v. Carter et al
   - date: 2025-02-06
     type: report
     event: The Washington Post reports that DOGE is feeding Department of Education data into an AI system hosted in Microsoft Azure
@@ -2283,15 +2384,18 @@ Education:
     source: https://www.usatoday.com/story/news/politics/2025/02/11/education-dept-doge-musk-court-order/78429043007/
     agency: Education
     id: iG5SW62c
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   - date: 2025-02-12
     type: official
     comment: These names are identified in another exhibit in the source
     event: The Department of Education signs a Memorandum of Understanding with DOGE stating that it will reimburse DOGE for up to 5 staffers through 2026. It is signed by Steve Davis for DOGE.
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    case_no: 1:25-cv-00354
     agency:
     - Education
     - DOGE
     id: eKuZBbzW
+    source_title: University of California Student Assn. v. Carter et al
   - date: 2025-02-12
     type: onboarded
     onboard_type: detailed
@@ -2302,9 +2406,11 @@ Education:
     - ED-1
     event: The Department of Education executes a Memorandum of Understanding (MOU) with OPM for a single detailee who is represented as not being paid nor needing reimbursement (i.e., a Special Government Employee)
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    case_no: 1:25-cv-00354
     agency:
     - Education
     id: dchWbmU5
+    source_title: University of California Student Assn. v. Carter et al
   - date: 2025-02-12
     type: official
     detail_id: 20250212-gsa-education-ed-3
@@ -2312,8 +2418,10 @@ Education:
     - ED-3
     event: An agreement is executed for a single detailee to the Dept. of Education from GSA. They are also identified as being a GSE who is not paid nor will need to be reimbursed.
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    case_no: 1:25-cv-00354
     agency: Education
     id: Wfox3Em6
+    source_title: University of California Student Assn. v. Carter et al
   - date: 2025-02-13
     type: report
     event: A story on a proposal to use AI at the Department of Education lists several DOGE staffers identified there within the last few weeks
@@ -2337,26 +2445,31 @@ Education:
     source: https://www.usatoday.com/story/news/education/2025/02/18/doge-student-data-education-department-judge-approves/79062995007/
     agency: Education
     id: WTtpPp95
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   - date: 2025-02-20
     type: onboarded
     detailed_from: DOGE
     detail_id: 20250212-doge-education-all
     event: Jordan Wick is detailed from DOGE to the Department of Education
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    case_no: 1:25-cv-00354
     named:
     - Jordan Wick
     agency: Education
     id: TC9oYLhy
+    source_title: University of California Student Assn. v. Carter et al
   - date: 2025-02-20
     type: onboarded
     detailed_from: GSA
     event: Edward Coristine is detailed from GSA to the Department of Education
     comment: I don't know if I have a record of this detail
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    case_no: 1:25-cv-00354
     named:
     - Edward Coristine
     agency: Education
     id: XTJndd8F
+    source_title: University of California Student Assn. v. Carter et al
   - date: 2025-02-24
     type: legal
     case_no: 8:25-cv-00430
@@ -2364,6 +2477,7 @@ Education:
     source: https://www.nbcnews.com/politics/doge/judge-blocks-department-education-federal-personnel-office-sharing-dat-rcna193453
     agency: Education
     id: dFV9to7X
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   - date: 2025-02-24
     type: access_granted
     access_type: unknown
@@ -2380,6 +2494,7 @@ Education:
     case_no: 8:25-cv-00430
     agency: Education
     id: QvtDTWT9
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   - date: 2025-03-01
     type: report
     comment: Actual start date in March unknown
@@ -2400,6 +2515,7 @@ Education:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.69.0.pdf
     agency: Education
     id: 9nkR2HfU
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   - date: 2025-04-07
     type: legal
     event: In a 2-1 vote, the 4th U.S. Circuit Court of Appeals lifted a stay against DOGE data access at the Treasury, OPM and Department of Education imposed in the case American Federation of Teachers v. Bessent (D. Maryland 2025)
@@ -2410,6 +2526,7 @@ Education:
     - OPM
     - Education
     id: aLxLCzjS
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   systems:
     COD:
       name: Common Origination and Disbursement System
@@ -2627,8 +2744,10 @@ DOL:
     named:
     - Elon Musk
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.29.8_1.pdf
+    case_no: 1:25-cv-00339
     agency: DOL
     id: NseepQVk
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-05
     type: report
     event: DOGE staff are given access to the Department of Labor IT systems
@@ -2660,6 +2779,7 @@ DOL:
     case_no: 1:25-cv-00339
     agency: DOL
     id: LC27NqrF
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-20
     type: access_granted
     access_type: unknown
@@ -2672,6 +2792,7 @@ DOL:
     case_no: 1:25-cv-00339
     agency: DOL
     id: VkG2b7oG
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-20
     type: access_granted
     access_type: unknown
@@ -2685,6 +2806,7 @@ DOL:
     case_no: 1:25-cv-00339
     agency: DOL
     id: 4gTQTBvY
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-25
     type: access_granted
     access_type: read
@@ -2695,8 +2817,10 @@ DOL:
     named:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: DOL
     id: hYvmuxQw
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-25
     type: access_granted
     access_type: read
@@ -2706,8 +2830,10 @@ DOL:
     named:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: DOL
     id: 63rsfZb5
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-26
     type: access_granted
     access_type: unknown
@@ -2720,6 +2846,7 @@ DOL:
     case_no: 1:25-cv-00339
     agency: DOL
     id: W9NMyQSv
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-26
     type: access_granted
     access_type: unknown
@@ -2732,6 +2859,7 @@ DOL:
     case_no: 1:25-cv-00339
     agency: DOL
     id: VtAJtb9Z
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-26
     type: access_granted
     access_type: read
@@ -2744,6 +2872,7 @@ DOL:
     case_no: 1:25-cv-00339
     agency: DOL
     id: aVyn7bGH
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-01
     type: report
     comment: Actual start date in March unknown
@@ -2797,8 +2926,10 @@ DOL:
     named:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.3.pdf
+    case_no: 1:25-cv-00339
     agency: DOL
     id: QL984GQg
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-20
     type: official
     event: Trump issues an executive order which explicitly includes an instruction that "the Secretary of Labor and the Secretary's designees shall receive, to the maximum extent consistent with law, unfettered access to all unemployment data and related payment records, including all such data and records currently available to the Department of Labor's Office of Inspector General."
@@ -2819,6 +2950,7 @@ DOL:
     case_no: 1:25-cv-00339
     agency: DOL
     id: fbnjeUon
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-21
     type: access_granted
     access_type: read
@@ -2828,8 +2960,10 @@ DOL:
     named:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: DOL
     id: W4WdJwtf
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-04-18
     type: disruption
     event: Multiple federal staffers who handle sensitive data related to migrant workers are placed on leave for raising objections about DOGE access
@@ -2844,6 +2978,7 @@ DOL:
     event: Wired reports that Miles Collins has access to the National Farmworker Jobs Program (NFJP) system, which provides grants to organizations that work with migrant and seasonal labor
     named:
     - Miles Collins
+    source: https://www.wired.com/story/doge-access-immigration-data-department-of-labor/
     agency: DOL
     id: FP4MT8Ut
   - date: 2025-04-18
@@ -2852,6 +2987,7 @@ DOL:
     access_systems:
     - FLAG
     event: Wired reports that Aram Moghaddassi has been granted "OIG-level" admin access to the DOL's Foreign Labor Application Gateway (FLAG) system, which would include visa applications of foreign workers
+    source: https://www.wired.com/story/doge-access-immigration-data-department-of-labor/
     named:
     - Aram Moghaddassi
     agency: DOL
@@ -2866,6 +3002,7 @@ DOL:
     - Miles Collins
     - Aram Moghaddassi
     - Marko Elez
+    source: https://www.wired.com/story/doge-access-immigration-data-department-of-labor/
     agency: DOL
     id: 5ZoiqF9F
   systems:
@@ -2974,6 +3111,7 @@ Treasury:
     named:
     - Tom Krause
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf#page=13
+    case_no: 1:25-cv-00313
     agency: Treasury
     id: UsAfrk26
   - date: 2025-01-21
@@ -2983,8 +3121,10 @@ Treasury:
     named:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.4_3.pdf
+    case_no: 8:25-cv-00430
     agency: Treasury
     id: QFfnJBkt
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   - date: 2025-01-23
     type: onboarded
     onboard_type: appointed
@@ -3024,8 +3164,10 @@ Treasury:
     named:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.3_1.pdf
+    case_no: 8:25-cv-00430
     agency: Treasury
     id: hRNeze4y
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   - date: 2025-01-29
     type: access_granted
     access_type: read-write
@@ -3035,6 +3177,7 @@ Treasury:
     named:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
+    case_no: 1:25-cv-00313
     agency: Treasury
     id: 9DxqBRGe
   - date: 2025-01-30
@@ -3046,6 +3189,7 @@ Treasury:
     named:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
+    case_no: 1:25-cv-00313
     agency: Treasury
     id: Xe5Tvz6a
   - date: 2025-01-31
@@ -3057,6 +3201,7 @@ Treasury:
     named:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
+    case_no: 1:25-cv-00313
     agency: Treasury
     id: c9MaUj3t
   - date: 2025-02-01
@@ -3068,6 +3213,7 @@ Treasury:
     named:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
+    case_no: 1:25-cv-00313
     agency: Treasury
     id: XMXEZCoE
   - date: 2025-02-01
@@ -3077,6 +3223,7 @@ Treasury:
     named:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
+    case_no: 1:25-cv-00313
     agency: Treasury
     id: Xdv65nku
   - date: 2025-02-03
@@ -3088,14 +3235,17 @@ Treasury:
     named:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.3_1.pdf
+    case_no: 8:25-cv-00430
     agency: Treasury
     id: 8N5uZSdc
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   - date: 2025-02-03
     type: report
     event: A ticket notes that Marko Elez was walked through access to the PAM system and confirms access was read only
     named:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
+    case_no: 1:25-cv-00313
     agency: Treasury
     id: UkKcG36X
   - date: 2025-02-04
@@ -3112,12 +3262,14 @@ Treasury:
     named:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
+    case_no: 1:25-cv-00313
     agency: Treasury
     id: PhxH2BgH
   - date: 2025-02-05
     type: report
     event: Marko Elez is sent an email requesting that he sign the rules of behavior document for the Bureau of the Fiscal Service; it should've been signed when he received his laptop
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.44.1.pdf#page=36
+    case_no: 1:25-cv-00313
     agency: Treasury
     id: QDU6LUSA
   - date: 2025-02-06
@@ -3127,6 +3279,7 @@ Treasury:
     case_no: 1:25-cv-00313
     agency: Treasury
     id: jym62UJR
+    source_title: Alliance for Retired Americans v. Scott Bessent et al (D.D.C.)
   - date: 2025-02-06
     type: report
     comment: FIXME
@@ -3134,6 +3287,7 @@ Treasury:
     named:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.48.1.pdf
+    case_no: 1:25-cv-00313
     agency: Treasury
     id: Ddt9UeCF
   - date: 2025-02-06
@@ -3141,9 +3295,11 @@ Treasury:
     event: On the morning of February 6, Treasury discovers that Marko Elez's database access to SPS on February 5 had mistakenly been configured to have read/write permissions instead of read-only
     named:
     - Marko Elez
-    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.3_1.pdfmarko-elez-resigned-the-day-his-write-access-to-payment-systems-was-discovered/
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.27.3_1.pdf
+    case_no: 8:25-cv-00430
     agency: Treasury
     id: eMU3qFzW
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   - date: 2025-02-06
     type: offboarded
     named:
@@ -3215,6 +3371,7 @@ Treasury:
     case_no: 8:25-cv-00430
     agency: Treasury
     id: Z7E6ai2u
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   - date: 2025-03-25
     type: official
     event: President Trump issues an executive order mandating that all payments flow through Treasury that agencies must modify SORNs to share data with Treasury as "routine use"
@@ -3258,6 +3415,7 @@ Treasury:
     - OPM
     - Education
     id: aLxLCzjS
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   - date: 2025-04-12
     type: legal
     event: Judge Vargas rules in New York et al vs. Donald Trump that Ryan Wunderly should be granted access to Treasury systems
@@ -3267,11 +3425,13 @@ Treasury:
     source: https://storage.courtlistener.com/recap/gov.uscourts.nysd.636609/gov.uscourts.nysd.636609.139.0.pdf
     agency: Treasury
     id: 7AvfSN6g
+    source_title: New York et al v. Donald J. Trump (S.D.N.Y.)
   - date: 2025-04-18
     type: report
     event: A new DOGE staffer (Roland Shen) who works for the payments startup Ramp has reportedly been granted access to BFS systems
     named:
     - Roland Shen
+    source: https://www.msn.com/en-us/money/companies/rampin-up-baby-that-thiel-start-up-hunting-the-motherlode-contract-is-inside-treasury/ar-AA1DesOc
     agency: Treasury
     id: 85e3G4Rn
   systems:
@@ -3857,8 +4017,10 @@ GSA:
     named:
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: GSA
     id: NtHBVcLm
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-01-20~
     type: onboarded
     onboard_type: hired
@@ -4116,6 +4278,7 @@ GSA:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.15.3.pdf
     agency: USIP
     id: mrPV8r2V
+    source_title: United States Institute of Peace v. Jackson (D.D.C.)
   - date: 2025-04-08
     type: report
     event: A partial copy of the GSA's A-Suite access list includes multiple DOGE personnel listed as based in GSA
@@ -4187,8 +4350,10 @@ HHS:
     named:
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: HHS
     id: 34Y4Syqw
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-01-21
     type: onboarded
     onboard_type: detailed
@@ -4198,6 +4363,7 @@ HHS:
     case_no: 1:25-cv-00339
     agency: HHS
     id: MzmJhsGx
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-01-22
     type: access_granted
     access_type: admin
@@ -4207,8 +4373,10 @@ HHS:
     named:
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: HHS
     id: V4b5Amth
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-01-24
     type: disruption
     event: Trump fires approximately 17 Inspectors General in a late-night purge
@@ -4236,8 +4404,10 @@ HHS:
     named:
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: HHS
     id: L8ZZAbzv
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-01-27
     type: onboarded
     onboard_type: appointed
@@ -4248,6 +4418,7 @@ HHS:
     case_no: 1:25-cv-00339
     agency: HHS
     id: 3q7o5ogf
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-01-29
     type: access_granted
     access_type: admin
@@ -4257,8 +4428,10 @@ HHS:
     named:
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: HHS
     id: WJQ3WkjG
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-03
     type: access_granted
     access_type: admin
@@ -4271,6 +4444,7 @@ HHS:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
     agency: HHS
     id: nVTB9nmR
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-14
     type: onboarded
     source: https://orangeslices.ai/hhs-it-office-recruits-new-chief-from-palantir/
@@ -4292,6 +4466,7 @@ HHS:
     case_no: 1:25-cv-00339
     agency: HHS
     id: PqGxHtKF
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-20
     type: onboarded
     event: Conor Fennessy is detailed from the Department of Education to HHS
@@ -4304,6 +4479,7 @@ HHS:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
     agency: HHS
     id: HKvbqYaN
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-21
     type: onboarded
     onboard_type: detailed
@@ -4318,6 +4494,7 @@ HHS:
     - NIH
     - HHS
     id: GUnUm5j6
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-28
     type: access_granted
     access_type: admin
@@ -4327,8 +4504,10 @@ HHS:
     named:
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: HHS
     id: J9VPs6HT
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-28
     type: access_granted
     access_type: read
@@ -4341,6 +4520,7 @@ HHS:
     case_no: 1:25-cv-00339
     agency: HHS
     id: Y8NxCZjD
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-28
     type: access_granted
     access_type: read
@@ -4353,6 +4533,7 @@ HHS:
     case_no: 1:25-cv-00339
     agency: HHS
     id: WigQD25k
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-28
     type: access_granted
     access_type: read
@@ -4366,6 +4547,7 @@ HHS:
     case_no: 1:25-cv-00339
     agency: HHS
     id: 7YG4RVE2
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-03
     type: report
     event: DOGE staff attempt to access "a system within a broader government database created to help enforce child support payments, which pulls a vast trove of information, including income data linked to nearly all workers"
@@ -4379,8 +4561,10 @@ HHS:
     named:
     - Amy Gleason
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.65.1_1.pdf
+    case_no: 1:25-cv-00339
     agency: HHS
     id: NgqnhrCu
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-04
     type: onboarded
     onboard_type: hired
@@ -4388,8 +4572,10 @@ HHS:
     named:
     - Brad Smith
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.65.3.pdf
+    case_no: 1:25-cv-00339
     agency: HHS
     id: RDEFY3MP
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-05
     type: onboarded
     onboard_type: detailed
@@ -4399,8 +4585,10 @@ HHS:
     named:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: HHS
     id: N8ksWVib
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-05
     type: onboarded
     detailed_from: DOL
@@ -4412,6 +4600,7 @@ HHS:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
     agency: HHS
     id: m4rWny3U
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-05
     type: access_granted
     access_type: read
@@ -4421,8 +4610,10 @@ HHS:
     named:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: HHS
     id: PfQCnkBu
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-06
     type: access_granted
     access_type: read
@@ -4435,6 +4626,7 @@ HHS:
     case_no: 1:25-cv-00339
     agency: HHS
     id: RrJTPpBy
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-06
     type: onboarded
     onboard_type: unknown
@@ -4448,6 +4640,7 @@ HHS:
     - CMS
     - NIH
     id: b9gFDNtG
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-07
     type: access_granted
     access_type: read
@@ -4460,6 +4653,7 @@ HHS:
     case_no: 1:25-cv-00339
     agency: HHS
     id: GLjJidTw
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-07
     type: access_granted
     access_type: read
@@ -4472,6 +4666,7 @@ HHS:
     case_no: 1:25-cv-00339
     agency: HHS
     id: EbBV4gBk
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-08
     type: disruption
     event: Federal staff who objected to DOGE getting access to NDNH are "no longer with the agency"
@@ -4482,6 +4677,7 @@ HHS:
     type: report
     event: As later reported in a declaration in AFL-CIO et al. vs. Department of Labor, HHS employee Mark Samburg finds DOGE staff at the agency listed in an online directory as Executive Engineers (and Rachel Riley as a Senior Advisor)
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.4.pdf
+    case_no: 1:25-cv-00339
     named:
     - Edward Coristine
     - Marko Elez
@@ -4490,6 +4686,7 @@ HHS:
     - Rachel Riley
     agency: HHS
     id: oTHjD2hg
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-14
     type: onboarded
     onboard_type: detailed
@@ -4499,8 +4696,10 @@ HHS:
     named:
     - Kyle Schutt
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: HHS
     id: BL5ThnQe
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-16~
     type: access_granted
     access_type: read
@@ -4513,6 +4712,7 @@ HHS:
     case_no: 1:25-cv-00339
     agency: HHS
     id: gNWEa49R
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-18
     type: access_granted
     access_type: read
@@ -4525,6 +4725,7 @@ HHS:
     case_no: 1:25-cv-00339
     agency: HHS
     id: RANpejQL
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-21
     type: access_granted
     access_type: read
@@ -4534,8 +4735,10 @@ HHS:
     named:
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: HHS
     id: ngDpnzXz
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-21
     type: access_granted
     access_type: read
@@ -4545,8 +4748,10 @@ HHS:
     named:
     - Kyle Schutt
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: HHS
     id: 7ZYSRd3c
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-27
     type: official
     event: HHS announces a large reorganization reducing HHS from 28 to 15 divisions and elimination 20,000 jobs (or 25% of total). The URL slug of the press release includes "DOGE" in it.
@@ -4565,6 +4770,7 @@ HHS:
     case_no: 1:25-cv-00339
     agency: HHS
     id: Z9rJzYpy
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-28
     type: report
     event: During an interview, the head of HHS reports that DOGE created the new organizational chart for the agency ahead of mass firings, says "we're not cutting scientists"
@@ -4607,8 +4813,10 @@ HHS:
     named:
     - Luke Farritor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: HHS
     id: UKDnkvKc
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-29
     type: access_revoked
     access_systems:
@@ -4617,11 +4825,14 @@ HHS:
     named:
     - Marko Elez
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     agency: HHS
     id: JDFqUnQt
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-29
     type: report
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.2.pdf
+    case_no: 1:25-cv-00339
     event: In response to a discovery request in AFL-CIO vs. DOL, the government provides an incomplete list DOGE staff who have worked at HHS
     named:
     - Edward Coristine
@@ -4631,15 +4842,18 @@ HHS:
     - Kyle Schutt
     agency: HHS
     id: KhdnaQWS
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-29
     type: report
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.73.4.pdf
+    case_no: 1:25-cv-00339
     event: In a court declaration in AFL-CIO vs. DOL, counsel for the plaintiffs Alexa Milton provides the names of two DOGE staffers at HHS who were not provided in the government's list of staffers there
     named:
     - Conor Fennessy
     - Jeremy Lewin
     agency: HHS
     id: 2JU9Todn
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-31
     type: report
     event: Politico reports that Brad Smith, who crafted the plan to layoff 10,000 staffers within HHS, is facing criticism from other DOGE staffers for attempting to shield CMS from the brunt of the layoffs. His aide, Rachel Riley is accused of being extraordinarily secretive with the plan.
@@ -4693,6 +4907,7 @@ HHS:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
     agency: HHS
     id: JgxjuRQy
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-04-18
     type: access_revoked
     access_systems:
@@ -4704,6 +4919,7 @@ HHS:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
     agency: HHS
     id: akjVaMqu
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-04-18
     type: access_revoked
     access_systems:
@@ -4712,8 +4928,11 @@ HHS:
     named:
     - Conor Fennessy
     event: In a filing, HHS attests that Conor Fennessy's access the CALM system, FBIS, HCAS, and NIH EBS System has been deactivated
+    case_no: 1:25-cv-00339
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
     agency: HHS
     id: DvLhKb73
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   systems:
     Grants.gov:
       name: Grants.gov
@@ -5044,14 +5263,18 @@ IAF:
     type: report
     event: DOGE staff arrived at IAF HQ and were granted access to IT systems, as reported by IAF CEO Sara Aviel the following day
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
+    case_no: 1:25-cv-00660
     agency: IAF
     id: YrRbcEEt
+    source_title: Brehm v. Marocco (D.D.C.)
   - date: 2025-02-21
     type: disruption
     event: IAF CEO Sara Aviel confirms to a friend at USADF that DOGE plans to dismantle the agency
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
+    case_no: 1:25-cv-00660
     agency: IAF
     id: 3GLAQY5f
+    source_title: Brehm v. Marocco (D.D.C.)
   - date: 2025-02-23
     type: disruption
     event: Sara Aviel is dismissed as the CEO of the IAF
@@ -5257,6 +5480,7 @@ IRS:
     event: Gavin Kliger's building and system access at the IRS is rescinded
     named:
     - Gavin Kliger
+    source: https://www.msn.com/en-us/money/markets/latest-irs-acting-chief-ousted-amid-musk-vs-bessent-turf-feud/ar-AA1Dc9ph
     agency: IRS
     id: WcfPQ6YY
   systems:
@@ -5603,6 +5827,7 @@ NIH:
     - NIH
     - HHS
     id: GUnUm5j6
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-24
     type: report
     event: Four DOGE staffers have email addresses linked to NIH
@@ -5636,6 +5861,7 @@ NIH:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
     agency: NIH
     id: Faujcx7W
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-28
     type: access_granted
     access_type: read
@@ -5650,6 +5876,7 @@ NIH:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
     agency: NIH
     id: MTDjpWh2
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-03
     type: report
     source: https://insidemedicine.substack.com/p/new-trump-controlled-nih-begins-targeted
@@ -5671,6 +5898,7 @@ NIH:
     - CMS
     - NIH
     id: b9gFDNtG
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-20
     type: disruption
     event: Access to purchase cards are restored at NIH for nonemergency purchases, but scientists face a huge backlog in processing orders for supplies.
@@ -5713,8 +5941,11 @@ NIH:
     named:
     - Conor Fennessy
     event: In a filing, HHS attests that Conor Fennessy's access to the CALM system, FBIS, HCAS, and NIH EBS System has been deactivated
+    case_no: 1:25-cv-00339
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.80.5.pdf
     agency: NIH
     id: bdTuzkwu
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   systems:
     NBS:
       name: NIH Business System
@@ -5859,8 +6090,10 @@ OPM:
     - Noah Peters
     - Keenan Kmiec
     source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
+    case_no: 3:25-cv-01780
     agency: OPM
     id: KLhbExN5
+    source_title: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
   - date: 2025-01-16~
     type: report
     event: Noah Peters receives a job offer to work at the OPM. He describes it as very general and vague.
@@ -5868,8 +6101,10 @@ OPM:
     named:
     - Noah Peters
     source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
+    case_no: 3:25-cv-01780
     agency: OPM
     id: VkGMhZUR
+    source_title: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
   - date: 2025-01-16~
     type: report
     event: Noah Peters starts working on two memos around temporary authorities for Schedule C and another on probationary employees and admininstrative leave. These are to be issued on January 20th.
@@ -5877,8 +6112,10 @@ OPM:
     named:
     - Noah Peters
     source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
+    case_no: 3:25-cv-01780
     agency: OPM
     id: JLTME6KA
+    source_title: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
   - date: 2025-01-17
     type: report
     event: Several of the DOGE staff meet to plan for their first day at OPM. They are not federal employees at that time.
@@ -5887,8 +6124,10 @@ OPM:
     - Amanda Scales
     - Brian Bjelde
     source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
+    case_no: 3:25-cv-01780
     agency: OPM
     id: JQXwpLN5
+    source_title: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
   - date: 2025-01-20
     type: onboarded
     onboard_type: appointed
@@ -5897,8 +6136,10 @@ OPM:
     named:
     - Greg Hogan
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+    case_no: 8:25-cv-00430
     agency: OPM
     id: cTQwe9Ff
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   - date: 2025-01-20
     type: onboarded
     onboard_type: appointed
@@ -5907,8 +6148,10 @@ OPM:
     - OPM-2
     - OPM-3
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+    case_no: 8:25-cv-00430
     agency: OPM
     id: 55SxqiCv
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   - date: 2025-01-20
     type: report
     event: Acting OPM Director Charles Ezell replaces existing CIO Melvin Brown with Greg Hogan in an acting capacity
@@ -5929,11 +6172,13 @@ OPM:
     onboard_type: appointed
     event: Several DOGE leaders start work at the OPM immediately after the Inauguration
     source: https://storage.courtlistener.com/recap/gov.uscourts.cand.444883/gov.uscourts.cand.444883.188.1.pdf
+    case_no: 3:25-cv-01780
     named:
     - Noah Peters
     - Amanda Scales
     agency: OPM
     id: fDQShY2S
+    source_title: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
   - date: 2025-01-20
     type: onboarded
     onboard_type: appointed
@@ -5941,8 +6186,10 @@ OPM:
     named_aliases:
     - OPM-5
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+    case_no: 8:25-cv-00430
     agency: OPM
     id: VikxYwt5
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   - date: 2025-01-20
     type: onboarded
     onboard_type: appointed
@@ -5965,16 +6212,20 @@ OPM:
     named_aliases:
     - OPM-4
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+    case_no: 8:25-cv-00430
     agency: OPM
     id: NZhdNuo5
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   - date: 2025-01-24
     type: onboarded
     event: Unidentified employee OPM-6 is onboarded as a volunteer SGE with a term not to exceed 2025-07-22
     named_aliases:
     - OPM-6
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
+    case_no: 8:25-cv-00430
     agency: OPM
     id: hkA2xC7R
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   - date: 2025-01-24
     type: disruption
     event: Trump fires approximately 17 Inspectors General in a late-night purge
@@ -5997,6 +6248,7 @@ OPM:
     type: report
     event: OPM sends a second test email from its new government-wide email system to all government employees
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.276820/gov.uscourts.dcd.276820.1.0.pdf
+    case_no: 1:25-cv-00234
     agency: OPM
     id: 6aVWvZQH
   - date: 2025-01-27
@@ -6005,6 +6257,7 @@ OPM:
     named:
     - Amanda Scales
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.276820/gov.uscourts.dcd.276820.1.0.pdf
+    case_no: 1:25-cv-00234
     agency: OPM
     id: UBodNip9
   - date: 2025-01-27
@@ -6014,6 +6267,7 @@ OPM:
     case_no: 1:25-cv-00234
     agency: OPM
     id: QiLxs5iA
+    source_title: Jane Does 1-2 v. Office of Personnel Management (D.D.C.)
   - date: 2025-01-28
     type: report
     event: OPM sends out the "Fork in the Road" email to all federal employees offering them a chance to resign
@@ -6061,6 +6315,7 @@ OPM:
     case_no: 1:25-cv-00234
     agency: OPM
     id: ANRquZpT
+    source_title: Jane Does 1-2 v. Office of Personnel Management (D.D.C.)
   - date: 2025-02-05
     type: official
     event: OPM issues a Privacy Impact Assessment for its Government-Wide Email System (GWES) that states responses are voluntary, brief and do not include identifying information
@@ -6076,6 +6331,7 @@ OPM:
     case_no: 1:25-cv-00234
     agency: OPM
     id: PZtsBGTa
+    source_title: Jane Does 1-2 v. Office of Personnel Management (D.D.C.)
   - date: 2025-02-06
     type: legal
     event: The court dismisses the motion for a temporary restraining order against the OPM email system since there is now a PIA
@@ -6083,6 +6339,7 @@ OPM:
     case_no: 1:25-cv-00234
     agency: OPM
     id: GMWmrZzw
+    source_title: Jane Does 1-2 v. Office of Personnel Management (D.D.C.)
   - date: 2025-02-11
     type: promotion
     event: Greg Hogan is now formally named the CIO of OPM
@@ -6119,16 +6376,19 @@ OPM:
     - Nikhil Rajpal
     agency: OPM
     id: 9CEKeLm7
+    source_title: Democracy Forward Foundation v. Office of Management and Budget
   - date: 2025-02-12
     type: official
     named_aliases:
     - OPM-3
     event: The Office of Personnel Management executes a Memorandum of Understanding for a detailee from the Social Security Administration, who will also work for Department of Education
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    case_no: 1:25-cv-00354
     agency:
     - OPM
     - SSA
     id: JbqPxwcC
+    source_title: University of California Student Assn. v. Carter et al
   - date: 2025-02-18
     type: promotion
     event: Unidentified employee OPM-5's appointment is changed to not being provisional
@@ -6170,6 +6430,7 @@ OPM:
     case_no: 3:25-cv-01780
     agency: OPM
     id: SMxkBWdJ
+    source_title: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
   - date: 2025-03-01
     type: report
     event: All government employees receive a second email telling them they must list their accomplishments every Monday by 11:59pm
@@ -6210,6 +6471,7 @@ OPM:
     case_no: 1:25-cv-00234
     agency: OPM
     id: QmyxpRJR
+    source_title: Jane Does 1-2 v. Office of Personnel Management (D.D.C.)
   - date: 2025-03-20
     type: official
     event: President Trump issues an executive order that requests OPM to redefine regulations to give them more power to terminate employees at other agencies
@@ -6227,6 +6489,7 @@ OPM:
     - Greg Hogan
     agency: OPM
     id: FoSzFb5k
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   - date: 2025-03-28
     type: interagency
     event: Multiple DOGE staff appear in an interview on Fox News with Brett Baier
@@ -6272,6 +6535,7 @@ OPM:
     - OPM
     - Education
     id: aLxLCzjS
+    source_title: American Federation of Teachers et al v. Bessent et al (D. Md.)
   - date: 2025-04-11
     type: legal
     event: The plaintiffs in AFGE, AFL-CIO, et. al vs. OPM file a motion asking for the testimony of Noah Peters to be thrown out because they argue it is misleading and possibly a fabrication in parts
@@ -6281,6 +6545,7 @@ OPM:
     - Noah Peters
     agency: OPM
     id: jY8TJybS
+    source_title: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
   systems:
     EHRI:
       name: Enterprise Human Resources Integration
@@ -6618,7 +6883,9 @@ SSA:
     - SSA-1
     agency: SSA
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    case_no: 1:25-cv-00596
     id: HauBMsdH
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-02-10
     type: report
     event: Incoming SSA head directs for Mark Steffensen to beonboarded to SSA as an attorney, according to the testimony of a whistleblower
@@ -6645,10 +6912,12 @@ SSA:
     - OPM-3
     event: The Office of Personnel Management executes a Memorandum of Understanding for a detailee from the Social Security Administration, who will also work for Department of Education
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277216/gov.uscourts.dcd.277216.32.1.pdf
+    case_no: 1:25-cv-00354
     agency:
     - OPM
     - SSA
     id: JbqPxwcC
+    source_title: University of California Student Assn. v. Carter et al
   - date: 2025-02-13
     type: onboarded
     event: According to a sworn declaration by a Deputy Commissioner at SSA, an unindentified DOGE staffer (Employee 1) is onboarded for "duties currently relate to improper payments and SSA's Death Master File" and they are also planning to detail him to the Small Business Administration
@@ -6656,8 +6925,10 @@ SSA:
     named_aliases:
     - SSA-1
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
     agency: SSA
     id: fJn7Fijf
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-14
     type: report
     event: Leland Dudek is placed on administrative leave while under investigation that he committed inappropriate actions to help DOGE
@@ -6704,8 +6975,10 @@ SSA:
     - SSA-3
     event: According to a sworn declaration by a Deputy Commissioner at SSA, "we began onboarding and training Employee 3, a Schedule C Policy Advisor, detailed from the Department of Labor to SSA" with it finalized on February 22. "His duties currently relate to improper payments and SSA's Death Master File."
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
     agency: SSA
     id: YHZU6UQD
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-18
     type: onboarded
     onboard_type: detailed
@@ -6715,8 +6988,10 @@ SSA:
     - SSA-5
     event: According to a sworn declaration, "SSA began onboarding and training Employee 5, an engineer, detailed from the United States DOGE Service to SSA" with an inter-agency agreement to DOGE.
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
     agency: SSA
     id: MipJ2cYB
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-18
     type: onboarded
     onboard_type: detailed
@@ -6729,8 +7004,10 @@ SSA:
     named:
     - Scott Coulter
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
     agency: SSA
     id: ZffPUbPY
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-18
     type: onboarded
     onboard_type: detailed
@@ -6739,8 +7016,10 @@ SSA:
     named_aliases:
     - SSA-3
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    case_no: 1:25-cv-00596
     agency: SSA
     id: fhML8Diw
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-02-18
     type: onboarded
     onboard_type: detailed
@@ -6749,8 +7028,10 @@ SSA:
     named_aliases:
     - SSA-2
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    case_no: 1:25-cv-00596
     agency: SSA
     id: UXPTq7wP
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-02-18
     type: onboarded
     onboard_type: detailed
@@ -6759,8 +7040,10 @@ SSA:
     - SSA-8
     - SSA-10
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    case_no: 1:25-cv-00596
     agency: SSA
     id: QCqyEhNT
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-02-19
     type: onboarded
     onboard_type: detailed
@@ -6782,6 +7065,7 @@ SSA:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
     id: GVnA5vun
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-02-20
     type: report
     source: https://www.thehandbasket.co/p/leland-dudek-ssa-doge
@@ -6799,6 +7083,7 @@ SSA:
     event: Amy Gleason and an SSA representative sign a modification to an existing agreement between USDS and SSA for 15FTEs at $4.5million to change it to be about "increasing efficiency and the modernization of SSA IT infrastructure and systems, and detecting waste, fraud, and abuse."
     comment: It's unclear how much had already been spent on the prior agreement. Amy Gleason makes an appearance though!
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    case_no: 1:25-cv-00596
     detail_id: 20250220-usds-ssa-modification
     named:
     - Amy Gleason
@@ -6806,6 +7091,7 @@ SSA:
     - DOGE
     - SSA
     id: 6czGQ6Eu
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-02-23
     type: onboarded
     onboard_type: appointed
@@ -6815,7 +7101,9 @@ SSA:
     - SSA-9
     agency: SSA
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    case_no: 1:25-cv-00596
     id: NyUksNNq
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-02-24
     type: onboarded
     onboard_type: appointed
@@ -6824,8 +7112,10 @@ SSA:
     named_aliases:
     - SSA-4
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    case_no: 1:25-cv-00596
     agency: SSA
     id: T4uJvZZy
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-02-24
     type: onboarded
     onboard_type: appointed
@@ -6834,8 +7124,10 @@ SSA:
     named_aliases:
     - SSA-6
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    case_no: 1:25-cv-00596
     agency: SSA
     id: QJ48Lf4Y
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-02-25
     type: onboarded
     onboard_type: appointed
@@ -6852,8 +7144,10 @@ SSA:
     detail_id: 20250226-opm-ssa-employee-8
     event: According to a sworn declaration, "employee 8, an engineer, was detailed from Office of Personnel Management to SSA. His duties currently relate to improper payments and death data."
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
     agency: SSA
     id: oN4NtmSz
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-27
     type: onboarded
     onboard_type: hired
@@ -6863,8 +7157,10 @@ SSA:
     - SSA-9
     event: According to a sworn declaration, "Employees 4, 6, and 9 were each appointed as an expert, special government employee"
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
     agency: SSA
     id: JUcXdAh2
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-27
     type: promotion
     event: Mark Steffensen is named the Acting General Counsel of SSA, consolidating more power in his role
@@ -6884,6 +7180,7 @@ SSA:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
     id: 5KzocaBU
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-02-28
     type: promotion
     event: Leland Dudek merges several SSA offices into a new Office of Legal and Policy and names Mark Steffensen the Deputy Commissioner
@@ -6930,8 +7227,10 @@ SSA:
     - SSA-7
     event: According to a sworn declaration, "the agency began onboarding Employee 7, as a detailee from Department of Labor (DOL) to SSA."
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.53.1.pdf
+    case_no: 1:25-cv-00339
     agency: SSA
     id: Yohq6GxY
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-05
     type: onboarded
     onboard_type: detailed
@@ -6940,8 +7239,10 @@ SSA:
     named_aliases:
     - SSA-7
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    case_no: 1:25-cv-00596
     agency: SSA
     id: W8mMryg3
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-03-05
     type: onboarded
     onboard_type: detailed
@@ -6950,8 +7251,10 @@ SSA:
     named_aliases:
     - SSA-7
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    case_no: 1:25-cv-00596
     agency: SSA
     id: nSvvNuKp
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-03-12
     type: legal
     event: 'In a sworn declaration, Florence Felix-Lawson notes "the SSA DOGE Team currently consists of ten SSA employees: four SSA special government employees (Employees 1, 4, 6, and 9) and six detailees to SSA from other government agencies and offices (Employees 2, 3, 5, 7, 8, and 10)"'
@@ -6970,6 +7273,7 @@ SSA:
     case_no: 1:25-cv-00339
     agency: SSA
     id: 7mtGbnRJ
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-03-12
     type: report
     event: Multiple SSA employees told ProPublica, their tech systems seem to be crashing nearly every day, leading to more delays in serving beneficiaries.
@@ -6989,6 +7293,7 @@ SSA:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
     id: 2FxxmH4p
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-03-13
     source: https://www.wired.com/story/doge-operatives-access-social-security-administration/
     type: report
@@ -7018,23 +7323,29 @@ SSA:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
     id: EESeoHoc
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-03-14
     type: report
     event: Leland Dudek approves for "Employee 5" to run the proposed tool for death data improvement
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    case_no: 1:25-cv-00596
     named_aliases:
     - SSA-5
     agency: SSA
     id: SYJpQj5D
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-03-15
     type: access_granted
     event: Unidentified "Employee 7" at Social Security Administration is granted access to the USCIS SAVE system
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
+    case_no: 1:25-cv-00596
     access_systems:
     - SAVE
     named_aliases:
     - SSA-7
     agency: SSA
     id: QGJK7cSa
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-03-16
     type: onboarded
     onboard_type: appointed
@@ -7043,8 +7354,10 @@ SSA:
     named_aliases:
     - SSA-11
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.5_3.pdf
+    case_no: 1:25-cv-00596
     agency: SSA
     id: msDZFCYH
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-03-17
     type: access_granted
     access_systems:
@@ -7061,6 +7374,7 @@ SSA:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
     id: P5C4nMDk
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-03-17
     type: official
     detail_id: 20250317-dol-ssa-employee-7
@@ -7070,6 +7384,7 @@ SSA:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
     id: irsHxHEt
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-03-19
     type: report
     event: Leland Dudek approves access of "Employee 9" of the DOGE team at SSA for some additional schemas in PSSNAP
@@ -7080,6 +7395,7 @@ SSA:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.121.3.pdf
     agency: SSA
     id: Pej3DDWx
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-03-20
     type: legal
     event: In a ruling for AFL-CIO vs. SSA, Judge Hollander grants a temporary restraining order enjoining DOGE from having any access to SSA systems or installing any software as well as ordering them to delete any data
@@ -7087,6 +7403,7 @@ SSA:
     case_no: 1:25-cv-00596
     agency: SSA
     id: 6M6gitcg
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-03-20
     type: report
     event: Leland Dudek threatens to shut down the entire Social Security Administration instead of complying with the order
@@ -7305,6 +7622,7 @@ SSA:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.134.0.pdf
     agency: SSA
     id: MCmDjbX8
+    source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-04-17
     type: report
     event: Social Security introduces a new AI chatbot built from general OpenAI models and not trained on SSA data or content to help with general tasks
@@ -7501,6 +7819,7 @@ USADF:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.2.pdf
     agency: USADF
     id: mPJA8JnY
+    source_title: Brehm v. Marocco (D.D.C.)
   - date: 2025-02-20
     type: report
     event: Chris Young meets with USADF leadership at their HQ to "introduce DOGE to the agency" and that 2 engineers would be assigned there
@@ -7510,6 +7829,7 @@ USADF:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
     agency: USADF
     id: Q7jFqwLD
+    source_title: Brehm v. Marocco (D.D.C.)
   - date: 2025-02-21
     type: report
     event: Ethan Shaotran, Jacob Altik, and Nate Cavanaugh arrive at the agency and demand that a MOU must be signed for their detail assignment
@@ -7522,6 +7842,7 @@ USADF:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
     agency: USADF
     id: 7v7sVWG5
+    source_title: Brehm v. Marocco (D.D.C.)
   - date: 2025-02-21
     type: legal
     event: The MOU for DOGE's IT Modernization is between USADF and GSA and only covers the activities of Ethan Shaotran
@@ -7532,6 +7853,7 @@ USADF:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.6.pdf
     agency: USADF
     id: ShwzJQ8D
+    source_title: Brehm v. Marocco (D.D.C.)
   - date: 2025-02-21
     type: report
     event: Once MOU is signed, DOGE staff reveal their real purpose is to conduct a massive reduction in agency staff and scope and demand to file a RIF plan by 2/24
@@ -7544,6 +7866,7 @@ USADF:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
     agency: USADF
     id: dtakM5hM
+    source_title: Brehm v. Marocco (D.D.C.)
   - date: 2025-02-21
     type: report
     event: Nate Canaugh and Jacob Altik then demanded immediate access to USADF systems including financial records and payment and human resources systems. They were told they had to go through standard clearance process.
@@ -7554,6 +7877,7 @@ USADF:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
     agency: USADF
     id: QFXkX5nW
+    source_title: Brehm v. Marocco (D.D.C.)
   - date: 2025-02-21
     type: report
     event: Jacob Altik demands waivers to exempt DOGE staff from background checks, threatens to fire USADF board if demands are not materials.
@@ -7563,6 +7887,7 @@ USADF:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
     agency: USADF
     id: 7aypySNW
+    source_title: Brehm v. Marocco (D.D.C.)
   - date: 2025-02-21
     type: report
     event: USADF general cousel revokes their participation in the MOU based on it being under false pretenses
@@ -7571,6 +7896,7 @@ USADF:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
     agency: USADF
     id: kSet7QgF
+    source_title: Brehm v. Marocco (D.D.C.)
   - date: 2025-02-24
     type: report
     event: USADF president/CEO Ward Brehm receives an email from Trent Morse in the White House Personnel Office notifying him that he is removed from tbe board.
@@ -7578,6 +7904,7 @@ USADF:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
     agency: USADF
     id: NrAucFtb
+    source_title: Brehm v. Marocco (D.D.C.)
   - date: 2025-02-28
     type: report
     event: USADF Managing Director of Finance Mathieu Zahui receives an email from Trent Morse informing him the USADF is "boardless" and naming Peter Marocco as acting chair. Zahui informs them appointment would require senate confirmation first.
@@ -7585,6 +7912,7 @@ USADF:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.3.pdf
     agency: USADF
     id: M6gCSNxa
+    source_title: Brehm v. Marocco (D.D.C.)
   - date: 2025-03-03
     type: report
     event: USADF board member Ward Brehm is elected by the board as President/CEO of USADF
@@ -7592,6 +7920,7 @@ USADF:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.2.pdf
     agency: USADF
     id: 3W8Pu6iy
+    source_title: Brehm v. Marocco (D.D.C.)
   - date: 2025-03-04
     type: report
     event: USADF CFO Mathieu Zahui receives an email from Nate Cavanaugh informing him that Peter Marocco would be coming to the office the following day as Chairman of the Board
@@ -7602,6 +7931,7 @@ USADF:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.2.pdf
     agency: USADF
     id: HBHAt2jo
+    source_title: Brehm v. Marocco (D.D.C.)
   - date: 2025-03-05
     type: report
     event: Nate Cavanaugh sends Ward Brehm an email demanding to know by what authority he is the President/CFO of USADF
@@ -7611,6 +7941,7 @@ USADF:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278118/gov.uscourts.dcd.278118.7.2.pdf
     agency: USADF
     id: 5XqG48jY
+    source_title: Brehm v. Marocco (D.D.C.)
   - date: 2025-03-05
     type: report
     event: Jacob Altik and Ethan Shaotran are rebuffed by agency leadership when attempting to enter the agency
@@ -7621,6 +7952,7 @@ USADF:
     source: https://www.thedailybeast.com/elon-musks-doge-goons-in-tense-standoff-video-unmasked/
     agency: USADF
     id: 7QXxV37g
+    source_title: Brehm v. Marocco (D.D.C.)
   - date: 2025-03-06
     type: report
     event: DOGE staff Jacob Altik and Ethan Shaotran return joined by Nate Cavanaugh with US marshals to force entry to the agency
@@ -7667,6 +7999,8 @@ USAID:
     - Gavin Kliger
     - Luke Farritor
     source: https://www.washingtonpost.com/opinions/2025/02/24/musk-doge-usaid-cuts-dc/
+    source_title: The Blinding Contempt of the DOGE Bros
+    source_name: The Washington Post
     agency: USAID
     id: WR9Xb7Ar
   - date: 2025-01-28
@@ -7783,6 +8117,7 @@ USAID:
     source: https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rZttxcbH9cfc/v0
     agency: USAID
     id: hjaBQhn8
+    source_title: J. Doe 1-26 v. Musk (D. Md)
   - date: 2025-03-18
     type: promotion
     event: Jeremy Lewin is appointed to the position of Deputy Administrator (Policy and Programming) and Kenneth Jackson is named Deputy Administrator (Management and Resources). He claims it was unrelated to the ruling by Chuang.
@@ -7945,8 +8280,10 @@ USIP:
     - Jacob Altik
     - Nate Cavanaugh
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+    case_no: 1:25-cv-00804
     agency: USIP
     id: JZFwZjbm
+    source_title: United States Institute of Peace v. Jackson (D.D.C.)
   - date: 2025-02-24
     type: report
     event: DOGE counters their belief that minimum statutory size of agency is "a Board of Directors and a president, reports to Congress and the Executive branch, and expenses incident to the Board of Directors" and says they will regroup
@@ -7955,26 +8292,34 @@ USIP:
     - Jacob Altik
     - Nate Cavanaugh
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+    case_no: 1:25-cv-00804
     agency: USIP
     id: R722EMkS
+    source_title: United States Institute of Peace v. Jackson (D.D.C.)
   - date: 2025-03-05
     type: report
     event: Complying with the Executive Order from 2/19, USIP submits a letter to OMB asserting that USIP is an independent nonprofit organization, not a federal agency
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+    case_no: 1:25-cv-00804
     agency: USIP
     id: 4BC649hy
+    source_title: United States Institute of Peace v. Jackson (D.D.C.)
   - date: 2025-03-08
     type: report
     event: USIP President George Moose becomes aware that DOGE is conducting some sort of reconnaisance with respect to USIP's security operations and contractor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+    case_no: 1:25-cv-00804
     agency: USIP
     id: 8DQvc2a6
+    source_title: United States Institute of Peace v. Jackson (D.D.C.)
   - date: 2025-03-14
     type: disruption
     event: Various members of the USIP board report receiving emails from the White House saying they are terminated from their positions.
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+    case_no: 1:25-cv-00804
     agency: USIP
     id: aqE3KGWn
+    source_title: United States Institute of Peace v. Jackson (D.D.C.)
   - date: 2025-03-14
     type: disruption
     event: DOGE members Kenneth Jackson, Jacob Altik and Nate Cavanaugh show up at USIP building with 2 other people claiming to be FBI agents and are refused entry. They attempted to present a document firing the USIP president.
@@ -7989,14 +8334,18 @@ USIP:
     type: disruption
     event: Two FBI agents visited a senior USIP security official at his home unannounced to ask about gaining entry to the building, possibly through pressuring the the Institute's security contractor
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+    case_no: 1:25-cv-00804
     agency: USIP
     id: fq2CQ8JW
+    source_title: United States Institute of Peace v. Jackson (D.D.C.)
   - date: 2025-03-16
     type: disruption
     event: Chief of the Criminal Division of the U.S. Attorney's Office for the District of Columbia, Johnathan Hornok, and two FBI special agents called USIP's outside counsel, Mr. Foote, stating that they had suspicion of criminal behavior at USIP,
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+    case_no: 1:25-cv-00804
     agency: USIP
     id: aGS3jz8M
+    source_title: United States Institute of Peace v. Jackson (D.D.C.)
   - date: 2025-03-16
     type: disruption
     event: Concerned they might be coerced by DOGE, the Chief Security Officer suspends the contract for building security contractor Inter-Con after being contacted by FBI agents interested in questioning him
@@ -8007,8 +8356,10 @@ USIP:
     type: disruption
     event: At 6pm, all Inter-Con staff are removed from the building, all keycard access is revoked and all physical keys accounted for except for one held by the Inter-Con account manager for USIP
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.2.2.pdf
+    case_no: 1:25-cv-00804
     agency: USIP
     id: L3bniPgw
+    source_title: United States Institute of Peace v. Jackson (D.D.C.)
   - date: 2025-03-17
     type: disruption
     event: At 2:30pm, the Inter-Con account manager and employees attempt to enter the building with key cards and are denied. They use the physical key to enter once the account manager arrives with it.
@@ -8019,8 +8370,10 @@ USIP:
     type: disruption
     event: At 2:59pm, USIP Security Chief calls DC police and institutes a high-level lockdown for the building. He observes with the security cameras that DOGE staff attempting entry on various doors.
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.2.2.pdf
+    case_no: 1:25-cv-00804
     agency: USIP
     id: i2mnVSPK
+    source_title: United States Institute of Peace v. Jackson (D.D.C.)
   - date: 2025-03-17
     type: disruption
     event: Asked why they are attempting to gain control of the building, the Vice President of Inter-Con reports that DOGE threatened to cancel every single one of their federal contracts if they didn't comply
@@ -8031,14 +8384,18 @@ USIP:
     type: disruption
     event: USIP President George Moose reports being present when four Inter-Con employees entered the USIP building without permission
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+    case_no: 1:25-cv-00804
     agency: USIP
     id: 9A3FaYQB
+    source_title: United States Institute of Peace v. Jackson (D.D.C.)
   - date: 2025-03-17
     type: disruption
     event: USIP President George Moose is escorted out of the building by DC police who entered with DOGE at 5:30pm
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+    case_no: 1:25-cv-00804
     agency: USIP
     id: 4ySjWC8N
+    source_title: United States Institute of Peace v. Jackson (D.D.C.)
   - date: 2025-03-17
     type: disruption
     event: DOGE members Kenneth Jackson, Jacob Altik and Nate Cavanaugh remove staff and president of the USIP with the help of Office of the U.S. Attorney for the District of Columbia, the FBI and D.C. police
@@ -8062,8 +8419,10 @@ USIP:
     type: report
     event: Various USIP staff report receiving messages from DOGE staff asking for employee lists and access to computer systems
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.1.2_1.pdf
+    case_no: 1:25-cv-00804
     agency: USIP
     id: nEGenYbj
+    source_title: United States Institute of Peace v. Jackson (D.D.C.)
   - date: 2025-03-19
     type: disruption
     event: DOGE-affiliated staff start removing interior signage from the USIP building
@@ -8077,6 +8436,7 @@ USIP:
     source: https://bsky.app/profile/annabower.bsky.social/post/3lkqsbbysck2n
     agency: USIP
     id: M4hzjE85
+    source_title: United States Institute of Peace v. Jackson (D.D.C.)
   - date: 2025-03-20
     type: disruption
     event: USIP website is taken offline
@@ -8092,6 +8452,7 @@ USIP:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.14.1.pdf
     agency: USIP
     id: NSHGaNmC
+    source_title: United States Institute of Peace v. Jackson (D.D.C.)
   - date: 2025-03-25
     type: interagency
     interagency_doge_reps:
@@ -8104,6 +8465,7 @@ USIP:
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.278529/gov.uscourts.dcd.278529.15.3.pdf
     agency: USIP
     id: mrPV8r2V
+    source_title: United States Institute of Peace v. Jackson (D.D.C.)
   - date: 2025-03-28
     type: disruption
     event: Almost all USIP HQ staff (200-300 people) receive termination notices late on a Friday night
@@ -8162,6 +8524,7 @@ USPS:
     onboard_type: detailed
     detailed_from: GSA
     detail_id: mou-20250312-gsa-usps-ethan-shaotran
+    source: https://about.usps.com/who/legal/foia/documents/mou-ethan-shaotran-executed-redacted.pdf
     event: The USPS executes a MOU with GSA to detail Ethan Shaotran on an unpaid basis for projects there. His actual start date will depend on when the security clearance process completes
     named:
     - Ethan Shaotran

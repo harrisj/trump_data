@@ -4,15 +4,16 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-requests = "*"
 dateparser = "*"
 canonicaljson = "*"
-bs4 = "*"
 pyyaml = "*"
 edtf = "*"
 pydantic = "*"
 shortuuid = "*"
 peewee = "*"
+requests = "*"
+bs4 = "*"
+jinja2 = "*"
 
 [dev-packages]
 black = "*"

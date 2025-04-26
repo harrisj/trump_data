@@ -69,6 +69,8 @@ CREATE TABLE IF NOT EXISTS "event" (
    [fuzz] TEXT,
    [comment] TEXT,
    [source] TEXT,
+   [source_title] TEXT,
+   [source_name] TEXT,
    [access_type] TEXT,
    [onboard_type] TEXT,
    [detailed_from] TEXT,
