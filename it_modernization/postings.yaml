@@ -2,7 +2,7 @@
 meta:
   title: Postings
   version: 1.0.0
-  generated: 2025-04-25
+  generated: 2025-04-26
   note: For doge_base agencies, I set the doge_agency_last to be the end of the current week to demonstrate that DOGE presence
     is likely continued there if not documented
 
@@ -26,6 +26,8 @@ postings:
   all_dates:
   - 2025-02-06
   - 2025-02-07
+  - 2025-04-12
+  - 2025-04-13
   - 2025-04-17
   last_date: 2025-04-17
   onboard_date: 2025-02-06
@@ -82,7 +84,8 @@ postings:
   first_date: 2025-02-06
   all_dates:
   - 2025-02-06
-  last_date: 2025-02-06
+  - 2025-04-12
+  last_date: 2025-04-12
   onboard_date: 2025-02-06
   agency_doge_base: true
   doge_agency_first: 2025-02-06

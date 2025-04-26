@@ -838,6 +838,25 @@ CFPB:
     agency: CFPB
     id: 72yFCY5H
     source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
+  - date: 2025-04-12
+    type: official
+    event: Emailing from his USAID email account, Jeremy Lewin provides Gavin Kliger and Adam Martinez with a letter to use for RIFs at the CFPB
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.128.2_1.pdf
+    case_no: 1:25-cv-00381
+    named:
+    - Gavin Kliger
+    - Jeremy Lewin
+    agency: CFPB
+    id: 3XxWRrBu
+  - date: 2025-04-13
+    type: report
+    event: In an email, CFPB CIO Chris Chilbert reports that Gavin Kliger has been granted access to several unnamed systems. He also asks to confirm that Gavin Kliger should have his access revoked to systems that let him deactivate employee email accounts or lock them out of their laptops
+    case_no: 1:25-cv-00381
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.128.4_1.pdf
+    named:
+    - Gavin Kliger
+    agency: CFPB
+    id: N4uZjCyt
   - date: 2025-04-17
     type: disruption
     event: CFPB conducts a massive Reduction in Force, eliminating 1483 positions and retaining only 207 people to perform its duties. This is larger than the planned RIF in February that was blocked by Judge Amy Berman-Jackson
@@ -3732,6 +3751,12 @@ FAA:
     source: https://www.bloomberg.com/news/features/2025-03-05/after-elon-musk-lands-at-faa-his-starlink-business-stands-to-gain-business
     agency: FAA
     id: c2uFcNGD
+  - date: 2025-04-25
+    type: report
+    event: DOGE staff assigned to the FAA have reportedly enlisted government staff to work on a secret communications project named "Project Lift," requiring them to sign NDAs. It is rumored to be about incorporating Starlink into FAA projects.
+    source: https://www.rollingstone.com/politics/politics-features/trump-musk-doge-faa-nda-secret-project-lift-1235325667/
+    agency: FAA
+    id: kTuTZoGk
   systems:
     NOTAM:
       name: Notice to Airmen
