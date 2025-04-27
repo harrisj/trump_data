@@ -1,4 +1,4 @@
-id,type,date,sort_date,event,fuzz,comment,source,access_type,onboard_type,detailed_from,detail_id,case_no
+id,type,date,sort_date,event,fuzz,comment,source,source_title,source_name,access_type,onboard_type,detailed_from,detail_id,case_no
 2SjuZBR5,report,2024-11-26,2024-11-26,"A person who is likely Anthony Jancso posted a message in an AI challenge's Discord saying ""Helping the Dept. of Government Efficiency team find hardcore engineers. Send your GitHub/LinkedIn to @DOGE on X and your X handle to me in DM if you're interested or know someone who is, could help get them into the pipeline.""",,,https://www.wired.com/story/elon-musk-doge-recruiting-palantir/,,,,,
 YmbfLdNB,report,2024-12-05,2024-12-05,A person who is likely Anthony Jancso posts recruitment messages for DOGE to a chat group for employees who had worked at Palantir,,,https://www.wired.com/story/elon-musk-doge-recruiting-palantir/,,,,,
 24qgS3WS,report,2024-12-05,2024-12-05,Luke Farritor posts a recruitment message for DOGE in a Discord server for SpaceX interns looking for volunteers to work at DOGE for 6 months,,,https://www.wired.com/story/elon-musk-doge-recruiting-palantir/,,,,,

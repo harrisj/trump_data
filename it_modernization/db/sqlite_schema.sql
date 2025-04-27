@@ -81,36 +81,39 @@ CREATE TABLE IF NOT EXISTS "event" (
    [mod_count] INTEGER
 );
 
--- CREATE TRIGGER insert_event_trigger
--- AFTER INSERT
--- ON event
--- FOR EACH ROW
--- BEGIN
--- UPDATE event
--- SET modified_at=CURRENT_TIMESTAMP
--- WHERE id=NEW.id;
--- END;
 
--- CREATE TRIGGER update_event_trigger
--- AFTER UPDATE
--- ON event
--- FOR EACH ROW
--- BEGIN
---     UPDATE event_meta
---     SET modified_at = CURRENT_TIMESTAMP, mod_count = mod_count + 1
---     WHERE id = NEW.id;
--- END;
+CREATE TABLE IF NOT EXISTS "event_temp" (
+   [id] TEXT PRIMARY KEY NOT NULL,
+   [type] TEXT NOT NULL,
+   [date] TEXT NOT NULL,
+   [sort_date] TEXT,
+   [event] TEXT NOT NULL,
+   [fuzz] TEXT,
+   [comment] TEXT,
+   [source] TEXT,
+   [source_title] TEXT,
+   [source_name] TEXT,
+   [access_type] TEXT,
+   [onboard_type] TEXT,
+   [detailed_from] TEXT,
+   [detail_id] TEXT REFERENCES [detail]([id]),
+   [case_no] TEXT REFERENCES [court_case]([case_no])
+);
 
+CREATE TABLE IF NOT EXISTS "roundup_mention" (
+   [name] TEXT REFERENCES [person]([name]) NOT NULL,
+   [agency_id] TEXT REFERENCES [agency]([id]) NOT NULL,
+   [source] TEXT NOT NULL,
+   [source_title] TEXT NOT NULL,
+   [source_name] TEXT NOT NULL,
+   [last_updated] TEXT NOT NULL
+);
 
--- CREATE TRIGGER update_event_trigger
--- AFTER UPDATE OF [event_date], [event_type], [event_text], [fuzz], [comment], [source], [access_type], [onboard_type], [detailed_from], [detail_id], [case_no]
--- ON event
--- FOR EACH ROW
--- BEGIN 
---     UPDATE event 
---     SET modified_at = CURRENT_TIMESTAMP, created_at = COALESCE(created_at, CURRENT_TIMESTAMP)
---     WHERE id = NEW.id; 
--- END;
+CREATE INDEX IF NOT EXISTS "roundup_mention_idx"
+ON [roundup_mention] ([name], [agency_id]);
+
+CREATE UNIQUE INDEX IF NOT EXISTS "roundup_mention_uniq_idx"
+ON [roundup_mention] ([name], [agency_id], [source]);
 
 CREATE TABLE IF NOT EXISTS "court_case_agency_through" (
    [case_no] TEXT REFERENCES [court_case]([case_no]),

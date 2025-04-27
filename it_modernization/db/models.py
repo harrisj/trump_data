@@ -49,8 +49,9 @@ CaseAgencyDeferred = DeferredThroughModel()
 
 
 class Person(BaseModel):
-    name = TextField(null=True, primary_key=True)
-    sort_name = TextField(null=True)
+    name = TextField(primary_key=True)
+    sort_name = TextField()
+    slug = TextField()
     age = TextField(null=True)
     background = TextField(null=True)
 
@@ -97,6 +98,8 @@ class Event(BaseModel):
     sort_date = TextField()
     event = TextField()
     source = TextField()
+    source_title = TextField(null=True)
+    source_name = TextField(null=True)
     created_at = DateTimeField(null=True)
     modified_at = DateTimeField(null=True)
     mod_count = IntegerField(null=True)
@@ -122,6 +125,22 @@ class Event(BaseModel):
         Agency, backref="events", through_model=EventAgencyDeferred
     )
     aliases = ManyToManyField(Alias, backref="events", through_model=EventAliasDeferred)
+
+
+class RoundupMention(BaseModel):
+    person = ForeignKeyField(
+        Person, column_name="name", field="name", backref="roundup_mentions"
+    )
+    agency = ForeignKeyField(
+        Agency, column_name="agency_id", field="id", backref="roundup_mentions"
+    )
+    source = TextField()
+    source_title = TextField()
+    source_name = TextField()
+    last_updated = DateField()
+
+    class Meta:
+        primary_key = CompositeKey("person", "agency", "source")
 
 
 class System(BaseModel):

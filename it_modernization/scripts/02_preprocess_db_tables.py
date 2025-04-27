@@ -15,6 +15,8 @@ out_events = [
         "fuzz",
         "comment",
         "source",
+        "source_title",
+        "source_name",
         "access_type",
         "onboard_type",
         "detailed_from",
@@ -86,6 +88,22 @@ for d in details:
 
     for alias in d.get("named_aliases", []):
         out_da.append([detail_id, alias])
+
+out_r = []
+roundups = read_raw_data("roundups")
+for r in roundups:
+    for name, agency_ids in r["people"].items():
+        for agency_id in as_list(agency_ids):
+            out_r.append(
+                {
+                    "name": name,
+                    "agency_id": agency_id,
+                    "source": r["source"],
+                    "source_title": r["title"],
+                    "source_name": r["publisher"],
+                    "last_updated": str(r["last_updated"]),
+                }
+            )
 
 # -------------------------
 with open("./it_modernization/db/import/agencies.csv", "w", newline="") as csvfile:
@@ -183,8 +201,6 @@ with open("./it_modernization/db/import/details.csv", "w", newline="") as csvfil
         "reimbursed",
         "reimbursement_amount",
         "source",
-        "source_title",
-        "source_name",
         "file",
         "comment",
         "named",
@@ -214,3 +230,18 @@ with open("./it_modernization/db/import/people.csv", "w", newline="") as csvfile
     writer.writeheader()
     for person in people:
         writer.writerow(person)
+
+with open("./it_modernization/db/import/roundups.csv", "w", newline="") as csvfile:
+    fieldnames = [
+        "name",
+        "agency_id",
+        "source",
+        "source_title",
+        "source_name",
+        "last_updated",
+    ]
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+    writer.writeheader()
+    for r in out_r:
+        writer.writerow(r)
