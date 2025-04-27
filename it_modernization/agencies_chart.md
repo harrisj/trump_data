@@ -70,11 +70,11 @@ gantt
         Edward Coristine : 2025-03-13, 2025-04-27
         Kyle Schutt : 2025-03-14, 2025-04-27
     SECTION USAID
-        Gavin Kliger : 2025-01-27, 2025-03-28
-        Luke Farritor : 2025-01-27, 2025-03-28
-        Jeremy Lewin : 2025-01-28, 2025-03-28
-        Kenneth Jackson : 2025-03-18, 2025-03-28
-        Peter Marocco : 2025-03-19, 2025-03-28
+        Gavin Kliger : 2025-01-27, 2025-04-16
+        Luke Farritor : 2025-01-27, 2025-04-16
+        Jeremy Lewin : 2025-01-28, 2025-04-16
+        Kenneth Jackson : 2025-03-18, 2025-04-16
+        Peter Marocco : 2025-03-19, 2025-04-16
     SECTION DOI
         Tyler Hassen : 2025-01-28, 2025-04-27
         Bryton Shang : 2025-01-28, 2025-04-27

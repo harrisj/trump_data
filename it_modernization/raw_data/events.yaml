@@ -6231,15 +6231,26 @@
   source_title: New York et al v. Donald J. Trump (S.D.N.Y.)
 
 - date: 2025-04-12
-  type: official
+  type: interagency
   event: Emailing from his USAID email account, Jeremy Lewin provides Gavin Kliger and Adam Martinez with a letter to use for RIFs at the CFPB
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.128.2_1.pdf
   case_no: 1:25-cv-00381
-  named:
-  - Gavin Kliger
-  - Jeremy Lewin
+  interagency_doge_reps:
+    CFPB: Gavin Kliger
+    USAID: Jeremy Lewin
   agency: CFPB
   id: 3XxWRrBu
+
+- date: 2025-04-12
+  type: interagency
+  event: Gavin Kliger begins working with Adam Martinez of CFPB and Jeremy Lewin at USAID on the infrastructure for a massive RIF at the CFPB
+  interagency_doge_reps:
+    CFPB: Gavin Kliger
+    USAID: Jeremy Lewin
+  case_no: 1:25-cv-00381
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.131.1.pdf
+  agency: CFPB
+  id: 7a5wZUiM
 
 - date: 2025-04-13
   type: report
@@ -6250,6 +6261,36 @@
   - Gavin Kliger
   agency: CFPB
   id: N4uZjCyt
+
+- date: 2025-04-13
+  type: interagency
+  event: Jeremy Lewin has a followup Teams call with Mark Paoletta to plan for the upcoming massive RIF at the CFPB
+  case_no: 1:25-cv-00381
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.131.1.pdf
+  interagency_doge_reps:
+    USAID: Jeremy Lewin
+  agency: CFPB
+  id: 32sfy2H5
+
+- date: 2025-04-13
+  type: report
+  event: In an email, CFPB CIO Chris Chilbert informs Gavin Kliger that there is no global admin access that can be granted for his requests
+  case_no: 1:25-cv-00381
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.131.1.pdf
+  named:
+  - Gavin Kliger
+  agency: CFPB
+  id: YvnoXfWE
+
+- date: 2025-04-13
+  type: access_revoked
+  event: Gavin Kliger's access to the OHC PowerAutomate environment is removed
+  access_systems:
+  - PowerAutomate-CFPB
+  case_no: 1:25-cv-00381
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.131.1.pdf
+  agency: CFPB
+  id: bUXEK8RF
 
 - date: 2025-04-14
   type: legal
@@ -6328,6 +6369,18 @@
   id: LP7ebs7r
 
 - date: 2025-04-16
+  type: interagency
+  event: Noah Peters at OPM denies the CFPB request for an "emergency" 30-day notice for a RIF at the CFPB
+  case_no: 1:25-cv-00381
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.131.1.pdf
+  interagency_doge_reps:
+    OPM: Noah Peters
+    USAID: Jeremy Lewin
+    CFPB: Gavin Kliger
+  agency: CFPB
+  id: aaJegvbd
+
+- date: 2025-04-16
   type: report
   event: Three DOGE staffers are reported to work with staff from DHS, the State Department and USCIS on implementing an application process for a $5 Million "Gold Card" visa
   source: https://www.nytimes.com/2025/04/16/us/politics/gold-card-visa-trump-musk.html
@@ -6344,6 +6397,21 @@
   source: https://www.npr.org/2025/04/16/nx-s1-5366851/doge-nlrb-whistleblower-musk-data
   agency: NLRB
   id: eCQoxNRz
+
+- date: 2025-04-17
+  type: access_granted
+  access_type: admin
+  access_systems:
+  - PowerAutomate-CFPB
+  - Sharepoint-CFPB
+  event: Gavin Kliger is granted admin access to Sharepoint for the Office of Human Capital as well as the Prod and Dev environments for the Power Automate OPS Human Capital syatems again to automate the mailing of RIF notices to CFPB staff. "Jeremy" is also granted access (likely Jeremy Lewin).
+  named:
+  - Gavin Kliger
+  - Jeremy Lewin
+  case_no: 1:25-cv-00381
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.131.1.pdf
+  agency: CFPB
+  id: W9pTjZUH
 
 - date: 2025-04-17
   type: disruption

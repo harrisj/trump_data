@@ -22,7 +22,8 @@ def generate_events_yaml():
         if event["type"] == "interagency":
             if "interagency_doge_reps" not in event:
                 continue
-            for agency_id, named in event["interagency_doge_reps"].items():
+            for agency_id, ia_named in event["interagency_doge_reps"].items():
+                named = as_list(ia_named)
                 out.append(
                     {
                         "agency": agencies_dict[agency_id]["name"],

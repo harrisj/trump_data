@@ -28,6 +28,7 @@ postings:
   - 2025-02-07
   - 2025-04-12
   - 2025-04-13
+  - 2025-04-16
   - 2025-04-17
   last_date: 2025-04-17
   onboard_date: 2025-02-06
@@ -84,8 +85,8 @@ postings:
   first_date: 2025-02-06
   all_dates:
   - 2025-02-06
-  - 2025-04-12
-  last_date: 2025-04-12
+  - 2025-04-17
+  last_date: 2025-04-17
   onboard_date: 2025-02-06
   agency_doge_base: true
   doge_agency_first: 2025-02-06
@@ -2276,11 +2277,12 @@ postings:
   - 2025-01-20
   - 2025-01-28
   - 2025-02-12
-  last_date: 2025-02-12
+  - 2025-04-16
+  last_date: 2025-04-16
   onboard_date: 2025-01-20
   agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-16
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: OPM
@@ -2291,7 +2293,7 @@ postings:
   last_date: 2025-01-16~
   agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-16
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: OPM
@@ -2308,7 +2310,7 @@ postings:
   onboard_date: 2025-01-20
   agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-16
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: OPM
@@ -2320,7 +2322,7 @@ postings:
   last_date: 2025-02-12
   agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-16
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: OPM
@@ -2334,7 +2336,7 @@ postings:
   onboard_date: 2025-01-20
   agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-16
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: OPM
@@ -2349,7 +2351,7 @@ postings:
   onboard_date: 2025-01-20
   agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-16
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: OPM
@@ -2362,7 +2364,7 @@ postings:
   last_date: 2025-02-12
   agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-16
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: OPM
@@ -2378,7 +2380,7 @@ postings:
   onboard_date: 2025-01-20
   agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-16
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: OPM
@@ -2391,7 +2393,7 @@ postings:
   last_date: 2025-02-12
   agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-16
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: OPM
@@ -2403,7 +2405,7 @@ postings:
   last_date: 2025-02-12
   agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-16
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: OPM
@@ -2415,7 +2417,7 @@ postings:
   last_date: 2025-02-12
   agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-16
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: OPM
@@ -2427,7 +2429,7 @@ postings:
   last_date: 2025-03-28
   agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-16
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: OPM
@@ -2438,7 +2440,7 @@ postings:
   last_date: 2025-02-12
   agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-16
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: OPM
@@ -2449,7 +2451,7 @@ postings:
   last_date: 2025-02-12
   agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-16
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: OPM
@@ -2460,7 +2462,7 @@ postings:
   last_date: 2025-02-12
   agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-16
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: OPM
@@ -2471,7 +2473,7 @@ postings:
   last_date: 2025-02-12
   agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-16
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: OPM
@@ -2482,7 +2484,7 @@ postings:
   last_date: 2025-02-12
   agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-16
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: OPM
@@ -2493,7 +2495,7 @@ postings:
   last_date: 2025-02-12
   agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-16
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: OPM
@@ -2504,7 +2506,7 @@ postings:
   last_date: 2025-02-12
   agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-16
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: OPM
@@ -2515,7 +2517,7 @@ postings:
   last_date: 2025-02-12
   agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-16
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: OPM
@@ -2526,7 +2528,7 @@ postings:
   last_date: 2025-03-28
   agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-16
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: OPM
@@ -2537,7 +2539,7 @@ postings:
   last_date: 2025-04-03
   agency_doge_base: true
   doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-16
   doge_agency_last_adjusted: 2025-04-27
 
 - agency_id: Peace
@@ -2984,7 +2986,7 @@ postings:
   last_date: 2025-02-09
   agency_doge_base: false
   doge_agency_first: 2025-01-27
-  doge_agency_last: 2025-03-28
+  doge_agency_last: 2025-04-16
 
 - agency_id: USAID
   name: Luke Farritor
@@ -2996,7 +2998,7 @@ postings:
   last_date: 2025-02-09
   agency_doge_base: false
   doge_agency_first: 2025-01-27
-  doge_agency_last: 2025-03-28
+  doge_agency_last: 2025-04-16
 
 - agency_id: USAID
   name: Jeremy Lewin
@@ -3006,11 +3008,14 @@ postings:
   - 2025-03-18
   - 2025-03-19
   - 2025-03-28
-  last_date: 2025-03-28
+  - 2025-04-12
+  - 2025-04-13
+  - 2025-04-16
+  last_date: 2025-04-16
   onboard_date: 2025-01-28
   agency_doge_base: false
   doge_agency_first: 2025-01-27
-  doge_agency_last: 2025-03-28
+  doge_agency_last: 2025-04-16
 
 - agency_id: USAID
   name: Kenneth Jackson
@@ -3021,7 +3026,7 @@ postings:
   last_date: 2025-03-19
   agency_doge_base: false
   doge_agency_first: 2025-01-27
-  doge_agency_last: 2025-03-28
+  doge_agency_last: 2025-04-16
 
 - agency_id: USAID
   name: Peter Marocco
@@ -3031,7 +3036,7 @@ postings:
   last_date: 2025-03-19
   agency_doge_base: false
   doge_agency_first: 2025-01-27
-  doge_agency_last: 2025-03-28
+  doge_agency_last: 2025-04-16
 
 - agency_id: USCIS
   name: Kyle Schutt

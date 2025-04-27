@@ -839,15 +839,25 @@ CFPB:
     id: 72yFCY5H
     source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-04-12
-    type: official
+    type: interagency
     event: Emailing from his USAID email account, Jeremy Lewin provides Gavin Kliger and Adam Martinez with a letter to use for RIFs at the CFPB
     source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.128.2_1.pdf
     case_no: 1:25-cv-00381
-    named:
-    - Gavin Kliger
-    - Jeremy Lewin
+    interagency_doge_reps:
+      CFPB: Gavin Kliger
+      USAID: Jeremy Lewin
     agency: CFPB
     id: 3XxWRrBu
+  - date: 2025-04-12
+    type: interagency
+    event: Gavin Kliger begins working with Adam Martinez of CFPB and Jeremy Lewin at USAID on the infrastructure for a massive RIF at the CFPB
+    interagency_doge_reps:
+      CFPB: Gavin Kliger
+      USAID: Jeremy Lewin
+    case_no: 1:25-cv-00381
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.131.1.pdf
+    agency: CFPB
+    id: 7a5wZUiM
   - date: 2025-04-13
     type: report
     event: In an email, CFPB CIO Chris Chilbert reports that Gavin Kliger has been granted access to several unnamed systems. He also asks to confirm that Gavin Kliger should have his access revoked to systems that let him deactivate employee email accounts or lock them out of their laptops
@@ -857,6 +867,49 @@ CFPB:
     - Gavin Kliger
     agency: CFPB
     id: N4uZjCyt
+  - date: 2025-04-13
+    type: report
+    event: In an email, CFPB CIO Chris Chilbert informs Gavin Kliger that there is no global admin access that can be granted for his requests
+    case_no: 1:25-cv-00381
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.131.1.pdf
+    named:
+    - Gavin Kliger
+    agency: CFPB
+    id: YvnoXfWE
+  - date: 2025-04-13
+    type: access_revoked
+    event: Gavin Kliger's access to the OHC PowerAutomate environment is removed
+    access_systems:
+    - PowerAutomate-CFPB
+    case_no: 1:25-cv-00381
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.131.1.pdf
+    agency: CFPB
+    id: bUXEK8RF
+  - date: 2025-04-16
+    type: interagency
+    event: Noah Peters at OPM denies the CFPB request for an "emergency" 30-day notice for a RIF at the CFPB
+    case_no: 1:25-cv-00381
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.131.1.pdf
+    interagency_doge_reps:
+      OPM: Noah Peters
+      USAID: Jeremy Lewin
+      CFPB: Gavin Kliger
+    agency: CFPB
+    id: aaJegvbd
+  - date: 2025-04-17
+    type: access_granted
+    access_type: admin
+    access_systems:
+    - PowerAutomate-CFPB
+    - Sharepoint-CFPB
+    event: Gavin Kliger is granted admin access to Sharepoint for the Office of Human Capital as well as the Prod and Dev environments for the Power Automate OPS Human Capital syatems again to automate the mailing of RIF notices to CFPB staff. "Jeremy" is also granted access (likely Jeremy Lewin).
+    named:
+    - Gavin Kliger
+    - Jeremy Lewin
+    case_no: 1:25-cv-00381
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.131.1.pdf
+    agency: CFPB
+    id: W9pTjZUH
   - date: 2025-04-17
     type: disruption
     event: CFPB conducts a massive Reduction in Force, eliminating 1483 positions and retaining only 207 people to perform its duties. This is larger than the planned RIF in February that was blocked by Judge Amy Berman-Jackson
@@ -910,6 +963,20 @@ CFPB:
       type: internal
       category: security
       description: Physical access controls at the CFPB
+      agency: CFPB
+    PowerAutomate-CFPB:
+      name: Power Automate [CFPB]
+      id: PowerAutomate-CFPB
+      type: saas
+      category: personnel
+      description: Automation used to automate the layoff notices at the CFPB
+      agency: CFPB
+    Sharepoint-CFPB:
+      name: Sharepoint [CFPB]
+      id: Sharepoint-CFPB
+      type: saas
+      category: personnel
+      description: Systems used for sharing documents
       agency: CFPB
   cases:
     1:25-cv-00339:
@@ -6579,6 +6646,17 @@ OPM:
     agency: OPM
     id: jY8TJybS
     source_title: American Federation Of Government Employees, AFL-CIO v. OPM and Ezell (N.D. Cal.)
+  - date: 2025-04-16
+    type: interagency
+    event: Noah Peters at OPM denies the CFPB request for an "emergency" 30-day notice for a RIF at the CFPB
+    case_no: 1:25-cv-00381
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.131.1.pdf
+    interagency_doge_reps:
+      OPM: Noah Peters
+      USAID: Jeremy Lewin
+      CFPB: Gavin Kliger
+    agency: CFPB
+    id: aaJegvbd
   systems:
     EHRI:
       name: Enterprise Human Resources Integration
@@ -8178,6 +8256,46 @@ USAID:
     source: https://www.npr.org/sections/goats-and-soda/2025/03/28/g-s1-56968/usaid-terminates-nearly-all-its-remaining-employees
     agency: USAID
     id: 8mDKCq9a
+  - date: 2025-04-12
+    type: interagency
+    event: Emailing from his USAID email account, Jeremy Lewin provides Gavin Kliger and Adam Martinez with a letter to use for RIFs at the CFPB
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.128.2_1.pdf
+    case_no: 1:25-cv-00381
+    interagency_doge_reps:
+      CFPB: Gavin Kliger
+      USAID: Jeremy Lewin
+    agency: CFPB
+    id: 3XxWRrBu
+  - date: 2025-04-12
+    type: interagency
+    event: Gavin Kliger begins working with Adam Martinez of CFPB and Jeremy Lewin at USAID on the infrastructure for a massive RIF at the CFPB
+    interagency_doge_reps:
+      CFPB: Gavin Kliger
+      USAID: Jeremy Lewin
+    case_no: 1:25-cv-00381
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.131.1.pdf
+    agency: CFPB
+    id: 7a5wZUiM
+  - date: 2025-04-13
+    type: interagency
+    event: Jeremy Lewin has a followup Teams call with Mark Paoletta to plan for the upcoming massive RIF at the CFPB
+    case_no: 1:25-cv-00381
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.131.1.pdf
+    interagency_doge_reps:
+      USAID: Jeremy Lewin
+    agency: CFPB
+    id: 32sfy2H5
+  - date: 2025-04-16
+    type: interagency
+    event: Noah Peters at OPM denies the CFPB request for an "emergency" 30-day notice for a RIF at the CFPB
+    case_no: 1:25-cv-00381
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.131.1.pdf
+    interagency_doge_reps:
+      OPM: Noah Peters
+      USAID: Jeremy Lewin
+      CFPB: Gavin Kliger
+    agency: CFPB
+    id: aaJegvbd
   systems: {}
   cases:
     1:25-cv-00352:

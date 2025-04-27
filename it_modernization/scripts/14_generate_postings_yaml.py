@@ -56,7 +56,8 @@ def generate_postings_yaml():
         if event["type"] == "interagency":
             if "interagency_doge_reps" not in event:
                 continue
-            for agency_id, names in event["interagency_doge_reps"].items():
+            for agency_id, ia_names in event["interagency_doge_reps"].items():
+                names = as_list(ia_names)
                 for name in names:
                     add_posting(postings, agency_dates, agency_id, name, event)
             continue

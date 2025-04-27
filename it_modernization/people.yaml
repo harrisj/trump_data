@@ -498,16 +498,17 @@ people:
       type: report
       event: In a court declaration in AFL-CIO vs. DOL, counsel for the plaintiffs Alexa Milton provides the names of two
         DOGE staffers at HHS who were not provided in the government's list of staffers there
-    - date: 2025-04-12
-      agency: CFPB
-      type: official
-      event: Emailing from his USAID email account, Jeremy Lewin provides Gavin Kliger and Adam Martinez with a letter to
-        use for RIFs at the CFPB
     - date: 2025-04-15
       agency: State
       type: promotion
       event: Jeremy Lewin is named the new acting head of foreign assistance at the State Department after the departure of
         Peter Marocco
+    - date: 2025-04-17
+      agency: CFPB
+      type: access_granted
+      event: Gavin Kliger is granted admin access to Sharepoint for the Office of Human Capital as well as the Prod and Dev
+        environments for the Power Automate OPS Human Capital syatems again to automate the mailing of RIF notices to CFPB
+        staff. "Jeremy" is also granted access (likely Jeremy Lewin).
     - date: 2025-04-18
       agency: CMS
       type: access_revoked
@@ -1708,17 +1709,23 @@ people:
       type: report
       event: DOGE is reportedly planning to state a "hack-a-thon" in cooperation with Palantir to create a "mega API" to access
         IRS data
-    - date: 2025-04-12
-      agency: CFPB
-      type: official
-      event: Emailing from his USAID email account, Jeremy Lewin provides Gavin Kliger and Adam Martinez with a letter to
-        use for RIFs at the CFPB
     - date: 2025-04-13
       agency: CFPB
       type: report
       event: In an email, CFPB CIO Chris Chilbert reports that Gavin Kliger has been granted access to several unnamed systems.
         He also asks to confirm that Gavin Kliger should have his access revoked to systems that let him deactivate employee
         email accounts or lock them out of their laptops
+    - date: 2025-04-13
+      agency: CFPB
+      type: report
+      event: In an email, CFPB CIO Chris Chilbert informs Gavin Kliger that there is no global admin access that can be granted
+        for his requests
+    - date: 2025-04-17
+      agency: CFPB
+      type: access_granted
+      event: Gavin Kliger is granted admin access to Sharepoint for the Office of Human Capital as well as the Prod and Dev
+        environments for the Power Automate OPS Human Capital syatems again to automate the mailing of RIF notices to CFPB
+        staff. "Jeremy" is also granted access (likely Jeremy Lewin).
     - date: 2025-04-17
       agency: CFPB
       type: report

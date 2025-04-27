@@ -651,3 +651,17 @@
   category: security
   description: Physical access controls at the CFPB
   agency: CFPB
+
+- name: Power Automate [CFPB]
+  id: PowerAutomate-CFPB
+  type: saas
+  category: personnel
+  description: Automation used to automate the layoff notices at the CFPB
+  agency: CFPB
+
+- name: Sharepoint [CFPB]
+  id: Sharepoint-CFPB
+  type: saas
+  category: personnel
+  description: Systems used for sharing documents
+  agency: CFPB
