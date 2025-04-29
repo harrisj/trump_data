@@ -2,7 +2,7 @@
 meta:
   title: Events
   version: 1.0.0
-  generated: 2025-04-27
+  generated: 2025-04-28
 
 events:
 
@@ -1757,6 +1757,19 @@ events:
     - HHS
     - DOGE
 
+- date: 2025-02-04~
+  type: onboarded
+  fuzz: Date is approximate and unknown based on Farritor access to systems
+  comment: Names and timeline were given by a DOE spokesperson several months later
+  onboard_type: detailed
+  named:
+  - Luke Farritor
+  - Adam Ramada
+  event: In a report on the Dept of Energy, a spokesperson says DOGE staff were only granted access for a few days
+  source: https://www.npr.org/2025/04/28/nx-s1-5378684/doge-energy-department-nuclear-secrets-access
+  agency: Energy
+  id: i8gZkSFA
+
 - date: 2025-02-05
   type: report
   event: DOGE staff reported with agency buildings with access to certain systems like CALM, but sources deny they have access
@@ -2516,6 +2529,17 @@ events:
   source: https://www.nbcnews.com/politics/politics-news/usaid-reduce-foreign-service-officers-trump-cuts-federal-government-rcna191122
   agency: USAID
   id: dJnZqbb4
+
+- date: 2025-02-08~
+  type: report
+  fuzz: Date is approximate and unknown. Report is unconfirmed
+  event: According to Dept. of Energy spokesperson, DOGE staff departed the agency within a few days of arrival
+  source: https://www.npr.org/2025/04/28/nx-s1-5378684/doge-energy-department-nuclear-secrets-access
+  named:
+  - Luke Farritor
+  - Adam Ramada
+  agency: Energy
+  id: 9ApmChVN
 
 - date: 2025-02-08
   type: report
@@ -9495,6 +9519,37 @@ events:
   agency: SSA
   id: WQ7BVkDi
 
+- date: 2025-04-03
+  type: interagency
+  event: Tarak Makecha, a DOGE representative at DOJ is forwarded a list at 6pm of DOJ contracts to terminate for the Acacia
+    Center, a nonprofit in DOGE's crosshairs that day and a plaintiff in a lawsuit against the DOJ
+  interagency_doge_reps:
+    DOJ: Tarak Makecha
+    GSA: Josh Gruenbaum
+  source: https://www.lawfaremedia.org/article/on-doge--directives--and-doj
+  agency: DOJ
+  id: kaxNhRgZ
+
+- date: 2025-04-03
+  type: disruption
+  event: Tarak Makecha begins demanding at 6:25pm the Acacia contracts must be terminated immediately despite it being after
+    business hours
+  named:
+  - Tarak Makecha
+  source: https://www.lawfaremedia.org/article/on-doge--directives--and-doj
+  agency: DOJ
+  id: CC2AMRi3
+
+- date: 2025-04-03
+  type: disruption
+  event: Tarak Makecha finds a DOJ Contracting Officer after hours at 7:25pm to send the termination despite concerns it violates
+    the terms of a court order to not provide 3 days notice
+  named:
+  - Tarak Makecha
+  source: https://www.lawfaremedia.org/article/on-doge--directives--and-doj
+  agency: DOJ
+  id: eB4QfKtt
+
 - date: 2025-04-04
   type: report
   event: Three DOGE staffers are listed in the public directory of FCC staff and listed as associated with the Office of the
@@ -9858,6 +9913,32 @@ events:
   agency: DHS
   id: VXSiUz7f
 
+- date: 2025-04-11
+  type: report
+  event: In a legal filing, the government describes the DOGE team at Treasury of consisting of six people, some previously
+    unknown
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277055/gov.uscourts.dcd.277055.61.2.pdf
+  case_no: 1:25-cv-00313
+  named:
+  - Tom Krause
+  - Todd Newnam
+  - Ryan Wunderly
+  - Linda Whitridge
+  - Sam Corcos
+  - Gavin Kliger
+  agency: Treasury
+  id: hRNyXeoy
+  case_info:
+    name: Alliance for Retired Americans v. Scott Bessent et al (D.D.C.)
+    description: A group of labor unions representing federal employees sued Secretary of the Treasury Scott Bessent and others
+      alleging that individuals affiliated with the Department of Government Efficiency ("DOGE") were granted unauthorized
+      access to sensitive Treasury Department records in violation of the Privacy Act and the IRS Code. Both parties agreed
+      to an order limiting access to Treasury payment records to specific individuals with "read-only" access.
+    case_no: 1:25-cv-00313
+    date_filed: 2025-02-03
+    link: https://www.courtlistener.com/docket/69607077/alliance-for-retired-americans-v-bessent/
+    agency: Treasury
+
 - date: 2025-04-12
   type: disruption
   event: A DOGE engineer has apparently removed the ability of government agencies to post new grants to grants.gov and requiring
@@ -9918,6 +9999,59 @@ events:
 
 - date: 2025-04-12
   type: interagency
+  event: Emailing from his CFPB account, Jeremy Lewin shares the documentation for the RIF with DOGE staff posted at several
+    agencies. It's unclear if they are representing their agencies or DOGE in the communication
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.137.1_1.pdf
+  case_no: 1:25-cv-00381
+  interagency_doge_reps:
+    CFPB:
+    - Gavin Kliger
+    - Jeremy Lewin
+    - Chris Young
+    - Jordan Wick
+    HHS: Zach Terrell
+    Education: Alexandra Beynon
+  agency: CFPB
+  id: MXinRonY
+  case_info:
+    name: National Treasury Employees Union v. Russell Vought (D.D.C.)
+    description: National Treasury Employees Union, representing employees across 37 federal agencies and departments including
+      the Consumer Financial Protection Bureau ("CFPB"), challenged the Trump Administration's efforts to shut down the CFPB
+      and requested a temporary restraining order against the CFPB and Acting Director Russell Vought. A federal judge ordered
+      the Administration to stop deleting and removing records, terminating employees without cause, or disbursing funds except
+      for operating expenses, while the case proceeds.
+    case_no: 1:25-cv-00381
+    date_filed: 2025-02-09
+    link: https://www.courtlistener.com/docket/69624423/national-treasury-employees-union-v-vought/
+    agency: CFPB
+
+- date: 2025-04-12
+  type: official
+  event: Jeremy Lewin emails CFPB leadership asking for full global admininstrative access for Entra and HRConnect to be restored
+    for the DOGE engineers. Weirdly, this list includes Luke Farritor who offboarded on 2025-03-04. This request is denied
+    by the agency CIO.
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.137.1_1.pdf
+  case_no: 1:25-cv-00381
+  named:
+  - Gavin Kliger
+  - Jeremy Lewin
+  - Jordan Wick
+  agency: CFPB
+  id: YpiseeEG
+  case_info:
+    name: National Treasury Employees Union v. Russell Vought (D.D.C.)
+    description: National Treasury Employees Union, representing employees across 37 federal agencies and departments including
+      the Consumer Financial Protection Bureau ("CFPB"), challenged the Trump Administration's efforts to shut down the CFPB
+      and requested a temporary restraining order against the CFPB and Acting Director Russell Vought. A federal judge ordered
+      the Administration to stop deleting and removing records, terminating employees without cause, or disbursing funds except
+      for operating expenses, while the case proceeds.
+    case_no: 1:25-cv-00381
+    date_filed: 2025-02-09
+    link: https://www.courtlistener.com/docket/69624423/national-treasury-employees-union-v-vought/
+    agency: CFPB
+
+- date: 2025-04-12
+  type: interagency
   event: Gavin Kliger begins working with Adam Martinez of CFPB and Jeremy Lewin at USAID on the infrastructure for a massive
     RIF at the CFPB
   interagency_doge_reps:
@@ -9941,9 +10075,9 @@ events:
 
 - date: 2025-04-13
   type: report
-  event: In an email, CFPB CIO Chris Chilbert reports that Gavin Kliger has been granted access to several unnamed systems.
-    He also asks to confirm that Gavin Kliger should have his access revoked to systems that let him deactivate employee email
-    accounts or lock them out of their laptops
+  event: In an email, CFPB CIO Chris Chilbert reports that Gavin Kliger has been granted access to Ops HC - Prod to build
+    the RIF automation. He also asks to confirm that Gavin Kliger should have his access revoked to systems that let him deactivate
+    employee email accounts or lock them out of their laptops
   case_no: 1:25-cv-00381
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.128.4_1.pdf
   named:
@@ -10014,6 +10148,33 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.131.1.pdf
   agency: CFPB
   id: bUXEK8RF
+  case_info:
+    name: National Treasury Employees Union v. Russell Vought (D.D.C.)
+    description: National Treasury Employees Union, representing employees across 37 federal agencies and departments including
+      the Consumer Financial Protection Bureau ("CFPB"), challenged the Trump Administration's efforts to shut down the CFPB
+      and requested a temporary restraining order against the CFPB and Acting Director Russell Vought. A federal judge ordered
+      the Administration to stop deleting and removing records, terminating employees without cause, or disbursing funds except
+      for operating expenses, while the case proceeds.
+    case_no: 1:25-cv-00381
+    date_filed: 2025-02-09
+    link: https://www.courtlistener.com/docket/69624423/national-treasury-employees-union-v-vought/
+    agency: CFPB
+
+- date: 2025-04-13
+  type: interagency
+  event: Adam Martinez responds in the affirmative to an email (redacted in filings) requesting items/access for unspecified
+    people to conduct the RIF. Several DOGE staff are also cc'ed on the message
+  source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277287/gov.uscourts.dcd.277287.137.1_1.pdf
+  case_no: 1:25-cv-00381
+  interagency_doge_reps:
+    DOGE:
+    - Ashley Boizelle
+    - Steve Davis
+    CFPB:
+    - Gavin Kliger
+    - Jeremy Lewin
+  agency: CFPB
+  id: 7dbzTENK
   case_info:
     name: National Treasury Employees Union v. Russell Vought (D.D.C.)
     description: National Treasury Employees Union, representing employees across 37 federal agencies and departments including
@@ -10566,3 +10727,14 @@ events:
   source: https://www.rollingstone.com/politics/politics-features/trump-musk-doge-faa-nda-secret-project-lift-1235325667/
   agency: FAA
   id: kTuTZoGk
+
+- date: 2025-04-28
+  type: report
+  event: Two DOGE staffers reportedly had accounts for several weeks on systems and networks that handle classified material
+    about nuclear weapons
+  source: https://www.npr.org/2025/04/28/nx-s1-5378684/doge-energy-department-nuclear-secrets-access
+  named:
+  - Luke Farritor
+  - Adam Ramada
+  agency: Energy
+  id: 2ZH8rMfL

@@ -2,7 +2,7 @@
 meta:
   title: People
   version: 1.0.0
-  generated: 2025-04-27
+  generated: 2025-04-28
 
 people:
 
@@ -350,10 +350,18 @@ people:
       type: access_granted
       event: Sworn testimony from an executive project manager at Education states that Adam Ramada accessed the FMS system
         only on February 4th and he was the only DOGE person to access systems
+    - date: 2025-02-04~
+      agency: Energy
+      type: onboarded
+      event: In a report on the Dept of Energy, a spokesperson says DOGE staff were only granted access for a few days
     - date: 2025-02-05
       agency: Education
       type: access_revoked
       event: Adam Ramada does not access FMS again after February 4th
+    - date: 2025-02-08~
+      agency: Energy
+      type: report
+      event: According to Dept. of Energy spokesperson, DOGE staff departed the agency within a few days of arrival
     - date: 2025-02-13
       agency: Education
       type: report
@@ -373,6 +381,11 @@ people:
       type: report
       event: Three DOGE staffers visit the FDIC headquarters. Their arrival is later confirmed for staff with an email stating
         they have not been granted access to any sensitive bank information.
+    - date: 2025-04-28
+      agency: Energy
+      type: report
+      event: Two DOGE staffers reportedly had accounts for several weeks on systems and networks that handle classified material
+        about nuclear weapons
 
   Brooks Morgan:
     agencies:
@@ -498,6 +511,12 @@ people:
       type: report
       event: In a court declaration in AFL-CIO vs. DOL, counsel for the plaintiffs Alexa Milton provides the names of two
         DOGE staffers at HHS who were not provided in the government's list of staffers there
+    - date: 2025-04-12
+      agency: CFPB
+      type: official
+      event: Jeremy Lewin emails CFPB leadership asking for full global admininstrative access for Entra and HRConnect to
+        be restored for the DOGE engineers. Weirdly, this list includes Luke Farritor who offboarded on 2025-03-04. This request
+        is denied by the agency CIO.
     - date: 2025-04-15
       agency: State
       type: promotion
@@ -640,6 +659,16 @@ people:
       type: onboarded
       event: Tarak Makacha has reportedly shown up in the DOJ directory as an Advisor to the Office of the CIO. He reportedly
         has been there since the end of March
+    - date: 2025-04-03
+      agency: DOJ
+      type: disruption
+      event: Tarak Makecha begins demanding at 6:25pm the Acacia contracts must be terminated immediately despite it being
+        after business hours
+    - date: 2025-04-03
+      agency: DOJ
+      type: disruption
+      event: Tarak Makecha finds a DOJ Contracting Officer after hours at 7:25pm to send the termination despite concerns
+        it violates the terms of a court order to not provide 3 days notice
     - date: 2025-04-04
       agency: FCC
       type: report
@@ -839,6 +868,11 @@ people:
         other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal
         judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government
         spending. Amy Gleason did not appear.
+    - date: 2025-04-11
+      agency: Treasury
+      type: report
+      event: In a legal filing, the government describes the DOGE team at Treasury of consisting of six people, some previously
+        unknown
 
   Marko Elez:
     agencies:
@@ -1072,6 +1106,11 @@ people:
       event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge Boardman issues a preliminary injunction
         against DOGE access to internal systems at the Departoment of the Treasury where the justification for access was
         "the DOGE agenda" (i.e., all of them)
+    - date: 2025-04-11
+      agency: Treasury
+      type: report
+      event: In a legal filing, the government describes the DOGE team at Treasury of consisting of six people, some previously
+        unknown
     - date: 2025-04-12
       agency: Treasury
       type: legal
@@ -1316,6 +1355,10 @@ people:
       type: report
       event: Wired Magazine identifies several DOGE staffers with GSA email addresses and A-Suite Level clearances granting
         them access to all physical spaces and IT systems
+    - date: 2025-02-04~
+      agency: Energy
+      type: onboarded
+      event: In a report on the Dept of Energy, a spokesperson says DOGE staff were only granted access for a few days
     - date: 2025-02-05
       agency: Energy
       type: access_granted
@@ -1339,6 +1382,10 @@ people:
       agency: CFPB
       type: access_granted
       event: Nikhil Rajpal and Luke Farritor are granted full admin access to the Microsoft Entra system
+    - date: 2025-02-08~
+      agency: Energy
+      type: report
+      event: According to Dept. of Energy spokesperson, DOGE staff departed the agency within a few days of arrival
     - date: 2025-02-09
       agency: USAID
       type: disruption
@@ -1478,6 +1525,11 @@ people:
       event: Three DOGE staffers are now at the National Science Foundation reviewing grants. Luke Farritor has a "Budget,
         Finance, and Administration" clearance, which a source said allows him to view and modify the agency's funding opportunity
         system.
+    - date: 2025-04-28
+      agency: Energy
+      type: report
+      event: Two DOGE staffers reportedly had accounts for several weeks on systems and networks that handle classified material
+        about nuclear weapons
 
   Christopher Stanley:
     agencies:
@@ -1709,12 +1761,23 @@ people:
       type: report
       event: DOGE is reportedly planning to state a "hack-a-thon" in cooperation with Palantir to create a "mega API" to access
         IRS data
+    - date: 2025-04-11
+      agency: Treasury
+      type: report
+      event: In a legal filing, the government describes the DOGE team at Treasury of consisting of six people, some previously
+        unknown
+    - date: 2025-04-12
+      agency: CFPB
+      type: official
+      event: Jeremy Lewin emails CFPB leadership asking for full global admininstrative access for Entra and HRConnect to
+        be restored for the DOGE engineers. Weirdly, this list includes Luke Farritor who offboarded on 2025-03-04. This request
+        is denied by the agency CIO.
     - date: 2025-04-13
       agency: CFPB
       type: report
-      event: In an email, CFPB CIO Chris Chilbert reports that Gavin Kliger has been granted access to several unnamed systems.
-        He also asks to confirm that Gavin Kliger should have his access revoked to systems that let him deactivate employee
-        email accounts or lock them out of their laptops
+      event: In an email, CFPB CIO Chris Chilbert reports that Gavin Kliger has been granted access to Ops HC - Prod to build
+        the RIF automation. He also asks to confirm that Gavin Kliger should have his access revoked to systems that let him
+        deactivate employee email accounts or lock them out of their laptops
     - date: 2025-04-13
       agency: CFPB
       type: report
@@ -1800,6 +1863,12 @@ people:
       type: report
       event: Three DOGE staffers are listed in the public directory of FCC staff and listed as associated with the Office
         of the Chairman at the FCC
+    - date: 2025-04-12
+      agency: CFPB
+      type: official
+      event: Jeremy Lewin emails CFPB leadership asking for full global admininstrative access for Entra and HRConnect to
+        be restored for the DOGE engineers. Weirdly, this list includes Luke Farritor who offboarded on 2025-03-04. This request
+        is denied by the agency CIO.
 
   Aram Moghaddassi:
     agencies:
@@ -3070,6 +3139,11 @@ people:
       type: report
       event: The hackathon to create a "Mega API" at the IRS concludes. DOGE engineers are reportedly confidenct they will
         be able to deploy it in 30 days.
+    - date: 2025-04-11
+      agency: Treasury
+      type: report
+      event: In a legal filing, the government describes the DOGE team at Treasury of consisting of six people, some previously
+        unknown
 
   Michael Grimes:
     agencies:
@@ -3980,6 +4054,26 @@ people:
       type: report
       event: DOGE staff reportedly visit the Peace Corps, planning to work over the weeked to review records and access IT
         systems
+
+  Todd Newnam:
+    agencies:
+    - Department of the Treasury
+    events:
+    - date: 2025-04-11
+      agency: Treasury
+      type: report
+      event: In a legal filing, the government describes the DOGE team at Treasury of consisting of six people, some previously
+        unknown
+
+  Linda Whitridge:
+    agencies:
+    - Department of the Treasury
+    events:
+    - date: 2025-04-11
+      agency: Treasury
+      type: report
+      event: In a legal filing, the government describes the DOGE team at Treasury of consisting of six people, some previously
+        unknown
 
   Eliezer Mishory:
     agencies:

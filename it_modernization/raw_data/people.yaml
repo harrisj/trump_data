@@ -452,6 +452,10 @@
   age: 39
   background: executive
 
+- name: Todd Newnam
+  sort_name: Newnam
+  slug: todd-newnam
+
 - name: Noah Peters
   sort_name: Peters
   slug: noah-peters
@@ -606,6 +610,10 @@
   slug: jordan-wick
   age: 28
   background: coder
+
+- name: Linda Whitridge
+  slug: linda-whitridge
+  sort_name: Whitridge
 
 - name: Joanna Wischer
   slug: joanna-wischer
