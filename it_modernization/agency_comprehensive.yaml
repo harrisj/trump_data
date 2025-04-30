@@ -2088,6 +2088,18 @@ DOGE:
     - Joe Gebbia
     agency: DOGE
     id: FMk4mRYA
+  - date: 2025-04-20~
+    type: interagency
+    fuzz: Date is unspecified, just sometime earlier in April
+    event: In a meeting between HUD and DOGE, Jacob Altik says they are planning to use an AI model analyzing regulations at DOGE to review the Code of Federal regulations
+    source: https://www.wired.com/story/doge-college-student-ai-rewrite-regulations-deregulation/
+    interagency_doge_reps:
+      DOGE:
+      - Jacob Altik
+      HUD:
+      - Christopher Sweet
+    agency: HUD
+    id: Q4hkKRZT
   systems: {}
   cases:
     1:25-cv-00429:
@@ -4478,14 +4490,6 @@ GSA:
     id: fSuPuFSV
   - date: 2025-03-20
     type: report
-    event: During an all-hands meeting, GSA Administrator Stephen Ehikian claimed there is no DOGE team within GSA. Nobody believes him.
-    named:
-    - Stephen Ehikian
-    source: https://www.wired.com/story/elon-musk-doge-mystery-general-services-administration/
-    agency: GSA
-    id: AW4amVgu
-  - date: 2025-03-20
-    type: report
     event: Wired Magazine list DOGE staff stationed within GSA, all of whom were listed on GSA payroll on March 20
     comment: Coristine, Shaotran, Hollander, and Farritor are all listed as volunteer SGEs
     named:
@@ -5286,6 +5290,7 @@ HUD:
   - Scott Langmack
   - Michael Mirski
   - Ethan Shaotran
+  - Christopher Sweet
   events:
   - date: 2025-01-26
     type: report
@@ -5369,6 +5374,16 @@ HUD:
     source: https://bsky.app/profile/davelevitan.bsky.social/post/3llqvwtc5lq2v
     agency: HUD
     id: TiFFik6v
+  - date: 2025-04-10~
+    type: report
+    fuzz: Date is unspecified, just sometime earlier in April
+    event: Scott Langmack sends a message that "I'd like to share with you that Chris Sweet has joined the HUD DOGE team with the title of special assistant, although a better title might be 'AI computer programming quant analyst'"
+    source: https://www.wired.com/story/doge-college-student-ai-rewrite-regulations-deregulation/
+    named:
+    - Christopher Sweet
+    - Scott Langmack
+    agency: HUD
+    id: mBJqiHKW
   - date: 2025-04-15
     type: report
     event: Mike Mirski is reportedly leading a DOGE effort at HUD to identify and target households that include undocumented immigrants.
@@ -5377,6 +5392,27 @@ HUD:
     - Michael Mirski
     agency: HUD
     id: AsjWbK8C
+  - date: 2025-04-15~
+    type: report
+    fuzz: Date is unspecified, just sometime earlier in April
+    event: Christopher Sweet is reportedly using an AI model to analyze HUD regulations and suggest revisions. These are presented to HUD staff for review in a large spreadsheet.
+    source: https://www.wired.com/story/doge-college-student-ai-rewrite-regulations-deregulation/
+    named:
+    - Christopher Sweet
+    agency: HUD
+    id: 4jNjj3vF
+  - date: 2025-04-20~
+    type: interagency
+    fuzz: Date is unspecified, just sometime earlier in April
+    event: In a meeting between HUD and DOGE, Jacob Altik says they are planning to use an AI model analyzing regulations at DOGE to review the Code of Federal regulations
+    source: https://www.wired.com/story/doge-college-student-ai-rewrite-regulations-deregulation/
+    interagency_doge_reps:
+      DOGE:
+      - Jacob Altik
+      HUD:
+      - Christopher Sweet
+    agency: HUD
+    id: Q4hkKRZT
   systems:
     FASS-PH:
       name: Financial Assessment of Public Housing
@@ -7165,7 +7201,7 @@ SSA:
     source_title: American Federation of State, County and Municipal Employees, AFL-CIO v. Social Security Administration (D. Md.)
   - date: 2025-02-10
     type: report
-    event: Incoming SSA head directs for Mark Steffensen to beonboarded to SSA as an attorney, according to the testimony of a whistleblower
+    event: Incoming SSA head directs for Mark Steffensen to be onboarded to SSA as an attorney, according to the testimony of a whistleblower
     named:
     - Mark Steffensen
     source: https://www.finance.senate.gov/imo/media/doc/ssa_whistleblower_statement.pdf

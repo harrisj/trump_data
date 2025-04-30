@@ -1,65 +1,65 @@
-id,name,parent_id
-CDC,Centers for Disease Control and Prevention,HHS
-CMS,Centers for Medicare and Medicaid Services,HHS
-CIA,Central Intelligence Agency,
-Commerce,Commerce Department,
-CFPB,Consumer Financial Protection Bureau,
-Census,Census Bureau,Commerce
-CBP,Customs and Border Patrol,DHS
-CISA,Cybersecurity and Infrastructure Security Agency,DHS
-USDA,Department of Agriculture,
-DOD,Department of Defense,
-DOI,Department of the Interior,
-DOGE,Department of Government Efficiency,EOP
-DHS,Department of Homeland Security,
-DOJ,Department of Justice,
-Education,Department of Education,
-Energy,Department of Energy,
-DOL,Department of Labor,
-Treasury,Department of the Treasury,
-DOT,Department of Transformation,
-EPA,Environmental Protection Agency,
-EOP,Executive Office of the President,
-FAA,Federal Aviation Administration,DOT
-FBI,Federal Bureau of Investigation,DOJ
-FEMA,Federal Emergency Management Agency,DHS
-FHFA,Federal Housing Finance Agency,
-FCC,Federal Communications Commission,
-FDIC,Federal Deposit Insurance Commission,
-FTC,Federal Trade Commission,
-FDA,Food and Drug Administration,HHS
-GSA,General Services Administration,
-HHS,Health and Human Services,
-HUD,Housing and Urban Development,
-ICE,Immigration and Customs Enforcement,DHS
-IMLS,Institute for Museum and Library Services,
-IAF,Inter-American Foundation,
-IRS,Internal Revenue Service,Treasury
-MCC,Millennium Challenge Corporation,
-NASA,National Aeronautics and Space Administration,
-NARA,National Archives,
-NEH,National Endowment for the Humanities,
-NationalGallery,The National Gallery of Art,
-NLRB,National Labor Relations Board,
-NOAA,National Oceanic and Atmospheric Administration,Commerce
-NIH,National Institute of Health,HHS
-NIST,National Institute of Standards and Technology,
-NSF,National Science Foundation,
-NSA,National Security Agency,DOD
-ODNI,Office of the Director of National Intelligence,
-OPM,Office of Personnel Management,
-Peace,Peace Corps,
-SEC,Securities and Exchange Commission,
-SBA,Small Business Administration,
-Smithsonian,The Smithsonian Institution,
-SSA,Social Security Administration,
-State,State Department,
-TSA,Transportation Security Administration,DHS
-USADF,U.S. African Development Foundation,
-USAID,US Agency for International Development,
-USCIS,US Citizenship & Immigration Services,DHS
-USIP,US Institute of Peace,
-USDS,US Digital Service,EOP
-USPS,US Postal Service,
-VA,Veterans Administration,
-VOA,Voice of America,
+id,name,parent_id,doge_base
+CDC,Centers for Disease Control and Prevention,HHS,True
+CMS,Centers for Medicare and Medicaid Services,HHS,True
+CIA,Central Intelligence Agency,,
+Commerce,Commerce Department,,True
+CFPB,Consumer Financial Protection Bureau,,True
+Census,Census Bureau,Commerce,
+CBP,Customs and Border Patrol,DHS,True
+CISA,Cybersecurity and Infrastructure Security Agency,DHS,True
+USDA,Department of Agriculture,,True
+DOD,Department of Defense,,True
+DOI,Department of the Interior,,True
+DOGE,Department of Government Efficiency,EOP,True
+DHS,Department of Homeland Security,,True
+DOJ,Department of Justice,,True
+Education,Department of Education,,True
+Energy,Department of Energy,,True
+DOL,Department of Labor,,True
+Treasury,Department of the Treasury,,True
+DOT,Department of Transformation,,True
+EPA,Environmental Protection Agency,,True
+EOP,Executive Office of the President,,True
+FAA,Federal Aviation Administration,DOT,
+FBI,Federal Bureau of Investigation,DOJ,True
+FEMA,Federal Emergency Management Agency,DHS,True
+FHFA,Federal Housing Finance Agency,,
+FCC,Federal Communications Commission,,True
+FDIC,Federal Deposit Insurance Commission,,
+FTC,Federal Trade Commission,,True
+FDA,Food and Drug Administration,HHS,True
+GSA,General Services Administration,,True
+HHS,Health and Human Services,,True
+HUD,Housing and Urban Development,,True
+ICE,Immigration and Customs Enforcement,DHS,True
+IMLS,Institute for Museum and Library Services,,
+IAF,Inter-American Foundation,,
+IRS,Internal Revenue Service,Treasury,True
+MCC,Millennium Challenge Corporation,,
+NASA,National Aeronautics and Space Administration,,True
+NARA,National Archives,,
+NEH,National Endowment for the Humanities,,True
+NationalGallery,The National Gallery of Art,,
+NLRB,National Labor Relations Board,,
+NOAA,National Oceanic and Atmospheric Administration,Commerce,True
+NIH,National Institute of Health,HHS,True
+NIST,National Institute of Standards and Technology,,
+NSF,National Science Foundation,,
+NSA,National Security Agency,DOD,
+ODNI,Office of the Director of National Intelligence,,
+OPM,Office of Personnel Management,,True
+Peace,Peace Corps,,
+SEC,Securities and Exchange Commission,,
+SBA,Small Business Administration,,True
+Smithsonian,The Smithsonian Institution,,
+SSA,Social Security Administration,,True
+State,State Department,,True
+TSA,Transportation Security Administration,DHS,
+USADF,U.S. African Development Foundation,,
+USAID,US Agency for International Development,,
+USCIS,US Citizenship & Immigration Services,DHS,
+USIP,US Institute of Peace,,
+USDS,US Digital Service,EOP,True
+USPS,US Postal Service,,True
+VA,Veterans Administration,,True
+VOA,Voice of America,,

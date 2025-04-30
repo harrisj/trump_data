@@ -2,7 +2,7 @@
 meta:
   title: Events
   version: 1.0.0
-  generated: 2025-04-28
+  generated: 2025-04-30
 
 events:
 
@@ -2720,7 +2720,7 @@ events:
 
 - date: 2025-02-10
   type: report
-  event: Incoming SSA head directs for Mark Steffensen to beonboarded to SSA as an attorney, according to the testimony of
+  event: Incoming SSA head directs for Mark Steffensen to be onboarded to SSA as an attorney, according to the testimony of
     a whistleblower
   named:
   - Mark Steffensen
@@ -8248,16 +8248,6 @@ events:
 
 - date: 2025-03-20
   type: report
-  event: During an all-hands meeting, GSA Administrator Stephen Ehikian claimed there is no DOGE team within GSA. Nobody believes
-    him.
-  named:
-  - Stephen Ehikian
-  source: https://www.wired.com/story/elon-musk-doge-mystery-general-services-administration/
-  agency: GSA
-  id: AW4amVgu
-
-- date: 2025-03-20
-  type: report
   event: Wired Magazine list DOGE staff stationed within GSA, all of whom were listed on GSA payroll on March 20
   comment: Coristine, Shaotran, Hollander, and Farritor are all listed as volunteer SGEs
   named:
@@ -9861,6 +9851,18 @@ events:
   agency: SSA
   id: 73c95ZcV
 
+- date: 2025-04-10~
+  type: report
+  fuzz: Date is unspecified, just sometime earlier in April
+  event: Scott Langmack sends a message that "I'd like to share with you that Chris Sweet has joined the HUD DOGE team with
+    the title of special assistant, although a better title might be 'AI computer programming quant analyst'"
+  source: https://www.wired.com/story/doge-college-student-ai-rewrite-regulations-deregulation/
+  named:
+  - Christopher Sweet
+  - Scott Langmack
+  agency: HUD
+  id: mBJqiHKW
+
 - date: 2025-04-11
   type: disruption
   event: The Social Security Agency is reportedly shifting all its official communications exclusively to X
@@ -10293,6 +10295,17 @@ events:
   - SEC
   id: LP7ebs7r
 
+- date: 2025-04-15~
+  type: report
+  fuzz: Date is unspecified, just sometime earlier in April
+  event: Christopher Sweet is reportedly using an AI model to analyze HUD regulations and suggest revisions. These are presented
+    to HUD staff for review in a large spreadsheet.
+  source: https://www.wired.com/story/doge-college-student-ai-rewrite-regulations-deregulation/
+  named:
+  - Christopher Sweet
+  agency: HUD
+  id: 4jNjj3vF
+
 - date: 2025-04-16
   type: interagency
   event: Noah Peters at OPM denies the CFPB request for an "emergency" 30-day notice for a RIF at the CFPB
@@ -10664,6 +10677,20 @@ events:
   source: https://www.bloomberg.com/news/articles/2025-04-18/washington-dc-national-gallery-of-art-gets-a-visit-from-doge
   agency: NationalGallery
   id: fXhN7of8
+
+- date: 2025-04-20~
+  type: interagency
+  fuzz: Date is unspecified, just sometime earlier in April
+  event: In a meeting between HUD and DOGE, Jacob Altik says they are planning to use an AI model analyzing regulations at
+    DOGE to review the Code of Federal regulations
+  source: https://www.wired.com/story/doge-college-student-ai-rewrite-regulations-deregulation/
+  interagency_doge_reps:
+    DOGE:
+    - Jacob Altik
+    HUD:
+    - Christopher Sweet
+  agency: HUD
+  id: Q4hkKRZT
 
 - date: 2025-04-21
   type: report

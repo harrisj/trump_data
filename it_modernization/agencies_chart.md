@@ -164,6 +164,7 @@ gantt
     SECTION HUD
         Scott Langmack : 2025-02-10, 2025-05-04
         Michael Mirski : 2025-02-20, 2025-05-04
+        Christopher Sweet : 2025-04-10, 2025-05-04
     SECTION State
         Edward Coristine : 2025-02-10, 2025-05-04
         Luke Farritor : 2025-02-10, 2025-05-04

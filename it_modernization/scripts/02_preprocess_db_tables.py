@@ -29,6 +29,8 @@ out_en = [["event_id", "name"]]
 out_eal = [["event_id", "alias"]]
 out_es = [["event_id", "system_id"]]
 
+out_eia = [["event_id", "agency_id", "name"]]
+
 # These will then be used to help load joins in sqlite
 events = read_raw_data("events")
 for e in events:
@@ -51,6 +53,11 @@ for e in events:
             e.get("case_no", None),
         ]
     )
+
+    if e["type"] == "interagency" and "interagency_doge_reps" in e:
+        for agency_id, named in e["interagency_doge_reps"].items():
+            for name in as_list(named):
+                out_eia.append([e["id"], agency_id, name])
 
     for a_id in as_list(e["agency"]):
         out_ea.append([id, a_id])
@@ -107,7 +114,7 @@ for r in roundups:
 
 # -------------------------
 with open("./it_modernization/db/import/agencies.csv", "w", newline="") as csvfile:
-    fieldnames = ["id", "name", "parent_id"]
+    fieldnames = ["id", "name", "parent_id", "doge_base"]
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames, extrasaction="ignore")
 
     writer.writeheader()
@@ -137,6 +144,12 @@ with open(
 ) as csvfile:
     writer = csv.writer(csvfile)
     writer.writerows(out_ea)
+
+with open(
+    "./it_modernization/db/import/interagency_members.csv", "w", newline=""
+) as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerows(out_eia)
 
 with open("./it_modernization/db/import/events_names.csv", "w", newline="") as csvfile:
     writer = csv.writer(csvfile)

@@ -2,7 +2,7 @@
 meta:
   title: People
   version: 1.0.0
-  generated: 2025-04-28
+  generated: 2025-04-30
 
 people:
 
@@ -432,6 +432,11 @@ people:
       type: report
       event: There is reportedly a 6-person DOGE team working at HUD, with 4 of the staff being existing HUD employees and
         Michael Mirski and Scott Langmack from DOGE
+    - date: 2025-04-10~
+      agency: HUD
+      type: report
+      event: Scott Langmack sends a message that "I'd like to share with you that Chris Sweet has joined the HUD DOGE team
+        with the title of special assistant, although a better title might be 'AI computer programming quant analyst'"
 
   Jeremy Lewin:
     agencies:
@@ -3305,11 +3310,6 @@ people:
       agency: GSA
       type: report
       event: Stephen Ehikian claims there is nobody from DOGE working at the agency
-    - date: 2025-03-20
-      agency: GSA
-      type: report
-      event: During an all-hands meeting, GSA Administrator Stephen Ehikian claimed there is no DOGE team within GSA. Nobody
-        believes him.
     - date: 2025-04-08
       agency: GSA
       type: report
@@ -3822,7 +3822,7 @@ people:
     - date: 2025-02-10
       agency: SSA
       type: report
-      event: Incoming SSA head directs for Mark Steffensen to beonboarded to SSA as an attorney, according to the testimony
+      event: Incoming SSA head directs for Mark Steffensen to be onboarded to SSA as an attorney, according to the testimony
         of a whistleblower
     - date: 2025-02-25
       agency: SSA
@@ -4054,6 +4054,21 @@ people:
       type: report
       event: DOGE staff reportedly visit the Peace Corps, planning to work over the weeked to review records and access IT
         systems
+
+  Christopher Sweet:
+    agencies:
+    - Housing and Urban Development
+    events:
+    - date: 2025-04-10~
+      agency: HUD
+      type: report
+      event: Scott Langmack sends a message that "I'd like to share with you that Chris Sweet has joined the HUD DOGE team
+        with the title of special assistant, although a better title might be 'AI computer programming quant analyst'"
+    - date: 2025-04-15~
+      agency: HUD
+      type: report
+      event: Christopher Sweet is reportedly using an AI model to analyze HUD regulations and suggest revisions. These are
+        presented to HUD staff for review in a large spreadsheet.
 
   Todd Newnam:
     agencies:

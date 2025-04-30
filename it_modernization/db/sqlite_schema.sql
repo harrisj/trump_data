@@ -10,7 +10,8 @@ CREATE TABLE [court_case] (
 CREATE TABLE [agency] (
    [id] TEXT PRIMARY KEY NOT NULL,
    [name] TEXT NOT NULL,
-   [parent_id] TEXT
+   [parent_id] TEXT,
+   [doge_base] BOOLEAN
 );
 
 CREATE TABLE [alias] (
@@ -99,6 +100,15 @@ CREATE TABLE IF NOT EXISTS "event_temp" (
    [detail_id] TEXT REFERENCES [detail]([id]),
    [case_no] TEXT REFERENCES [court_case]([case_no])
 );
+
+CREATE TABLE IF NOT EXISTS "interagency_member" (
+   [event_id] TEXT REFERENCES [event](id) NOT NULL,
+   [agency_id] TEXT REFERENCES [agency]([id]) NOT NULL,
+   [name] TEXT REFERENCES [person]([name]) NOT NULL
+);
+
+CREATE UNIQUE INDEX IF NOT EXISTS "interagency_member_uniq_idx"
+ON [interagency_member] ([event_id], [agency_id], [name])
 
 CREATE TABLE IF NOT EXISTS "roundup_mention" (
    [name] TEXT REFERENCES [person]([name]) NOT NULL,

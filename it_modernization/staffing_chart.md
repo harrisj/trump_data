@@ -294,6 +294,8 @@ gantt
         DOJ : 2025-04-01, 2025-05-04
     section Mark Steffensen
         SSA : 2025-02-10, 2025-05-04
+    section Christopher Sweet
+        HUD : 2025-04-10, 2025-05-04
     section Zach Terrell
         CMS : 2025-03-06, 2025-05-04
         HHS : 2025-03-06, 2025-05-04
