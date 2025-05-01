@@ -2,7 +2,7 @@
 meta:
   title: People
   version: 1.0.0
-  generated: 2025-04-30
+  generated: 2025-05-01
 
 people:
 
@@ -30,11 +30,6 @@ people:
       agency: DOGE
       type: report
       event: A report from Business Insider names some of the DOGE staffers who were involved in transition activities
-    - date: 2025-01-30
-      agency: GSA
-      type: report
-      event: Elon Musk reportedly visits GSA to meet with staff, several of whom are identified from appearances in the internal
-        directory
     - date: 2025-01-31
       agency: GSA
       type: report
@@ -54,13 +49,6 @@ people:
       type: report
       event: The Intercept receives a list of 30 DOGE staffers working within the Executive Office of the President (EOP),
         including 4 lawyers previously not listed
-    - date: 2025-03-27
-      agency: DOGE
-      type: report
-      event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among
-        other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal
-        judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government
-        spending. Amy Gleason did not appear.
     - date: 2025-03-28
       agency: SSA
       type: report
@@ -93,13 +81,6 @@ people:
       agency: HHS
       type: onboarded
       event: Brad Smith is formally onboarded at HHS as a Senior Advisor and swears the oath of office
-    - date: 2025-03-27
-      agency: DOGE
-      type: report
-      event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among
-        other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal
-        judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government
-        spending. Amy Gleason did not appear.
     - date: 2025-03-31
       agency:
       - CMS
@@ -306,13 +287,6 @@ people:
       type: report
       event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials
         to FOIA communications for
-    - date: 2025-03-27
-      agency: DOGE
-      type: report
-      event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among
-        other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal
-        judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government
-        spending. Amy Gleason did not appear.
     - date: 2025-04-10
       agency: FDIC
       type: report
@@ -489,11 +463,11 @@ people:
       type: promotion
       event: Jeremy Lewin is appointed to the position of Deputy Administrator (Policy and Programming) and Kenneth Jackson
         is named Deputy Administrator (Management and Resources). He claims it was unrelated to the ruling by Chuang.
-    - date: 2025-03-19
-      agency: DOGE
-      type: report
-      event: In a sworn statement, Jeremy Lewin declares he has never been an employee of USDS or Elon Musk but reports he
-        was the DOGE team lead at USAID for a while
+    - date: 2025-03-18
+      agency: USAID
+      type: promotion
+      event: In a sworn statement, Jeremy Lewin declares he has never been an employee of USDS or Elon Musk. He reports he
+        has been the Deputy Administrator at USAID since March 18
     - date: 2025-03-19
       agency: USAID
       type: report
@@ -843,7 +817,6 @@ people:
 
   Tom Krause:
     agencies:
-    - Department of Government Efficiency
     - Department of the Treasury
     events:
     - date: 2025-01-08
@@ -866,13 +839,6 @@ people:
       event: Ruling in American Federation of Teachers et al v. Bessent et al, Judge Boardman issues a preliminary injunction
         against DOGE access to internal systems at the Departoment of the Treasury where the justification for access was
         "the DOGE agenda" (i.e., all of them)
-    - date: 2025-03-27
-      agency: DOGE
-      type: report
-      event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among
-        other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal
-        judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government
-        spending. Amy Gleason did not appear.
     - date: 2025-04-11
       agency: Treasury
       type: report
@@ -885,6 +851,7 @@ people:
     - Customs and Border Patrol
     - Department of Government Efficiency
     - Department of Homeland Security
+    - Department of Justice
     - Department of Labor
     - Department of the Treasury
     - Executive Office of the President
@@ -1094,6 +1061,11 @@ people:
       type: access_granted
       event: Wired reports that three DOGE staffers at DOL were granted access to the DOL's Reentry Employment Opportunities
         (REO) program, which provides aid to people re-entering society from incarceration
+    - date: 2025-04-21
+      agency: DOJ
+      type: access_granted
+      event: A team of roughly 6 DOGE staffers working at the Department of Justice are granted access to the ECAS system,
+        which records sensitive information about immigration cases
 
   Ryan Wunderly:
     agencies:
@@ -1340,11 +1312,6 @@ people:
       type: access_granted
       event: Luke Farritor is granted read-only access to the Integrated Contracts Expert (ICE) system at CDC by the Office
         of the CIO
-    - date: 2025-01-30
-      agency: GSA
-      type: report
-      event: Elon Musk reportedly visits GSA to meet with staff, several of whom are identified from appearances in the internal
-        directory
     - date: 2025-01-30
       agency: USAID
       type: disruption
@@ -1973,13 +1940,6 @@ people:
       type: access_granted
       event: Aram Moghaddassi and Marko Elez are granted access to the Unemployment Insurance Data and Related Records system
         at DOL by the Thomas Shedd as the DOL CIO
-    - date: 2025-03-27
-      agency: DOGE
-      type: report
-      event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among
-        other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal
-        judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government
-        spending. Amy Gleason did not appear.
     - date: 2025-03-28
       agency: USCIS
       type: report
@@ -2784,6 +2744,7 @@ people:
     agencies:
     - Department of Government Efficiency
     - Department of Homeland Security
+    - Department of Justice
     - Internal Revenue Service
     - Social Security Administration
     - Veterans Administration
@@ -2826,11 +2787,17 @@ people:
       type: onboarded
       event: Two DOGE staffers are detailed from the SSA to an immigration enforcement unit within the DOJ where they will
         be tasked with searching SSA databases for information on immigrants
+    - date: 2025-04-21
+      agency: DOJ
+      type: access_granted
+      event: A team of roughly 6 DOGE staffers working at the Department of Justice are granted access to the ECAS system,
+        which records sensitive information about immigration cases
 
   Payton Rehling:
     agencies:
     - Department of Government Efficiency
     - Department of Homeland Security
+    - Department of Justice
     - Internal Revenue Service
     - Social Security Administration
     - Transportation Security Administration
@@ -2904,6 +2871,11 @@ people:
       type: onboarded
       event: Two DOGE staffers are detailed from the SSA to an immigration enforcement unit within the DOJ where they will
         be tasked with searching SSA databases for information on immigrants
+    - date: 2025-04-21
+      agency: DOJ
+      type: access_granted
+      event: A team of roughly 6 DOGE staffers working at the Department of Justice are granted access to the ECAS system,
+        which records sensitive information about immigration cases
 
   Scott Coulter:
     agencies:
@@ -3041,11 +3013,6 @@ people:
       type: report
       event: A team of high-ranking GSA employees meets to discuss building special "resting rooms" for DOGE and other A-suite
         staff
-    - date: 2025-01-30
-      agency: GSA
-      type: report
-      event: Elon Musk reportedly visits GSA to meet with staff, several of whom are identified from appearances in the internal
-        directory
     - date: 2025-01-31
       agency: GSA
       type: report
@@ -3105,13 +3072,6 @@ people:
     - Department of Government Efficiency
     - Office of Personnel Management
     events:
-    - date: 2025-03-27
-      agency: DOGE
-      type: report
-      event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among
-        other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal
-        judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government
-        spending. Amy Gleason did not appear.
     - date: 2025-04-16
       agency: DOGE
       type: report
@@ -3190,11 +3150,6 @@ people:
       type: onboarded
       event: Thomas Shedd, a 28-year-old with 8 years of experience working for Tesla, is named the head of GSA's Technology
         Transformation Service (TTS), the parent of 18F, login.gov and FedRAMP among others.
-    - date: 2025-01-30
-      agency: GSA
-      type: report
-      event: Elon Musk reportedly visits GSA to meet with staff, several of whom are identified from appearances in the internal
-        directory
     - date: 2025-01-31
       agency: GSA
       type: report
@@ -3301,11 +3256,6 @@ people:
       type: onboarded
       event: Stephen Ehikian is sworn in as a Deputy Administrator of the real estate division and Acting Administrator of
         the GSA
-    - date: 2025-01-30
-      agency: GSA
-      type: report
-      event: Elon Musk reportedly visits GSA to meet with staff, several of whom are identified from appearances in the internal
-        directory
     - date: 2025-03-20
       agency: GSA
       type: report
@@ -3606,50 +3556,18 @@ people:
 
   Elon Musk:
     agencies:
-    - Central Intelligence Agency
     - Department of Defense
     - Department of Government Efficiency
-    - Department of Labor
-    - General Services Administration
-    - National Security Agency
     events:
     - date: 2024-12-06
       agency: DOGE
       type: report
       event: A report on the tech billionaires steering Trump's transition mentions Musk and other DOGE staff, and how they
         have been interviewing people at Mar-a-Lago
-    - date: 2025-01-30
-      agency: GSA
-      type: report
-      event: Elon Musk reportedly visits GSA to meet with staff, several of whom are identified from appearances in the internal
-        directory
-    - date: 2025-02-04
-      agency: DOL
-      type: report
-      event: One of AFGE's members who works in the headquarters of the Department received an instruction from Department
-        leadership that Elon Musk and his DOGE team would be accessing Department of Labor headquarters beginning around 4
-        p.m. on February 5, 2025. This member and other employees were told by Department leadership that when Mr. Musk and
-        his team visit, they are to do whatever they ask, not to push back, not to ask questions. They were told to provide
-        access to any DOL system they requested access to and not to worry about any security protocols; just do it.
-    - date: 2025-03-12
-      agency: NSA
-      type: report
-      event: Elon Musk visits the NSA to meet with its top administrator, General Timothy Haugh
     - date: 2025-03-21
       agency: DOD
       type: report
       event: Elon Musk arrives at the Pentagon for a meeting with leadership, reportedly to discuss DOGE
-    - date: 2025-03-27
-      agency: DOGE
-      type: report
-      event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among
-        other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal
-        judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government
-        spending. Amy Gleason did not appear.
-    - date: 2025-03-31
-      agency: CIA
-      type: report
-      event: Elon Musk visits the CIA at the invitation of its director, John Ratcliffe
 
   Joshua Fox:
     agencies:
@@ -4034,6 +3952,21 @@ people:
       agency: IMLS
       type: onboarded
       event: Keith Sonderling is sworn in as acting director of the IMLS
+
+  Adam Hoffman:
+    agencies:
+    - Department of Government Efficiency
+    - Department of Justice
+    events:
+    - date: 2025-03-19
+      agency: DOGE
+      type: report
+      event: DOGE has reportedly hired Adam Hoffman to work on national security related projects
+    - date: 2025-04-21
+      agency: DOJ
+      type: access_granted
+      event: A team of roughly 6 DOGE staffers working at the Department of Justice are granted access to the ECAS system,
+        which records sensitive information about immigration cases
 
   Gavin Hamrick:
     agencies:

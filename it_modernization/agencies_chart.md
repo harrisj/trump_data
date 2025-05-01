@@ -250,6 +250,10 @@ gantt
     SECTION DOJ
         Tarak Makecha : 2025-03-30, 2025-05-04
         Christopher Stanley : 2025-04-01, 2025-05-04
+        Adam Hoffman : 2025-04-21, 2025-05-04
+        Payton Rehling : 2025-04-21, 2025-05-04
+        Marko Elez : 2025-04-21, 2025-05-04
+        Jon Koval : 2025-04-21, 2025-05-04
     SECTION FCC
         Tarak Makecha : 2025-04-04, 2025-05-04
         Jordan Wick : 2025-04-04, 2025-05-04

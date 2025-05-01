@@ -1,6 +1,25 @@
+AmeriCorps:
+  name: AmeriCorps
+  id: AmeriCorps
+  slug: americorps
+  associated: []
+  events: []
+  systems: {}
+  cases:
+    1:25-cv-01363:
+      name: State of Maryland v. Corporation for National and Community Service (D.Md)
+      description: 25 states are suing the Trump Administration and DOGE about massive reductions in grants from the AmeriCorps program
+      case_no: 1:25-cv-01363
+      date_filed: 2025-04-30
+      link: https://www.courtlistener.com/docket/69978631/state-of-maryland-v-corporation-for-national-and-community-service/
+      agency:
+      - DOGE
+      - AmeriCorps
+
 CDC:
   name: Centers for Disease Control and Prevention
   id: CDC
+  slug: cdc
   parent_id: HHS
   doge_base: true
   associated:
@@ -126,6 +145,7 @@ CDC:
 CMS:
   name: Centers for Medicare and Medicaid Services
   id: CMS
+  slug: cms
   parent_id: HHS
   doge_base: true
   associated:
@@ -459,23 +479,16 @@ CMS:
 CIA:
   name: Central Intelligence Agency
   id: CIA
-  associated:
-  - Elon Musk
-  events:
-  - date: 2025-03-31
-    type: report
-    event: Elon Musk visits the CIA at the invitation of its director, John Ratcliffe
-    named:
-    - Elon Musk
-    source: https://www.washingtonpost.com/national-security/2025/03/31/elon-musk-cia-doge/
-    agency: CIA
-    id: EvqS5mPP
+  slug: cia
+  associated: []
+  events: []
   systems: {}
   cases: {}
 
 Commerce:
   name: Commerce Department
   id: Commerce
+  slug: commerce
   doge_base: true
   associated:
   - Michael Grimes
@@ -528,6 +541,7 @@ Commerce:
 CFPB:
   name: Consumer Financial Protection Bureau
   id: CFPB
+  slug: cfpb
   doge_base: true
   associated:
   - Luke Farritor
@@ -1048,6 +1062,7 @@ CFPB:
 Census:
   name: Census Bureau
   id: Census
+  slug: census
   parent_id: Commerce
   associated: []
   events: []
@@ -1057,6 +1072,7 @@ Census:
 CBP:
   name: Customs and Border Patrol
   id: CBP
+  slug: cpb
   parent_id: DHS
   doge_base: true
   associated:
@@ -1070,6 +1086,7 @@ CBP:
 CISA:
   name: Cybersecurity and Infrastructure Security Agency
   id: CISA
+  slug: cisa
   parent_id: DHS
   doge_base: true
   associated:
@@ -1120,6 +1137,7 @@ CISA:
 USDA:
   name: Department of Agriculture
   id: USDA
+  slug: usda
   doge_base: true
   associated:
   - Gavin Kliger
@@ -1174,6 +1192,7 @@ USDA:
 DOD:
   name: Department of Defense
   id: DOD
+  slug: defense
   doge_base: true
   associated:
   - Luke Farritor
@@ -1282,6 +1301,7 @@ DOD:
 DOI:
   name: Department of the Interior
   id: DOI
+  slug: interior
   doge_base: true
   associated:
   - Luke Farritor
@@ -1487,6 +1507,7 @@ DOI:
 DOGE:
   name: Department of Government Efficiency
   id: DOGE
+  slug: doge
   parent_id: EOP
   doge_base: true
   associated:
@@ -1517,6 +1538,7 @@ DOGE:
   - Antonio Gracias
   - Joshua Hanley
   - Vinay Hiremath
+  - Adam Hoffman
   - Stephanie Holmes
   - Anthony Jancso
   - Erica Jehling
@@ -1525,7 +1547,6 @@ DOGE:
   - Keenan Kmiec
   - Jon Koval
   - Michael Kratsios
-  - Tom Krause
   - Scott Kupor
   - Nicholas Lahera
   - Scott Langmack
@@ -1705,6 +1726,21 @@ DOGE:
     id: VdEHz47g
   - date: 2025-01-30
     type: interagency
+    event: Elon Musk reportedly visits GSA to meet with staff, several of whom are identified from appearances in the internal directory
+    source: https://www.nextgov.com/people/2025/01/musk-visits-and-asserts-growing-influence-gsa/402628/
+    interagency_doge_reps:
+      DOGE:
+      - Elon Musk
+      GSA:
+      - Steve Davis
+      - Nicole Hollander
+      - Thomas Shedd
+      - Stephen Ehikian
+      - Luke Farritor
+    agency: GSA
+    id: kSAAPBQJ
+  - date: 2025-01-30
+    type: interagency
     event: Leland Dudek reaches out to Tiffany Flick, the Associate Director of Budget, Facilities and Security to inform her two DOGE staff would be onboarding. He was a mid-level employee at the time.
     interagency_doge_reps:
       SSA:
@@ -1723,6 +1759,17 @@ DOGE:
     source: https://www.wired.com/story/elon-musk-government-young-engineers/
     agency: DOGE
     id: g9NjC2E3
+  - date: 2025-02-04
+    type: interagency
+    event: One of AFGE's members who works in the headquarters of the Department received an instruction from Department leadership that Elon Musk and his DOGE team would be accessing Department of Labor headquarters beginning around 4 p.m. on February 5, 2025. This member and other employees were told by Department leadership that when Mr. Musk and his team visit, they are to do whatever they ask, not to push back, not to ask questions. They were told to provide access to any DOL system they requested access to and not to worry about any security protocols; just do it.
+    interagency_doge_reps:
+      DOGE:
+      - Elon Musk
+    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.29.8_1.pdf
+    case_no: 1:25-cv-00339
+    agency: DOL
+    id: NseepQVk
+    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-05
     type: report
     case_no: 1:25-cv-00339
@@ -1915,6 +1962,15 @@ DOGE:
     agency: DOGE
     id: Vfm7HbS4
     source_title: New Mexico et al v. Musk (D.D.C.)
+  - date: 2025-03-12
+    type: interagency
+    event: Elon Musk visits the NSA to meet with its top administrator, General Timothy Haugh
+    interagency_doge_reps:
+      DOGE:
+      - Elon Musk
+    source: https://www.wsj.com/politics/national-security/elon-musk-made-secret-visit-to-u-s-spy-agency-9b0b64e2?mod=hp_lead_pos5
+    agency: NSA
+    id: QZojvztE
   - date: 2025-03-18
     type: official
     event: In an unsigned email response to the Intercept Media, DOGE claims it is within the Executive Office of the President and not subject to FOIA
@@ -1943,14 +1999,12 @@ DOGE:
     source_title: Citizens For Responsibility and Ethics in Washington (CREW) vs. DOGE Service (D.D.C.)
   - date: 2025-03-19
     type: report
-    case_no: 8:25-cv-00462
-    event: In a sworn statement, Jeremy Lewin declares he has never been an employee of USDS or Elon Musk but reports he was the DOGE team lead at USAID for a while
+    event: DOGE has reportedly hired Adam Hoffman to work on national security related projects
+    source: https://news.bgov.com/bloomberg-government-news/musks-doge-hires-ken-griffin-staffer-for-national-security-work
     named:
-    - Jeremy Lewin
-    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576293/gov.uscourts.mdd.576293.77.2.pdf
+    - Adam Hoffman
     agency: DOGE
-    id: bPH63xJM
-    source_title: J. Doe 1-26 v. Musk (D. Md)
+    id: mZDXKZv5
   - date: 2025-03-20
     type: legal
     case_no: 1:25-cv-00511
@@ -2013,20 +2067,6 @@ DOGE:
     agency: DOGE
     id: PWv6ybwS
     source_title: Citizens For Responsibility and Ethics in Washington (CREW) vs. DOGE Service (D.D.C.)
-  - date: 2025-03-27
-    type: report
-    event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government spending. Amy Gleason did not appear.
-    named:
-    - Elon Musk
-    - Joe Gebbia
-    - Tom Krause
-    - Steve Davis
-    - Anthony Armstrong
-    - Aram Moghaddassi
-    - Brad Smith
-    source: https://www.nbcnews.com/politics/doge/elon-musks-doge-tries-put-new-faces-reclusive-federal-office-rcna198491
-    agency: DOGE
-    id: bUjbhfkE
   - date: 2025-03-28
     type: interagency
     event: Multiple DOGE staff appear in an interview on Fox News with Brett Baier
@@ -2054,6 +2094,15 @@ DOGE:
     - Treasury
     - DOI
     id: jqgpzyra
+  - date: 2025-03-31
+    type: interagency
+    event: Elon Musk visits the CIA at the invitation of its director, John Ratcliffe
+    interagency_doge_reps:
+      DOGE:
+      - Elon Musk
+    source: https://www.washingtonpost.com/national-security/2025/03/31/elon-musk-cia-doge/
+    agency: CIA
+    id: EvqS5mPP
   - date: 2025-04-07
     type: legal
     case_no: 1:25-cv-00339
@@ -2225,10 +2274,20 @@ DOGE:
       agency:
       - DOGE
       - EOP
+    1:25-cv-01363:
+      name: State of Maryland v. Corporation for National and Community Service (D.Md)
+      description: 25 states are suing the Trump Administration and DOGE about massive reductions in grants from the AmeriCorps program
+      case_no: 1:25-cv-01363
+      date_filed: 2025-04-30
+      link: https://www.courtlistener.com/docket/69978631/state-of-maryland-v-corporation-for-national-and-community-service/
+      agency:
+      - DOGE
+      - AmeriCorps
 
 DHS:
   name: Department of Homeland Security
   id: DHS
+  slug: dhs
   doge_base: true
   associated:
   - James Burnham
@@ -2330,9 +2389,14 @@ DHS:
 DOJ:
   name: Department of Justice
   id: DOJ
+  slug: doj
   doge_base: true
   associated:
+  - Marko Elez
+  - Adam Hoffman
+  - Jon Koval
   - Tarak Makecha
+  - Payton Rehling
   - Christopher Stanley
   events:
   - date: 2025-03-12
@@ -2390,6 +2454,20 @@ DOJ:
     source: https://www.lawfaremedia.org/article/on-doge--directives--and-doj
     agency: DOJ
     id: eB4QfKtt
+  - date: 2025-04-21
+    type: access_granted
+    access_type: unknown
+    access_systems:
+    - ECAS
+    source: https://www.washingtonpost.com/immigration/2025/04/21/doge-ecas-justice-immigration-courts-trump/
+    event: A team of roughly 6 DOGE staffers working at the Department of Justice are granted access to the ECAS system, which records sensitive information about immigration cases
+    named:
+    - Adam Hoffman
+    - Payton Rehling
+    - Marko Elez
+    - Jon Koval
+    agency: DOJ
+    id: 5CAR5KCo
   systems:
     ECAS:
       name: Executive Office for Immigration Review's Court and Appeals System
@@ -2405,6 +2483,7 @@ DOJ:
 Education:
   name: Department of Education
   id: Education
+  slug: education
   doge_base: true
   associated:
   - Jennifer Balajadia
@@ -2829,6 +2908,7 @@ Education:
 Energy:
   name: Department of Energy
   id: Energy
+  slug: energy
   doge_base: true
   associated:
   - Luke Farritor
@@ -2937,6 +3017,7 @@ Energy:
 DOL:
   name: Department of Labor
   id: DOL
+  slug: labor
   doge_base: true
   associated:
   - Sam Beyda
@@ -2945,7 +3026,6 @@ DOL:
   - Derek Geissler
   - Cole Killian
   - Aram Moghaddassi
-  - Elon Musk
   - Adam Ramada
   - Thomas Shedd
   - Keith Sonderling
@@ -2969,16 +3049,6 @@ DOL:
     - SSA
     - VA
     id: o2TMNF83
-  - date: 2025-02-04
-    type: report
-    event: One of AFGE's members who works in the headquarters of the Department received an instruction from Department leadership that Elon Musk and his DOGE team would be accessing Department of Labor headquarters beginning around 4 p.m. on February 5, 2025. This member and other employees were told by Department leadership that when Mr. Musk and his team visit, they are to do whatever they ask, not to push back, not to ask questions. They were told to provide access to any DOL system they requested access to and not to worry about any security protocols; just do it.
-    named:
-    - Elon Musk
-    source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.29.8_1.pdf
-    case_no: 1:25-cv-00339
-    agency: DOL
-    id: NseepQVk
-    source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
   - date: 2025-02-05
     type: report
     event: DOGE staff are given access to the Department of Labor IT systems
@@ -3325,6 +3395,7 @@ DOL:
 Treasury:
   name: Department of the Treasury
   id: Treasury
+  slug: treasury
   doge_base: true
   associated:
   - Baris Akis
@@ -3802,6 +3873,7 @@ Treasury:
 DOT:
   name: Department of Transformation
   id: DOT
+  slug: dot
   doge_base: true
   associated:
   - Daniel Abrahamson
@@ -3818,6 +3890,7 @@ DOT:
 EPA:
   name: Environmental Protection Agency
   id: EPA
+  slug: epa
   doge_base: true
   associated:
   - Erica Jehling
@@ -3895,6 +3968,7 @@ EPA:
 EOP:
   name: Executive Office of the President
   id: EOP
+  slug: white-house
   doge_base: true
   associated:
   - Justin Aimonetti
@@ -3934,6 +4008,7 @@ EOP:
 FAA:
   name: Federal Aviation Administration
   id: FAA
+  slug: faa
   parent_id: DOT
   associated:
   - Brady Glantz
@@ -3999,6 +4074,7 @@ FAA:
 FBI:
   name: Federal Bureau of Investigation
   id: FBI
+  slug: fbi
   parent_id: DOJ
   doge_base: true
   associated:
@@ -4029,6 +4105,7 @@ FBI:
 FEMA:
   name: Federal Emergency Management Agency
   id: FEMA
+  slug: fema
   parent_id: DHS
   doge_base: true
   associated:
@@ -4090,6 +4167,7 @@ FEMA:
 FHFA:
   name: Federal Housing Finance Agency
   id: FHFA
+  slug: fhfa
   associated:
   - Michael Mirski
   - Christopher Stanley
@@ -4117,6 +4195,7 @@ FHFA:
 FCC:
   name: Federal Communications Commission
   id: FCC
+  slug: fcc
   doge_base: true
   associated:
   - Jacob Altik
@@ -4139,6 +4218,7 @@ FCC:
 FDIC:
   name: Federal Deposit Insurance Commission
   id: FDIC
+  slug: fdic
   associated:
   - Anthony Armstrong
   - Brooks Morgan
@@ -4160,6 +4240,7 @@ FDIC:
 FTC:
   name: Federal Trade Commission
   id: FTC
+  slug: ftc
   doge_base: true
   associated:
   - Emily Bryant
@@ -4180,6 +4261,7 @@ FTC:
 FDA:
   name: Food and Drug Administration
   id: FDA
+  slug: fda
   parent_id: HHS
   doge_base: true
   associated: []
@@ -4225,6 +4307,7 @@ FDA:
 GSA:
   name: General Services Administration
   id: GSA
+  slug: gsa
   doge_base: true
   associated:
   - Justin Aimonetti
@@ -4245,7 +4328,6 @@ GSA:
   - Cole Killian
   - Jeremy Lewin
   - Dave Malcher
-  - Elon Musk
   - Adam Ramada
   - Frank Schuler
   - Kyle Schutt
@@ -4315,16 +4397,18 @@ GSA:
     agency: GSA
     id: 54gGXtvR
   - date: 2025-01-30
-    type: report
+    type: interagency
     event: Elon Musk reportedly visits GSA to meet with staff, several of whom are identified from appearances in the internal directory
     source: https://www.nextgov.com/people/2025/01/musk-visits-and-asserts-growing-influence-gsa/402628/
-    named:
-    - Elon Musk
-    - Steve Davis
-    - Nicole Hollander
-    - Thomas Shedd
-    - Stephen Ehikian
-    - Luke Farritor
+    interagency_doge_reps:
+      DOGE:
+      - Elon Musk
+      GSA:
+      - Steve Davis
+      - Nicole Hollander
+      - Thomas Shedd
+      - Stephen Ehikian
+      - Luke Farritor
     agency: GSA
     id: kSAAPBQJ
   - date: 2025-01-31
@@ -4580,6 +4664,7 @@ GSA:
 HHS:
   name: Health and Human Services
   id: HHS
+  slug: hhs
   doge_base: true
   associated:
   - Edward Coristine
@@ -5285,6 +5370,7 @@ HHS:
 HUD:
   name: Housing and Urban Development
   id: HUD
+  slug: hud
   doge_base: true
   associated:
   - Scott Langmack
@@ -5477,6 +5563,7 @@ ICE:
   name: Immigration and Customs Enforcement
   id: ICE
   parent_id: DHS
+  slug: ice
   doge_base: true
   associated:
   - Marko Elez
@@ -5490,6 +5577,7 @@ ICE:
 IMLS:
   name: Institute for Museum and Library Services
   id: IMLS
+  slug: imls
   associated:
   - Nate Cavanaugh
   - Gavin Hamrick
@@ -5545,6 +5633,7 @@ IMLS:
 IAF:
   name: Inter-American Foundation
   id: IAF
+  slug: iaf
   associated:
   - Jacob Altik
   - Nate Cavanaugh
@@ -5618,6 +5707,7 @@ IAF:
 IRS:
   name: Internal Revenue Service
   id: IRS
+  slug: irs
   parent_id: Treasury
   doge_base: true
   associated:
@@ -5809,6 +5899,7 @@ IRS:
 MCC:
   name: Millennium Challenge Corporation
   id: MCC
+  slug: mcc
   associated: []
   events:
   - date: 2025-04-22
@@ -5823,6 +5914,7 @@ MCC:
 NASA:
   name: National Aeronautics and Space Administration
   id: NASA
+  slug: nasa
   doge_base: true
   associated:
   - Scott Coulter
@@ -5867,6 +5959,7 @@ NASA:
 NARA:
   name: National Archives
   id: NARA
+  slug: nara
   associated: []
   events: []
   systems: {}
@@ -5875,6 +5968,7 @@ NARA:
 NEH:
   name: National Endowment for the Humanities
   id: NEH
+  slug: neh
   doge_base: true
   associated:
   - Nate Cavanaugh
@@ -5897,6 +5991,7 @@ NEH:
 NationalGallery:
   name: The National Gallery of Art
   id: NationalGallery
+  slug: national-gallery-art
   associated: []
   events:
   - date: 2025-04-18
@@ -5911,6 +6006,7 @@ NationalGallery:
 NLRB:
   name: National Labor Relations Board
   id: NLRB
+  slug: nlrb
   associated:
   - Jordan Wick
   events:
@@ -6056,6 +6152,7 @@ NLRB:
 NOAA:
   name: National Oceanic and Atmospheric Administration
   id: NOAA
+  slug: noaa
   parent_id: Commerce
   doge_base: true
   associated:
@@ -6103,6 +6200,7 @@ NOAA:
 NIH:
   name: National Institute of Health
   id: NIH
+  slug: nih
   parent_id: HHS
   doge_base: true
   associated:
@@ -6262,6 +6360,7 @@ NIH:
 
 NIST:
   name: National Institute of Standards and Technology
+  slug: nih
   id: NIST
   associated: []
   events:
@@ -6283,6 +6382,7 @@ NIST:
 NSF:
   name: National Science Foundation
   id: NSF
+  slug: nsf
   associated:
   - Luke Farritor
   - Rachel Riley
@@ -6315,18 +6415,10 @@ NSF:
 NSA:
   name: National Security Agency
   id: NSA
+  slug: nsa
   parent_id: DOD
-  associated:
-  - Elon Musk
+  associated: []
   events:
-  - date: 2025-03-12
-    type: report
-    event: Elon Musk visits the NSA to meet with its top administrator, General Timothy Haugh
-    named:
-    - Elon Musk
-    source: https://www.wsj.com/politics/national-security/elon-musk-made-secret-visit-to-u-s-spy-agency-9b0b64e2?mod=hp_lead_pos5
-    agency: NSA
-    id: QZojvztE
   - date: 2025-04-02
     type: disruption
     event: The head and deputy leader of the NSA are both relieved of their command
@@ -6339,6 +6431,7 @@ NSA:
 ODNI:
   name: Office of the Director of National Intelligence
   id: ODNI
+  slug: odni
   associated: []
   events:
   - date: 2025-04-08
@@ -6353,6 +6446,7 @@ ODNI:
 OPM:
   name: Office of Personnel Management
   id: OPM
+  slug: opm
   doge_base: true
   associated:
   - Baris Akis
@@ -7001,6 +7095,7 @@ OPM:
 Peace:
   name: Peace Corps
   id: Peace
+  slug: peace-corps
   associated:
   - Bridget Youngs
   events:
@@ -7012,12 +7107,19 @@ Peace:
     source: https://www.theguardian.com/us-news/2025/apr/04/elon-musk-doge-peace-corps
     agency: Peace
     id: RmvrV2dc
+  - date: 2025-04-28
+    type: disruption
+    event: The head of a Peace Corps alumni group reports he had been told the agency is expecting large cuts in US staffing ordered by DOGE
+    source: https://www.nytimes.com/2025/04/28/us/politics/peace-corps-cuts-doge.html
+    agency: Peace
+    id: as2btrZU
   systems: {}
   cases: {}
 
 SEC:
   name: Securities and Exchange Commission
   id: SEC
+  slug: sec
   associated:
   - Eliezer Mishory
   events:
@@ -7042,6 +7144,7 @@ SEC:
 SBA:
   name: Small Business Administration
   id: SBA
+  slug: sba
   doge_base: true
   associated:
   - Edward Coristine
@@ -7082,6 +7185,7 @@ SBA:
 Smithsonian:
   name: The Smithsonian Institution
   id: Smithsonian
+  slug: smithsonian
   associated: []
   events: []
   systems: {}
@@ -7090,6 +7194,7 @@ Smithsonian:
 SSA:
   name: Social Security Administration
   id: SSA
+  slug: ssa
   doge_base: true
   associated:
   - Jacob Altik
@@ -8052,6 +8157,7 @@ SSA:
 State:
   name: State Department
   id: State
+  slug: state
   doge_base: true
   associated:
   - Edward Coristine
@@ -8092,6 +8198,7 @@ State:
 TSA:
   name: Transportation Security Administration
   id: TSA
+  slug: tsa
   parent_id: DHS
   associated:
   - Edward Coristine
@@ -8108,6 +8215,7 @@ TSA:
 USADF:
   name: U.S. African Development Foundation
   id: USADF
+  slug: usadf
   associated:
   - Justin Aimonetti
   - Jacob Altik
@@ -8297,6 +8405,7 @@ USADF:
 USAID:
   name: US Agency for International Development
   id: USAID
+  slug: usaid
   associated:
   - Edward Coristine
   - Luke Farritor
@@ -8440,6 +8549,16 @@ USAID:
     source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576293/gov.uscourts.mdd.576293.77.2.pdf
     agency: USAID
     id: Uq2ACTxD
+  - date: 2025-03-18
+    type: promotion
+    case_no: 8:25-cv-00462
+    event: In a sworn statement, Jeremy Lewin declares he has never been an employee of USDS or Elon Musk. He reports he has been the Deputy Administrator at USAID since March 18
+    named:
+    - Jeremy Lewin
+    source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576293/gov.uscourts.mdd.576293.77.2.pdf
+    agency: USAID
+    id: bPH63xJM
+    source_title: J. Doe 1-26 v. Musk (D. Md)
   - date: 2025-03-19
     type: report
     event: Peter Marocco says that he will be succeeded at the agency by Jeremy Lewin and Kenneth Jackson
@@ -8511,6 +8630,7 @@ USAID:
 USCIS:
   name: US Citizenship & Immigration Services
   id: USCIS
+  slug: uscis
   parent_id: DHS
   associated:
   - Edward Coristine
@@ -8609,6 +8729,7 @@ USCIS:
 USIP:
   name: US Institute of Peace
   id: USIP
+  slug: usip
   associated:
   - Justin Aimonetti
   - Jacob Altik
@@ -8840,6 +8961,7 @@ USIP:
 USDS:
   name: US Digital Service
   id: USDS
+  slug: usds
   parent_id: EOP
   doge_base: true
   associated:
@@ -8856,6 +8978,7 @@ USDS:
 USPS:
   name: US Postal Service
   id: USPS
+  slug: usps
   doge_base: true
   associated:
   - Ethan Shaotran
@@ -8901,6 +9024,7 @@ USPS:
 VA:
   name: Veterans Administration
   id: VA
+  slug: va
   doge_base: true
   associated:
   - Justin Fulcher
@@ -8974,6 +9098,7 @@ VA:
 VOA:
   name: Voice of America
   id: VOA
+  slug: VOA
   associated:
   - Gavin Kliger
   events: []

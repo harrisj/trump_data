@@ -1,250 +1,318 @@
 # yaml-language-server: $schema=../schemas/agencies-file.json
+- name: AmeriCorps
+  id: AmeriCorps
+  slug: americorps
+
 - name: Centers for Disease Control and Prevention
   id: CDC
+  slug: cdc
   parent_id: HHS
   doge_base: true
 
 - name: Centers for Medicare and Medicaid Services
   id: CMS
+  slug: cms
   parent_id: HHS
   doge_base: true
 
 - name: Central Intelligence Agency
   id: CIA
+  slug: cia
 
 - name: Commerce Department
   id: Commerce
+  slug: commerce
   doge_base: true
 
 - name: Consumer Financial Protection Bureau
   id: CFPB
+  slug: cfpb
   doge_base: true
 
 - name: Census Bureau
   id: Census
+  slug: census
   parent_id: Commerce
 
 - name: Customs and Border Patrol
   id: CBP
+  slug: cpb
   parent_id: DHS
   doge_base: true
 
 - name: Cybersecurity and Infrastructure Security Agency
   id: CISA
+  slug: cisa
   parent_id: DHS
   doge_base: true
 
 - name: Department of Agriculture
   id: USDA
+  slug: usda
   doge_base: true
 
 - name: Department of Defense
   id: DOD
+  slug: defense
   doge_base: true
 
 - name: Department of the Interior
   id: DOI
+  slug: interior
   doge_base: true
 
 - name: Department of Government Efficiency
   id: DOGE
+  slug: doge
   parent_id: EOP
   doge_base: true
 
 - name: Department of Homeland Security
   id: DHS
+  slug: dhs
   doge_base: true
 
 - name: Department of Justice
   id: DOJ
+  slug: doj
   doge_base: true
 
 - name: Department of Education
   id: Education
+  slug: education
   doge_base: true
 
 - name: Department of Energy
   id: Energy
+  slug: energy
   doge_base: true
 
 - name: Department of Labor
   id: DOL
+  slug: labor
   doge_base: true
 
 - name: Department of the Treasury
   id: Treasury
+  slug: treasury
   doge_base: true
 
 - name: Department of Transformation
   id: DOT
+  slug: dot
   doge_base: true
 
 - name: Environmental Protection Agency
   id: EPA
+  slug: epa
   doge_base: true
 
 - name: Executive Office of the President
   id: EOP
+  slug: white-house
   doge_base: true
 
 - name: Federal Aviation Administration
   id: FAA
+  slug: faa
   parent_id: DOT
 
 - name: Federal Bureau of Investigation
   id: FBI
+  slug: fbi
   parent_id: DOJ
   doge_base: true
 
 - name: Federal Emergency Management Agency
   id: FEMA
+  slug: fema
   parent_id: DHS
   doge_base: true
 
 - name: Federal Housing Finance Agency
   id: FHFA
+  slug: fhfa
 
 - name: Federal Communications Commission
   id: FCC
+  slug: fcc
   doge_base: true
 
 - name: Federal Deposit Insurance Commission
   id: FDIC
+  slug: fdic
 
 - name: Federal Trade Commission
   id: FTC
+  slug: ftc
   doge_base: true
 
 - name: Food and Drug Administration
   id: FDA
+  slug: fda
   parent_id: HHS
   doge_base: true
 
 - name: General Services Administration
   id: GSA
+  slug: gsa
   doge_base: true
 
 - name: Health and Human Services
   id: HHS
+  slug: hhs
   doge_base: true
 
 - name: Housing and Urban Development
   id: HUD
+  slug: hud
   doge_base: true
 
 - name: Immigration and Customs Enforcement
   id: ICE
   parent_id: DHS
+  slug: ice
   doge_base: true
 
 - name: Institute for Museum and Library Services
   id: IMLS
+  slug: imls
 
 - name: Inter-American Foundation
   id: IAF
+  slug: iaf
 
 - name: Internal Revenue Service
   id: IRS
+  slug: irs
   parent_id: Treasury
   doge_base: true
 
 - name: Millennium Challenge Corporation
   id: MCC
+  slug: mcc
 
 - name: National Aeronautics and Space Administration
   id: NASA
+  slug: nasa
   doge_base: true
 
 - name: National Archives
   id: NARA
+  slug: nara
 
 - name: National Endowment for the Humanities
   id: NEH
+  slug: neh
   doge_base: true
 
 - name: The National Gallery of Art
   id: NationalGallery
+  slug: national-gallery-art
 
 - name: National Labor Relations Board
   id: NLRB
+  slug: nlrb
 
 - name: National Oceanic and Atmospheric Administration
   id: NOAA
+  slug: noaa
   parent_id: Commerce
   doge_base: true
 
 - name: National Institute of Health
   id: NIH
+  slug: nih
   parent_id: HHS
   doge_base: true
 
 - name: National Institute of Standards and Technology
+  slug: nih
   id: NIST
 
 - name: National Science Foundation
   id: NSF
+  slug: nsf
 
 - name: National Security Agency
   id: NSA
+  slug: nsa
   parent_id: DOD
 
 - name: Office of the Director of National Intelligence
   id: ODNI
+  slug: odni
 
 - name: Office of Personnel Management
   id: OPM
+  slug: opm
   doge_base: true
 
 - name: Peace Corps
   id: Peace
+  slug: peace-corps
 
 - name: Securities and Exchange Commission
   id: SEC
+  slug: sec
 
 - name: Small Business Administration
   id: SBA
+  slug: sba
   doge_base: true
 
 - name: The Smithsonian Institution
   id: Smithsonian
+  slug: smithsonian
 
 - name: Social Security Administration
   id: SSA
+  slug: ssa
   doge_base: true
 
 - name: State Department
   id: State
+  slug: state
   doge_base: true
 
 - name: Transportation Security Administration
   id: TSA
+  slug: tsa
   parent_id: DHS
 
 - name: U.S. African Development Foundation
   id: USADF
+  slug: usadf
 
 - name: US Agency for International Development
   id: USAID
+  slug: usaid
 
 - name: US Citizenship & Immigration Services
   id: USCIS
+  slug: uscis
   parent_id: DHS
 
 - name: US Institute of Peace
   id: USIP
+  slug: usip
 
 - name: US Digital Service
   id: USDS
+  slug: usds
   parent_id: EOP
   doge_base: true
 
 - name: US Postal Service
   id: USPS
+  slug: usps
   doge_base: true
 
 - name: Veterans Administration
   id: VA
+  slug: va
   doge_base: true
 
 - name: Voice of America
   id: VOA
+  slug: VOA

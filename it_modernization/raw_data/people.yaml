@@ -3,639 +3,759 @@
   sort_name: Musk
   slug: elon-musk
   background: executive
+  category: leadership
 
 - name: Amy Gleason
   sort_name: Gleason
   slug: amy-gleason
   age: 53
   background: coder
+  category: leadership
 
 - name: Daniel Abrahamson
   sort_name: Abrahamson
   slug: daniel-abrahamson
   background: lawyer
   age: 41
+  category: support
 
 - name: Baris Akis
   slug: baris-akis
   sort_name: Akis
   background: finance
+  category: booster
 
 - name: Justin Aimonetti
   sort_name: Aimonetti
   slug: justin-aimonetti
   age: 31
   background: lawyer
+  category: support
 
 - name: Jacob Altik
   sort_name: Altik
   slug: jacob-altik
   age: 32
   background: lawyer
+  category: wrecker
 
 - name: Marc Andreessen
   sort_name: Andreessen
   slug: mark-andreesen
   background: executive
+  category: booster
 
 - name: Anthony Armstrong
   sort_name: Armstrong
   slug: anthony-armstrong
   age: 57
   background: finance
+  category: leadership
 
 - name: Jennifer Balajadia
   sort_name: Balajadia
   slug: jennifer-balajadia
   age: 36
   background: executive
+  category: leadership
 
 - name: Sam Beyda
   sort_name: Beyda
   slug: sam-beyda
+  category: unknown
 
 - name: Alexandra Beynon
   sort_name: Beynon
   slug: alexandra-beynon
   age: 36
   background: coder
+  category: wrecker
 
 - name: Riccardo Biasini
   sort_name: Biasini
   slug: riccardo-biasini
   age: 39
   background: executive
+  category: support
 
 - name: Jared Birchall
   sort_name: Birchall
   slug: jared-birchall
+  category: booster
 
 - name: Brian Bjelde
   sort_name: Bjelde
   slug: brian-bjelde
   age: 44
   background: executive
+  category: support
 
 - name: Akash Bobba
   sort_name: Bobba
   slug: akash-bobba
   age: 21
   background: coder
+  category: wrecker
 
 - name: Ashley Boizelle
   sort_name: Boizelle
   slug: ashley-boizelle
   background: lawyer
+  category: support
 
 - name: Emily Bryant
   sort_name: Bryant
   slug: emily-bryant
   age: 23
+  category: wrecker
 
 - name: James Burnham
   sort_name: Burnham
   slug: james-burnham
   age: 41
   background: lawyer
+  category: support
 
 - name: Nate Cavanaugh
   sort_name: Cavanaugh
   slug: nate-cavanaugh
   age: 28
   background: executive
+  category: wrecker
 
 - name: Miles Collins
   sort_name: Collins
   slug: miles-collins
+  category: wrecker
 
 - name: George Cooper
   sort_name: Cooper
   slug: george-cooper
+  category: unknown
 
 - name: Sam Corcos
   sort_name: Corcos
   slug: sam-corcos
   age: 36
   background: executive
+  category: wrecker
 
 - name: Edward Coristine
   sort_name: Coristine
   slug: edward-coristine
   age: 19
   background: coder
+  category: wrecker
 
 - name: Scott Coulter
   sort_name: Coulter
   slug: scott-coulter
   age: 40
   background: finance
+  category: wrecker
 
 - name: Steve Davis
   sort_name: Davis
   slug: steve-davis
   age: 45
   background: executive
+  category: leadership
 
 - name: Stephen Duarte
   sort_name: Duarte
   slug: stephen-duarte
   age: 32
   background: hr
+  category: support
 
 - name: Leland Dudek
   slug: leland-dudek
   sort_name: Dudek
   background: political
+  category: enabler
 
 - name: Stephen Ehikian
   sort_name: Ehikian
   slug: stephen-ehikian
   age: 43
   background: executive
+  category: enabler
 
 - name: Marko Elez
   sort_name: Elez
   slug: marko-elez
   age: 25
   background: coder
+  category: wrecker
 
 - name: Charles Ezell
   sort_name: Ezell
   slug: charles-ezell
   background: political
+  category: enabler
 
 - name: Luke Farritor
   sort_name: Farritor
   slug: luke-farritor
   age: 23
   background: coder
+  category: wrecker
 
 - name: Conor Fennessy
   sort_name: Fennessy
   slug: conor-fennessy
   age: 32
   background: finance
+  category: wrecker
 
 - name: Joshua Fox
   sort_name: Fox
   slug: joshua-fox
+  category: unknown
 
 - name: Justin Fulcher
   sort_name: Fulcher
   slug: justin-fulcher
   age: 32
   background: coder
+  category: wrecker
 
 - name: Mattieu Gamache-Asselin
   sort_name: Gamache-Asselin
   slug: mattieu-gamache
   age: 34
   background: coder
+  category: wrecker
 
 - name: Joe Gebbia
   sort_name: Gebbia
   slug: joe-gebbia
   age: 43
   background: executive
+  category: wrecker
 
 - name: Derek Geissler
   sort_name: Geissler
   slug: derek-geissler
+  category: unknown
 
 - name: Brady Glantz
   sort_name: Glantz
   slug: brady-glantz
   age: 27
   background: coder
+  category: wrecker
 
 - name: Mike Gonzalez
   sort_name: Gonzalez
-  slug: mike-gonzale
+  slug: mike-gonzalez
+  category: unknown
 
 - name: Antonio Gracias
   age: 54
   sort_name: Gracias
   slug: antonio-gracias
   background: finance
+  category: leadership
 
 - name: Michael Grimes
   sort_name: Grimes
   slug: michael-grimes
+  category: leadership
 
 - name: Gavin Hamrick
   sort_name: Hamrick
   slug: gavin-hamrick
   background: political
+  category: wrecker
 
 - name: Joshua Hanley
   age: 27
   sort_name: Hanley
   slug: joshua-hanley
   background: lawyer
+  category: support
 
 - name: Christina Hanna
   sort_name: Hanna
   slug: christina-hanna
   age: 39
   background: hr
+  category: support
 
 - name: Tyler Hassen
   sort_name: Hassen
   slug: tyler-hassen
   age: 42
   background: executive
+  category: enabler
 
 - name: Vinay Hiremath
   sort_name: Hiremath
   slug: vinay-hiremath
   background: executive
+  category: booster
 
 - name: Adam Hoffman
   sort_name: Hoffman
   slug: adam-hoffman
+  background: finance
+  category: wrecker
 
 - name: Greg Hogan
   sort_name: Hogan
   slug: greg-hogan
   age: 42
   background: coder
+  category: enabler
 
 - name: Nicole Hollander
   slug: nicole-hollander
   sort_name: Hollander
   age: 42
   background: executive
+  category: enabler
 
 - name: Stephanie Holmes
   sort_name: Holmes
   slug: stephanie-holmes
   age: 43
   background: hr
+  category: wrecker
 
 - name: Jared Isaacman
   sort_name: Isaacman
   slug: jared-isaacman
   background: executive
+  category: enabler
 
 - name: Kenneth Jackson
   sort_name: Jackson
   slug: kenneth-jackson
+  category: enabler
 
 - name: Anthony Jancso
   sort_name: Jancso
   slug: anthony-jancso
+  category: support
 
 - name: Raj Jegannathan
   sort_name: Jegannathan
   slug: raj-jegannathan
   background: executive
+  category: wrecker
 
 - name: Erica Jehling
   sort_name: Jehling
   slug: erica-jehling
   age: 40
   background: executive
+  category: enabler
 
 - name: Thomas Kiernan
   sort_name: Kiernan
   slug: thomas-kiernan
   age: 30
   background: coder
+  category: wrecker
 
 - name: Cole Killian
   sort_name: Killian
   slug: cole-killian
   age: 24
   background: coder
+  category: wrecker
 
 - name: Gavin Kliger
   sort_name: Kliger
   slug: gavin-kliger
   age: 25
   background: coder
+  category: wrecker
 
 - name: Keenan Kmiec
   sort_name: Kmiec
   slug: keenan-kmiec
   age: 45
   background: lawyer
+  category: support
 
 - name: Jon Koval
   sort_name: Koval
   slug: jon-koval
   age: 27
   background: finance
+  category: wrecker
 
 - name: Michael Kratsios
   sort_name: Kratsios
   slug: michael-kratsios
+  category: enabler
 
 - name: Tom Krause
   sort_name: Krause
   slug: tom-krause
   age: 47
   background: executive
+  category: enabler
 
 - name: Scott Kupor
   sort_name: Kupor
   slug: scott-kupor
   background: executive
+  category: enabler
 
 - name: Nicholas Lahera
   sort_name: Lahera
   slug: nicholas-lahera
+  category: unknown
 
 - name: Sahil Lavingia
   sort_name: Lavingia
   slug: shail-lavingia
   age: 32
   background: executive
+  category: wrecker
 
 - name: Scott Langmack
   sort_name: Langmack
   slug: scott-langmack
   age: 66
   background: executive
+  category: enabler
 
 - name: Jeremy Lewin
   sort_name: Lewin
   slug: jeremy-lewin
   age: 28
   background: lawyer
+  category: wrecker
 
 - name: Kendall Lindemann
   sort_name: Lindemann
   slug: kendall-lindemann
   age: 24
   background: executive
+  category: support
 
 - name: Kathryn Armstrong Loving
   sort_name: Loving
   slug: kathryn-loving
   age: 44
   background: coder
+  category: wrecker
 
 - name: Matt Luby
   sort_name: Luby
   slug: matt-luby
+  category: wrecker
 
 - name: Shaun Maguire
   sort_name: Maguire
   slug: shaun-maguire
   background: executive
+  category: booster
 
 - name: Tarak Makecha
   sort_name: Makecha
   slug: tarak-makecha
+  category: wrecker
 
 - name: Ted Malaska
   sort_name: Malaska
   slug: ted-malaska
   background: coder
+  category: wrecker
 
 - name: Dave Malcher
   sort_name: Malcher
   slug: dave-malcher
   background: coder
+  category: wrecker
 
 - name: Peter Marocco
   sort_name: Marocco
   slug: peter-marocco
+  category: enabler
 
 - name: Antoine McCord
   sort_name: McCord
   slug: antoine-mccord
+  category: enabler
 
 - name: Clark Minor
   sort_name: Minor
   slug: clark-minor
   age: 35
   background: coder
+  category: enabler
 
 - name: Katie Miller
   sort_name: Miller
   slug: katie-miller
   age: 33
   background: political
+  category: booster
 
 - name: Michael Mirski
   sort_name: Mirski
   slug: michael-mirski
   age: 32
   background: coder
+  category: wrecker
 
 - name: Eliezer Mishory
   sort_name: Mishory
   slug: eli-mishory
+  category: wrecker
 
 - name: Bryanne-Michelle Mlodzianowski
   sort_name: Mlodzianowski
   slug: mlodzianowski
   age: 40
   background: hr
+  category: support
 
 - name: Aram Moghaddassi
   sort_name: Moghaddassi
   slug: aram-mohghaddassi
   age: 26
   background: coder
+  category: wrecker
 
 - name: Justin Monroe
   sort_name: Monroe
   slug: justin-monroe
   age: 36
   background: coder
+  category: wrecker
 
 - name: Brooks Morgan
   sort_name: Morgan
   slug: brooks-morgan
   age: 39
   background: executive
+  category: wrecker
 
 - name: Todd Newnam
   sort_name: Newnam
   slug: todd-newnam
+  category: wrecker
 
 - name: Noah Peters
   sort_name: Peters
   slug: noah-peters
   age: 39
   background: lawyer
+  category: support
 
 - name: Nikhil Rajpal
   sort_name: Rajpal
   slug: nikhil-rajpal
   age: 30
   background: coder
+  category: wrecker
 
 - name: Adam Ramada
   sort_name: Ramada
   slug: adam-ramada
   age: 35
   background: finance
+  category: wrecker
 
 - name: Austin Raynor
   sort_name: Raynor
   slug: austin-raynor
   age: 36
   background: lawyer
+  category: support
 
 - name: Payton Rehling
   sort_name: Rehling
   slug: payton-rehling
   age: 27
   background: coder
+  category: wrecker
 
 - name: Ryan Riedel
   sort_name: Riedel
   slug: ryan-riedel
   age: 37
   background: coder
+  category: enabler
 
 - name: Rachel Riley
   sort_name: Riley
   slug: rachel-riley
   age: 33
   background: executive
+  category: wrecker
 
 - name: Christopher Roussos
   sort_name: Roussos
   slug: chris-roussos
   age: 60
   background: executive
+  category: unknown
 
 - name: Mike Russo
   sort_name: Russo
   slug: mike-russo
   age: 67
   background: executive
+  category: enabler
 
 - name: Amanda Scales
   sort_name: Scales
   slug: amanda-scales
   age: 34
   background: hr
+  category: enabler
 
 - name: Frank Schuler
   sort_name: Schuler
   slug: frank-schuler
+  category: support
 
 - name: Kyle Schutt
   sort_name: Schutt
   slug: kyle-schutt
   age: 37
   background: coder
+  category: wrecker
 
 - name: Riley Sennott
   sort_name: Sennott
   slug: riley-sennott
   background: coder
+  category: wrecker
 
 - name: Thomas Shedd
   sort_name: Shedd
   slug: thomas-shedd
   age: 28
   background: coder
+  category: enabler
 
 - name: Sam Smeal
   sort_name: Smeal
   slug: sam-smeal
   age: 29
   background: coder
+  category: wrecker
 
 - name: Bryton Shang
   sort_name: Shang
   slug: bryton-shang
   age: 33
   background: coder
+  category: enabler
 
 - name: Ethan Shaotran
   sort_name: Shaotran
   slug: ethan-shaotran
   age: 22
   background: coder
+  category: wrecker
 
 - name: Alexander Simonpour
   sort_name: Simonpour
   slug: alex-simonpour
   age: 28
   background: coder
+  category: wrecker
 
 - name: Brad Smith
   sort_name: Smith
   slug: brad-smith
   age: 42
   background: executive
+  category: enabler
 
 - name: Christopher Stanley
   sort_name: Stanley
   slug: christopher-stanley
   age: 33
   background: coder
+  category: wrecker
 
 - name: Mark Steffensen
   sort_name: Steffensen
   slug: mark-steffensen
   background: lawyer
+  category: enabler
 
 - name: Roland Shen
   sort_name: Shen
   slug: roland-shen
+  category: wrecker
 
 - name: Keith Sonderling
   sort_name: Sonderling
   slug: keith-sonderling
+  category: enabler
 
 - name: Branden Spikes
   sort_name: Spikes
   slug: branden-spikes
+  category: unknown
 
 - name: Christopher Sweet
   sort_name: Sweet
   slug: christopher-sweet
+  category: wrecker
 
 - name: Zach Terrell
   sort_name: Terrell
   slug: zach-terrell
+  category: wrecker
 
 - name: Katrine Trampe
   sort_name: Trampe
   age: 29
   background: finance
   slug: katrine-trampe
+  category: wrecker
 
 - name: Cary Volpert
   sort_name: Volpert
   slug: cary-volpert
   background: coder
+  category: wrecker
 
 - name: Jordan Wick
   sort_name: Wick
   slug: jordan-wick
   age: 28
   background: coder
+  category: wrecker
 
 - name: Linda Whitridge
   slug: linda-whitridge
   sort_name: Whitridge
+  category: wrecker
 
 - name: Joanna Wischer
   slug: joanna-wischer
   sort_name: Wischer
   background: political
+  category: wrecker
 
 - name: Ryan Wunderly
   sort_name: Wunderly
   slug: ryan-wunderly
   age: 26
   background: coder
+  category: wrecker
 
 - name: Chris Young
   sort_name: Young
   slug: chris-young
   age: 36
   background: political
+  category: enabler
 
 - name: Bridget Youngs
   slug: bridget-youngs
   sort_name: Youngs
+  category: unknown

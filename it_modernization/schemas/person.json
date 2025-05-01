@@ -25,9 +25,13 @@
         },
         "background": {
             "description": "What their background / specialization is",
-            "$ref": "valid_names.json#doge_types"
+            "$ref": "valid_names.json#doge_backgrounds"
+        },
+        "category": {
+            "description": "What kind of work they are doing for DOGE",
+            "$ref": "valid_names.json#doge_categories"
         }
     },
-    "required": ["name", "sort_name"],
+    "required": ["name", "sort_name", "category"],
     "additionalProperties": false
 }

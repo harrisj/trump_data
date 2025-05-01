@@ -130,8 +130,8 @@
             "Bridget Youngs"
         ]
     },
-    "doge_types": {
-        "description": "The types of DOGE people",
+    "doge_backgrounds": {
+        "description": "The backgrounds of DOGE people",
         "enum": [
             "coder",
             "executive",
@@ -139,6 +139,17 @@
             "finance",
             "hr",
             "political"
+        ]
+    },
+    "doge_categories": {
+        "description": "The categories of DOGE people",
+        "enum": [
+            "booster",
+            "leadership",
+            "enabler",
+            "support",
+            "wrecker",
+            "unknown"
         ]
     },
     "agency_ids": {

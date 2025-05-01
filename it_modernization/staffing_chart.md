@@ -76,6 +76,7 @@ gantt
         CMS : 2025-03-05, 2025-05-04
         HHS : 2025-03-05, 2025-05-04
         DHS : 2025-04-11, 2025-05-04
+        DOJ : 2025-04-21, 2025-05-04
     section Charles Ezell
         OPM : 2025-01-20, 2025-05-04
     section Luke Farritor
@@ -126,6 +127,8 @@ gantt
         OPM : 2025-02-12, 2025-05-04
     section Tyler Hassen
         DOI : 2025-01-28, 2025-05-04
+    section Adam Hoffman
+        DOJ : 2025-04-21, 2025-05-04
     section Greg Hogan
         OPM : 2025-01-20, 2025-05-04
     section Nicole Hollander
@@ -160,6 +163,7 @@ gantt
         SSA : 2025-02-24, 2025-05-04
         VA : 2025-03-25, 2025-05-04
         IRS : 2025-04-15, 2025-05-04
+        DOJ : 2025-04-21, 2025-05-04
     section Tom Krause
         Treasury : 2025-01-20, 2025-05-04
     section Scott Kupor
@@ -240,6 +244,7 @@ gantt
         VA : 2025-03-25, 2025-05-04
         DHS : 2025-04-11, 2025-05-04
         IRS : 2025-04-15, 2025-05-04
+        DOJ : 2025-04-21, 2025-05-04
     section Ryan Riedel
         Energy : 2025-02-07, 2025-03-07
     section Rachel Riley

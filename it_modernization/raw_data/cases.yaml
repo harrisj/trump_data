@@ -251,3 +251,12 @@
   date_filed: 2025-03-23
   link: https://www.courtlistener.com/docket/69776370/democracy-forward-foundation-v-office-of-management-and-budget/
   agency: [ DOGE, EOP ]
+
+- name: State of Maryland v. Corporation for National and Community Service (D.Md)
+  description: 25 states are suing the Trump Administration and DOGE about massive reductions in grants from the AmeriCorps program
+  case_no: 1:25-cv-01363
+  date_filed: 2025-04-30
+  link: https://www.courtlistener.com/docket/69978631/state-of-maryland-v-corporation-for-national-and-community-service/
+  agency:
+  - DOGE
+  - AmeriCorps

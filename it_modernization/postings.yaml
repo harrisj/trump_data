@@ -2,7 +2,7 @@
 meta:
   title: Postings
   version: 1.0.0
-  generated: 2025-04-30
+  generated: 2025-05-01
   note: For doge_base agencies, I set the doge_agency_last to be the end of the current week to demonstrate that DOGE presence
     is likely continued there if not documented
 
@@ -113,16 +113,6 @@ postings:
   doge_agency_first: 2025-02-06
   doge_agency_last: 2025-04-17
   doge_agency_last_adjusted: 2025-05-04
-
-- agency_id: CIA
-  name: Elon Musk
-  first_date: 2025-03-31
-  all_dates:
-  - 2025-03-31
-  last_date: 2025-03-31
-  agency_doge_base: false
-  doge_agency_first: 2025-03-31
-  doge_agency_last: 2025-03-31
 
 - agency_id: CISA
   name: Edward Coristine
@@ -427,9 +417,12 @@ postings:
   first_date: 2024-12-06
   all_dates:
   - 2024-12-06
-  - 2025-03-27
+  - 2025-01-30
+  - 2025-02-04
+  - 2025-03-12
   - 2025-03-28
-  last_date: 2025-03-28
+  - 2025-03-31
+  last_date: 2025-03-31
   agency_doge_base: true
   doge_agency_first: 2024-11-26
   doge_agency_last: 2025-04-20~
@@ -507,7 +500,6 @@ postings:
   - 2025-01-24
   - 2025-02-05
   - 2025-03-05
-  - 2025-03-27
   - 2025-03-28
   - 2025-04-13
   last_date: 2025-04-13
@@ -574,8 +566,7 @@ postings:
   all_dates:
   - 2025-01-12
   - 2025-01-24
-  - 2025-03-27
-  last_date: 2025-03-27
+  last_date: 2025-01-24
   agency_doge_base: true
   doge_agency_first: 2024-11-26
   doge_agency_last: 2025-04-20~
@@ -827,12 +818,11 @@ postings:
   doge_agency_last_adjusted: 2025-05-04
 
 - agency_id: DOGE
-  name: Jeremy Lewin
+  name: Adam Hoffman
   first_date: 2025-03-19
   all_dates:
   - 2025-03-19
-  - 2025-03-26
-  last_date: 2025-03-26
+  last_date: 2025-03-19
   agency_doge_base: true
   doge_agency_first: 2024-11-26
   doge_agency_last: 2025-04-20~
@@ -873,6 +863,17 @@ postings:
   doge_agency_last_adjusted: 2025-05-04
 
 - agency_id: DOGE
+  name: Jeremy Lewin
+  first_date: 2025-03-26
+  all_dates:
+  - 2025-03-26
+  last_date: 2025-03-26
+  agency_doge_base: true
+  doge_agency_first: 2024-11-26
+  doge_agency_last: 2025-04-20~
+  doge_agency_last_adjusted: 2025-05-04
+
+- agency_id: DOGE
   name: Keenan Kmiec
   first_date: 2025-03-26
   all_dates:
@@ -896,44 +897,10 @@ postings:
 
 - agency_id: DOGE
   name: Joe Gebbia
-  first_date: 2025-03-27
+  first_date: 2025-04-16
   all_dates:
-  - 2025-03-27
   - 2025-04-16
   last_date: 2025-04-16
-  agency_doge_base: true
-  doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20~
-  doge_agency_last_adjusted: 2025-05-04
-
-- agency_id: DOGE
-  name: Tom Krause
-  first_date: 2025-03-27
-  all_dates:
-  - 2025-03-27
-  last_date: 2025-03-27
-  agency_doge_base: true
-  doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20~
-  doge_agency_last_adjusted: 2025-05-04
-
-- agency_id: DOGE
-  name: Anthony Armstrong
-  first_date: 2025-03-27
-  all_dates:
-  - 2025-03-27
-  last_date: 2025-03-27
-  agency_doge_base: true
-  doge_agency_first: 2024-11-26
-  doge_agency_last: 2025-04-20~
-  doge_agency_last_adjusted: 2025-05-04
-
-- agency_id: DOGE
-  name: Aram Moghaddassi
-  first_date: 2025-03-27
-  all_dates:
-  - 2025-03-27
-  last_date: 2025-03-27
   agency_doge_base: true
   doge_agency_first: 2024-11-26
   doge_agency_last: 2025-04-20~
@@ -1025,7 +992,7 @@ postings:
   onboard_date: 2025-03-30~
   agency_doge_base: true
   doge_agency_first: 2025-03-30~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-21
   doge_agency_last_adjusted: 2025-05-04
 
 - agency_id: DOJ
@@ -1036,18 +1003,51 @@ postings:
   last_date: 2025-04-01
   agency_doge_base: true
   doge_agency_first: 2025-03-30~
-  doge_agency_last: 2025-04-03
+  doge_agency_last: 2025-04-21
   doge_agency_last_adjusted: 2025-05-04
 
-- agency_id: DOL
-  name: Elon Musk
-  first_date: 2025-02-04
+- agency_id: DOJ
+  name: Adam Hoffman
+  first_date: 2025-04-21
   all_dates:
-  - 2025-02-04
-  last_date: 2025-02-04
+  - 2025-04-21
+  last_date: 2025-04-21
   agency_doge_base: true
-  doge_agency_first: 2025-02-04
-  doge_agency_last: 2025-04-18
+  doge_agency_first: 2025-03-30~
+  doge_agency_last: 2025-04-21
+  doge_agency_last_adjusted: 2025-05-04
+
+- agency_id: DOJ
+  name: Payton Rehling
+  first_date: 2025-04-21
+  all_dates:
+  - 2025-04-21
+  last_date: 2025-04-21
+  agency_doge_base: true
+  doge_agency_first: 2025-03-30~
+  doge_agency_last: 2025-04-21
+  doge_agency_last_adjusted: 2025-05-04
+
+- agency_id: DOJ
+  name: Marko Elez
+  first_date: 2025-04-21
+  all_dates:
+  - 2025-04-21
+  last_date: 2025-04-21
+  agency_doge_base: true
+  doge_agency_first: 2025-03-30~
+  doge_agency_last: 2025-04-21
+  doge_agency_last_adjusted: 2025-05-04
+
+- agency_id: DOJ
+  name: Jon Koval
+  first_date: 2025-04-21
+  all_dates:
+  - 2025-04-21
+  last_date: 2025-04-21
+  agency_doge_base: true
+  doge_agency_first: 2025-03-30~
+  doge_agency_last: 2025-04-21
   doge_agency_last_adjusted: 2025-05-04
 
 - agency_id: DOL
@@ -1057,7 +1057,7 @@ postings:
   - 2025-02-13
   last_date: 2025-02-13
   agency_doge_base: true
-  doge_agency_first: 2025-02-04
+  doge_agency_first: 2025-02-13
   doge_agency_last: 2025-04-18
   doge_agency_last_adjusted: 2025-05-04
 
@@ -1068,7 +1068,7 @@ postings:
   - 2025-02-13
   last_date: 2025-02-13
   agency_doge_base: true
-  doge_agency_first: 2025-02-04
+  doge_agency_first: 2025-02-13
   doge_agency_last: 2025-04-18
   doge_agency_last_adjusted: 2025-05-04
 
@@ -1079,7 +1079,7 @@ postings:
   - 2025-02-13
   last_date: 2025-02-13
   agency_doge_base: true
-  doge_agency_first: 2025-02-04
+  doge_agency_first: 2025-02-13
   doge_agency_last: 2025-04-18
   doge_agency_last_adjusted: 2025-05-04
 
@@ -1090,7 +1090,7 @@ postings:
   - 2025-02-13
   last_date: 2025-02-13
   agency_doge_base: true
-  doge_agency_first: 2025-02-04
+  doge_agency_first: 2025-02-13
   doge_agency_last: 2025-04-18
   doge_agency_last_adjusted: 2025-05-04
 
@@ -1101,7 +1101,7 @@ postings:
   - 2025-02-13
   last_date: 2025-02-13
   agency_doge_base: true
-  doge_agency_first: 2025-02-04
+  doge_agency_first: 2025-02-13
   doge_agency_last: 2025-04-18
   doge_agency_last_adjusted: 2025-05-04
 
@@ -1117,7 +1117,7 @@ postings:
   - 2025-04-18
   last_date: 2025-04-18
   agency_doge_base: true
-  doge_agency_first: 2025-02-04
+  doge_agency_first: 2025-02-13
   doge_agency_last: 2025-04-18
   doge_agency_last_adjusted: 2025-05-04
 
@@ -1132,7 +1132,7 @@ postings:
   - 2025-04-18
   last_date: 2025-04-18
   agency_doge_base: true
-  doge_agency_first: 2025-02-04
+  doge_agency_first: 2025-02-13
   doge_agency_last: 2025-04-18
   doge_agency_last_adjusted: 2025-05-04
 
@@ -1147,7 +1147,7 @@ postings:
   - 2025-04-18
   last_date: 2025-04-18
   agency_doge_base: true
-  doge_agency_first: 2025-02-04
+  doge_agency_first: 2025-02-13
   doge_agency_last: 2025-04-18
   doge_agency_last_adjusted: 2025-05-04
 
@@ -1159,7 +1159,7 @@ postings:
   last_date: 2025-03-14
   onboard_date: 2025-03-14
   agency_doge_base: true
-  doge_agency_first: 2025-02-04
+  doge_agency_first: 2025-02-13
   doge_agency_last: 2025-04-18
   doge_agency_last_adjusted: 2025-05-04
 
@@ -1171,7 +1171,7 @@ postings:
   last_date: 2025-03-18
   onboard_date: 2025-03-18
   agency_doge_base: true
-  doge_agency_first: 2025-02-04
+  doge_agency_first: 2025-02-13
   doge_agency_last: 2025-04-18
   doge_agency_last_adjusted: 2025-05-04
 
@@ -1647,17 +1647,6 @@ postings:
   - 2025-03-20
   last_date: 2025-03-20
   onboard_date: 2025-01-24
-  agency_doge_base: true
-  doge_agency_first: 2025-01-20
-  doge_agency_last: 2025-04-24
-  doge_agency_last_adjusted: 2025-05-04
-
-- agency_id: GSA
-  name: Elon Musk
-  first_date: 2025-01-30
-  all_dates:
-  - 2025-01-30
-  last_date: 2025-01-30
   agency_doge_base: true
   doge_agency_first: 2025-01-20
   doge_agency_last: 2025-04-24
@@ -2277,16 +2266,6 @@ postings:
   doge_agency_first: 2025-02-05
   doge_agency_last: 2025-04-02
   doge_agency_last_adjusted: 2025-05-04
-
-- agency_id: NSA
-  name: Elon Musk
-  first_date: 2025-03-12
-  all_dates:
-  - 2025-03-12
-  last_date: 2025-03-12
-  agency_doge_base: false
-  doge_agency_first: 2025-03-12
-  doge_agency_last: 2025-03-12
 
 - agency_id: NSF
   name: Luke Farritor

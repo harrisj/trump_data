@@ -716,16 +716,18 @@
   id: Xe5Tvz6a
 
 - date: 2025-01-30
-  type: report
+  type: interagency
   event: Elon Musk reportedly visits GSA to meet with staff, several of whom are identified from appearances in the internal directory
   source: https://www.nextgov.com/people/2025/01/musk-visits-and-asserts-growing-influence-gsa/402628/
-  named:
-  - Elon Musk
-  - Steve Davis
-  - Nicole Hollander
-  - Thomas Shedd
-  - Stephen Ehikian
-  - Luke Farritor
+  interagency_doge_reps:
+    DOGE:
+    - Elon Musk
+    GSA:
+    - Steve Davis
+    - Nicole Hollander
+    - Thomas Shedd
+    - Stephen Ehikian
+    - Luke Farritor
   agency: GSA
   id: kSAAPBQJ
 
@@ -1038,10 +1040,11 @@
   source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
 
 - date: 2025-02-04
-  type: report
+  type: interagency
   event: One of AFGE's members who works in the headquarters of the Department received an instruction from Department leadership that Elon Musk and his DOGE team would be accessing Department of Labor headquarters beginning around 4 p.m. on February 5, 2025. This member and other employees were told by Department leadership that when Mr. Musk and his team visit, they are to do whatever they ask, not to push back, not to ask questions. They were told to provide access to any DOL system they requested access to and not to worry about any security protocols; just do it.
-  named:
-  - Elon Musk
+  interagency_doge_reps:
+    DOGE:
+    - Elon Musk
   source: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277150/gov.uscourts.dcd.277150.29.8_1.pdf
   case_no: 1:25-cv-00339
   agency: DOL
@@ -4314,10 +4317,11 @@
   id: jH38H7KC
 
 - date: 2025-03-12
-  type: report
+  type: interagency
   event: Elon Musk visits the NSA to meet with its top administrator, General Timothy Haugh
-  named:
-  - Elon Musk
+  interagency_doge_reps:
+    DOGE:
+    - Elon Musk
   source: https://www.wsj.com/politics/national-security/elon-musk-made-secret-visit-to-u-s-spy-agency-9b0b64e2?mod=hp_lead_pos5
   agency: NSA
   id: QZojvztE
@@ -4852,6 +4856,17 @@
   id: RANpejQL
   source_title: AFL-CIO v. Dep't of Labor (D.D.C.)
 
+- date: 2025-03-18
+  type: promotion
+  case_no: 8:25-cv-00462
+  event: In a sworn statement, Jeremy Lewin declares he has never been an employee of USDS or Elon Musk. He reports he has been the Deputy Administrator at USAID since March 18
+  named:
+  - Jeremy Lewin
+  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576293/gov.uscourts.mdd.576293.77.2.pdf
+  agency: USAID
+  id: bPH63xJM
+  source_title: J. Doe 1-26 v. Musk (D. Md)
+
 - date: 2025-03-19
   type: report
   event: In another sworn statement, Amy Gleason declares "every member of an agency's DOGE Team is an employee of the agency or a detailee to the agency." She does clarify that some are detailed from USDS but also claims they report to agency heads. She reports thar USDS has approximately 79 directly appointed employees and 10 employees detailed from other agencies.
@@ -4862,17 +4877,6 @@
   agency: DOGE
   id: j8dSpHp3
   source_title: Citizens For Responsibility and Ethics in Washington (CREW) vs. DOGE Service (D.D.C.)
-
-- date: 2025-03-19
-  type: report
-  case_no: 8:25-cv-00462
-  event: In a sworn statement, Jeremy Lewin declares he has never been an employee of USDS or Elon Musk but reports he was the DOGE team lead at USAID for a while
-  named:
-  - Jeremy Lewin
-  source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576293/gov.uscourts.mdd.576293.77.2.pdf
-  agency: DOGE
-  id: bPH63xJM
-  source_title: J. Doe 1-26 v. Musk (D. Md)
 
 - date: 2025-03-19
   type: report
@@ -4944,6 +4948,15 @@
   source: https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf
   agency: NLRB
   id: bw2Rw3Hj
+
+- date: 2025-03-19
+  type: report
+  event: DOGE has reportedly hired Adam Hoffman to work on national security related projects
+  source: https://news.bgov.com/bloomberg-government-news/musks-doge-hires-ken-griffin-staffer-for-national-security-work
+  named:
+  - Adam Hoffman
+  agency: DOGE
+  id: mZDXKZv5
 
 - date: 2025-03-20
   type: legal
@@ -5388,21 +5401,6 @@
   source_title: Citizens For Responsibility and Ethics in Washington (CREW) vs. DOGE Service (D.D.C.)
 
 - date: 2025-03-27
-  type: report
-  event: Elon Musk and 6 other DOGE staffers appear in a TV interview on FOX news with Brett Baier to defend DOGE. Among other things, they asserted nobody has gotten fired, 40% of calls to one Social Security office were fraud, federal judges were corrupt, the government should work like the Apple Store, and the target is 15% reduction in government spending. Amy Gleason did not appear.
-  named:
-  - Elon Musk
-  - Joe Gebbia
-  - Tom Krause
-  - Steve Davis
-  - Anthony Armstrong
-  - Aram Moghaddassi
-  - Brad Smith
-  source: https://www.nbcnews.com/politics/doge/elon-musks-doge-tries-put-new-faces-reclusive-federal-office-rcna198491
-  agency: DOGE
-  id: bUjbhfkE
-
-- date: 2025-03-27
   type: official
   event: HHS announces a large reorganization reducing HHS from 28 to 15 divisions and elimination 20,000 jobs (or 25% of total). The URL slug of the press release includes "DOGE" in it.
   source: https://www.hhs.gov/about/news/hhs-restructuring-doge.html
@@ -5752,10 +5750,11 @@
   id: QdDpAfxy
 
 - date: 2025-03-31
-  type: report
+  type: interagency
   event: Elon Musk visits the CIA at the invitation of its director, John Ratcliffe
-  named:
-  - Elon Musk
+  interagency_doge_reps:
+    DOGE:
+    - Elon Musk
   source: https://www.washingtonpost.com/national-security/2025/03/31/elon-musk-cia-doge/
   agency: CIA
   id: EvqS5mPP
@@ -6746,6 +6745,21 @@
   agency: FDA
   id: 34MikyKs
 
+- date: 2025-04-21
+  type: access_granted
+  access_type: unknown
+  access_systems:
+  - ECAS
+  source: https://www.washingtonpost.com/immigration/2025/04/21/doge-ecas-justice-immigration-courts-trump/
+  event: A team of roughly 6 DOGE staffers working at the Department of Justice are granted access to the ECAS system, which records sensitive information about immigration cases
+  named:
+  - Adam Hoffman
+  - Payton Rehling
+  - Marko Elez
+  - Jon Koval
+  agency: DOJ
+  id: 5CAR5KCo
+
 - date: 2025-04-22
   type: report
   event: Three DOGE staffers are now at the National Science Foundation reviewing grants. Luke Farritor has a "Budget, Finance, and Administration" clearance, which a source said allows him to view and modify the agency's funding opportunity system.
@@ -6796,6 +6810,13 @@
   source: https://www.rollingstone.com/politics/politics-features/trump-musk-doge-faa-nda-secret-project-lift-1235325667/
   agency: FAA
   id: kTuTZoGk
+
+- date: 2025-04-28
+  type: disruption
+  event: The head of a Peace Corps alumni group reports he had been told the agency is expecting large cuts in US staffing ordered by DOGE
+  source: https://www.nytimes.com/2025/04/28/us/politics/peace-corps-cuts-doge.html
+  agency: Peace
+  id: as2btrZU
 
 - date: 2025-04-28
   type: report
