@@ -1,5 +1,9 @@
 # IT Modernization
 
+**UPDATE 2025-05-01: I am working to move IT Modernization to a new repo so I can also use it to build out a static website and API, since not everybody loves looking at huge YAML files**
+
+-----------
+
 A manually updated YAML file that tracks the "IT modernization" efforts of the DOGE Team across various agencies. In the Executive Order establishing DOGE, they are given the following mandate:
 
 > The USDS Administrator shall commence a Software Modernization Initiative to improve the quality and efficiency of government-wide software, network infrastructure, and information technology (IT) systems. Among other things, the USDS Administrator shall work with Agency Heads to promote inter-operability between agency networks and systems, ensure data integrity, and facilitate responsible data collection and synchronization.
