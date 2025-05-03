@@ -2372,6 +2372,22 @@ postings:
   doge_agency_last_adjusted: 2025-05-04
 
 - agency_id: OPM
+  name: Riccardo Biasini
+  first_date: 2025-01-20
+  all_dates:
+  - 2025-01-20
+  - 2025-01-28
+  - 2025-01-31
+  - 2025-02-12
+  - 2025-02-25
+  last_date: 2025-02-25
+  onboard_date: 2025-01-20
+  agency_doge_base: true
+  doge_agency_first: 2025-01-16~
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-05-04
+
+- agency_id: OPM
   name: Akash Bobba
   first_date: 2025-01-20
   all_dates:
@@ -2400,16 +2416,41 @@ postings:
   doge_agency_last_adjusted: 2025-05-04
 
 - agency_id: OPM
-  name: Riccardo Biasini
+  name: Gavin Kliger
   first_date: 2025-01-20
   all_dates:
   - 2025-01-20
-  - 2025-01-28
-  - 2025-01-31
+  - 2025-02-02
   - 2025-02-12
-  - 2025-02-25
-  last_date: 2025-02-25
+  - 2025-02-18
+  last_date: 2025-02-18
   onboard_date: 2025-01-20
+  agency_doge_base: true
+  doge_agency_first: 2025-01-16~
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-05-04
+
+- agency_id: OPM
+  name: Nikhil Rajpal
+  first_date: 2025-01-24
+  all_dates:
+  - 2025-01-24
+  - 2025-02-12
+  last_date: 2025-02-12
+  onboard_date: 2025-01-24
+  agency_doge_base: true
+  doge_agency_first: 2025-01-16~
+  doge_agency_last: 2025-04-16
+  doge_agency_last_adjusted: 2025-05-04
+
+- agency_id: OPM
+  name: Austin Raynor
+  first_date: 2025-01-24
+  all_dates:
+  - 2025-01-24
+  - 2025-02-12
+  last_date: 2025-02-12
+  onboard_date: 2025-01-24
   agency_doge_base: true
   doge_agency_first: 2025-01-16~
   doge_agency_last: 2025-04-16
@@ -2433,18 +2474,6 @@ postings:
   first_date: 2025-01-28
   all_dates:
   - 2025-01-28
-  - 2025-02-12
-  last_date: 2025-02-12
-  agency_doge_base: true
-  doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-16
-  doge_agency_last_adjusted: 2025-05-04
-
-- agency_id: OPM
-  name: Gavin Kliger
-  first_date: 2025-02-02
-  all_dates:
-  - 2025-02-02
   - 2025-02-12
   last_date: 2025-02-12
   agency_doge_base: true
@@ -2521,28 +2550,6 @@ postings:
 
 - agency_id: OPM
   name: Jacob Altik
-  first_date: 2025-02-12
-  all_dates:
-  - 2025-02-12
-  last_date: 2025-02-12
-  agency_doge_base: true
-  doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-16
-  doge_agency_last_adjusted: 2025-05-04
-
-- agency_id: OPM
-  name: Austin Raynor
-  first_date: 2025-02-12
-  all_dates:
-  - 2025-02-12
-  last_date: 2025-02-12
-  agency_doge_base: true
-  doge_agency_first: 2025-01-16~
-  doge_agency_last: 2025-04-16
-  doge_agency_last_adjusted: 2025-05-04
-
-- agency_id: OPM
-  name: Nikhil Rajpal
   first_date: 2025-02-12
   all_dates:
   - 2025-02-12

@@ -307,8 +307,10 @@ events:
     - Treasury
     - OPM
   named:
+  - Riccardo Biasini
   - Akash Bobba
   mapped_aliases:
+    OPM-2: Riccardo Biasini
     OPM-3: Akash Bobba
 
 - date: 2025-01-20
@@ -414,6 +416,10 @@ events:
     - Education
     - Treasury
     - OPM
+  named:
+  - Gavin Kliger
+  mapped_aliases:
+    OPM-5: Gavin Kliger
 
 - date: 2025-01-20
   type: onboarded
@@ -644,6 +650,10 @@ events:
     - Education
     - Treasury
     - OPM
+  named:
+  - Nikhil Rajpal
+  mapped_aliases:
+    OPM-4: Nikhil Rajpal
 
 - date: 2025-01-24
   type: onboarded
@@ -667,6 +677,10 @@ events:
     - Education
     - Treasury
     - OPM
+  named:
+  - Austin Raynor
+  mapped_aliases:
+    OPM-6: Austin Raynor
 
 - date: 2025-01-24
   type: report
@@ -3377,6 +3391,10 @@ events:
   source: https://storage.courtlistener.com/recap/gov.uscourts.mdd.576070/gov.uscourts.mdd.576070.51.1.pdf
   agency: OPM
   id: MBEkaKjN
+  named:
+  - Gavin Kliger
+  mapped_aliases:
+    OPM-5: Gavin Kliger
 
 - date: 2025-02-18
   type: access_granted

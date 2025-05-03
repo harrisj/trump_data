@@ -1,12 +1,15 @@
 # yaml-language-server: $schema=../schemas/aliases-file.json
 - id: OPM-1
   agency: OPM
+  comment: Doesn't show up in any document releases, but must exist, right?
 
 - id: OPM-2
   agency: OPM
+  name: Riccardo Biasini
   evidence:
   - Onboarded on 2025-01-20 as a volunteer SGE
   - This is likely one of the other young DOGE crew like Jordan Wick or Luke Farritor, etc.
+  - PD Number 6A39741 in redacted documents matches one for Riccard Biasini in a FOIA release from OPM
 
 - id: OPM-3
   agency: OPM
@@ -14,26 +17,34 @@
   evidence:
   - This is the same person as ED-1 because there is a detail document that appears with two diff redacted names
   - Detail to SSA is signed on 2025-02-12
+  - PD number 6A39740 = one listed for Akash Bobba
   - See evidence that ED-1 is Akash Bobba
 
 - id: OPM-4
   agency: OPM
+  name: Nikhil Rajpal
   evidence:
   - Onboarded on 2025-01-24 as a volunteer SGE with the title Expert
+  - Only person onboarded as an expert on 2025-01-24
 
+  - 
 - id: OPM-5
   agency: OPM
+  name: Gavin Kliger
   evidence:
   - Onboarded on 2025-01-20 as a provisional appt not to exceed 2025-05-20
   - Senior Advisor to the Director for IT
+  - PD 6A38025 = matches for Gavin Kliger in a FOIA release
   - GS-15/10 with pay of $195,200
   - Converted to an excepted appointment on 2025-02-18
 
 - id: OPM-6
   agency: OPM
+  name: Austin Raynor
   evidence:
   - Onboarded on 2025-01-24 as a vounteer SGE with a term not to exceed 2025-07-22
   - This is likely one of the other young DOGE crew like Jordan Wick or Luke Farritor, etc.
+  - PD 6A39748 = Austin Raynor in another document
 
 - id: ED-1
   agency: Education

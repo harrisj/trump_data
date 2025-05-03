@@ -24,12 +24,14 @@ gantt
         Amanda Scales : 2025-01-20, 2025-05-04
         Brian Bjelde : 2025-01-20, 2025-05-04
         Greg Hogan : 2025-01-20, 2025-05-04
+        Riccardo Biasini : 2025-01-20, 2025-05-04
         Akash Bobba : 2025-01-20, 2025-05-04
         Charles Ezell : 2025-01-20, 2025-05-04
-        Riccardo Biasini : 2025-01-20, 2025-05-04
+        Gavin Kliger : 2025-01-20, 2025-05-04
+        Nikhil Rajpal : 2025-01-24, 2025-05-04
+        Austin Raynor : 2025-01-24, 2025-05-04
         Edward Coristine : 2025-01-28, 2025-05-04
         Joanna Wischer : 2025-01-28, 2025-05-04
-        Gavin Kliger : 2025-02-02, 2025-05-04
         Anthony Armstrong : 2025-02-12, 2025-05-04
         Stephanie Holmes : 2025-02-12, 2025-05-04
         Christina Hanna : 2025-02-12, 2025-05-04
@@ -37,8 +39,6 @@ gantt
         Bryanne-Michelle Mlodzianowski : 2025-02-12, 2025-05-04
         Justin Monroe : 2025-02-12, 2025-05-04
         Jacob Altik : 2025-02-12, 2025-05-04
-        Austin Raynor : 2025-02-12, 2025-05-04
-        Nikhil Rajpal : 2025-02-12, 2025-05-04
         Joe Gebbia : 2025-03-28, 2025-05-04
         Scott Kupor : 2025-04-03, 2025-05-04
     SECTION GSA

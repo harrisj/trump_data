@@ -255,6 +255,11 @@ people:
     - date: 2025-01-20
       agency: OPM
       type: onboarded
+      event: Redacted employee OPM-2, OPM-3 are hired as a Special Government Employee (SGE) volunteers with terms not to
+        exceed past 2025-07-18
+    - date: 2025-01-20
+      agency: OPM
+      type: onboarded
       event: According to his financial disclosure forms, Riccardo Biasini is appointed as a Senior Advisor to the Director
         at the OPM
     - date: 2025-01-28
@@ -1661,6 +1666,11 @@ people:
     - US Agency for International Development
     - Voice of America
     events:
+    - date: 2025-01-20
+      agency: OPM
+      type: onboarded
+      event: Unidentified employee OPM-5 is provisionally appointed as a Senior Advisor to the Director for Information Technology
+        (GS15-10) with a salary of $195,200 and a term not to exceed 2025-05-20
     - date: 2025-01-27
       agency: USAID
       type: report
@@ -1710,6 +1720,10 @@ people:
       type: report
       event: In a FOIA request, Democracy Forward names DOGE staff known to be at OPM at that time in their list of officials
         to FOIA communications for
+    - date: 2025-02-18
+      agency: OPM
+      type: promotion
+      event: Unidentified employee OPM-5's appointment is changed to not being provisional
     - date: 2025-02-19
       agency: IRS
       type: official
@@ -2160,6 +2174,10 @@ people:
       type: report
       event: DOGE staff start screening all current USDS staff with short interviews, asking them their views of DOGE and
         who were underperformers who should be fired.
+    - date: 2025-01-24
+      agency: OPM
+      type: onboarded
+      event: Unidentified employee OPM-4 signs an agreement to work as an unpaid expert/consultant to the OPM
     - date: 2025-02-05
       agency: NOAA
       type: access_granted
@@ -2643,6 +2661,10 @@ people:
     - Executive Office of the President
     - Office of Personnel Management
     events:
+    - date: 2025-01-24
+      agency: OPM
+      type: onboarded
+      event: Unidentified employee OPM-6 is onboarded as a volunteer SGE with a term not to exceed 2025-07-22
     - date: 2025-02-12
       agency: OPM
       type: report

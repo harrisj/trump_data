@@ -9,7 +9,7 @@
   description: Exc Appt NTE
   appt_type_code: 48
   appt_type: Other (Except NonPerm)
-  pd_code: 6A397540
+  pd_code: 6A39740
   title: Expert
   pay_grade: ED-00
   series: "0301"
@@ -261,7 +261,7 @@
   comment: FOIA response to Jason Leopold
 
 - id: opm-austin-raynor
-  name: Austin-Raynor
+  name: Austin Raynor
   agency: OPM
   start_date: 2025-01-30
   nte_date:
