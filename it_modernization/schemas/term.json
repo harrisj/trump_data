@@ -1,0 +1,91 @@
+{
+  "$id": "schemas/term",
+  "type": "object",
+  "title": "Term of Employment",
+  "description": "Information about a specific hiring appointment for a DOGE staffer",
+  "properties": {
+    "id": {
+      "description": "A unique ID for the employment term record",
+      "type": "string"
+    },
+    "name": {
+      "description": "The name of the person being hired",
+      "$ref": "valid_names.json#people"
+    },
+    "agency": {
+      "description": "The agency where the term of employment is",
+      "$ref": "valid_names.json#agency_ids"
+    },
+    "start_date": {
+      "description": "When the term of employment started (might be approximate)",
+      "type": "string"
+    },
+    "end_date": {
+      "description": "When the term of employment ended (if a person has left the specific role through departure, promotion or reassignment)",
+      "type": "string"
+    },
+    "nte_date": {
+      "description": "If the NTE date for the appointment is known, it will be recorded here",
+      "type": "string"
+    },
+    "description": {
+      "description": "The position description",
+      "type": "string"
+    },
+    "appt_type_code": {
+      "description": "A numeric code for the type of appointment",
+      "type": "integer"
+    },
+    "appt_type": {
+      "description": "A string description of the appointment type",
+      "type": "string"
+    },
+    "pay_grade": {
+      "description": "A string description of the pay scale and grade (eg, GS-15)",
+      "type": "string"
+    },
+    "pd_code": {
+      "description": "The position description identifier for this specific position",
+      "type": "string"
+    },
+    "title": {
+      "description": "The title for the position",
+      "type": "string"
+    },
+    "series": {
+      "description": "The series for the position",
+      "type": "string"
+    },
+    "supervisory": {
+      "description": "Boolean to indicate if the position is supervisory",
+      "type": "boolean"
+    },
+    "office": {
+      "description": "The office where the position will report to",
+      "type": "string"
+    },
+    "source_precision": {
+      "description": "How precise I feel this record is based on the sourcing",
+      "enum": [
+        "low",
+        "medium",
+        "high"
+      ]
+    },
+    "sources": {
+      "description": "A collection of sources",
+      "type": "string"
+    },
+    "comment": {
+      "description": "For free-form comments on the record",
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "name",
+    "agency",
+    "source_precision"
+  ],
+  "additionalProperties": false
+}

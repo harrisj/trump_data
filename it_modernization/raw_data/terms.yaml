@@ -1,0 +1,381 @@
+# yaml-language-server: $schema=../schemas/terms-file.json
+# To represent appointments of people to various positions
+- id: akash-bobba-opm
+  name: Akash Bobba
+  agency: OPM
+  start_date: 2025-01-20
+  nte_date:
+  end_date:
+  description: Exc Appt NTE
+  appt_type_code: 48
+  appt_type: Other (Except NonPerm)
+  pd_code: 6A397540
+  title: Expert
+  pay_grade: ED-00
+  series: "0301"
+  supervisory: false
+  office: Office of the Director
+  source_precision: high
+  sources:
+  - https://www.bloomberg.com/news/newsletters/2025-05-02/here-are-the-job-titles-and-salary-ranges-of-some-doge-staffers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc0NjE5ODU4MywiZXhwIjoxNzQ2ODAzMzgzLCJhcnRpY2xlSWQiOiJTVk4xTU5UMEFGQjQwMCIsImJjb25uZWN0SWQiOiIyQjE3NzFFOTlEODc0QzRDOTY1Njg1RTZBQkJGM0QwRCJ9.RrUJ2FTuZ6CU23loflotaFlRBPRLxsw0S6piuEYuX0I
+  comment: FOIA response to Jason Leopold
+
+- id: joanna-miller-opm
+  name: Joanna Miller
+  agency: OPM
+  start_date: 2025-01-20
+  nte_date:
+  end_date:
+  description: Exc Appt NTE
+  appt_type_code: 44
+  appt_type: Schedule C (Except NonPerm)
+  pd_code: 6A36647
+  title: Senior Advisor to the Director
+  pay_grade: GS-15
+  series: "0301"
+  supervisory: false
+  office: Office of the Director
+  source_precision: medium
+  sources:
+  - https://www.bloomberg.com/news/newsletters/2025-05-02/here-are-the-job-titles-and-salary-ranges-of-some-doge-staffers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc0NjE5ODU4MywiZXhwIjoxNzQ2ODAzMzgzLCJhcnRpY2xlSWQiOiJTVk4xTU5UMEFGQjQwMCIsImJjb25uZWN0SWQiOiIyQjE3NzFFOTlEODc0QzRDOTY1Njg1RTZBQkJGM0QwRCJ9.RrUJ2FTuZ6CU23loflotaFlRBPRLxsw0S6piuEYuX0I
+  comment: FOIA response to Jason Leopold; not sure if this is a DOGE person or not
+
+- id: noah-peters-opm
+  name: Noah Peters
+  agency: OPM
+  start_date: 2025-01-20
+  nte_date:
+  end_date:
+  description: Exc Appt NTE
+  appt_type_code: 44
+  appt_type: Schedule C (Except NonPerm)
+  pd_code: 6A38859
+  title: Senior Advisor
+  pay_grade: GS-15
+  series: "0301"
+  supervisory: false
+  office: Office of the Director
+  source_precision: high
+  sources:
+  - https://www.bloomberg.com/news/newsletters/2025-05-02/here-are-the-job-titles-and-salary-ranges-of-some-doge-staffers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc0NjE5ODU4MywiZXhwIjoxNzQ2ODAzMzgzLCJhcnRpY2xlSWQiOiJTVk4xTU5UMEFGQjQwMCIsImJjb25uZWN0SWQiOiIyQjE3NzFFOTlEODc0QzRDOTY1Njg1RTZBQkJGM0QwRCJ9.RrUJ2FTuZ6CU23loflotaFlRBPRLxsw0S6piuEYuX0I
+  comment: FOIA response to Jason Leopold
+
+- id: gavin-kliger-opm
+  name: Gavin Kliger
+  agency: OPM
+  start_date: 2025-01-20
+  nte_date:
+  end_date:
+  description: Exc Appt NTE
+  appt_type_code: 44
+  appt_type: Schedule C (Except NonPerm)
+  pd_code: 6A38025
+  title: Senior Advisor to the Director for Information Technology
+  pay_grade: GS-15
+  series: "0301"
+  supervisory: true
+  office: Office of the Director
+  source_precision: high
+  sources:
+  - https://www.bloomberg.com/news/newsletters/2025-05-02/here-are-the-job-titles-and-salary-ranges-of-some-doge-staffers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc0NjE5ODU4MywiZXhwIjoxNzQ2ODAzMzgzLCJhcnRpY2xlSWQiOiJTVk4xTU5UMEFGQjQwMCIsImJjb25uZWN0SWQiOiIyQjE3NzFFOTlEODc0QzRDOTY1Njg1RTZBQkJGM0QwRCJ9.RrUJ2FTuZ6CU23loflotaFlRBPRLxsw0S6piuEYuX0I
+  comment: FOIA response to Jason Leopold
+
+- id: amanda-scales-opm
+  name: Amanda Scales
+  agency: OPM
+  start_date: 2025-01-20
+  nte_date:
+  end_date:
+  description: SES Noncareer Appt
+  appt_type_code: 55
+  appt_type: 55-Noncareer (Senior Exec Perm)
+  pd_code: GAPMES00905
+  title: Chief of Staff
+  pay_grade: ES-00
+  series: "0301"
+  supervisory: true
+  office: Office of the Director
+  source_precision: high
+  sources:
+  - https://www.bloomberg.com/news/newsletters/2025-05-02/here-are-the-job-titles-and-salary-ranges-of-some-doge-staffers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc0NjE5ODU4MywiZXhwIjoxNzQ2ODAzMzgzLCJhcnRpY2xlSWQiOiJTVk4xTU5UMEFGQjQwMCIsImJjb25uZWN0SWQiOiIyQjE3NzFFOTlEODc0QzRDOTY1Njg1RTZBQkJGM0QwRCJ9.RrUJ2FTuZ6CU23loflotaFlRBPRLxsw0S6piuEYuX0I
+  comment: FOIA response to Jason Leopold
+
+- id: greg-hogan-opm
+  name: Greg Hogan
+  agency: OPM
+  start_date: 2025-01-20
+  nte_date:
+  end_date:
+  description: SES Noncareer Appt
+  appt_type_code: 55
+  appt_type: 55-Noncareer (Senior Exec Perm)
+  pd_code: 6A38081
+  title: Senior Advisor to the Director for Technology and De...
+  pay_grade: ES-00
+  series: "0301"
+  supervisory: true
+  office: Office of the Director
+  source_precision: high
+  sources:
+  - https://www.bloomberg.com/news/newsletters/2025-05-02/here-are-the-job-titles-and-salary-ranges-of-some-doge-staffers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc0NjE5ODU4MywiZXhwIjoxNzQ2ODAzMzgzLCJhcnRpY2xlSWQiOiJTVk4xTU5UMEFGQjQwMCIsImJjb25uZWN0SWQiOiIyQjE3NzFFOTlEODc0QzRDOTY1Njg1RTZBQkJGM0QwRCJ9.RrUJ2FTuZ6CU23loflotaFlRBPRLxsw0S6piuEYuX0I
+  comment: FOIA response to Jason Leopold
+
+- id: opm-anthony-armstrong
+  name: Anthony Armstrong
+  agency: OPM
+  start_date: 2025-01-20
+  nte_date:
+  end_date:
+  description: Exc Appt NTE
+  appt_type_code: 48
+  appt_type: Other (Except NonPerm)
+  pd_code: 6A39742
+  title: Expert
+  pay_grade: ED-00
+  series: "0301"
+  supervisory: false
+  office: Office of the Director
+  source_precision: high
+  sources:
+  - https://www.bloomberg.com/news/newsletters/2025-05-02/here-are-the-job-titles-and-salary-ranges-of-some-doge-staffers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc0NjE5ODU4MywiZXhwIjoxNzQ2ODAzMzgzLCJhcnRpY2xlSWQiOiJTVk4xTU5UMEFGQjQwMCIsImJjb25uZWN0SWQiOiIyQjE3NzFFOTlEODc0QzRDOTY1Njg1RTZBQkJGM0QwRCJ9.RrUJ2FTuZ6CU23loflotaFlRBPRLxsw0S6piuEYuX0I
+  comment: FOIA response to Jason Leopold
+
+- id: opm-riccardo-biasini
+  name: Riccardo Biasini
+  agency: OPM
+  start_date: 2025-01-20
+  nte_date:
+  end_date:
+  description: Exc Appt NTE
+  appt_type_code: 48
+  appt_type: Other (Except NonPerm)
+  pd_code: 6A39741
+  title: Expert
+  pay_grade: ED-00
+  series: "0301"
+  supervisory: false
+  office: Office of the Director
+  source_precision: high
+  sources:
+  - https://www.bloomberg.com/news/newsletters/2025-05-02/here-are-the-job-titles-and-salary-ranges-of-some-doge-staffers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc0NjE5ODU4MywiZXhwIjoxNzQ2ODAzMzgzLCJhcnRpY2xlSWQiOiJTVk4xTU5UMEFGQjQwMCIsImJjb25uZWN0SWQiOiIyQjE3NzFFOTlEODc0QzRDOTY1Njg1RTZBQkJGM0QwRCJ9.RrUJ2FTuZ6CU23loflotaFlRBPRLxsw0S6piuEYuX0I
+  comment: FOIA response to Jason Leopold
+
+- id: opm-brian-bjelde
+  name: Brian Bjelde
+  agency: OPM
+  start_date: 2025-01-20
+  nte_date:
+  end_date:
+  description: Exc Appt NTE
+  appt_type_code: 48
+  appt_type: Other (Except NonPerm)
+  pd_code: 6A39743
+  title: Expert
+  pay_grade: ED-00
+  series: "0301"
+  supervisory: false
+  office: Office of the Director
+  source_precision: high
+  sources:
+  - https://www.bloomberg.com/news/newsletters/2025-05-02/here-are-the-job-titles-and-salary-ranges-of-some-doge-staffers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc0NjE5ODU4MywiZXhwIjoxNzQ2ODAzMzgzLCJhcnRpY2xlSWQiOiJTVk4xTU5UMEFGQjQwMCIsImJjb25uZWN0SWQiOiIyQjE3NzFFOTlEODc0QzRDOTY1Njg1RTZBQkJGM0QwRCJ9.RrUJ2FTuZ6CU23loflotaFlRBPRLxsw0S6piuEYuX0I
+  comment: FOIA response to Jason Leopold
+
+- id: opm-nikhil-rajpal
+  name: Nikhil Rajpal
+  agency: OPM
+  start_date: 2025-01-24
+  nte_date:
+  end_date:
+  description: Exc Appt NTE
+  appt_type_code: 48
+  appt_type: Other (Except NonPerm)
+  pd_code: 6A39738
+  title: Expert
+  pay_grade: ED-00
+  series: "0301"
+  supervisory: false
+  office: Office of the Director
+  source_precision: high
+  sources:
+  - https://www.bloomberg.com/news/newsletters/2025-05-02/here-are-the-job-titles-and-salary-ranges-of-some-doge-staffers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc0NjE5ODU4MywiZXhwIjoxNzQ2ODAzMzgzLCJhcnRpY2xlSWQiOiJTVk4xTU5UMEFGQjQwMCIsImJjb25uZWN0SWQiOiIyQjE3NzFFOTlEODc0QzRDOTY1Njg1RTZBQkJGM0QwRCJ9.RrUJ2FTuZ6CU23loflotaFlRBPRLxsw0S6piuEYuX0I
+  comment: FOIA response to Jason Leopold
+
+- id: opm-jacob-altik
+  name: Jacob Altik
+  agency: OPM
+  start_date: 2025-01-24
+  nte_date:
+  end_date:
+  description: Provisional Appt NTE
+  appt_type_code: 44
+  appt_type: Schedule C (Except NonPerm)
+  pd_code: PMGS31263
+  title: Senior Advisor to the Director
+  pay_grade: GS-15
+  series: "0301"
+  supervisory: false
+  office: Office of the Director
+  source_precision: high
+  sources:
+  - https://www.bloomberg.com/news/newsletters/2025-05-02/here-are-the-job-titles-and-salary-ranges-of-some-doge-staffers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc0NjE5ODU4MywiZXhwIjoxNzQ2ODAzMzgzLCJhcnRpY2xlSWQiOiJTVk4xTU5UMEFGQjQwMCIsImJjb25uZWN0SWQiOiIyQjE3NzFFOTlEODc0QzRDOTY1Njg1RTZBQkJGM0QwRCJ9.RrUJ2FTuZ6CU23loflotaFlRBPRLxsw0S6piuEYuX0I
+  comment: FOIA response to Jason Leopold
+
+- id: opm-justin-monroe
+  name: Justin Monroe
+  agency: OPM
+  start_date: 2025-01-28
+  nte_date:
+  end_date:
+  description: Exc Appt NTE
+  appt_type_code: 48
+  appt_type: Other (Except NonPerm)
+  pd_code: 6A39734
+  title: Expert
+  pay_grade: ED-00
+  series: "0301"
+  supervisory: false
+  office: Office of the Director
+  source_precision: high
+  sources:
+  - https://www.bloomberg.com/news/newsletters/2025-05-02/here-are-the-job-titles-and-salary-ranges-of-some-doge-staffers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc0NjE5ODU4MywiZXhwIjoxNzQ2ODAzMzgzLCJhcnRpY2xlSWQiOiJTVk4xTU5UMEFGQjQwMCIsImJjb25uZWN0SWQiOiIyQjE3NzFFOTlEODc0QzRDOTY1Njg1RTZBQkJGM0QwRCJ9.RrUJ2FTuZ6CU23loflotaFlRBPRLxsw0S6piuEYuX0I
+  comment: FOIA response to Jason Leopold
+
+- id: opm-christopher-stanley
+  name: Christopher Stanley
+  agency: OPM
+  start_date: 2025-01-28
+  nte_date:
+  end_date:
+  description: Exc Appt NTE
+  appt_type_code: 48
+  appt_type: Other (Except NonPerm)
+  pd_code: 6A39736
+  title: Expert
+  pay_grade: ED-00
+  series: "0301"
+  supervisory: false
+  office: Office of the Director
+  source_precision: high
+  sources:
+  - https://www.bloomberg.com/news/newsletters/2025-05-02/here-are-the-job-titles-and-salary-ranges-of-some-doge-staffers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc0NjE5ODU4MywiZXhwIjoxNzQ2ODAzMzgzLCJhcnRpY2xlSWQiOiJTVk4xTU5UMEFGQjQwMCIsImJjb25uZWN0SWQiOiIyQjE3NzFFOTlEODc0QzRDOTY1Njg1RTZBQkJGM0QwRCJ9.RrUJ2FTuZ6CU23loflotaFlRBPRLxsw0S6piuEYuX0I
+  comment: FOIA response to Jason Leopold
+
+- id: opm-austin-raynor
+  name: Austin-Raynor
+  agency: OPM
+  start_date: 2025-01-30
+  nte_date:
+  end_date:
+  description: Provisional Appt NTE
+  appt_type_code: 48
+  appt_type: Other (Except NonPerm)
+  pd_code: 6A39748
+  title: Senior Advisor
+  pay_grade: GS-15
+  series: "0301"
+  supervisory: false
+  office: Office of the Director
+  source_precision: high
+  sources:
+  - https://www.bloomberg.com/news/newsletters/2025-05-02/here-are-the-job-titles-and-salary-ranges-of-some-doge-staffers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc0NjE5ODU4MywiZXhwIjoxNzQ2ODAzMzgzLCJhcnRpY2xlSWQiOiJTVk4xTU5UMEFGQjQwMCIsImJjb25uZWN0SWQiOiIyQjE3NzFFOTlEODc0QzRDOTY1Njg1RTZBQkJGM0QwRCJ9.RrUJ2FTuZ6CU23loflotaFlRBPRLxsw0S6piuEYuX0I
+  comment: FOIA response to Jason Leopold
+
+- id: opm-chris-young
+  name: Chris Young
+  agency: OPM
+  start_date: 2025-01-30
+  nte_date:
+  end_date:
+  description: Exc Appt NTE
+  appt_type_code: 48
+  appt_type: Other (Except NonPerm)
+  pd_code: 6A39737
+  title: Expert
+  pay_grade: ED-00
+  series: "0301"
+  supervisory: false
+  office: Office of the Director
+  source_precision: high
+  sources:
+  - https://www.bloomberg.com/news/newsletters/2025-05-02/here-are-the-job-titles-and-salary-ranges-of-some-doge-staffers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc0NjE5ODU4MywiZXhwIjoxNzQ2ODAzMzgzLCJhcnRpY2xlSWQiOiJTVk4xTU5UMEFGQjQwMCIsImJjb25uZWN0SWQiOiIyQjE3NzFFOTlEODc0QzRDOTY1Njg1RTZBQkJGM0QwRCJ9.RrUJ2FTuZ6CU23loflotaFlRBPRLxsw0S6piuEYuX0I
+  comment: FOIA response to Jason Leopold
+
+- id: opm-stephen-duarte
+  name: Stephen Duarte
+  agency: OPM
+  start_date: 2025-02-03
+  nte_date:
+  end_date:
+  description: Exc Appt NTE
+  appt_type_code: 48
+  appt_type: Other (Except NonPerm)
+  pd_code: 6A39749
+  title: Expert
+  pay_grade: ED-00
+  series: "0301"
+  supervisory: false
+  office: Office of the Director
+  source_precision: high
+  sources:
+  - https://www.bloomberg.com/news/newsletters/2025-05-02/here-are-the-job-titles-and-salary-ranges-of-some-doge-staffers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc0NjE5ODU4MywiZXhwIjoxNzQ2ODAzMzgzLCJhcnRpY2xlSWQiOiJTVk4xTU5UMEFGQjQwMCIsImJjb25uZWN0SWQiOiIyQjE3NzFFOTlEODc0QzRDOTY1Njg1RTZBQkJGM0QwRCJ9.RrUJ2FTuZ6CU23loflotaFlRBPRLxsw0S6piuEYuX0I
+  comment: FOIA response to Jason Leopold
+
+- id: opm-christina-hanna
+  name: Christina Hanna
+  agency: OPM
+  start_date: 2025-02-03
+  nte_date:
+  end_date:
+  description: Exc Appt NTE
+  appt_type_code: 48
+  appt_type: Other (Except NonPerm)
+  pd_code: 6A39735
+  title: Expert
+  pay_grade: ED-00
+  series: "0301"
+  supervisory: false
+  office: Office of the Director
+  source_precision: high
+  sources:
+  - https://www.bloomberg.com/news/newsletters/2025-05-02/here-are-the-job-titles-and-salary-ranges-of-some-doge-staffers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc0NjE5ODU4MywiZXhwIjoxNzQ2ODAzMzgzLCJhcnRpY2xlSWQiOiJTVk4xTU5UMEFGQjQwMCIsImJjb25uZWN0SWQiOiIyQjE3NzFFOTlEODc0QzRDOTY1Njg1RTZBQkJGM0QwRCJ9.RrUJ2FTuZ6CU23loflotaFlRBPRLxsw0S6piuEYuX0I
+  comment: FOIA response to Jason Leopold
+
+- id: opm-bryanne-mlodzianowski
+  name: Bryanne-Michelle Mlodzianowski
+  agency: OPM
+  start_date: 2025-02-03
+  nte_date:
+  end_date:
+  description: Exc Appt NTE
+  appt_type_code: 48
+  appt_type: Other (Except NonPerm)
+  pd_code: 6A39750
+  title: Expert
+  pay_grade: ED-00
+  series: "0301"
+  supervisory: false
+  office: Office of the Director
+  source_precision: high
+  sources:
+  - https://www.bloomberg.com/news/newsletters/2025-05-02/here-are-the-job-titles-and-salary-ranges-of-some-doge-staffers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc0NjE5ODU4MywiZXhwIjoxNzQ2ODAzMzgzLCJhcnRpY2xlSWQiOiJTVk4xTU5UMEFGQjQwMCIsImJjb25uZWN0SWQiOiIyQjE3NzFFOTlEODc0QzRDOTY1Njg1RTZBQkJGM0QwRCJ9.RrUJ2FTuZ6CU23loflotaFlRBPRLxsw0S6piuEYuX0I
+  comment: FOIA response to Jason Leopold
+
+- id: opm-joe-gebbia
+  name: Joe Gebbia
+  agency: OPM
+  start_date: 2025-02-18
+  nte_date:
+  end_date:
+  description: Exc Appt NTE
+  appt_type_code: 48
+  appt_type: Other (Except NonPerm)
+  pd_code: 6A39752
+  title: Expert
+  pay_grade: ED-00
+  series: "0301"
+  supervisory: false
+  office: Office of the Director
+  source_precision: high
+  sources:
+  - https://www.bloomberg.com/news/newsletters/2025-05-02/here-are-the-job-titles-and-salary-ranges-of-some-doge-staffers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc0NjE5ODU4MywiZXhwIjoxNzQ2ODAzMzgzLCJhcnRpY2xlSWQiOiJTVk4xTU5UMEFGQjQwMCIsImJjb25uZWN0SWQiOiIyQjE3NzFFOTlEODc0QzRDOTY1Njg1RTZBQkJGM0QwRCJ9.RrUJ2FTuZ6CU23loflotaFlRBPRLxsw0S6piuEYuX0I
+  comment: FOIA response to Jason Leopold

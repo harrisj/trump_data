@@ -1,0 +1,7 @@
+{
+  "type": "array",
+  "description": "A list of known employment terms for DOGE staff at various agencies",
+  "items": {
+    "$ref": "term.json"
+  }
+}
