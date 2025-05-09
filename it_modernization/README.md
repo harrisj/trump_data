@@ -1,6 +1,6 @@
 # IT Modernization
 
-**UPDATE 2025-05-01: I am working to move IT Modernization to a new repo so I can also use it to build out a static website and API, since not everybody loves looking at huge YAML files**
+**UPDATE 2025-05-09: I have moved development and data over to a new repo to simplify the changes: [https://github.com/harrisj/doge_track](https://github.com/harrisj/doge_track)**
 
 -----------
 
@@ -207,7 +207,7 @@ First, there are some general event fields you will always see:
 
 No. I am mainly just trying to track who is at each agency, the types of systems they might be accessing (mentioned in news coverage as well as the general notion they are looking at HR/Contracting/Procurement systems) and a timeline of events for their action. Other news organizations like ProPublica and Wired already have excellent resources on who these people are and where they have come from.
 
-## I See an Error!
+## I See an Error
 
 Great, please go to the [Issues](https://github.com/harrisj/trump_data/issues) tab and let me know. I especially want to know if:
 

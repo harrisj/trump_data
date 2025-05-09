@@ -1,5 +1,7 @@
 # Trump Data
 
+**UPDATE 2025-05-09: I have shifted my work primarily to focus on the DOGE crew. Data is now hosted on [doge_track](https://github.com/harrisj/doge_track)**
+
 This is a repository for collecting various specific datasets that track some
 indicator of how America is being affected by Trump's second presidency. Some of
 these might just be simple hand-edited CSVs, while for others might be scraped.
@@ -28,5 +30,3 @@ I am not a media organization. I am not a reporter. I am doing my best here, but
 - [Layoffs.fyi](https://layoffs.fyi/)
 - [Spotlight on Doge](https://www.spotlightondoge.com/)
 - [Trump Overseas Real-Estate Deals](https://www.citizensforethics.org/reports-investigations/crew-reports/trump-foreign-development-tracker/)
-
-
