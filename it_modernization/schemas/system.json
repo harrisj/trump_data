@@ -1,5 +1,5 @@
 {
-    "$id": "schemas/event",
+    "$id": "schemas/system",
     "type": "object",
     "title": "System",
     "description": "Information about a specific syatem accessed by DOGE staff",
